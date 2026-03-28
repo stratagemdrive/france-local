@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-03-28T16:00:15.152827+00:00",
+  "last_updated": "2026-03-28T23:58:49.961986+00:00",
   "story_count": 78,
   "stories": [
+    {
+      "title": "Football fever comes to New York with unveiling of France's World Cup jersey",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260328-football-fever-comes-to-new-york-with-unveiling-of-france-s-world-cup-jersey",
+      "published_date": "2026-03-28T18:35:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France unveils aid to shield key sectors from soaring fuel prices",
       "source": "France 24",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Return hubs' for undocumented migrants clear EU parliament hurdle",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260326-return-hubs-for-irregular-migrants-clear-eu-parliament-hurdle",
-      "published_date": "2026-03-26T10:42:22+00:00",
-      "category": "Diplomacy"
+      "title": "Double fears over Red Sea, Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260328-double-fears-over-red-sea-hormuz",
+      "published_date": "2026-03-28T21:55:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen’s Houthis launch ballistic missile at Israel as Middle East conflict escalates",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260328-yemen-s-houthis-launch-ballistic-missile-at-israel-as-middle-east-conflict-escalates",
+      "published_date": "2026-03-28T21:46:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian strike on Saudi base wounds several US troops, damages aircraft",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iranian-strike-on-saudi-base-wounds-several-us-troops-damages-aircraft",
+      "published_date": "2026-03-28T16:31:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What could Houthi involvement in the Iran war mean?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/what-could-houthi-involvement-in-the-iran-war-mean",
+      "published_date": "2026-03-28T15:52:59+00:00",
+      "category": "Military"
     },
     {
       "title": "'Today, more than ever, we are with you': Lebanese diaspora mobilises in France",
@@ -176,6 +204,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/divide-among-men-above-and-under-35-cpac-highlights-generational-gop-split",
       "published_date": "2026-03-28T12:32:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine signs 10-year defence pact with Qatar, eyes broader Gulf cooperation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260328-zelensky-agrees-defence-cooperation-with-uae-qatar-on-gulf-tour",
+      "published_date": "2026-03-28T11:51:14+00:00",
       "category": "Military"
     },
     {
@@ -246,41 +281,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20260327-algeria-continues-to-face-questions-over-murder-of-french-monks-30-years-on",
       "published_date": "2026-03-27T17:17:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How expensive is petrol in France right now?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260327/how-expensive-is-petrol-in-france-right-now",
-      "published_date": "2026-03-27T15:27:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fuel, food and mortgages: How the war in the Middle East is affecting France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260327/fuel-food-and-mortgages-how-the-war-in-the-middle-east-is-affecting-france",
-      "published_date": "2026-03-27T15:10:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe confronts fragmented defence systems as pressure to rearm grows",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260327-europe-confronts-fragmented-defence-systems-as-pressure-to-rearm-grows",
-      "published_date": "2026-03-27T15:06:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine signs deal with Saudi Arabia offering drone expertise",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T10:15:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French truckers plan blockades to protest fuel prices",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260327/french-truckers-plan-blockades-to-protest-fuel-prices",
-      "published_date": "2026-03-27T08:34:04+00:00",
       "category": "Military"
     },
     {
@@ -410,10 +410,38 @@
       "category": "Economy"
     },
     {
+      "title": "Sugar high(st): more than twelve tons of KitKat’s ‘new chocolate range’ stolen in Italy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/28/kitkat-stolen-italy-f1-bar",
+      "published_date": "2026-03-28T20:38:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Sudanese men face court in Greece after at least 22 people die off Crete coast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/28/22-people-die-after-six-days-adrift-in-boat-attempting-to-reach-europe-from-libya",
+      "published_date": "2026-03-28T16:54:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senegal celebrate AFCON win at Stade de France after being stripped of title",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/senegal-celebrate-afcon-win-at-stade-de-france-after-being-stripped-of-title",
+      "published_date": "2026-03-28T16:34:15+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Russian strikes on Ukraine kill at least 5",
       "source": "France 24",
       "url": "https://www.france24.com/en/russian-strikes-on-ukraine-kill-at-least-5",
       "published_date": "2026-03-28T15:54:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senegal parades AFCON trophy at match in France despite being stripped of title",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260328-senegal-parade-afcon-trophy-in-france-despite-being-stripped-of-title",
+      "published_date": "2026-03-28T15:43:11+00:00",
       "category": "Local Events"
     },
     {
@@ -428,6 +456,13 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260328-france-foils-paris-bomb-attack-outside-us-bank",
       "published_date": "2026-03-28T15:30:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tens of thousands march against far right in London ahead of local elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260328-tens-of-thousands-march-against-far-right-in-londonn-ahead-of-elections",
+      "published_date": "2026-03-28T15:19:12+00:00",
       "category": "Local Events"
     },
     {
@@ -512,41 +547,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/mar/28/changing-a-city-is-complicated-anne-hidalgo-looks-back-on-12-years-as-paris-mayor",
       "published_date": "2026-03-28T05:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Full steam ahead for revived Paris-Berlin night train",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260327/full-steam-ahead-for-revived-paris-berlin-night-train",
-      "published_date": "2026-03-27T15:21:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thirteen arrested in joint Scotland and Spain gangland raids",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgqk0g9kvpdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T14:20:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blockades, fuel prices and strikes: What to know if you’re travelling in France over Easter",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260327/what-to-know-if-youre-travelling-in-france-over-easter",
-      "published_date": "2026-03-27T14:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish woman who died through euthanasia failed by state, say critics",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T12:09:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French former police officer arrested in Portugal over suspected double homicide",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260327-french-former-police-officer-arrested-in-portugal-over-suspected-double-homicide",
-      "published_date": "2026-03-27T11:13:50+00:00",
       "category": "Local Events"
     }
   ]
