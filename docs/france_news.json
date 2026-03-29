@@ -1,7 +1,7 @@
 {
   "country": "France",
-  "last_updated": "2026-03-28T23:58:49.961986+00:00",
-  "story_count": 78,
+  "last_updated": "2026-03-29T11:56:04.172352+00:00",
+  "story_count": 79,
   "stories": [
     {
       "title": "Football fever comes to New York with unveiling of France's World Cup jersey",
@@ -144,6 +144,83 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Anti-war protests in Israel: Hundreds gather in Tel-Aviv",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260329-anti-war-protests-in-israel-hundreds-gather-in-tel-aviv",
+      "published_date": "2026-03-29T09:48:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tehran threatens to target US universities in the region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tehran-threatens-to-target-us-universities-in-the-region",
+      "published_date": "2026-03-29T09:45:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former Algerian president Liamine Zeroual dies",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260329-former-algerian-president-liamine-zeroual-dies",
+      "published_date": "2026-03-29T09:31:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'No Kings' rallies draw crowds across US",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/no-kings-rallies-draw-crowds-across-us",
+      "published_date": "2026-03-29T08:54:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen's rebels could further threaten global shipping",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/yemen-s-rebels-could-further-threaten-global-shipping",
+      "published_date": "2026-03-29T08:46:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran: 3,500 US marines arrive in Middle East",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-3-500-us-marines-arrive-in-middle-east",
+      "published_date": "2026-03-29T08:45:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi attacks on Israel open new front in Mideast war, threaten Red Sea shipping",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260329-yemen-houthi-attacks-on-israel-open-new-front-mideast-war-threaten-red-sea-shipping",
+      "published_date": "2026-03-29T07:13:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nigerian brothers bring parallels of fatherhood, nationhood to the screen",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20260329-nigerian-brothers-bring-parallels-of-fatherhood-nationhood-to-the-screen",
+      "published_date": "2026-03-29T06:50:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli military says fifth soldier killed in south Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260329-israeli-military-says-fifth-soldier-killed-in-south-lebanon",
+      "published_date": "2026-03-29T06:10:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea tests high-thrust engine for missile capable of striking US mainland",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260329-north-korea-tests-high-thrust-engine-for-missile-capable-of-striking-us-mainland",
+      "published_date": "2026-03-29T05:09:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: Iran says US preparing ground attack despite talk of diplomacy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260329-middle-east-war-live-loud-blasts-rock-tehran-yemen-houthis-widen-conflict-iran-israel",
+      "published_date": "2026-03-29T05:08:50+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Double fears over Red Sea, Hormuz",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260328-double-fears-over-red-sea-hormuz",
@@ -155,6 +232,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260328-yemen-s-houthis-launch-ballistic-missile-at-israel-as-middle-east-conflict-escalates",
       "published_date": "2026-03-28T21:46:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike kills three journalists in south Lebanon, authorities denounce 'war crime'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260328-israeli-strike-kills-three-journalists-in-south-lebanon-authorities-denounce-war-crime",
+      "published_date": "2026-03-28T19:39:13+00:00",
       "category": "Military"
     },
     {
@@ -197,90 +281,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260328/what-are-european-countries-doing-to-keep-fuel-costs-down",
       "published_date": "2026-03-28T13:13:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Divide among men above and under 35': CPAC highlights generational GOP split",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/divide-among-men-above-and-under-35-cpac-highlights-generational-gop-split",
-      "published_date": "2026-03-28T12:32:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine signs 10-year defence pact with Qatar, eyes broader Gulf cooperation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260328-zelensky-agrees-defence-cooperation-with-uae-qatar-on-gulf-tour",
-      "published_date": "2026-03-28T11:51:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cuba holds civilian military drills amid deepening fuel crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/cuba-holds-civilian-military-drills-amid-deepening-fuel-crisis",
-      "published_date": "2026-03-28T11:33:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine, UAE seal defence deal: Kyiv’s 'know-how and equipment” gain recognition",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-uae-seal-defence-deal-kyiv-s-know-how-and-equipment-gain-recognition",
-      "published_date": "2026-03-28T11:30:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike hits Tehran home, killing several children",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israeli-strike-hits-tehran-home-killing-several-children",
-      "published_date": "2026-03-28T10:37:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian-backed Houthi rebels say launched missile attack on Israel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iranian-backed-houthi-rebels-say-launched-missile-attack-on-israel",
-      "published_date": "2026-03-28T09:55:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen's Houthis claim missile attack on Israel in expanding conflict",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/yemen-s-houthis-claim-missile-attack-on-israel-in-expanding-conflict",
-      "published_date": "2026-03-28T09:53:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen's Houthis launch first missile attack on Israel during Mideast war",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260328-yemen-s-houthis-launch-first-missile-attack-on-israel-during-mideast-war",
-      "published_date": "2026-03-28T08:14:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "🔴 Live: Yemen's Houthis claim first attack on Israel since start of Mideast war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260328-war-in-the-middle-east-live-conflict-enters-second-month-us-expects-to-end-it-within-two-weeks",
-      "published_date": "2026-03-28T07:26:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio says Iran war to last weeks, no US ground troops needed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260327-rubio-says-iran-war-to-last-weeks-no-us-ground-troops-needed",
-      "published_date": "2026-03-27T21:55:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Egypt imposes business curfew to counter soaring fuel costs",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/egypt-imposes-business-curfew-to-counter-soaring-fuel-costs",
-      "published_date": "2026-03-27T21:43:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Algeria continues to face questions over murder of French monks, 30 years on",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260327-algeria-continues-to-face-questions-over-murder-of-french-monks-30-years-on",
-      "published_date": "2026-03-27T17:17:41+00:00",
       "category": "Military"
     },
     {
@@ -347,6 +347,13 @@
       "category": "Energy"
     },
     {
+      "title": "Taxes, wildfires, and dogs: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260329/taxes-wildfires-and-dogs-6-essential-articles-for-life-in-france",
+      "published_date": "2026-03-29T07:20:34+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Young voters shake Italy’s political calm as referendum exposes tensions for Giorgia Meloni",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/mar/28/young-voters-italy-referendum-giorgia-meloni",
@@ -408,6 +415,48 @@
       "url": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-23T00:03:25+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Israeli police prevent Jerusalem's Latin Patriarch from celebrating Palm Sunday mass",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260329-israeli-police-prevent-jerusalem-latin-patriarch-from-celebrating-palm-sunday-mass",
+      "published_date": "2026-03-29T11:48:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France foils bomb attack outside Bank of America in Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-foils-bomb-attack-outside-bank-of-america-in-paris",
+      "published_date": "2026-03-29T11:32:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two new suspects arrested over foiled Bank of America bomb plot in Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260329-two-new-suspects-arrested-over-foiled-bank-of-america-bomb-plot-in-paris",
+      "published_date": "2026-03-29T09:47:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three Lebanese journalists killed in strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/three-lebanese-journalists-killed-in-strikes",
+      "published_date": "2026-03-29T08:51:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260329/on-the-agenda-whats-happening-in-france-this-week-203",
+      "published_date": "2026-03-29T07:21:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris protesters join massive demonstrations against Trump across world on 'No Kings' day",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260329-paris-protesters-join-massive-demonstrations-against-trump-across-world-on-no-kings-day",
+      "published_date": "2026-03-29T06:29:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sugar high(st): more than twelve tons of KitKat’s ‘new chocolate range’ stolen in Italy",
@@ -505,48 +554,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260328-beirut-holding-its-breath-as-israel-launches-strikes-across-lebanon",
       "published_date": "2026-03-28T10:35:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli girl killed, others injured in bus accident in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260328/israeli-girl-killed-others-injured-in-bus-accident-in-france",
-      "published_date": "2026-03-28T10:33:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court jails mother for 25 years over newborn deaths",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260328/french-court-jails-mother-for-25-years-over-newborn-deaths",
-      "published_date": "2026-03-28T10:19:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senegal to stage AFCON victory celebrations in Paris despite losing title",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260328-senegal-stage-afcon-victory-celebrations-paris-despite-losing-title",
-      "published_date": "2026-03-28T09:49:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian attacks kill at least five across Ukraine as Ukrainian drone strike kills child in Russia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260328-strikes-on-ukrainian-cities-kill-three-child-dies-in-drone-attack-on-moscow",
-      "published_date": "2026-03-28T08:17:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Millions expected to fill US streets in third 'No Kings' protest against Trump",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260328-millions-expected-to-fill-american-streets-in-third-no-kings-protest-against-trump",
-      "published_date": "2026-03-28T05:57:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Changing a city is complicated’: Anne Hidalgo looks back on 12 years as Paris mayor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/28/changing-a-city-is-complicated-anne-hidalgo-looks-back-on-12-years-as-paris-mayor",
-      "published_date": "2026-03-28T05:00:18+00:00",
       "category": "Local Events"
     }
   ]
