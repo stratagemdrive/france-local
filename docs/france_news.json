@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-03-29T11:56:04.172352+00:00",
+  "last_updated": "2026-03-30T00:04:44.877277+00:00",
   "story_count": 79,
   "stories": [
+    {
+      "title": "Israeli police bar top Catholic figure in Jerusalem from holding Palm Sunday mass at Holy Sepulchre",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israeli-police-bar-top-catholic-figure-in-jerusalem-from-holding-palm-sunday-mass-at-holy-sepulchre",
+      "published_date": "2026-03-29T16:33:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU offers UK ‘emergency brake’ on youth mobility scheme numbers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/mar/29/eu-offers-uk-emergency-brake-youth-mobility-scheme-numbers",
+      "published_date": "2026-03-29T15:00:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Day of zero waste: International Chef Massimo Bottura speaks to France 24",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/day-of-zero-waste-international-chef-massimo-bottura-speaks-to-france-24",
+      "published_date": "2026-03-29T14:47:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French foreign minister condemns killing of journalists in Lebanon",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260329-funeral-near-beirut-for-journalists-killed-in-israeli-strike",
+      "published_date": "2026-03-29T12:33:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungarians' growing anger at living in EU's 'most corrupt state'",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260329-hungarians-growing-anger-at-living-in-eu-s-most-corrupt-state",
+      "published_date": "2026-03-29T12:03:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Football fever comes to New York with unveiling of France's World Cup jersey",
       "source": "France 24",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "G7 wants 'lasting peace and stability' in Middle East, France's foreign minister says",
+      "title": "Pakistan offers to host US-Iran talks as Tehran warns ground troops would be 'set on fire'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260326-g7-meets-in-france-mend-rupture-with-us-on-middle-east-war",
-      "published_date": "2026-03-26T16:17:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260329-pakistan-offers-to-host-us-iran-talks-as-tehran-warns-ground-troops-would-be-set-on-fire",
+      "published_date": "2026-03-29T20:22:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron leads national tribute to reformist ex-PM Lionel Jospin",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260326-macron-leads-national-tribute-to-reformist-former-pm-lionel-jospin",
-      "published_date": "2026-03-26T15:44:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU votes to ban AI 'nudifier' apps after explicit deepfake outrage",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260326-eu-votes-to-ban-ai-nudifier-apps-after-deepfake-outrage",
-      "published_date": "2026-03-26T14:42:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European Parliament gives conditional approval to EU-US trade deal",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c33l4e6vdrvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-26T12:51:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meta and YouTube verdict: Social media shakedown or bellwether?",
+      "title": "Zelensky visits Jordan on Middle East tour to bolster security ties",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260326-meta-and-youtube-verdict-social-media-shakedown-or-a-bellwether",
-      "published_date": "2026-03-26T11:54:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260329-zelensky-visits-jordan-on-middle-east-tour-to-bolster-security-ties",
+      "published_date": "2026-03-29T19:27:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From the Iran war to the US petrol pumps",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260329-world-trade-is-struggling-as-war-in-iran-continues",
+      "published_date": "2026-03-29T17:14:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Massive protests against Trump across US",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/massive-protests-against-trump-across-us",
+      "published_date": "2026-03-29T16:34:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon mourns three journalists killed in Israeli strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/lebanon-mourns-three-journalists-killed-in-israeli-strikes",
+      "published_date": "2026-03-29T16:30:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Qatari news channel AI Araby condemns attack on its office",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/qatari-news-channel-ai-araby-condemns-attack-on-its-office",
+      "published_date": "2026-03-29T14:45:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran: 3.500 US troops arrive in the region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-3-500-us-troops-arrive-in-the-region",
+      "published_date": "2026-03-29T14:30:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The week in pictures: Massive daytime attack on Ukraine, 'No Kings' and France's adieu to Jospin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260329-the-week-in-pictures-massive-daytime-attack-on-ukraine-no-kings-and-france-adieu-jospin",
+      "published_date": "2026-03-29T13:26:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Unidentified drones crash in Finland",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260329-unidentified-drones-crash-finland",
+      "published_date": "2026-03-29T12:58:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mediation talks in Islamabad: Middle East powers meet to discuss how to end the fighting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mediation-talks-in-islamabad-middle-east-powers-meet-to-discuss-how-to-end-the-fighting",
+      "published_date": "2026-03-29T12:32:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Anti-war protests in Israel: Hundreds gather in Tel-Aviv",
@@ -214,76 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Middle East war live: Iran says US preparing ground attack despite talk of diplomacy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260329-middle-east-war-live-loud-blasts-rock-tehran-yemen-houthis-widen-conflict-iran-israel",
-      "published_date": "2026-03-29T05:08:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Double fears over Red Sea, Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260328-double-fears-over-red-sea-hormuz",
-      "published_date": "2026-03-28T21:55:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen’s Houthis launch ballistic missile at Israel as Middle East conflict escalates",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260328-yemen-s-houthis-launch-ballistic-missile-at-israel-as-middle-east-conflict-escalates",
-      "published_date": "2026-03-28T21:46:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike kills three journalists in south Lebanon, authorities denounce 'war crime'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260328-israeli-strike-kills-three-journalists-in-south-lebanon-authorities-denounce-war-crime",
-      "published_date": "2026-03-28T19:39:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian strike on Saudi base wounds several US troops, damages aircraft",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iranian-strike-on-saudi-base-wounds-several-us-troops-damages-aircraft",
-      "published_date": "2026-03-28T16:31:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What could Houthi involvement in the Iran war mean?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/what-could-houthi-involvement-in-the-iran-war-mean",
-      "published_date": "2026-03-28T15:52:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Today, more than ever, we are with you': Lebanese diaspora mobilises in France",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260328-today-more-than-ever-we-are-with-you-lebanese-diaspora-mobilises-in-france",
-      "published_date": "2026-03-28T15:35:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly Russian strikes damage port, maternity hospital",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/deadly-russian-strikes-damage-port-maternity-hospital",
-      "published_date": "2026-03-28T15:08:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey-Azerbaijan alliance strained by opposing stances on Israel",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260328-turkey-azerbaijan-alliance-strained-by-opposing-stances-on-israel",
-      "published_date": "2026-03-28T15:04:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What are European countries doing to keep fuel costs down?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260328/what-are-european-countries-doing-to-keep-fuel-costs-down",
-      "published_date": "2026-03-28T13:13:15+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Scientists dive beneath Arctic ice to study threatened ecosystems",
       "source": "France 24",
       "url": "https://www.france24.com/en/scientists-dive-beneath-arctic-ice-to-study-threatened-ecosystems",
@@ -345,6 +345,13 @@
       "url": "https://www.theguardian.com/us-news/2026/mar/23/trump-administration-wind-project-plan",
       "published_date": "2026-03-23T19:26:15+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "The maritime passages with a chokehold on the global economy",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260329-the-maritime-passages-with-a-chokehold-on-the-global-economy",
+      "published_date": "2026-03-29T16:24:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "Taxes, wildfires, and dogs: 6 essential articles for life in France",
@@ -410,11 +417,32 @@
       "category": "Economy"
     },
     {
-      "title": "Germany has a shortage of workers - so it's turning to India for help",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-23T00:03:25+00:00",
-      "category": "Economy"
+      "title": "African football chief Motsepe to respect CAS ruling on Senegal’s appeal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260329-caf-chief-motsepe-to-respect-cas-ruling-on-senegal-s-afcon-appeal",
+      "published_date": "2026-03-29T20:48:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madame la Maire: Maureen Searle becomes the first English woman to run a French town",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260329-mrs-la-maire-maureen-searle-becomes-the-first-foreign-born-woman-to-run-a-french-town",
+      "published_date": "2026-03-29T16:31:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senegal celebrate AFCON title at Stade de France friendly amid controversy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260329-senegal-celebrate-afcon-title-stade-de-france-friendly-amid-controversy",
+      "published_date": "2026-03-29T15:02:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two more arrests over attempted attack on US bank HQ in Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260329/two-more-arrests-over-attempted-attack-on-us-bank-hq-in-paris",
+      "published_date": "2026-03-29T13:26:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli police prevent Jerusalem's Latin Patriarch from celebrating Palm Sunday mass",
@@ -526,34 +554,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20260328-%F0%9F%94%B4-france-foils-paris-bomb-plot-outside-us-bank-opens-anti-terror-probe",
       "published_date": "2026-03-28T14:18:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Air France leaves Paris-Orly airport",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260328-air-france-leaves-paris-orly-airport",
-      "published_date": "2026-03-28T13:49:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Football fever hits NYC as France unveils team jersey for World Cup",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/football-fever-hits-nyc-as-france-unveils-team-jersey-for-world-cup",
-      "published_date": "2026-03-28T12:35:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Orban-Gate” investigation fundraiser takes off two weeks before Hungary elections",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260328-orban-gate-investigation-fundraiser-takes-off-two-weeks-before-hungary-elections",
-      "published_date": "2026-03-28T12:33:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beirut 'holding its breath' as Israel launches strikes across Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260328-beirut-holding-its-breath-as-israel-launches-strikes-across-lebanon",
-      "published_date": "2026-03-28T10:35:40+00:00",
       "category": "Local Events"
     }
   ]
