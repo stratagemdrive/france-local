@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-03-30T00:04:44.877277+00:00",
-  "story_count": 79,
+  "last_updated": "2026-03-30T14:55:41.775223+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "title": "Apple subsidiary fined by UK government over Moscow sanctions breach",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/mar/30/apple-subsidiary-fine-uk-government-sanctions-russia",
+      "published_date": "2026-03-30T12:49:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU tackles Europe's housing crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260330-eu-tackles-europe-s-housing-crisis",
+      "published_date": "2026-03-30T10:37:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fears of increased small boat Channel crossings as UK-French deal nears end",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/30/fears-increased-small-boat-channel-crossings-uk-french-deal-nears-end-shabana-mahmood",
+      "published_date": "2026-03-30T08:00:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Five EU governments found to ‘consistently’ dismantle rule of law",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/mar/30/five-eu-governments-consistently-dismantle-rule-of-law-finds-civil-liberties-union-for-europe",
+      "published_date": "2026-03-30T05:01:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israeli police bar top Catholic figure in Jerusalem from holding Palm Sunday mass at Holy Sepulchre",
       "source": "France 24",
@@ -116,32 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "As high seas treaty takes shape, Galapagos proves that protection pays off",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260327-as-high-seas-treaty-takes-shape-gal%C3%A1pagos-proves-that-protection-pays-off-bbnj",
-      "published_date": "2026-03-27T12:03:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK warns of Easter travel delays due to new EU border checks",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260327/uk-warns-of-easter-travel-delays-to-due-to-new-eu-border-checks",
-      "published_date": "2026-03-27T11:40:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France denies excluding South Africa from G7 summit under pressure from US",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260327-france-denies-excluding-south-africa-from-g7-summit-under-pressure-from-us",
-      "published_date": "2026-03-27T07:58:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Return hubs' for migrants clear EU parliament hurdle",
+      "title": "Ukraine signs defence agreements with Gulf Nations eager to fend off Iranian drones",
       "source": "France 24",
-      "url": "https://www.france24.com/en/return-hubs-for-migrants-clear-eu-parliament-hurdle",
-      "published_date": "2026-03-26T21:01:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ukraine-signs-defence-agreements-with-gulf-nations-eager-to-fend-off-iranian-drones",
+      "published_date": "2026-03-30T14:37:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky hails 'historic' defence agreements with Gulf states",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260330-zelensky-hails-historic-defence-agreements-with-gulf-states",
+      "published_date": "2026-03-30T14:27:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US not 'postured' for another Iraq 2003: Iran maintains vast, 'high-quality military capability'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-not-postured-for-another-iraq-2003-iran-maintains-vast-high-quality-military-capability",
+      "published_date": "2026-03-30T14:14:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One Lebanese soldier killed, Israel expands buffer zone in southern Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/one-lebanese-soldier-killed-israel-expands-buffer-zone-in-southern-lebanon",
+      "published_date": "2026-03-30T13:38:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military building up in the Middle East as Trump looks for offramp in Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-military-building-up-in-the-middle-east-as-trump-looks-for-offramp-in-iran",
+      "published_date": "2026-03-30T12:52:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran are now 'calling the shots' over the Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-are-now-calling-the-shots-over-the-strait-of-hormuz",
+      "published_date": "2026-03-30T12:49:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US mulls over ground offensive in Iran despite claims of talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-mulls-over-ground-offensive-in-iran-despite-claims-of-talks",
+      "published_date": "2026-03-30T12:47:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Spain closes airspace to US aircraft involved in Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T12:27:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Spain closes airspace to US military over Iran war, widening rift with US",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/30/spain-closes-airspace-to-us-military-over-iran-war-widening-rift-with-us",
+      "published_date": "2026-03-30T12:26:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France held responsible for concealing 1944 African colonial soldier's death",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260330-france-held-responsible-for-hiding-colonial-soldier-death-thiaroye-massacre-senegal",
+      "published_date": "2026-03-30T12:13:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Clitoral nerves mapped for first time, thirty years after male counterpart",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260330-clitoral-nerves-mapped-for-first-time-thirty-years-after-male-counterpart",
+      "published_date": "2026-03-30T10:39:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands of Lebanese trapped behind Israeli frontlines rely on humanitarian aid",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/thousands-of-lebanese-trapped-behind-israeli-frontlines-rely-on-humanitarian-aid",
+      "published_date": "2026-03-30T10:26:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Occupying Iran's Kharg island could be 'dangerous and risky' for US forces",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/occupying-iran-s-kharg-island-could-be-dangerous-and-risky-for-us-forces",
+      "published_date": "2026-03-30T10:22:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil rises, stocks fall as Iran war enters fifth week and further escalation looms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260330-oil-rises-stocks-fall-as-iran-war-enters-fifth-week-and-further-escalation-looms",
+      "published_date": "2026-03-30T09:06:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Air France leaves Paris's Orly airport",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260330/air-france-leaves-pariss-orly-airport",
+      "published_date": "2026-03-30T08:01:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan offers to host US-Iran talks as Tehran warns ground troops would be 'set on fire'",
@@ -179,109 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Qatari news channel AI Araby condemns attack on its office",
+      "title": "Russian oil arrives in Cuba following Trump turnaround on Cuban blockade",
       "source": "France 24",
-      "url": "https://www.france24.com/en/qatari-news-channel-ai-araby-condemns-attack-on-its-office",
-      "published_date": "2026-03-29T14:45:41+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/russian-oil-arrives-in-cuba-following-trump-turnaround-on-cuban-blockade",
+      "published_date": "2026-03-30T14:42:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran: 3.500 US troops arrive in the region",
+      "title": "Asian economies scramble to find solutions to war's impact on oil markets",
       "source": "France 24",
-      "url": "https://www.france24.com/en/iran-3-500-us-troops-arrive-in-the-region",
-      "published_date": "2026-03-29T14:30:35+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/asian-economies-scramble-to-find-solutions-to-war-s-impact-on-oil-markets",
+      "published_date": "2026-03-30T13:38:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The week in pictures: Massive daytime attack on Ukraine, 'No Kings' and France's adieu to Jospin",
+      "title": "Asian economies most vulnerable to impact of Middle east war on oil markets",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260329-the-week-in-pictures-massive-daytime-attack-on-ukraine-no-kings-and-france-adieu-jospin",
-      "published_date": "2026-03-29T13:26:34+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/as-the-iran-war-goes-on-asian-economies-are-forced-to-confront-energy-shortages",
+      "published_date": "2026-03-30T12:55:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Unidentified drones crash in Finland",
+      "title": "Dramatic red skies in Australia due to cyclone and soil drought",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260329-unidentified-drones-crash-finland",
-      "published_date": "2026-03-29T12:58:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mediation talks in Islamabad: Middle East powers meet to discuss how to end the fighting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/mediation-talks-in-islamabad-middle-east-powers-meet-to-discuss-how-to-end-the-fighting",
-      "published_date": "2026-03-29T12:32:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anti-war protests in Israel: Hundreds gather in Tel-Aviv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260329-anti-war-protests-in-israel-hundreds-gather-in-tel-aviv",
-      "published_date": "2026-03-29T09:48:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran threatens to target US universities in the region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tehran-threatens-to-target-us-universities-in-the-region",
-      "published_date": "2026-03-29T09:45:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former Algerian president Liamine Zeroual dies",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260329-former-algerian-president-liamine-zeroual-dies",
-      "published_date": "2026-03-29T09:31:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'No Kings' rallies draw crowds across US",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/no-kings-rallies-draw-crowds-across-us",
-      "published_date": "2026-03-29T08:54:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen's rebels could further threaten global shipping",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/yemen-s-rebels-could-further-threaten-global-shipping",
-      "published_date": "2026-03-29T08:46:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: 3,500 US marines arrive in Middle East",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-3-500-us-marines-arrive-in-middle-east",
-      "published_date": "2026-03-29T08:45:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi attacks on Israel open new front in Mideast war, threaten Red Sea shipping",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260329-yemen-houthi-attacks-on-israel-open-new-front-mideast-war-threaten-red-sea-shipping",
-      "published_date": "2026-03-29T07:13:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nigerian brothers bring parallels of fatherhood, nationhood to the screen",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260329-nigerian-brothers-bring-parallels-of-fatherhood-nationhood-to-the-screen",
-      "published_date": "2026-03-29T06:50:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military says fifth soldier killed in south Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260329-israeli-military-says-fifth-soldier-killed-in-south-lebanon",
-      "published_date": "2026-03-29T06:10:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea tests high-thrust engine for missile capable of striking US mainland",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260329-north-korea-tests-high-thrust-engine-for-missile-capable-of-striking-us-mainland",
-      "published_date": "2026-03-29T05:09:11+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/australian-skies-turned-red-due-to-cyclone-and-soil-drought",
+      "published_date": "2026-03-30T10:16:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Scientists dive beneath Arctic ice to study threatened ecosystems",
@@ -345,6 +373,13 @@
       "url": "https://www.theguardian.com/us-news/2026/mar/23/trump-administration-wind-project-plan",
       "published_date": "2026-03-23T19:26:15+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Mistral to borrow €750m for Paris data centre as Europe ramps up AI capacity",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260330-mistral-to-borrow-%E2%82%AC750m-for-paris-data-centre-as-europe-ramps-up-ai-capacity",
+      "published_date": "2026-03-30T08:12:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "The maritime passages with a chokehold on the global economy",
@@ -417,143 +452,150 @@
       "category": "Economy"
     },
     {
+      "title": "French teachers call nationwide strike on Tuesday over budget cuts",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260324/french-teachers-call-nationwide-strike-over-budget-cuts",
+      "published_date": "2026-03-24T11:23:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "South Lebanon: Locals remain as war rages on",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260330-south-lebanon-locals-remain-as-war-rages-on",
+      "published_date": "2026-03-30T14:44:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France hands captain of suspected Russian 'shadow fleet' tanker one-year jail sentence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260330-france-hands-captain-of-suspected-russian-shadow-fleet-tanker-one-year-jail-sentence",
+      "published_date": "2026-03-30T14:44:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Paris mayor vows to tackle systemic abuse in after-school programmes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/new-paris-mayor-vows-to-tackle-systemic-abuse-in-after-school-programmes",
+      "published_date": "2026-03-30T14:34:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France court sentences Russia-linked tanker captain to one year in jail",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260330/france-court-sentences-russia-linked-tanker-captain-to-one-year-in-jail",
+      "published_date": "2026-03-30T14:17:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trial begins over alleged hit squad network linked to French Masonic lodge",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260330-trial-begins-over-alleged-hit-squad-network-linked-to-french-masonic-lodge",
+      "published_date": "2026-03-30T14:00:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Paris mayor promises urgent action over alleged sexual abuse in schools",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260330-new-paris-mayor-gregoire-pledges-urgent-action-over-school-sexual-abuse-scandal",
+      "published_date": "2026-03-30T13:41:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T13:30:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 World Cup: Mexico ramps up security amid threat from cartels",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260330-2026-world-cup-mexico-ramps-up-security-amid-threat-from-cartels",
+      "published_date": "2026-03-30T12:20:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian leaders 'do not take any statements from Donald Trump seriously '",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iranian-leaders-do-not-take-any-statements-from-donald-trump-seriously",
+      "published_date": "2026-03-30T10:47:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France rolls out targeted fuel aid as truckers stage Paris protest",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260330-france-rolls-out-targeted-fuel-aid-as-truckers-stage-paris-protest-middle-east-energy-crisis",
+      "published_date": "2026-03-30T10:06:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "​​Being Ola review – a sweet and gentle film about disability, friendship and abandonment",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/mar/30/being-ola-review-a-sweet-and-gentle-film-about-disability-friendship-and-abandonment",
+      "published_date": "2026-03-30T10:00:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Expression of the Day: Se mettre la rate au court-bouillon",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260330/french-expression-of-the-day-se-mettre-la-rate-au-court-bouillon",
+      "published_date": "2026-03-30T09:10:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder trial opens over alleged masonic lodge crime network in Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/30/trial-opens-masonic-lodge-network-paris-freemason-mafia-france",
+      "published_date": "2026-03-30T08:36:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Truckers blockade Paris as more protests are planned across France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260330/truckers-blockade-paris-more-protests-planned-across-france",
+      "published_date": "2026-03-30T07:30:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Assault on justice’: how far-right attacks are threatening rule of law in Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/30/leaders-seeking-undermine-rule-of-law-europe",
+      "published_date": "2026-03-30T06:20:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is Paris's newly sworn-in mayor, Emmanuel Grégoire?",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260330-who-is-paris-s-newly-sworn-in-mayor-emmanuel-gr%C3%A9goire",
+      "published_date": "2026-03-30T06:07:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thieves steal Renoir, Cézanne and Matisse paintings worth millions from Italian museum",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/mar/30/paintings-stolen-museum-italy-renoir-cezanne-matisse",
+      "published_date": "2026-03-30T05:49:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: German defence giant sparks row after comparing Ukraine drone makers to ‘housewives’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/30/ukraine-war-briefing-german-defence-giant-sparks-row-after-comparing-ukraine-drone-makers-to-housewives",
+      "published_date": "2026-03-30T00:17:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thieves steal Renoir, Cézanne and Matisse paintings in three-minute Italian heist",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-29T21:29:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "African football chief Motsepe to respect CAS ruling on Senegal’s appeal",
       "source": "France 24",
       "url": "https://www.france24.com/en/sport/20260329-caf-chief-motsepe-to-respect-cas-ruling-on-senegal-s-afcon-appeal",
       "published_date": "2026-03-29T20:48:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madame la Maire: Maureen Searle becomes the first English woman to run a French town",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260329-mrs-la-maire-maureen-searle-becomes-the-first-foreign-born-woman-to-run-a-french-town",
-      "published_date": "2026-03-29T16:31:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senegal celebrate AFCON title at Stade de France friendly amid controversy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260329-senegal-celebrate-afcon-title-stade-de-france-friendly-amid-controversy",
-      "published_date": "2026-03-29T15:02:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two more arrests over attempted attack on US bank HQ in Paris",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260329/two-more-arrests-over-attempted-attack-on-us-bank-hq-in-paris",
-      "published_date": "2026-03-29T13:26:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli police prevent Jerusalem's Latin Patriarch from celebrating Palm Sunday mass",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260329-israeli-police-prevent-jerusalem-latin-patriarch-from-celebrating-palm-sunday-mass",
-      "published_date": "2026-03-29T11:48:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France foils bomb attack outside Bank of America in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-foils-bomb-attack-outside-bank-of-america-in-paris",
-      "published_date": "2026-03-29T11:32:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two new suspects arrested over foiled Bank of America bomb plot in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260329-two-new-suspects-arrested-over-foiled-bank-of-america-bomb-plot-in-paris",
-      "published_date": "2026-03-29T09:47:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three Lebanese journalists killed in strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/three-lebanese-journalists-killed-in-strikes",
-      "published_date": "2026-03-29T08:51:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On the Agenda: What’s happening in France this week",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260329/on-the-agenda-whats-happening-in-france-this-week-203",
-      "published_date": "2026-03-29T07:21:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris protesters join massive demonstrations against Trump across world on 'No Kings' day",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260329-paris-protesters-join-massive-demonstrations-against-trump-across-world-on-no-kings-day",
-      "published_date": "2026-03-29T06:29:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sugar high(st): more than twelve tons of KitKat’s ‘new chocolate range’ stolen in Italy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/28/kitkat-stolen-italy-f1-bar",
-      "published_date": "2026-03-28T20:38:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Sudanese men face court in Greece after at least 22 people die off Crete coast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/28/22-people-die-after-six-days-adrift-in-boat-attempting-to-reach-europe-from-libya",
-      "published_date": "2026-03-28T16:54:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senegal celebrate AFCON win at Stade de France after being stripped of title",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/senegal-celebrate-afcon-win-at-stade-de-france-after-being-stripped-of-title",
-      "published_date": "2026-03-28T16:34:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian strikes on Ukraine kill at least 5",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russian-strikes-on-ukraine-kill-at-least-5",
-      "published_date": "2026-03-28T15:54:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senegal parades AFCON trophy at match in France despite being stripped of title",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260328-senegal-parade-afcon-trophy-in-france-despite-being-stripped-of-title",
-      "published_date": "2026-03-28T15:43:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police in Paris foil attempted bomb attack outside Bank of America building",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/28/paris-police-foil-attempted-bomb-attack-bank-of-america",
-      "published_date": "2026-03-28T15:30:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France foils Paris bomb attack outside US bank",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260328-france-foils-paris-bomb-attack-outside-us-bank",
-      "published_date": "2026-03-28T15:30:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of thousands march against far right in London ahead of local elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260328-tens-of-thousands-march-against-far-right-in-londonn-ahead-of-elections",
-      "published_date": "2026-03-28T15:19:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France foils Paris bomb attack outside US bank",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260328/france-foils-paris-bomb-attack",
-      "published_date": "2026-03-28T14:27:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France foils Paris bomb plot outside US bank, opens anti-terror probe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260328-%F0%9F%94%B4-france-foils-paris-bomb-plot-outside-us-bank-opens-anti-terror-probe",
-      "published_date": "2026-03-28T14:18:24+00:00",
       "category": "Local Events"
     }
   ]
