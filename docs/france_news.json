@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-03-30T14:55:41.775223+00:00",
-  "story_count": 85,
+  "last_updated": "2026-03-31T00:04:31.597696+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "European airports record longer waits at borders as EES deadline looms",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260330/european-airports-record-longer-border-waiting-times-as-ees-deadline-looms",
+      "published_date": "2026-03-30T19:31:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Small boats deal between France and UK is on verge of collapse",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/30/uk-france-beach-patrol-deal-intercept-small-boats-negotiations-deadlocked",
+      "published_date": "2026-03-30T18:36:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sir Westmacott challenges Trump rationale as war on Iran sparks 'serious' economic fallout worldwide",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260330-sir-westmacott-challenges-trump-rationale-as-war-on-iran-sparks-serious-economic-fallout-worldwide",
+      "published_date": "2026-03-30T18:26:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Several French far-right mayors take down EU flags",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260330/several-french-far-right-mayors-take-down-eu-flags",
+      "published_date": "2026-03-30T15:15:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Apple subsidiary fined by UK government over Moscow sanctions breach",
       "source": "The Guardian",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Austria becomes latest to propose social media ban for children",
+      "title": "Huge fires at Russian oil facilities following Ukraine strikes, satellite images show",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyv70de9exo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T17:21:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/c9qdwpnwzwpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T23:36:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "G7 ministers urge end to attacks against civilians in Mideast war",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260327-g7-ministers-urge-end-to-attacks-against-civilians-in-mideast-war",
-      "published_date": "2026-03-27T16:14:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump administration sidelines, threatens Europe in Iran war: EU flounders in new world order",
+      "title": "Trump threatens to destroy Iran’s Kharg Island oil hub if no deal reached",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260327-trump-administration-sidelines-threatens-europe-in-iran-war-eu-flounders-in-new-world-order",
-      "published_date": "2026-03-27T16:08:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260330-trump-threatens-to-obliterate-iran-kharg-island-oil-hub-if-no-deal-reached-usa-strait-of-hormuz",
+      "published_date": "2026-03-30T21:57:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "North Korea's Kim Jong Un gifted gun by Belarusian leader",
+      "title": "Nigeria's gasoline pump ⁠prices rise by 65%, ​highest in Africa",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260327-belarusian-leader-gifts-gun-to-north-korea-s-kim-jong-un",
-      "published_date": "2026-03-27T15:02:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/nigeria-s-gasoline-pump-prices-rise-by-65-highest-in-africa",
+      "published_date": "2026-03-30T20:19:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump's options in Iran range from bad to worse",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-s-options-in-iran-range-from-bad-to-worse",
+      "published_date": "2026-03-30T19:14:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Boots on the ground? Trump eyes Iran oil hub Kharg Island",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260330-boots-on-the-ground-trump-eyes-iran-oil-hub-kharg-island",
+      "published_date": "2026-03-30T18:14:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three UN peacekeepers killed in south Lebanon in 24 hours amid Israel-Hezbollah conflict",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260330-three-un-peacekeepers-killed-in-south-lebanon-in-24-hours-amid-israel-hezbollah-conflict",
+      "published_date": "2026-03-30T18:02:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T17:53:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv useful to US, Gulf at critical time: Drone interceptors 'more effective than Patriot missiles'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/kyiv-useful-to-us-gulf-at-critical-time-drone-interceptors-more-effective-than-patriot-missiles",
+      "published_date": "2026-03-30T16:33:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine signs defence agreements with Gulf Nations eager to fend off Iranian drones",
@@ -228,60 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Occupying Iran's Kharg island could be 'dangerous and risky' for US forces",
+      "title": "'The hypocrisy was so stark' expert says, as US reverses course on Cuba oil blockade",
       "source": "France 24",
-      "url": "https://www.france24.com/en/occupying-iran-s-kharg-island-could-be-dangerous-and-risky-for-us-forces",
-      "published_date": "2026-03-30T10:22:48+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260330-the-hypocrisy-was-so-stark-expert-says-as-us-reverses-course-on-cuba-oil-blockade",
+      "published_date": "2026-03-30T21:39:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Oil rises, stocks fall as Iran war enters fifth week and further escalation looms",
+      "title": "Houthi attacks stoke fears of more shipping disruption",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260330-oil-rises-stocks-fall-as-iran-war-enters-fifth-week-and-further-escalation-looms",
-      "published_date": "2026-03-30T09:06:43+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/business/20260330-houthi-attacks-stoke-fears-of-more-shipping-disruption",
+      "published_date": "2026-03-30T21:03:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Air France leaves Paris's Orly airport",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260330/air-france-leaves-pariss-orly-airport",
-      "published_date": "2026-03-30T08:01:13+00:00",
-      "category": "Military"
+      "title": "'The Houthis hold serious cards' expert says, amid threats to choke off Red Sea passage",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/the-houthis-hold-serious-cards-expert-says-amid-threats-to-choke-off-red-sea-passage",
+      "published_date": "2026-03-30T19:25:41+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pakistan offers to host US-Iran talks as Tehran warns ground troops would be 'set on fire'",
+      "title": "While Trump vows Iran deal on the way, 'evidence points to another direction'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260329-pakistan-offers-to-host-us-iran-talks-as-tehran-warns-ground-troops-would-be-set-on-fire",
-      "published_date": "2026-03-29T20:22:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky visits Jordan on Middle East tour to bolster security ties",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260329-zelensky-visits-jordan-on-middle-east-tour-to-bolster-security-ties",
-      "published_date": "2026-03-29T19:27:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From the Iran war to the US petrol pumps",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260329-world-trade-is-struggling-as-war-in-iran-continues",
-      "published_date": "2026-03-29T17:14:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Massive protests against Trump across US",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/massive-protests-against-trump-across-us",
-      "published_date": "2026-03-29T16:34:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon mourns three journalists killed in Israeli strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/lebanon-mourns-three-journalists-killed-in-israeli-strikes",
-      "published_date": "2026-03-29T16:30:59+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/while-trump-vows-iran-deal-on-the-way-evidence-points-to-another-direction",
+      "published_date": "2026-03-30T15:31:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "Russian oil arrives in Cuba following Trump turnaround on Cuban blockade",
@@ -368,11 +396,11 @@
       "category": "Energy"
     },
     {
-      "title": "US to pay almost $1bn to French energy company to kill wind project plan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/mar/23/trump-administration-wind-project-plan",
-      "published_date": "2026-03-23T19:26:15+00:00",
-      "category": "Energy"
+      "title": "Bab al-Mandab strait: Iran’s Houthi allies enter the conflict, raising fears over key trade route",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260330-will-iranian-backed-yemen-houthis-rebels-block-the-bab-al-mandeb-strait",
+      "published_date": "2026-03-30T16:55:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Mistral to borrow €750m for Paris data centre as Europe ramps up AI capacity",
@@ -457,6 +485,55 @@
       "url": "https://www.thelocal.fr/20260324/french-teachers-call-nationwide-strike-over-budget-cuts",
       "published_date": "2026-03-24T11:23:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Céline Dion makes her big comeback with concerts in Paris after six year hiatus",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260330-c%C3%A9line-dion-makes-her-big-comeback-with-concerts-in-paris-after-six-year-hiatus",
+      "published_date": "2026-03-30T22:57:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T20:07:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police arrest two more over attempted attack on US bank HQ in Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/police-arrest-two-more-over-attempted-attack-on-us-bank-hq-in-paris",
+      "published_date": "2026-03-30T18:33:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TV star’s AI porn allegations spark national debate in Germany",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/30/collien-fernandes-deepfake-porn-allegations-digital-violence-against-women",
+      "published_date": "2026-03-30T16:12:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amnesty warns of 'serious risks' to certain fans during 2026 World Cup",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260330-amnesty-warns-of-serious-risks-to-certain-fans-during-2026-world-cup-united-states-mexico-canada",
+      "published_date": "2026-03-30T15:53:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paintings by Renoir, Cézanne and Matisse stolen from Italian museum",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260330-paintings-by-renoir-c%C3%A9zanne-and-matisse-stolen-from-italian-museum",
+      "published_date": "2026-03-30T15:25:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Captain of Russian 'shadow tanker' sentenced to one year in French prison",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260330-captain-of-russian-shadow-tanker-sentenced-to-one-year-in-french-prison-sanctions",
+      "published_date": "2026-03-30T15:18:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "South Lebanon: Locals remain as war rages on",
@@ -547,55 +624,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/mar/30/trial-opens-masonic-lodge-network-paris-freemason-mafia-france",
       "published_date": "2026-03-30T08:36:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Truckers blockade Paris as more protests are planned across France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260330/truckers-blockade-paris-more-protests-planned-across-france",
-      "published_date": "2026-03-30T07:30:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Assault on justice’: how far-right attacks are threatening rule of law in Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/30/leaders-seeking-undermine-rule-of-law-europe",
-      "published_date": "2026-03-30T06:20:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is Paris's newly sworn-in mayor, Emmanuel Grégoire?",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260330-who-is-paris-s-newly-sworn-in-mayor-emmanuel-gr%C3%A9goire",
-      "published_date": "2026-03-30T06:07:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thieves steal Renoir, Cézanne and Matisse paintings worth millions from Italian museum",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/mar/30/paintings-stolen-museum-italy-renoir-cezanne-matisse",
-      "published_date": "2026-03-30T05:49:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: German defence giant sparks row after comparing Ukraine drone makers to ‘housewives’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/30/ukraine-war-briefing-german-defence-giant-sparks-row-after-comparing-ukraine-drone-makers-to-housewives",
-      "published_date": "2026-03-30T00:17:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thieves steal Renoir, Cézanne and Matisse paintings in three-minute Italian heist",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T21:29:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "African football chief Motsepe to respect CAS ruling on Senegal’s appeal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260329-caf-chief-motsepe-to-respect-cas-ruling-on-senegal-s-afcon-appeal",
-      "published_date": "2026-03-29T20:48:51+00:00",
       "category": "Local Events"
     }
   ]
