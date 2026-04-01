@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-03-31T14:50:05.523413+00:00",
-  "story_count": 92,
+  "last_updated": "2026-04-01T00:04:17.453576+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Five EU countries 'deliberately eroding' rule of law, report shows",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/five-eu-countries-deliberately-eroding-rule-of-law-report-shows",
+      "published_date": "2026-03-31T20:10:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungarian FM says reports he passed information to Russia are 'foreign interference'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260331-hungarian-fm-says-reports-he-passed-information-to-russia-are-foreign-interference",
+      "published_date": "2026-03-31T19:47:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bucha massacre 'part of deliberate campaign to pave a road of destruction to Kyiv'",
       "source": "France 24",
@@ -130,18 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Day of zero waste: International Chef Massimo Bottura speaks to France 24",
+      "title": "Lebanon condemns Israel’s 'clear intention' to impose new occupation of its territory",
       "source": "France 24",
-      "url": "https://www.france24.com/en/day-of-zero-waste-international-chef-massimo-bottura-speaks-to-france-24",
-      "published_date": "2026-03-29T14:47:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260331-lebanon-condemns-israel-s-clear-intention-to-impose-new-occupation-of-its-territory",
+      "published_date": "2026-03-31T21:55:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "French foreign minister condemns killing of journalists in Lebanon",
+      "title": "US fuel prices surge past $4 a gallon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260331-us-fuel-prices-surge-past-4-a-gallon",
+      "published_date": "2026-03-31T21:04:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Get your own oil’: Trump launches tirade against Europe for not joining Iran war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/31/trump-launches-tirade-against-european-countries-not-joining-iran-war",
+      "published_date": "2026-03-31T21:01:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gulf allies privately make the case to Trump to keep fighting until Iran is decisively defeated",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/gulf-allies-privately-make-the-case-to-trump-to-keep-fighting-until-iran-is-decisively-defeated",
+      "published_date": "2026-03-31T19:31:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burundi's main city rocked by blasts after electrical fire at military store",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260331-blasts-hit-burundi-s-main-city-after-electrical-fire-at-military-store",
+      "published_date": "2026-03-31T19:20:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe pushes back on US military operations as concerns over Iran war mount",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe-pushes-back-on-us-military-operations-as-concerns-over-iran-war-mount",
+      "published_date": "2026-03-31T18:36:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can Lebanon keep it together? Government faces Israeli invasion, standoff with Hezbollah",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260331-can-lebanon-keep-it-together-government-faces-israeli-invasion-standoff-with-hezbollah",
+      "published_date": "2026-03-31T18:13:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bucha’s dead demand justice as Europe stands with Ukraine four years on",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260329-funeral-near-beirut-for-journalists-killed-in-israeli-strike",
-      "published_date": "2026-03-29T12:33:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260331-bucha-s-dead-demand-justice-as-europe-stands-with-ukraine-four-years-on",
+      "published_date": "2026-03-31T16:09:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "#Iran: Massive explosion in Isfahan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260331-iran-massive-explosion-in-isfahan",
+      "published_date": "2026-03-31T15:52:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EU shows support to Ukraine at Bucha commemoration",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/eu-shows-support-to-ukraine-at-bucha-commemoration",
+      "published_date": "2026-03-31T15:51:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As Ukraine commemorates the Bucha massacre, Russia rejects idea of Easter truce",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/as-ukraine-commemorates-the-bucha-massacre-russia-rejects-idea-of-easter-truce",
+      "published_date": "2026-03-31T15:26:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel to occupy swaths of south Lebanon and destroy houses near border",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-to-occupy-swaths-of-south-lebanon-and-destroy-houses-near-border",
+      "published_date": "2026-03-31T15:21:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "King Charles III to make state visit to the US in April despite calls to cancel over Iran war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260331-king-charles-iii-to-make-state-visit-to-the-us-in-april-despite-calls-to-cancel-over-iran-war",
+      "published_date": "2026-03-31T14:49:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "#KidRock: US Army launches probe over helicopter fly-past",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260331-kidrock-us-army-launches-probe-over-helicopter-fly-past",
+      "published_date": "2026-03-31T14:45:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Canada's Ontario bets on greenhouse farming to boost food sovereignty",
@@ -186,102 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Middle East war impacts world tourism as travelers consider trip choices",
+      "title": "EU faces 'largest oil supply disruption in history', energy expert says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east-war-impacts-world-tourism-as-travelers-consider-trips",
-      "published_date": "2026-03-31T13:21:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "With Iran, US 'trying to put the best face on a mission they did not anticipate'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/with-iran-us-trying-to-put-the-best-face-on-a-mission-they-did-not-anticipate",
-      "published_date": "2026-03-31T13:18:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy denies use of Sicily airbase to US planes carrying weapons for Iran war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/31/italy-denies-sicily-airbase-us-planes-carrying-weapons-iran-war",
-      "published_date": "2026-03-31T13:17:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Replay: Pete Hegseth gives press conference on Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/replay-pete-hegseth-gives-press-conference-on-iran-war",
-      "published_date": "2026-03-31T13:00:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Dumb judges': Trump heckles Supreme Court ahead of pivotal birthright case",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260331-dumb-judges-trump-heckles-supreme-court-ahead-of-pivotal-birthright-case",
-      "published_date": "2026-03-31T10:47:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As US, Israel and Iran continue fighting, question is how to end 'a war of attrition'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/as-us-israel-and-iran-continue-fighting-question-is-how-to-end-a-war-of-attrition",
-      "published_date": "2026-03-31T10:24:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's Bucha commemorates four years since massacre",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-s-bucha-commemorates-four-years-since-massacre",
-      "published_date": "2026-03-31T09:47:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Viktor Orbán has the support of both Russia and the US. Here’s why that doesn’t seem to be doing him any good | Péter Krekó",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/31/viktor-orban-us-russian-support-hungary-iran-war-voters",
-      "published_date": "2026-03-31T04:00:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: allies asked Kyiv about reducing attacks on Russian energy sector, Zelenskyy says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/31/ukraine-war-briefing-allies-asked-kyiv-about-reducing-attacks-on-russian-energy-sector-zelenskyy-says",
-      "published_date": "2026-03-31T01:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Huge fires at Russian oil facilities following Ukraine strikes, satellite images show",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9qdwpnwzwpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T23:36:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump threatens to destroy Iran’s Kharg Island oil hub if no deal reached",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260330-trump-threatens-to-obliterate-iran-kharg-island-oil-hub-if-no-deal-reached-usa-strait-of-hormuz",
-      "published_date": "2026-03-30T21:57:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nigeria's gasoline pump ⁠prices rise by 65%, ​highest in Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nigeria-s-gasoline-pump-prices-rise-by-65-highest-in-africa",
-      "published_date": "2026-03-30T20:19:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump's options in Iran range from bad to worse",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-s-options-in-iran-range-from-bad-to-worse",
-      "published_date": "2026-03-30T19:14:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Boots on the ground? Trump eyes Iran oil hub Kharg Island",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260330-boots-on-the-ground-trump-eyes-iran-oil-hub-kharg-island",
-      "published_date": "2026-03-30T18:14:43+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260331-eu-faces-largest-oil-supply-disruption-in-history-energy-expert-says",
+      "published_date": "2026-03-31T21:09:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "Climate change is making homes shrink and crack",
@@ -410,6 +417,13 @@
       "category": "Energy"
     },
     {
+      "title": "'A New Day Has Come': Veritable treasure hunt as Eiffel Tower fêtes return of Celine Dion",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260331-a-new-day-has-come-veritable-treasure-hunt-as-eiffel-tower-f%C3%AAtes-return-of-celine-dion",
+      "published_date": "2026-03-31T17:08:31+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "French foie-gras makers eye Japan market amid production boom",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260331/french-foie-gras-makers-eye-japan-market-amid-production-boom",
@@ -508,6 +522,76 @@
       "category": "Economy"
     },
     {
+      "title": "US journalist kidnapped in Baghdad by suspected Iranian-backed armed group",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260331-us-journalist-kidnapped-in-baghdad-by-suspected-iranian-backed-armed-group",
+      "published_date": "2026-03-31T20:49:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Report finds there are no safe places for women in Darfur",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/report-finds-there-are-no-safe-place-for-women-in-darfur",
+      "published_date": "2026-03-31T20:21:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian Christmas meal tragedy turns into murder inquiry",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cje470qgl1yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-31T19:52:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court rules against ban on 'conversion therapy' for LGBTQ minors",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-supreme-court-rules-against-ban-on-conversion-therapy-for-lgbtq-minors",
+      "published_date": "2026-03-31T19:03:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK to pay France extra £16m in stopgap deal to patrol Channel beaches",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
+      "published_date": "2026-03-31T18:01:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNRWA chief steps down, seeks probe into killing of hundreds of staff in Gaza",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260331-unrwa-chief-steps-down-seeks-probe-into-killing-of-hundreds-of-staff-in-gaza",
+      "published_date": "2026-03-31T17:41:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Merz criticised after calling for Syrians in Germany to ‘go back’ home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/31/friedrich-merz-criticised-syrians-germany-return",
+      "published_date": "2026-03-31T17:24:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Penguin to sue OpenAI over ChatGPT version of German children’s book",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss",
+      "published_date": "2026-03-31T16:13:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Saint-Denis mayor sues TV channel CNews over racist comments",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260331-new-saint-denis-mayor-sues-tv-channel-cnews-over-racist-comments",
+      "published_date": "2026-03-31T16:10:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion's triumphant return to the city of lights: Ten Paris concerts confirmed",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260331-c%C3%A9line-dion-s-triumphant-return-to-the-city-of-lights-ten-paris-concerts-confirmed",
+      "published_date": "2026-03-31T15:04:27+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran desalination plant in the Strait of Hormuz out of service following strikes",
       "source": "France 24",
       "url": "https://www.france24.com/en/iran-desalination-plant-in-the-strait-of-hormuz-out-of-service-following-strikes",
@@ -575,76 +659,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260331-green-wave-ebbs-in-local-elections-as-french-greens-become-key-allies-on-left-politics",
       "published_date": "2026-03-31T06:07:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion makes her big comeback with concerts in Paris after six year hiatus",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260330-c%C3%A9line-dion-makes-her-big-comeback-with-concerts-in-paris-after-six-year-hiatus",
-      "published_date": "2026-03-30T22:57:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T20:07:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police arrest two more over attempted attack on US bank HQ in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/police-arrest-two-more-over-attempted-attack-on-us-bank-hq-in-paris",
-      "published_date": "2026-03-30T18:33:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TV star’s AI porn allegations spark national debate in Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/30/collien-fernandes-deepfake-porn-allegations-digital-violence-against-women",
-      "published_date": "2026-03-30T16:12:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amnesty warns of 'serious risks' to certain fans during 2026 World Cup",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260330-amnesty-warns-of-serious-risks-to-certain-fans-during-2026-world-cup-united-states-mexico-canada",
-      "published_date": "2026-03-30T15:53:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paintings by Renoir, Cézanne and Matisse stolen from Italian museum",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260330-paintings-by-renoir-c%C3%A9zanne-and-matisse-stolen-from-italian-museum",
-      "published_date": "2026-03-30T15:25:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Captain of Russian 'shadow tanker' sentenced to one year in French prison",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260330-captain-of-russian-shadow-tanker-sentenced-to-one-year-in-french-prison-sanctions",
-      "published_date": "2026-03-30T15:18:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Lebanon: Locals remain as war rages on",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260330-south-lebanon-locals-remain-as-war-rages-on",
-      "published_date": "2026-03-30T14:44:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France hands captain of suspected Russian 'shadow fleet' tanker one-year jail sentence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260330-france-hands-captain-of-suspected-russian-shadow-fleet-tanker-one-year-jail-sentence",
-      "published_date": "2026-03-30T14:44:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Paris mayor vows to tackle systemic abuse in after-school programmes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/new-paris-mayor-vows-to-tackle-systemic-abuse-in-after-school-programmes",
-      "published_date": "2026-03-30T14:34:18+00:00",
       "category": "Local Events"
     }
   ]
