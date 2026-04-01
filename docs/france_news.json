@@ -1,8 +1,71 @@
 {
   "country": "France",
-  "last_updated": "2026-04-01T00:04:17.453576+00:00",
-  "story_count": 94,
+  "last_updated": "2026-04-01T14:55:54.768036+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Starmer says he will push for ‘closer partnership’ with EU after Iran war highlights global volatility – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates",
+      "published_date": "2026-04-01T14:35:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T14:00:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Strategy of ecological terror. Desalination as a weapon of war' in the Middle East",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/strategy-of-ecological-terror-desalination-as-a-weapon-of-war-in-the-middle-east",
+      "published_date": "2026-04-01T11:18:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump strongly considering pulling US out of NATO, Britain's Telegraph reports",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260401-trump-strongly-considering-pulling-us-out-of-nato-says-britain-s-telegraph",
+      "published_date": "2026-04-01T09:13:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron hails France-Japan ties after talks in Tokyo with PM Takaichi",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260401-watch-live-macron-gives-tokyo-press-conference-after-talks-with-japan-s-pm-takaichi",
+      "published_date": "2026-04-01T08:43:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France eyes ban on social media for under-15s",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260401/france-eyes-ban-on-social-media-for-under-15s",
+      "published_date": "2026-04-01T06:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Raise our heads and resist’: how Europe’s civil society is fighting back against the far right",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/apr/01/raise-our-heads-and-resist-how-europes-civil-society-is-fighting-back-against-the-far-right",
+      "published_date": "2026-04-01T06:30:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Delayed by EU entry/exit system? Then travel light",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/01/delayed-by-eu-entry-exit-system-then-travel-light",
+      "published_date": "2026-04-01T06:00:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: Ukraine calls Hungary ‘a disgrace’ after leaked calls with Moscow emerge",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/01/ukraine-war-briefing-ukraine-calls-hungary-a-disgrace-after-leaked-calls-with-moscow-emerge",
+      "published_date": "2026-04-01T01:18:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Five EU countries 'deliberately eroding' rule of law, report shows",
       "source": "France 24",
@@ -81,67 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Small boats deal between France and UK is on verge of collapse",
+      "title": "Macron praises Europe’s predictability in face of countries that ‘hurt you without even informing you’ – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/30/uk-france-beach-patrol-deal-intercept-small-boats-negotiations-deadlocked",
-      "published_date": "2026-03-30T18:36:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/apr/01/zelenskyy-trump-putin-ukraine-russia-war-easter-ceasefire-iran-europe-latest-news-updates",
+      "published_date": "2026-04-01T14:42:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sir Westmacott challenges Trump rationale as war on Iran sparks 'serious' economic fallout worldwide",
+      "title": "Iran war shows UK needs ‘ambitious’ new EU ties, Starmer says, as Trump again criticises Nato",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/01/uk-needs-ambitious-new-eu-ties-amid-iran-war-starmer-says",
+      "published_date": "2026-04-01T13:02:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Trump says will be leaving Iran 'very soon'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260330-sir-westmacott-challenges-trump-rationale-as-war-on-iran-sparks-serious-economic-fallout-worldwide",
-      "published_date": "2026-03-30T18:26:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260401-us-trump-says-will-be-leaving-iran-very-soon",
+      "published_date": "2026-04-01T13:02:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Several French far-right mayors take down EU flags",
+      "title": "Gulf allies privately make the case to Trump to keep fighting Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260401-gulf-allies-privately-make-the-case-to-trump-to-keep-fighting-iran",
+      "published_date": "2026-04-01T12:58:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan: rebels using sexual violence in Darfur as 'war weapon', says MSF",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260401-sudan-rebels-using-sexual-violence-in-darfur-as-war-weapon-says-msf",
+      "published_date": "2026-04-01T11:42:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France denies blocking US flights as Israel cuts defence ties",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260401-france-denies-blocking-us-flights-as-israel-cuts-defence-ties",
+      "published_date": "2026-04-01T11:39:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says the US could end the Iran war in two to three weeks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260401-trump-says-the-us-could-end-the-iran-war-in-two-to-three-weeks",
+      "published_date": "2026-04-01T10:33:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in the Middle East: Israeli strikes kill 7 in Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260401-war-in-the-middle-east-israeli-strikes-kill-7-in-lebanon",
+      "published_date": "2026-04-01T10:22:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian military plane crash kills 29 in occupied Crimea",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T09:55:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The latest from Tehran: 'Air strikes hit non-military targets every day'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260401-the-latest-from-tehran-airstrikes-hit-non-military-targets-every-day",
+      "published_date": "2026-04-01T09:37:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France 'very unhelpful': Trump lashes out at allies",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260401-france-very-unhelpful-trump-lashes-out-at-allies",
+      "published_date": "2026-04-01T09:36:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon says Israeli strikes on Beirut area kill 7",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260401-lebanon-says-israeli-strikes-on-beirut-area-kill-7",
+      "published_date": "2026-04-01T09:35:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French state buys nuclear supercomputer firm",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260330/several-french-far-right-mayors-take-down-eu-flags",
-      "published_date": "2026-03-30T15:15:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.fr/20260401/french-state-buys-nuclear-supercomputer-firm",
+      "published_date": "2026-04-01T06:49:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Apple subsidiary fined by UK government over Moscow sanctions breach",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/mar/30/apple-subsidiary-fine-uk-government-sanctions-russia",
-      "published_date": "2026-03-30T12:49:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU tackles Europe's housing crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260330-eu-tackles-europe-s-housing-crisis",
-      "published_date": "2026-03-30T10:37:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fears of increased small boat Channel crossings as UK-French deal nears end",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/30/fears-increased-small-boat-channel-crossings-uk-french-deal-nears-end-shabana-mahmood",
-      "published_date": "2026-03-30T08:00:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Five EU governments found to ‘consistently’ dismantle rule of law",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/mar/30/five-eu-governments-consistently-dismantle-rule-of-law-finds-civil-liberties-union-for-europe",
-      "published_date": "2026-03-30T05:01:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli police bar top Catholic figure in Jerusalem from holding Palm Sunday mass at Holy Sepulchre",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israeli-police-bar-top-catholic-figure-in-jerusalem-from-holding-palm-sunday-mass-at-holy-sepulchre",
-      "published_date": "2026-03-29T16:33:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU offers UK ‘emergency brake’ on youth mobility scheme numbers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/mar/29/eu-offers-uk-emergency-brake-youth-mobility-scheme-numbers",
-      "published_date": "2026-03-29T15:00:01+00:00",
-      "category": "Diplomacy"
+      "title": "PODCAST: Oil crisis fuels French anger and is France sleepwalking into a far-right presidency?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260401/podcast-oil-crisis-fuels-french-anger-and-is-france-sleepwalking-into-a-far-right-presidency",
+      "published_date": "2026-04-01T05:54:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Lebanon condemns Israel’s 'clear intention' to impose new occupation of its territory",
@@ -186,102 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "Can Lebanon keep it together? Government faces Israeli invasion, standoff with Hezbollah",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260331-can-lebanon-keep-it-together-government-faces-israeli-invasion-standoff-with-hezbollah",
-      "published_date": "2026-03-31T18:13:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bucha’s dead demand justice as Europe stands with Ukraine four years on",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260331-bucha-s-dead-demand-justice-as-europe-stands-with-ukraine-four-years-on",
-      "published_date": "2026-03-31T16:09:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "#Iran: Massive explosion in Isfahan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260331-iran-massive-explosion-in-isfahan",
-      "published_date": "2026-03-31T15:52:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU shows support to Ukraine at Bucha commemoration",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/eu-shows-support-to-ukraine-at-bucha-commemoration",
-      "published_date": "2026-03-31T15:51:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Ukraine commemorates the Bucha massacre, Russia rejects idea of Easter truce",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/as-ukraine-commemorates-the-bucha-massacre-russia-rejects-idea-of-easter-truce",
-      "published_date": "2026-03-31T15:26:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel to occupy swaths of south Lebanon and destroy houses near border",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-to-occupy-swaths-of-south-lebanon-and-destroy-houses-near-border",
-      "published_date": "2026-03-31T15:21:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "King Charles III to make state visit to the US in April despite calls to cancel over Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260331-king-charles-iii-to-make-state-visit-to-the-us-in-april-despite-calls-to-cancel-over-iran-war",
-      "published_date": "2026-03-31T14:49:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "#KidRock: US Army launches probe over helicopter fly-past",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260331-kidrock-us-army-launches-probe-over-helicopter-fly-past",
-      "published_date": "2026-03-31T14:45:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada's Ontario bets on greenhouse farming to boost food sovereignty",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260331-canada-s-ontario-bets-on-greenhouse-farming-to-boost-food-sovereignty",
-      "published_date": "2026-03-31T14:36:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain defends blocking US from using bases for Iran strikes: ‘We don’t accept lectures from anyone’ – Europe live",
+      "title": "In Europe, lobbyists are using soaring fuel prices to make the case for more dirty energy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/mar/31/europe-ukraine-bucha-eu-russia-hungary-iran-denmark-latest-news-updates",
-      "published_date": "2026-03-31T14:33:32+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/apr/01/in-europe-lobbyists-are-using-soaring-fuel-prices-to-make-the-case-for-more-dirty-energy",
+      "published_date": "2026-04-01T14:30:58+00:00",
+      "category": "Energy"
     },
     {
-      "title": "How Trump’s dream of seizing enriched uranium from Iran could end in catastrophe",
+      "title": "Brussels urges EU states to 'coordinate' in face of oil price hike",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260331-how-trump-s-dream-of-seizing-enriched-uranium-from-iran-could-end-in-catastrophe",
-      "published_date": "2026-03-31T14:19:51+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260401-brussels-urges-eu-states-to-coordinate-in-face-of-oil-price-hike",
+      "published_date": "2026-04-01T13:06:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Easter eggs smaller and more expensive as cocoa prices remain high",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/easter-eggs-smaller-and-more-expensive-as-cocoa-prices-remain-high",
-      "published_date": "2026-03-31T14:17:00+00:00",
-      "category": "Military"
+      "title": "Britain to host 35 countries for strait of Hormuz talks, says Starmer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/01/hormuz-strait-talks-britain-starmer",
+      "published_date": "2026-04-01T11:53:58+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel to destroy all houses in South Lebanon buffer-zone",
+      "title": "REPLAY: France's Macron, Japan Takaichi hold press briefing",
       "source": "France 24",
-      "url": "https://www.france24.com/en/israel-to-destroy-all-houses-in-south-lebanon-buffer-zone",
-      "published_date": "2026-03-31T14:07:39+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260401-replay-france-s-macron-japan-takaichi-hold-press-briefing",
+      "published_date": "2026-04-01T10:35:12+00:00",
+      "category": "Energy"
     },
     {
-      "title": "EU ministers in Kyiv to look at justice for crimes committed in Bucha",
+      "title": "Trump's new library draws ridicule as ‘ego tower’ rather than museum",
       "source": "France 24",
-      "url": "https://www.france24.com/en/eu-ministers-in-kyiv-to-look-at-justice-for-crimes-committed-in-bucha",
-      "published_date": "2026-03-31T13:24:08+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260401-trump-s-new-library-draws-ridicule-as-ego-tower-rather-than-museum",
+      "published_date": "2026-04-01T09:32:58+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "PM orders France to step up electrification projects in face of oil crisis",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260401/pm-orders-france-to-step-up-electrification-projects-in-face-of-oil-crisis",
+      "published_date": "2026-04-01T08:51:38+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "EU probes French aid to EDF over the construction of new nuclear reactors",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260401-eu-probes-french-aid-to-edf-over-the-construction-of-new-nuclear-reactors",
+      "published_date": "2026-04-01T06:02:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "EU faces 'largest oil supply disruption in history', energy expert says",
@@ -375,46 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Europe turns to Algeria as war causes Middle East gas supplies to falter",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260328-europe-turns-to-algeria-as-war-causes-middle-east-gas-supplies-to-falter",
-      "published_date": "2026-03-28T06:43:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "'We need to double down' on energy autonomy: EIB chief Nadia Calviño",
+      "title": "Russia demands France release woman arrested for suspected espionage",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260327-we-need-to-double-down-on-energy-autonomy-eib-chief-nadia-calvi%C3%B1o",
-      "published_date": "2026-03-27T17:14:01+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/europe/20260401-russia-demands-france-release-woman-arrested-for-suspected-espionage",
+      "published_date": "2026-04-01T13:44:22+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Weather tracker: Cold weather sweeps Europe and cyclone hits Australia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/27/weather-tracker-cold-weather-sweeps-europe-cyclone-hits-australia",
-      "published_date": "2026-03-27T09:24:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Turkey-operated tanker carrying Russian oil struck by naval drone in Black Sea",
+      "title": "'Africa fashion' opens in Paris, celebrates rapid growth of African design scene",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260326-turkey-operated-tanker-carrying-russian-oil-struck-by-naval-drone-in-black-sea",
-      "published_date": "2026-03-26T09:21:14+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "France confirms oil crisis, says 30-40 percent of Gulf energy infrastructure destroyed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-confirms-oil-crisis-says-30-40-gulf-energy-infrastructure-destroyed",
-      "published_date": "2026-03-25T22:10:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil supply shock hardens energy transition resolve – for some",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260325-oil-supply-shock-hardens-energy-transition-resolve-%E2%80%93-for-some",
-      "published_date": "2026-03-25T13:26:11+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260401-africa-fashion-opens-in-paris-celebrates-rapid-growth-of-african-design-scene",
+      "published_date": "2026-04-01T10:58:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "'A New Day Has Come': Veritable treasure hunt as Eiffel Tower fêtes return of Celine Dion",
@@ -515,11 +536,53 @@
       "category": "Economy"
     },
     {
-      "title": "Inflation in France jumps as Iran war hits growth and spending",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260325-inflation-in-france-jumps-as-iran-war-hits-growth-and-spending",
-      "published_date": "2026-03-25T08:20:41+00:00",
-      "category": "Economy"
+      "title": "Family of man killed in 2020 arrest to sue French state",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260401/family-of-man-killed-in-2020-arrest-to-sue-french-state",
+      "published_date": "2026-04-01T14:45:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "8 favourite French words of the day",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260401/8-favourite-french-words-of-the-day-11",
+      "published_date": "2026-04-01T14:13:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tourists flock to Paris, cheapest capital in Europe – archive, 1926",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/01/tourists-flock-to-paris-cheapest-capital-in-europe-1926",
+      "published_date": "2026-04-01T10:16:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court rules against ban on 'conversion therapy' for LGBTQ minors",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260401-us-supreme-court-rules-against-ban-on-conversion-therapy-for-lgbtq-minors",
+      "published_date": "2026-04-01T09:34:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French PM denounces ‘racism’ after attacks on hard-left mayor",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260401/french-pm-denounces-racism-after-attacks-on-hard-left-mayor",
+      "published_date": "2026-04-01T07:07:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Word of the Day: Astérixé",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260401/french-word-of-the-day-asterixe",
+      "published_date": "2026-04-01T05:58:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why every woman can see herself in the story of a German celebrity couple’s split | Fatma Aydemir",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/01/why-every-woman-can-see-herself-in-the-story-of-a-german-celebrity-couples-split",
+      "published_date": "2026-04-01T04:00:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US journalist kidnapped in Baghdad by suspected Iranian-backed armed group",
@@ -610,55 +673,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/arts24/20260331-africa-fashion-a-continent-of-style-comes-to-paris",
       "published_date": "2026-03-31T14:01:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Kenyan landlords helping fight gender-based violence",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-africa/20260331-the-kenyan-landlords-helping-fight-gender-based-violence",
-      "published_date": "2026-03-31T13:36:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British skier dies in French Alps",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260331/british-skier-dies-in-french-alps",
-      "published_date": "2026-03-31T12:10:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kissing a woman's hand can be sexual assault, Spanish court finds",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2w6239p64o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T11:37:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Paris, I'm ready': Céline Dion announces comeback concerts in Eiffel Tower message",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260331-paris-i-m-ready-c%C3%A9line-dion-announces-comeback-concerts-in-eiffel-tower-message",
-      "published_date": "2026-03-31T11:35:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French ambulance strike announced for April",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260331/french-ambulance-strike-announced-for-april",
-      "published_date": "2026-03-31T10:08:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Celine Dion announces Paris comeback following health struggle",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260331/celine-dion-announces-paris-comeback-following-health-struggle",
-      "published_date": "2026-03-31T08:07:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Green wave' ebbs in local elections, as French Greens become key allies on left",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260331-green-wave-ebbs-in-local-elections-as-french-greens-become-key-allies-on-left-politics",
-      "published_date": "2026-03-31T06:07:59+00:00",
       "category": "Local Events"
     }
   ]
