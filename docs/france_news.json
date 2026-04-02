@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-04-01T14:55:54.768036+00:00",
-  "story_count": 96,
+  "last_updated": "2026-04-02T00:01:23.106224+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Trump administration lifts sanctions on Venezuela’s interim leader",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260401-us-lifts-sanctions-on-venezuela-interim-leader-delcy-rodriguez",
+      "published_date": "2026-04-01T20:44:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO 'doesn't really exist anymore other than on paper', experts say",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nato-doesn-t-really-exist-anymore-other-than-on-paper-experts-say",
+      "published_date": "2026-04-01T19:11:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on Ukraine’s perilous spring: Europe’s steadfast support is more vital than ever | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/01/the-guardian-view-on-ukraines-perilous-spring-europes-steadfast-support-is-more-vital-than-ever",
+      "published_date": "2026-04-01T18:32:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump lashes out at Nato: will Europe stand up to him? - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/apr/01/trump-lashes-out-at-nato-will-europe-stand-up-to-him-the-latest",
+      "published_date": "2026-04-01T16:26:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU cohesion in the Creuse by numbers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/fact-or-fake/20260401-eu-cohesion-in-the-creuse-by-numbers",
+      "published_date": "2026-04-01T15:45:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and Japan deepen ties, urging calm as Middle East tensions escalate",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260401-france-and-japan-deepen-ties-urging-calm-as-middle-east-tensions-escalate",
+      "published_date": "2026-04-01T15:28:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Transatlantic rift widens as Trump lashes out at NATO",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260401-transatlantic-rift-widens-as-trump-lashes-out-at-nato",
+      "published_date": "2026-04-01T15:22:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Starmer says he will push for ‘closer partnership’ with EU after Iran war highlights global volatility – UK politics live",
       "source": "The Guardian",
@@ -81,6 +130,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Tusk and Irish PM call Hungarian foreign minister’s alleged links to Russia ‘repulsive’ and ‘sinister’ – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/mar/31/europe-ukraine-bucha-eu-russia-hungary-iran-denmark-latest-news-updates",
+      "published_date": "2026-03-31T17:04:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Bucha massacre 'part of deliberate campaign to pave a road of destruction to Kyiv'",
       "source": "France 24",
       "url": "https://www.france24.com/en/bucha-massacre-part-of-deliberate-campaign-to-pave-a-road-of-destruction-to-kyiv",
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU says Israel's plans to introduce death penalty law for Palestinians 'very concerning'",
+      "title": "Trump to deliver 'important update' on Iran war in televised speech",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260331-eu-says-israel-s-plans-to-introduce-death-penalty-law-for-palestinians-very-concerning",
-      "published_date": "2026-03-31T13:26:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20260401-trump-to-deliver-important-update-on-iran-war-in-televised-speech",
+      "published_date": "2026-04-01T22:05:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel's new death penalty law is more of 'an annexation law'",
+      "title": "'It's a nightmare for Keir Starmer' as UK PM sees 'special relationship' with US unravel",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260331-israel-s-new-death-penalty-law-is-more-of-an-annexation-law",
-      "published_date": "2026-03-31T13:15:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/it-s-a-nightmare-for-keir-starmer-as-uk-pm-sees-special-relationship-with-us-unravel",
+      "published_date": "2026-04-01T19:37:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron arrives in Japan on visit dominated by economic consequences of Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260331-macron-arrives-in-japan-on-visit-dominated-by-economic-consequences-of-iran-war",
-      "published_date": "2026-03-31T11:36:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU ministers commemorate Bucha massacre and reaffirm support to Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/eu-ministers-commemorate-bucha-massacre-and-reaffirm-support-to-ukraine",
-      "published_date": "2026-03-31T10:21:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU diplomats mark Bucha massacre anniversary, affirms support for Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260331-eu-diplomats-mark-bucha-massacre-anniversary-affirms-support-for-ukraine",
-      "published_date": "2026-03-31T09:37:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron visits Japan, South Korea for talks dominated by Middle East war",
+      "title": "France plans inquiry as cost of nuclear waste project hits €33bn",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260331-macron-visits-japan-south-korea-for-talks-dominated-by-middle-east-war",
-      "published_date": "2026-03-31T08:39:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/france/20260401-france-plans-inquiry-as-cost-of-nuclear-waste-project-hits-%E2%82%AC33bn-cig%C3%A9o",
+      "published_date": "2026-04-01T15:46:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can Europe’s public service media survive attacks by the far right?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/31/can-europes-public-service-media-survive-attacks-by-the-far-right",
-      "published_date": "2026-03-31T06:30:33+00:00",
-      "category": "Diplomacy"
+      "title": "Israel says will reduce French defence imports 'to zero'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260401-israel-says-will-reduce-french-defence-imports-to-zero",
+      "published_date": "2026-04-01T15:20:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "European airports record longer waits at borders as EES deadline looms",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260330/european-airports-record-longer-border-waiting-times-as-ees-deadline-looms",
-      "published_date": "2026-03-30T19:31:07+00:00",
-      "category": "Diplomacy"
+      "title": "Bedouins in Israel’s Negev desert face bomb shelter shortage",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20260401-bedouins-israel-negev-desert-shortage-bomb-shelters",
+      "published_date": "2026-04-01T15:17:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Macron praises Europe’s predictability in face of countries that ‘hurt you without even informing you’ – Europe live",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US fuel prices surge past $4 a gallon",
+      "title": "When the oil runs dry: What next for globalization as Asia bears brunt of Iran war?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260331-us-fuel-prices-surge-past-4-a-gallon",
-      "published_date": "2026-03-31T21:04:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Get your own oil’: Trump launches tirade against Europe for not joining Iran war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/31/trump-launches-tirade-against-european-countries-not-joining-iran-war",
-      "published_date": "2026-03-31T21:01:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gulf allies privately make the case to Trump to keep fighting until Iran is decisively defeated",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/gulf-allies-privately-make-the-case-to-trump-to-keep-fighting-until-iran-is-decisively-defeated",
-      "published_date": "2026-03-31T19:31:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burundi's main city rocked by blasts after electrical fire at military store",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260331-blasts-hit-burundi-s-main-city-after-electrical-fire-at-military-store",
-      "published_date": "2026-03-31T19:20:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe pushes back on US military operations as concerns over Iran war mount",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe-pushes-back-on-us-military-operations-as-concerns-over-iran-war-mount",
-      "published_date": "2026-03-31T18:36:07+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260401-when-the-oil-runs-dry-what-next-for-globalization-as-asia-bears-brunt-of-iran-war",
+      "published_date": "2026-04-01T18:30:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "In Europe, lobbyists are using soaring fuel prices to make the case for more dirty energy",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Egypt imposes energy-saving curbs as Hormuz closure hits fuel supply",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260328-egypt-imposes-energy-saving-curbs-as-hormuz-closure-hits-fuel-supply",
-      "published_date": "2026-03-28T11:56:50+00:00",
-      "category": "Energy"
+      "title": "EU cohesion in Corsica by numbers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/fact-or-fake/20260401-eu-cohesion-funds-in-corsica-by-the-numbers",
+      "published_date": "2026-04-01T15:40:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "Russia demands France release woman arrested for suspected espionage",
@@ -536,6 +543,41 @@
       "category": "Economy"
     },
     {
+      "title": "South Africa deploys military to Cape Town townships hit by crime",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/south-africa-deploys-military-to-cape-town-townships-hit-by-crime",
+      "published_date": "2026-04-01T20:23:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump attends birthright citizenship hearing at Supreme Court in historic first",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260401-trump-attends-birthright-citizenship-hearing-at-supreme-court-in-historic-first",
+      "published_date": "2026-04-01T19:56:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedish PM offers deal that could see far-right allowed into government",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/01/swedish-pm-offers-deal-that-could-see-far-right-allowed-into-government",
+      "published_date": "2026-04-01T18:29:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "High times or low blows? Experts fail to clear air over German drug legalisation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
+      "published_date": "2026-04-01T16:48:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Families cram into Greek court for trial into deadliest train crash",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T16:30:17+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Family of man killed in 2020 arrest to sue French state",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260401/family-of-man-killed-in-2020-arrest-to-sue-french-state",
@@ -638,41 +680,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss",
       "published_date": "2026-03-31T16:13:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Saint-Denis mayor sues TV channel CNews over racist comments",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260331-new-saint-denis-mayor-sues-tv-channel-cnews-over-racist-comments",
-      "published_date": "2026-03-31T16:10:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion's triumphant return to the city of lights: Ten Paris concerts confirmed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260331-c%C3%A9line-dion-s-triumphant-return-to-the-city-of-lights-ten-paris-concerts-confirmed",
-      "published_date": "2026-03-31T15:04:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran desalination plant in the Strait of Hormuz out of service following strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-desalination-plant-in-the-strait-of-hormuz-out-of-service-following-strikes",
-      "published_date": "2026-03-31T14:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fifa chief hails Mexico's readiness as teams prepare for World Cup finals",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260331-fifa-chief-hails-mexico-s-readiness-as-teams-prepare-for-world-cup-finals",
-      "published_date": "2026-03-31T14:21:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Africa Fashion: A continent of style comes to Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260331-africa-fashion-a-continent-of-style-comes-to-paris",
-      "published_date": "2026-03-31T14:01:52+00:00",
       "category": "Local Events"
     }
   ]
