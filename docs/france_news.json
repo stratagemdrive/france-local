@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-04-03T00:03:27.429646+00:00",
-  "story_count": 96,
+  "last_updated": "2026-04-03T12:05:48.824194+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "French teen admits killing her grandparents over relationship feud: prosecutors",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260403/french-teen-admits-killing-her-grandparents-over-relationship-feud-prosecutors",
+      "published_date": "2026-04-03T06:55:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and South Korea deepen defence cooperation amid Middle East war",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260403-france-and-south-korea-deepen-defence-cooperation-amid-middle-east-war-macron",
+      "published_date": "2026-04-03T06:49:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron says Trump marriage jibe does not 'merit response'",
       "source": "France 24",
@@ -130,18 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump lashes out at Nato: will Europe stand up to him? - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/apr/01/trump-lashes-out-at-nato-will-europe-stand-up-to-him-the-latest",
-      "published_date": "2026-04-01T16:26:33+00:00",
-      "category": "Diplomacy"
+      "title": "Iran Guards recruit children to ‘defend the homeland’, placing them in line of fire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260403-iran-guards-recruit-children-defend-homeland-irgc-basij",
+      "published_date": "2026-04-03T11:48:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU cohesion in the Creuse by numbers",
+      "title": "Israel army says will strike two bridges in east Lebanon",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/fact-or-fake/20260401-eu-cohesion-in-the-creuse-by-numbers",
-      "published_date": "2026-04-01T15:45:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260403-middle-east-live-un-security-council-to-vote-on-force-to-protect-hormuz-access",
+      "published_date": "2026-04-03T11:18:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French ship makes first Western European transit of Hormuz since Iran conflict",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260403-french-ship-makes-first-western-european-transit-of-hormuz-since-iran-conflict",
+      "published_date": "2026-04-03T11:17:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War crimes complaint filed in France over 2024 deadly Beirut building strike",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260403-war-crimes-complaint-filed-in-france-over-2024-deadly-beirut-building-strike",
+      "published_date": "2026-04-03T10:20:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Artemis II: One giant leap for deep space toiletry",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260403-artemis-ii-one-giant-leap-for-deep-space-toiletry",
+      "published_date": "2026-04-03T10:14:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO members boost defence spending to cut reliance on US",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260403-nato-members-boost-defence-spending-to-cut-reliance-on-us",
+      "published_date": "2026-04-03T10:02:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia conducts massive rolling aerial attacks on Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260403-russia-conducts-massive-rolling-aerial-attacks-ukraine",
+      "published_date": "2026-04-03T09:58:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Israeli strikes destroy Iranian highway bridge",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260403-us-israeli-strikes-destroy-iranian-highway-bridge",
+      "published_date": "2026-04-03T09:47:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hegseth ousts US Army chief of staff",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260403-hegseth-ousts-us-army-chief-of-staff",
+      "published_date": "2026-04-03T08:53:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN Security Council to vote on authorizing force to protect Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260403-un-security-council-to-vote-on-authorizing-force-to-protect-hormuz",
+      "published_date": "2026-04-03T08:52:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Myanmar’s parliament elects coup-leading general as civilian president",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260403-myanmar-junta-chief-elected-as-president",
+      "published_date": "2026-04-03T06:59:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Disturbing trend’ of US-Israeli strikes hitting non-military targets in Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/disturbing-trend-of-us-israeli-strikes-hitting-non-military-targets-in-iran",
+      "published_date": "2026-04-03T05:38:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy offers expertise on keeping waterways open amid Middle East conflict",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/03/ukraine-war-briefing-zelenskyy-expertise-waterways-open-middle-east-conflict",
+      "published_date": "2026-04-03T00:20:23+00:00",
+      "category": "Military"
     },
     {
       "title": "'Any weapon Europe buys from the US is a liability', rearmament expert says",
@@ -193,95 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "US and Israel 'again bombing what were clearly non-military sites' in Iran",
+      "title": "The fight for mineral data in DRC: Belgian museum, US mining firm at odds over archive maps",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-and-israel-again-bombing-what-were-clearly-non-military-sites-in-iran",
-      "published_date": "2026-04-02T18:50:27+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260403-the-fight-for-mineral-data-in-drc-belgian-museum-us-mining-firm-at-odds-over-archive-maps",
+      "published_date": "2026-04-03T10:31:53+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump’s surreal speech on Iran shed no light on his goals | Kenneth Roth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/02/trump-iran-speech-reaction",
-      "published_date": "2026-04-02T18:29:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe should lift sanctions on Russian energy amid Iran crisis, Viktor Orbán says as he taunts Tusk – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/02/europe-nato-rutte-trump-criticisms-iran-ukraine-latest-news-updates",
-      "published_date": "2026-04-02T14:33:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil price jumps and markets slide after Trump warning to Iran",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/02/oil-price-rises-markets-slide-following-trump-iran-war-address",
-      "published_date": "2026-04-02T14:18:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war creates multi-faceted challenge for airlines",
+      "title": "Artemis II astronauts ignite engines and head for lunar flyby",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-middle-east-war-creates-multi-faceted-challenge-for-airlines",
-      "published_date": "2026-04-02T14:12:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'People are exhausted': No end in sight as Lebanon enters second month of war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-people-are-exhausted-no-end-in-sight-as-lebanon-enters-second-month-of-war",
-      "published_date": "2026-04-02T14:11:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'The scale of sexual violence is horrific': MSF head of mission Amande Bazerolle",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260402-the-scale-of-sexual-violence-is-horrific-msf-amande-bazerolle",
-      "published_date": "2026-04-02T13:39:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hani’s race against time: Cancer in a time of war in Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-hani-s-race-against-time-cancer-in-a-time-of-war-in-lebanon",
-      "published_date": "2026-04-02T12:10:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US war on Iran: Reactions in Israel as Trump’s address 'barely' mention ally",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-us-war-on-iran-reactions-in-israel-as-trump-s-address-puts-us-interests-first",
-      "published_date": "2026-04-02T12:04:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Back to the Stone Ages’:  #Trump says #Iran war nearly over in national #address",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-back-to-the-stone-ages-trump-says-iran-war-nearly-over-in-national-address",
-      "published_date": "2026-04-02T10:44:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Takeaways from Trump's address: No end date for Iran war and few details on strategy ahead",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-takeaways-from-trump-s-address-no-end-date-for-iran-war-and-few-details-on-strategy-ahead",
-      "published_date": "2026-04-02T09:49:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran vows 'more destructive' attacks after Trump threats",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-iran-vows-more-destructive-attacks-after-trump-threats",
-      "published_date": "2026-04-02T09:43:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coordinated conflict: how the Ukraine and Iran wars are starting to overlap",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/02/coordinated-conflict-how-the-ukraine-and-iran-wars-are-starting-to-overlap",
-      "published_date": "2026-04-02T08:00:21+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/americas/20260403-artemis-ii-astronauts-ignite-engines-and-head-for-lunar-flyby",
+      "published_date": "2026-04-03T00:16:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "One year on, what remains of Trump's tariffs?",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Climate change is making homes shrink and crack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260331-climate-change-is-making-homes-shrink-and-crack",
-      "published_date": "2026-03-31T11:52:35+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Crude prices whipsaw on mixed signals from Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260331-crude-prices-whipsaw-on-mixed-signals-from-iran-war",
-      "published_date": "2026-03-31T09:59:28+00:00",
-      "category": "Energy"
+      "title": "French easyJet staff call Easter strike",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260403/french-easyjet-staff-call-easter-strike",
+      "published_date": "2026-04-03T09:31:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump signs order threatening up to 100% tariffs on pharmaceuticals",
@@ -435,6 +442,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260402-britain-says-40-countries-discuss-reopening-strait-of-hormuz-after-iran-blockade",
       "published_date": "2026-04-02T14:07:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Reeves criticises Trump for starting Iran war with no ‘clear plan’ to get out of it – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates",
+      "published_date": "2026-04-01T16:15:18+00:00",
       "category": "Economy"
     },
     {
@@ -529,11 +543,109 @@
       "category": "Economy"
     },
     {
-      "title": "Governments controlling prices? It has long been unthinkable – but may now be inevitable | Andy Beckett",
+      "title": "OPINION: Why I enjoy my French colleague's grammar pain",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260403/opinion-why-i-enjoy-my-french-colleagues-grammar-pain",
+      "published_date": "2026-04-03T11:39:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court overturns police ban on Muslim gathering near Paris",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260403-french-police-ban-annual-muslim-event-over-terror-attack-risk-far-right-ramf",
+      "published_date": "2026-04-03T10:40:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Storm batters Greece, killing one, flooding homes and disrupting travel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260403-storm-batters-greece-killing-one-flooding-homes-and-disrupting-travel",
+      "published_date": "2026-04-03T10:29:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weak enforcement blamed for building collapse that killed four in Ghana",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260403-weak-enforcement-blamed-for-building-collapse-that-killed-four-in-ghana",
+      "published_date": "2026-04-03T10:27:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Paris mayor pledges to prevent sexual violence in preschools",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260403/new-paris-mayor-pledges-to-prevent-sexual-violence-in-preschools",
+      "published_date": "2026-04-03T10:26:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Storm Erminio lashes much of Greece as Saharan dust blankets Crete",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/27/governments-controlling-prices-inevitable-mexico-spain-cost-of-living",
-      "published_date": "2026-03-27T08:00:03+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/news/2026/apr/03/storm-erminio-saharan-dust-crete-greece-italy-rain-flooding-afghanistan",
+      "published_date": "2026-04-03T09:00:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French mayor denounces ‘increasingly racist society’",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260403/french-mayor-denounces-increasingly-racist-society",
+      "published_date": "2026-04-03T07:10:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court overrules police ban on annual Muslim event",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260403-paris-police-ban-annual-french-muslim-event-cite-major-terrorist-risk-far-right-groups",
+      "published_date": "2026-04-03T06:47:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Far-right ‘terror risk’ prompts Paris police to ban Muslim gathering",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260403/far-right-terror-risk-prompts-paris-police-to-ban-muslim-gathering",
+      "published_date": "2026-04-03T06:42:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Belle Vie: The return of Celine Dion and French expressions explained",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260403/la-belle-vie-the-return-of-celine-dion-and-french-expressions",
+      "published_date": "2026-04-03T06:03:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Future uncertain in New Caledonia after French MPs block reform plan",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260403-future-uncertain-in-new-caledonia-after-french-mps-block-reform-plan",
+      "published_date": "2026-04-03T05:52:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Tottenham boss De Zerbi apologises to fans for Greenwood comments",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260403-new-tottenham-boss-de-zerbi-apologises-fans-for-greenwood-comments",
+      "published_date": "2026-04-03T05:33:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stop brunch! How a rustic Catalan meal is taking the fight to bland food and overtourism | Abbas Asaria",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/03/stop-brunch-rustic-catalan-meal-food-overtourism-barcelona",
+      "published_date": "2026-04-03T04:00:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nuns who broke back into their Austrian convent ‘are step closer to being able to stay’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/03/nuns-who-broke-back-into-their-austrian-convent-are-step-closer-to-being-able-to-stay",
+      "published_date": "2026-04-03T04:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary elections: what is at stake and who is likely to win?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/03/hungary-elections-viktor-orban-who-will-win",
+      "published_date": "2026-04-03T04:00:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump sacks attorney general, replaces with ex-personal lawyer",
@@ -557,122 +669,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Thomas Pesquet on seeing Earth from space: 'We’re all in the same boat'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260402-thomas-pesquet-on-seeing-earth-from-space-we-re-all-in-the-same-boat",
+      "published_date": "2026-04-02T19:22:14+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Trump fires loyalist Pam Bondi as US attorney general",
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260402-trump-fires-loyalist-pam-bondi-as-us-attorney-general",
       "published_date": "2026-04-02T17:34:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seder held underground in Israel as Iran fires missiles after Trump’s address",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-seder-held-underground-in-israel-as-iran-fires-missiles-after-trump-s-address",
-      "published_date": "2026-04-02T16:11:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Orange skies over Crete as Storm Erminio sweeps Saharan sand across Greek island – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/gallery/2026/apr/02/orange-skies-over-crete-as-storm-erminio-sweeps-saharan-sand-across-greek-island-in-pictures",
-      "published_date": "2026-04-02T16:01:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artist files war crime case in Paris over Israeli strike that killed parents in Lebanon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/02/artist-files-war-case-in-paris-over-israeli-strike-that-killed-parents-in-lebanon",
-      "published_date": "2026-04-02T14:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France ramps up Paris security after foiled attack on US bank",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260402-france-ramps-up-paris-security-after-foiled-attack-on-us-bank",
-      "published_date": "2026-04-02T14:09:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'NASA wants to be back on the moon in a sustainable way', space expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260402-nasa-wants-to-be-back-on-the-moon-in-a-sustainable-way-space-expert-says",
-      "published_date": "2026-04-02T13:40:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’s amazing’: stolen 2,500-year-old Romanian gold helmet has been found",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/apr/02/stolen-romanian-gold-helmet-recovered-netherlands",
-      "published_date": "2026-04-02T13:04:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Citigroup orders home-working as US banks in Paris and Frankfurt tighten security",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260402/citigroup-orders-home-working-as-us-banks-in-paris-and-frankfurt-tighten-security",
-      "published_date": "2026-04-02T12:21:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court justices skeptical of Trump order to restrict birthright citizenship",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-supreme-court-justices-skeptical-of-trump-order-to-restrict-birthright-citizenship",
-      "published_date": "2026-04-02T12:03:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Planned high-speed link between Paris and Spain hit by more delays",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260402/planned-high-speed-link-between-paris-and-spain-hit-by-more-delays",
-      "published_date": "2026-04-02T11:13:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Archaeologists discover wreck of Danish warship sunk by Nelson 225 years ago",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/apr/02/archaeologists-discover-wreck-danish-warship-sunk-admiral-nelson",
-      "published_date": "2026-04-02T10:42:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poppies offer hope in fire-scarred Los Angeles",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-poppies-offer-hope-in-fire-scarred-los-angeles",
-      "published_date": "2026-04-02T09:52:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France jails ex-Lido feather artist for rape, assault of minors",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260402/france-jails-ex-lido-feather-artist-for-rape-assault-of-minors",
-      "published_date": "2026-04-02T06:18:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France charges four over failed attack on US bank",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260402/france-charges-four-over-failed-attack-on-us-bank",
-      "published_date": "2026-04-02T06:13:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa deploys military to Cape Town townships hit by crime",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/south-africa-deploys-military-to-cape-town-townships-hit-by-crime",
-      "published_date": "2026-04-01T20:23:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump attends birthright citizenship hearing at Supreme Court in historic first",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260401-trump-attends-birthright-citizenship-hearing-at-supreme-court-in-historic-first",
-      "published_date": "2026-04-01T19:56:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France charges four over failed attack on US bank",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260401-france-charges-four-over-failed-attack-on-us-bank",
-      "published_date": "2026-04-01T19:06:11+00:00",
       "category": "Local Events"
     }
   ]
