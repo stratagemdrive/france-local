@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-04-02T14:41:50.724285+00:00",
-  "story_count": 97,
+  "last_updated": "2026-04-03T00:03:27.429646+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Macron says Trump marriage jibe does not 'merit response'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/macron-says-trump-marriage-jibe-does-not-merit-response",
+      "published_date": "2026-04-02T19:43:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe, NATO under pressure over Iran war: 'Trump strong with the weak and weak with the strong'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260402-europe-nato-under-pressure-over-iran-war-trump-strong-with-the-weak-and-weak-with-the-strong",
+      "published_date": "2026-04-02T19:41:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'He wasn't convincing to the world and to the American people', former US ambassador to NATO says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/he-wasn-t-convincing-to-the-world-and-to-the-american-people-former-us-ambassador-to-nato-says",
+      "published_date": "2026-04-02T19:40:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘You have to be serious’: Macron criticises Trump’s mixed messages about Nato and Iran",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/02/you-have-to-be-serious-macron-criticises-trumps-mixed-messages-about-nato-and-iran",
+      "published_date": "2026-04-02T17:34:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "First deaths in Channel of 2026 as France and UK weigh how to stop small boats",
       "source": "RFI English",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France and Japan deepen ties, urging calm as Middle East tensions escalate",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260401-france-and-japan-deepen-ties-urging-calm-as-middle-east-tensions-escalate",
-      "published_date": "2026-04-01T15:28:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Transatlantic rift widens as Trump lashes out at NATO",
+      "title": "'Any weapon Europe buys from the US is a liability', rearmament expert says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260401-transatlantic-rift-widens-as-trump-lashes-out-at-nato",
-      "published_date": "2026-04-01T15:22:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260402-any-weapon-europe-buys-from-the-us-is-a-liability-rearmament-expert-says",
+      "published_date": "2026-04-02T21:13:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Starmer says he will push for ‘closer partnership’ with EU after Iran war highlights global volatility – UK politics live",
+      "title": "'Any weapon Europe buys from the US is a liability', rearmament expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/any-weapon-europe-buys-from-the-us-is-a-liability-rearmament-expert-says",
+      "published_date": "2026-04-02T21:11:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia's military campaign in Ukraine stalls for first time in more than two years",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
+      "published_date": "2026-04-02T20:33:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump sacks attorney general Bondi, Hegseth asks US Army Chief of Staff to step down",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-sacks-attorney-general-bondi-hegseth-reportedly-asks-us-army-chief-of-staff-to-step-down",
+      "published_date": "2026-04-02T20:26:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burkina army, jihadists killed more than 1,800 civilians since 2023",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
+      "published_date": "2026-04-02T20:20:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fact-checking Trump's address on the war in Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/fact-checking-trump-s-address-on-the-iran-war",
+      "published_date": "2026-04-02T19:44:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel's Lebanon endgame: 'Dismantle Hezbollah entirely as a political and social movement'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260402-israel-s-lebanon-endgame-dismantle-hezbollah-entirely-as-a-political-and-social-movement",
+      "published_date": "2026-04-02T19:09:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US and Israel 'again bombing what were clearly non-military sites' in Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-and-israel-again-bombing-what-were-clearly-non-military-sites-in-iran",
+      "published_date": "2026-04-02T18:50:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump’s surreal speech on Iran shed no light on his goals | Kenneth Roth",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates",
-      "published_date": "2026-04-01T14:35:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-01T14:00:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/02/trump-iran-speech-reaction",
+      "published_date": "2026-04-02T18:29:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Europe should lift sanctions on Russian energy amid Iran crisis, Viktor Orbán says as he taunts Tusk – Europe live",
@@ -221,67 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Trump to deliver 'important update' on Iran war in televised speech",
+      "title": "One year on, what remains of Trump's tariffs?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260401-trump-to-deliver-important-update-on-iran-war-in-televised-speech",
-      "published_date": "2026-04-01T22:05:07+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/one-year-on-what-remains-of-trump-s-tariffs",
+      "published_date": "2026-04-02T20:43:38+00:00",
+      "category": "Energy"
     },
     {
-      "title": "'It's a nightmare for Keir Starmer' as UK PM sees 'special relationship' with US unravel",
+      "title": "No longer so mighty? Iran war tests US strength and resolve",
       "source": "France 24",
-      "url": "https://www.france24.com/en/it-s-a-nightmare-for-keir-starmer-as-uk-pm-sees-special-relationship-with-us-unravel",
-      "published_date": "2026-04-01T19:37:34+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260402-no-longer-so-mighty-iran-war-tests-us-strength-and-resolve",
+      "published_date": "2026-04-02T18:12:54+00:00",
+      "category": "Energy"
     },
     {
-      "title": "France plans inquiry as cost of nuclear waste project hits €33bn",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260401-france-plans-inquiry-as-cost-of-nuclear-waste-project-hits-%E2%82%AC33bn-cig%C3%A9o",
-      "published_date": "2026-04-01T15:46:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says will reduce French defence imports 'to zero'",
+      "title": "Russia to send second oil tanker to Cuba, minister says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260401-israel-says-will-reduce-french-defence-imports-to-zero",
-      "published_date": "2026-04-01T15:20:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bedouins in Israel’s Negev desert face bomb shelter shortage",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260401-bedouins-israel-negev-desert-shortage-bomb-shelters",
-      "published_date": "2026-04-01T15:17:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Macron praises Europe’s predictability in face of countries that ‘hurt you without even informing you’ – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/01/zelenskyy-trump-putin-ukraine-russia-war-easter-ceasefire-iran-europe-latest-news-updates",
-      "published_date": "2026-04-01T14:42:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war shows UK needs ‘ambitious’ new EU ties, Starmer says, as Trump again criticises Nato",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/01/uk-needs-ambitious-new-eu-ties-amid-iran-war-starmer-says",
-      "published_date": "2026-04-01T13:02:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Trump says will be leaving Iran 'very soon'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260401-us-trump-says-will-be-leaving-iran-very-soon",
-      "published_date": "2026-04-01T13:02:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gulf allies privately make the case to Trump to keep fighting Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260401-gulf-allies-privately-make-the-case-to-trump-to-keep-fighting-iran",
-      "published_date": "2026-04-01T12:58:32+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260402-russia-to-send-second-oil-tanker-to-cuba-minister-says",
+      "published_date": "2026-04-02T16:11:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "Aboard the Sarfaq Ittuk, Greenland's last ferry",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "'The hypocrisy was so stark' expert says, as US reverses course on Cuba oil blockade",
+      "title": "Trump signs order threatening up to 100% tariffs on pharmaceuticals",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260330-the-hypocrisy-was-so-stark-expert-says-as-us-reverses-course-on-cuba-oil-blockade",
-      "published_date": "2026-03-30T21:39:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Houthi attacks stoke fears of more shipping disruption",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260330-houthi-attacks-stoke-fears-of-more-shipping-disruption",
-      "published_date": "2026-03-30T21:03:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "'The Houthis hold serious cards' expert says, amid threats to choke off Red Sea passage",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/the-houthis-hold-serious-cards-expert-says-amid-threats-to-choke-off-red-sea-passage",
-      "published_date": "2026-03-30T19:25:41+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/americas/20260402-trump-signs-order-threatening-up-to-100-tariffs-on-pharmaceuticals",
+      "published_date": "2026-04-02T22:37:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "Britain says 40 countries discuss reopening Strait of Hormuz after Iran blockade",
@@ -529,18 +536,46 @@
       "category": "Economy"
     },
     {
-      "title": "Iran's chokehold on the Strait of Hormuz: Fertiliser supply chains under strain",
+      "title": "Trump sacks attorney general, replaces with ex-personal lawyer",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20260326-iran-s-chokehold-on-the-strait-of-hormuz-fertiliser-supply-chains-under-strain",
-      "published_date": "2026-03-26T17:12:42+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/trump-sacks-attorney-general-replaces-with-ex-personal-lawyer",
+      "published_date": "2026-04-02T21:54:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Greenpeace France announces job cuts amid falling donations",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260326-greenpeace-france-announces-job-cuts-amid-falling-donations",
-      "published_date": "2026-03-26T15:08:19+00:00",
-      "category": "Economy"
+      "title": "Thomas Pesquet on space exploration: 'We’re all on the same boat, we have to take care of the ship'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260402-thomas-pesquet-on-space-exploration-we-re-all-on-the-same-boat-we-have-to-take-care-of-the-ship",
+      "published_date": "2026-04-02T19:25:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thomas Pesquet on space exploration: 'We’re all on the same boat, we have to take care of the ship'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/thomas-pesquet-on-space-exploration-we-re-all-on-the-same-boat-we-have-to-take-care-of-the-ship",
+      "published_date": "2026-04-02T19:22:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump fires loyalist Pam Bondi as US attorney general",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260402-trump-fires-loyalist-pam-bondi-as-us-attorney-general",
+      "published_date": "2026-04-02T17:34:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seder held underground in Israel as Iran fires missiles after Trump’s address",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260402-seder-held-underground-in-israel-as-iran-fires-missiles-after-trump-s-address",
+      "published_date": "2026-04-02T16:11:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Orange skies over Crete as Storm Erminio sweeps Saharan sand across Greek island – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/gallery/2026/apr/02/orange-skies-over-crete-as-storm-erminio-sweeps-saharan-sand-across-greek-island-in-pictures",
+      "published_date": "2026-04-02T16:01:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Artist files war crime case in Paris over Israeli strike that killed parents in Lebanon",
@@ -638,48 +673,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260401-france-charges-four-over-failed-attack-on-us-bank",
       "published_date": "2026-04-01T19:06:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swedish PM offers deal that could see far-right allowed into government",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/01/swedish-pm-offers-deal-that-could-see-far-right-allowed-into-government",
-      "published_date": "2026-04-01T18:29:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High times or low blows? Experts fail to clear air over German drug legalisation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/apr/01/report-germany-cannabis-legalisation-fails-settle-debate",
-      "published_date": "2026-04-01T16:48:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Families cram into Greek court for trial into deadliest train crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-01T16:30:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family of man killed in 2020 arrest to sue French state",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260401/family-of-man-killed-in-2020-arrest-to-sue-french-state",
-      "published_date": "2026-04-01T14:45:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "8 favourite French words of the day",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260401/8-favourite-french-words-of-the-day-11",
-      "published_date": "2026-04-01T14:13:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tourists flock to Paris, cheapest capital in Europe – archive, 1926",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/01/tourists-flock-to-paris-cheapest-capital-in-europe-1926",
-      "published_date": "2026-04-01T10:16:24+00:00",
       "category": "Local Events"
     }
   ]
