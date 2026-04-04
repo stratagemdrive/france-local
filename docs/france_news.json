@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-04-03T12:05:48.824194+00:00",
+  "last_updated": "2026-04-04T00:01:09.814191+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Leaked files reveal Russia's blueprint to expand African Sahel alliance",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260403-leaked-files-reveal-russia-s-blueprint-to-expand-sahel-alliance",
+      "published_date": "2026-04-03T16:25:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How a Russian influence network is spreading anti-Ukrainian propaganda in Ivory Coast",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260403-russian-influence-network-spreading-anti-ukrainian-propaganda-ivory-coast",
+      "published_date": "2026-04-03T14:17:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "French teen admits killing her grandparents over relationship feud: prosecutors",
       "source": "The Local France",
@@ -130,18 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "NATO 'doesn't really exist anymore other than on paper', experts say",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nato-doesn-t-really-exist-anymore-other-than-on-paper-experts-say",
-      "published_date": "2026-04-01T19:11:17+00:00",
-      "category": "Diplomacy"
+      "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T23:14:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Guardian view on Ukraine’s perilous spring: Europe’s steadfast support is more vital than ever | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/01/the-guardian-view-on-ukraines-perilous-spring-europes-steadfast-support-is-more-vital-than-ever",
-      "published_date": "2026-04-01T18:32:13+00:00",
-      "category": "Diplomacy"
+      "title": "Uganda in shock after 4 children killed in kindergarden",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260403-uganda-in-shock-after-4-children-killed-in-kindergarden",
+      "published_date": "2026-04-03T21:48:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two US fighter jets downed in Mideast, one crew member rescued",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260403-two-us-fighter-jets-downed-in-mideast-one-crew-member-rescued",
+      "published_date": "2026-04-03T20:41:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump seeks massive $1.5 trillion defence budget amid Iran war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260403-trump-seeks-massive-1-5-trillion-defence-budget-amid-iran-war",
+      "published_date": "2026-04-03T19:34:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US fighter jet downed. Spencer Boyer speaks to France 24",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260403-us-fighter-jet-downed-spencer-boyer-speaks-to-france-24",
+      "published_date": "2026-04-03T18:48:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran: US fighter jet downed, War “It’s not a show”, The Space Race, Will Syrians leave Germany?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260403-iran-war-it-s-not-a-show-the-space-race-will-syrians-leave-germany",
+      "published_date": "2026-04-03T18:22:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Baltic Sea strikes: How Ukraine aims to undermine Russia's oil profits from Iran war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260403-baltic-sea-strikes-how-ukraine-aims-to-undermine-russia-oil-profits-from-iran-war",
+      "published_date": "2026-04-03T16:03:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "On the ground: 'Massive explosion' rocks northern Tehran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260403-on-the-ground-massive-explosion-rocks-northern-tehran",
+      "published_date": "2026-04-03T15:26:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 1,800 killed by army and jihadists in Burkina Faso since 2023, NGO reports",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260403-more-than-1-800-killed-by-army-and-jihadists-in-burkina-faso-since-2023-ngo-reports",
+      "published_date": "2026-04-03T14:35:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Border town of Tiné caught in the crossfire as Sudan war spills into Chad",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260403-tin%C3%A9-caught-in-the-crossfire-war-in-sudan-spilling-over-into-chad",
+      "published_date": "2026-04-03T13:56:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Strikes hit Lebanon as Israel vows to occupy swathe of south after war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260403-strikes-hit-lebanon-as-israel-vows-to-occupy-swathe-of-south-after-war",
+      "published_date": "2026-04-03T12:38:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran Guards recruit children to ‘defend the homeland’, placing them in line of fire",
@@ -207,81 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "UN Security Council to vote on authorizing force to protect Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260403-un-security-council-to-vote-on-authorizing-force-to-protect-hormuz",
-      "published_date": "2026-04-03T08:52:46+00:00",
-      "category": "Military"
+      "title": "A short history of skiing in France",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/video/20260403-short-history-of-skiing-in-france-climate-change-alps",
+      "published_date": "2026-04-03T15:48:13+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Myanmar’s parliament elects coup-leading general as civilian president",
+      "title": "French-owned CMA CGM container ship passes Strait of Hormuz",
       "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260403-myanmar-junta-chief-elected-as-president",
-      "published_date": "2026-04-03T06:59:11+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260403-french-owned-cma-cgm-container-ship-passes-strait-of-hormuz",
+      "published_date": "2026-04-03T15:30:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘Disturbing trend’ of US-Israeli strikes hitting non-military targets in Iran",
+      "title": "Asian nations ramp up coal power amid Middle East energy crunch",
       "source": "France 24",
-      "url": "https://www.france24.com/en/disturbing-trend-of-us-israeli-strikes-hitting-non-military-targets-in-iran",
-      "published_date": "2026-04-03T05:38:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy offers expertise on keeping waterways open amid Middle East conflict",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/03/ukraine-war-briefing-zelenskyy-expertise-waterways-open-middle-east-conflict",
-      "published_date": "2026-04-03T00:20:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Any weapon Europe buys from the US is a liability', rearmament expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260402-any-weapon-europe-buys-from-the-us-is-a-liability-rearmament-expert-says",
-      "published_date": "2026-04-02T21:13:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Any weapon Europe buys from the US is a liability', rearmament expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/any-weapon-europe-buys-from-the-us-is-a-liability-rearmament-expert-says",
-      "published_date": "2026-04-02T21:11:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's military campaign in Ukraine stalls for first time in more than two years",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-first-time-in-more-than-two-years",
-      "published_date": "2026-04-02T20:33:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump sacks attorney general Bondi, Hegseth asks US Army Chief of Staff to step down",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-sacks-attorney-general-bondi-hegseth-reportedly-asks-us-army-chief-of-staff-to-step-down",
-      "published_date": "2026-04-02T20:26:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burkina army, jihadists killed more than 1,800 civilians since 2023",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
-      "published_date": "2026-04-02T20:20:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fact-checking Trump's address on the war in Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/fact-checking-trump-s-address-on-the-iran-war",
-      "published_date": "2026-04-02T19:44:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel's Lebanon endgame: 'Dismantle Hezbollah entirely as a political and social movement'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260402-israel-s-lebanon-endgame-dismantle-hezbollah-entirely-as-a-political-and-social-movement",
-      "published_date": "2026-04-02T19:09:37+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/access-asia/20260403-asian-nations-ramp-up-coal-power-amid-middle-east-energy-crunch",
+      "published_date": "2026-04-03T13:38:30+00:00",
+      "category": "Energy"
     },
     {
       "title": "The fight for mineral data in DRC: Belgian museum, US mining firm at odds over archive maps",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "PM orders France to step up electrification projects in face of oil crisis",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260401/pm-orders-france-to-step-up-electrification-projects-in-face-of-oil-crisis",
-      "published_date": "2026-04-01T08:51:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "EU probes French aid to EDF over the construction of new nuclear reactors",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260401-eu-probes-french-aid-to-edf-over-the-construction-of-new-nuclear-reactors",
-      "published_date": "2026-04-01T06:02:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "EU faces 'largest oil supply disruption in history', energy expert says",
+      "title": "Artemis II astronauts rocket toward the moon after spending a day around Earth",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260331-eu-faces-largest-oil-supply-disruption-in-history-energy-expert-says",
-      "published_date": "2026-03-31T21:09:31+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260403-artemis-ii-astronauts-rocket-toward-the-moon-after-spending-a-day-around-earth",
+      "published_date": "2026-04-03T13:43:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "French easyJet staff call Easter strike",
@@ -536,11 +543,25 @@
       "category": "Economy"
     },
     {
-      "title": "French budget deficit slightly better than feared",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260327/french-budget-deficit-slightly-better-than-feared",
-      "published_date": "2026-03-27T12:35:06+00:00",
-      "category": "Economy"
+      "title": "France's Ligue 1 trials live broadcast of ref exchanges in PSG-Toulouse clash",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260403-france-s-ligue-1-trials-live-broadcast-of-ref-exchanges-in-psg-toulouse-clash",
+      "published_date": "2026-04-03T14:35:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French prosecutors open hate speech probe into polarising news channel CNews",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260403-french-prosecutors-open-hate-speech-probe-into-polarising-news-channel-cnews",
+      "published_date": "2026-04-03T14:34:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's Muslim gathering ban overturned by courts",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T12:20:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "OPINION: Why I enjoy my French colleague's grammar pain",
@@ -659,27 +680,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260402-thomas-pesquet-on-space-exploration-we-re-all-on-the-same-boat-we-have-to-take-care-of-the-ship",
       "published_date": "2026-04-02T19:25:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thomas Pesquet on space exploration: 'We’re all on the same boat, we have to take care of the ship'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/thomas-pesquet-on-space-exploration-we-re-all-on-the-same-boat-we-have-to-take-care-of-the-ship",
-      "published_date": "2026-04-02T19:22:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thomas Pesquet on seeing Earth from space: 'We’re all in the same boat'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-thomas-pesquet-on-seeing-earth-from-space-we-re-all-in-the-same-boat",
-      "published_date": "2026-04-02T19:22:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump fires loyalist Pam Bondi as US attorney general",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260402-trump-fires-loyalist-pam-bondi-as-us-attorney-general",
-      "published_date": "2026-04-02T17:34:07+00:00",
       "category": "Local Events"
     }
   ]
