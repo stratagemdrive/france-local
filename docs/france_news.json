@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-04-04T11:56:03.891384+00:00",
-  "story_count": 97,
+  "last_updated": "2026-04-04T23:59:34.385741+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "NATO anniversary overshadowed by Trump’s threats",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260404-nato-anniversary-overshadowed-by-trump-s-threats",
+      "published_date": "2026-04-04T18:39:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Iran open to negotiations': Diplomacy shows signs of progress, 'damage to global economy continues'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260404-iran-open-to-negotiations-diplomacy-shows-signs-of-progress-damage-to-global-economy-continues",
+      "published_date": "2026-04-04T14:46:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Keir Starmalade, anyone? Will marmalade really have to be rebranded in UK?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/breakfast-reset-will-marmalade-really-be-renamed-in-post-brexit-food-deal",
+      "published_date": "2026-04-04T12:58:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eurotunnel and Eurostar still not ready for EES rollout despite deadline",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260404/eurotunnel-and-eurostar-still-not-ready-for-ees-rollout-despite-deadline",
+      "published_date": "2026-04-04T10:30:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Five EU finance ministers call for 'tax on energy companies' windfall profits",
       "source": "RFI English",
@@ -116,38 +144,80 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron calls Trump's remarks on his marriage 'inelegant'",
+      "title": "German males under 45 may need military approval for long stays abroad",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T12:33:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-04T21:16:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron says 'unrealistic' to open Hormuz Strait by force, urges Trump to 'be serious'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/macron-says-unrealistic-open-hormuz-strait-force-urges-trump-be-serious",
-      "published_date": "2026-04-02T12:07:55+00:00",
-      "category": "Diplomacy"
+      "title": "Russian attack on Ukraine market kills five",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-04T18:54:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Not up to standard’: Macron criticises Trump after comments about his marriage",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/02/macron-criticises-trump-after-comments-about-his-marriage",
-      "published_date": "2026-04-02T12:07:03+00:00",
-      "category": "Diplomacy"
+      "title": "Mideast war presents 'serious risk' for Africa, major report warns",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260404-sun-8am-mideast-war-presents-serious-risk-for-africa-major-report-warns",
+      "published_date": "2026-04-04T18:15:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Shein, Temu: Why European consumers will pay more for cheap online orders",
+      "title": "European drivers choke on rising diesel prices",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260402/shein-temu-why-european-consumers-will-pay-more-for-cheap-online-orders",
-      "published_date": "2026-04-02T11:38:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.fr/20260404/european-drivers-choke-on-rising-diesel-prices",
+      "published_date": "2026-04-04T14:17:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Impact of Iran war in Pakistan: Fuel prices rise by over 50%",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/impact-of-iran-war-in-pakistan-fuel-prices-rise-by-over-50",
+      "published_date": "2026-04-04T14:11:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Strikes in Lebanon: Israeli army orders evacuation of the city of Tyre",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/strikes-in-lebanon-israeli-army-orders-evacuation-of-the-city-of-tyre",
+      "published_date": "2026-04-04T12:53:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan announces free public transport as energy crisis bites",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/pakistan-announces-free-public-transport-as-energy-crisis-bites",
+      "published_date": "2026-04-04T12:50:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France announces crisis loans for firms hit by fuel-price surge",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-announces-crisis-loans-for-firms-hit-by-fuel-price-surge",
+      "published_date": "2026-04-04T12:48:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in the Middle East: Israel expands operations in Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-israel-expands-operations-in-lebanon",
+      "published_date": "2026-04-04T12:44:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Videos show US missiles being launched from Kuwait into Iran",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260404-us-missiles-kuwait-iran-himars-launches-gmlrs-france24-investigation",
       "published_date": "2026-04-04T11:29:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "European drivers choke on rising diesel prices due to Iran conflict",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260404-european-drivers-choke-on-rising-diesel-prices-due-to-iran-conflict",
+      "published_date": "2026-04-04T09:41:16+00:00",
       "category": "Military"
     },
     {
@@ -211,76 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260404-iran-us-race-to-recover-missing-crew-member-of-crashed-american-fighter-jet",
       "published_date": "2026-04-04T04:53:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russian army records almost no territorial gains for first time since 2023, analysis shows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis",
-      "published_date": "2026-04-04T00:30:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T23:14:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hide, find water: Former pilots detail how to survive being shot down",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260403-hide-find-water-former-pilots-detail-how-to-survive-after-being-shot-down",
-      "published_date": "2026-04-03T22:55:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uganda in shock after 4 children killed in kindergarden",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260403-uganda-in-shock-after-4-children-killed-in-kindergarden",
-      "published_date": "2026-04-03T21:48:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two US fighter jets downed in Mideast, one crew member rescued",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260403-two-us-fighter-jets-downed-in-mideast-one-crew-member-rescued",
-      "published_date": "2026-04-03T20:41:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump seeks massive $1.5 trillion defence budget amid Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260403-trump-seeks-massive-1-5-trillion-defence-budget-amid-iran-war",
-      "published_date": "2026-04-03T19:34:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French, Japanese ships cross Strait of Hormuz in first since war",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260403-french-japanese-ships-cross-strait-of-hormuz-in-first-since-war",
-      "published_date": "2026-04-03T19:12:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US fighter jet downed. Spencer Boyer speaks to France 24",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260403-us-fighter-jet-downed-spencer-boyer-speaks-to-france-24",
-      "published_date": "2026-04-03T18:48:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: US fighter jet downed, War “It’s not a show”, The Space Race, Will Syrians leave Germany?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260403-iran-war-it-s-not-a-show-the-space-race-will-syrians-leave-germany",
-      "published_date": "2026-04-03T18:22:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Baltic Sea strikes: How Ukraine aims to undermine Russia's oil profits from Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260403-baltic-sea-strikes-how-ukraine-aims-to-undermine-russia-oil-profits-from-iran-war",
-      "published_date": "2026-04-03T16:03:45+00:00",
       "category": "Military"
     },
     {
@@ -536,11 +536,60 @@
       "category": "Economy"
     },
     {
-      "title": "Young voters shake Italy’s political calm as referendum exposes tensions for Giorgia Meloni",
+      "title": "'Gaza, Marseille is with you!': French boats set sail to join international aid flotilla",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260404-gaza-marseille-is-with-you-french-boats-set-sail-to-join-international-aid-flotilla",
+      "published_date": "2026-04-04T17:30:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fugitive mafia boss wanted for murder arrested at Amalfi coast luxury villa",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/28/young-voters-italy-referendum-giorgia-meloni",
-      "published_date": "2026-03-28T12:00:26+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/apr/04/fugitive-mafia-boss-wanted-arrested-roberto-mazzarella",
+      "published_date": "2026-04-04T16:10:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands rally against racism in Paris suburb to defend mayor",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260404-thousands-rally-against-racism-in-paris-suburb-to-defend-mayor",
+      "published_date": "2026-04-04T16:04:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Celine Dion breaks presale ticket record",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260404-celine-dion-breaks-presale-ticket-record",
+      "published_date": "2026-04-04T15:42:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands rally against racism in Paris suburb to defend newly elected Black mayor",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260404-thousands-rally-against-racism-in-paris-suburb-to-defend-newly-elected-black-mayor",
+      "published_date": "2026-04-04T15:25:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French central bank nets €13bn by pulling gold out of US reserves",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260404-french-central-bank-nets-%E2%82%AC13bn-from-us-gold-sale-consolidates-reserves-in-paris",
+      "published_date": "2026-04-04T14:41:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French jury upholds jail terms for three rugby players over gang rape",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260404/french-jury-upholds-jail-terms-for-three-rugby-players-over-gang-rape",
+      "published_date": "2026-04-04T14:30:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court rules to extradite Russian who owned English football club",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260404/french-court-rules-to-extradite-russian-who-owned-english-football-club",
+      "published_date": "2026-04-04T13:45:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Russian drone strike on Ukrainian market kills five, injures 19",
@@ -624,62 +673,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260403/opinion-why-i-enjoy-my-french-colleagues-grammar-pain",
       "published_date": "2026-04-03T11:39:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court overturns police ban on Muslim gathering near Paris",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260403-french-police-ban-annual-muslim-event-over-terror-attack-risk-far-right-ramf",
-      "published_date": "2026-04-03T10:40:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Storm batters Greece, killing one, flooding homes and disrupting travel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260403-storm-batters-greece-killing-one-flooding-homes-and-disrupting-travel",
-      "published_date": "2026-04-03T10:29:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weak enforcement blamed for building collapse that killed four in Ghana",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260403-weak-enforcement-blamed-for-building-collapse-that-killed-four-in-ghana",
-      "published_date": "2026-04-03T10:27:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Paris mayor pledges to prevent sexual violence in preschools",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260403/new-paris-mayor-pledges-to-prevent-sexual-violence-in-preschools",
-      "published_date": "2026-04-03T10:26:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Storm Erminio lashes much of Greece as Saharan dust blankets Crete",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/apr/03/storm-erminio-saharan-dust-crete-greece-italy-rain-flooding-afghanistan",
-      "published_date": "2026-04-03T09:00:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French mayor denounces ‘increasingly racist society’",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260403/french-mayor-denounces-increasingly-racist-society",
-      "published_date": "2026-04-03T07:10:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court overrules police ban on annual Muslim event",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260403-paris-police-ban-annual-french-muslim-event-cite-major-terrorist-risk-far-right-groups",
-      "published_date": "2026-04-03T06:47:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right ‘terror risk’ prompts Paris police to ban Muslim gathering",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260403/far-right-terror-risk-prompts-paris-police-to-ban-muslim-gathering",
-      "published_date": "2026-04-03T06:42:14+00:00",
       "category": "Local Events"
     }
   ]
