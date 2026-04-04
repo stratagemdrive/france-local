@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-04-04T00:01:09.814191+00:00",
+  "last_updated": "2026-04-04T11:56:03.891384+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Five EU finance ministers call for 'tax on energy companies' windfall profits",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260404-five-eu-finance-ministers-call-for-tax-on-energy-companies-windfall-profits",
+      "published_date": "2026-04-04T10:04:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Inside France: French elegance, flying bells and Swedish snuff fury",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260404/inside-france-french-elegance-flying-bells-and-swedish-snuff-fury",
+      "published_date": "2026-04-04T08:20:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Biometric checks stalled again for cross-Channel travellers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/biometric-checks-stalled-again-for-cross-channel-travellers",
+      "published_date": "2026-04-04T08:00:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is France’s bill against ‘new forms of anti-Semitism’ sparking controversy?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260404-is-opposing-israel-anti-semitism-france-s-latest-attempt-to-fight-hate-risks-inflaming-it",
+      "published_date": "2026-04-04T07:07:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Leaked files reveal Russia's blueprint to expand African Sahel alliance",
       "source": "RFI English",
@@ -116,38 +144,94 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump’s dig at Macron that his ‘wife treats him badly’ sparks anger in France",
+      "title": "Videos show US missiles being launched from Kuwait into Iran",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260402-trump-dig-macron-wife-brigitte-treats-badly-sparks-anger-france",
-      "published_date": "2026-04-02T10:23:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260404-us-missiles-kuwait-iran-himars-launches-gmlrs-france24-investigation",
+      "published_date": "2026-04-04T11:29:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "France's Macron visits South Korea for talks on technology and security",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260402-macron-heads-to-south-korea-for-talks-on-technology-and-security-lee-jae-myung",
-      "published_date": "2026-04-02T04:54:48+00:00",
-      "category": "Diplomacy"
+      "title": "War in the Middle East: Search on for missing crew member after US planes crash",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-search-on-for-missing-crew-member-after-2-us-planes",
+      "published_date": "2026-04-04T09:33:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Denmark’s unique political model is in crisis – I blame the boomerang effect | Rune Lykkeberg",
+      "title": "War in the Middle East: UNSC vote on Strait of Hormuz postponed",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-unsc-vote-on-strait-of-hormuz-postponed",
+      "published_date": "2026-04-04T09:30:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in the Middle-East: Israel will reduce French defense imports 'to zero'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-israel-will-reduce-french-defense-imports-to-zero",
+      "published_date": "2026-04-04T09:25:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in Ukraine: Russian night-time strikes wound at least 14 people",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-ukraine-russian-night-time-strikes-wound-at-least-14-people",
+      "published_date": "2026-04-04T09:21:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in the Middle East: Iran hunts crew member of crashed US jet",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-iran-hunts-crew-member-of-crashed-us-jet",
+      "published_date": "2026-04-04T09:11:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France announces crisis loans for firms hit by fuel-price surge",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260404/france-announces-crisis-loans-for-firms-hit-by-fuel-price-surge",
+      "published_date": "2026-04-04T08:15:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘The frontline is like Terminator’: fighting robots give Ukraine hope in war with Russia",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/02/denmark-unique-political-model-crisis-boomerang-effect",
-      "published_date": "2026-04-02T04:00:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/04/fighting-robots-give-ukraine-hope-in-war-with-russia",
+      "published_date": "2026-04-04T06:00:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump administration lifts sanctions on Venezuela’s interim leader",
+      "title": "Middle East war live: Massive explosions heard at Iranian petrochemical zone",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260401-us-lifts-sanctions-on-venezuela-interim-leader-delcy-rodriguez",
-      "published_date": "2026-04-01T20:44:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260404-live-several-blasts-heard-coming-from-northern-tehran",
+      "published_date": "2026-04-04T05:07:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran, US race to recover missing crew member of crashed American fighter jet",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260404-iran-us-race-to-recover-missing-crew-member-of-crashed-american-fighter-jet",
+      "published_date": "2026-04-04T04:53:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russian army records almost no territorial gains for first time since 2023, analysis shows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis",
+      "published_date": "2026-04-04T00:30:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-03T23:14:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hide, find water: Former pilots detail how to survive being shot down",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260403-hide-find-water-former-pilots-detail-how-to-survive-after-being-shot-down",
+      "published_date": "2026-04-03T22:55:12+00:00",
       "category": "Military"
     },
     {
@@ -172,6 +256,13 @@
       "category": "Military"
     },
     {
+      "title": "French, Japanese ships cross Strait of Hormuz in first since war",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260403-french-japanese-ships-cross-strait-of-hormuz-in-first-since-war",
+      "published_date": "2026-04-03T19:12:12+00:00",
+      "category": "Military"
+    },
+    {
       "title": "US fighter jet downed. Spencer Boyer speaks to France 24",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260403-us-fighter-jet-downed-spencer-boyer-speaks-to-france-24",
@@ -190,97 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260403-baltic-sea-strikes-how-ukraine-aims-to-undermine-russia-oil-profits-from-iran-war",
       "published_date": "2026-04-03T16:03:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "On the ground: 'Massive explosion' rocks northern Tehran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260403-on-the-ground-massive-explosion-rocks-northern-tehran",
-      "published_date": "2026-04-03T15:26:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than 1,800 killed by army and jihadists in Burkina Faso since 2023, NGO reports",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260403-more-than-1-800-killed-by-army-and-jihadists-in-burkina-faso-since-2023-ngo-reports",
-      "published_date": "2026-04-03T14:35:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Border town of Tiné caught in the crossfire as Sudan war spills into Chad",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260403-tin%C3%A9-caught-in-the-crossfire-war-in-sudan-spilling-over-into-chad",
-      "published_date": "2026-04-03T13:56:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Strikes hit Lebanon as Israel vows to occupy swathe of south after war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260403-strikes-hit-lebanon-as-israel-vows-to-occupy-swathe-of-south-after-war",
-      "published_date": "2026-04-03T12:38:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran Guards recruit children to ‘defend the homeland’, placing them in line of fire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260403-iran-guards-recruit-children-defend-homeland-irgc-basij",
-      "published_date": "2026-04-03T11:48:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel army says will strike two bridges in east Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260403-middle-east-live-un-security-council-to-vote-on-force-to-protect-hormuz-access",
-      "published_date": "2026-04-03T11:18:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French ship makes first Western European transit of Hormuz since Iran conflict",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260403-french-ship-makes-first-western-european-transit-of-hormuz-since-iran-conflict",
-      "published_date": "2026-04-03T11:17:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War crimes complaint filed in France over 2024 deadly Beirut building strike",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260403-war-crimes-complaint-filed-in-france-over-2024-deadly-beirut-building-strike",
-      "published_date": "2026-04-03T10:20:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Artemis II: One giant leap for deep space toiletry",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260403-artemis-ii-one-giant-leap-for-deep-space-toiletry",
-      "published_date": "2026-04-03T10:14:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO members boost defence spending to cut reliance on US",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260403-nato-members-boost-defence-spending-to-cut-reliance-on-us",
-      "published_date": "2026-04-03T10:02:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia conducts massive rolling aerial attacks on Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260403-russia-conducts-massive-rolling-aerial-attacks-ukraine",
-      "published_date": "2026-04-03T09:58:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Israeli strikes destroy Iranian highway bridge",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260403-us-israeli-strikes-destroy-iranian-highway-bridge",
-      "published_date": "2026-04-03T09:47:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth ousts US Army chief of staff",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260403-hegseth-ousts-us-army-chief-of-staff",
-      "published_date": "2026-04-03T08:53:41+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Iraq turns to Turkey for oil exports as Middle East war reshapes routes",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260404-iraq-turns-to-turkey-for-oil-exports-as-middle-east-war-reshapes-routes",
+      "published_date": "2026-04-04T08:36:28+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Artemis II astronauts rocket toward the moon after spending a day around Earth",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260403-artemis-ii-astronauts-rocket-toward-the-moon-after-spending-a-day-around-earth",
@@ -536,11 +543,60 @@
       "category": "Economy"
     },
     {
-      "title": "Pope Leo XIV denounces 'chasms between the poor and the rich' during Monaco visit",
+      "title": "Russian drone strike on Ukrainian market kills five, injures 19",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260328-pope-leo-xiv-denounces-chasms-between-poor-and-rich-during-monaco-visit",
-      "published_date": "2026-03-28T11:19:11+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/europe/20260404-russian-drone-strike-on-ukraine-market-kills-five-wounds-19",
+      "published_date": "2026-04-04T10:43:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Paris mayor Emmanuel Grégoire vows end to sexual violence in schools",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260404-new-paris-mayor-emmanuel-gr%C3%A9goire-vows-end-to-sexual-violence-in-schools",
+      "published_date": "2026-04-04T09:42:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Everest guides accused of poisoning climbers in $20M scam: 32 people charged",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/everest-guides-accused-of-poisoning-climbers-in-20m-scam-32-people-charged",
+      "published_date": "2026-04-04T09:27:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dembélé at the double as league leaders PSG down Toulouse",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260404-demb%C3%A9l%C3%A9-at-the-double-as-league-leaders-psg-down-toulouse",
+      "published_date": "2026-04-04T09:16:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian council buys Mussolini’s villa to keep it away from ‘fascist nostalgics’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/italian-council-buys-mussolini-villa-riccione-fascist-nostalgics",
+      "published_date": "2026-04-04T08:00:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Racist ideology lodges itself amid austerity politics’: newly elected French mayor on tackling far right",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/bally-bagayoko-austerity-politics-french-mayor-tackling-far-right",
+      "published_date": "2026-04-04T07:47:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanon: Several injured by Israeli strikes on Lebanese city Tyre",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260404-several-injured-by-israeli-strikes-on-lebanese-city-tyre",
+      "published_date": "2026-04-04T06:41:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How effective is France’s fight against racial discrimination?",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260404-how-effective-is-france-s-fight-against-racial-discrimination-bagayoko",
+      "published_date": "2026-04-04T06:06:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France's Ligue 1 trials live broadcast of ref exchanges in PSG-Toulouse clash",
@@ -624,62 +680,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260403/far-right-terror-risk-prompts-paris-police-to-ban-muslim-gathering",
       "published_date": "2026-04-03T06:42:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Belle Vie: The return of Celine Dion and French expressions explained",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260403/la-belle-vie-the-return-of-celine-dion-and-french-expressions",
-      "published_date": "2026-04-03T06:03:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Future uncertain in New Caledonia after French MPs block reform plan",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260403-future-uncertain-in-new-caledonia-after-french-mps-block-reform-plan",
-      "published_date": "2026-04-03T05:52:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Tottenham boss De Zerbi apologises to fans for Greenwood comments",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260403-new-tottenham-boss-de-zerbi-apologises-fans-for-greenwood-comments",
-      "published_date": "2026-04-03T05:33:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stop brunch! How a rustic Catalan meal is taking the fight to bland food and overtourism | Abbas Asaria",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/03/stop-brunch-rustic-catalan-meal-food-overtourism-barcelona",
-      "published_date": "2026-04-03T04:00:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nuns who broke back into their Austrian convent ‘are step closer to being able to stay’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/03/nuns-who-broke-back-into-their-austrian-convent-are-step-closer-to-being-able-to-stay",
-      "published_date": "2026-04-03T04:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary elections: what is at stake and who is likely to win?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/03/hungary-elections-viktor-orban-who-will-win",
-      "published_date": "2026-04-03T04:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump sacks attorney general, replaces with ex-personal lawyer",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-sacks-attorney-general-replaces-with-ex-personal-lawyer",
-      "published_date": "2026-04-02T21:54:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thomas Pesquet on space exploration: 'We’re all on the same boat, we have to take care of the ship'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260402-thomas-pesquet-on-space-exploration-we-re-all-on-the-same-boat-we-have-to-take-care-of-the-ship",
-      "published_date": "2026-04-02T19:25:51+00:00",
       "category": "Local Events"
     }
   ]
