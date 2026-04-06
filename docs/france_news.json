@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-04-05T11:57:04.044111+00:00",
+  "last_updated": "2026-04-06T00:02:18.757153+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "Trump threatens NATO exit, scaling up tensions with allies",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260405-trump-threatens-nato-exit-scaling-up-tensions-with-allies",
+      "published_date": "2026-04-05T15:59:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US war on Iran: Trump pressures allies in war effort but offers 'no role in strategy'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260405-us-war-on-iran-trump-pressures-allies-in-war-effort-but-offers-no-role-in-strategy-1",
+      "published_date": "2026-04-05T15:07:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AI is fuelling the 'digital colonisation' of Africa, warns UN scientist",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260405-ai-is-fuelling-the-digital-colonisation-of-africa-warns-un-scientist",
+      "published_date": "2026-04-05T14:20:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Labour to back down on foie gras and fur bans to ease EU trade deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/05/labour-back-down-foie-gras-fur-bans-eu-trade-deal",
+      "published_date": "2026-04-05T13:00:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "One Health Summit begins in Lyon, France: How to prevent health risks ?",
       "source": "France 24",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'He wasn't convincing to the world and to the American people', former US ambassador to NATO says",
+      "title": "Ukraine's Zelensky meets Syria’s new leader in Damascus, pushes military deals",
       "source": "France 24",
-      "url": "https://www.france24.com/en/he-wasn-t-convincing-to-the-world-and-to-the-american-people-former-us-ambassador-to-nato-says",
-      "published_date": "2026-04-02T19:40:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260405-ukraine-zelensky-meets-syria-new-leader-al-sharaa-in-damascus-pushes-military-deals",
+      "published_date": "2026-04-05T23:50:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘You have to be serious’: Macron criticises Trump’s mixed messages about Nato and Iran",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/02/you-have-to-be-serious-macron-criticises-trumps-mixed-messages-about-nato-and-iran",
-      "published_date": "2026-04-02T17:34:37+00:00",
-      "category": "Diplomacy"
+      "title": "Israel launches new strikes on Lebanon, forces closure of Syria border crossing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260405-israel-launches-new-strikes-on-lebanon-forces-closure-of-syria-border-crossing",
+      "published_date": "2026-04-05T17:54:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "First deaths in Channel of 2026 as France and UK weigh how to stop small boats",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260402-first-deaths-in-channel-of-2026-as-france-and-uk-weigh-how-to-stop-small-boats",
-      "published_date": "2026-04-02T14:12:12+00:00",
-      "category": "Diplomacy"
+      "title": "War in the Middle East: Israeli strike on South Beirut kills at least 4 people",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-israeli-strike-on-south-beirut-kills-at-least-4-people",
+      "published_date": "2026-04-05T15:36:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron rejects military plan as allies push to reopen Strait of Hormuz",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260402-macron-rejects-military-plan-as-allies-push-to-reopen-strait-of-hormuz",
-      "published_date": "2026-04-02T14:06:46+00:00",
-      "category": "Diplomacy"
+      "title": "War in the Middle East: the US rescues missing airman from Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-the-us-rescues-missing-airman-from-iran",
+      "published_date": "2026-04-05T15:33:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The week in pictures: Mideast war, a lunar mission and Holy Week processions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/science/20260405-the-week-in-pictures-mideast-war-lunar-mission-holy-week-processions",
+      "published_date": "2026-04-05T14:11:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Uproar in Germany over law requiring men get military approval for long stays abroad",
@@ -249,39 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "European drivers choke on rising diesel prices",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260404/european-drivers-choke-on-rising-diesel-prices",
-      "published_date": "2026-04-04T14:17:02+00:00",
-      "category": "Military"
+      "title": "Explosives discovered near gas pipeline to Hungary, says Serbia's president",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260405-explosives-discovered-near-pipeline-in-serbia-that-carries-russian-gas-leaders-say",
+      "published_date": "2026-04-05T19:58:34+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Impact of Iran war in Pakistan: Fuel prices rise by over 50%",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/impact-of-iran-war-in-pakistan-fuel-prices-rise-by-over-50",
-      "published_date": "2026-04-04T14:11:04+00:00",
-      "category": "Military"
+      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-05T19:17:42+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Strikes in Lebanon: Israeli army orders evacuation of the city of Tyre",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/strikes-in-lebanon-israeli-army-orders-evacuation-of-the-city-of-tyre",
-      "published_date": "2026-04-04T12:53:46+00:00",
-      "category": "Military"
+      "title": "Hungarian PM faces ‘false flag’ claims after Serbia says explosives found near pipeline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline",
+      "published_date": "2026-04-05T17:13:07+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pakistan announces free public transport as energy crisis bites",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/pakistan-announces-free-public-transport-as-energy-crisis-bites",
-      "published_date": "2026-04-04T12:50:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France announces crisis loans for firms hit by fuel-price surge",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-announces-crisis-loans-for-firms-hit-by-fuel-price-surge",
-      "published_date": "2026-04-04T12:48:14+00:00",
-      "category": "Military"
+      "title": "French ski resorts face 'downward spiral' amid climate change and funding meltdown",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260405-french-ski-resorts-face-downward-spiral-amid-climate-change-and-funding-meltdown",
+      "published_date": "2026-04-05T13:06:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "US tax returns, solar panels and helplines: 6 essential articles for life in France",
@@ -396,32 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "In Europe, lobbyists are using soaring fuel prices to make the case for more dirty energy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/01/in-europe-lobbyists-are-using-soaring-fuel-prices-to-make-the-case-for-more-dirty-energy",
-      "published_date": "2026-04-01T14:30:58+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Brussels urges EU states to 'coordinate' in face of oil price hike",
+      "title": "Trump's 'puppet regime': Home to world’s largest oil reserves, is Venezuela key to US economy?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260401-brussels-urges-eu-states-to-coordinate-in-face-of-oil-price-hike",
-      "published_date": "2026-04-01T13:06:02+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Britain to host 35 countries for strait of Hormuz talks, says Starmer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/01/hormuz-strait-talks-britain-starmer",
-      "published_date": "2026-04-01T11:53:58+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "REPLAY: France's Macron, Japan Takaichi hold press briefing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260401-replay-france-s-macron-japan-takaichi-hold-press-briefing",
-      "published_date": "2026-04-01T10:35:12+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/trump-s-puppet-regime-home-to-world-s-largest-oil-reserves-is-venezuela-key-to-us-economy",
+      "published_date": "2026-04-05T15:00:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "From Ghana to France, UN slavery resolution meets with mixed reactions",
@@ -529,11 +536,32 @@
       "category": "Economy"
     },
     {
-      "title": "The maritime passages with a chokehold on the global economy",
+      "title": "Artemis II astronauts get closer to the moon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260405-artemis-ii-astronauts-get-closer-to-the-moon",
+      "published_date": "2026-04-05T19:09:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two dead, dozens missing after migrant boat capsizes in Mediterranean",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260405-two-dead-dozens-missing-after-migrant-boat-capsizes-in-mediterranean",
+      "published_date": "2026-04-05T15:34:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Erling Haaland the hat-trick hero as Manchester City thrash Liverpool in FA Cup",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260405-erling-haaland-the-hat-trick-hero-as-manchester-city-thrash-liverpool-in-fa-cup",
+      "published_date": "2026-04-05T15:06:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Politics and glamour' take the catwalk at African fashion exhibition",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260329-the-maritime-passages-with-a-chokehold-on-the-global-economy",
-      "published_date": "2026-03-29T16:24:49+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/culture/20260405-politics-and-glamour-take-the-catwalk-at-african-fashion-exhibition",
+      "published_date": "2026-04-05T12:04:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French boats set sail from Marseille to join Gaza aid Flotilla",
@@ -645,34 +673,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260404/french-court-rules-to-extradite-russian-who-owned-english-football-club",
       "published_date": "2026-04-04T13:45:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian drone strike on Ukrainian market kills five, injures 19",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260404-russian-drone-strike-on-ukraine-market-kills-five-wounds-19",
-      "published_date": "2026-04-04T10:43:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Paris mayor Emmanuel Grégoire vows end to sexual violence in schools",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260404-new-paris-mayor-emmanuel-gr%C3%A9goire-vows-end-to-sexual-violence-in-schools",
-      "published_date": "2026-04-04T09:42:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Everest guides accused of poisoning climbers in $20M scam: 32 people charged",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/everest-guides-accused-of-poisoning-climbers-in-20m-scam-32-people-charged",
-      "published_date": "2026-04-04T09:27:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dembélé at the double as league leaders PSG down Toulouse",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260404-demb%C3%A9l%C3%A9-at-the-double-as-league-leaders-psg-down-toulouse",
-      "published_date": "2026-04-04T09:16:40+00:00",
       "category": "Local Events"
     }
   ]
