@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-04-07T00:06:11.254535+00:00",
-  "story_count": 95,
+  "last_updated": "2026-04-07T14:59:28.751614+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news",
+      "published_date": "2026-04-07T14:42:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "REPLAY:  Vance and Orban hold press conference ahead of Hungary election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260407-replay-vance-and-orban-hold-press-conference-ahead-of-hungary-election",
+      "published_date": "2026-04-07T13:54:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Free and on ​their ‌way ⁠to France': Cécile Kohler and Jacques Paris released by Iran, says Macron",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260407-free-and-on-their-way-to-france-c%C3%A9cile-kohler-and-jacques-paris-released-by-iran",
+      "published_date": "2026-04-07T13:28:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'We are all connected': France hosts summit linking health and environment",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260407-macron-in-lyon-for-international-summit-on-health-and-the-environment",
+      "published_date": "2026-04-07T12:41:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former French president Sarkozy claims innocence at appeals trial over Libya funding",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260407-former-french-president-sarkozy-claims-innocence-at-appeals-trial-over-libya-funding",
+      "published_date": "2026-04-07T12:37:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Manlio Graziano: 'Europe still needs the US but they know they cannot trust Americans anymore'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260407-manlio-graziano-europe-still-needs-americans-but-they-know-they-cannot-trust-americans-anymore",
+      "published_date": "2026-04-07T10:59:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump operating in a 'carnival framework' that allows rule-breaking in domestic and foreign policy",
       "source": "France 24",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Eurotunnel and Eurostar still not ready for EES rollout despite deadline",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260404/eurotunnel-and-eurostar-still-not-ready-for-ees-rollout-despite-deadline",
-      "published_date": "2026-04-04T10:30:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Five EU finance ministers call for 'tax on energy companies' windfall profits",
+      "title": "Train driver killed and truck driver in custody after collision in northern France",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260404-five-eu-finance-ministers-call-for-tax-on-energy-companies-windfall-profits",
-      "published_date": "2026-04-04T10:04:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/france/20260407-train-driver-killed-and-truck-driver-in-custody-after-collision-in-northern-france",
+      "published_date": "2026-04-07T14:11:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Inside France: French elegance, flying bells and Swedish snuff fury",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260404/inside-france-french-elegance-flying-bells-and-swedish-snuff-fury",
-      "published_date": "2026-04-04T08:20:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Biometric checks stalled again for cross-Channel travellers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/04/biometric-checks-stalled-again-for-cross-channel-travellers",
-      "published_date": "2026-04-04T08:00:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why is France’s bill against ‘new forms of anti-Semitism’ sparking controversy?",
+      "title": "DR Congo: Fighting between army and M23 rebels leave civilians at breaking point",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260404-is-opposing-israel-anti-semitism-france-s-latest-attempt-to-fight-hate-risks-inflaming-it",
-      "published_date": "2026-04-04T07:07:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/focus/20260407-dr-congo-fighting-between-army-and-m23-rebels-leave-civilians-at-breaking-point",
+      "published_date": "2026-04-07T12:49:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Leaked files reveal Russia's blueprint to expand African Sahel alliance",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260403-leaked-files-reveal-russia-s-blueprint-to-expand-sahel-alliance",
-      "published_date": "2026-04-03T16:25:00+00:00",
-      "category": "Diplomacy"
+      "title": "Trump threatens to take out Iran in 'one night' as deadline looms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260407-trump-threatens-to-take-out-iran-in-one-night-as-deadline-looms",
+      "published_date": "2026-04-07T11:56:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Viktor Orbán told Putin ‘I am at your service’ in October phone call",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/07/viktor-orban-told-putin-i-am-at-your-service-in-october-phonecall",
+      "published_date": "2026-04-07T11:28:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NGO on Gaza: 'We don’t share the same definition of ceasefire'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260407-ngo-on-gaza-we-don-t-share-the-same-definition-of-ceasefire",
+      "published_date": "2026-04-07T10:56:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "JD Vance accuses Brussels of foreign election interference ahead of Hungary’s high-stakes elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260407-jd-vance-backs-viktor-orban-ahead-of-high-stakes-hungary-parliamentary-elections",
+      "published_date": "2026-04-07T02:47:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy reiterates truce offer ahead of Orthodox Easter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/07/ukraine-russia-war-briefing-zelenskyy-orthodox-easter-truce-offer",
+      "published_date": "2026-04-07T00:34:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Dozens killed in Easter attacks in Nigeria",
@@ -235,59 +284,52 @@
       "category": "Military"
     },
     {
-      "title": "War in the Middle East: 15 dead in israeli strikes on Lebanon",
+      "title": "Fuel supply shortages hit one in five petrol stations in France",
       "source": "France 24",
-      "url": "https://www.france24.com/en/war-in-the-middle-east-15-dead-in-israeli-strikes-on-lebanon",
-      "published_date": "2026-04-06T09:48:20+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/france/20260407-fuel-supply-shortages-hit-one-in-five-petrol-stations-in-france",
+      "published_date": "2026-04-07T13:59:17+00:00",
+      "category": "Energy"
     },
     {
-      "title": "War in the Middle East: Donald Trump threatens to hit Iran power plants",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/war-in-the-middle-east-donald-trump-threatens-to-hit-iran-power-plants",
-      "published_date": "2026-04-06T09:29:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could China's adoption of electric vehicles shield it from the energy crisis?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260406-could-china-s-adoption-of-electric-vehicles-shield-it-from-the-energy-crisis",
-      "published_date": "2026-04-06T09:06:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Hit by both sides': US war on Iran threatens Iraq's 'careful strategy of multi-alignment'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/hit-by-both-sides-us-war-on-iran-threatens-iraq-s-careful-strategy-of-multi-alignment",
-      "published_date": "2026-04-06T07:15:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine seeks defence ties in Middle East as Zelensky visits Damascus",
+      "title": "Fuel shortages in France hit almost 1 in 5 petrol stations, says government",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260406-ukraine-seeks-defence-ties-in-middle-east-as-zelensky-visits-damascus",
-      "published_date": "2026-04-06T07:08:05+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/france/20260407-fuel-shortages-in-france-hit-nearly-1-in-5-petrol-stations-says-government",
+      "published_date": "2026-04-07T12:29:12+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukrainian forces operating in western Libya as covert war grows",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260406-ukrainian-forces-operating-in-western-libya-as-covert-war-grows-rfi-investigation",
-      "published_date": "2026-04-06T06:03:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war: ‘No indication that legitimate US-Iran talks taking place’",
+      "title": "Artemis II crew start trip home after milestone-rich lunar flyby",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260406-middle-east-war-no-indication-that-legitimate-us-iran-talks-taking-place",
-      "published_date": "2026-04-06T05:30:11+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260407-artemis-ii-crew-start-trip-home-after-milestone-rich-lunar-flyby",
+      "published_date": "2026-04-07T10:26:14+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Gas prices in France 'could go up 25 percent' from May",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260407/gas-prices-in-france-could-go-up-25-percent-from-may",
+      "published_date": "2026-04-07T09:45:23+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Around 18 percent of France's fuel stations are out of stock",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260407/around-18-percent-of-frances-fuel-stations-are-out-of-stock",
+      "published_date": "2026-04-07T07:22:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Israel attacks Iran's South Pars gas field again",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/business/20260406-israel-attacks-iran-s-south-pars-gas-field-again",
       "published_date": "2026-04-06T20:52:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Artemis II astronauts capture rare lunar craters, solar eclipse after historic Moon flyby",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260406-follow-live-artemis-ii-begins-its-final-lunar-flyby",
+      "published_date": "2026-04-06T16:13:59+00:00",
       "category": "Energy"
     },
     {
@@ -382,46 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Russia to send second oil tanker to Cuba, minister says",
+      "title": "French drivers choke on soaring diesel prices",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260402-russia-to-send-second-oil-tanker-to-cuba-minister-says",
-      "published_date": "2026-04-02T16:11:40+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260407-french-drivers-choke-on-soaring-diesel-prices",
+      "published_date": "2026-04-07T10:22:36+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Aboard the Sarfaq Ittuk, Greenland's last ferry",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-aboard-the-sarfaq-ittuk-greenland-s-last-ferry",
-      "published_date": "2026-04-02T14:13:33+00:00",
-      "category": "Energy"
+      "title": "Frenchman hit with €5m tax bill after takeaway orders betray residency status",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260407/frenchman-hit-with-e5m-tax-bill-after-takeaway-orders-betray-residency-status",
+      "published_date": "2026-04-07T10:03:12+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Nuclear power: Why did France put the atom at the heart of its energy strategy?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/french-connections/20260402-nuclear-power-why-did-france-put-the-atom-at-the-heart-of-its-energy-strategy",
-      "published_date": "2026-04-02T14:11:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "As oil prices rise, France suggests extra tax could help phase out fossil fuels",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260402-as-oil-prices-rise-france-suggests-extra-tax-could-help-phase-out-fossil-fuels",
-      "published_date": "2026-04-02T12:42:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Critical aid supplies to Sudan disrupted by 'ripple effect' from Middle East war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-critical-aid-supplies-to-sudan-disrupted-by-ripple-effect-from-middle-east-war",
-      "published_date": "2026-04-02T09:46:59+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran sets up 'tollbooth' in Strait of Hormuz for ships seeking safe passage",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260402-iran-sets-up-tollbooth-in-strait-of-hormuz-for-ships-seeking-safe-passage",
-      "published_date": "2026-04-02T09:26:31+00:00",
-      "category": "Energy"
+      "title": "‘Italy has the best benefits’: Milan takes on Dubai as home for the super-rich",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/07/milan-dubai-super-wealthy-italy-rich",
+      "published_date": "2026-04-07T04:00:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "Dracula review – Romania’s most reliable export is focus of knockabout cut-up satire",
@@ -435,6 +456,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/apr/06/puzzles-reassuring-answers-perplexing-times",
       "published_date": "2026-04-06T04:00:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Spain's huge pork industry seeks salvation from swine fever threat",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-05T23:19:20+00:00",
       "category": "Economy"
     },
     {
@@ -522,11 +550,81 @@
       "category": "Economy"
     },
     {
-      "title": "French foie-gras makers eye Japan market amid production boom",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260331/french-foie-gras-makers-eye-japan-market-amid-production-boom",
-      "published_date": "2026-03-31T06:43:30+00:00",
-      "category": "Economy"
+      "title": "Spanish politicians clash over request to move Picasso’s Guernica",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/07/spain-politician-clash-picasso-guernica",
+      "published_date": "2026-04-07T14:34:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oh Great in Paris: Unveiling a new chapter with new graphic novel ‘Smoke’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260407-oh-great-in-paris-unveiling-a-new-chapter-with-new-graphic-novel-smoke",
+      "published_date": "2026-04-07T14:24:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gunmen attack building housing Israeli Consulate in Istanbul",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260407-gunmen-attack-building-housing-israeli-consulate-in-istanbul",
+      "published_date": "2026-04-07T12:46:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A cultural stroll through Paris with singer Axel Bauer and painter Li Chevalier",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/paris-des-arts/20260407-a-cultural-stroll-through-paris-with-singer-axel-bauer-and-painter-li-chevalier",
+      "published_date": "2026-04-07T12:44:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exiled for a drawing: The Russian father and daughter who stood up to Putin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260407-exiled-for-a-drawing-the-russian-father-and-daughter-who-stood-up-to-putin",
+      "published_date": "2026-04-07T12:42:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "California 'architect' of 19th century native American genocide, 'US govt 'funded' most of killing'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/california-architect-of-19th-century-native-american-genocide-us-govt-funded-most-of-killing",
+      "published_date": "2026-04-07T12:38:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One assailant killed, two wounded after shooting outside Istanbul's Israeli consulate",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260407-one-assailant-killed-two-wounded-after-shooting-outside-istanbul-s-israeli-consulate",
+      "published_date": "2026-04-07T10:29:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cape Town mums patrol streets amid surge in violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260407-cape-town-mums-patrol-streets-amid-surge-in-violence",
+      "published_date": "2026-04-07T10:24:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "And then there were 48 ... how the World Cup has expanded since 1930",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260407-and-then-there-were-48-how-the-world-cup-has-expanded-since-1930",
+      "published_date": "2026-04-07T09:33:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Stranger review – lustrously beautiful and superbly realised modern take on the Camus classic",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/07/the-stranger-review-francois-ozon-adaptation-albert-camus-l-tranger",
+      "published_date": "2026-04-07T08:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From ‘stink bugs’ to ‘enemies of the people’: how Viktor Orbán blazed a trail for Trump’s media assaults | Amrit Singh",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/07/viktor-orban-donald-trump-media-assault-hungary-election",
+      "published_date": "2026-04-07T04:00:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US Supreme Court paves way to drop Capitol riot charges against ex-Trump ally Steve Bannon",
@@ -589,83 +687,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/culture/20260405-politics-and-glamour-take-the-catwalk-at-african-fashion-exhibition",
       "published_date": "2026-04-05T12:04:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French boats set sail from Marseille to join Gaza aid Flotilla",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-boats-set-sail-from-marseille-to-join-gaza-aid-flotilla",
-      "published_date": "2026-04-05T11:37:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal, Bangladesh, Morocco, Madagascar: What have the Gen Z protests achieved?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260405-nepal-bangladesh-morocco-madagascar-what-have-the-gen-z-protests-achieved",
-      "published_date": "2026-04-05T11:16:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon: In the city of Tyre, Christians mark Easter in a ghost town",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/lebanon-in-the-city-of-tyre-christians-mark-easter-in-a-ghost-town",
-      "published_date": "2026-04-05T09:35:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Iran, social media posts noted explosions, aircraft in area US jet was downed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/in-iran-social-media-posts-noted-explosions-aircraft-in-area-us-jet-was-downed",
-      "published_date": "2026-04-05T08:31:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Paris swapped cars for bikes – and transformed its streets",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/05/how-paris-swapped-cars-for-bikes-and-remade-its-streets",
-      "published_date": "2026-04-05T07:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands rally against racism in Paris suburb to defend mayor",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260405/thousands-rally-against-racism-in-paris-suburb-to-defend-mayor",
-      "published_date": "2026-04-05T06:06:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French boats set sail to join Gaza aid flotilla",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260405/french-boats-set-sail-to-join-gaza-aid-flotilla",
-      "published_date": "2026-04-05T05:47:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Slovakia PM calls on EU to lift sanctions on Russian oil and gas",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/05/ukraine-war-briefing-slovakia-pm-calls-on-eu-to-lift-sanctions-on-russian-oil-and-gas",
-      "published_date": "2026-04-05T00:03:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Gaza, Marseille is with you!': French boats set sail to join international aid flotilla",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260404-gaza-marseille-is-with-you-french-boats-set-sail-to-join-international-aid-flotilla",
-      "published_date": "2026-04-04T17:30:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fugitive mafia boss wanted for murder arrested at Amalfi coast luxury villa",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/04/fugitive-mafia-boss-wanted-arrested-roberto-mazzarella",
-      "published_date": "2026-04-04T16:10:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands rally against racism in Paris suburb to defend mayor",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260404-thousands-rally-against-racism-in-paris-suburb-to-defend-mayor",
-      "published_date": "2026-04-04T16:04:17+00:00",
       "category": "Local Events"
     }
   ]
