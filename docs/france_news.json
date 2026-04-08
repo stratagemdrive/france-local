@@ -1,8 +1,78 @@
 {
   "country": "France",
-  "last_updated": "2026-04-07T14:59:28.751614+00:00",
-  "story_count": 98,
+  "last_updated": "2026-04-08T05:31:54.217886+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Middle East live: Netanyahu says US-Iran ceasefire does not include Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260408-trump-revokes-strike-threats-as-us-iran-ceasefire-takes-shape",
+      "published_date": "2026-04-08T02:15:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU farm fraud scandal rocks Greek government, PM urges swift action",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260407-eu-farm-fraud-scandal-rocks-greek-government-pm-urges-swift-action",
+      "published_date": "2026-04-07T21:06:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Antimicrobial resistance threatens the lives of millions on the African continent",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/antimicrobial-resistance-threatens-the-lives-of-millions-on-the-african-continent",
+      "published_date": "2026-04-07T20:43:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French couple leave Iran after more than three years in jail",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-07T19:18:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Trump Jr calls EU ‘a bit of a mess’ on visit to Bosnia’s Republika Srpska",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/07/donald-trump-jr-eu-visit-bosnia-republika-srpska",
+      "published_date": "2026-04-07T19:06:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban",
+      "published_date": "2026-04-07T18:59:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French nationals leave Iran after more than three years in detention",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-nationals-leave-iran-after-more-than-three-years-in-detention",
+      "published_date": "2026-04-07T18:34:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-07T18:11:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vance accuses EU of election interference on visit to Hungary to support Orban",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260407-vance-accuses-eu-of-election-interference-on-visit-to-hungary-to-support-orban",
+      "published_date": "2026-04-07T17:17:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French couple held in Iran 'free and on their way to France', says Macron",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260407-french-couple-held-in-iran-free-and-on-their-way-to-france-says-macron",
+      "published_date": "2026-04-07T17:16:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live",
       "source": "The Guardian",
@@ -74,74 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "AI technologies could have saved ‘thousands of lives’ during covid, expert says",
+      "title": "French arms exports to Israel ‘a continuous pipeline of military hardware’",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260406-ai-technologies-could-have-saved-thousands-of-lives-during-covid-expert-says",
-      "published_date": "2026-04-06T13:24:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260408-french-arms-exports-to-israel-a-continuous-pipeline-of-military-hardware",
+      "published_date": "2026-04-08T05:11:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump threatens NATO exit, scaling up tensions with allies",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260405-trump-threatens-nato-exit-scaling-up-tensions-with-allies",
-      "published_date": "2026-04-05T15:59:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US war on Iran: Trump pressures allies in war effort but offers 'no role in strategy'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260405-us-war-on-iran-trump-pressures-allies-in-war-effort-but-offers-no-role-in-strategy-1",
-      "published_date": "2026-04-05T15:07:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AI is fuelling the 'digital colonisation' of Africa, warns UN scientist",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260405-ai-is-fuelling-the-digital-colonisation-of-africa-warns-un-scientist",
-      "published_date": "2026-04-05T14:20:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Labour to back down on foie gras and fur bans to ease EU trade deal",
+      "title": "From the archive: Freedom without constraints: how the US squandered its cold war victory – podcast",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/05/labour-back-down-foie-gras-fur-bans-eu-trade-deal",
-      "published_date": "2026-04-05T13:00:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/news/audio/2026/apr/08/from-the-archive-freedom-without-constraints-how-the-us-squandered-its-cold-war-victory-podcast",
+      "published_date": "2026-04-08T04:00:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "One Health Summit begins in Lyon, France: How to prevent health risks ?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/one-health-summit-begins-in-lyon-france-how-to-prevent-health-risks",
-      "published_date": "2026-04-05T09:17:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "On the Agenda: What’s happening in France this week",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260405/on-the-agenda-whats-happening-in-france-this-week-204",
-      "published_date": "2026-04-05T06:49:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NATO anniversary overshadowed by Trump’s threats",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260404-nato-anniversary-overshadowed-by-trump-s-threats",
-      "published_date": "2026-04-04T18:39:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Iran open to negotiations': Diplomacy shows signs of progress, 'damage to global economy continues'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260404-iran-open-to-negotiations-diplomacy-shows-signs-of-progress-damage-to-global-economy-continues",
-      "published_date": "2026-04-04T14:46:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Keir Starmalade, anyone? Will marmalade really have to be rebranded in UK?",
+      "title": "Germans pining for Gerhard Schröder forget his errors and ties to Putin. The SPD needs a fresh approach | Katja Hoyer",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/04/breakfast-reset-will-marmalade-really-be-renamed-in-post-brexit-food-deal",
-      "published_date": "2026-04-04T12:58:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/germany-gerhard-schroder-errors-putin-spd-russia",
+      "published_date": "2026-04-08T04:00:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv lays out how ‘Russian satellites help Iran in war’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/08/ukraine-war-briefing-kyiv-how-russian-satellites-help-iran-in-war",
+      "published_date": "2026-04-08T01:22:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump repeats falsehoods that he predicted 9/11 and demanded Bin Laden's death",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-repeats-falsehoods-that-he-predicted-9-11-and-demanded-bin-laden-s-death",
+      "published_date": "2026-04-07T20:00:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Qatar warns Iran war can now 'spiral out of control'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260407-qatar-warns-iran-war-can-now-spiral-out-of-control",
+      "published_date": "2026-04-07T19:59:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Are war crimes being committed in the Middle East war?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260407-are-war-crimes-committed-in-middle-east-war",
+      "published_date": "2026-04-07T19:26:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "🔴 Middle East war live: Russia, China veto UN resolution on reopening Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260407-middle-east-war-live-trump-s-iran-ultimatum-enters-final-24-hours-amid-escalation-fears",
+      "published_date": "2026-04-07T15:55:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Train driver killed and truck driver in custody after collision in northern France",
@@ -228,60 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "How the Middle East war is impacting humanitarian aid to Africa",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260406-how-the-middle-east-war-is-impacting-humanitarian-aid-to-africa-hormuz-shipping-iran",
-      "published_date": "2026-04-06T14:17:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill Iran Guards intel chief as Trump deadline looms",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israeli-strikes-kill-iran-guards-intel-chief-as-trump-deadline-looms",
-      "published_date": "2026-04-06T14:08:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran wartime killings increase as another protester hanged",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260406-iran-wartime-killings-increase-as-another-protester-hanged",
-      "published_date": "2026-04-06T13:52:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France rolls out 'flash fuel loans' to shield small firms from oil price spike",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260406-france-rolls-out-flash-fuel-loans-to-shield-small-firms-from-oil-price-spike-middle-east-war",
-      "published_date": "2026-04-06T13:23:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Improving neighbourly relations: US-Mexico border authorities close the door",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260406-improving-neighbourly-relations-us-mexico-border-authorities-close-the-door",
-      "published_date": "2026-04-06T12:39:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Warsaw’s Neon Museum sparks revival of interest in cold war signs and aesthetic",
+      "title": "Turkey to race ahead of EU on battery storage amid fossil fuel crisis",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/06/warsaw-neon-museum-revival-interest-cold-war-signs-aesthetic",
-      "published_date": "2026-04-06T11:53:22+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/apr/08/turkey-ahead-eu-battery-storage-fossil-fuel-crisis",
+      "published_date": "2026-04-08T04:00:15+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘Such a mix of people’: Ireland of 1926 was not monocultural, release of census shows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/06/release-census-ireland-1926-not-monocultural",
-      "published_date": "2026-04-06T10:05:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Explosives found by pipeline to Hungary: PM Orban clams sabotage",
+      "title": "'Europe remains committed': Commissioner Síkela announces 'new approach' in global health initiative",
       "source": "France 24",
-      "url": "https://www.france24.com/en/explosives-found-by-pipeline-to-hungary-pm-orban-clams-sabotage",
-      "published_date": "2026-04-06T09:54:38+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260407-europe-remains-committed-commissioner-s%C3%ADkela-announces-new-approach-in-global-health-initiative",
+      "published_date": "2026-04-07T18:14:59+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "'Europe remains committed': Commissioner Síkela announces 'new approach' in global health initiative",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260407-europe-remains-committed-commissioner-s%C3%ADkela-announces-new-approach-in-global-health-initiative",
+      "published_date": "2026-04-07T18:10:36+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Why Viktor Orban wants energy prices at the heart of Hungary’s elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260407-why-viktor-orban-wants-energy-prices-at-the-heart-of-hungary-s-elections",
+      "published_date": "2026-04-07T16:32:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fuel supply shortages hit one in five petrol stations in France",
@@ -393,34 +421,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/access-asia/20260403-asian-nations-ramp-up-coal-power-amid-middle-east-energy-crunch",
       "published_date": "2026-04-03T13:38:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The fight for mineral data in DRC: Belgian museum, US mining firm at odds over archive maps",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260403-the-fight-for-mineral-data-in-drc-belgian-museum-us-mining-firm-at-odds-over-archive-maps",
-      "published_date": "2026-04-03T10:31:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Artemis II astronauts ignite engines and head for lunar flyby",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260403-artemis-ii-astronauts-ignite-engines-and-head-for-lunar-flyby",
-      "published_date": "2026-04-03T00:16:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "One year on, what remains of Trump's tariffs?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/one-year-on-what-remains-of-trump-s-tariffs",
-      "published_date": "2026-04-02T20:43:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "No longer so mighty? Iran war tests US strength and resolve",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260402-no-longer-so-mighty-iran-war-tests-us-strength-and-resolve",
-      "published_date": "2026-04-02T18:12:54+00:00",
       "category": "Energy"
     },
     {
@@ -543,11 +543,32 @@
       "category": "Economy"
     },
     {
-      "title": "'A New Day Has Come': Veritable treasure hunt as Eiffel Tower fêtes return of Celine Dion",
+      "title": "Trump's 'rhetoric itself could create a norm' for others to terrorise entire populations",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260331-a-new-day-has-come-veritable-treasure-hunt-as-eiffel-tower-f%C3%AAtes-return-of-celine-dion",
-      "published_date": "2026-03-31T17:08:31+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/trump-s-rhetoric-itself-could-create-a-norm-for-others-to-terrorise-entire-populations",
+      "published_date": "2026-04-07T19:44:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "An 'eerie still' in Tehran amid Trump's apocalyptic threats",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/an-eerie-still-in-tehran-amid-trump-s-apocalyptic-threats",
+      "published_date": "2026-04-07T19:14:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Speaking helps us heal' says Rwandan survivor on genocide anniversary",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260407-speaking-helps-us-heal-says-rwandan-genocide-survivor-on-anniversary-godelieve-mukasarasi",
+      "published_date": "2026-04-07T19:07:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump warns a 'whole civilization will die tonight' if a deal with Iran isn't reached",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-warns-a-whole-civilization-will-die-tonight-if-a-deal-with-iran-isn-t-reached",
+      "published_date": "2026-04-07T18:21:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spanish politicians clash over request to move Picasso’s Guernica",
@@ -659,34 +680,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/sports/20260406-ligue-1-monaco-defeat-marseille-as-champions-league-race-tightens",
       "published_date": "2026-04-06T05:13:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artemis II astronauts get closer to the moon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260405-artemis-ii-astronauts-get-closer-to-the-moon",
-      "published_date": "2026-04-05T19:09:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two dead, dozens missing after migrant boat capsizes in Mediterranean",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260405-two-dead-dozens-missing-after-migrant-boat-capsizes-in-mediterranean",
-      "published_date": "2026-04-05T15:34:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erling Haaland the hat-trick hero as Manchester City thrash Liverpool in FA Cup",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260405-erling-haaland-the-hat-trick-hero-as-manchester-city-thrash-liverpool-in-fa-cup",
-      "published_date": "2026-04-05T15:06:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Politics and glamour' take the catwalk at African fashion exhibition",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260405-politics-and-glamour-take-the-catwalk-at-african-fashion-exhibition",
-      "published_date": "2026-04-05T12:04:12+00:00",
       "category": "Local Events"
     }
   ]
