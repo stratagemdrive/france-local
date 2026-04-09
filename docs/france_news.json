@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-04-08T14:59:49.098561+00:00",
-  "story_count": 98,
+  "last_updated": "2026-04-09T00:03:21.886899+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "US-Iran truce: ‘Sensitive behind-the-scenes conversations’ paved way for Pakistan-brokered ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260408-us-iran-truce-sensitive-behind-the-scenes-conversations-paved-way-for-pakistan-brokered-ceasefire",
+      "published_date": "2026-04-08T19:58:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "JD Vance claims US is not interfering in Hungary election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/08/jd-vance-dismisses-claims-us-interfering-hungarian-election-budapest-viktor-orban",
+      "published_date": "2026-04-08T17:18:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Latest Mediterranean migrant shipwrecks put 2026 among deadliest years on record",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260408-latest-mediterranean-migrant-shipwrecks-put-2026-among-deadliest-years-on-record",
+      "published_date": "2026-04-08T15:49:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French pair held in Iran says not 'broken' after return to France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260408-french-pair-held-in-iran-says-not-broken-after-return-to-france",
+      "published_date": "2026-04-08T15:25:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France to target Russia's 'shadow fleet' with tougher penalties for ships sailing under false flag",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260408-france-to-target-russia-shadow-fleet-with-tougher-penalties-for-ships-sailing-under-false-flag",
+      "published_date": "2026-04-08T15:06:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU to ‘convey concerns’ to US about Vance’s Hungary intervention – Europe live",
       "source": "The Guardian",
@@ -109,45 +144,122 @@
       "category": "Diplomacy"
     },
     {
-      "title": "French nationals leave Iran after more than three years in detention",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-nationals-leave-iran-after-more-than-three-years-in-detention",
-      "published_date": "2026-04-07T18:34:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-07T18:11:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vance accuses EU of election interference on visit to Hungary to support Orban",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260407-vance-accuses-eu-of-election-interference-on-visit-to-hungary-to-support-orban",
-      "published_date": "2026-04-07T17:17:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French couple held in Iran 'free and on their way to France', says Macron",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260407-french-couple-held-in-iran-free-and-on-their-way-to-france-says-macron",
-      "published_date": "2026-04-07T17:16:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vance accuses EU of ‘foreign interference’ in upcoming Hungarian election while endorsing Orbán – Europe live",
+      "title": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news",
-      "published_date": "2026-04-07T14:42:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/09/us-ignoring-evidence-russia-is-helping-iran-because-it-trusts-putin-says-zelenskyy",
+      "published_date": "2026-04-08T23:00:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump meets NATO’s Rutte as US weighs exit over lack of Iran war support",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260408-trump-nato-rutte-us-exit-iran-war-allies-reject",
+      "published_date": "2026-04-08T21:51:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 182 killed as Israel strikes central Beirut after saying Iran truce doesn't apply there",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260408-at-least-182-killed-as-israel-strikes-central-beirut-after-saying-iran-truce-doesn-t-apply-there",
+      "published_date": "2026-04-08T21:46:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Pakistani military calling the shots: Has connections with IRCG, very good relationship with Trump'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/pakistani-military-calling-the-shots-has-connections-with-ircg-very-good-relationship-with-trump",
+      "published_date": "2026-04-08T21:15:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can ceasefire hold? US-Iran truce tested before talks start",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260408-can-ceasefire-hold-us-iran-truce-tested-before-talks-start",
+      "published_date": "2026-04-08T19:48:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France plans 36 billion euro boost to rearmament, nuclear deterrent expansion",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-plans-36-billion-euro-boost-to-rearmament-nuclear-deterrent-expansion",
+      "published_date": "2026-04-08T19:42:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump administration's claims of victory in Iran 'really quite hollow', analyst says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-administration-s-claims-of-victory-in-iran-really-quite-hollow-analyst-says",
+      "published_date": "2026-04-08T19:37:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu says Israel ready to 'return to battle at any moment' against Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/netanyahu-says-israel-ready-to-return-to-battle-at-any-moment-against-iran",
+      "published_date": "2026-04-08T19:34:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran continues to target Gulf countries despite ceasefire announcement",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-continues-to-target-gulf-countries-despite-ceasefire-announcement",
+      "published_date": "2026-04-08T18:53:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran closes Strait of Hormuz again as Israel pounds Lebanon, air defense systems go off in Tehran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-closes-strait-of-hormuz-again-as-israel-pounds-lebanon-air-defense-systems-go-off-in-tehran",
+      "published_date": "2026-04-08T18:30:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel strikes Beirut without warning, killing dozens in major escalation",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260408-o-n-israel-strikes-beirut-without-warning-killing-dozens-in-major-escalation",
+      "published_date": "2026-04-08T17:43:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel's attacks on Beirut 'much bigger than anything we've seen in this war or the previous one'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-s-attacks-on-beirut-much-bigger-than-anything-we-ve-seen-in-this-war-or-the-previous-one",
+      "published_date": "2026-04-08T15:52:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hegseth hails Iran 'victory' as confusion remains over ceasefire deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260408-hegseth-hails-iran-victory-as-confusion-remains-over-ceasefire-deal",
+      "published_date": "2026-04-08T15:21:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany suspends military approval for long stays abroad for men under 45",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-08T15:21:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel pounds Beirut as Lebanon left out of ceasefire deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260408-israel-pounds-beirut-as-lebanon-left-out-of-ceasefire-deal",
+      "published_date": "2026-04-08T15:20:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Lebanon displaced share stories at theatre turned refuge",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260408-lebanon-displaced-share-stories-at-theatre-turned-refuge",
       "published_date": "2026-04-08T14:51:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France to ramp up drone stocks by 400 percent to face Russia threat",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260408-france-ramps-up-rearmament-amid-russia-threat",
+      "published_date": "2026-04-08T14:43:11+00:00",
       "category": "Military"
     },
     {
@@ -172,116 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "From Evin Prison to a dash through wartime Iran: How French couple’s four-year ordeal ended",
+      "title": "Energy crisis not over despite relief rally",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260408-solitary-confinement-air-strikes-french-couple-kohler-paris-return-unbroken-four-year-ordeal",
-      "published_date": "2026-04-08T14:00:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ex-NATO general: 'I was worried my former colleagues would become war criminals overnight.'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260408-i-was-worried-my-former-colleagues-were-going-to-become-war-criminals-overnight-yak-i-was-worried-my-former-colleagues-were-going-to-become-war-criminals-overnight-yakovleffovleff",
-      "published_date": "2026-04-08T13:25:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cameroon 'military contractors' killed in Russia-Ukraine war - BBC confirms leaked message",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvg0v5gy01go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-08T13:07:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US war on Iran: Lucas makes case for 'discussions & dialogue over renewing violence & confrontation'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-us-war-on-iran-lucas-makes-case-for-discussions-dialogue-over-renewing-violence-confrontation-1",
-      "published_date": "2026-04-08T13:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Talks to be held in Pakistan after US, Israel agree to ceasefire with Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-talks-to-be-held-in-pakistan-after-us-israel-agree-to-ceasefire-with-iran",
-      "published_date": "2026-04-08T12:27:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says Iran ceasefire does not include Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-israel-says-iran-ceasefire-does-not-include-lebanon",
-      "published_date": "2026-04-08T10:51:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pro-regime Iranians celebrate ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-pro-regime-iranians-celebrate-ceasefire",
-      "published_date": "2026-04-08T10:49:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘A step back from the brink’: European leaders welcome US-Iran ceasefire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/08/european-leaders-welcome-us-iran-ceasefire",
-      "published_date": "2026-04-08T09:50:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French pair head home after more than three years in Iranian jail",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260408/french-pair-head-home-after-more-than-three-years-in-iranian-jail",
-      "published_date": "2026-04-08T06:47:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French arms exports to Israel ‘a continuous pipeline of military hardware’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260408-french-arms-exports-to-israel-a-continuous-pipeline-of-military-hardware",
-      "published_date": "2026-04-08T05:11:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From the archive: Freedom without constraints: how the US squandered its cold war victory – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/apr/08/from-the-archive-freedom-without-constraints-how-the-us-squandered-its-cold-war-victory-podcast",
-      "published_date": "2026-04-08T04:00:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germans pining for Gerhard Schröder forget his errors and ties to Putin. The SPD needs a fresh approach | Katja Hoyer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/germany-gerhard-schroder-errors-putin-spd-russia",
-      "published_date": "2026-04-08T04:00:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv lays out how ‘Russian satellites help Iran in war’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/08/ukraine-war-briefing-kyiv-how-russian-satellites-help-iran-in-war",
-      "published_date": "2026-04-08T01:22:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump repeats falsehoods that he predicted 9/11 and demanded Bin Laden's death",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-repeats-falsehoods-that-he-predicted-9-11-and-demanded-bin-laden-s-death",
-      "published_date": "2026-04-07T20:00:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Qatar warns Iran war can now 'spiral out of control'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260407-qatar-warns-iran-war-can-now-spiral-out-of-control",
-      "published_date": "2026-04-07T19:59:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Are war crimes being committed in the Middle East war?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260407-are-war-crimes-committed-in-middle-east-war",
-      "published_date": "2026-04-07T19:26:07+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/energy-crisis-not-over-despite-relief-rally",
+      "published_date": "2026-04-08T20:47:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "French emissions falling too slowly to meet country's climate targets",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Hungarian PM faces ‘false flag’ claims after Serbia says explosives found near pipeline",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/05/viktor-orban-hungary-election-serbia-explosives-gas-pipeline",
-      "published_date": "2026-04-05T17:13:07+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Employment fraude in France: The hefty price of undeclared labour",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/focus/20260408-employment-fraude-in-france-the-hefty-price-of-undeclared-labour",
@@ -536,18 +536,18 @@
       "category": "Economy"
     },
     {
-      "title": "Reeves criticises Trump for starting Iran war with no ‘clear plan’ to get out of it – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates",
-      "published_date": "2026-04-01T16:15:18+00:00",
-      "category": "Economy"
+      "title": "PSG overpower Liverpool to take command of Champions League quarter-final tie",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260408-psg-overpower-liverpool-to-take-command-of-champions-league-quarter-final-tie",
+      "published_date": "2026-04-08T21:39:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EU cohesion in Corsica by numbers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/fact-or-fake/20260401-eu-cohesion-funds-in-corsica-by-the-numbers",
-      "published_date": "2026-04-01T15:40:33+00:00",
-      "category": "Economy"
+      "title": "Genocide case against widow of ex-Rwandan president remains in the balance",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260408-genocide-case-against-widow-of-ex-rwandan-president-remains-in-the-balance",
+      "published_date": "2026-04-08T17:47:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "​Twin corruption trials cast a shadow over Spain’s main parties ahead of key elections",
@@ -673,20 +673,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/paris-des-arts/20260407-a-cultural-stroll-through-paris-with-singer-axel-bauer-and-painter-li-chevalier",
       "published_date": "2026-04-07T12:44:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exiled for a drawing: The Russian father and daughter who stood up to Putin",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260407-exiled-for-a-drawing-the-russian-father-and-daughter-who-stood-up-to-putin",
-      "published_date": "2026-04-07T12:42:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "California 'architect' of 19th century native American genocide, 'US govt 'funded' most of killing'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/california-architect-of-19th-century-native-american-genocide-us-govt-funded-most-of-killing",
-      "published_date": "2026-04-07T12:38:09+00:00",
       "category": "Local Events"
     }
   ]
