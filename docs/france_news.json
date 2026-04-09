@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-04-09T00:03:21.886899+00:00",
-  "story_count": 96,
+  "last_updated": "2026-04-09T16:07:12.030633+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "JD Vance’s claims about Orbán, the EU and Hungary fact-checked",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked",
+      "published_date": "2026-04-09T15:15:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato ‘very disappointing’, says Trump, in fresh attack ahead of Rutte speech – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/09/nato-rutte-trump-iran-hungary-elections-vance-latest-news-updates",
+      "published_date": "2026-04-09T15:08:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump, Vance support for Hungary's Orban is not 'meddling' in upcoming vote, says US envoy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260409-trump-vance-support-for-hungary-s-orban-is-not-meddling-in-upcoming-vote-says-us-envoy",
+      "published_date": "2026-04-09T14:49:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Four people die in Channel small-boat sinking",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/09/people-die-in-channel-small-boat-sinking",
+      "published_date": "2026-04-09T12:06:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Most Hungarians want better relations with EU after years of Orbán Brussels-bashing, poll finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/09/majority-hungary-voters-back-continued-eu-membership-poll-finds-election-orban",
+      "published_date": "2026-04-09T12:03:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France warns Lebanon must not be ‘scapegoat’ after Israeli strikes",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260409-french-foreign-minister-barrot-hits-out-at-israeli-strikes-on-lebanon",
+      "published_date": "2026-04-09T07:18:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron tells Trump and Iran president ceasefire must include Lebanon",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260409/macron-tells-trump-iran-president-ceasefire-must-include-lebanon",
+      "published_date": "2026-04-09T06:27:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East set to dominate Macron's first meeting with Pope Leo",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260409-middle-east-set-to-dominate-macron-s-first-meeting-with-pope-leo",
+      "published_date": "2026-04-09T05:58:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US-Iran truce: ‘Sensitive behind-the-scenes conversations’ paved way for Pakistan-brokered ceasefire",
       "source": "France 24",
@@ -88,60 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France pushes for wider truce as Iran ceasefire leaves Lebanon out",
+      "title": "Will Ukraine's strikes on Russian oil exports weaken Moscow's war effort?",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260408-france-holds-security-meeting-as-iran-ceasefire-raises-doubts",
-      "published_date": "2026-04-08T07:06:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260409-will-ukraine-s-strikes-on-russian-oil-exports-weaken-moscow-s-war-effort",
+      "published_date": "2026-04-09T16:01:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former French president Sarkozy claims innocence at Libya funding appeals trial",
+      "title": "UK navy foiled Russian submarines surveying undersea cables, defence minister says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/09/uk-navy-russian-submarines-undersea-cables-north-atlantic",
+      "published_date": "2026-04-09T15:12:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon declares day of mourning after over 250 killed in Israeli attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260409-lebanon-declares-day-of-mourning-after-over-250-killed-in-israeli-attacks",
+      "published_date": "2026-04-09T14:45:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jihadists kill 18 Nigerian troops including senior brigadier general",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260408-former-french-president-sarkozy-claims-innocence-at-libya-funding-appeals-trial",
-      "published_date": "2026-04-08T06:08:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260409-jihadists-kill-18-nigerian-troops-including-senior-brigadier-general",
+      "published_date": "2026-04-09T14:44:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Middle East live: Netanyahu says US-Iran ceasefire does not include Lebanon",
+      "title": "Israel dismisses calls to add Lebanon to US-Iran ceasefire",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260408-trump-revokes-strike-threats-as-us-iran-ceasefire-takes-shape",
-      "published_date": "2026-04-08T02:15:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260409-israel-dismisses-calls-to-add-lebanon-to-us-iran-ceasefire",
+      "published_date": "2026-04-09T14:17:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU farm fraud scandal rocks Greek government, PM urges swift action",
+      "title": "Iranians rally to mark 40-day mourning for slain supreme leader Khamenei",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260407-eu-farm-fraud-scandal-rocks-greek-government-pm-urges-swift-action",
-      "published_date": "2026-04-07T21:06:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260409-iranians-rally-to-mark-40-day-mourning-for-slain-supreme-leader-khamenei",
+      "published_date": "2026-04-09T14:15:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Antimicrobial resistance threatens the lives of millions on the African continent",
+      "title": "#Lebanon: Scenes of destruction day after ‘terrifying’ Israeli #strikes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/antimicrobial-resistance-threatens-the-lives-of-millions-on-the-african-continent",
-      "published_date": "2026-04-07T20:43:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260409-lebanon-scenes-of-destruction-day-after-terrifying-israeli-strikes",
+      "published_date": "2026-04-09T14:13:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "French couple leave Iran after more than three years in jail",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-07T19:18:08+00:00",
-      "category": "Diplomacy"
+      "title": "Taking stock of Iran war after 40 days of conflict",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260409-taking-stock-of-iran-war-after-40-days-of-conflict",
+      "published_date": "2026-04-09T14:13:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Donald Trump Jr calls EU ‘a bit of a mess’ on visit to Bosnia’s Republika Srpska",
+      "title": "India hit by Middle East war: Millions face gas shortages",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260409-india-hit-by-middle-east-war-millions-face-gas-shortages",
+      "published_date": "2026-04-09T14:12:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France unveils rearmament boost to face Russia threat, global instability",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260409-france-unveils-rearmament-boost-to-face-russia-threat-global-instability",
+      "published_date": "2026-04-09T14:12:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France moves to boost military budget, arms stockpiles in face of Russian threat",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260409-france-moves-to-boost-military-budget-arms-stockpiles-in-face-of-russian-threat",
+      "published_date": "2026-04-09T13:27:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Sheer terror rained from the sky': Arab Reform Initiative Executive Director Nadim Houry",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260409-sheer-terror-reigned-from-the-sky-arab-reform-initiative-executive-director-nadim-houry",
+      "published_date": "2026-04-09T11:22:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ten years after Brexit, this is the UK: a divided nation frozen in time | Aditya Chakrabortty",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/07/donald-trump-jr-eu-visit-bosnia-republika-srpska",
-      "published_date": "2026-04-07T19:06:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "JD Vance accuses EU of ‘interference’ as he visits Hungary to help Orbán win election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/07/jd-vance-eu-interference-hungary-election-viktor-orban",
-      "published_date": "2026-04-07T18:59:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/09/ten-years-brexit-uk-divided-country",
+      "published_date": "2026-04-09T05:00:22+00:00",
+      "category": "Military"
     },
     {
       "title": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
@@ -193,95 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Netanyahu says Israel ready to 'return to battle at any moment' against Iran",
+      "title": "Iran war: Catalyst for a renewable energy push?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/netanyahu-says-israel-ready-to-return-to-battle-at-any-moment-against-iran",
-      "published_date": "2026-04-08T19:34:28+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/people-profit/20260409-iran-war-catalyst-for-a-renewable-energy-push",
+      "published_date": "2026-04-09T14:34:38+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran continues to target Gulf countries despite ceasefire announcement",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-continues-to-target-gulf-countries-despite-ceasefire-announcement",
-      "published_date": "2026-04-08T18:53:55+00:00",
-      "category": "Military"
+      "title": "Strait of Hormuz not open, Abu Dhabi’s oil chief says as crude prices rise",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/09/oil-price-rises-as-markets-question-durability-of-middle-east-ceasefire-iran",
+      "published_date": "2026-04-09T14:14:06+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran closes Strait of Hormuz again as Israel pounds Lebanon, air defense systems go off in Tehran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-closes-strait-of-hormuz-again-as-israel-pounds-lebanon-air-defense-systems-go-off-in-tehran",
-      "published_date": "2026-04-08T18:30:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel strikes Beirut without warning, killing dozens in major escalation",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260408-o-n-israel-strikes-beirut-without-warning-killing-dozens-in-major-escalation",
-      "published_date": "2026-04-08T17:43:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel's attacks on Beirut 'much bigger than anything we've seen in this war or the previous one'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-s-attacks-on-beirut-much-bigger-than-anything-we-ve-seen-in-this-war-or-the-previous-one",
-      "published_date": "2026-04-08T15:52:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth hails Iran 'victory' as confusion remains over ceasefire deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-hegseth-hails-iran-victory-as-confusion-remains-over-ceasefire-deal",
-      "published_date": "2026-04-08T15:21:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany suspends military approval for long stays abroad for men under 45",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-08T15:21:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel pounds Beirut as Lebanon left out of ceasefire deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-israel-pounds-beirut-as-lebanon-left-out-of-ceasefire-deal",
-      "published_date": "2026-04-08T15:20:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon displaced share stories at theatre turned refuge",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-lebanon-displaced-share-stories-at-theatre-turned-refuge",
-      "published_date": "2026-04-08T14:51:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France to ramp up drone stocks by 400 percent to face Russia threat",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260408-france-ramps-up-rearmament-amid-russia-threat",
-      "published_date": "2026-04-08T14:43:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Did US really secure 'overwhelming military victory' in Iran?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-did-us-really-secure-overwhelming-military-victory-in-iran",
-      "published_date": "2026-04-08T14:22:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Unlawful' war on Iran: 'Use of force by the United States never justified'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/unlawful-war-on-iran-use-of-force-by-the-united-states-never-justified",
-      "published_date": "2026-04-08T14:16:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "REPLAY: Hegseth claims Iran suffered 'devastating military defeat'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-replay-hegseth-claims-iran-suffered-devastating-military-defeat",
-      "published_date": "2026-04-08T14:01:48+00:00",
-      "category": "Military"
+      "title": "‘The danger and value of water are in my blood’: how rain fences are making Dutch homes more climate resilient",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/09/rain-fences-dutch-homes-climate-resilient",
+      "published_date": "2026-04-09T13:00:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "Energy crisis not over despite relief rally",
@@ -403,25 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Egypt: Wide-ranging energy effects of the war in the Gulf ‌region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/egypt-wide-ranging-energy-effects-of-the-war-in-the-gulf-region",
-      "published_date": "2026-04-06T14:23:35+00:00",
-      "category": "Energy"
+      "title": "Lidl to open 50 UK stores in year ahead as part of £600m expansion plans",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/09/lidl-to-open-50-uk-stores-in-year-ahead-as-part-of-600m-expansion-plans",
+      "published_date": "2026-04-09T12:45:53+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Explosives discovered near gas pipeline to Hungary, says Serbia's president",
+      "title": "Rising oil prices: Are we heading for a recession?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260405-explosives-discovered-near-pipeline-in-serbia-that-carries-russian-gas-leaders-say",
-      "published_date": "2026-04-05T19:58:34+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/business/20260409-rising-oil-prices-are-we-heading-for-a-recession",
+      "published_date": "2026-04-09T12:04:08+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-05T19:17:42+00:00",
-      "category": "Energy"
+      "title": "What changes for couples in France for the 2026 tax declaration",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260409/what-changes-for-couples-in-france-for-the-2026-tax-declaration",
+      "published_date": "2026-04-09T09:04:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PODCAST: French tax traps to avoid and why Paris is divided in two",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260409/podcast-french-tax-traps-to-avoid-and-why-paris-is-divided-in-two",
+      "published_date": "2026-04-09T07:01:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "Employment fraude in France: The hefty price of undeclared labour",
@@ -529,11 +557,53 @@
       "category": "Economy"
     },
     {
-      "title": "Britain says 40 countries discuss reopening Strait of Hormuz after Iran blockade",
+      "title": "Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/apr/09/autoimmune-diseases-cell-therapy-immune-reset",
+      "published_date": "2026-04-09T15:00:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's public prosecutor drops drugs probe into far-left MEP",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260402-britain-says-40-countries-discuss-reopening-strait-of-hormuz-after-iran-blockade",
-      "published_date": "2026-04-02T14:07:19+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20260409-france-public-prosecutor-drops-drugs-probe-into-far-left-mep",
+      "published_date": "2026-04-09T14:57:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Podcast: 'New' antisemitism, Statue of Liberty, France's first female general",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-france/20260409-podcast-new-antisemitism-israel-statue-of-liberty-france-first-female-general-valerie-andre",
+      "published_date": "2026-04-09T14:39:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dominant PSG leave Liverpool right up against it in Champions League tie",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260409-dominant-psg-leave-liverpool-right-up-against-it-in-champions-league-tie",
+      "published_date": "2026-04-09T14:11:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four people die trying to board boat in Channel crossing attempt",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-09T13:56:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "7 maps that show Paris' east-west divide",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260409/7-maps-that-show-paris-east-west-divide",
+      "published_date": "2026-04-09T13:45:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'€500 down the drain': Brit in France has to cancel trip over UK dual national rules",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260409/e500-down-the-drain-brit-in-france-has-to-cancel-trip-over-uk-dual-national-rules",
+      "published_date": "2026-04-09T07:38:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "PSG overpower Liverpool to take command of Champions League quarter-final tie",
@@ -624,55 +694,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/trump-s-rhetoric-itself-could-create-a-norm-for-others-to-terrorise-entire-populations",
       "published_date": "2026-04-07T19:44:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "An 'eerie still' in Tehran amid Trump's apocalyptic threats",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/an-eerie-still-in-tehran-amid-trump-s-apocalyptic-threats",
-      "published_date": "2026-04-07T19:14:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Speaking helps us heal' says Rwandan survivor on genocide anniversary",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260407-speaking-helps-us-heal-says-rwandan-genocide-survivor-on-anniversary-godelieve-mukasarasi",
-      "published_date": "2026-04-07T19:07:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump warns a 'whole civilization will die tonight' if a deal with Iran isn't reached",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-warns-a-whole-civilization-will-die-tonight-if-a-deal-with-iran-isn-t-reached",
-      "published_date": "2026-04-07T18:21:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish politicians clash over request to move Picasso’s Guernica",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/07/spain-politician-clash-picasso-guernica",
-      "published_date": "2026-04-07T14:34:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oh Great in Paris: Unveiling a new chapter with new graphic novel ‘Smoke’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260407-oh-great-in-paris-unveiling-a-new-chapter-with-new-graphic-novel-smoke",
-      "published_date": "2026-04-07T14:24:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gunmen attack building housing Israeli Consulate in Istanbul",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260407-gunmen-attack-building-housing-israeli-consulate-in-istanbul",
-      "published_date": "2026-04-07T12:46:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A cultural stroll through Paris with singer Axel Bauer and painter Li Chevalier",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/paris-des-arts/20260407-a-cultural-stroll-through-paris-with-singer-axel-bauer-and-painter-li-chevalier",
-      "published_date": "2026-04-07T12:44:39+00:00",
       "category": "Local Events"
     }
   ]
