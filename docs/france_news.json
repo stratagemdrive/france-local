@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-04-09T16:07:12.030633+00:00",
+  "last_updated": "2026-04-10T06:10:03.936473+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "‘Irresponsible failure’: Google, Meta, Snap and Microsoft slam EU over child sexual abuse law lapse",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/apr/09/google-meta-snap-microsoft-eu-child-sexual-abuse",
+      "published_date": "2026-04-10T06:00:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Even if Victor Orbán is ousted on Sunday, Hungary’s return to liberal democracy is not guaranteed | Gabriela Greilinger and Cas Mudde",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/10/victor-orban-hungary-peter-magyar-liberal-democracy-fidesz",
+      "published_date": "2026-04-10T04:00:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "JD Vance’s claims about Orbán, the EU and Hungary fact-checked",
       "source": "The Guardian",
@@ -130,18 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘A full-on embrace’: how the EU’s largest news publisher fell in love with the US",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/apr/08/how-axel-springer-germany-mathias-doepfner-us-political",
-      "published_date": "2026-04-08T07:46:32+00:00",
-      "category": "Diplomacy"
+      "title": "Djibouti election unfolds at strategic shipping chokepoint",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260410-djibouti-election-guelleh-unfolds-at-strategic-shipping-chokepoint",
+      "published_date": "2026-04-10T04:44:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "French pair says not 'broken' after ordeal in Iranian prison",
+      "title": "Middle East live: Vance heads to Pakistan for Iran talks as Israeli assault on Lebanon tests truce",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260408-french-detainees-formerly-held-in-iran-c%C3%A9cile-kohler-jacques-paris-arrive-in-paris",
-      "published_date": "2026-04-08T07:21:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260410-middle-east-live-khamenei-says-iran-does-not-want-war-but-will-defend-its-rights",
+      "published_date": "2026-04-10T02:35:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: First official ceasefire agreed after Zelenskyy push succeeds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/10/ukraine-war-briefing-first-official-ceasefire-agreed-after-zelenskyy-push-succeeds",
+      "published_date": "2026-04-10T00:32:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
+      "published_date": "2026-04-09T20:23:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "High fuel prices spur interest in EVs",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/high-fuel-prices-spur-interest-in-evs",
+      "published_date": "2026-04-09T20:02:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin announces Orthodox Easter ceasefire in Ukraine after Kyiv proposes same",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260409-putin-announces-orthodox-easter-ceasefire-in-ukraine",
+      "published_date": "2026-04-09T19:22:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sidelined by Trump’s truce with Iran, Israel pummels Lebanon – then agrees to talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260409-sidelined-trump-ceasefire-iran-israel-pummels-lebanon-agrees-talks-netanyahu",
+      "published_date": "2026-04-09T18:27:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who profits off Iran war? Strait of Hormuz toll talk fuels outrage",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260409-who-profits-off-iran-war-strait-of-hormuz-toll-talk-fuels-outrage",
+      "published_date": "2026-04-09T18:12:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Trump abandoned us': Ceasefire sparks anger, fear, division among Iranians",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260409-iran-ceasefire-reactions-trump-anger-division-war-regime-change-debate",
+      "published_date": "2026-04-09T17:04:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Will Ukraine's strikes on Russian oil exports weaken Moscow's war effort?",
@@ -218,69 +281,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260409-france-moves-to-boost-military-budget-arms-stockpiles-in-face-of-russian-threat",
       "published_date": "2026-04-09T13:27:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Sheer terror rained from the sky': Arab Reform Initiative Executive Director Nadim Houry",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260409-sheer-terror-reigned-from-the-sky-arab-reform-initiative-executive-director-nadim-houry",
-      "published_date": "2026-04-09T11:22:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ten years after Brexit, this is the UK: a divided nation frozen in time | Aditya Chakrabortty",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/09/ten-years-brexit-uk-divided-country",
-      "published_date": "2026-04-09T05:00:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/09/us-ignoring-evidence-russia-is-helping-iran-because-it-trusts-putin-says-zelenskyy",
-      "published_date": "2026-04-08T23:00:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump meets NATO’s Rutte as US weighs exit over lack of Iran war support",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260408-trump-nato-rutte-us-exit-iran-war-allies-reject",
-      "published_date": "2026-04-08T21:51:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 182 killed as Israel strikes central Beirut after saying Iran truce doesn't apply there",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260408-at-least-182-killed-as-israel-strikes-central-beirut-after-saying-iran-truce-doesn-t-apply-there",
-      "published_date": "2026-04-08T21:46:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Pakistani military calling the shots: Has connections with IRCG, very good relationship with Trump'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/pakistani-military-calling-the-shots-has-connections-with-ircg-very-good-relationship-with-trump",
-      "published_date": "2026-04-08T21:15:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can ceasefire hold? US-Iran truce tested before talks start",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260408-can-ceasefire-hold-us-iran-truce-tested-before-talks-start",
-      "published_date": "2026-04-08T19:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France plans 36 billion euro boost to rearmament, nuclear deterrent expansion",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-plans-36-billion-euro-boost-to-rearmament-nuclear-deterrent-expansion",
-      "published_date": "2026-04-08T19:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump administration's claims of victory in Iran 'really quite hollow', analyst says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-administration-s-claims-of-victory-in-iran-really-quite-hollow-analyst-says",
-      "published_date": "2026-04-08T19:37:57+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Venezuela police tear gas protesters calling for pay and pension rises",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260409-venezuela-police-tear-gas-protesters-calling-for-pay-and-pension-rises",
+      "published_date": "2026-04-09T17:13:21+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Lidl to open 50 UK stores in year ahead as part of £600m expansion plans",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/apr/09/lidl-to-open-50-uk-stores-in-year-ahead-as-part-of-600m-expansion-plans",
@@ -550,11 +557,11 @@
       "category": "Economy"
     },
     {
-      "title": "Trump signs order threatening up to 100% tariffs on pharmaceuticals",
+      "title": "Nigeria begins trial of 500 terrorism suspects",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260402-trump-signs-order-threatening-up-to-100-tariffs-on-pharmaceuticals",
-      "published_date": "2026-04-02T22:37:28+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/nigeria-begins-trial-of-500-terrorism-suspects",
+      "published_date": "2026-04-09T20:20:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy",
@@ -687,13 +694,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260408/opinion-le-pen-pushes-to-cast-aside-far-right-label-as-france-redraws-political-map",
       "published_date": "2026-04-08T07:40:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump's 'rhetoric itself could create a norm' for others to terrorise entire populations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-s-rhetoric-itself-could-create-a-norm-for-others-to-terrorise-entire-populations",
-      "published_date": "2026-04-07T19:44:36+00:00",
       "category": "Local Events"
     }
   ]
