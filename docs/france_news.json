@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-04-10T14:35:36.695407+00:00",
+  "last_updated": "2026-04-10T23:32:27.776194+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
+      "published_date": "2026-04-10T16:47:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Macron talks war, peace and basketball with Pope Leo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260410-france-s-macron-talks-war-peace-and-basketball-with-pope-leo",
+      "published_date": "2026-04-10T15:35:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T15:12:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungary: Is Viktor Orban Russia's 'Trojan horse' in the EU?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260410-hungary-is-viktor-orban-russia-s-trojan-horse-in-the-eu",
+      "published_date": "2026-04-10T14:58:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron meets pope, gives him basketball jersey",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260410-macron-meets-pope-gives-him-basketball-jersey",
+      "published_date": "2026-04-10T14:54:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "European airports could face jet fuel shortages within three weeks",
       "source": "The Guardian",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron tells Trump and Iran president ceasefire must include Lebanon",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260409/macron-tells-trump-iran-president-ceasefire-must-include-lebanon",
-      "published_date": "2026-04-09T06:27:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Middle East set to dominate Macron's first meeting with Pope Leo",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260409-middle-east-set-to-dominate-macron-s-first-meeting-with-pope-leo",
-      "published_date": "2026-04-09T05:58:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-Iran truce: ‘Sensitive behind-the-scenes conversations’ paved way for Pakistan-brokered ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260408-us-iran-truce-sensitive-behind-the-scenes-conversations-paved-way-for-pakistan-brokered-ceasefire",
-      "published_date": "2026-04-08T19:58:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "JD Vance claims US is not interfering in Hungary election",
+      "title": "The week around the world in 20 pictures",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/08/jd-vance-dismisses-claims-us-interfering-hungarian-election-budapest-viktor-orban",
-      "published_date": "2026-04-08T17:18:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/10/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-04-10T18:26:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Latest Mediterranean migrant shipwrecks put 2026 among deadliest years on record",
+      "title": "Remaining in Nato is in best interests of US, says Keir Starmer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/10/remaining-in-nato-alliance-us-interests-keir-starmer",
+      "published_date": "2026-04-10T17:53:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Trump harbors an unexplained sympathy for Vladimir Putin', Ukrainian analyst says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-harbors-an-unexplained-sympathy-for-vladimir-putin-ukrainian-analyst-says",
+      "published_date": "2026-04-10T16:43:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli society has 'allowed trauma to take over' and 'cares only about revenge'",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260408-latest-mediterranean-migrant-shipwrecks-put-2026-among-deadliest-years-on-record",
-      "published_date": "2026-04-08T15:49:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260410-israeli-society-has-allowed-trauma-to-take-over-and-cares-only-about-revenge",
+      "published_date": "2026-04-10T16:29:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘We thought Beirut was going to collapse’: recounting the deadliest day of the war with Israel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260410-we-thought-beirut-was-going-to-collapse-recounting-the-deadliest-day-of-the-war-with-israel",
+      "published_date": "2026-04-10T16:15:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Beirut hospitals overwhelmed, survivors recount carnage scenes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260410-beirut-hospitals-overwhelmed-survivors-recount-carnage-scenes",
+      "published_date": "2026-04-10T15:42:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'We can provide more durable cooperation with Gulf countries', Ukraine defence industry chief says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260410-we-can-provide-more-durable-cooperation-with-gulf-countries-ukraine-defence-industry-chief-says",
+      "published_date": "2026-04-10T15:39:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Inside the Iran war decision making: NYT describes how Trump chose to go to war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260410-inside-the-iran-war-decision-making-nyt-describes-how-trump-chose-to-go-to-war",
+      "published_date": "2026-04-10T15:38:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Fuel-price protesters cause chaos in Ireland and spread to Norway",
@@ -225,62 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260409-sidelined-trump-ceasefire-iran-israel-pummels-lebanon-agrees-talks-netanyahu",
       "published_date": "2026-04-09T18:27:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who profits off Iran war? Strait of Hormuz toll talk fuels outrage",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260409-who-profits-off-iran-war-strait-of-hormuz-toll-talk-fuels-outrage",
-      "published_date": "2026-04-09T18:12:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK says Russia ran submarine operation over cables and pipelines",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T17:09:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Trump abandoned us': Ceasefire sparks anger, fear, division among Iranians",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260409-iran-ceasefire-reactions-trump-anger-division-war-regime-change-debate",
-      "published_date": "2026-04-09T17:04:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Ukraine's strikes on Russian oil exports weaken Moscow's war effort?",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260409-will-ukraine-s-strikes-on-russian-oil-exports-weaken-moscow-s-war-effort",
-      "published_date": "2026-04-09T16:01:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK navy foiled Russian submarines surveying undersea cables, defence minister says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/09/uk-navy-russian-submarines-undersea-cables-north-atlantic",
-      "published_date": "2026-04-09T15:12:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon declares day of mourning after over 250 killed in Israeli attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260409-lebanon-declares-day-of-mourning-after-over-250-killed-in-israeli-attacks",
-      "published_date": "2026-04-09T14:45:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jihadists kill 18 Nigerian troops including senior brigadier general",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260409-jihadists-kill-18-nigerian-troops-including-senior-brigadier-general",
-      "published_date": "2026-04-09T14:44:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel dismisses calls to add Lebanon to US-Iran ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260409-israel-dismisses-calls-to-add-lebanon-to-us-iran-ceasefire",
-      "published_date": "2026-04-09T14:17:23+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,34 @@
       "category": "Energy"
     },
     {
+      "title": "Orbán and rival Magyar hold rallies as Hungary election campaigns enter final stretch – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/10/hungary-election-orban-europe-budapest-latest-news-updates",
+      "published_date": "2026-04-10T18:03:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Orbán and Magyar trade accusations in last days of Hungary election campaign",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/10/viktor-orban-peter-magyar-hungary-election-campaign",
+      "published_date": "2026-04-10T16:33:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cloud of uncertainty over US-Iran talks in Pakistan as sides trade accusations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260410-cloud-of-uncertainty-over-us-iran-talks-in-pakistan-as-sides-trade-accusations",
+      "published_date": "2026-04-10T15:37:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hungary vote: Rising opposition threatens Orban’s grip on power",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260410-hungary-vote-rising-opposition-threatens-orban-s-grip-on-power",
+      "published_date": "2026-04-10T14:58:26+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Celine Dion's Paris concerts promise to boost economy in the French capital",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260410/celine-dions-paris-concerts-promise-to-spin-the-money-on-and-on",
@@ -536,32 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Spain's huge pork industry seeks salvation from swine fever threat",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-05T23:19:20+00:00",
-      "category": "Economy"
+      "title": "Former New York City mayor Eric Adams obtains Albanian citizenship",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/10/eric-adams-albanian-citizenship",
+      "published_date": "2026-04-10T21:44:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump's 'puppet regime': Home to world’s largest oil reserves, is Venezuela key to US economy?",
+      "title": "One dead and 27 injured after bus with British passengers crashes in Canary Islands",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/10/fatal-bus-crash-british-passengers-canary-islands-san-sebastian-de-la-gomera",
+      "published_date": "2026-04-10T19:35:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after four die trying to cross Channel in small boat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/10/man-arrested-four-die-channel-crossing-small-boat",
+      "published_date": "2026-04-10T17:24:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US and Iran prepare for ceasefire talks as Netanyahu authorises negotiations with Lebanon",
       "source": "France 24",
-      "url": "https://www.france24.com/en/trump-s-puppet-regime-home-to-world-s-largest-oil-reserves-is-venezuela-key-to-us-economy",
-      "published_date": "2026-04-05T15:00:28+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260410-us-and-iran-prepare-for-ceasefire-talks-as-netanyahu-authorises-negotiations-with-lebanon",
+      "published_date": "2026-04-10T15:40:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "From Ghana to France, UN slavery resolution meets with mixed reactions",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260405-from-ghana-to-france-un-slavery-resolution-meets-with-mixed-reactions",
-      "published_date": "2026-04-05T06:16:35+00:00",
-      "category": "Economy"
+      "title": "Melania Trump denies any Epstein connection, seeks end to ‘lies’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260410-melania-trump-denies-any-epstein-connection-seeks-end-to-lies",
+      "published_date": "2026-04-10T15:37:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iraq turns to Turkey for oil exports as Middle East war reshapes routes",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260404-iraq-turns-to-turkey-for-oil-exports-as-middle-east-war-reshapes-routes",
-      "published_date": "2026-04-04T08:36:28+00:00",
-      "category": "Economy"
+      "title": "Man accused of coercing wife into sex with 120 men goes on trial in Sweden",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx24pdwx588o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T15:06:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Relentless airstrikes on Beirut's residential areas 'remind Lebanese that Israel is enemy as well'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/relentless-airstrikes-on-beirut-s-residential-areas-remind-lebanese-that-israel-is-enemy-as-well",
+      "published_date": "2026-04-10T14:49:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dutch police urge victims of 'international sextortion campaign' to come forward",
@@ -652,55 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260409-dominant-psg-leave-liverpool-right-up-against-it-in-champions-league-tie",
       "published_date": "2026-04-09T14:11:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four people die trying to board boat in Channel crossing attempt",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T13:56:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "7 maps that show Paris' east-west divide",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260409/7-maps-that-show-paris-east-west-divide",
-      "published_date": "2026-04-09T13:45:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'€500 down the drain': Brit in France has to cancel trip over UK dual national rules",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260409/e500-down-the-drain-brit-in-france-has-to-cancel-trip-over-uk-dual-national-rules",
-      "published_date": "2026-04-09T07:38:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG overpower Liverpool to take command of Champions League quarter-final tie",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260408-psg-overpower-liverpool-to-take-command-of-champions-league-quarter-final-tie",
-      "published_date": "2026-04-08T21:39:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Genocide case against widow of ex-Rwandan president remains in the balance",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260408-genocide-case-against-widow-of-ex-rwandan-president-remains-in-the-balance",
-      "published_date": "2026-04-08T17:47:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "​Twin corruption trials cast a shadow over Spain’s main parties ahead of key elections",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/08/twin-corruption-trials-cast-a-shadow-over-spains-main-parties-ahead-of-key-elections",
-      "published_date": "2026-04-08T14:30:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French fishermen block ports to protest against fuel price rises",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260408/french-fishermen-block-ports-to-protest-against-fuel-price-rises",
-      "published_date": "2026-04-08T14:29:41+00:00",
       "category": "Local Events"
     }
   ]
