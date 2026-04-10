@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-04-10T06:10:03.936473+00:00",
-  "story_count": 99,
+  "last_updated": "2026-04-10T14:35:36.695407+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "European airports could face jet fuel shortages within three weeks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/10/european-airports-jet-fuel-shortages-flights-iran",
+      "published_date": "2026-04-10T14:12:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East top of agenda as Macron meets Pope Leo XIV at Vatican",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260410-middle-east-top-of-agenda-as-macron-meets-pope-leo-xiv-at-vatican",
+      "published_date": "2026-04-10T13:11:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No, Emmanuel Macron did not share a (fake) photo of Melania Trump with Jeffrey Epstein",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260410-emmanuel-macron-fake-photo-melania-trump-jeffrey-epstein",
+      "published_date": "2026-04-10T11:40:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What Australians and other international travellers need to know about the new EU travel rules",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/travel/2026/apr/10/what-australians-and-other-international-travellers-need-to-know-about-the-new-eu-travel-rules",
+      "published_date": "2026-04-10T10:44:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kenya approves defence pact with France, as Paris shifts focus from West Africa",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260410-kenya-approves-defence-pact-with-france-as-paris-shifts-focus-from-west-africa",
+      "published_date": "2026-04-10T09:52:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Irresponsible failure’: Google, Meta, Snap and Microsoft slam EU over child sexual abuse law lapse",
       "source": "The Guardian",
@@ -15,6 +50,20 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/apr/10/victor-orban-hungary-peter-magyar-liberal-democracy-fidesz",
       "published_date": "2026-04-10T04:00:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU fingerprint and photo travel rules come into force",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-09T23:04:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron meets Pope Leo amid calls for peace in Middle East",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260409-france-s-macron-in-rome-for-first-meeting-with-pope-leo",
+      "published_date": "2026-04-09T17:37:12+00:00",
       "category": "Diplomacy"
     },
     {
@@ -95,53 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "French pair held in Iran says not 'broken' after return to France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-french-pair-held-in-iran-says-not-broken-after-return-to-france",
-      "published_date": "2026-04-08T15:25:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France to target Russia's 'shadow fleet' with tougher penalties for ships sailing under false flag",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260408-france-to-target-russia-shadow-fleet-with-tougher-penalties-for-ships-sailing-under-false-flag",
-      "published_date": "2026-04-08T15:06:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU to ‘convey concerns’ to US about Vance’s Hungary intervention – Europe live",
+      "title": "Fuel-price protesters cause chaos in Ireland and spread to Norway",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates",
-      "published_date": "2026-04-08T14:21:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/10/fuel-price-protests-chaos-ireland-norway",
+      "published_date": "2026-04-10T14:25:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ex-Iran detainees back in France: 'The culmination of years of hard work'",
+      "title": "Under the fog of ceasefire: Competing narratives over the peace talks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-ex-iran-detainees-back-in-france-the-culmination-of-years-of-hard-work",
-      "published_date": "2026-04-08T12:24:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/scoop/20260410-under-the-fog-of-ceasefire-competing-narratives-over-the-peace-talks",
+      "published_date": "2026-04-10T13:13:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Greece to ban social media for under-15s from next year",
+      "title": "Russia and Ukraine agree to Orthodox Easter truce",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-08T11:39:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T11:56:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron greets French pair back in Paris after 'terrible ordeal' in Iran",
+      "title": "Gladio: NATO’s secret cold war operation in Italy",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-macron-greets-french-pair-back-in-paris-after-terrible-ordeal-in-iran",
-      "published_date": "2026-04-08T11:32:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/revisited/20260410-gladio-nato-secret-cold-war-operation-in-italy",
+      "published_date": "2026-04-10T09:16:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "REPLAY: 'A message of hope' - French pair held in Iran speak to media after release",
+      "title": "Confusion over Melania Trump's bizarrely-timed Jeffrey Epstein disavowal",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-replay-a-message-of-hope-french-pair-held-in-iran-speak-to-media-after-release",
-      "published_date": "2026-04-08T11:31:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260410-confusion-over-melania-trump-s-bizarrely-timed-jeffrey-epstein-disavowal",
+      "published_date": "2026-04-10T09:08:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Djibouti election unfolds at strategic shipping chokepoint",
@@ -200,6 +235,13 @@
       "category": "Military"
     },
     {
+      "title": "UK says Russia ran submarine operation over cables and pipelines",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-09T17:09:57+00:00",
+      "category": "Military"
+    },
+    {
       "title": "'Trump abandoned us': Ceasefire sparks anger, fear, division among Iranians",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260409-iran-ceasefire-reactions-trump-anger-division-war-regime-change-debate",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iranians rally to mark 40-day mourning for slain supreme leader Khamenei",
+      "title": "Ceasefire holds, but Strait of Hormuz remains at a standstill",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260409-iranians-rally-to-mark-40-day-mourning-for-slain-supreme-leader-khamenei",
-      "published_date": "2026-04-09T14:15:52+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260410-ceasefire-holds-but-strait-of-hormuz-remains-at-a-standstill",
+      "published_date": "2026-04-10T09:15:17+00:00",
+      "category": "Energy"
     },
     {
-      "title": "#Lebanon: Scenes of destruction day after ‘terrifying’ Israeli #strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260409-lebanon-scenes-of-destruction-day-after-terrifying-israeli-strikes",
-      "published_date": "2026-04-09T14:13:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taking stock of Iran war after 40 days of conflict",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260409-taking-stock-of-iran-war-after-40-days-of-conflict",
-      "published_date": "2026-04-09T14:13:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India hit by Middle East war: Millions face gas shortages",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260409-india-hit-by-middle-east-war-millions-face-gas-shortages",
-      "published_date": "2026-04-09T14:12:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France unveils rearmament boost to face Russia threat, global instability",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260409-france-unveils-rearmament-boost-to-face-russia-threat-global-instability",
-      "published_date": "2026-04-09T14:12:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France moves to boost military budget, arms stockpiles in face of Russian threat",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260409-france-moves-to-boost-military-budget-arms-stockpiles-in-face-of-russian-threat",
-      "published_date": "2026-04-09T13:27:07+00:00",
-      "category": "Military"
+      "title": "Starmer says he is ‘fed up’ with Trump and Putin’s impact on UK energy costs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/10/starmer-fed-up-trump-uk-politics",
+      "published_date": "2026-04-10T07:55:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran war: Catalyst for a renewable energy push?",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Israel attacks Iran's South Pars gas field again",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260406-israel-attacks-iran-s-south-pars-gas-field-again",
-      "published_date": "2026-04-06T20:52:49+00:00",
-      "category": "Energy"
+      "title": "Celine Dion's Paris concerts promise to boost economy in the French capital",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260410/celine-dions-paris-concerts-promise-to-spin-the-money-on-and-on",
+      "published_date": "2026-04-10T12:08:17+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Artemis II astronauts capture rare lunar craters, solar eclipse after historic Moon flyby",
+      "title": "What changes for property rentals in France for the 2026 tax declaration",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260410/what-changes-for-property-rentals-in-france-for-the-2026-tax-declaration",
+      "published_date": "2026-04-10T12:03:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Céline Dion's concerts set to give Paris multimillion-euro boost",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260406-follow-live-artemis-ii-begins-its-final-lunar-flyby",
-      "published_date": "2026-04-06T16:13:59+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/culture/20260410-c%C3%A9eline-dion-s-concerts-set-to-give-paris-multimillion-euro-boost",
+      "published_date": "2026-04-10T11:49:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Venezuela police tear gas protesters calling for pay and pension rises",
@@ -543,18 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Artemis II astronauts rocket toward the moon after spending a day around Earth",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260403-artemis-ii-astronauts-rocket-toward-the-moon-after-spending-a-day-around-earth",
-      "published_date": "2026-04-03T13:43:08+00:00",
-      "category": "Economy"
+      "title": "Dutch police urge victims of 'international sextortion campaign' to come forward",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce84nl4gnz2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T13:24:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French easyJet staff call Easter strike",
+      "title": "Where the streets will have no cars for the weekend’s Paris Marathon",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260403/french-easyjet-staff-call-easter-strike",
-      "published_date": "2026-04-03T09:31:53+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20260410/where-the-streets-will-have-no-cars-for-the-weekends-paris-marathon",
+      "published_date": "2026-04-10T12:49:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prostitution of minors in France rises by 43 percent in four years",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260410-prostitution-of-minors-in-france-rises-by-43-percent-in-four-years",
+      "published_date": "2026-04-10T12:15:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I’m worried there’s too much of me,’ says a birch: inside the interspecies council giving nature a voice",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/10/im-worried-theres-too-much-of-me-says-a-birch-inside-the-interspecies-council-giving-nature-a-voice",
+      "published_date": "2026-04-10T10:09:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia, the Islamic State group's new front line in Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/somalia-islamic-state-group-new-front-line-africa",
+      "published_date": "2026-04-10T09:29:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Think twice': scam warning for fans as Céline Dion tickets go on sale",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20260410-think-twice-scam-warning-for-fans-as-c%C3%A9line-dion-tickets-go-on-sale",
+      "published_date": "2026-04-10T09:02:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary elections: what is at stake and who is likely to win?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/03/hungary-elections-viktor-orban-who-will-win",
+      "published_date": "2026-04-10T08:46:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Belle Vie: French table manners and art exhibitions",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260410/la-belle-vie-french-table-manners-and-art-exhibitions",
+      "published_date": "2026-04-10T06:28:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nigeria begins trial of 500 terrorism suspects",
@@ -638,62 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260408/french-fishermen-block-ports-to-protest-against-fuel-price-rises",
       "published_date": "2026-04-08T14:29:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mastering French wine: A sommelier's guide to the art of choosing and tasting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260408-mastering-french-wine-a-sommelier-s-guide-to-the-art-of-choosing-and-tasting",
-      "published_date": "2026-04-08T12:45:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sarkozy due back in court on second day of appeals trial",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-sarkozy-due-back-in-court-on-second-day-of-appeals-trial",
-      "published_date": "2026-04-08T12:28:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No link between release of French pair held in Iran and Mideast war, France says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-no-link-between-release-of-french-pair-held-in-iran-and-mideast-war-france-says",
-      "published_date": "2026-04-08T11:33:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel strikes Lebanon as says Iran truce does not apply",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260408-israel-strikes-lebanon-as-says-iran-truce-does-not-apply",
-      "published_date": "2026-04-08T11:29:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A new generation of politicians of colour is emerging in France. The backlash speaks volumes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/08/politicians-colour-france-backlash-elections-racism",
-      "published_date": "2026-04-08T11:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: PSG star Vitinha rejects 'favourites' tag in Liverpool clash",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260408-champions-league-psg-star-vitinha-rejects-favourites-tag-in-liverpool-clash",
-      "published_date": "2026-04-08T10:41:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French teachers Kohler and Paris describe 'daily horror' of Iran detention",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260408-french-teachers-return-to-paris-after-years-held-in-iran-c%C3%A9cile-kohler-and-jacques-paris",
-      "published_date": "2026-04-08T09:12:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Le Pen pushes to cast aside 'far right' label as France redraws political map",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260408/opinion-le-pen-pushes-to-cast-aside-far-right-label-as-france-redraws-political-map",
-      "published_date": "2026-04-08T07:40:11+00:00",
       "category": "Local Events"
     }
   ]
