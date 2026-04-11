@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-04-10T23:32:27.776194+00:00",
+  "last_updated": "2026-04-11T11:27:03.395485+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "An Orban loss in Hungary’s election could be the turning point Putin fears",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260411-hungary-election-magyar-orban-could-mark-turning-point-russia-putin-fears",
+      "published_date": "2026-04-11T09:54:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel refuses ceasefire with Hezbollah",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-refuses-ceasefire-with-hezbollah",
+      "published_date": "2026-04-11T09:34:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
       "source": "The Guardian",
@@ -36,6 +50,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260410-macron-meets-pope-gives-him-basketball-jersey",
       "published_date": "2026-04-10T14:54:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France’s Macron talks war, peace and basketball with Pope Leo",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260410/frances-macron-talks-war-peace-and-basketball-with-pope-leo",
+      "published_date": "2026-04-10T14:40:50+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Four people die in Channel small-boat sinking",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/09/people-die-in-channel-small-boat-sinking",
-      "published_date": "2026-04-09T12:06:02+00:00",
-      "category": "Diplomacy"
+      "title": "US, Iran sit down for talks in Islamabad",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-iran-sit-down-for-talks-in-islamabad",
+      "published_date": "2026-04-11T10:48:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Most Hungarians want better relations with EU after years of Orbán Brussels-bashing, poll finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/09/majority-hungary-voters-back-continued-eu-membership-poll-finds-election-orban",
-      "published_date": "2026-04-09T12:03:12+00:00",
-      "category": "Diplomacy"
+      "title": "Russia, Ukraine to begin Orthodox Easter truce",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-ukraine-to-begin-orthodox-easter-truce",
+      "published_date": "2026-04-11T09:49:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "France warns Lebanon must not be ‘scapegoat’ after Israeli strikes",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260409-french-foreign-minister-barrot-hits-out-at-israeli-strikes-on-lebanon",
-      "published_date": "2026-04-09T07:18:54+00:00",
-      "category": "Diplomacy"
+      "title": "Explosives found near pipeline in Serbia probably ‘Russian provocation’, says expert",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/11/explosives-serbia-pipeline-likely-russian-provocation-says-military-expert-hungary-ukraine",
+      "published_date": "2026-04-11T09:36:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran, US delegations to start negotiations in Pakistan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-us-delegations-to-start-negotiations-in-pakistan",
+      "published_date": "2026-04-11T08:36:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Iran has put up a demand that Lebanon should be included in the ceasefire'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-has-put-up-a-demand-that-lebanon-should-be-included-in-the-ceasefire",
+      "published_date": "2026-04-11T07:39:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: Vance meets Pakistani PM as Iran peace talks begin in Islamabad",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260411-live-vance-in-pakistan-for-peace-talks-with-iranian-officials",
+      "published_date": "2026-04-11T05:33:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "An environmental disaster in Moldova has Russia’s fingerprints all over it | Paula Erizanu",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/11/environmental-disaster-moldova-russia-ukraine-war-drinking-water",
+      "published_date": "2026-04-11T04:00:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia and Ukraine set to begin Orthodox Easter ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260411-russia-and-ukraine-set-to-begin-orthodox-easter-ceasefire",
+      "published_date": "2026-04-11T03:53:14+00:00",
+      "category": "Military"
     },
     {
       "title": "The week around the world in 20 pictures",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Confusion over Melania Trump's bizarrely-timed Jeffrey Epstein disavowal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260410-confusion-over-melania-trump-s-bizarrely-timed-jeffrey-epstein-disavowal",
-      "published_date": "2026-04-10T09:08:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Djibouti election unfolds at strategic shipping chokepoint",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260410-djibouti-election-guelleh-unfolds-at-strategic-shipping-chokepoint",
-      "published_date": "2026-04-10T04:44:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East live: Vance heads to Pakistan for Iran talks as Israeli assault on Lebanon tests truce",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260410-middle-east-live-khamenei-says-iran-does-not-want-war-but-will-defend-its-rights",
-      "published_date": "2026-04-10T02:35:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: First official ceasefire agreed after Zelenskyy push succeeds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/ukraine-war-briefing-first-official-ceasefire-agreed-after-zelenskyy-push-succeeds",
-      "published_date": "2026-04-10T00:32:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
-      "published_date": "2026-04-09T20:23:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "High fuel prices spur interest in EVs",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/high-fuel-prices-spur-interest-in-evs",
-      "published_date": "2026-04-09T20:02:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin announces Orthodox Easter ceasefire in Ukraine after Kyiv proposes same",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260409-putin-announces-orthodox-easter-ceasefire-in-ukraine",
-      "published_date": "2026-04-09T19:22:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sidelined by Trump’s truce with Iran, Israel pummels Lebanon – then agrees to talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260409-sidelined-trump-ceasefire-iran-israel-pummels-lebanon-agrees-talks-netanyahu",
-      "published_date": "2026-04-09T18:27:32+00:00",
-      "category": "Military"
+      "title": "France unveils measures to speed up shift to electric power",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260411/france-unveils-measures-to-speed-up-shift-to-electric-power",
+      "published_date": "2026-04-11T07:23:37+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ceasefire holds, but Strait of Hormuz remains at a standstill",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Around 18 percent of France's fuel stations are out of stock",
+      "title": "Inside France: Far-right fairytale and the footballer versus the fisc",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260407/around-18-percent-of-frances-fuel-stations-are-out-of-stock",
-      "published_date": "2026-04-07T07:22:49+00:00",
-      "category": "Energy"
+      "url": "https://www.thelocal.fr/20260411/inside-france-far-right-fairytale-and-the-footballer-versus-the-fisc",
+      "published_date": "2026-04-11T08:06:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Orbán and rival Magyar hold rallies as Hungary election campaigns enter final stretch – as it happened",
@@ -557,11 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "We've gone mad for puzzles. This makes sense – it’s reassuring to have answers in these perplexing times | Joseph de Weck",
+      "title": "Artemis II: “Taking care of space means taking care of Earth”",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/artemis-ii-taking-care-of-space-means-taking-care-of-earth",
+      "published_date": "2026-04-11T07:58:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedish exhibition explores life of 18th-century Black diarist",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/06/puzzles-reassuring-answers-perplexing-times",
-      "published_date": "2026-04-06T04:00:09+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/apr/11/sweden-gustav-badin-exhibition-18th-century-black-diarist",
+      "published_date": "2026-04-11T07:30:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Former New York City mayor Eric Adams obtains Albanian citizenship",
@@ -585,10 +599,31 @@
       "category": "Local Events"
     },
     {
+      "title": "French schoolboy severely injures classmate in stabbing",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260410/french-schoolboy-severely-injures-classmate-in-stabbing",
+      "published_date": "2026-04-10T15:58:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French father faces charges for keeping son in van for over a year",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260410/french-father-faces-charges-for-keeping-son-in-van-for-over-a-year",
+      "published_date": "2026-04-10T15:51:20+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "US and Iran prepare for ceasefire talks as Netanyahu authorises negotiations with Lebanon",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260410-us-and-iran-prepare-for-ceasefire-talks-as-netanyahu-authorises-negotiations-with-lebanon",
       "published_date": "2026-04-10T15:40:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EXPLAINED: Why does Alsace want to leave its French region?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260410/explained-why-does-alsace-want-to-leave-its-french-region",
+      "published_date": "2026-04-10T15:38:05+00:00",
       "category": "Local Events"
     },
     {
@@ -666,41 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260410/la-belle-vie-french-table-manners-and-art-exhibitions",
       "published_date": "2026-04-10T06:28:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria begins trial of 500 terrorism suspects",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nigeria-begins-trial-of-500-terrorism-suspects",
-      "published_date": "2026-04-09T20:20:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/apr/09/autoimmune-diseases-cell-therapy-immune-reset",
-      "published_date": "2026-04-09T15:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's public prosecutor drops drugs probe into far-left MEP",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260409-france-public-prosecutor-drops-drugs-probe-into-far-left-mep",
-      "published_date": "2026-04-09T14:57:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Podcast: 'New' antisemitism, Statue of Liberty, France's first female general",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-france/20260409-podcast-new-antisemitism-israel-statue-of-liberty-france-first-female-general-valerie-andre",
-      "published_date": "2026-04-09T14:39:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dominant PSG leave Liverpool right up against it in Champions League tie",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260409-dominant-psg-leave-liverpool-right-up-against-it-in-champions-league-tie",
-      "published_date": "2026-04-09T14:11:08+00:00",
       "category": "Local Events"
     }
   ]
