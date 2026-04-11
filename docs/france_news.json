@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-04-11T11:27:03.395485+00:00",
+  "last_updated": "2026-04-11T23:30:11.519209+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Macron presses for Middle East de-escalation as Iran–US talks begin",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260411-macron-pushes-for-middle-east-de-escalation-as-iran%E2%80%93us-talks-begin",
+      "published_date": "2026-04-11T17:15:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'The Last Cedar of Lebanon': A play exploring war’s lasting scars",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260411-the-last-cedar-of-lebanon-a-play-exploring-war-s-lasting-scars",
+      "published_date": "2026-04-11T17:01:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Full rollout of new EU border checks hit by delays and disruption",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260411/full-rollout-of-new-eu-border-checks-hit-by-delays-and-disruption",
+      "published_date": "2026-04-11T13:56:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "An Orban loss in Hungary’s election could be the turning point Putin fears",
       "source": "France 24",
@@ -123,25 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "JD Vance’s claims about Orbán, the EU and Hungary fact-checked",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/jd-vance-claims-orban-eu-hungary-election-fact-checked",
-      "published_date": "2026-04-09T15:15:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nato ‘very disappointing’, says Trump, in fresh attack ahead of Rutte speech – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/09/nato-rutte-trump-iran-hungary-elections-vance-latest-news-updates",
-      "published_date": "2026-04-09T15:08:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump, Vance support for Hungary's Orban is not 'meddling' in upcoming vote, says US envoy",
+      "title": "Iran-US negotiations underway in Pakistan, US says Strait of Hormuz being 'cleared'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260409-trump-vance-support-for-hungary-s-orban-is-not-meddling-in-upcoming-vote-says-us-envoy",
-      "published_date": "2026-04-09T14:49:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260411-iran-us-negotiations-underway-in-pakistan-us-says-strait-of-hormuz-being-cleared",
+      "published_date": "2026-04-11T20:48:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone attacks persist despite Kremlin’s Easter ceasefire, Ukrainian forces say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/11/russian-drone-attacks-persist-despite-kremlins-easter-ceasefire-ukrainian-forces-say",
+      "published_date": "2026-04-11T19:50:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia and Ukraine trade strikes before temporary ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-and-ukraine-trade-strikes-before-temporary-ceasefire",
+      "published_date": "2026-04-11T15:43:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel army says hit over 200 Hezbollah targets in last 24 hours",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-army-says-hit-over-200-hezbollah-targets-in-last-24-hours",
+      "published_date": "2026-04-11T15:32:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran, US top officials meet face-to-face",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-us-top-officials-meet-face-to-face",
+      "published_date": "2026-04-11T15:20:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine and Russia observe Orthodox Easter truce despite deep scepticism",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260411-ukraine-and-russia-observe-orthodox-easter-truce-despite-deep-scepticism",
+      "published_date": "2026-04-11T15:09:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former IS child 'fighters' were war victims, say French lawyers",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260411/former-is-child-fighters-were-war-victims-say-french-lawyers",
+      "published_date": "2026-04-11T13:13:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘He cares about Hungarians’: the small Ukrainian town divided over Orbán",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/11/ukraine-divided-viktor-orban-berehove-fidesz",
+      "published_date": "2026-04-11T13:00:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia and Ukraine exchange 175 prisoners of war each",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260411-russia-ukraine-swap-hundreds-of-prisoners-of-war-ahead-of-easter-truce",
+      "published_date": "2026-04-11T11:55:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey pushes for European missile defence deal amid Iran tensions",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260411-turkey-pushes-for-european-missile-defence-deal-amid-iran-tensions",
+      "published_date": "2026-04-11T11:38:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who is Iran's Chief negotiator Ghalibaf?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/who-is-iran-s-chief-negotiator-ghalibaf",
+      "published_date": "2026-04-11T11:34:24+00:00",
+      "category": "Military"
     },
     {
       "title": "US, Iran sit down for talks in Islamabad",
@@ -207,81 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Remaining in Nato is in best interests of US, says Keir Starmer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/remaining-in-nato-alliance-us-interests-keir-starmer",
-      "published_date": "2026-04-10T17:53:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Trump harbors an unexplained sympathy for Vladimir Putin', Ukrainian analyst says",
+      "title": "Mexico seeks to curb reliance on US gas",
       "source": "France 24",
-      "url": "https://www.france24.com/en/trump-harbors-an-unexplained-sympathy-for-vladimir-putin-ukrainian-analyst-says",
-      "published_date": "2026-04-10T16:43:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli society has 'allowed trauma to take over' and 'cares only about revenge'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260410-israeli-society-has-allowed-trauma-to-take-over-and-cares-only-about-revenge",
-      "published_date": "2026-04-10T16:29:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘We thought Beirut was going to collapse’: recounting the deadliest day of the war with Israel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260410-we-thought-beirut-was-going-to-collapse-recounting-the-deadliest-day-of-the-war-with-israel",
-      "published_date": "2026-04-10T16:15:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Beirut hospitals overwhelmed, survivors recount carnage scenes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260410-beirut-hospitals-overwhelmed-survivors-recount-carnage-scenes",
-      "published_date": "2026-04-10T15:42:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'We can provide more durable cooperation with Gulf countries', Ukraine defence industry chief says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260410-we-can-provide-more-durable-cooperation-with-gulf-countries-ukraine-defence-industry-chief-says",
-      "published_date": "2026-04-10T15:39:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside the Iran war decision making: NYT describes how Trump chose to go to war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260410-inside-the-iran-war-decision-making-nyt-describes-how-trump-chose-to-go-to-war",
-      "published_date": "2026-04-10T15:38:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fuel-price protesters cause chaos in Ireland and spread to Norway",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/fuel-price-protests-chaos-ireland-norway",
-      "published_date": "2026-04-10T14:25:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Under the fog of ceasefire: Competing narratives over the peace talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/scoop/20260410-under-the-fog-of-ceasefire-competing-narratives-over-the-peace-talks",
-      "published_date": "2026-04-10T13:13:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia and Ukraine agree to Orthodox Easter truce",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T11:56:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gladio: NATO’s secret cold war operation in Italy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/revisited/20260410-gladio-nato-secret-cold-war-operation-in-italy",
-      "published_date": "2026-04-10T09:16:38+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/mexico-seeks-to-curb-reliance-on-us-gas",
+      "published_date": "2026-04-11T13:54:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "France unveils measures to speed up shift to electric power",
@@ -414,13 +421,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260407-artemis-ii-crew-start-trip-home-after-milestone-rich-lunar-flyby",
       "published_date": "2026-04-07T10:26:14+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Gas prices in France 'could go up 25 percent' from May",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260407/gas-prices-in-france-could-go-up-25-percent-from-may",
-      "published_date": "2026-04-07T09:45:23+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,55 @@
       "category": "Economy"
     },
     {
+      "title": "Man arrested for allegedly damaging US military aircraft in Shannon airport",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/11/man-arrested-for-allegedly-damaging-us-military-aircraft-in-shannon-airport",
+      "published_date": "2026-04-11T22:51:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is this the end of Viktor Orbán’s regime? - podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/audio/2026/apr/11/is-this-the-end-of-viktor-orbans-regime-full-story-podcast",
+      "published_date": "2026-04-11T20:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French man charged with keeping nine-year-old son locked in van since 2024",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/11/french-man-charged-keeping-nine-year-old-son-locked-van-hagenbach",
+      "published_date": "2026-04-11T18:11:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris marathon marks its 50th year",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/paris-marathon-marks-its-50th-year",
+      "published_date": "2026-04-11T13:55:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reunion Island deploys sterile mosquitoes to stop the spread of disease",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260411-reunion-island-deploys-sterile-mosquitoes-to-stop-the-spread-of-disease-optis",
+      "published_date": "2026-04-11T13:53:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peruvian presidential candidate Keiko Fujimori vows to expel migrants",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/peruvian-presidential-candidate-keiko-fujimori-vows-to-expel-migrants",
+      "published_date": "2026-04-11T13:53:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Football: Pierre-Emerick Aubameyang puts Marseille back on track in Ligue 1",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260411-football-pierre-emerick-aubameyang-puts-marseille-back-on-track-in-ligue-1",
+      "published_date": "2026-04-11T11:29:37+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Artemis II: “Taking care of space means taking care of Earth”",
       "source": "France 24",
       "url": "https://www.france24.com/en/artemis-ii-taking-care-of-space-means-taking-care-of-earth",
@@ -652,55 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/ce84nl4gnz2o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-10T13:24:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where the streets will have no cars for the weekend’s Paris Marathon",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260410/where-the-streets-will-have-no-cars-for-the-weekends-paris-marathon",
-      "published_date": "2026-04-10T12:49:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prostitution of minors in France rises by 43 percent in four years",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260410-prostitution-of-minors-in-france-rises-by-43-percent-in-four-years",
-      "published_date": "2026-04-10T12:15:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I’m worried there’s too much of me,’ says a birch: inside the interspecies council giving nature a voice",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/10/im-worried-theres-too-much-of-me-says-a-birch-inside-the-interspecies-council-giving-nature-a-voice",
-      "published_date": "2026-04-10T10:09:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia, the Islamic State group's new front line in Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/somalia-islamic-state-group-new-front-line-africa",
-      "published_date": "2026-04-10T09:29:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Think twice': scam warning for fans as Céline Dion tickets go on sale",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260410-think-twice-scam-warning-for-fans-as-c%C3%A9line-dion-tickets-go-on-sale",
-      "published_date": "2026-04-10T09:02:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary elections: what is at stake and who is likely to win?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/03/hungary-elections-viktor-orban-who-will-win",
-      "published_date": "2026-04-10T08:46:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Belle Vie: French table manners and art exhibitions",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260410/la-belle-vie-french-table-manners-and-art-exhibitions",
-      "published_date": "2026-04-10T06:28:42+00:00",
       "category": "Local Events"
     }
   ]
