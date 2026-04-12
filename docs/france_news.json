@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-04-11T23:30:11.519209+00:00",
+  "last_updated": "2026-04-12T11:31:16.450675+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Polls open in Hungary crunch vote",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/polls-open-in-hungary-crunch-vote",
+      "published_date": "2026-04-12T10:11:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungarians vote in hard-fought election that could oust Viktor Orbán after 16 years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/12/hungarians-vote-in-hard-fought-election-that-could-oust-viktor-orban-after-16-years",
+      "published_date": "2026-04-12T06:00:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron presses for Middle East de-escalation as Iran–US talks begin",
       "source": "RFI English",
@@ -130,18 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU fingerprint and photo travel rules come into force",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T23:04:32+00:00",
-      "category": "Diplomacy"
+      "title": "US and Iran fail to reach a deal after peace talks in Islamabad",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260412-us-and-iran-fail-to-reach-a-deal-after-peace-talks-in-islamabad",
+      "published_date": "2026-04-12T10:57:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron meets Pope Leo amid calls for peace in Middle East",
+      "title": "Lebanon protests talks with Israel",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260409-france-s-macron-in-rome-for-first-meeting-with-pope-leo",
-      "published_date": "2026-04-09T17:37:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/lebanon-protests-talks-with-israel",
+      "published_date": "2026-04-12T10:08:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-12T09:38:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran-US talks fail to reach deal in Islamabad on ending Middle East war",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260412-iran-us-talks-fail-to-reach-deal-in-islamabad-on-ending-middle-east-war",
+      "published_date": "2026-04-12T09:24:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-12T09:19:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Latest exchange of prisoners of war between Russia and Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/latest-exchange-of-prisoners-of-war-between-russia-and-ukraine",
+      "published_date": "2026-04-12T08:47:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US and Iran end 21-hour ceasefire talks without agreement before Vance departs Pakistan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-and-iran-end-21-hour-ceasefire-talks-without-agreement-before-vance-departs-pakistan",
+      "published_date": "2026-04-12T08:41:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran-US: Talks ended after 21 hours without reaching agreement",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-us-talks-ended-after-21-hours-without-reaching-agreement",
+      "published_date": "2026-04-12T08:38:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From brutal occupation to brazen recruitment: Russia turns Bucha residents against their own",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/12/russia-bucha-occupation-recruitment-bohdan-tymchenko-acts-of-sabotage-bucha",
+      "published_date": "2026-04-12T08:00:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine and Russia trade accusations of Orthodox Easter truce violations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260412-ukraine-and-russia-trade-orthodox-easter-truce-breach-barbs",
+      "published_date": "2026-04-12T07:41:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Polls open in Hungary after a campaign of rallies, protests and war rhetoric",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260412-polls-open-in-hungary-after-a-campaign-of-rallies-protests-and-war-rhetoric",
+      "published_date": "2026-04-12T06:47:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: US failed to gain Tehran's trust, Iranian negotiator says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260412-middle-east-war-live-us-and-iran-fail-to-reach-deal-after-marathon-peace-talks-in-pakistan",
+      "published_date": "2026-04-12T05:35:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran-US negotiations underway in Pakistan, US says Strait of Hormuz being 'cleared'",
@@ -197,90 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/11/ukraine-divided-viktor-orban-berehove-fidesz",
       "published_date": "2026-04-11T13:00:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia and Ukraine exchange 175 prisoners of war each",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260411-russia-ukraine-swap-hundreds-of-prisoners-of-war-ahead-of-easter-truce",
-      "published_date": "2026-04-11T11:55:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey pushes for European missile defence deal amid Iran tensions",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260411-turkey-pushes-for-european-missile-defence-deal-amid-iran-tensions",
-      "published_date": "2026-04-11T11:38:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who is Iran's Chief negotiator Ghalibaf?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/who-is-iran-s-chief-negotiator-ghalibaf",
-      "published_date": "2026-04-11T11:34:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, Iran sit down for talks in Islamabad",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-iran-sit-down-for-talks-in-islamabad",
-      "published_date": "2026-04-11T10:48:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia, Ukraine to begin Orthodox Easter truce",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-ukraine-to-begin-orthodox-easter-truce",
-      "published_date": "2026-04-11T09:49:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Explosives found near pipeline in Serbia probably ‘Russian provocation’, says expert",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/11/explosives-serbia-pipeline-likely-russian-provocation-says-military-expert-hungary-ukraine",
-      "published_date": "2026-04-11T09:36:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, US delegations to start negotiations in Pakistan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-us-delegations-to-start-negotiations-in-pakistan",
-      "published_date": "2026-04-11T08:36:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Iran has put up a demand that Lebanon should be included in the ceasefire'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-has-put-up-a-demand-that-lebanon-should-be-included-in-the-ceasefire",
-      "published_date": "2026-04-11T07:39:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: Vance meets Pakistani PM as Iran peace talks begin in Islamabad",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260411-live-vance-in-pakistan-for-peace-talks-with-iranian-officials",
-      "published_date": "2026-04-11T05:33:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "An environmental disaster in Moldova has Russia’s fingerprints all over it | Paula Erizanu",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/11/environmental-disaster-moldova-russia-ukraine-war-drinking-water",
-      "published_date": "2026-04-11T04:00:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia and Ukraine set to begin Orthodox Easter ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260411-russia-and-ukraine-set-to-begin-orthodox-easter-ceasefire",
-      "published_date": "2026-04-11T03:53:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/10/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-04-10T18:26:58+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Taxes, residency paperwork, and summer festivals: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260412/taxes-residency-paperwork-and-summer-festivals-6-essential-articles-for-life-in-france",
+      "published_date": "2026-04-12T06:28:31+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Inside France: Far-right fairytale and the footballer versus the fisc",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260411/inside-france-far-right-fairytale-and-the-footballer-versus-the-fisc",
@@ -557,11 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "Dracula review – Romania’s most reliable export is focus of knockabout cut-up satire",
+      "title": "Police clear Irish fuel protesters from several locations",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy519664lqro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-12T11:12:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Week in pictures: the Artemis II lunar mission, a key Hungarian election and Trump's coveted arch",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260412-week-in-pictures-the-artemis-ii-lunar-mission-a-key-hungarian-election-and-trump-s-coveted-arch",
+      "published_date": "2026-04-12T09:38:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peru votes for new president Sunday",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/peru-votes-for-new-president-sunday",
+      "published_date": "2026-04-12T09:24:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy's Crippa wins Paris marathon as Ethiopia's Demise sets new women's record",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260412-crippa-wins-paris-marathon-as-ethiopia-s-demise-sets-new-women-s-record",
+      "published_date": "2026-04-12T08:47:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pro-Palestinian rally in London: Over 500 arrested",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/pro-palestinian-rally-in-london-over-500-arrested",
+      "published_date": "2026-04-12T08:43:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Among Magyar's supporters, \"one word keeps coming up: hope\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260412-among-magyar-s-supporters-one-word-keeps-coming-up-hope",
+      "published_date": "2026-04-12T07:17:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 500 people arrested at Palestine Action rally in London",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260412-more-than-500-people-arrested-at-palestine-action-rally-in-london",
+      "published_date": "2026-04-12T06:40:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260412/on-the-agenda-whats-happening-in-france-this-week-205",
+      "published_date": "2026-04-12T06:27:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A festival of young European photography",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/06/dracula-review-romanias-most-reliable-export-becomes-focus-of-knockabout-cut-up-satire",
-      "published_date": "2026-04-06T08:00:13+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/12/a-festival-of-young-european-photography",
+      "published_date": "2026-04-12T06:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Hungary's knife-edge election could impact the US and Russia",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-12T02:52:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peruvians head to the polls amid political chaos and rising crime",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260412-peruvians-go-to-the-polls-amid-political-chaos-and-instability",
+      "published_date": "2026-04-12T02:49:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Man arrested for allegedly damaging US military aircraft in Shannon airport",
@@ -624,83 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/11/sweden-gustav-badin-exhibition-18th-century-black-diarist",
       "published_date": "2026-04-11T07:30:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former New York City mayor Eric Adams obtains Albanian citizenship",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/10/eric-adams-albanian-citizenship",
-      "published_date": "2026-04-10T21:44:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One dead and 27 injured after bus with British passengers crashes in Canary Islands",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/fatal-bus-crash-british-passengers-canary-islands-san-sebastian-de-la-gomera",
-      "published_date": "2026-04-10T19:35:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested after four die trying to cross Channel in small boat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/10/man-arrested-four-die-channel-crossing-small-boat",
-      "published_date": "2026-04-10T17:24:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French schoolboy severely injures classmate in stabbing",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260410/french-schoolboy-severely-injures-classmate-in-stabbing",
-      "published_date": "2026-04-10T15:58:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French father faces charges for keeping son in van for over a year",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260410/french-father-faces-charges-for-keeping-son-in-van-for-over-a-year",
-      "published_date": "2026-04-10T15:51:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US and Iran prepare for ceasefire talks as Netanyahu authorises negotiations with Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260410-us-and-iran-prepare-for-ceasefire-talks-as-netanyahu-authorises-negotiations-with-lebanon",
-      "published_date": "2026-04-10T15:40:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EXPLAINED: Why does Alsace want to leave its French region?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260410/explained-why-does-alsace-want-to-leave-its-french-region",
-      "published_date": "2026-04-10T15:38:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Melania Trump denies any Epstein connection, seeks end to ‘lies’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260410-melania-trump-denies-any-epstein-connection-seeks-end-to-lies",
-      "published_date": "2026-04-10T15:37:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man accused of coercing wife into sex with 120 men goes on trial in Sweden",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx24pdwx588o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T15:06:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Relentless airstrikes on Beirut's residential areas 'remind Lebanese that Israel is enemy as well'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/relentless-airstrikes-on-beirut-s-residential-areas-remind-lebanese-that-israel-is-enemy-as-well",
-      "published_date": "2026-04-10T14:49:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch police urge victims of 'international sextortion campaign' to come forward",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce84nl4gnz2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T13:24:03+00:00",
       "category": "Local Events"
     }
   ]
