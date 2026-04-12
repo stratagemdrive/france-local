@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-04-12T11:31:16.450675+00:00",
+  "last_updated": "2026-04-12T23:31:46.308055+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Hungary ousts Orbán after 16 years as pro-EU challenger wins shock election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260412-hungary-ousts-orb%C3%A1n-after-16-years-as-pro-eu-challenger-wins-shock-election",
+      "published_date": "2026-04-12T23:16:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump's incendiary rhetoric fuels 'chaos and confusion', driving NATO allies toward self-reliance",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260412-trump-s-incendiary-rhetoric-fuels-chaos-and-confusion-driving-nato-allies-toward-self-reliance-1",
+      "published_date": "2026-04-12T21:53:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungarian opposition ousts Viktor Orbán after 16 years in power",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election",
+      "published_date": "2026-04-12T20:05:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Britain could adopt single market rules without MPs’ vote as part of UK-EU reset",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/12/britain-single-market-rules-uk-eu-reset",
+      "published_date": "2026-04-12T17:58:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran - Enemies of the Strait: Former NATO General discusses US blockade threats",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260412-iran-enemies-of-the-straights-former-nato-general-discusses-us-blockade-threats",
+      "published_date": "2026-04-12T17:53:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran believes they hold the cards amid 'dysfunction & chaos in US national security decision-making'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260412-iran-believes-they-hold-the-cards-amid-dysfunction-chaos-in-us-national-security-decision-making",
+      "published_date": "2026-04-12T15:57:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Orban's 16-year grip on power under threat from Magyar",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/orban-s-16-year-grip-on-power-under-threat-from-magyar",
+      "published_date": "2026-04-12T12:03:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Polls open in Hungary crunch vote",
       "source": "France 24",
@@ -67,6 +116,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "EU fingerprint and photo travel rules come into force",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T15:29:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
@@ -88,60 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France’s Macron talks war, peace and basketball with Pope Leo",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260410/frances-macron-talks-war-peace-and-basketball-with-pope-leo",
-      "published_date": "2026-04-10T14:40:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European airports could face jet fuel shortages within three weeks",
+      "title": "Ukraine war briefing: Easter truce expires as both sides accuse the other of violations",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/european-airports-jet-fuel-shortages-flights-iran",
-      "published_date": "2026-04-10T14:12:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/13/ukraine-war-briefing-easter-truce-expires-as-both-sides-accuse-the-other-of-violations",
+      "published_date": "2026-04-12T23:00:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Middle East top of agenda as Macron meets Pope Leo XIV at Vatican",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260410-middle-east-top-of-agenda-as-macron-meets-pope-leo-xiv-at-vatican",
-      "published_date": "2026-04-10T13:11:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "No, Emmanuel Macron did not share a (fake) photo of Melania Trump with Jeffrey Epstein",
+      "title": "Trump orders naval blockade of Strait of Hormuz after failed US-Iran talks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260410-emmanuel-macron-fake-photo-melania-trump-jeffrey-epstein",
-      "published_date": "2026-04-10T11:40:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260412-trump-orders-naval-blockade-of-strait-of-hormuz",
+      "published_date": "2026-04-12T22:57:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "What Australians and other international travellers need to know about the new EU travel rules",
+      "title": "Military air strikes kill dozens of people in northeast Nigeria, Amnesty International says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260412-military-air-strikes-kill-dozens-of-people-in-northeast-nigeria-amnesty-international-says",
+      "published_date": "2026-04-12T19:19:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanese govt politically present, operationally absent': PM accuses Israel of violating int'l law'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/lebanese-govt-politically-present-operationally-absent-pm-accuses-israel-of-violating-int-l-law",
+      "published_date": "2026-04-12T18:27:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says US will begin 'blockading' the Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260412-trump-says-us-will-begin-blockading-the-strait-of-hormuz",
+      "published_date": "2026-04-12T16:23:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Interest in EVs surges in Europe as fuel prices jump after Iran war",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/travel/2026/apr/10/what-australians-and-other-international-travellers-need-to-know-about-the-new-eu-travel-rules",
-      "published_date": "2026-04-10T10:44:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/environment/2026/apr/12/interest-evs-surge-europe-fuel-prices-iran-war",
+      "published_date": "2026-04-12T15:53:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya approves defence pact with France, as Paris shifts focus from West Africa",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260410-kenya-approves-defence-pact-with-france-as-paris-shifts-focus-from-west-africa",
-      "published_date": "2026-04-10T09:52:01+00:00",
-      "category": "Diplomacy"
+      "title": "Trump orders blockade of Hormuz Strait",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-orders-blockade-of-hormuz-strait",
+      "published_date": "2026-04-12T14:28:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Irresponsible failure’: Google, Meta, Snap and Microsoft slam EU over child sexual abuse law lapse",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/apr/09/google-meta-snap-microsoft-eu-child-sexual-abuse",
-      "published_date": "2026-04-10T06:00:12+00:00",
-      "category": "Diplomacy"
+      "title": "🔴 Middle East war live: Trump says US will begin 'blockading' Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/live-news/20260412-%F0%9F%94%B4-middle-east-war-live-trump-says-us-will-begin-blockading-strait-of-hormuz",
+      "published_date": "2026-04-12T13:17:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Even if Victor Orbán is ousted on Sunday, Hungary’s return to liberal democracy is not guaranteed | Gabriela Greilinger and Cas Mudde",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/10/victor-orban-hungary-peter-magyar-liberal-democracy-fidesz",
-      "published_date": "2026-04-10T04:00:09+00:00",
-      "category": "Diplomacy"
+      "title": "US, Iran fail to agree on peace deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-iran-fail-to-agree-on-peace-deal",
+      "published_date": "2026-04-12T13:00:38+00:00",
+      "category": "Military"
     },
     {
       "title": "US and Iran fail to reach a deal after peace talks in Islamabad",
@@ -218,69 +281,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/international/20260412-polls-open-in-hungary-after-a-campaign-of-rallies-protests-and-war-rhetoric",
       "published_date": "2026-04-12T06:47:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: US failed to gain Tehran's trust, Iranian negotiator says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260412-middle-east-war-live-us-and-iran-fail-to-reach-deal-after-marathon-peace-talks-in-pakistan",
-      "published_date": "2026-04-12T05:35:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran-US negotiations underway in Pakistan, US says Strait of Hormuz being 'cleared'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260411-iran-us-negotiations-underway-in-pakistan-us-says-strait-of-hormuz-being-cleared",
-      "published_date": "2026-04-11T20:48:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone attacks persist despite Kremlin’s Easter ceasefire, Ukrainian forces say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/11/russian-drone-attacks-persist-despite-kremlins-easter-ceasefire-ukrainian-forces-say",
-      "published_date": "2026-04-11T19:50:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia and Ukraine trade strikes before temporary ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-and-ukraine-trade-strikes-before-temporary-ceasefire",
-      "published_date": "2026-04-11T15:43:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel army says hit over 200 Hezbollah targets in last 24 hours",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-army-says-hit-over-200-hezbollah-targets-in-last-24-hours",
-      "published_date": "2026-04-11T15:32:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, US top officials meet face-to-face",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-us-top-officials-meet-face-to-face",
-      "published_date": "2026-04-11T15:20:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine and Russia observe Orthodox Easter truce despite deep scepticism",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260411-ukraine-and-russia-observe-orthodox-easter-truce-despite-deep-scepticism",
-      "published_date": "2026-04-11T15:09:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former IS child 'fighters' were war victims, say French lawyers",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260411/former-is-child-fighters-were-war-victims-say-french-lawyers",
-      "published_date": "2026-04-11T13:13:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘He cares about Hungarians’: the small Ukrainian town divided over Orbán",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/11/ukraine-divided-viktor-orban-berehove-fidesz",
-      "published_date": "2026-04-11T13:00:48+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Finance minister favoured to succeed Talon as Benin votes in presidential election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260412-finance-minister-wadagni-favoured-to-succeed-talon-as-benin-votes-in-presidential-election",
+      "published_date": "2026-04-12T20:00:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Orban and Magyar face off in historic vote",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/orban-and-magyar-face-off-in-historic-vote",
+      "published_date": "2026-04-12T12:59:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "A journey to the bottom of the ocean, beneath Paris’s skyscrapers",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20260412-a-journey-to-the-bottom-of-the-ocean-beneath-paris-s-skyscrapers",
+      "published_date": "2026-04-12T12:43:40+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Taxes, residency paperwork, and summer festivals: 6 essential articles for life in France",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260412/taxes-residency-paperwork-and-summer-festivals-6-essential-articles-for-life-in-france",
@@ -543,25 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "French drivers choke on soaring diesel prices",
+      "title": "Hungary's 'return to Europe: Peaceful revolution' embraces new path away from Russia and autocracy",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260407-french-drivers-choke-on-soaring-diesel-prices",
-      "published_date": "2026-04-07T10:22:36+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260412-hungary-s-return-to-europe-peaceful-revolution-embraces-new-path-away-from-russia-and-autocracy",
+      "published_date": "2026-04-12T22:21:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Frenchman hit with €5m tax bill after takeaway orders betray residency status",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260407/frenchman-hit-with-e5m-tax-bill-after-takeaway-orders-betray-residency-status",
-      "published_date": "2026-04-07T10:03:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Italy has the best benefits’: Milan takes on Dubai as home for the super-rich",
+      "title": "Irish police clear Dublin blockade staged by fuel price protesters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/07/milan-dubai-super-wealthy-italy-rich",
-      "published_date": "2026-04-07T04:00:39+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/apr/12/irish-police-clear-dublin-blockade-fuel-price-protesters-farmers-hauliers",
+      "published_date": "2026-04-12T18:25:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Marseille to Barcelona – Global Sumud Flotilla sets sail for return to Gaza",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260412-from-marseille-to-barcelona-%E2%80%93-global-sumud-flotilla-sets-sail-for-return-to-gaza",
+      "published_date": "2026-04-12T13:26:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We waited 12 years’: escapees from Syria’s camps face an uncertain future",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/12/we-waited-12-years-escapees-from-syrias-camps-face-an-uncertain-future",
+      "published_date": "2026-04-12T12:00:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Police clear Irish fuel protesters from several locations",
@@ -673,34 +701,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260411-reunion-island-deploys-sterile-mosquitoes-to-stop-the-spread-of-disease-optis",
       "published_date": "2026-04-11T13:53:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peruvian presidential candidate Keiko Fujimori vows to expel migrants",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/peruvian-presidential-candidate-keiko-fujimori-vows-to-expel-migrants",
-      "published_date": "2026-04-11T13:53:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Football: Pierre-Emerick Aubameyang puts Marseille back on track in Ligue 1",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260411-football-pierre-emerick-aubameyang-puts-marseille-back-on-track-in-ligue-1",
-      "published_date": "2026-04-11T11:29:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artemis II: “Taking care of space means taking care of Earth”",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/artemis-ii-taking-care-of-space-means-taking-care-of-earth",
-      "published_date": "2026-04-11T07:58:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swedish exhibition explores life of 18th-century Black diarist",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/11/sweden-gustav-badin-exhibition-18th-century-black-diarist",
-      "published_date": "2026-04-11T07:30:21+00:00",
       "category": "Local Events"
     }
   ]
