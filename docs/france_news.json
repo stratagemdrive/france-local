@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-04-15T11:54:00.168482+00:00",
-  "story_count": 95,
+  "last_updated": "2026-04-15T23:39:06.064419+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "'L’Abuso': Real Italian magazine cover of Israeli settler sparks online storm",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/l-abuso-real-italian-magazine-cover-of-israeli-settler-sparks-online-storm",
+      "published_date": "2026-04-15T20:06:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New EU entry-exit system causing up to three-hour delays, say airports",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/15/eu-entry-exit-system-ees-delays-airports-border-checks",
+      "published_date": "2026-04-15T15:46:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Does Viktor Orbán’s defeat signal a wider backlash against ‘the forces of darkness’?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/15/this-is-europe-end-of-orban-impact-on-european-elections",
+      "published_date": "2026-04-15T14:18:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Covid-19: Spring vaccination renewal for high-risk people in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260415/covid-19-spring-vaccination-renewal-for-high-risk-people-in-france",
+      "published_date": "2026-04-15T13:50:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Petrol stations reject French government plan to cap profit margins on fuel",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260415-petrol-stations-reject-french-government-plan-to-cap-profit-margins-on-fuel",
+      "published_date": "2026-04-15T13:00:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU urges swift reform in Hungary as election night 'euphoria' gives way to 'Monday morning hangover'",
       "source": "France 24",
@@ -109,39 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France, UK to host talks on potential multinational mission to Hormuz",
+      "title": "Two billion dollars pledge for Sudan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/two-billion-dollars-pledge-for-sudan",
+      "published_date": "2026-04-15T21:10:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan's forgotten war: three years on, humanitarian catastrophe has no end in sight",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260415-sudan-forgotten-war-three-years-humanitarian-catastrophe-no-end-in-sight",
+      "published_date": "2026-04-15T19:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel-Lebanon peace talks: Future negotiations depend on 'confidence-building measures'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-lebanon-peace-talks-future-negotiations-depend-on-confidence-building-measures",
+      "published_date": "2026-04-15T18:49:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Women victims of Sudan's war bear scars of 'indescribable' violence",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260414-france-uk-to-host-talks-on-potential-multinational-mission-to-hormuz",
-      "published_date": "2026-04-14T13:03:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260415-women-victims-of-sudan-s-war-bear-scars-of-indescribable-violence",
+      "published_date": "2026-04-15T16:30:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sudan drone strikes kill nearly 700 in three months as civil war reaches grim milestone",
+      "title": "Sudan’s war reshapes loyalties as civilians see ‘no option’ but the army",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260415-sudan-war-reshapes-loyalties-as-civilians-see-no-option-but-the-army",
+      "published_date": "2026-04-15T16:30:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Peace activist, 91, walks across Ireland in protest against US military stopovers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/15/peace-activist-lelia-doolan-walk-ireland-protest-us-military-shannon-airport",
+      "published_date": "2026-04-15T16:04:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Don’t lose sight of Ukraine,’ Nato chief tells European allies – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/15/peter-magyar-hungary-president-media-viktor-orban-european-union-europe-latest",
+      "published_date": "2026-04-15T16:01:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan enters fourth year of war as officials lament 'abandoned crisis'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260414-sudan-drone-strikes-kill-nearly-700-in-three-months-as-civil-war-reaches-grim-milestone",
-      "published_date": "2026-04-14T09:28:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260415-sudan-enters-fourth-year-of-war-as-officials-lament-abandoned-crisis",
+      "published_date": "2026-04-15T15:28:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "How the European job market will change with new pay transparency rules",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260414/how-the-european-job-market-will-change-with-new-pay-transparency-rules",
-      "published_date": "2026-04-14T08:37:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "End of an era: Why did Hungary vote out far-right's Orban?",
+      "title": "US blockade of Iranian ports 'fully implemented'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260414-end-of-an-era-why-did-hungary-vote-out-far-right-s-orban",
-      "published_date": "2026-04-14T07:49:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260415-us-blockade-of-iranian-ports-fully-implemented",
+      "published_date": "2026-04-15T15:26:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "French government backtracks on proposed new law for working on May 1st",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260414/french-government-backtracks-on-proposed-new-law-for-working-on-may-1st",
-      "published_date": "2026-04-14T07:05:20+00:00",
-      "category": "Diplomacy"
+      "title": "Live: Reports of possible Israel-Lebanon ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260415-live-reports-of-possible-israel-lebanon-ceasefire",
+      "published_date": "2026-04-15T15:25:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'War on women and girls' : Sexual violence the 'blueprint and strategy' of Sudan's brutal civil war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-on-women-and-girls-sexual-violence-the-blueprint-and-strategy-of-sudan-s-brutal-civil-war",
+      "published_date": "2026-04-15T15:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'If we don't divide the land we're heading to apartheid': Ex-head of Israel's Shin Bet",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260415-if-we-don-t-divide-the-land-we-re-heading-to-apartheid-ex-head-of-israel-s-shin-bet",
+      "published_date": "2026-04-15T14:55:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Montparnasse Tower: Paris's most unpopular landmark gets a facelift",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20260415-montparnasse-tower-paris-s-most-unpopular-landmark-gets-a-facelift",
+      "published_date": "2026-04-15T13:30:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "168 children killed by Israel's strikes in Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260415-168-children-killed-by-israel-s-strikes-in-lebanon",
+      "published_date": "2026-04-15T13:03:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope heads to Cameroon with message of peace for the country’s divided regions",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260415-pope-heads-to-cameroon-with-message-of-peace-for-the-country-s-divided-regions",
+      "published_date": "2026-04-15T12:34:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza aid flotilla sets sail from Barcelona in bid to break Israeli blockade",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260415-gaza-aid-flotilla-sets-sail-from-barcelona",
+      "published_date": "2026-04-15T12:05:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Indonesia expands defence ties with France on back of Moscow visit",
@@ -172,116 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Pope to urge peace in Cameroon's conflict zone",
+      "title": "Will the Gulf ever be the same? Trump, Iran and the Arabian Peninsula",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260415-pope-to-urge-peace-in-cameroon-s-conflict-zone",
-      "published_date": "2026-04-15T09:52:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army issues new evacuation call to south Lebanon residents",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260415-israeli-army-issues-new-evacuation-call-to-south-lebanon-residents",
-      "published_date": "2026-04-15T09:41:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "After three years of war, exiled Sudanese find their place in Kenya",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260415-after-three-years-of-war-exiled-sudanese-find-their-place-in-kenya",
-      "published_date": "2026-04-15T09:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan condemns Berlin conference as devastating war enters fourth year",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260415-sudan-condemns-berlin-conference-as-devastating-war-enters-fourth-year",
-      "published_date": "2026-04-15T09:30:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hidden treasures: Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
-      "published_date": "2026-04-15T08:00:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan slams Berlin donor conference as ‘unacceptable’ as devastating war enters fourth year",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260415-sudan-slams-berlin-donors-conference-as-unacceptable-as-devastating-war-enters-fourth-year",
-      "published_date": "2026-04-15T07:03:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hungary beware: authoritarianism can be checked, but it is rarely dismissed with a single blow | Blanche Leridon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/hungary-authoritarianism-poland-rule-of-law",
-      "published_date": "2026-04-15T04:00:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN says Haiti powerful gang expansion halted but threat persists",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260414-un-haiti-powerful-gang-expansion-halted-threat-persists",
-      "published_date": "2026-04-14T23:13:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan to mark third anniversary of civil war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260414-sudan-to-mark-third-anniversary-of-civil-war",
-      "published_date": "2026-04-14T21:08:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy suspends defence agreement with Israel",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr71184ex91o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-14T20:21:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "YouTube bans viral pro-Iran AI-generated LEGO videos trolling Trump",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/youtube-bans-viral-ai-generated-lego-videos-trolling-trump",
-      "published_date": "2026-04-14T20:01:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DRC peace talks open as violence shifts to remote highlands",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260414-drc-peace-talks-open-as-violence-shifts-to-remote-highlands",
-      "published_date": "2026-04-14T19:59:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italian PM says suspends renewal of defence agreement with Israel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260414-italian-pm-says-suspends-defence-agreement-with-israel",
-      "published_date": "2026-04-14T18:47:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump accuses ally Meloni of lacking courage for not joining attacks on Iran",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/14/trump-accuses-ally-meloni-of-lacking-courage-for-not-joining-attacks-on-iran",
-      "published_date": "2026-04-14T17:11:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy's Meloni suspends defence cooperation deal with Israel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260414-italy-s-meloni-suspends-defence-cooperation-deal-with-israel",
-      "published_date": "2026-04-14T15:36:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Antisemitic attacks in 2025 led to highest number of fatalities in 30 years, study finds",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260414-antisemitic-attacks-in-2025-led-to-highest-number-of-fatalities-in-30-years-study-finds",
-      "published_date": "2026-04-14T15:30:42+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260415-will-the-gulf-ever-be-the-same-trump-iran-and-the-arabian-peninsula",
+      "published_date": "2026-04-15T18:16:37+00:00",
+      "category": "Energy"
     },
     {
       "title": "US urges IMF, World Bank to abandon climate finance goals",
@@ -368,25 +375,18 @@
       "category": "Energy"
     },
     {
-      "title": "Energy crisis not over despite relief rally",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/energy-crisis-not-over-despite-relief-rally",
-      "published_date": "2026-04-08T20:47:40+00:00",
-      "category": "Energy"
+      "title": "How was Orbán defeated? With energetic campaigning and cunning exploitation of his weaknesses | Tibor Dessewffy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/viktor-orban-defeated-energetic-campaigning-peter-magyar-hungary-election",
+      "published_date": "2026-04-15T14:06:58+00:00",
+      "category": "Economy"
     },
     {
-      "title": "French emissions falling too slowly to meet country's climate targets",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260408-french-emissions-falling-too-slowly-to-meet-country-s-climate-targets-citepa",
-      "published_date": "2026-04-08T12:59:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Arctic Metagaz: Russian ‘shadow fleet’ tanker adrift in the Mediterranean faces uncertain fate",
+      "title": "Critically endangered Borneo orangutan born at Madrid zoo",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260408-uncertain-fate-arctic-metagaz-russian-shadow-fleet-lng-tanker-adrift-mediterranean",
-      "published_date": "2026-04-08T12:28:07+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/europe/20260415-critically-endangered-borneo-orangutan-born-at-madrid-zoo",
+      "published_date": "2026-04-15T13:43:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tax Day is a reminder of America’s unequal tax system. But we can fix it | Zohran Mamdani, Gabriel Zucman and Joseph Stiglitz",
@@ -515,18 +515,74 @@
       "category": "Economy"
     },
     {
-      "title": "A journey to the bottom of the ocean, beneath Paris’s skyscrapers",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260412-a-journey-to-the-bottom-of-the-ocean-beneath-paris-s-skyscrapers",
-      "published_date": "2026-04-12T12:43:40+00:00",
-      "category": "Economy"
+      "title": "Bayern Munich edge Real Madrid to reach Champions League semi-finals",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260415-bayern-munich-edge-real-madrid-champions-league-semi-finals",
+      "published_date": "2026-04-15T22:06:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Taxes, residency paperwork, and summer festivals: 6 essential articles for life in France",
+      "title": "France seeks release of 86-year-old French widow detained by ICE",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/15/french-widow-detained-ice-marie-therese-ross",
+      "published_date": "2026-04-15T21:42:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine killed in second Turkish school shooting in two days",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-15T20:10:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kanye West postpones Marseille concert after French minister intervenes",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20260415-kanye-west-postpones-marseille-concert-after-french-minister-s-block-call",
+      "published_date": "2026-04-15T15:31:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The school in Kenya where education is empowering teenage mothers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260415-the-school-in-kenya-where-education-is-empowering-teenage-mothers",
+      "published_date": "2026-04-15T15:31:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Yaoundé to Bamenda, Cameroonians await Pope Leo XIV’s visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260415-from-yaound%C3%A9-to-bamenda-cameroonians-await-pope-leo-xiv-s-visit",
+      "published_date": "2026-04-15T15:30:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris’s new mayor wants to create a 'périphérique marathon'",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260412/taxes-residency-paperwork-and-summer-festivals-6-essential-articles-for-life-in-france",
-      "published_date": "2026-04-12T06:28:31+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20260415/pariss-new-mayor-wants-to-create-a-peripherique-marathon",
+      "published_date": "2026-04-15T15:23:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris council to spend €20m tackling sexual abuse in after-school programmes",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260415-paris-council-to-spend-20-million-tackling-sexual-abuse-in-after-school-programmes",
+      "published_date": "2026-04-15T15:18:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kanye West Marseille concert postponed after anti-Semitic remarks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260415-kanye-west-marseille-concert-postponed-after-anti-semitic-remarks",
+      "published_date": "2026-04-15T13:07:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary’s voters shunned Orbán – but it may be too early to celebrate end of Europe’s far right",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/15/hungary-election-voters-orban-europe-far-right-peter-magyar",
+      "published_date": "2026-04-15T12:46:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French police arrest man for selling fake sick notes online",
@@ -596,76 +652,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/culture/20260415-kanye-west-pulls-plug-on-marseille-concert-postpones-until-further-notice",
       "published_date": "2026-04-15T03:31:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strikes kill 10 in northern Gaza, including toddler, civil defence says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260415-israeli-fire-kills-six-palestinians-including-two-children-across-gaza-health-officials-say",
-      "published_date": "2026-04-15T01:40:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kanye West postpones Marseille concert as France considers blocking him from performing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/apr/15/kanye-west-ban-france-marseille-ye-concert",
-      "published_date": "2026-04-15T00:34:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG beat Liverpool at Anfield to reach Champions League semi-finals",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260414-psg-beat-liverpool-at-anfield-to-reach-champions-league-semi-finals",
-      "published_date": "2026-04-14T22:03:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dembélé's strikes send PSG past Liverpool into Champions League semi-finals",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260414-demb%C3%A9l%C3%A9-strikes-to-send-psg-past-liverpool-into-champions-league-semi-finals",
-      "published_date": "2026-04-14T21:47:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man wins €1m Picasso painting in €100 charity raffle",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq8ww7d72wyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-14T21:40:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French lawyers protest justice reform introducing plea bargains",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260414-french-lawyers-protest-justice-reform-introducing-plea-bargains",
-      "published_date": "2026-04-14T20:02:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What will it take? Israel-Lebanon talks open as fighting continues",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260414-what-will-it-take-israel-lebanon-talks-open-as-fighting-continuesisrael-lebanon-talks-open-as-fighting-continues",
-      "published_date": "2026-04-14T18:13:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French woman, 86, held by ICE after moving to US to marry 1950s sweetheart",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/14/marie-therese-billy-ice-arrest-us-france",
-      "published_date": "2026-04-14T17:18:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French minister seeks to ban Kanye West concert in Marseille over anti-Semitic remarks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260414-french-minister-seeks-ban-kanye-west-concert-in-marseille",
-      "published_date": "2026-04-14T17:15:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Picasso for €100: Paris engineer wins 'Tête de femme' painting at charity raffle",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260414-paris-engineer-wins-picasso-painting-at-charity-auction",
-      "published_date": "2026-04-14T17:15:14+00:00",
       "category": "Local Events"
     }
   ]
