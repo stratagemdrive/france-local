@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-04-15T23:39:06.064419+00:00",
-  "story_count": 93,
+  "last_updated": "2026-04-16T11:56:11.639334+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Europe live: Russia ‘does not deserve’ lifting of sanctions, Zelenskyy says, after deadly overnight strikes in Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/16/europe-russia-zelenskyy-ukraine-nato-rutte-merz-magyar-latest-updates",
+      "published_date": "2026-04-16T11:30:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'L’Abuso': Real Italian magazine cover of Israeli settler sparks online storm",
       "source": "France 24",
@@ -137,11 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Blockade on Iranian ports must be lifted, French foreign minister tells RFI",
+      "title": "'Everything flew': Ukrainians describe Russian attack on apartment block – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/apr/16/everything-flew-ukrainians-describe-russian-attack-on-apartment-block-video",
+      "published_date": "2026-04-16T11:28:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan civil war: Civilians caught in the deadly crossfire of a ruthless army-RSF power struggle",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260416-sudan-civil-war-civilians-caught-in-the-deadly-crossfire-of-a-ruthless-army-rsf-power-struggle",
+      "published_date": "2026-04-16T11:28:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistani army chief visits Tehran in hopes for renewed talks between US and Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260416-pakistani-army-chief-visits-tehran-in-hopes-for-renewed-talks-between-us-and-iran",
+      "published_date": "2026-04-16T10:37:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: At least 16 killed in overnight Russian strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260416-ukraine-at-least-16-killed-in-overnight-russian-strikes",
+      "published_date": "2026-04-16T10:35:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Lebanese and Israeli leaders to speak",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260416-trump-says-lebanese-and-israeli-leaders-to-speak",
+      "published_date": "2026-04-16T09:59:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Confusion' as Trump says Israel, Lebanon leaders to hold talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260416-confusion-as-trump-says-israel-lebanon-leaders-to-hold-talks",
+      "published_date": "2026-04-16T09:57:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian massive strikes kill at least 16 across Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260416-russian-massive-strikes-kill-at-least-16-across-ukraine",
+      "published_date": "2026-04-16T09:56:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia warns drone companies in Europe could be 'potential targets'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260416-russia-warns-drone-companies-in-europe-could-be-potential-targets",
+      "published_date": "2026-04-16T09:47:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Wave of Russian drone and missile attacks kill at least 16 in Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-16T09:43:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo brings message of unity to Cameroon’s divided Anglophone regions",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260414-blockade-on-iranian-ports-must-be-lifted-french-foreign-minister-tells-rfi",
-      "published_date": "2026-04-14T13:03:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260416-pope-leo-brings-message-of-unity-to-cameroon-s-divided-anglophone-regions",
+      "published_date": "2026-04-16T09:25:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Donors pledge €1.5 billion for Sudan at Berlin conference",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260416-donors-pledge-%E2%82%AC1-5-billion-for-sudan-at-berlin-conference",
+      "published_date": "2026-04-16T09:25:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Foreign media group slams Israel military over AI image of killed Lebanese reporter",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260416-foreign-media-group-slams-israel-military-over-ai-image-of-killed-lebanese-reporter",
+      "published_date": "2026-04-16T06:10:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than a dozen killed in Russian attacks on Kyiv, other Ukrainian cities",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260416-more-than-a-dozen-killed-in-russian-attacks-on-kyiv-other-ukrainian-cities",
+      "published_date": "2026-04-16T05:14:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia pummels Ukraine with drone and missile strikes, killing at least 12",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/16/russia-drone-missile-strikes-ukraine-kyiv-dnipro",
+      "published_date": "2026-04-16T04:48:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian strikes kill three, including child, as drones and missiles hit Kyiv",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260416-russia-strikes-ukraine-kyiv-drones-missiles-kill-three-child",
+      "published_date": "2026-04-16T03:26:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Netherlands to spend almost $300m on making drones for Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/16/ukraine-war-briefing-netherlands-to-spend-almost-300m-on-making-drones-for-ukraine",
+      "published_date": "2026-04-16T01:24:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Two billion dollars pledge for Sudan",
@@ -172,116 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Sudan’s war reshapes loyalties as civilians see ‘no option’ but the army",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260415-sudan-war-reshapes-loyalties-as-civilians-see-no-option-but-the-army",
-      "published_date": "2026-04-15T16:30:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Peace activist, 91, walks across Ireland in protest against US military stopovers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/15/peace-activist-lelia-doolan-walk-ireland-protest-us-military-shannon-airport",
-      "published_date": "2026-04-15T16:04:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Don’t lose sight of Ukraine,’ Nato chief tells European allies – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/15/peter-magyar-hungary-president-media-viktor-orban-european-union-europe-latest",
-      "published_date": "2026-04-15T16:01:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan enters fourth year of war as officials lament 'abandoned crisis'",
+      "title": "China condemns US Hormuz blockade as oil flows Disrupted",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260415-sudan-enters-fourth-year-of-war-as-officials-lament-abandoned-crisis",
-      "published_date": "2026-04-15T15:28:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US blockade of Iranian ports 'fully implemented'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260415-us-blockade-of-iranian-ports-fully-implemented",
-      "published_date": "2026-04-15T15:26:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: Reports of possible Israel-Lebanon ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260415-live-reports-of-possible-israel-lebanon-ceasefire",
-      "published_date": "2026-04-15T15:25:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'War on women and girls' : Sexual violence the 'blueprint and strategy' of Sudan's brutal civil war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/war-on-women-and-girls-sexual-violence-the-blueprint-and-strategy-of-sudan-s-brutal-civil-war",
-      "published_date": "2026-04-15T15:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'If we don't divide the land we're heading to apartheid': Ex-head of Israel's Shin Bet",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260415-if-we-don-t-divide-the-land-we-re-heading-to-apartheid-ex-head-of-israel-s-shin-bet",
-      "published_date": "2026-04-15T14:55:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Montparnasse Tower: Paris's most unpopular landmark gets a facelift",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20260415-montparnasse-tower-paris-s-most-unpopular-landmark-gets-a-facelift",
-      "published_date": "2026-04-15T13:30:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "168 children killed by Israel's strikes in Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260415-168-children-killed-by-israel-s-strikes-in-lebanon",
-      "published_date": "2026-04-15T13:03:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope heads to Cameroon with message of peace for the country’s divided regions",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260415-pope-heads-to-cameroon-with-message-of-peace-for-the-country-s-divided-regions",
-      "published_date": "2026-04-15T12:34:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza aid flotilla sets sail from Barcelona in bid to break Israeli blockade",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260415-gaza-aid-flotilla-sets-sail-from-barcelona",
-      "published_date": "2026-04-15T12:05:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesia expands defence ties with France on back of Moscow visit",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260415-indonesia-expands-defence-ties-with-france-on-back-of-moscow-visit",
-      "published_date": "2026-04-15T11:26:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "No, south Lebanon towns haven’t disappeared from Apple Maps",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260415-south-lebanon-towns-disappeared-apple-maps-debunked",
-      "published_date": "2026-04-15T11:04:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italian papers united as PM Meloni faces off with Trump",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260415-italian-papers-united-as-pm-meloni-faces-off-with-trump",
-      "published_date": "2026-04-15T10:08:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Toddler among 10 killed in Israeli strikes on Gaza",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260415-toddler-among-10-killed-in-israeli-strikes-on-gaza",
-      "published_date": "2026-04-15T10:01:44+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260416-china-condemns-us-hormuz-blockade-as-oil-flows-disrupted",
+      "published_date": "2026-04-16T10:42:41+00:00",
+      "category": "Energy"
     },
     {
       "title": "Will the Gulf ever be the same? Trump, Iran and the Arabian Peninsula",
@@ -373,6 +380,13 @@
       "url": "https://www.theguardian.com/environment/2026/apr/09/rain-fences-dutch-homes-climate-resilient",
       "published_date": "2026-04-09T13:00:50+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "US jury rules Live Nation is illegal monopoly",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260416-us-jury-rules-live-nation-is-illegal-monopoly",
+      "published_date": "2026-04-16T09:10:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "How was Orbán defeated? With energetic campaigning and cunning exploitation of his weaknesses | Tibor Dessewffy",
@@ -508,11 +522,67 @@
       "category": "Economy"
     },
     {
-      "title": "Orban and Magyar face off in historic vote",
+      "title": "Turkish police detain 162 people over online praise for school shootings",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-16T11:01:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French MPs to debate antisemitism law that critics say will stifle criticism",
       "source": "France 24",
-      "url": "https://www.france24.com/en/orban-and-magyar-face-off-in-historic-vote",
-      "published_date": "2026-04-12T12:59:17+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260416-french-mps-to-debate-antisemitism-law-that-critics-say-will-stifle-criticism",
+      "published_date": "2026-04-16T10:40:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Proposed antisemitism law in France stir free speech debate",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260416-proposed-antisemitism-law-in-france-stir-free-speech-debate",
+      "published_date": "2026-04-16T09:55:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teenager kills nine, wounds 13 in Turkey school shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260416-teenager-kills-nine-wounds-13-in-turkey-school-shooting",
+      "published_date": "2026-04-16T09:54:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is France’s bill against ‘new forms of anti-Semitism’ sparking controversy?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260416-why-is-france-s-bill-against-new-forms-of-anti-semitism-sparking-controversy",
+      "published_date": "2026-04-16T08:00:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey orders mass arrests over online praise for recent school shootings",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260416-turkey-orders-mass-arrests-over-online-praise-for-recent-school-shootings",
+      "published_date": "2026-04-16T07:40:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bayern Munich beat Real Madrid to set up Champions League semi with PSG",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260416-bayern-munich-beat-real-madrid-to-set-up-champions-league-semi-with-psg",
+      "published_date": "2026-04-16T07:06:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colours of Time review – Monet meets Mamma Mia in charming French artist comedy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/16/colours-of-time-review-la-venue-de-l-avenir-cedric-klapisch-claude-monet",
+      "published_date": "2026-04-16T06:00:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can anyone stop Jordan Bardella in France? A crowded field could gift the election to the far right",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/16/jordan-bardella-france-crowded-field-gift-election-far-right",
+      "published_date": "2026-04-16T04:00:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bayern Munich edge Real Madrid to reach Champions League semi-finals",
@@ -589,69 +659,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260415/french-police-arrest-man-for-selling-fake-sick-notes-online",
       "published_date": "2026-04-15T10:48:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artist Alexander Calder's mobiles come to life in a Paris exhibition",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260415-artist-alexander-calder-s-mobiles-come-to-life-in-a-paris-exhibition",
-      "published_date": "2026-04-15T09:59:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris Saint-Germain beats Liverpool to reach the Champions League semifinals",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260415-paris-saint-germain-beats-liverpool-to-reach-the-champions-league-semifinals",
-      "published_date": "2026-04-15T09:49:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: Orban's demise is a blow for French far right, but not a fatal one",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260415/opinion-orbans-demise-is-a-blow-for-french-far-right-but-not-a-fatal-one",
-      "published_date": "2026-04-15T08:12:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris art enthusiast wins €1m Picasso painting in €100 charity raffle",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/15/picasso-painting-winner-charity-raffle",
-      "published_date": "2026-04-15T07:41:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kanye West postpones France concert after minister’s block call",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260415/kanye-west-postpones-france-concert-after-ministers-block-call",
-      "published_date": "2026-04-15T06:58:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris engineer wins Picasso painting at charity auction",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260415/paris-engineer-wins-picasso-painting-at-charity-auction",
-      "published_date": "2026-04-15T06:50:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Griezmann hopes to bid Atletico farewell in spectacular fashion",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260415-griezmann-hopes-to-bid-atletico-farewell-in-spectacular-fashion",
-      "published_date": "2026-04-15T06:18:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: PSG through to semis after defeating Liverpool",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260415-champions-league-psg-through-to-semis-after-defeating-liverpool",
-      "published_date": "2026-04-15T05:13:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kanye West pulls plug on Marseille concert, postpones until further notice",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260415-kanye-west-pulls-plug-on-marseille-concert-postpones-until-further-notice",
-      "published_date": "2026-04-15T03:31:59+00:00",
       "category": "Local Events"
     }
   ]
