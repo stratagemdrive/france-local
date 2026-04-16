@@ -1,13 +1,48 @@
 {
   "country": "France",
-  "last_updated": "2026-04-16T11:56:11.639334+00:00",
-  "story_count": 94,
+  "last_updated": "2026-04-16T23:37:28.782387+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "France finance minister says Hormuz must open 'but not at any price'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260416-france-finance-minister-says-hormuz-must-open-but-not-at-any-price",
+      "published_date": "2026-04-16T21:15:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Debate on French bill outlawing ‘new forms of anti-Semitism' pushed back",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260416-debate-on-french-bill-outlawing-new-forms-of-anti-semitism-pushed-back",
+      "published_date": "2026-04-16T17:30:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A decade on from Brexit, Britain still flounders without a place in the world | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/16/a-decade-on-from-brexit-britain-still-flounders-without-a-place-in-the-world",
+      "published_date": "2026-04-16T15:49:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's controversial bill to fight 'new' antisemitism",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/video/20260416-france-controversial-bill-to-fight-new-antisemitism-yadan-law",
+      "published_date": "2026-04-16T14:39:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe live: Russia ‘does not deserve’ lifting of sanctions, Zelenskyy says, after deadly overnight strikes in Ukraine",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/apr/16/europe-russia-zelenskyy-ukraine-nato-rutte-merz-magyar-latest-updates",
       "published_date": "2026-04-16T11:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK signs deal to rejoin EU's Erasmus student exchange scheme",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260416/uk-signs-deal-to-rejoin-eus-erasmus-student-exchange-scheme",
+      "published_date": "2026-04-16T07:52:47+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,39 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel, Lebanon united in liberating Lebanon from Hezbollah, Israeli ambassador to US says",
+      "title": "European airlines could run out of jet fuel 'in six weeks'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/israel-lebanon-united-in-liberating-lebanon-from-hezbollah-israeli-ambassador-to-us-says",
-      "published_date": "2026-04-14T18:52:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/european-airlines-could-run-out-of-jet-fuel-in-six-weeks",
+      "published_date": "2026-04-16T20:48:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "How a Russian ship under sanctions delivered armoured vehicles to Mali",
+      "title": "Israeli military admit to posting AI photo of Lebanese journalist it killed",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260414-russian-ship-sanctions-delivered-armoured-vehicles-mali",
-      "published_date": "2026-04-14T17:03:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/israeli-military-admit-to-posting-ai-photo-of-killed-lebanese-journalist",
+      "published_date": "2026-04-16T19:46:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "In a joyful Budapest, I see the chance of an unprecedented transition | Timothy Garton Ash",
+      "title": "Emergency services in Ukraine 'need armored vehicles' as Russia targets rescue workers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/emergency-services-in-ukraine-need-armored-vehicles-as-russia-targets-rescue-workers",
+      "published_date": "2026-04-16T19:12:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Leo and \"the tyrants\": Does new pope's defiant message resonate?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260416-leo-and-the-tyrants-does-new-pope-s-defiant-message-resonate",
+      "published_date": "2026-04-16T18:14:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Lebanon is being held hostage by Hezbollah acting at Iran's behest'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260416-lebanon-is-being-held-hostage-to-hezbollah-acting-at-iran-s-behest",
+      "published_date": "2026-04-16T16:32:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Antisemitism and apology for terrorism 'already illegal in France': Is Yadan Law 'really necessary?'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/antisemitism-and-apology-for-terrorism-already-illegal-in-france-is-yadan-law-really-necessary",
+      "published_date": "2026-04-16T14:47:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/budapest-populists-donald-trump-viktor-orban-hungary-europe",
-      "published_date": "2026-04-14T16:43:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy",
+      "published_date": "2026-04-16T14:22:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israeli ambassador to Germany condemns Bezalel Smotrich’s tirade against chancellor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/14/israeli-ambassador-germany-condemns-bezalel-smotrich-chancellor-friedrich-merz-nazi-regime",
-      "published_date": "2026-04-14T15:45:08+00:00",
-      "category": "Diplomacy"
+      "title": "Israel-Lebanon peace talks: Future negotiations depend on 'confidence-building measures'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-lebanon-peace-talks-future-negotiations-depend-on-confidence-building-measures-1",
+      "published_date": "2026-04-16T13:45:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Government backtracks on plans allowing more work on 1st May holiday in France",
+      "title": "Fifa chief Infantino says Iran will compete at 2026 World Cup",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260414-government-backtracks-on-plans-allowing-more-work-on-1st-may-holiday-in-france",
-      "published_date": "2026-04-14T15:28:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/sports/20260416-fifa-chief-infantino-says-iran-will-compete-at-2026-world-cup",
+      "published_date": "2026-04-16T12:57:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France releases suspected Russian 'shadow fleet' tanker following fine",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260416-france-releases-suspected-russian-shadow-fleet-tanker-following-fine",
+      "published_date": "2026-04-16T12:12:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 100 writers quit French publisher in protest against rightwing owner Vincent Bolloré",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/16/writers-quit-french-publisher-protest-against-billionaire-owner-vincent-bollore",
+      "published_date": "2026-04-16T12:01:52+00:00",
+      "category": "Military"
     },
     {
       "title": "'Everything flew': Ukrainians describe Russian attack on apartment block – video",
@@ -207,81 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Pope Leo brings message of unity to Cameroon’s divided Anglophone regions",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260416-pope-leo-brings-message-of-unity-to-cameroon-s-divided-anglophone-regions",
-      "published_date": "2026-04-16T09:25:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Donors pledge €1.5 billion for Sudan at Berlin conference",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260416-donors-pledge-%E2%82%AC1-5-billion-for-sudan-at-berlin-conference",
-      "published_date": "2026-04-16T09:25:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Foreign media group slams Israel military over AI image of killed Lebanese reporter",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260416-foreign-media-group-slams-israel-military-over-ai-image-of-killed-lebanese-reporter",
-      "published_date": "2026-04-16T06:10:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than a dozen killed in Russian attacks on Kyiv, other Ukrainian cities",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260416-more-than-a-dozen-killed-in-russian-attacks-on-kyiv-other-ukrainian-cities",
-      "published_date": "2026-04-16T05:14:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia pummels Ukraine with drone and missile strikes, killing at least 12",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/16/russia-drone-missile-strikes-ukraine-kyiv-dnipro",
-      "published_date": "2026-04-16T04:48:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes kill three, including child, as drones and missiles hit Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260416-russia-strikes-ukraine-kyiv-drones-missiles-kill-three-child",
-      "published_date": "2026-04-16T03:26:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Netherlands to spend almost $300m on making drones for Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/16/ukraine-war-briefing-netherlands-to-spend-almost-300m-on-making-drones-for-ukraine",
-      "published_date": "2026-04-16T01:24:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two billion dollars pledge for Sudan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/two-billion-dollars-pledge-for-sudan",
-      "published_date": "2026-04-15T21:10:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan's forgotten war: three years on, humanitarian catastrophe has no end in sight",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260415-sudan-forgotten-war-three-years-humanitarian-catastrophe-no-end-in-sight",
-      "published_date": "2026-04-15T19:25:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel-Lebanon peace talks: Future negotiations depend on 'confidence-building measures'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-lebanon-peace-talks-future-negotiations-depend-on-confidence-building-measures",
-      "published_date": "2026-04-15T18:49:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Women victims of Sudan's war bear scars of 'indescribable' violence",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260415-women-victims-of-sudan-s-war-bear-scars-of-indescribable-violence",
-      "published_date": "2026-04-15T16:30:57+00:00",
-      "category": "Military"
+      "title": "Europe has 'maybe six weeks of jet fuel left', energy boss warns",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-16T19:19:07+00:00",
+      "category": "Energy"
     },
     {
       "title": "China condemns US Hormuz blockade as oil flows Disrupted",
@@ -361,25 +368,25 @@
       "category": "Energy"
     },
     {
-      "title": "Iran war: Catalyst for a renewable energy push?",
+      "title": "Trump administration to lobby allies to support 'trade over aid' push",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20260409-iran-war-catalyst-for-a-renewable-energy-push",
-      "published_date": "2026-04-09T14:34:38+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/trump-administration-to-lobby-allies-to-support-trade-over-aid-push",
+      "published_date": "2026-04-16T21:59:09+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Strait of Hormuz not open, Abu Dhabi’s oil chief says as crude prices rise",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/09/oil-price-rises-as-markets-question-durability-of-middle-east-ceasefire-iran",
-      "published_date": "2026-04-09T14:14:06+00:00",
-      "category": "Energy"
+      "title": "‘We're asking for our husbands' salaries’: The plight of soldiers' widows in eastern DR Congo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20260416-husbands-salaries-plight-soldiers-widows-eastern-democratic-republic-congo",
+      "published_date": "2026-04-16T17:26:03+00:00",
+      "category": "Economy"
     },
     {
-      "title": "‘The danger and value of water are in my blood’: how rain fences are making Dutch homes more climate resilient",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/09/rain-fences-dutch-homes-climate-resilient",
-      "published_date": "2026-04-09T13:00:50+00:00",
-      "category": "Energy"
+      "title": "Everything that changes in France in May 2026",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260416/everything-that-changes-in-france-in-may-2026",
+      "published_date": "2026-04-16T15:07:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "US jury rules Live Nation is illegal monopoly",
@@ -501,25 +508,53 @@
       "category": "Economy"
     },
     {
-      "title": "The digital euro: Europe’s bid for financial sovereignty",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260413-the-digital-euro-europe-s-bid-for-financial-sovereignty",
-      "published_date": "2026-04-13T10:34:59+00:00",
-      "category": "Economy"
+      "title": "Armed robbers hold 25 people hostage at Naples bank before fleeing through hole in floor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/16/armed-robbers-hostages-naples-bank-flee-hole-floor-sewers",
+      "published_date": "2026-04-16T18:08:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Spontaneous mass celebrations in Budapest after Orban’s ouster",
+      "title": "French tennis star Monfils gets keys to Roland Garros for farewell fling",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260413-spontaneous-mass-celebrations-in-budapest-after-orban-s-ouster-peter-magyar-tisza",
-      "published_date": "2026-04-13T08:27:33+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/sports/20260416-french-tennis-star-monfils-gets-keys-to-roland-garros-for-farewell-fling",
+      "published_date": "2026-04-16T16:03:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Finance minister favoured to succeed Talon as Benin votes in presidential election",
+      "title": "South Africa's EFF leader Julius Malema jailed for five years on gun charges",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260416-south-africa-s-eff-leader-julius-malema-jailed-for-five-years-on-gun-charges",
+      "published_date": "2026-04-16T14:07:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Cameroon, Pope Leo XIV’s visit sparks hope among Christians",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260412-finance-minister-wadagni-favoured-to-succeed-talon-as-benin-votes-in-presidential-election",
-      "published_date": "2026-04-12T20:00:39+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260416-in-cameroon-pope-leo-xiv-s-visit-sparks-hope-among-christians",
+      "published_date": "2026-04-16T14:00:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man wins €1m Picasso painting for €100 in charity raffle – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/video/2026/apr/16/man-wins-1m-picasso-painting-for-100-in-charity-raffle-video",
+      "published_date": "2026-04-16T13:21:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain at risk of housing bubble as Madrid attracts wealthy foreigners",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260416-spain-at-risk-of-housing-bubble-as-madrid-attracts-wealthy-foreigners",
+      "published_date": "2026-04-16T12:56:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Star authors quit French publisher Grasset over editor's sudden departure",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260416-star-authors-quit-french-publisher-grasset-over-editor-s-sudden-departure",
+      "published_date": "2026-04-16T12:42:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Turkish police detain 162 people over online praise for school shootings",
@@ -550,6 +585,13 @@
       "category": "Local Events"
     },
     {
+      "title": "REVEALED: 7 of France's best destinations within 3 hours of Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260416/revealed-7-of-frances-best-destinations-within-3-hours-of-paris",
+      "published_date": "2026-04-16T08:39:49+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Why is France’s bill against ‘new forms of anti-Semitism’ sparking controversy?",
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20260416-why-is-france-s-bill-against-new-forms-of-anti-semitism-sparking-controversy",
@@ -561,6 +603,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/asia-pacific/20260416-turkey-orders-mass-arrests-over-online-praise-for-recent-school-shootings",
       "published_date": "2026-04-16T07:40:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crit'Air: French parliament votes to scrap low emission zones, but is this the end?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260416/french-parliament-votes-to-scrap-low-emission-zones-but-is-this-the-end",
+      "published_date": "2026-04-16T07:37:46+00:00",
       "category": "Local Events"
     },
     {
@@ -578,6 +627,13 @@
       "category": "Local Events"
     },
     {
+      "title": "PODCAST: France to lose 1.7 million kids and far right photoshoot causes stir",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260416/podcast-france-to-lose-1-7-million-kids-and-far-right-photoshoot-causes-stir",
+      "published_date": "2026-04-16T05:53:03+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Can anyone stop Jordan Bardella in France? A crowded field could gift the election to the far right",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/apr/16/jordan-bardella-france-crowded-field-gift-election-far-right",
@@ -589,76 +645,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/sport/20260415-bayern-munich-edge-real-madrid-champions-league-semi-finals",
       "published_date": "2026-04-15T22:06:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France seeks release of 86-year-old French widow detained by ICE",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/15/french-widow-detained-ice-marie-therese-ross",
-      "published_date": "2026-04-15T21:42:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nine killed in second Turkish school shooting in two days",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-15T20:10:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kanye West postpones Marseille concert after French minister intervenes",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260415-kanye-west-postpones-marseille-concert-after-french-minister-s-block-call",
-      "published_date": "2026-04-15T15:31:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The school in Kenya where education is empowering teenage mothers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260415-the-school-in-kenya-where-education-is-empowering-teenage-mothers",
-      "published_date": "2026-04-15T15:31:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Yaoundé to Bamenda, Cameroonians await Pope Leo XIV’s visit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260415-from-yaound%C3%A9-to-bamenda-cameroonians-await-pope-leo-xiv-s-visit",
-      "published_date": "2026-04-15T15:30:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris’s new mayor wants to create a 'périphérique marathon'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260415/pariss-new-mayor-wants-to-create-a-peripherique-marathon",
-      "published_date": "2026-04-15T15:23:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris council to spend €20m tackling sexual abuse in after-school programmes",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260415-paris-council-to-spend-20-million-tackling-sexual-abuse-in-after-school-programmes",
-      "published_date": "2026-04-15T15:18:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kanye West Marseille concert postponed after anti-Semitic remarks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260415-kanye-west-marseille-concert-postponed-after-anti-semitic-remarks",
-      "published_date": "2026-04-15T13:07:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary’s voters shunned Orbán – but it may be too early to celebrate end of Europe’s far right",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/15/hungary-election-voters-orban-europe-far-right-peter-magyar",
-      "published_date": "2026-04-15T12:46:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police arrest man for selling fake sick notes online",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260415/french-police-arrest-man-for-selling-fake-sick-notes-online",
-      "published_date": "2026-04-15T10:48:28+00:00",
       "category": "Local Events"
     }
   ]
