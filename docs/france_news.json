@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-04-17T11:47:50.167506+00:00",
-  "story_count": 92,
+  "last_updated": "2026-04-17T23:36:32.191844+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Macron, Meloni, Starmer and Merz welcome Hormuz Strait reopening",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/macron-meloni-starmer-and-merz-welcome-hormuz-strait-reopening",
+      "published_date": "2026-04-17T16:13:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU moves to tighten rules on harmful pollutants: The invisible danger of 'forever chemicals'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260417-eu-moves-to-tighten-rules-on-harmful-pollutants-the-invisible-danger-of-forever-chemicals",
+      "published_date": "2026-04-17T15:40:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron urges permanent reopening of Hormuz Strait",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/macron-urges-permanent-reopening-of-hormuz-strait",
+      "published_date": "2026-04-17T15:30:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe welcomes Hormuz Strait reopening",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe-welcomes-hormuz-strait-reopening",
+      "published_date": "2026-04-17T15:28:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "REPLAY:  EU leaders deliver joint statement on Strait of Hormuz opening",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/replay-eu-leaders-deliver-joint-statement-on-strait-of-hormuz-opening",
+      "published_date": "2026-04-17T15:26:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU backs Morocco autonomy plan for Western Sahara and eyes new partnership",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260417-eu-backs-morocco-autonomy-plan-for-western-sahara-and-eyes-new-partnership",
+      "published_date": "2026-04-17T14:27:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "More than half of Britons support rejoining EU 10 years on from Brexit vote",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/17/half-britons-support-rejoining-eu-10-years-brexit-vote",
+      "published_date": "2026-04-17T13:27:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Frenchwoman who married GI sweetheart returns home after ICE ordeal",
       "source": "The Local France",
@@ -95,53 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Debate on French bill outlawing ‘new forms of anti-Semitism' pushed back",
+      "title": "1.2 million people uprooted by war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260416-debate-on-french-bill-outlawing-new-forms-of-anti-semitism-pushed-back",
-      "published_date": "2026-04-16T17:30:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/1-2-million-people-uprooted-by-war",
+      "published_date": "2026-04-17T16:10:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "A decade on from Brexit, Britain still flounders without a place in the world | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/16/a-decade-on-from-brexit-britain-still-flounders-without-a-place-in-the-world",
-      "published_date": "2026-04-16T15:49:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France's controversial bill to fight 'new' antisemitism",
+      "title": "Iran’s ambassador to France backs Lebanon truce, tells RFI ‘we prefer dialogue’",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/video/20260416-france-controversial-bill-to-fight-new-antisemitism-yadan-law",
-      "published_date": "2026-04-16T14:39:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260417-iran-s-ambassador-to-france-backs-lebanon-truce-tells-rfi-we-prefer-dialogue-mohammad-amin-nejad",
+      "published_date": "2026-04-17T16:02:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Europe live: Russia ‘does not deserve’ lifting of sanctions, Zelenskyy says, after deadly overnight strikes in Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/16/europe-russia-zelenskyy-ukraine-nato-rutte-merz-magyar-latest-updates",
-      "published_date": "2026-04-16T11:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK signs deal to rejoin EU's Erasmus student exchange scheme",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260416/uk-signs-deal-to-rejoin-eus-erasmus-student-exchange-scheme",
-      "published_date": "2026-04-16T07:52:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'L’Abuso': Real Italian magazine cover of Israeli settler sparks online storm",
+      "title": "China steps out of the shadows in Iran war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/l-abuso-real-italian-magazine-cover-of-israeli-settler-sparks-online-storm",
-      "published_date": "2026-04-15T20:06:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/access-asia/20260417-china-steps-out-of-the-shadows-in-iran-war",
+      "published_date": "2026-04-17T15:10:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "New EU entry-exit system causing up to three-hour delays, say airports",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/15/eu-entry-exit-system-ees-delays-airports-border-checks",
-      "published_date": "2026-04-15T15:46:53+00:00",
-      "category": "Diplomacy"
+      "title": "'Wake-up call for Europeans to step up: There’s been a lack of investment' in defence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260417-wake-up-call-for-europeans-to-step-up-there-s-been-a-lack-of-investment-in-defence",
+      "published_date": "2026-04-17T14:52:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Press association denounces Israel’s use of altered image to depict slain journalist",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260417-press-association-israeli-army-use-ai-doctored-image-slain-journalist",
+      "published_date": "2026-04-17T14:38:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Lebanon erupts in joy as 10-day ceasefire with Israel takes effect",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Leo and \"the tyrants\": Does new pope's defiant message resonate?",
+      "title": "Renzi urges ‘European strategy’, denounces Trump's ‘global chaos’ and populism of Orbán and Meloni",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260416-leo-and-the-tyrants-does-new-pope-s-defiant-message-resonate",
-      "published_date": "2026-04-16T18:14:49+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260417-renzi-urges-european-strategy-denounces-trump-s-global-chaos-and-populism-of-orb%C3%A1n-and-meloni",
+      "published_date": "2026-04-17T20:44:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "'Lebanon is being held hostage by Hezbollah acting at Iran's behest'",
+      "title": "'Totally unfair' that EU countries making money on energy crunch: Former EU commissioner Breton",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260416-lebanon-is-being-held-hostage-to-hezbollah-acting-at-iran-s-behest",
-      "published_date": "2026-04-16T16:32:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Antisemitism and apology for terrorism 'already illegal in France': Is Yadan Law 'really necessary?'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/antisemitism-and-apology-for-terrorism-already-illegal-in-france-is-yadan-law-really-necessary",
-      "published_date": "2026-04-16T14:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/16/russia-attack-ukraine-drones-missiles-kyiv-odesa-volodymyr-zelenskyy",
-      "published_date": "2026-04-16T14:22:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel-Lebanon peace talks: Future negotiations depend on 'confidence-building measures'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-lebanon-peace-talks-future-negotiations-depend-on-confidence-building-measures-1",
-      "published_date": "2026-04-16T13:45:29+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260417-totally-unfair-that-eu-countries-making-money-on-energy-crunch-former-eu-commissioner-breton",
+      "published_date": "2026-04-17T16:36:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe faces looming jet fuel shortage: 'Six weeks of fuel left', energy boss warns",
@@ -366,6 +380,20 @@
       "url": "https://www.thelocal.fr/20260411/france-unveils-measures-to-speed-up-shift-to-electric-power",
       "published_date": "2026-04-11T07:23:37+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Iran, Magyar, Mythos & the Pope",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260417-iran-magyar-mythos-the-pope",
+      "published_date": "2026-04-17T19:45:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sanctions don’t result in regime change. Whether against Iran or Russia, western countries need shrewder tactics | Simon Jenkins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/17/sanctions-regime-change-iran-russia-western-countries",
+      "published_date": "2026-04-17T12:19:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "France finance minister says Hormuz must open",
@@ -494,18 +522,81 @@
       "category": "Economy"
     },
     {
-      "title": "What changes in the 2026 French tax declaration",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260414/what-changes-in-the-2026-french-tax-declaration",
-      "published_date": "2026-04-14T12:22:22+00:00",
-      "category": "Economy"
+      "title": "Day 5 of Pope's African tour",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/day-5-of-pope-s-african-tour",
+      "published_date": "2026-04-17T20:46:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Spanish prime minister’s wife charged with corruption",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/14/spanish-prime-minister-wife-charged-with-corruption-pedro-sanchez-begona-gomez",
-      "published_date": "2026-04-14T10:58:37+00:00",
-      "category": "Economy"
+      "title": "World Cup fans will have to pay $150 for NY stadium train ticket, officials say",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260417-world-cup-fans-will-have-to-pay-150-for-ny-stadium-train-ticket-official-says",
+      "published_date": "2026-04-17T19:31:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo XIV leads massive mass in Douala",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/pope-leo-xiv-leads-massive-mass-in-douala",
+      "published_date": "2026-04-17T16:12:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Paris movement that planted the seeds of Algerian independence, a century on",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260417-the-banned-paris-movement-that-planted-the-seeds-of-algerian-independence-a-century-on-north-african-star",
+      "published_date": "2026-04-17T16:10:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "11 things to know about France's Arc de Triomphe",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260417/11-things-to-know-about-frances-arc-de-triomphe",
+      "published_date": "2026-04-17T15:29:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elusive wolf in South Korea recaptured after nine days on the run",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260417-elusive-wolf-in-south-korea-recaptured-after-nine-days-on-the-run",
+      "published_date": "2026-04-17T15:02:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jeffrey Epstein and the French connection",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-51/20260417-jeffrey-epstein-and-the-french-connection",
+      "published_date": "2026-04-17T14:30:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect in 1982 attack on Paris Jewish restaurant faces judge after extradition",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260417-suspect-in-1982-paris-jewish-restaurant-attack-extradition-goldenberg-hicham-harb",
+      "published_date": "2026-04-17T14:28:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris Book Festival kicks off amid Grasset publishing controversy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260417-paris-book-festival-kicks-off-amid-grasset-publishing-controversy",
+      "published_date": "2026-04-17T14:22:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Living under threat of landslides: The Italian villages at risk of disappearing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260417-living-under-threat-of-landslides-the-italian-villages-at-risk-of-disappearing",
+      "published_date": "2026-04-17T12:48:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-17T12:42:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French widow, 86, flies home after ICE detention ordeal",
@@ -568,83 +659,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cwyv21q9y1go?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-16T21:09:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armed robbers hold 25 people hostage at Naples bank before fleeing through hole in floor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/16/armed-robbers-hostages-naples-bank-flee-hole-floor-sewers",
-      "published_date": "2026-04-16T18:08:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Naples bank robbers hold 25 people hostage then vanish through tunnel",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-16T17:24:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French tennis star Monfils gets keys to Roland Garros for farewell fling",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260416-french-tennis-star-monfils-gets-keys-to-roland-garros-for-farewell-fling",
-      "published_date": "2026-04-16T16:03:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa's EFF leader Julius Malema jailed for five years on gun charges",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260416-south-africa-s-eff-leader-julius-malema-jailed-for-five-years-on-gun-charges",
-      "published_date": "2026-04-16T14:07:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Cameroon, Pope Leo XIV’s visit sparks hope among Christians",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260416-in-cameroon-pope-leo-xiv-s-visit-sparks-hope-among-christians",
-      "published_date": "2026-04-16T14:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man wins €1m Picasso painting for €100 in charity raffle – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/video/2026/apr/16/man-wins-1m-picasso-painting-for-100-in-charity-raffle-video",
-      "published_date": "2026-04-16T13:21:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain at risk of housing bubble as Madrid attracts wealthy foreigners",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260416-spain-at-risk-of-housing-bubble-as-madrid-attracts-wealthy-foreigners",
-      "published_date": "2026-04-16T12:56:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Star authors quit French publisher Grasset over editor's sudden departure",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260416-star-authors-quit-french-publisher-grasset-over-editor-s-sudden-departure",
-      "published_date": "2026-04-16T12:42:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish police detain 162 people over online praise for school shootings",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-16T11:01:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French MPs to debate antisemitism law that critics say will stifle criticism",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260416-french-mps-to-debate-antisemitism-law-that-critics-say-will-stifle-criticism",
-      "published_date": "2026-04-16T10:40:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proposed antisemitism law in France stir free speech debate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260416-proposed-antisemitism-law-in-france-stir-free-speech-debate",
-      "published_date": "2026-04-16T09:55:29+00:00",
       "category": "Local Events"
     }
   ]
