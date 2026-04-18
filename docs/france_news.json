@@ -1,8 +1,71 @@
 {
   "country": "France",
-  "last_updated": "2026-04-17T23:36:32.191844+00:00",
+  "last_updated": "2026-04-18T11:31:02.103265+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Hungary’s incoming PM seeks Polish help to renew EU relations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/18/hungary-peter-magyar-donald-tusk-poland-europe",
+      "published_date": "2026-04-18T11:00:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey warns it could be Israel's 'next enemy' as tensions escalate",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260418-turkey-warns-it-could-be-israel-s-next-enemy-as-tensions-escalate",
+      "published_date": "2026-04-18T10:56:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran declares the Strait of Hormuz 'completely open' amid fragile ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-declares-the-strait-of-hormuz-completely-open-amid-fragile-ceasefire",
+      "published_date": "2026-04-18T08:53:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK : Keir Starmer under pressure over Mandelson vetting scandal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-keir-starmer-under-pressure-over-mandelson-vetting-scandal",
+      "published_date": "2026-04-18T08:43:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Inside France: May Day, Macron's screen plan and a good memo",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260418/inside-france-may-day-macrons-screen-plan-and-a-good-memo",
+      "published_date": "2026-04-18T08:00:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can Europe avoid a summer of holiday flight and cross-Channel travel chaos?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/travel/2026/apr/18/europe-summer-holiday-flight-cross-channel-travel-cancelled-flights-airport-eu-ees",
+      "published_date": "2026-04-18T07:00:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are my rights if flights are cancelled and holidays disrupted due to fuel shortage?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/travel/2026/apr/18/what-to-do-if-flights-cancelled-holidays-disrupted-iran-war-eu-ees",
+      "published_date": "2026-04-18T07:00:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Erasmus returns as UK and European Union find common ground again",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260418-erasmus-returns-as-uk-and-european-union-find-common-ground-again",
+      "published_date": "2026-04-18T06:55:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tale of two truces: Lebanon 'steps up' alongside Israel as Tehran and Washington edge toward a deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260418-tale-of-two-truces-lebanon-steps-up-alongside-israel-as-tehran-and-washington-edge-toward-a-deal",
+      "published_date": "2026-04-18T04:58:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron, Meloni, Starmer and Merz welcome Hormuz Strait reopening",
       "source": "France 24",
@@ -81,67 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France's Macron says fragile Lebanon ceasefire 'may already be undermined'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260417-france-s-macron-says-fragile-lebanon-ceasefire-may-already-be-undermined",
-      "published_date": "2026-04-17T09:59:24+00:00",
-      "category": "Diplomacy"
+      "title": "As Meloni’s hold over Italy weakens, a progressive challenger gathers momentum in Genoa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/18/giorgia-meloni-hold-weakens-italy-silvia-salis-genoa-mayor",
+      "published_date": "2026-04-18T10:00:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron calls for monthly 'screen-free day' for young people",
+      "title": "Iran closes Hormuz Strait again over US blockade with ships mid-transit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-closes-hormuz-strait-again-over-us-blockade-with-ships-mid-transit",
+      "published_date": "2026-04-18T09:49:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Southern Lebanon residents return home to devastation after ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/southern-lebanon-residents-return-home-to-devastation-after-ceasefire",
+      "published_date": "2026-04-18T08:51:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "\"We are just displaced and we have to go back\" : Lebanese return to southern villages",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/we-are-just-displaced-and-we-have-to-go-back-lebanese-return-to-southern-villages",
+      "published_date": "2026-04-18T08:50:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hormuz domino effect: How the Middle East crisis affects food, flights and global supply chains",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260418-hormuz-domino-effect-how-the-middle-east-crisis-affects-food-flights-and-global-supply-chains",
+      "published_date": "2026-04-18T08:21:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Airlines fear jet-fuel rationing due to Mideast war",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260417/macron-calls-for-monthly-screen-free-day-for-young-people",
-      "published_date": "2026-04-17T08:39:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.fr/20260418/airlines-fear-jet-fuel-rationing-due-to-mideast-war",
+      "published_date": "2026-04-18T07:14:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "France, UK host talks on securing Hormuz",
+      "title": "Middle East war live: Iranian military says closed Strait of Hormuz again over US blockade",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-uk-host-talks-on-securing-hormuz",
-      "published_date": "2026-04-17T07:49:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What Magyar's election win means for Hungary's economy and Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20260417-what-magyar-s-election-win-means-for-hungary-s-economy-and-europe",
-      "published_date": "2026-04-17T07:47:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France and UK chair meeting on post-conflict Strait of Hormuz mission",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260417-france-uk-chair-meeting-on-strait-of-hormuz-mission-for-when-middle-east-conflict-ends",
-      "published_date": "2026-04-17T06:15:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron, Starmer chair meeting to mull European post-war mission in Strait of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260417-macron-starmer-chair-meeting-to-mull-european-post-war-mission-in-hormuz-strait",
-      "published_date": "2026-04-17T01:31:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ten-day Lebanon-Israel ceasefire begins after weeks of conflict",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260417-10-day-lebanon-israel-ceasefire-begins-after-weeks-of-conflict",
-      "published_date": "2026-04-17T00:39:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK seeks closer EU ties in volatile times - but at what cost?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqj8pg5yppwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-16T23:49:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France finance minister says Hormuz must open 'but not at any price'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260416-france-finance-minister-says-hormuz-must-open-but-not-at-any-price",
-      "published_date": "2026-04-16T21:15:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260418-iran-threatens-to-close-strait-of-hormuz-again-if-us-blockade-continues",
+      "published_date": "2026-04-18T05:01:20+00:00",
+      "category": "Military"
     },
     {
       "title": "1.2 million people uprooted by war",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Gisèle Pelicot and Ukraine's Zelensky honoured with Four Freedoms awards",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260417-gis%C3%A8le-pelicot-and-ukraine-s-zelensky-honoured-with-four-freedoms-awards",
-      "published_date": "2026-04-17T04:59:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Myanmar’s president commutes death sentences, cuts Aung San Suu Kyi’s jail term",
+      "title": "US issues sanctions waiver on Russian oil sales again",
       "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260417-myanmar-s-junta-leader-turned-civilian-president-commutes-all-death-sentences",
-      "published_date": "2026-04-17T04:51:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia",
-      "published_date": "2026-04-17T00:19:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suspect in 1982 Paris Jewish restaurant attack extradited to France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260416-suspect-in-1982-paris-jewish-restaurant-attack-extradited-to-france",
-      "published_date": "2026-04-16T23:52:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European airlines could run out of jet fuel 'in six weeks'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/european-airlines-could-run-out-of-jet-fuel-in-six-weeks",
-      "published_date": "2026-04-16T20:48:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military admit to posting AI photo of Lebanese journalist it killed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israeli-military-admit-to-posting-ai-photo-of-killed-lebanese-journalist",
-      "published_date": "2026-04-16T19:46:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Emergency services in Ukraine 'need armored vehicles' as Russia targets rescue workers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/emergency-services-in-ukraine-need-armored-vehicles-as-russia-targets-rescue-workers",
-      "published_date": "2026-04-16T19:12:23+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260418-us-extends-sanctions-waiver-on-russian-oil-sales-at-sea",
+      "published_date": "2026-04-18T07:37:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "Renzi urges ‘European strategy’, denounces Trump's ‘global chaos’ and populism of Orbán and Meloni",
@@ -375,11 +382,18 @@
       "category": "Energy"
     },
     {
-      "title": "France unveils measures to speed up shift to electric power",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260411/france-unveils-measures-to-speed-up-shift-to-electric-power",
-      "published_date": "2026-04-11T07:23:37+00:00",
-      "category": "Energy"
+      "title": "Young Bulgarians hold out for change in eighth election in five years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/18/young-bulgarians-election-wave-of-protests",
+      "published_date": "2026-04-18T07:00:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Péter Magyar’s real coup was winning over loyal Orbán voters – not preaching to the converted",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/18/peter-magyars-real-coup-was-winning-over-loyal-orban-voters-not-preaching-to-the-converted",
+      "published_date": "2026-04-18T06:00:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Iran, Magyar, Mythos & the Pope",
@@ -508,18 +522,32 @@
       "category": "Economy"
     },
     {
-      "title": "UK steel exports to EU at risk as bloc doubles tariffs and halves quotas",
+      "title": "Norwegian politicians hope Epstein files inquiry will restore faith in democracy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/14/uk-steel-exports-eu-risk-tariffs-quotas",
-      "published_date": "2026-04-14T13:53:35+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/apr/18/jeffrey-epstein-files-shaken-norway-faith-in-democracy-oversight-committee",
+      "published_date": "2026-04-18T10:48:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The French savings plan that earns you a tax break",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260414/the-french-savings-plan-that-earns-you-a-tax-break",
-      "published_date": "2026-04-14T12:43:17+00:00",
-      "category": "Economy"
+      "title": "Ethiopia journalist abduction sparks press freedom fears",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ethiopia-journalist-abduction-sparks-press-freedom-fears",
+      "published_date": "2026-04-18T10:04:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Angola prepares for the arrival of Pope Leo XIV",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/angola-prepares-for-the-arrival-of-pope-leo-xiv",
+      "published_date": "2026-04-18T09:52:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain's Sanchez, Brazil's Lula lead global gathering of left-wing leaders against far-right rise",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260418-sanchez-lula-rally-left-wing-leaders-in-spain-amid-far-right-surge",
+      "published_date": "2026-04-18T07:54:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Day 5 of Pope's African tour",
@@ -631,34 +659,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
       "published_date": "2026-04-17T07:49:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The butler did it: Elysee worker sentenced for stealing presidential porcelain",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260417/the-butler-did-it-elysee-worker-sentenced-for-stealing-presidential-porcelain",
-      "published_date": "2026-04-17T07:25:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Belle Vie: May in France, movie translation fails and solo travelling",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260417/la-belle-vie-may-in-france-movie-translation-fails-and-solo-travelling",
-      "published_date": "2026-04-17T06:30:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope visits Cameroon city hit by post-vote protest deaths",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260417-pope-visits-cameroon-city-hit-by-post-vote-protest-deaths",
-      "published_date": "2026-04-17T05:28:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "School shootings a new trauma for Turkey as nation mourns",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyv21q9y1go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-16T21:09:34+00:00",
       "category": "Local Events"
     }
   ]
