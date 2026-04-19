@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-04-19T11:31:50.239995+00:00",
-  "story_count": 94,
+  "last_updated": "2026-04-19T23:33:04.632765+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Bulgaria's pro-Russian former president takes strong lead",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/bulgaria-s-pro-russian-former-president-takes-strong-lead",
+      "published_date": "2026-04-19T22:25:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Should kids be banned from social media? The world is deciding",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/should-kids-be-banned-from-social-media-the-world-is-deciding",
+      "published_date": "2026-04-19T14:05:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Macron to meet with Lebanese PM on Tuesday",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260419/frances-macron-to-meet-with-lebanese-pm-on-tuesday",
+      "published_date": "2026-04-19T13:20:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK seeks EU deals on steel and EVs in push for closer economic ties",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/19/uk-seeks-eu-deals-on-steel-and-evs-in-push-for-closer-economic-ties",
+      "published_date": "2026-04-19T13:00:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel had a bad week in Europe. Does it herald a wider shift in EU relations?",
       "source": "The Guardian",
@@ -116,32 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Turkey warns it could be Israel's 'next enemy' as tensions escalate",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260418-turkey-warns-it-could-be-israel-s-next-enemy-as-tensions-escalate",
-      "published_date": "2026-04-18T10:56:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran declares the Strait of Hormuz 'completely open' amid fragile ceasefire",
+      "title": "Middle East war live: Iran vows response after US destroyer fires on cargo ship",
       "source": "France 24",
-      "url": "https://www.france24.com/en/iran-declares-the-strait-of-hormuz-completely-open-amid-fragile-ceasefire",
-      "published_date": "2026-04-18T08:53:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260419-middle-east-war-live-iran-vows-response-after-us-destroyer-fires-on-cargo-ship",
+      "published_date": "2026-04-19T23:16:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK : Keir Starmer under pressure over Mandelson vetting scandal",
+      "title": "Ukrainian best-selling author, Andrey Kurkov speaks to France 24",
       "source": "France 24",
-      "url": "https://www.france24.com/en/uk-keir-starmer-under-pressure-over-mandelson-vetting-scandal",
-      "published_date": "2026-04-18T08:43:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ukrainian-author-andrey-kurkov-speaks-to-france-24",
+      "published_date": "2026-04-19T21:26:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Inside France: May Day, Macron's screen plan and a good memo",
+      "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T17:48:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Experts carry out controlled blast of WWII bomb near Paris",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260418/inside-france-may-day-macrons-screen-plan-and-a-good-memo",
-      "published_date": "2026-04-18T08:00:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.fr/20260419/experts-carry-out-controlled-blast-of-wwii-bomb-near-paris",
+      "published_date": "2026-04-19T16:18:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Australia's most decorated serviceman vows to fight war crime charges",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/australia-s-most-decorated-serviceman-vows-to-fight-war-crime-charges",
+      "published_date": "2026-04-19T15:57:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T15:50:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'A rebel who liked order': Valérie André, France's first female general",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260419-a-rebel-who-liked-order-valerie-andre-france-s-first-female-general",
+      "published_date": "2026-04-19T13:27:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Ceasefire in the Middle East, especially in Lebanon, are meant to be broken', analyst says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ceasefire-in-the-middle-east-especially-in-lebanon-are-meant-to-be-broken-analyst-says",
+      "published_date": "2026-04-19T13:18:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran asserts leverage in Hormuz ahead of new round of talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-asserts-leverage-in-hormuz-ahead-of-new-round-of-talks",
+      "published_date": "2026-04-19T12:36:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Food security under threat as Middle East war disrupts fertiliser supply",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/food-security-under-threat-as-middle-east-war-disrupts-fertiliser-supply",
+      "published_date": "2026-04-19T12:31:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran: Prolonged conflict reshapes view of the regime, analyst says",
@@ -211,76 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/no-signs-of-regime-collapse-as-iran-weathers-weeks-of-war",
       "published_date": "2026-04-18T15:07:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The French archaeologists helping war-ravaged Sudan save its heritage",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260418-the-french-archaeologists-helping-war-ravaged-sudan-save-its-heritage",
-      "published_date": "2026-04-18T15:07:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey’s economy hit as Syrians return home",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/turkey-s-economy-hit-as-syrians-return-home",
-      "published_date": "2026-04-18T14:18:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Civilians count costs of war as they return to southern Lebanon",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260418-civilians-count-costs-of-war-as-they-return-to-southern-lebanon",
-      "published_date": "2026-04-18T13:11:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East : Fragile US-Iran talks hinge on nuclear and Hormuz disputes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east-fragile-us-iran-talks-hinge-on-nuclear-and-hormuz-disputes",
-      "published_date": "2026-04-18T12:42:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan’s war leaves thousands of children alone and displaced",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sudan-s-war-leaves-thousands-of-children-alone-and-displaced",
-      "published_date": "2026-04-18T12:39:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan war enters fourth year as the humanitarian crisis deepens",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sudan-war-enters-fourth-year-as-the-humanitarian-crisis-deepens",
-      "published_date": "2026-04-18T11:39:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Meloni’s hold over Italy weakens, a progressive challenger gathers momentum in Genoa",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/18/giorgia-meloni-hold-weakens-italy-silvia-salis-genoa-mayor",
-      "published_date": "2026-04-18T10:00:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran closes Hormuz Strait again over US blockade with ships mid-transit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-closes-hormuz-strait-again-over-us-blockade-with-ships-mid-transit",
-      "published_date": "2026-04-18T09:49:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Southern Lebanon residents return home to devastation after ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/southern-lebanon-residents-return-home-to-devastation-after-ceasefire",
-      "published_date": "2026-04-18T08:51:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "\"We are just displaced and we have to go back\" : Lebanese return to southern villages",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/we-are-just-displaced-and-we-have-to-go-back-lebanese-return-to-southern-villages",
-      "published_date": "2026-04-18T08:50:11+00:00",
       "category": "Military"
     },
     {
@@ -372,13 +372,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/talking-europe/20260413-iran-war-prompts-european-rethink-on-energy-security-how-can-the-eu-become-more-independent",
       "published_date": "2026-04-13T08:32:58+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The Dutch village at risk of being demolished",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-12T23:20:52+00:00",
       "category": "Energy"
     },
     {
@@ -522,6 +515,41 @@
       "category": "Economy"
     },
     {
+      "title": "Manchester City beats Arsenal 2-1, reignites Premier League title race",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260419-manchester-city-beats-arsenal-2-1-reignites-premier-league-title-race",
+      "published_date": "2026-04-19T18:45:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight children killed in Louisiana domestic violence mass shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260419-8-children-between-1-and-14-killed-in-mass-shooting-in-louisiana-police-say",
+      "published_date": "2026-04-19T16:53:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nathalie Baye obituary",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/19/nathalie-baye-obituary",
+      "published_date": "2026-04-19T16:53:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French media mogul Bolloré defiant as authors quit his publisher en masse",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260419-french-media-mogul-vincent-bollore-defiant-as-authors-quit-publisher-grasset-en-masse",
+      "published_date": "2026-04-19T15:05:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian lawyers could win ‘wild west-style bounties’ if immigration clients go home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/19/italian-lawyers-giorgia-meloni-wild-west-bounties-immigration",
+      "published_date": "2026-04-19T13:23:12+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Rat poison found in HiPP baby food jar in Austria, police say",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
@@ -624,41 +652,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c4gly4qkx1go?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-18T16:54:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia fights female genital mutilation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/colombia-fights-female-genital-mutilation",
-      "published_date": "2026-04-18T16:05:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We can’t wait’: Venice already seeking floods plan B five years after barriers’ launch",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/18/venice-flood-barrier-plan-b-rising-sea-level",
-      "published_date": "2026-04-18T13:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lens keep Ligue 1 title hopes alive with comeback win over Toulouse",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260418-lens-keep-ligue-1-title-hopes-alive-with-comeback-win-over-toulouse",
-      "published_date": "2026-04-18T12:38:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norwegian politicians hope Epstein files inquiry will restore faith in democracy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/18/jeffrey-epstein-files-shaken-norway-faith-in-democracy-oversight-committee",
-      "published_date": "2026-04-18T10:48:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopia journalist abduction sparks press freedom fears",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ethiopia-journalist-abduction-sparks-press-freedom-fears",
-      "published_date": "2026-04-18T10:04:30+00:00",
       "category": "Local Events"
     }
   ]
