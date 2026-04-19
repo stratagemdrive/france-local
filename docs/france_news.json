@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-04-18T23:31:40.209697+00:00",
-  "story_count": 93,
+  "last_updated": "2026-04-19T11:31:50.239995+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Israel had a bad week in Europe. Does it herald a wider shift in EU relations?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/19/israel-europe-support-iran-war-orban-meloni",
+      "published_date": "2026-04-19T10:13:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A petition called 'Lebanon will not be the next Gaza' calls on French leaders to take action",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260419-a-petition-called-lebanon-will-not-be-the-next-gaza-calls-on-french-leaders-to-take-action-1",
+      "published_date": "2026-04-19T10:08:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelensky condemns US extension of Russian sanctions waiver",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T09:55:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East: Hezbollah blamed after French peacekeeper killed in Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east-hezbollah-blamed-after-french-peacekeeper-killed-in-lebanon",
+      "published_date": "2026-04-19T09:00:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'They are stealing the election': How Armenia became the next Russia-EU battlefield",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260419-stealing-election-how-armenia-became-next-russia-eu-battlefield",
+      "published_date": "2026-04-19T08:59:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French peacekeeper killed in southern Lebanon",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T03:14:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
       "source": "BBC News",
@@ -102,46 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Can Europe avoid a summer of holiday flight and cross-Channel travel chaos?",
+      "title": "Iran: Prolonged conflict reshapes view of the regime, analyst says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-prolonged-conflict-reshapes-view-of-the-regime-analyst-says",
+      "published_date": "2026-04-19T10:05:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bulgaria votes as pro-Russian former president leads in the polls",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/travel/2026/apr/18/europe-summer-holiday-flight-cross-channel-travel-cancelled-flights-airport-eu-ees",
-      "published_date": "2026-04-18T07:00:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
+      "published_date": "2026-04-19T09:45:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "What are my rights if flights are cancelled and holidays disrupted due to fuel shortage?",
+      "title": "What is UNIFIL? the UN mission in southern Lebanon explained",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/what-is-unifil-the-un-mission-in-southern-lebanon-explained",
+      "published_date": "2026-04-19T08:58:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Spain’s Sánchez leads progressive push as far-right gathers in Milan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260419-spain-s-s%C3%A1nchez-leads-progressive-push-as-far-right-gathers-in-milan",
+      "published_date": "2026-04-19T08:57:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More Britons opt to holiday in UK this summer amid uncertainty over flights",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/travel/2026/apr/18/what-to-do-if-flights-cancelled-holidays-disrupted-iran-war-eu-ees",
-      "published_date": "2026-04-18T07:00:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/apr/19/britons-holiday-uk-summer-flights-iran-war",
+      "published_date": "2026-04-19T08:00:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Erasmus returns as UK and European Union find common ground again",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260418-erasmus-returns-as-uk-and-european-union-find-common-ground-again",
-      "published_date": "2026-04-18T06:55:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tale of two truces: Lebanon 'steps up' alongside Israel as Tehran and Washington edge toward a deal",
+      "title": "North Korea fires short-range ballistic missiles in latest weapons tests",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260418-tale-of-two-truces-lebanon-steps-up-alongside-israel-as-tehran-and-washington-edge-toward-a-deal",
-      "published_date": "2026-04-18T04:58:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/asia-pacific/20260419-north-korea-fires-short-range-ballistic-missiles-in-latest-weapons-tests",
+      "published_date": "2026-04-19T06:31:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron, Meloni, Starmer and Merz welcome Hormuz Strait reopening",
+      "title": "Middle East war live: Strait of Hormuz stays shut as Iran reports 'progress' in US talks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/macron-meloni-starmer-and-merz-welcome-hormuz-strait-reopening",
-      "published_date": "2026-04-17T16:13:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260419-middle-east-war-live-iran-reports-progress-in-us-talks-but-final-deal-still-far-off",
+      "published_date": "2026-04-19T05:08:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU moves to tighten rules on harmful pollutants: The invisible danger of 'forever chemicals'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260417-eu-moves-to-tighten-rules-on-harmful-pollutants-the-invisible-danger-of-forever-chemicals",
-      "published_date": "2026-04-17T15:40:09+00:00",
-      "category": "Diplomacy"
+      "title": "‘I was fighting two wars’: Ukraine’s soldiers confront their addiction struggles",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/19/ukraine-soldiers-confront-addiction-struggles",
+      "published_date": "2026-04-19T04:00:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0q92lx8q75o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-18T23:05:30+00:00",
+      "category": "Military"
     },
     {
       "title": "No signs of regime collapse as Iran weathers weeks of war",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Hormuz domino effect: How the Middle East crisis affects food, flights and global supply chains",
+      "title": "Strait of Hormuz: Open, closed, open, closed - What's actually happening?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260418-hormuz-domino-effect-how-the-middle-east-crisis-affects-food-flights-and-global-supply-chains",
-      "published_date": "2026-04-18T08:21:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Airlines fear jet-fuel rationing due to Mideast war",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260418/airlines-fear-jet-fuel-rationing-due-to-mideast-war",
-      "published_date": "2026-04-18T07:14:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: Iranian military says closed Strait of Hormuz again over US blockade",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260418-iran-threatens-to-close-strait-of-hormuz-again-if-us-blockade-continues",
-      "published_date": "2026-04-18T05:01:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "1.2 million people uprooted by war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/1-2-million-people-uprooted-by-war",
-      "published_date": "2026-04-17T16:10:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s ambassador to France backs Lebanon truce, tells RFI ‘we prefer dialogue’",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260417-iran-s-ambassador-to-france-backs-lebanon-truce-tells-rfi-we-prefer-dialogue-mohammad-amin-nejad",
-      "published_date": "2026-04-17T16:02:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China steps out of the shadows in Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20260417-china-steps-out-of-the-shadows-in-iran-war",
-      "published_date": "2026-04-17T15:10:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Wake-up call for Europeans to step up: There’s been a lack of investment' in defence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260417-wake-up-call-for-europeans-to-step-up-there-s-been-a-lack-of-investment-in-defence",
-      "published_date": "2026-04-17T14:52:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Press association denounces Israel’s use of altered image to depict slain journalist",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260417-press-association-israeli-army-use-ai-doctored-image-slain-journalist",
-      "published_date": "2026-04-17T14:38:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon erupts in joy as 10-day ceasefire with Israel takes effect",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260417-lebanon-erupts-in-joy-as-10-day-ceasefire-with-israel-takes-effect",
-      "published_date": "2026-04-17T11:15:31+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260418-strait-of-hormuz-open-closed-open-closed-what-s-actually-happening",
+      "published_date": "2026-04-18T21:26:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "US issues sanctions waiver on Russian oil sales again",
@@ -373,6 +380,20 @@
       "url": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-12T23:20:52+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Labour’s ‘crabwise’ approach to closer EU ties must address damage of Brexit | Heather Stewart",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/19/labour-approach-closer-eu-ties-address-damage-of-brexit",
+      "published_date": "2026-04-19T10:50:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Allergies, taxes and and hair phrases: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260419/allergies-taxes-and-and-hair-phrases-6-essential-articles-for-life-in-france",
+      "published_date": "2026-04-19T06:08:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "Young Bulgarians hold out for change in eighth election in five years",
@@ -501,18 +522,74 @@
       "category": "Economy"
     },
     {
-      "title": "UK woman fears being stranded in Spain over new Home Office border rules",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/14/uk-woman-fears-being-stranded-spain-new-home-office-border-rules",
-      "published_date": "2026-04-14T17:33:34+00:00",
-      "category": "Economy"
+      "title": "Rat poison found in HiPP baby food jar in Austria, police say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T11:20:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Reeves arrives at IMF with little leeway to prove its UK downgrade wrong",
+      "title": "Nathalie Baye, prolific star of French and Hollywood cinema, dies aged 77",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/14/rachel-reeves-arrives-at-imf-with-little-leeway-to-prove-its-uk-downgrade-wrong",
-      "published_date": "2026-04-14T17:27:57+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/film/2026/apr/19/nathalie-baye-star-french-hollywood-cinema-catch-me-if-you-can-dies-aged-77",
+      "published_date": "2026-04-19T11:06:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rat poison found in baby food jar in Austria after product recall",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/19/rat-poison-baby-food-jar-hipp-austria-product-recall",
+      "published_date": "2026-04-19T10:00:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Europe's far right seeks to regroup at anti-immigration rally in Milan",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260419-europe-s-far-right-seeks-to-regroup-at-anti-immigration-rally-in-milan",
+      "published_date": "2026-04-19T09:40:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Billionaire shrugs off mass exodus at hallowed French publisher",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260419/billionaire-shrugs-off-mass-exodus-at-hallowed-french-publisher",
+      "published_date": "2026-04-19T09:17:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several killed in Kyiv as gunman opens fire and takes hostages – video report",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/apr/19/several-killed-in-kyiv-as-gunman-opens-fire-and-takes-hostages-video-report",
+      "published_date": "2026-04-19T09:16:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poet, trader, explorer: following Rimbaud's footsteps in Ethiopia",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260419-poet-trader-explorer-following-rimbaud-s-footsteps-in-ethiopia",
+      "published_date": "2026-04-19T08:49:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The forgotten Statue of Liberty helping a French town rebuild its identity",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260419-forgotten-statue-of-liberty-helps-french-town-rebuild-its-identity",
+      "published_date": "2026-04-19T06:54:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260419/on-the-agenda-whats-happening-in-france-this-week-206",
+      "published_date": "2026-04-19T06:07:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: search for motive after gunman kills six in Kyiv",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/19/ukraine-war-briefing-search-for-motive-after-gunman-kills-six-in-kyiv",
+      "published_date": "2026-04-19T05:30:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Investigators examine whether Ukraine terrorist attack was directed by Russia",
@@ -582,76 +659,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/ethiopia-journalist-abduction-sparks-press-freedom-fears",
       "published_date": "2026-04-18T10:04:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Angola prepares for the arrival of Pope Leo XIV",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/angola-prepares-for-the-arrival-of-pope-leo-xiv",
-      "published_date": "2026-04-18T09:52:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain's Sanchez, Brazil's Lula lead global gathering of left-wing leaders against far-right rise",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260418-sanchez-lula-rally-left-wing-leaders-in-spain-amid-far-right-surge",
-      "published_date": "2026-04-18T07:54:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Day 5 of Pope's African tour",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/day-5-of-pope-s-african-tour",
-      "published_date": "2026-04-17T20:46:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup fans will have to pay $150 for NY stadium train ticket, officials say",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260417-world-cup-fans-will-have-to-pay-150-for-ny-stadium-train-ticket-official-says",
-      "published_date": "2026-04-17T19:31:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo XIV leads massive mass in Douala",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/pope-leo-xiv-leads-massive-mass-in-douala",
-      "published_date": "2026-04-17T16:12:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Paris movement that planted the seeds of Algerian independence, a century on",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260417-the-banned-paris-movement-that-planted-the-seeds-of-algerian-independence-a-century-on-north-african-star",
-      "published_date": "2026-04-17T16:10:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "11 things to know about France's Arc de Triomphe",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260417/11-things-to-know-about-frances-arc-de-triomphe",
-      "published_date": "2026-04-17T15:29:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elusive wolf in South Korea recaptured after nine days on the run",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260417-elusive-wolf-in-south-korea-recaptured-after-nine-days-on-the-run",
-      "published_date": "2026-04-17T15:02:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeffrey Epstein and the French connection",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-51/20260417-jeffrey-epstein-and-the-french-connection",
-      "published_date": "2026-04-17T14:30:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect in 1982 attack on Paris Jewish restaurant faces judge after extradition",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260417-suspect-in-1982-paris-jewish-restaurant-attack-extradition-goldenberg-hicham-harb",
-      "published_date": "2026-04-17T14:28:52+00:00",
       "category": "Local Events"
     }
   ]
