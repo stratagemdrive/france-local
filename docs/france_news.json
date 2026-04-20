@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-04-20T12:00:42.792495+00:00",
-  "story_count": 92,
+  "last_updated": "2026-04-20T23:39:34.951346+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Starmer’s Mandelson 'gamble': Did political firepower trump diplomacy to appease Washington?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260420-starmer-s-mandelson-gamble-did-political-firepower-trump-diplomacy-to-appease-washington",
+      "published_date": "2026-04-20T20:41:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU to gauge member states' willingness to take measures against Israel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260420-eu-gauge-member-states-willingness-take-measures-against-israel",
+      "published_date": "2026-04-20T20:27:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on the EU and Israel: moving beyond mere exhortation | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/20/the-guardian-view-on-the-eu-and-israel-moving-beyond-mere-exhortation-",
+      "published_date": "2026-04-20T17:43:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "REPLAY: UK PM Starmer faces parliament over Mandelson vetting controversy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260420-replay-uk-pm-starmer-faces-parliament-over-mandelson-vetting-controversy",
+      "published_date": "2026-04-20T16:42:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz and Lula celebrate EU–Mercosur deal, but French resistance holds fast",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260420-merz-and-lula-celebrate-eu%E2%80%93mercosur-deal-but-french-resistance-holds-fast",
+      "published_date": "2026-04-20T15:51:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ceasefire at risk after US seizes Iranian ship, Iran shuns peace talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260420-ceasefire-at-risk-after-us-seizes-iranian-ship-iran-shuns-peace-talks",
+      "published_date": "2026-04-20T14:57:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron meets Tusk to discuss possible Polish role in French nuclear deterrence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260420-macron-meets-tusk-poland-european-defence-collaboration",
+      "published_date": "2026-04-20T13:58:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dakar hosts 10th peace forum amid rising tensions across Africa",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260420-senegal-dakar-peace-security-forum-opens-in-a-transformed-african-landscape",
+      "published_date": "2026-04-20T12:35:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU praises ‘extremely constructive’ early talks with incoming Hungarian government – Europe live",
       "source": "The Guardian",
@@ -88,60 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Bulgaria's pro-Russian former president takes strong lead",
+      "title": "Israel confirms its soldier destroyed Jesus statue in Lebanon",
       "source": "France 24",
-      "url": "https://www.france24.com/en/bulgaria-s-pro-russian-former-president-takes-strong-lead",
-      "published_date": "2026-04-19T22:25:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/israel-confirms-its-soldier-destroyed-jesus-statue-in-lebanon",
+      "published_date": "2026-04-20T19:55:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Should kids be banned from social media? The world is deciding",
+      "title": "'Trump has boxed himself into a corner', expert says as fate of Iran peace talks uncertain",
       "source": "France 24",
-      "url": "https://www.france24.com/en/should-kids-be-banned-from-social-media-the-world-is-deciding",
-      "published_date": "2026-04-19T14:05:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/trump-has-boxed-himself-into-a-corner-expert-says-as-fate-of-iran-peace-talks-uncertain",
+      "published_date": "2026-04-20T19:23:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK's Starmer to face grilling from MPs over Mandelson vetting scandal",
+      "title": "Iran says 'no decision' on joining new talks, with US delegation set to depart",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260419-uk-s-starmer-to-face-grilling-from-mps-over-mandelson-vetting-scandal",
-      "published_date": "2026-04-19T14:05:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/iran-says-no-decision-on-joining-new-talks-with-us-delegation-set-to-depart",
+      "published_date": "2026-04-20T18:13:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "France's Macron to meet with Lebanese PM on Tuesday",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260419/frances-macron-to-meet-with-lebanese-pm-on-tuesday",
-      "published_date": "2026-04-19T13:20:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK seeks EU deals on steel and EVs in push for closer economic ties",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/19/uk-seeks-eu-deals-on-steel-and-evs-in-push-for-closer-economic-ties",
-      "published_date": "2026-04-19T13:00:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel had a bad week in Europe. Does it herald a wider shift in EU relations?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/19/israel-europe-support-iran-war-orban-meloni",
-      "published_date": "2026-04-19T10:13:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A petition called 'Lebanon will not be the next Gaza' calls on French leaders to take action",
+      "title": "'Hierarchy of sovereignty': Israel claims authority over 'which Lebanese areas are inhabitable'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260419-a-petition-called-lebanon-will-not-be-the-next-gaza-calls-on-french-leaders-to-take-action-1",
-      "published_date": "2026-04-19T10:08:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelensky condemns US extension of Russian sanctions waiver",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-19T09:55:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/hierarchy-of-sovereignty-israel-claims-authority-over-which-lebanese-areas-are-inhabitable",
+      "published_date": "2026-04-20T15:48:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Electric car sales soar 51% in mainland Europe as Iran war drives up fuel prices",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Food security under threat as Middle East war disrupts fertiliser supply",
+      "title": "Cuba confirms meeting with US officials on island, wants energy blockade lifted",
       "source": "France 24",
-      "url": "https://www.france24.com/en/food-security-under-threat-as-middle-east-war-disrupts-fertiliser-supply",
-      "published_date": "2026-04-19T12:31:16+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/cuba-confirms-meeting-with-us-officials-on-island-wants-energy-blockade-lifted",
+      "published_date": "2026-04-20T21:49:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran: Prolonged conflict reshapes view of the regime, analyst says",
+      "title": "What exit strategy? Trump, Iranians send mixed signals as truce deadline looms",
       "source": "France 24",
-      "url": "https://www.france24.com/en/iran-prolonged-conflict-reshapes-view-of-the-regime-analyst-says",
-      "published_date": "2026-04-19T10:05:25+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260420-what-exit-strategy-trump-iranians-send-mixed-signals-as-truce-deadline-looms",
+      "published_date": "2026-04-20T18:10:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Bulgaria votes as pro-Russian former president leads in the polls",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
-      "published_date": "2026-04-19T09:45:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What is UNIFIL? the UN mission in southern Lebanon explained",
+      "title": "Billion-dollar tariff refund process kicks off in US",
       "source": "France 24",
-      "url": "https://www.france24.com/en/what-is-unifil-the-un-mission-in-southern-lebanon-explained",
-      "published_date": "2026-04-19T08:58:13+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/business/20260420-billion-dollar-tariff-refund-process-kicks-off-in-us",
+      "published_date": "2026-04-20T12:02:30+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe’s last coal – a photo essay",
@@ -361,11 +382,11 @@
       "category": "Energy"
     },
     {
-      "title": "War in Iran could accelerate global energy transition",
+      "title": "Tim Cook to step down as Apple CEO, John Ternus named successor",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260413-war-in-iran-could-accelerate-global-energy-transition",
-      "published_date": "2026-04-13T20:46:14+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/technology/20260420-tim-cook-step-down-apple-ceo",
+      "published_date": "2026-04-20T21:23:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "Explained: New electronic billing for self-employed workers in France",
@@ -501,11 +522,60 @@
       "category": "Economy"
     },
     {
-      "title": "Aegon offloads 200-year-old UK business to Standard Life for £2bn",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/15/aegon-offloads-200-year-old-uk-business-to-standard-life",
-      "published_date": "2026-04-15T09:23:24+00:00",
-      "category": "Economy"
+      "title": "Canadian tourist killed in Mexico archaeological site shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/canadian-tourist-killed-in-mexico-archaeological-site-shooting",
+      "published_date": "2026-04-20T21:51:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elon Musk snubs Paris prosecutors' summons over X and Grok",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260420-elon-musk-snubs-paris-prosecutors-summons-over-x-and-grok",
+      "published_date": "2026-04-20T21:04:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shooter at Mexico's Teotihuacan pyramid site kills Canadian tourist, wounds four others",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260420-shooter-mexico-teotihuacan-pyramid-site-kills-canadian-tourist-wounds-four-others",
+      "published_date": "2026-04-20T20:37:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far right courts business community ahead of elections",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260420-french-far-right-courts-business-community-ahead-of-elections",
+      "published_date": "2026-04-20T15:45:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elon Musk snubs interview summons by French prosecutors amid X probe",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T15:44:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US tariff refund system launches for companies to claim billions in import taxes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260420-us-tariff-refund-system-launches-companies-claim-billions-import-taxes",
+      "published_date": "2026-04-20T15:15:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight children killed in US domestic violence shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260420-eight-children-killed-in-us-domestic-violence-shooting",
+      "published_date": "2026-04-20T14:55:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG boss Enrique targets squad response against Nantes after Lyon defeat",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260420-psg-boss-enrique-targets-squad-response-against-nantes-after-lyon-defeat",
+      "published_date": "2026-04-20T13:47:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Peace talks clouded by uncertainty after US seizes Iranian ship",
@@ -589,62 +659,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/apr/19/nathalie-baye-obituary",
       "published_date": "2026-04-19T16:53:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French media mogul Bolloré defiant as authors quit his publisher en masse",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260419-french-media-mogul-vincent-bollore-defiant-as-authors-quit-publisher-grasset-en-masse",
-      "published_date": "2026-04-19T15:05:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian lawyers could win ‘wild west-style bounties’ if immigration clients go home",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/19/italian-lawyers-giorgia-meloni-wild-west-bounties-immigration",
-      "published_date": "2026-04-19T13:23:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rat poison found in HiPP baby food jar in Austria, police say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-19T11:20:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nathalie Baye, prolific star of French and Hollywood cinema, dies aged 77",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/19/nathalie-baye-star-french-hollywood-cinema-catch-me-if-you-can-dies-aged-77",
-      "published_date": "2026-04-19T11:06:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rat poison found in baby food jar in Austria after product recall",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/19/rat-poison-baby-food-jar-hipp-austria-product-recall",
-      "published_date": "2026-04-19T10:00:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe's far right seeks to regroup at anti-immigration rally in Milan",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260419-europe-s-far-right-seeks-to-regroup-at-anti-immigration-rally-in-milan",
-      "published_date": "2026-04-19T09:40:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Billionaire shrugs off mass exodus at hallowed French publisher",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260419/billionaire-shrugs-off-mass-exodus-at-hallowed-french-publisher",
-      "published_date": "2026-04-19T09:17:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Several killed in Kyiv as gunman opens fire and takes hostages – video report",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/apr/19/several-killed-in-kyiv-as-gunman-opens-fire-and-takes-hostages-video-report",
-      "published_date": "2026-04-19T09:16:13+00:00",
       "category": "Local Events"
     }
   ]
