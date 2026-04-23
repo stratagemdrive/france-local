@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-04-23T11:57:30.775740+00:00",
+  "last_updated": "2026-04-23T23:41:41.228576+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Truce without talks: What room for diplomacy between US and Iran?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260423-truce-without-talks-what-room-for-diplomacy-between-us-and-iran",
+      "published_date": "2026-04-23T18:12:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU formally approves €90bn Ukraine loan and 20th sanctions package against Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/23/eu-approves-ukraine-loan-sanctions-russia",
+      "published_date": "2026-04-23T18:02:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could Italy replace Iran at the 2026 World Cup?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c4g81pke0nwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-23T18:01:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK to pay for French officers to deport asylum seekers from war-torn countries",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/23/uk-to-pay-for-french-officers-to-deport-asylum-seekers-from-war-torn-countries",
+      "published_date": "2026-04-23T14:53:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU approves massive loan to help Ukraine after Hungary lifts its veto",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260423-eu-approves-massive-loan-to-help-ukraine-after-hungary-lifts-its-veto",
+      "published_date": "2026-04-23T14:01:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Macron inaugurates lithium mine as France, EU seek energy sovereignty",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260423-president-macron-inaugurates-lithium-mine-as-france-eu-seek-energy-sovereignty",
+      "published_date": "2026-04-23T13:32:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU set to sign off €90bn loan for Ukraine and fresh Russia sanctions – Europe live",
       "source": "The Guardian",
@@ -102,46 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Second French peacekeeper dies after ambush blamed on Hezbollah",
+      "title": "Lebanon leaders accuse Israel of war crime after journalist killed",
       "source": "France 24",
-      "url": "https://www.france24.com/en/second-french-peacekeeper-dies-after-ambush-blamed-on-hezbollah",
-      "published_date": "2026-04-22T18:12:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/lebanon-leaders-accuse-israel-of-war-crime-after-journalist-killed",
+      "published_date": "2026-04-23T18:39:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Roman Abramovich takes Jersey to European human rights court over criminal investigation",
+      "title": "Israel defense minister says awaiting US green light to 'return Iran to Stone Age'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-defense-minister-says-awaiting-us-green-light-to-return-iran-to-stone-age",
+      "published_date": "2026-04-23T18:36:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What the Palantir CEO’s ‘manifesto’ tells us about the changing face of war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/technology/20260423-what-the-palantir-ceo-s-manifesto-tells-us-about-the-changing-face-of-war",
+      "published_date": "2026-04-23T18:25:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump orders Iran mine-layers sunk, as Iran tolls tankers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-orders-iran-mine-layers-sunk-as-iran-tolls-tankers",
+      "published_date": "2026-04-23T18:15:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK prepared to deploy RAF Typhoons to keep strait of Hormuz open after Iran war",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/22/roman-abramovich-jersey-european-human-rights-court-chelsea-sale-proceeds",
-      "published_date": "2026-04-22T16:52:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/apr/23/uk-raf-typhoons-strait-of-hormuz-iran-war",
+      "published_date": "2026-04-23T18:08:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cyprus urges EU to agree plan for joint defence of member states ahead of summit",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260422-cyprus-urges-eu-to-agree-plan-for-joint-defence-of-member-states-ahead-of-summit",
-      "published_date": "2026-04-22T16:19:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU agrees to unblock €90bn loan for Ukraine after Hungary lifts veto",
+      "title": "The Guardian view on Anthropic’s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/22/eu-unblocks-loan-ukraine-new-sanctions-russia-hungary-lifts-veto",
-      "published_date": "2026-04-22T15:19:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-anthropics-claude-mythos-when-ai-finds-every-flaw-who-controls-the-internet",
+      "published_date": "2026-04-23T17:27:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Food security: Why UN chief Guterres’s plan to get fertiliser flowing in Hormuz is stalling",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260422-food-security-why-guterres-un-plan-get-fertiliser-hormuz-stalling-iran-war",
-      "published_date": "2026-04-22T15:00:36+00:00",
-      "category": "Diplomacy"
+      "title": "Is the tide turning for Ukraine in war with Russia? – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/apr/23/is-the-tide-turning-for-ukraine-in-war-with-russia-the-latest",
+      "published_date": "2026-04-23T16:36:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Unblocked EU loan provides relief to Ukraine's strained finances",
+      "title": "Is China's economy insulated from Iran war shock?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260422-unblocked-eu-loan-provides-relief-to-ukraine-s-strained-finances",
-      "published_date": "2026-04-22T14:27:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/people-profit/20260423-is-china-s-economy-insulated-from-iran-war-shock",
+      "published_date": "2026-04-23T16:05:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon leaders accuse Israel of war crime after journalist killed",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260423-lebanon-leaders-accuse-israel-of-war-crime-after-journalist-killed",
+      "published_date": "2026-04-23T16:03:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Prince Harry tells Putin 'there is still a moment to stop this war', at Kyiv conference",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/video/2026/apr/23/prince-harry-tells-putin-moment-stop-this-war-kyiv-conference",
+      "published_date": "2026-04-23T14:43:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New Paris exhibition showcases work of US photographer and war reporter Lee Miller",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260423-new-paris-exhibition-showcases-work-of-us-photographer-and-war-reporter-lee-miller",
+      "published_date": "2026-04-23T14:43:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon to seek ceasefire extension in US-hosted talks with Israel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260423-lebanon-to-seek-ceasefire-extension-in-us-hosted-talks-with-israel",
+      "published_date": "2026-04-23T14:00:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe cancels thousands of flights amid Middle East fuel shock",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260423-europe-cancels-thousands-of-flights-amid-middle-east-fuel-shock",
+      "published_date": "2026-04-23T13:59:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Humanitarian worker Mike Penrose on the 'Food from Ukraine' programme",
@@ -193,95 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "PODCAST: France takes on Musk and will French airports run out of jet fuel?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260423/podcast-france-takes-on-musk-and-will-french-airports-run-out-of-jet-fuel",
-      "published_date": "2026-04-23T06:01:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trial opens after Nigeria charges six over 2025 coup plot",
+      "title": "With travel chaos looming, Brittany Ferries vows no price hikes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/trial-opens-after-nigeria-charges-six-over-2025-coup-plot",
-      "published_date": "2026-04-22T21:34:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK to pay France another £660m to curb Channel crossings",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/22/uk-pay-france-660m-to-curb-channel-crossings",
-      "published_date": "2026-04-22T21:30:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gulf allies have requested financial support, US Treasury Secretary says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260422-gulf-allies-have-requested-financial-support-us-treasury-secretary-says",
-      "published_date": "2026-04-22T21:04:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Hungry all the time’: US Navy deny food shortages after grim photos emerge",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260422-hungry-all-the-time-us-navy-deny-food-shortages-after-grim-photos-emerge",
-      "published_date": "2026-04-22T19:38:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three ships targeted in Hormuz, Iran seizes two",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/three-ships-targeted-in-hormuz-iran-seizes-two",
-      "published_date": "2026-04-22T18:24:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mapping the environmental toll of the Middle East war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260422-mapping-environmental-toll-middle-east-war",
-      "published_date": "2026-04-22T15:59:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prize-winning book 'Houris' brings prison term for French-Algerian author Kamel Daoud",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260422-prize-winning-book-houris-brings-prison-term-for-french-algerian-author-kamel-daoud",
-      "published_date": "2026-04-22T15:11:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-22T15:00:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Trump's high-stakes political theatre: US winning conventional war, Iran winning asymmetrical war'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260422-tale-of-two-wars-us-winning-conventional-war-iran-winning-asymmetrical-war-1",
-      "published_date": "2026-04-22T14:15:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Residents pay the price as Afghanistan-Pakistan border remains closed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260422-residents-pay-the-price-as-afghanistan-pakistan-border-remains-closed",
-      "published_date": "2026-04-22T13:20:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Agon review – ice-cold, machine-tooled inspection of the dark side of athletic perfection",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/22/agon-movie-review-giulio-bertelli-alice-bellandi-sofija-zobina-yile-yara-vianello",
-      "published_date": "2026-04-22T12:00:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In south Lebanon village, Hezbollah buries fighters killed in war with Israel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260422-in-south-lebanon-village-hezbollah-buries-fighters-killed-in-war-with-israel",
-      "published_date": "2026-04-22T11:47:49+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/with-travel-chaos-looming-brittany-ferries-vows-no-price-hikes",
+      "published_date": "2026-04-23T20:49:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "Washington uses Iraq's own oil money to bend Baghdad to its will",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "'Totally unfair' that EU countries making money on energy crunch: Former EU commissioner Breton",
+      "title": "Iran flaunts its grip over the Strait of Hormuz with commandos storming cargo ship",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260417-totally-unfair-that-eu-countries-making-money-on-energy-crunch-former-eu-commissioner-breton",
-      "published_date": "2026-04-17T16:36:54+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/iran-flaunts-its-grip-over-the-strait-of-hormuz-with-commandos-storming-cargo-ship",
+      "published_date": "2026-04-23T18:33:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump administration reclassifies medical marijuana as a 'less-dangerous drug'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260423-trump-administration-reclassifies-medical-marijuana-as-a-less-dangerous-drug",
+      "published_date": "2026-04-23T15:53:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "Chihuahua operation: Mexico, US trade harsh words over deaths of two US agents",
@@ -550,18 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Young Bulgarians hold out for change in eighth election in five years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/18/young-bulgarians-election-wave-of-protests",
-      "published_date": "2026-04-18T07:00:06+00:00",
-      "category": "Economy"
+      "title": "Woman killed by bear in Polish forest, son and local government say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c20qrg4dyr3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-23T18:16:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Péter Magyar’s real coup was winning over loyal Orbán voters – not preaching to the converted",
+      "title": "‘Hairdryer or lighter?’: French police look at claim of sensor tampering to win weather bets",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/18/peter-magyars-real-coup-was-winning-over-loyal-orban-voters-not-preaching-to-the-converted",
-      "published_date": "2026-04-18T06:00:05+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/apr/23/hairdryer-or-lighter-french-police-look-at-claim-of-sensor-tampering-to-win-weather-bets",
+      "published_date": "2026-04-23T17:39:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Twenty years, one question: What does it mean to be Black and European?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260423-twenty-years-one-question-what-does-it-mean-to-be-black-and-european",
+      "published_date": "2026-04-23T15:13:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Genius & gadgets: French inventions that changed the world",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/french-connections/20260423-genius-gadgets-french-inventions-that-changed-the-world",
+      "published_date": "2026-04-23T15:05:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigerian artist Eniwaye Oluwaseyi explores memory, identity in Paris show",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260423-nigerian-artist-eniwaye-oluwaseyi-explores-memory-identity-in-paris-show",
+      "published_date": "2026-04-23T14:16:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Photo of migrant family separation in US scoops World Press prize",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260423-photo-of-migrant-family-separation-in-us-scoops-world-press-prize",
+      "published_date": "2026-04-23T14:13:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In win for GOP, Virginia court blocks redistricting approved by voters",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260423-virginia-court-blocks-redistricting-map-approved-by-voters-in-win-for-gop",
+      "published_date": "2026-04-23T14:02:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Head-on train collision near Copenhagen leaves five critically injured",
@@ -652,55 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/22/tourist-charged-with-damaging-historic-florence-fountain-pre-wedding-prank",
       "published_date": "2026-04-22T17:42:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘In two years, nobody will care’ if actors are AI or not, predicts La Haine director",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/22/actors-ai-la-haine-director-mathieu-kassovitz",
-      "published_date": "2026-04-22T13:05:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is the Paris mayor really going to turn the ring-road into a park?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260422/is-the-paris-mayor-really-going-to-turn-the-ring-road-into-a-park",
-      "published_date": "2026-04-22T11:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Cup: Lens defeat Toulouse and qualify for first final in 28 years",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260422-french-cup-lens-defeat-toulouse-and-qualify-for-first-final-in-28-years",
-      "published_date": "2026-04-22T05:59:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Barcelona to Paris, cities thrive with women in charge. It’s all about sharing public space | Melissa and Chris Bruntlett",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/22/cities-barcelona-paris-women-share-public-space",
-      "published_date": "2026-04-22T04:00:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lens thrash Toulouse to reach Coupe de France final",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260421-lens-thrash-toulouse-to-move-into-coupe-de-france-final",
-      "published_date": "2026-04-21T21:23:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Torture and beating photos seized during Lyons gang raids in Spain",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2rz5z0ln9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-21T20:12:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK police make eight further arrests after arson attacks on Jewish sites",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260421-uk-police-make-eight-further-arrests-arson-attacks-jewish-sites",
-      "published_date": "2026-04-21T14:52:16+00:00",
       "category": "Local Events"
     }
   ]
