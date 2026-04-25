@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-04-25T11:35:12.466011+00:00",
+  "last_updated": "2026-04-25T23:34:45.119567+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Macron says EU’s mutual defence clause ‘not just words’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/25/macron-says-eus-mutual-defence-clause-not-just-words",
+      "published_date": "2026-04-25T19:10:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Macron tells Greek PM Mitsotakis: 'We will be by your side'",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260425-france-s-macron-tells-greek-pm-mitsotakis-we-will-be-by-your-side",
+      "published_date": "2026-04-25T15:57:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran rules out talks with US unless blockade of ports lifted",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-rules-out-talks-with-us-unless-blockade-of-ports-lifted",
+      "published_date": "2026-04-25T14:02:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Elections in West Bank provide 'credibility to Palestinian sovereignty', expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/elections-in-west-bank-provide-credibility-to-palestinian-sovereignty-expert-says",
+      "published_date": "2026-04-25T12:47:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "RAF Typhoons scrambled in response to Russian drone threat near Nato airspace",
       "source": "The Guardian",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN peacekeeper dies of wounds suffered in Lebanon",
+      "title": "Strait talks: What's at stake in Hormuz",
       "source": "France 24",
-      "url": "https://www.france24.com/en/un-peacekeeper-dies-of-wounds-suffered-in-lebanon",
-      "published_date": "2026-04-24T11:43:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260425-strait-talks-what-s-at-stake-in-hormuz",
+      "published_date": "2026-04-25T17:56:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Algeria and Chad cement stategic partnership with raft of bilateral deals",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260424-algeria-and-chad-cement-stategic-partnership-with-raft-of-bilateral-deals",
-      "published_date": "2026-04-24T11:34:04+00:00",
-      "category": "Diplomacy"
+      "title": "A difficult balance to find: Pakistan wants to be a key actor in shaping US-Iran peace",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260425-a-difficult-balance-to-find-pakistan-wants-to-be-a-key-actor-in-shaping-us-iran-peace",
+      "published_date": "2026-04-25T17:14:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "France leaves climate change off G7 environment summit agenda to placate US",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260424-france-leaves-climate-change-off-g7-environment-summit-agenda-to-placate-us",
-      "published_date": "2026-04-24T10:04:23+00:00",
-      "category": "Diplomacy"
+      "title": "Russian strikes kill several in Ukraine's Dnipro",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russian-strikes-kill-several-in-ukraine-s-dnipro",
+      "published_date": "2026-04-25T15:14:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "France's Macron says he will leave politics after 2027 election",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260424-france-s-macron-says-he-will-leave-politics-after-2027-election",
-      "published_date": "2026-04-24T09:21:07+00:00",
-      "category": "Diplomacy"
+      "title": "Attacks on Bamako a 'dramatic setback' for Malian government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/attacks-on-bamako-a-dramatic-setback-for-malian-government",
+      "published_date": "2026-04-25T15:06:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Low voter turnout in Gaza as West Bank holds local elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/low-voter-turnout-in-gaza-as-west-bank-holds-local-elections",
+      "published_date": "2026-04-25T14:46:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian airstrikes kill at least seven people in Ukraine overnight",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
+      "published_date": "2026-04-25T13:17:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "FLA claims attacks on Malian capital",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/fla-claims-attacks-on-malian-capital",
+      "published_date": "2026-04-25T12:50:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly Russian strikes hit Dnipro – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/apr/25/deadly-russian-strikes-dnipro-ukraine-video",
+      "published_date": "2026-04-25T12:47:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Malian army confirms clashes with armed fighters in key cities",
@@ -207,6 +263,13 @@
       "category": "Military"
     },
     {
+      "title": "'Animals are traumatised too': Pet rescuers under fire in Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn783emlgdno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-25T04:58:30+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Palestinians vote in local elections as polls open for first time since Gaza war",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260425-palestinians-vote-in-local-elections-as-polls-open-for-the-first-time-since-gaza-war",
@@ -218,69 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/25/ukraine-war-briefing-zelenskyy-holds-talks-in-azerbaijan-saudi-arabia-on-security-and-energy",
       "published_date": "2026-04-25T01:02:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Information leakage to our adversaries': When prediction markets spiral out of control",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/economy/20260424-information-leakage-to-our-adversaries-when-prediction-markets-spiral-out-of-control",
-      "published_date": "2026-04-24T18:49:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Watch: 20,000 teddy bears highlight plight of missing Ukrainian children",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c0mjd1z08ero?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-24T18:48:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: Neither war nor Peace, Ukraine’s Lifeline, Starmer: “Just a Scratch”?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260424-iran-neither-war-nor-peace-ukraine-s-lifeline-starmer-just-a-scratch",
-      "published_date": "2026-04-24T18:22:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Retired US Army Colonel discusses naval strategy in Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260424-retired-us-army-colonel-discusses-naval-strategy-in-hormuz",
-      "published_date": "2026-04-24T17:40:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could Trump withdraw US support for UK sovereignty of Falklands?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/24/could-donald-trump-withdraw-us-support-uk-sovereignty-falklands",
-      "published_date": "2026-04-24T16:37:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "40 years since the Chernobyl disaster",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/40-years-since-the-chernobyl-disaster",
-      "published_date": "2026-04-24T15:14:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jean Lafaurie, 102 years old, still resisting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/jean-lafaurie-102-years-old-still-resisting",
-      "published_date": "2026-04-24T14:37:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why are so many Colombians fighting for Ukraine?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/reporters/20260424-why-are-so-many-colombians-fighting-for-ukraine",
-      "published_date": "2026-04-24T11:41:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Venice Biennale jury will not ‘award artists whose countries face war crimes charges’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/apr/24/venice-biennale-jury-not-award-artists-countries-face-war-crimes-israel-russia",
-      "published_date": "2026-04-24T11:33:35+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,41 @@
       "category": "Economy"
     },
     {
+      "title": "Festive mood in West Bank as local elections underway",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/festive-mood-in-west-bank-as-local-elections-underway",
+      "published_date": "2026-04-25T15:36:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delon, a dead body and a Corsican gangster: new book unravels the Markovic Affair",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20260425-delon-a-dead-body-and-a-corsican-gangster-new-book-unravels-the-markovic-affair-murder-in-paris-68",
+      "published_date": "2026-04-25T13:53:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France charges policeman suspected of breaking woman's skull",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260425/france-charges-policeman-suspected-of-breaking-womans-skull",
+      "published_date": "2026-04-25T13:20:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Roland-Garros: defending champion Carlos Alcaraz forced to withdraw",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260425-roland-garros-defending-champion-carlos-alcaraz-forced-to-withdraw",
+      "published_date": "2026-04-25T12:26:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elections in West Bank: ‘Barometer’ on Palestinian public opinion",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/elections-in-west-bank-barometer-on-palestinian-public-opinion",
+      "published_date": "2026-04-25T11:38:05+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Seven dead in major Russian attack on Ukraine",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
@@ -666,41 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260424-tornado-sweeps-through-oklahoma-city",
       "published_date": "2026-04-24T15:59:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tornado barrels through Oklahoma",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tornado-barrels-through-oklahoma",
-      "published_date": "2026-04-24T15:25:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia kills elderly couple in their home",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-kills-two-prisoners-in-their-home",
-      "published_date": "2026-04-24T15:09:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Baseball bat years' continue to haunt eastern Germany, 30 years on",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/revisited/20260424-baseball-bat-years-continue-to-haunt-eastern-germany-30-years-on",
-      "published_date": "2026-04-24T15:04:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin culture minister resigns over irregular distribution of funds to fight antisemitism",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/24/berlin-culture-minister-sarah-wedl-wilson-resigns-irregular-distribution-funds-fight-antisemitism",
-      "published_date": "2026-04-24T14:12:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Did gamblers fix Paris weather station data for profit on US betting site?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260424/did-gamblers-fix-paris-weather-station-data-for-profit-on-us-betting-site",
-      "published_date": "2026-04-24T11:50:50+00:00",
       "category": "Local Events"
     }
   ]
