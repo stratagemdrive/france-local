@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-04-25T23:34:45.119567+00:00",
+  "last_updated": "2026-04-26T11:36:14.571255+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "France's Macron joins world leaders in support of Trump after gun attack at gala",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260426-france-s-macron-joins-world-leaders-in-support-of-trump-after-gun-attack-at-gala",
+      "published_date": "2026-04-26T10:17:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "🔴 Live: France's Macron says shooter attack at Trump media dinner 'unacceptable'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260426-live-trump-shooting-white-house-correspondents-dinner",
+      "published_date": "2026-04-26T09:12:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East war live: Iran's FM to return to Pakistan for talks as US envoys cancel visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260426-middle-east-war-live-iran-s-fm-to-return-to-pakistan-for-talks-as-us-envoys-cancel-visit",
+      "published_date": "2026-04-26T05:13:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron says EU’s mutual defence clause ‘not just words’",
       "source": "The Guardian",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'I wasn't in politics before and I'm not going to be after': Macron to quit politics in 2027",
+      "title": "Deadly Israeli strikes hit Lebanon despite ceasefire extension",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260424-i-wasn-t-in-politics-before-and-i-m-not-going-to-be-after-macron-says-will-quit-politics-in-2027",
-      "published_date": "2026-04-24T14:31:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/deadly-israeli-strikes-hit-lebanon-despite-ceasefire-extension",
+      "published_date": "2026-04-26T10:07:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "What do new EU Pet Passport rules mean for second-home owners in France?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260424/what-do-new-eu-pet-passport-rules-mean-for-second-home-owners-in-france",
-      "published_date": "2026-04-24T14:03:47+00:00",
-      "category": "Diplomacy"
+      "title": "Armed groups claim attacks across Mali",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali",
+      "published_date": "2026-04-26T09:18:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU leaders look to little-known mutual assistance pact amid Trump Nato jibes",
+      "title": "Ukraine marks 40th anniversary of the Chernobyl nuclear plant disaster",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-marks-40th-anniversary-of-the-chernobyl-nuclear-plant-disaster",
+      "published_date": "2026-04-26T09:10:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘He refused to say that there was no radiation and no danger to the population'",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260426-he-refused-to-say-that-there-was-no-radiation-and-no-danger-to-the-population-chernobyl",
+      "published_date": "2026-04-26T08:48:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New fighting erupts in northern Mali's Kidal as army clashes with Tuareg rebels",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260426-new-fighting-erupts-in-north-mali-s-kidal-as-army-clashes-with-rebels",
+      "published_date": "2026-04-26T07:52:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Several killed in Colombia highway bomb attack ahead of presidential election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260426-several-killed-in-colombia-highway-bomb-attack-ahead-of-presidential-election",
+      "published_date": "2026-04-26T06:08:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian action thriller billed as Saving Private Ryan for the drone age",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/24/europe-defence-nato-us-donald-trump",
-      "published_date": "2026-04-24T13:13:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/26/ukrainian-action-thriller-billed-as-saving-private-ryan-for-the-drone-age",
+      "published_date": "2026-04-26T04:00:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy signs agreement with Azerbaijan as death toll from Russian attacks rises to 10",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/26/ukraine-war-briefing-zelenskyy-signs-agreement-with-azerbaijan-as-death-tolls-from-russian-attacks-rises-to-10",
+      "published_date": "2026-04-26T00:23:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "BBC visits Chernobyl ghost city 40 years after world's worst nuclear accident",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/czjwrdgp98wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-25T23:01:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Strait talks: What's at stake in Hormuz",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Mali live: Army says armed 'terrorist' groups launch attacks on military positions nationwide",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
-      "published_date": "2026-04-25T09:35:38+00:00",
-      "category": "Military"
+      "title": "TotalEnergies refinery working full tilt to keep France fuelled",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260426/totalenergies-refinery-working-full-tilt-to-keep-france-fuelled",
+      "published_date": "2026-04-26T07:30:50+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Spain PM brushes of reported Pentagon email on punishing NATO members",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260425-spain-pm-brushes-of-reported-pentagon-email-on-punishing-nato-members",
-      "published_date": "2026-04-25T09:21:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "🔴 Mali military says armed 'terrorist groups' launch attacks on positions nationwide",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260425-mali-army-says-armed-terrorist-groups-attacked-military-positions",
-      "published_date": "2026-04-25T09:08:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nazi-looted $10 million Stradivarius violin has turned up in France, says expert",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260425-nazi-looted-10-million-stradivarius-violin-has-turned-up-in-france-says-expert",
-      "published_date": "2026-04-25T07:53:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Major Russia drone and missile attack kills several, wounds dozens in Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260425-major-russia-drone-and-missile-attack-kills-several-wounds-dozens-in-ukraine",
-      "published_date": "2026-04-25T07:34:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside Chornobyl: 40 years after disaster, nuclear site still at risk in Russia’s war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/25/chornobyl-power-plant-at-risk-amid-russia-war-ukraine",
-      "published_date": "2026-04-25T05:00:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Animals are traumatised too': Pet rescuers under fire in Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn783emlgdno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T04:58:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians vote in local elections as polls open for first time since Gaza war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260425-palestinians-vote-in-local-elections-as-polls-open-for-the-first-time-since-gaza-war",
-      "published_date": "2026-04-25T01:25:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy holds talks in Azerbaijan, Saudi Arabia on ‘security and energy’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/25/ukraine-war-briefing-zelenskyy-holds-talks-in-azerbaijan-saudi-arabia-on-security-and-energy",
-      "published_date": "2026-04-25T01:02:52+00:00",
-      "category": "Military"
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260426/on-the-agenda-whats-happening-in-france-this-week-207",
+      "published_date": "2026-04-26T06:38:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "US envoys to travel to Islamabad despite Iran ruling out direct negotiations with US",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Tim Cook to step down as Apple CEO after 15 years in the job",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260421-tim-cook-to-step-down-as-apple-ceo-after-15-years-in-the-job",
-      "published_date": "2026-04-21T11:23:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba confirms meeting with US officials on island, wants energy blockade lifted",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/cuba-confirms-meeting-with-us-officials-on-island-wants-energy-blockade-lifted",
-      "published_date": "2026-04-20T21:49:26+00:00",
-      "category": "Energy"
+      "title": "Cannes AI film festival raises eyebrows – and questions about future",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future",
+      "published_date": "2026-04-26T06:00:07+00:00",
+      "category": "Economy"
     },
     {
       "title": "REVEALED: The countries in Europe that will buck the trend and grow in population",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Pope Leo XIV recalls 'great suffering' at historic slave trade shrine in Angola",
+      "title": "Bus blast in Colombia kills 13 amid rising violence",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260420-pope-leo-xiv-recalls-great-suffering-at-historic-slave-trade-shrine-in-angola",
-      "published_date": "2026-04-20T00:42:03+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/bus-blast-in-colombia-kills-13-amid-rising-violence",
+      "published_date": "2026-04-26T09:45:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What we know about the suspect in White House press dinner shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/what-we-know-about-the-suspect-in-white-house-press-dinner-shooting",
+      "published_date": "2026-04-26T09:41:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oink-Off in Estonia: Pig contest highlights farming struggles",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/oink-off-in-estonia-pig-contest-highlights-farming-struggles",
+      "published_date": "2026-04-26T09:20:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LA teacher suspect for White House press dinner shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/la-teacher-suspect-for-white-house-press-dinner-shooting",
+      "published_date": "2026-04-26T09:02:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tibetans-in-exile vote for new government as future without Dalai Lama looms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260426-exiled-tibetans-elect-government-vote-condemned-china",
+      "published_date": "2026-04-26T03:46:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Festive mood in West Bank as local elections underway",
@@ -666,41 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260425-head-of-openai-apologises-for-failing-to-alert-police-ahead-of-canada-mass-shooting",
       "published_date": "2026-04-25T06:39:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Human rights watch releases a new report detailing the quote “unrelenting persecution of Tigrayans”",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260424-human-rights-watch-releases-a-new-report-detailing-the-quote-unrelenting-persecution-of-tigrayans",
-      "published_date": "2026-04-24T20:34:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tanzania releases government-led inquiry into poll violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tanzania-releases-government-led-inquiry-into-poll-violence",
-      "published_date": "2026-04-24T18:32:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/24/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-04-24T17:59:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three Kosovo Serbs jailed over deadly gun battle and monastery siege",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-24T17:20:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tornado sweeps through Oklahoma City",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260424-tornado-sweeps-through-oklahoma-city",
-      "published_date": "2026-04-24T15:59:38+00:00",
       "category": "Local Events"
     }
   ]
