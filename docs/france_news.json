@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-04-26T11:36:14.571255+00:00",
+  "last_updated": "2026-04-26T23:36:12.465349+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iran’s top diplomat leaves Pakistan for Russia, Trump says Tehran can talk by phone",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260426-iran-top-diplomat-pakistan-russia-oman-trump-says-tehran-talk-phone",
+      "published_date": "2026-04-26T19:32:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France's Macron joins world leaders in support of Trump after gun attack at gala",
       "source": "RFI English",
@@ -137,11 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "French foreign minister Barrot voices concern about 'terrorist threat' in the Sahel",
+      "title": "Global military spending hits record $2.9 trillion in 2025 amid growing insecurity",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260424-french-foreign-minister-barrot-voices-concern-about-terrorist-threat-in-the-sahel",
-      "published_date": "2026-04-24T14:56:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/economy/20260426-global-military-spending-record-2-9-trillion-2025-growing-insecurity",
+      "published_date": "2026-04-26T22:33:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chernobyl: Two Takes, Then & Now. On the Ground 40 years on",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260426-chernobyl-two-takes-then-now-on-the-ground-40-years-on",
+      "published_date": "2026-04-26T17:59:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chernobyl, 40 years on: the disaster that triggered the downfall of a superpower",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260426-chernobyl-40-years-on-the-disaster-that-triggered-the-downfall-of-a-superpower-ussr",
+      "published_date": "2026-04-26T16:30:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trickle-down impacts of Middle East war, from pistachios, to copper, to leather",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260426-trickle-down-impacts-of-middle-east-war-from-pistachios-to-copper-to-leather",
+      "published_date": "2026-04-26T16:03:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey steps up as  Europe's indispensable and uncomfortable defence partner",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260426-turkey-steps-up-as-europe-s-indispensable-and-uncomfortable-defence-partner",
+      "published_date": "2026-04-26T15:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian mercenaries in Mali: Limited gains, reports of abuse",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/new-fighting-erupts-in-mali-russian-forces-make-little-gains",
+      "published_date": "2026-04-26T14:33:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Malian Defence Minister Sadio Camara killed by rebels",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/malian-defense-minister-killed-by-rebels",
+      "published_date": "2026-04-26T14:09:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gunfire and blasts rock Mali: Army claims situation is under control",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/gunfire-and-blasts-rock-mali-army-claims-situation-is-under-control",
+      "published_date": "2026-04-26T13:08:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chernobyl 40th anniversary: A zone that must be sheltered",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/chernobyl-40th-anniversary-a-zone-that-must-be-sheltered",
+      "published_date": "2026-04-26T13:07:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "40 years since Chernobyl disaster: Soviet Union's 'top-down culture' partly to blame",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/40-years-since-chernobyl-disaster-soviet-union-s-top-down-culture-partly-to-blame",
+      "published_date": "2026-04-26T12:04:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Deadly Israeli strikes hit Lebanon despite ceasefire extension",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "A difficult balance to find: Pakistan wants to be a key actor in shaping US-Iran peace",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260425-a-difficult-balance-to-find-pakistan-wants-to-be-a-key-actor-in-shaping-us-iran-peace",
-      "published_date": "2026-04-25T17:14:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes kill several in Ukraine's Dnipro",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russian-strikes-kill-several-in-ukraine-s-dnipro",
-      "published_date": "2026-04-25T15:14:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Attacks on Bamako a 'dramatic setback' for Malian government",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/attacks-on-bamako-a-dramatic-setback-for-malian-government",
-      "published_date": "2026-04-25T15:06:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Low voter turnout in Gaza as West Bank holds local elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/low-voter-turnout-in-gaza-as-west-bank-holds-local-elections",
-      "published_date": "2026-04-25T14:46:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian airstrikes kill at least seven people in Ukraine overnight",
+      "title": "Renewable energy will boost national security and protect UK from sabotage, minister says",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
-      "published_date": "2026-04-25T13:17:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FLA claims attacks on Malian capital",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/fla-claims-attacks-on-malian-capital",
-      "published_date": "2026-04-25T12:50:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly Russian strikes hit Dnipro – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/apr/25/deadly-russian-strikes-dnipro-ukraine-video",
-      "published_date": "2026-04-25T12:47:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Malian army confirms clashes with armed fighters in key cities",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260425-malian-army-confirms-clashes-with-armed-fighters-in-key-cities",
-      "published_date": "2026-04-25T11:00:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gunfire rocks Bamako: 'Too soon to tell' if junta will fall",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/mali-army-says-fighting-terrorist-groups-amidst-gunfire",
-      "published_date": "2026-04-25T10:29:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Displaced Lebanese remain skeptical despite extended truce",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/displaced-lebanese-remain-skeptical-despite-extended-truce",
-      "published_date": "2026-04-25T09:39:04+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
+      "published_date": "2026-04-26T23:01:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "TotalEnergies refinery working full tilt to keep France fuelled",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Pollen season in UK and mainland Europe extended by climate breakdown",
+      "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/22/pollen-season-in-uk-and-mainland-europe-extended-by-climate-breakdown",
-      "published_date": "2026-04-22T04:00:08+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs",
+      "published_date": "2026-04-26T21:30:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ryanair to shut Berlin base as it blames rise in German aviation tax",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/26/ryanair-shut-berlin-base-blames-german-aviation-tax-union",
+      "published_date": "2026-04-26T13:44:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Cannes AI film festival raises eyebrows – and questions about future",
@@ -550,18 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Tim Cook to step down as Apple CEO, John Ternus named successor",
+      "title": "Syria begins first trial of Bashar al-Assad and allies after his ouster",
       "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20260420-tim-cook-step-down-apple-ceo",
-      "published_date": "2026-04-20T21:23:28+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/middle-east/20260426-syria-first-trial-bashar-al-assad-allies-ouster",
+      "published_date": "2026-04-26T21:52:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Explained: New electronic billing for self-employed workers in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260420/explained-new-electronic-billing-for-self-employed-workers-in-france",
-      "published_date": "2026-04-20T11:59:14+00:00",
-      "category": "Economy"
+      "title": "Final steps taken before audacious plan to tow whale stranded in Germany to North Sea",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/26/final-steps-audacious-plan-tow-whale-stranded-germany-north-sea-timmy",
+      "published_date": "2026-04-26T16:46:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week in pictures: Trump evacuated at media dinner, Leo XIV in Africa and robots race in Beijing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260426-the-week-in-pictures-trump-evacuated-at-media-dinner-leo-xiv-in-africa-and-robots-race-in-beijing",
+      "published_date": "2026-04-26T14:45:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump turns assassination attempts into 'political rocket fuel'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/president-trump-safe-after-gunfire-at-press-event-in-washington-d-c",
+      "published_date": "2026-04-26T14:29:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Look back in Angers: PSG boss Enrique hails focus ahead of Champions League tie",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260426-look-back-in-angers-psg-boss-enrique-hails-focus-ahead-of-champions-league-tie",
+      "published_date": "2026-04-26T11:46:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bus blast in Colombia kills 13 amid rising violence",
@@ -666,41 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/peru-police-raid-ex-election-chief-s-home-amid-widening-probe",
       "published_date": "2026-04-25T09:33:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mojtaba Khamenei remains out of the spotlight in Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/mojtaba-khamenei-remains-out-of-the-spotlight-in-iran",
-      "published_date": "2026-04-25T09:03:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lens falter at Brest to hand Ligue 1 advantage to PSG",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260425-lens-falter-at-brest-to-hand-ligue-1-advantage-to-psg",
-      "published_date": "2026-04-25T08:52:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside France: Musk, macarons and the prime minister's overdraft",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260425/inside-france-musk-macarons-and-the-prime-ministers-overdraft",
-      "published_date": "2026-04-25T08:03:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Athens cannot operate as a giant hotel’: mayor vows to rescue capital from overtourism",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/25/athens-cannot-operate-as-a-giant-hotel-mayor-vows-to-rescue-capital-from-overtourism",
-      "published_date": "2026-04-25T08:00:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Head of OpenAI apologises for failing to alert police ahead of Canada mass shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260425-head-of-openai-apologises-for-failing-to-alert-police-ahead-of-canada-mass-shooting",
-      "published_date": "2026-04-25T06:39:50+00:00",
       "category": "Local Events"
     }
   ]
