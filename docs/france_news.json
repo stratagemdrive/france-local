@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-04-26T23:36:12.465349+00:00",
+  "last_updated": "2026-04-27T12:18:42.012878+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Odesa bears brunt of latest Russian attacks on Ukraine – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/27/europe-ukraine-russia-poland-germany-eu-latest-news-updates",
+      "published_date": "2026-04-27T11:55:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Caught between the UK and EU: What’s next for young Scots?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260427-caught-between-the-uk-and-eu-what-next-for-young-scots",
+      "published_date": "2026-04-27T11:34:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron to address abortion law debate in rare visit to Andorra",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260427-macron-to-address-abortion-law-debate-in-rare-visit-to-andorra",
+      "published_date": "2026-04-27T11:12:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Eukrainian review – heroic portrait of the diplomat trying to haul Ukraine into Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/27/the-eukrainian-review-heroic-portrait-of-the-diplomat-trying-to-haul-ukraine-into-europe",
+      "published_date": "2026-04-27T10:00:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China warns EU over ‘Made in Europe’ plan, vows countermeasures",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260427-china-warns-eu-made-in-europe-plan-countermeasures",
+      "published_date": "2026-04-27T03:04:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran’s top diplomat leaves Pakistan for Russia, Trump says Tehran can talk by phone",
       "source": "France 24",
@@ -109,39 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran Peace Talks: Trump's unconventional diplomacy on display",
+      "title": "Israel, Hezbollah trade accusations over Lebanon truce violations",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260424-iran-peace-talks-trump-s-unconventional-diplomacy-on-display",
-      "published_date": "2026-04-24T15:56:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260427-israel-hezbollah-trade-accusations-over-lebanon-truce-violations",
+      "published_date": "2026-04-27T10:34:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Crossing borders: The EU powers your mobility (part 1)",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260424-crossing-borders-the-eu-powers-your-mobility-part-1",
-      "published_date": "2026-04-24T15:54:12+00:00",
-      "category": "Diplomacy"
+      "title": "Europe, Asia driving surge in global military spending: report",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260427-europe-asia-driving-surge-in-global-military-spending-report-defence-budget-ukraine-russia",
+      "published_date": "2026-04-27T10:30:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Crossing borders: The EU powers your mobility (part 2)",
+      "title": "Musk and OpenAI CEO Altman head to court in high-stakes showdown over AI",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260424-crossing-borders-the-eu-powers-your-mobility-part-2",
-      "published_date": "2026-04-24T15:42:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260427-musk-and-openai-ceo-altman-head-to-court-in-high-stakes-showdown-over-ai",
+      "published_date": "2026-04-27T10:16:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU leaders discuss Iran crisis in Cyprus",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/eu-leaders-discuss-iran-crisis-in-cyprus",
-      "published_date": "2026-04-24T15:12:21+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-27T10:04:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron leaves future open as political curtain nears",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260424/macron-leaves-future-open-as-political-curtain-nears",
-      "published_date": "2026-04-24T15:02:21+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli strikes kill 14 in Lebanon despite ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260427-israeli-strikes-kill-14-in-lebanon-despite-ceasefire",
+      "published_date": "2026-04-27T10:02:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali defence minister killed as jihadis and rebels launch major assault",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260427-mali-defence-minister-killed-as-jihadis-and-rebels-launch-major-assault",
+      "published_date": "2026-04-27T09:53:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "King Charles' visit to US goes ahead despite Washington shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260427-king-charles-visit-to-us-goes-ahead-despite-washington-shooting",
+      "published_date": "2026-04-27T09:08:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Unable to cope': Malian army, Wagner 'overstretched' by Tuareg separatists and jihadist militants",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/unable-to-cope-malian-army-wagner-overstretched-by-tuareg-separatists-and-jihadist-militants",
+      "published_date": "2026-04-27T08:10:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali's defence minister Camara killed in rebel assault on residential compound",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260427-mali-s-defence-minister-camara-killed-in-rebel-assault-on-residential-compound",
+      "published_date": "2026-04-27T06:22:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kim reaffirms North Korean support for Russia's 'sacred' Ukraine war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260427-kim-jong-un-reaffirms-north-korea-s-support-for-russia-s-sacred-ukraine-war",
+      "published_date": "2026-04-27T05:51:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: Lebanon’s Aoun says will not accept 'humiliating' deal in Israel talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260427-middle-east-war-live-putin-iran-foreign-minister-us-iran-talks",
+      "published_date": "2026-04-27T02:45:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Elon Musk’s lawsuit against OpenAI over nonprofit claims heads to trial",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260427-elon-musk-s-lawsuit-against-openai-over-nonprofit-claims-heads-to-trial",
+      "published_date": "2026-04-27T01:51:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "King Charles III begins US visit despite press gala shooting, transatlantic tensions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260427-king-charles-iii-begins-four-day-us-visit-despite-shooting",
+      "published_date": "2026-04-27T01:23:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kim Jong-un strengthens military ties with Russia and hails soldiers who fought in Kursk",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/27/ukraine-war-briefing-kim-jong-un-north-korea-russia-military-agreement",
+      "published_date": "2026-04-27T00:32:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Global military spending hits record $2.9 trillion in 2025 amid growing insecurity",
@@ -186,102 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Malian Defence Minister Sadio Camara killed by rebels",
+      "title": "Amsterdam becomes world's first capital to ban fossil fuel ads",
       "source": "France 24",
-      "url": "https://www.france24.com/en/malian-defense-minister-killed-by-rebels",
-      "published_date": "2026-04-26T14:09:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gunfire and blasts rock Mali: Army claims situation is under control",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/gunfire-and-blasts-rock-mali-army-claims-situation-is-under-control",
-      "published_date": "2026-04-26T13:08:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Chernobyl 40th anniversary: A zone that must be sheltered",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/chernobyl-40th-anniversary-a-zone-that-must-be-sheltered",
-      "published_date": "2026-04-26T13:07:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "40 years since Chernobyl disaster: Soviet Union's 'top-down culture' partly to blame",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/40-years-since-chernobyl-disaster-soviet-union-s-top-down-culture-partly-to-blame",
-      "published_date": "2026-04-26T12:04:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly Israeli strikes hit Lebanon despite ceasefire extension",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/deadly-israeli-strikes-hit-lebanon-despite-ceasefire-extension",
-      "published_date": "2026-04-26T10:07:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Armed groups claim attacks across Mali",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali",
-      "published_date": "2026-04-26T09:18:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine marks 40th anniversary of the Chernobyl nuclear plant disaster",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-marks-40th-anniversary-of-the-chernobyl-nuclear-plant-disaster",
-      "published_date": "2026-04-26T09:10:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘He refused to say that there was no radiation and no danger to the population'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260426-he-refused-to-say-that-there-was-no-radiation-and-no-danger-to-the-population-chernobyl",
-      "published_date": "2026-04-26T08:48:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New fighting erupts in northern Mali's Kidal as army clashes with Tuareg rebels",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260426-new-fighting-erupts-in-north-mali-s-kidal-as-army-clashes-with-rebels",
-      "published_date": "2026-04-26T07:52:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Several killed in Colombia highway bomb attack ahead of presidential election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260426-several-killed-in-colombia-highway-bomb-attack-ahead-of-presidential-election",
-      "published_date": "2026-04-26T06:08:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian action thriller billed as Saving Private Ryan for the drone age",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/26/ukrainian-action-thriller-billed-as-saving-private-ryan-for-the-drone-age",
-      "published_date": "2026-04-26T04:00:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy signs agreement with Azerbaijan as death toll from Russian attacks rises to 10",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/26/ukraine-war-briefing-zelenskyy-signs-agreement-with-azerbaijan-as-death-tolls-from-russian-attacks-rises-to-10",
-      "published_date": "2026-04-26T00:23:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "BBC visits Chernobyl ghost city 40 years after world's worst nuclear accident",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/czjwrdgp98wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T23:01:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Strait talks: What's at stake in Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260425-strait-talks-what-s-at-stake-in-hormuz",
-      "published_date": "2026-04-25T17:56:24+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/focus/20260427-amsterdam-becomes-world-s-first-capital-to-ban-fossil-fuel-ads",
+      "published_date": "2026-04-27T10:57:30+00:00",
+      "category": "Energy"
     },
     {
       "title": "Renewable energy will boost national security and protect UK from sabotage, minister says",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "NASA says new space telescope will create 'atlas of the universe'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260422-nasa-unveils-roman-space-telescope-to-provide-atlas-of-the-universe",
-      "published_date": "2026-04-22T08:17:11+00:00",
-      "category": "Energy"
+      "title": "Orbán may be gone, but his prejudices are now baked into the European political mainstream | Shada Islam",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/27/orban-europe-eu-racism-migration-border",
+      "published_date": "2026-04-27T11:31:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Staff at French medical labs to strike in May",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260427/staff-at-french-medical-labs-to-strike-in-may",
+      "published_date": "2026-04-27T09:42:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Phantoms of July review – interlocking tales hop across time in funny-quirky fable with a point",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/27/phantoms-of-july-review",
+      "published_date": "2026-04-27T05:00:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
@@ -543,25 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Ultras review – love letter to football’s most dedicated supporters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/21/ultras-review-love-letter-to-footballs-most-dedicated-supporters",
-      "published_date": "2026-04-21T12:00:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Apple's Tim Cook steps down: John Ternus names as new CEO",
+      "title": "'This keeps happening': US press gala shooting latest sign of rising political violence",
       "source": "France 24",
-      "url": "https://www.france24.com/en/apple-s-tim-cook-steps-down-john-ternus-names-as-new-ceo",
-      "published_date": "2026-04-21T09:56:03+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260427-this-keeps-happening-us-press-gala-shooting-latest-sign-of-rising-political-violence",
+      "published_date": "2026-04-27T10:14:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French government to extend fuel aid measures into May",
+      "title": "Trump's security under scrutiny after shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260427-trump-s-security-under-scrutiny-after-shooting",
+      "published_date": "2026-04-27T10:12:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US woman speaks of ordeal in France Al-Fayed trafficking probe",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260421/french-government-to-extend-fuel-aid-measures-into-may",
-      "published_date": "2026-04-21T07:15:36+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20260427/us-woman-speaks-of-ordeal-in-france-al-fayed-trafficking-probe",
+      "published_date": "2026-04-27T09:35:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South-west France to begin suspending licences of drivers caught on phone",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260427/south-west-france-to-begin-suspending-licences-of-drivers-caught-on-phone",
+      "published_date": "2026-04-27T09:12:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French city to release 200,000 sterile male mosquitos",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260427/french-city-to-release-200000-sterile-male-mosquitos",
+      "published_date": "2026-04-27T08:06:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French prison guards call for strike action as overcrowding crisis deepens",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260427-french-prison-guards-call-for-strike-action-as-overcrowding-crisis-deepens",
+      "published_date": "2026-04-27T07:12:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pro-Palestine activists face trial for attack on Israeli arms factory in Germany",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/27/pro-palestine-activists-face-trial-attack-israel-arms-factory-germany",
+      "published_date": "2026-04-27T04:00:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria begins first trial of Bashar al-Assad and allies after his ouster",
@@ -652,55 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260425/france-charges-policeman-suspected-of-breaking-womans-skull",
       "published_date": "2026-04-25T13:20:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roland-Garros: defending champion Carlos Alcaraz forced to withdraw",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260425-roland-garros-defending-champion-carlos-alcaraz-forced-to-withdraw",
-      "published_date": "2026-04-25T12:26:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elections in West Bank: ‘Barometer’ on Palestinian public opinion",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/elections-in-west-bank-barometer-on-palestinian-public-opinion",
-      "published_date": "2026-04-25T11:38:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven dead in major Russian attack on Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T10:24:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palermo ‘honoured’ by rumours Dua Lipa and Callum Turner might marry there in June",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/apr/25/palermo-honoured-by-rumours-dua-lipa-and-callum-turner-might-marry-there-in-june",
-      "published_date": "2026-04-25T10:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Dire humanitarian crisis': Hundreds of thousands displaced in Ethiopia's Tigray",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/dire-humanitarian-crisis-hundreds-of-thousands-displaced-in-ethiopia-s-tigray",
-      "published_date": "2026-04-25T09:56:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French teen gets 15-year jail term for killing teacher",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260425/french-teen-gets-15-year-jail-term-for-killing-teacher",
-      "published_date": "2026-04-25T09:55:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru police raid ex-election chief’s home amid widening probe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/peru-police-raid-ex-election-chief-s-home-amid-widening-probe",
-      "published_date": "2026-04-25T09:33:55+00:00",
       "category": "Local Events"
     }
   ]
