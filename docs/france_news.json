@@ -1,8 +1,71 @@
 {
   "country": "France",
-  "last_updated": "2026-04-27T12:18:42.012878+00:00",
+  "last_updated": "2026-04-27T23:51:10.401609+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Musk vs Altman: two tech mavericks go head to head in OpenAI trial",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260427-musk-vs-altman-two-tech-mavericks-go-head-to-head-in-openai-trial",
+      "published_date": "2026-04-27T20:33:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mali's tale of two insurgencies: 'Jihadists seek caliphate while Tuareg rebels pursue autonomy'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260427-mali-s-tale-of-two-insurgencies-jihadists-seek-caliphate-while-tuareg-rebels-pursue-autonomy",
+      "published_date": "2026-04-27T20:30:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Insurgent alliance strikes at heart of Mali’s junta, exposing limits of Russian protection",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260427-insurgent-alliance-strikes-heart-mali-military-junta-exposing-limits-russian-protection",
+      "published_date": "2026-04-27T18:26:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nuclear non-proliferation treaty is 'eroding', UN chief warns at start of summit",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260427-nuclear-non-proliferation-treaty-is-eroding-un-chief-warns-at-start-of-summit",
+      "published_date": "2026-04-27T15:47:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran blames US for failure of talks as FM meets with Putin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260427-iran-blames-us-for-failure-of-talks-as-fm-meets-with-putin",
+      "published_date": "2026-04-27T15:10:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK, EU 'push back strongly' on US foreign policy: Will Charles' visit 'soften' transatlantic divide?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-eu-push-back-strongly-on-us-foreign-policy-will-charles-visit-soften-transatlantic-divide",
+      "published_date": "2026-04-27T14:45:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "British MPs vote on whether to probe PM Starmer over Mandelson hire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260427-british-mps-vote-on-whether-to-probe-pm-starmer-over-mandelson-hire",
+      "published_date": "2026-04-27T14:17:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Americans in France: Planning for summer travel and the Trump effect",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260427/americans-in-france-planning-for-summer-travel-and-the-trump-effect",
+      "published_date": "2026-04-27T13:23:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pro-choice campaigners in Malta create lockboxes containing abortion pills",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/27/pro-choice-campaign-malta-lockboxes-containing-abortion-pills",
+      "published_date": "2026-04-27T12:33:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Odesa bears brunt of latest Russian attacks on Ukraine – Europe live",
       "source": "The Guardian",
@@ -81,67 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran rules out talks with US unless blockade of ports lifted",
+      "title": "Suspect in press gala shooting charged with attempted assassination of Trump",
       "source": "France 24",
-      "url": "https://www.france24.com/en/iran-rules-out-talks-with-us-unless-blockade-of-ports-lifted",
-      "published_date": "2026-04-25T14:02:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20260427-suspect-in-press-gala-shooting-charged-with-attempted-assassination-of-trump",
+      "published_date": "2026-04-27T19:41:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Elections in West Bank provide 'credibility to Palestinian sovereignty', expert says",
+      "title": "Who are the Russian mercenaries operating in Mali?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/elections-in-west-bank-provide-credibility-to-palestinian-sovereignty-expert-says",
-      "published_date": "2026-04-25T12:47:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260427-who-are-the-russian-mercenaries-operating-in-mali",
+      "published_date": "2026-04-27T15:32:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "RAF Typhoons scrambled in response to Russian drone threat near Nato airspace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/25/raf-typhoons-scrambled-russia-drone-nato-romania-ukraine",
-      "published_date": "2026-04-25T09:57:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron bands Trump with Putin, Xi as 'dead against' Europe",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260425/macron-bands-trump-with-putin-xi-as-dead-against-europe",
-      "published_date": "2026-04-25T07:12:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Middle East war live: US envoys expected in Islamabad as Iran rules out direct talks",
+      "title": "Global military spending rises 2.9% to $2.89 trillion",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260425-middle-east-war-live-us-envoys-expected-in-islamabad-as-iran-rules-out-direct-talks",
-      "published_date": "2026-04-25T05:13:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260427-global-military-spending-rises-2-9-to-2-89-trillion",
+      "published_date": "2026-04-27T14:57:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T00:10:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's FM Araghchi arrives in Pakistan ahead of planned US ceasefire talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260424-iran-fm-araghchi-arrives-in-pakistan-ahead-of-planned-us-ceasefire-talks",
-      "published_date": "2026-04-24T21:01:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mandelson under formal investigation by EU's anti-fraud office",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-24T16:18:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sanchez brushes off reported Pentagon email mulling suspending Spain's NATO membership",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260424-sanchez-brushes-off-reported-pentagon-email-mulling-suspending-spain-s-nato-membership",
-      "published_date": "2026-04-24T15:57:31+00:00",
-      "category": "Diplomacy"
+      "title": "Mali plunged into uncertainty following coordinated attacks on junta",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260427-mali-plunged-into-uncertainty-following-coordinated-attacks-on-junta",
+      "published_date": "2026-04-27T13:28:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel, Hezbollah trade accusations over Lebanon truce violations",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Chernobyl, 40 years on: the disaster that triggered the downfall of a superpower",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260426-chernobyl-40-years-on-the-disaster-that-triggered-the-downfall-of-a-superpower-ussr",
-      "published_date": "2026-04-26T16:30:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trickle-down impacts of Middle East war, from pistachios, to copper, to leather",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260426-trickle-down-impacts-of-middle-east-war-from-pistachios-to-copper-to-leather",
-      "published_date": "2026-04-26T16:03:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey steps up as  Europe's indispensable and uncomfortable defence partner",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260426-turkey-steps-up-as-europe-s-indispensable-and-uncomfortable-defence-partner",
-      "published_date": "2026-04-26T15:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian mercenaries in Mali: Limited gains, reports of abuse",
+      "title": "'We represent a new force': Nearly 60 nations push ahead with fossil fuel exit",
       "source": "France 24",
-      "url": "https://www.france24.com/en/new-fighting-erupts-in-mali-russian-forces-make-little-gains",
-      "published_date": "2026-04-26T14:33:09+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260427-we-represent-a-new-force-nearly-60-nations-push-ahead-with-fossil-fuel-exit",
+      "published_date": "2026-04-27T14:28:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "Amsterdam becomes world's first capital to ban fossil fuel ads",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "French activists sue ‘deceptive’ laughing gas suppliers",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260422/french-activists-sue-deceptive-laughing-gas-suppliers",
-      "published_date": "2026-04-22T11:18:47+00:00",
-      "category": "Energy"
+      "title": "Culture of hate? Trump's America and the White House press gala shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260427-culture-of-hate-trump-s-america-and-the-white-house-press-gala-shooting",
+      "published_date": "2026-04-27T19:18:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU faces ‘China shock’ as EV imports drive Beijing’s record surplus with bloc",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/27/eu-faces-china-shock-as-ev-imports-drive-beijings-record-surplus-with-bloc",
+      "published_date": "2026-04-27T16:08:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Venice opera house fires government-linked music director after months of protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/apr/27/venice-opera-house-fires-incoming-music-director-who-made-nepotism-claims",
+      "published_date": "2026-04-27T12:19:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "Orbán may be gone, but his prejudices are now baked into the European political mainstream | Shada Islam",
@@ -543,25 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "France freezes some spending to offset €6 billion fallout from Iran war",
+      "title": "US 'used to' school shootings: Gun violence 'inevitably turned to the political arena as well'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260421-france-freezes-some-spending-to-offset-%E2%82%AC6-billion-fallout-from-iran-war",
-      "published_date": "2026-04-21T21:04:02+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/us-used-to-school-shootings-gun-violence-inevitably-turned-to-the-political-arena-as-well",
+      "published_date": "2026-04-27T17:54:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why France’s far right is dining with the country’s business elite",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260421-why-france-far-right-dining-with-business-elite",
-      "published_date": "2026-04-21T16:11:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK agriculture deal with EU will not remove all red tape, peers told",
+      "title": "German tourist dies after being bitten at snake show on family holiday in Egypt",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/21/uk-eu-close-iagricultural-deal-brexit",
-      "published_date": "2026-04-21T15:44:43+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/apr/27/german-tourist-dies-bite-snake-show-holiday-egypt",
+      "published_date": "2026-04-27T17:26:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venice opera house drops incoming music director after nepotism remarks",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-27T17:13:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French presidential hopefuls share details of love lives ahead of race",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260427-french-presidential-hopefuls-share-details-of-love-lives-ahead-of-race",
+      "published_date": "2026-04-27T16:58:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian fighters confirm withdrawal from northern Mali city after separatist attacks",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-27T16:26:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court hands rapper suspended term for 'defending terrorism'",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260427/french-court-hands-rapper-suspended-term-for-defending-terrorism",
+      "published_date": "2026-04-27T15:46:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria tries prominent Assad-era security official",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260427-syria-tries-prominent-assad-era-security-official",
+      "published_date": "2026-04-27T15:34:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First forest fire of the year breaks out in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260427/first-forest-fire-of-the-year-breaks-out-in-france",
+      "published_date": "2026-04-27T15:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "REVEALED: Top French destinations for gastronomic tourism",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260427/revealed-top-french-destinations-for-gastronomic-tourism",
+      "published_date": "2026-04-27T14:58:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians in Gaza’s Deir al-Balah elect local leaders in first election in two decades",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260427-palestinians-in-gaza-s-deir-al-balah-elect-local-leaders-in-first-election-in-two-decades",
+      "published_date": "2026-04-27T14:56:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Start date set for new Paris airport link",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260427/start-date-set-for-new-paris-airport-link",
+      "published_date": "2026-04-27T14:24:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Street battles and withdrawal of Russian mercenaries: Inside the 48-hour fall of Mali’s Kidal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260427-street-battles-withdrawal-russian-mercenaries-inside-48-hour-fall-mali-kidal",
+      "published_date": "2026-04-27T14:09:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Traps, sprays and sterilisation: How France is dealing with its mosquito problem",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260427/traps-sprays-and-sterilisation-how-france-is-dealing-with-its-mosquito-problem",
+      "published_date": "2026-04-27T12:30:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'This keeps happening': US press gala shooting latest sign of rising political violence",
@@ -610,97 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/27/pro-palestine-activists-face-trial-attack-israel-arms-factory-germany",
       "published_date": "2026-04-27T04:00:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria begins first trial of Bashar al-Assad and allies after his ouster",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260426-syria-first-trial-bashar-al-assad-allies-ouster",
-      "published_date": "2026-04-26T21:52:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Final steps taken before audacious plan to tow whale stranded in Germany to North Sea",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/26/final-steps-audacious-plan-tow-whale-stranded-germany-north-sea-timmy",
-      "published_date": "2026-04-26T16:46:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week in pictures: Trump evacuated at media dinner, Leo XIV in Africa and robots race in Beijing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260426-the-week-in-pictures-trump-evacuated-at-media-dinner-leo-xiv-in-africa-and-robots-race-in-beijing",
-      "published_date": "2026-04-26T14:45:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump turns assassination attempts into 'political rocket fuel'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/president-trump-safe-after-gunfire-at-press-event-in-washington-d-c",
-      "published_date": "2026-04-26T14:29:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Look back in Angers: PSG boss Enrique hails focus ahead of Champions League tie",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260426-look-back-in-angers-psg-boss-enrique-hails-focus-ahead-of-champions-league-tie",
-      "published_date": "2026-04-26T11:46:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bus blast in Colombia kills 13 amid rising violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/bus-blast-in-colombia-kills-13-amid-rising-violence",
-      "published_date": "2026-04-26T09:45:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we know about the suspect in White House press dinner shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/what-we-know-about-the-suspect-in-white-house-press-dinner-shooting",
-      "published_date": "2026-04-26T09:41:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oink-Off in Estonia: Pig contest highlights farming struggles",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/oink-off-in-estonia-pig-contest-highlights-farming-struggles",
-      "published_date": "2026-04-26T09:20:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LA teacher suspect for White House press dinner shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/la-teacher-suspect-for-white-house-press-dinner-shooting",
-      "published_date": "2026-04-26T09:02:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tibetans-in-exile vote for new government as future without Dalai Lama looms",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260426-exiled-tibetans-elect-government-vote-condemned-china",
-      "published_date": "2026-04-26T03:46:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Festive mood in West Bank as local elections underway",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/festive-mood-in-west-bank-as-local-elections-underway",
-      "published_date": "2026-04-25T15:36:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delon, a dead body and a Corsican gangster: new book unravels the Markovic Affair",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260425-delon-a-dead-body-and-a-corsican-gangster-new-book-unravels-the-markovic-affair-murder-in-paris-68",
-      "published_date": "2026-04-25T13:53:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France charges policeman suspected of breaking woman's skull",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260425/france-charges-policeman-suspected-of-breaking-womans-skull",
-      "published_date": "2026-04-25T13:20:05+00:00",
       "category": "Local Events"
     }
   ]
