@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-04-27T23:51:10.401609+00:00",
+  "last_updated": "2026-04-28T12:21:56.383771+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Macron's 'nutcase' jibe sparks Algeria row with Retailleau ahead of 2027 vote",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260428-macron-s-nutcase-jibe-sparks-algeria-row-with-retailleau-ahead-of-2027-vote",
+      "published_date": "2026-04-28T12:06:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU anti-waste law: New laptops sold in Europe must now use USB-C chargers",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260428/eu-anti-waste-law-new-laptops-sold-in-europe-must-now-use-usb-c-chargers",
+      "published_date": "2026-04-28T10:16:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Diplomatic challenge': King Charles to meet Trump, address Congress in bid to spotlight UK-US ties",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260428-diplomatic-challenge-king-charles-to-meet-trump-address-congress-in-bid-to-spotlight-uk-us-ties",
+      "published_date": "2026-04-28T10:03:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two French alpinists break Mont Blanc speed climbing record",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260428-two-french-alpinists-break-mont-blanc-speed-climbing-record",
+      "published_date": "2026-04-28T09:35:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Colombia conference aims for ‘more honest conversation' to speed fossil fuel exit",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260428-colombia-talks-strive-for-a-coalition-of-the-willing-to-speed-fossil-fuel-exit-climate",
+      "published_date": "2026-04-28T06:09:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Media freedom ‘under sustained attack’ across EU as public trust drops, report finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/apr/28/media-freedom-under-sustained-attack-across-eu-as-public-trust-drops-report-finds",
+      "published_date": "2026-04-28T05:00:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Musk vs Altman: two tech mavericks go head to head in OpenAI trial",
       "source": "France 24",
@@ -102,46 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran’s top diplomat leaves Pakistan for Russia, Trump says Tehran can talk by phone",
+      "title": "'Israel destroyed houses, roads, even trees': People return to destruction in southern Lebanon",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260426-iran-top-diplomat-pakistan-russia-oman-trump-says-tehran-talk-phone",
-      "published_date": "2026-04-26T19:32:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260428-israel-destroyed-houses-roads-trees-people-returning-southern-lebanon",
+      "published_date": "2026-04-28T12:12:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "France's Macron joins world leaders in support of Trump after gun attack at gala",
+      "title": "Life in Tehran since the ceasefire: How Iranian society is evolving",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260428-life-in-tehran-since-the-ceasefire-how-iranian-society-is-evolving",
+      "published_date": "2026-04-28T12:06:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Malian official accuses Russian forces of 'betrayal' after Kidal falls to rebels",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260426-france-s-macron-joins-world-leaders-in-support-of-trump-after-gun-attack-at-gala",
-      "published_date": "2026-04-26T10:17:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260428-malian-official-accuses-russian-forces-of-betrayal-after-kidal-falls-to-rebels",
+      "published_date": "2026-04-28T11:02:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "🔴 Live: France's Macron says shooter attack at Trump media dinner 'unacceptable'",
+      "title": "US startups explore genome editing in human embryos, raising ethical concerns",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260426-live-trump-shooting-white-house-correspondents-dinner",
-      "published_date": "2026-04-26T09:12:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260428-us-startups-explore-genome-editing-in-human-embryos-raising-ethical-concerns",
+      "published_date": "2026-04-28T10:45:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Middle East war live: Iran's FM to return to Pakistan for talks as US envoys cancel visit",
+      "title": "Who is Iyad Ag Ghali, Mali’s most wanted man?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260426-middle-east-war-live-iran-s-fm-to-return-to-pakistan-for-talks-as-us-envoys-cancel-visit",
-      "published_date": "2026-04-26T05:13:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260428-who-is-iyad-ag-ghali-mali-s-most-wanted-man",
+      "published_date": "2026-04-28T10:08:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron says EU’s mutual defence clause ‘not just words’",
+      "title": "Budget airlines first to cut flights as jet fuel prices soar",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260428-budget-airlines-first-to-cut-flights-as-jet-fuel-prices-soar",
+      "published_date": "2026-04-28T10:01:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260428-iran-offers-to-reopen-strait-of-hormuz-if-us-lifts-its-blockade-and-the-war-ends",
+      "published_date": "2026-04-28T09:34:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tuareg rebels and jihadists in control of key Mali town after offensive",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260428-tuareg-rebels-and-jihadists-in-control-of-key-mali-town-after-offensive",
+      "published_date": "2026-04-28T09:31:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Britain's King Charles meets Trump in bid to salvage ties",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260428-britain-s-king-charles-meets-trump-in-bid-to-salvage-ties",
+      "published_date": "2026-04-28T09:29:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe's budget airlines first to cut flights as jet fuel prices soar",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260428/budget-airlines-first-to-cut-flights-as-jet-fuel-prices-soar",
+      "published_date": "2026-04-28T06:39:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: World airlines body chief warns of possible jet fuel shortage this summer",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260428-middle-east-war-live-trump-not-happy-with-iran-s-latest-peace-proposal-us-official-says",
+      "published_date": "2026-04-28T05:02:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Giorgia Meloni clung to her relationship with Trump – now it’s starting to look like a liability | Riccardo Alcaro",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/25/macron-says-eus-mutual-defence-clause-not-just-words",
-      "published_date": "2026-04-25T19:10:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/28/giorgia-meloni-donald-trump-italian-prime-minister-europe-us-iran-war",
+      "published_date": "2026-04-28T04:00:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "France's Macron tells Greek PM Mitsotakis: 'We will be by your side'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260425-france-s-macron-tells-greek-pm-mitsotakis-we-will-be-by-your-side",
-      "published_date": "2026-04-25T15:57:38+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Arrests over Russian GRU-linked murder plots in Lithuania",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/28/ukraine-war-briefing-arrests-russian-gru-linked-plots-lithuania",
+      "published_date": "2026-04-28T01:01:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Suspect in press gala shooting charged with attempted assassination of Trump",
@@ -190,97 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260427-musk-and-openai-ceo-altman-head-to-court-in-high-stakes-showdown-over-ai",
       "published_date": "2026-04-27T10:16:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-27T10:04:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill 14 in Lebanon despite ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260427-israeli-strikes-kill-14-in-lebanon-despite-ceasefire",
-      "published_date": "2026-04-27T10:02:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali defence minister killed as jihadis and rebels launch major assault",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260427-mali-defence-minister-killed-as-jihadis-and-rebels-launch-major-assault",
-      "published_date": "2026-04-27T09:53:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "King Charles' visit to US goes ahead despite Washington shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260427-king-charles-visit-to-us-goes-ahead-despite-washington-shooting",
-      "published_date": "2026-04-27T09:08:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Unable to cope': Malian army, Wagner 'overstretched' by Tuareg separatists and jihadist militants",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/unable-to-cope-malian-army-wagner-overstretched-by-tuareg-separatists-and-jihadist-militants",
-      "published_date": "2026-04-27T08:10:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali's defence minister Camara killed in rebel assault on residential compound",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260427-mali-s-defence-minister-camara-killed-in-rebel-assault-on-residential-compound",
-      "published_date": "2026-04-27T06:22:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kim reaffirms North Korean support for Russia's 'sacred' Ukraine war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260427-kim-jong-un-reaffirms-north-korea-s-support-for-russia-s-sacred-ukraine-war",
-      "published_date": "2026-04-27T05:51:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: Lebanon’s Aoun says will not accept 'humiliating' deal in Israel talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260427-middle-east-war-live-putin-iran-foreign-minister-us-iran-talks",
-      "published_date": "2026-04-27T02:45:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Elon Musk’s lawsuit against OpenAI over nonprofit claims heads to trial",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260427-elon-musk-s-lawsuit-against-openai-over-nonprofit-claims-heads-to-trial",
-      "published_date": "2026-04-27T01:51:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "King Charles III begins US visit despite press gala shooting, transatlantic tensions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260427-king-charles-iii-begins-four-day-us-visit-despite-shooting",
-      "published_date": "2026-04-27T01:23:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kim Jong-un strengthens military ties with Russia and hails soldiers who fought in Kursk",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/27/ukraine-war-briefing-kim-jong-un-north-korea-russia-military-agreement",
-      "published_date": "2026-04-27T00:32:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Global military spending hits record $2.9 trillion in 2025 amid growing insecurity",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/economy/20260426-global-military-spending-record-2-9-trillion-2025-growing-insecurity",
-      "published_date": "2026-04-26T22:33:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Chernobyl: Two Takes, Then & Now. On the Ground 40 years on",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260426-chernobyl-two-takes-then-now-on-the-ground-40-years-on",
-      "published_date": "2026-04-26T17:59:59+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "French scale back holiday plans amid global tensions and inflation",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260428-french-scale-back-holiday-plans-amid-global-tensions-and-inflation-ifop-survey",
+      "published_date": "2026-04-28T11:46:45+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Culture of hate? Trump's America and the White House press gala shooting",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260427-culture-of-hate-trump-s-america-and-the-white-house-press-gala-shooting",
@@ -557,11 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "Iran's workers face waves of layoffs as war batters domestic economy",
+      "title": "Austrian man pleads guilty to plotting attack on Taylor Swift concert in Vienna",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/apr/28/austrian-man-goes-on-trial-for-2024-taylor-swift-concert-terror-plot",
+      "published_date": "2026-04-28T10:36:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barge rescue attempt for Timmy the whale in Germany gets go-ahead",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/28/timmy-whale-barge-rescue-attempt-germany",
+      "published_date": "2026-04-28T10:22:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man admits plotting attack on Taylor Swift concert in Vienna",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T10:08:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Accused media gala gunman charged with attempting to assassinate Trump",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260422-iran-s-workers-face-waves-of-layoffs-as-war-batters-domestic-economy",
-      "published_date": "2026-04-22T10:58:57+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260428-accused-media-gala-gunman-charged-with-attempting-to-assassinate-trump",
+      "published_date": "2026-04-28T10:02:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wild Foxes review – animal-obsessed fighter at elite sports academy wonders if more to life than boxing",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/28/wild-foxes-review-animal-obsessed-fighter-at-elite-sports-academy-wonders-if-more-to-life-than-boxing",
+      "published_date": "2026-04-28T10:00:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian Crans-Montana victims angered over Swiss hospital bills",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260428-italian-crans-montana-victims-angered-over-swiss-hospital-bills",
+      "published_date": "2026-04-28T09:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Musk lawsuit against OpenAI 'more about corporate strategy than any philosophical or ethical moves'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/musk-lawsuit-against-openai-more-about-corporate-strategy-than-any-philosophical-or-ethical-moves",
+      "published_date": "2026-04-28T09:12:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South-west France brings in water restrictions",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260428/south-west-france-brings-in-water-restrictions",
+      "published_date": "2026-04-28T08:36:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gunmen kill at least 29 in northeast Nigeria after targeting young people at football pitch",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260428-gunmen-kill-at-least-29-northeast-nigeria-after-targeting-young-people-football-pitch",
+      "published_date": "2026-04-28T08:08:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League: 'Best teams in Europe' face off in semi-final clash",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260428-champions-league-best-teams-in-europe-face-off-semifinal-clash",
+      "published_date": "2026-04-28T05:42:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australia targets tech giants with levy unless they pay local news outlets",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260428-australia-targets-tech-giants-with-levy-unless-they-pay-for-local-news",
+      "published_date": "2026-04-28T03:00:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US 'used to' school shootings: Gun violence 'inevitably turned to the political arena as well'",
@@ -624,83 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260427/revealed-top-french-destinations-for-gastronomic-tourism",
       "published_date": "2026-04-27T14:58:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians in Gaza’s Deir al-Balah elect local leaders in first election in two decades",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260427-palestinians-in-gaza-s-deir-al-balah-elect-local-leaders-in-first-election-in-two-decades",
-      "published_date": "2026-04-27T14:56:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Start date set for new Paris airport link",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260427/start-date-set-for-new-paris-airport-link",
-      "published_date": "2026-04-27T14:24:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Street battles and withdrawal of Russian mercenaries: Inside the 48-hour fall of Mali’s Kidal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260427-street-battles-withdrawal-russian-mercenaries-inside-48-hour-fall-mali-kidal",
-      "published_date": "2026-04-27T14:09:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Traps, sprays and sterilisation: How France is dealing with its mosquito problem",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260427/traps-sprays-and-sterilisation-how-france-is-dealing-with-its-mosquito-problem",
-      "published_date": "2026-04-27T12:30:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'This keeps happening': US press gala shooting latest sign of rising political violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260427-this-keeps-happening-us-press-gala-shooting-latest-sign-of-rising-political-violence",
-      "published_date": "2026-04-27T10:14:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump's security under scrutiny after shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260427-trump-s-security-under-scrutiny-after-shooting",
-      "published_date": "2026-04-27T10:12:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US woman speaks of ordeal in France Al-Fayed trafficking probe",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260427/us-woman-speaks-of-ordeal-in-france-al-fayed-trafficking-probe",
-      "published_date": "2026-04-27T09:35:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South-west France to begin suspending licences of drivers caught on phone",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260427/south-west-france-to-begin-suspending-licences-of-drivers-caught-on-phone",
-      "published_date": "2026-04-27T09:12:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French city to release 200,000 sterile male mosquitos",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260427/french-city-to-release-200000-sterile-male-mosquitos",
-      "published_date": "2026-04-27T08:06:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French prison guards call for strike action as overcrowding crisis deepens",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260427-french-prison-guards-call-for-strike-action-as-overcrowding-crisis-deepens",
-      "published_date": "2026-04-27T07:12:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Palestine activists face trial for attack on Israeli arms factory in Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/27/pro-palestine-activists-face-trial-attack-israel-arms-factory-germany",
-      "published_date": "2026-04-27T04:00:35+00:00",
       "category": "Local Events"
     }
   ]
