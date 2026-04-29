@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-04-28T23:53:00.022781+00:00",
-  "story_count": 100,
+  "last_updated": "2026-04-29T12:14:28.376028+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "EU farmers and hauliers to get up to €50,000 to cover extra costs of Iran war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/29/eu-farmers-hauliers-fishing-subsidies-up-to-50000-fuel-fertiliser-iran-war",
+      "published_date": "2026-04-29T12:10:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Consequences of Iran war ‘may echo for months or years to come,’ EU chief warns – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/29/europe-iran-hungary-russia-ukraine-eu-latest-news-updates",
+      "published_date": "2026-04-29T11:47:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Decline' in press freedom: EU media landscape 'more concentrated, less transparent & less trusted'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/decline-in-press-freedom-eu-media-landscape-more-concentrated-less-transparent-less-trusted",
+      "published_date": "2026-04-29T11:23:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Meta found in breach of EU law for failing to keep children off platforms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/apr/29/meta-found-in-breach-of-eu-law-for-failing-to-keep-children-off-platforms",
+      "published_date": "2026-04-29T09:29:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Charles highlights US-UK bond during busy day of diplomacy with Trump and Congress",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260429-king-charles-highlights-us-uk-bond-during-busy-day-of-diplomacy-with-trump-and-congress",
+      "published_date": "2026-04-29T09:27:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU and Hungary open talks on reforms to release €17bn in frozen funds",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260429-eu-hungary-open-talks-on-reforms-to-release-%E2%82%AC17bn-in-frozen-funds-magyar-orban",
+      "published_date": "2026-04-29T06:14:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'When media freedom goes, the rest is not far behind', campaigner says",
       "source": "France 24",
@@ -102,46 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Musk vs Altman: two tech mavericks go head to head in OpenAI trial",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260427-musk-vs-altman-two-tech-mavericks-go-head-to-head-in-openai-trial",
-      "published_date": "2026-04-27T20:33:40+00:00",
-      "category": "Diplomacy"
+      "title": "Kim praises North Korean soldiers who blew themselves up to evade Ukraine capture",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/29/kim-north-korea-soldiers-blow-themselves-up-ukraine",
+      "published_date": "2026-04-29T11:34:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Mali's tale of two insurgencies: 'Jihadists seek caliphate while Tuareg rebels pursue autonomy'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260427-mali-s-tale-of-two-insurgencies-jihadists-seek-caliphate-while-tuareg-rebels-pursue-autonomy",
-      "published_date": "2026-04-27T20:30:47+00:00",
-      "category": "Diplomacy"
+      "title": "Russia to hold Victory Day parade with no military hardware amid Ukraine strike fears",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/29/russia-to-scale-back-victory-day-parade-as-ukraine-extends-its-drone-attacks",
+      "published_date": "2026-04-29T10:39:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Insurgent alliance strikes at heart of Mali’s junta, exposing limits of Russian protection",
+      "title": "Airlines worldwide cancel flights, raise fares amid Middle East conflict",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260427-insurgent-alliance-strikes-heart-mali-military-junta-exposing-limits-russian-protection",
-      "published_date": "2026-04-27T18:26:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260429-airlines-worldwide-cancel-flights-raise-fares-amid-middle-east-conflict",
+      "published_date": "2026-04-29T09:35:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nuclear non-proliferation treaty is 'eroding', UN chief warns at start of summit",
+      "title": "King Charles, Trump toast ties despite Iran tensions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260429-king-charles-trump-toast-ties-despite-iran-tensions",
+      "published_date": "2026-04-29T09:34:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali's embattled junta chief says situation 'under control'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260429-mali-s-embattled-junta-chief-says-situation-under-control",
+      "published_date": "2026-04-29T09:32:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes kill 8 in Lebanon: Violence continues despite ongoing ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260429-israeli-strikes-kill-8-in-lebanon-violence-continues-despite-ongoing-ceasefire",
+      "published_date": "2026-04-29T09:28:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Inside France’s role in countering Iranian drone and missile attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260429-inside-france-s-role-in-countering-iranian-drone-and-missile-attacks",
+      "published_date": "2026-04-29T09:25:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France urges its citizens to quit Mali as junta faces major rebel threat",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260427-nuclear-non-proliferation-treaty-is-eroding-un-chief-warns-at-start-of-summit",
-      "published_date": "2026-04-27T15:47:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260429-mali-s-junta-chief-says-situation-under-control-urges-citizens-not-to-panic",
+      "published_date": "2026-04-29T07:26:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran blames US for failure of talks as FM meets with Putin",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260427-iran-blames-us-for-failure-of-talks-as-fm-meets-with-putin",
-      "published_date": "2026-04-27T15:10:23+00:00",
-      "category": "Diplomacy"
+      "title": "OPINION: A second French presidency for François Hollande? Really?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260429/opinion-a-second-french-presidency-for-francois-hollande-really",
+      "published_date": "2026-04-29T07:15:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK, EU 'push back strongly' on US foreign policy: Will Charles' visit 'soften' transatlantic divide?",
+      "title": "'Over-dependence on military solutions: Mali struggling in its effort to regain peace and security'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/uk-eu-push-back-strongly-on-us-foreign-policy-will-charles-visit-soften-transatlantic-divide",
-      "published_date": "2026-04-27T14:45:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260429-over-dependence-on-military-solutions-mali-struggling-in-its-effort-to-regain-peace-and-security",
+      "published_date": "2026-04-29T06:51:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Births, deaths and a first kiss: life near the frontline in Ukraine – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/29/wet-ground-by-aria-shahrokhshahi-ukraine",
+      "published_date": "2026-04-29T06:00:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-29T01:47:51+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran talks stall amid Hormuz tensions and ceasefire violations in Lebanon",
@@ -155,6 +239,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/africa/20260428-mali-junta-leader-vows-crackdown-after-insurgent-attacks-shake-bamako-and-north",
       "published_date": "2026-04-28T22:16:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Watch: Elderly woman rescued by robot from Ukraine's frontline",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cpqpjw1zdvjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T21:58:17+00:00",
       "category": "Military"
     },
     {
@@ -186,102 +277,46 @@
       "category": "Military"
     },
     {
-      "title": "King Charles to promote British-American unity in speech to Congress",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-king-charles-to-promote-british-american-unity-in-speech-to-congress",
-      "published_date": "2026-04-28T15:30:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French high-tech mission reveals secrets of 16th-century shipwreck",
+      "title": "King Charles and Trump toast ties despite Iran tensions",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260428-french-high-tech-mission-reveals-secrets-of-16th-century-shipwreck",
-      "published_date": "2026-04-28T14:31:27+00:00",
+      "url": "https://www.rfi.fr/en/international/20260428-king-charles-and-trump-toast-ties-despite-iran-tensions",
+      "published_date": "2026-04-28T15:44:15+00:00",
       "category": "Military"
     },
     {
-      "title": "'Israel destroyed houses, roads, even trees': People return to destruction in southern Lebanon",
+      "title": "United Arab Emirates will leave OPEC in a blow to the oil cartel",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260428-israel-destroyed-houses-roads-trees-people-returning-southern-lebanon",
-      "published_date": "2026-04-28T12:12:34+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260429-united-arab-emirates-will-leave-opec-in-a-blow-to-the-oil-cartel",
+      "published_date": "2026-04-29T09:31:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Life in Tehran since the ceasefire: How Iranian society is evolving",
+      "title": "Why is the UAE choosing to leave OPEC?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260428-life-in-tehran-since-the-ceasefire-how-iranian-society-is-evolving",
-      "published_date": "2026-04-28T12:06:03+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/business/20260429-why-is-the-uae-choosing-to-leave-opec",
+      "published_date": "2026-04-29T09:24:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Malian official accuses Russian forces of 'betrayal' after Kidal falls to rebels",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260428-malian-official-accuses-russian-forces-of-betrayal-after-kidal-falls-to-rebels",
-      "published_date": "2026-04-28T11:02:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US startups explore genome editing in human embryos, raising ethical concerns",
+      "title": "From the oceans into our bodies: Plastic pollution 'associated with obesity and dementia'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260428-us-startups-explore-genome-editing-in-human-embryos-raising-ethical-concerns",
-      "published_date": "2026-04-28T10:45:51+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260429-from-the-oceans-into-our-bodies-plastic-pollution-associated-with-obesity-and-dementia",
+      "published_date": "2026-04-29T07:10:34+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Who is Iyad Ag Ghali, Mali’s most wanted man?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-who-is-iyad-ag-ghali-mali-s-most-wanted-man",
-      "published_date": "2026-04-28T10:08:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Budget airlines first to cut flights as jet fuel prices soar",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-budget-airlines-first-to-cut-flights-as-jet-fuel-prices-soar",
-      "published_date": "2026-04-28T10:01:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-iran-offers-to-reopen-strait-of-hormuz-if-us-lifts-its-blockade-and-the-war-ends",
-      "published_date": "2026-04-28T09:34:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tuareg rebels and jihadists in control of key Mali town after offensive",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-tuareg-rebels-and-jihadists-in-control-of-key-mali-town-after-offensive",
-      "published_date": "2026-04-28T09:31:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Britain's King Charles meets Trump in bid to salvage ties",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-britain-s-king-charles-meets-trump-in-bid-to-salvage-ties",
-      "published_date": "2026-04-28T09:29:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe's budget airlines first to cut flights as jet fuel prices soar",
+      "title": "France unveils plan to ditch all fossil fuels by 2050",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260428/budget-airlines-first-to-cut-flights-as-jet-fuel-prices-soar",
-      "published_date": "2026-04-28T06:39:16+00:00",
-      "category": "Military"
+      "url": "https://www.thelocal.fr/20260429/france-unveils-plan-to-ditch-all-fossil-fuels-by-2050",
+      "published_date": "2026-04-29T07:06:48+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Middle East war live: World airlines body chief warns of possible jet fuel shortage this summer",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260428-middle-east-war-live-trump-not-happy-with-iran-s-latest-peace-proposal-us-official-says",
-      "published_date": "2026-04-28T05:02:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Giorgia Meloni clung to her relationship with Trump – now it’s starting to look like a liability | Riccardo Alcaro",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/28/giorgia-meloni-donald-trump-italian-prime-minister-europe-us-iran-war",
-      "published_date": "2026-04-28T04:00:41+00:00",
-      "category": "Military"
+      "title": "France unveils roadmap to ditch all fossil fuels by 2050",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260429-france-unveils-roadmap-to-ditch-all-fossil-fuels-by-2050",
+      "published_date": "2026-04-29T01:08:20+00:00",
+      "category": "Energy"
     },
     {
       "title": "UAE OPEC departure 'a manifestation of dissatisfaction vis à vis Saudi Arabia', expert says",
@@ -386,41 +421,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
       "published_date": "2026-04-24T05:00:32+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Europe is in a profound state of crisis. Luckily, we know what to do | Nathalie Tocci and Anu Bradford",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/24/europe-profound-state-of-crisis-assess-threats-remedy",
-      "published_date": "2026-04-24T04:00:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "With travel chaos looming, Brittany Ferries vows no price hikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/with-travel-chaos-looming-brittany-ferries-vows-no-price-hikes",
-      "published_date": "2026-04-23T20:49:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Washington uses Iraq's own oil money to bend Baghdad to its will",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260423-washington-uses-iraq-own-oil-money-to-bend-baghdad-to-its-will-iran-war",
-      "published_date": "2026-04-23T11:28:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The no-go zone paradox: Chornobyl’s wildlife thrives amid pro-nuclear shift",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/23/exclusion-zone-chornobyl-wildlife-thrives-amid-pro-nuclear-shift",
-      "published_date": "2026-04-23T11:00:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Climate change threatens France's 'lucky' May flower",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260423/climate-change-threatens-frances-lucky-may-flower",
-      "published_date": "2026-04-23T10:04:36+00:00",
       "category": "Energy"
     },
     {
@@ -557,11 +557,53 @@
       "category": "Economy"
     },
     {
-      "title": "Iranian economy: Layoffs, inflation add to sanctions pain amid war",
+      "title": "Suspect arrested after two Jewish men stabbed in London's Golders Green",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260422-iranian-economy-layoffs-inflation-add-to-sanctions-pain-amid-war",
-      "published_date": "2026-04-22T11:48:44+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/uk/20260429-suspect-arrested-after-two-jewish-men-stabbed-in-london-s-golders-green",
+      "published_date": "2026-04-29T11:39:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Despite everything, 'the Palestinians have not given up': Historian Rashid Khalidi",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260429-despite-everything-the-palestinians-have-not-given-up-historian-rashid-khalidi",
+      "published_date": "2026-04-29T11:14:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Timmy the whale rescue attempt begins off coast of Germany – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/gallery/2026/apr/29/timmy-the-whale-rescue-attempt-begins-germany-in-pictures",
+      "published_date": "2026-04-29T11:01:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 tips for having a casual conversation in French",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260429/5-tips-for-having-a-casual-conversation-in-french",
+      "published_date": "2026-04-29T10:23:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League: PSG come out on top in legendary game against Bayern Munich",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260429-champions-league-psg-come-out-on-top-in-legendary-game-against-bayern",
+      "published_date": "2026-04-29T06:41:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A record-breaking semi-final - the antidote to modern football?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cp3pd2kgy76o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T23:33:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luis Enrique predicts more thrills in return leg after PSG beat Bayern in classic",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260428-luis-enrique-predicts-more-thrills-in-return-leg-after-psg-beat-bayern-in-classic",
+      "published_date": "2026-04-28T22:56:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "PSG edge Bayern in nine-goal Champions League semi-final thriller",
@@ -652,55 +694,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-28T10:08:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Accused media gala gunman charged with attempting to assassinate Trump",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-accused-media-gala-gunman-charged-with-attempting-to-assassinate-trump",
-      "published_date": "2026-04-28T10:02:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wild Foxes review – animal-obsessed fighter at elite sports academy wonders if more to life than boxing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/28/wild-foxes-review-animal-obsessed-fighter-at-elite-sports-academy-wonders-if-more-to-life-than-boxing",
-      "published_date": "2026-04-28T10:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian Crans-Montana victims angered over Swiss hospital bills",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-italian-crans-montana-victims-angered-over-swiss-hospital-bills",
-      "published_date": "2026-04-28T09:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Musk lawsuit against OpenAI 'more about corporate strategy than any philosophical or ethical moves'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/musk-lawsuit-against-openai-more-about-corporate-strategy-than-any-philosophical-or-ethical-moves",
-      "published_date": "2026-04-28T09:12:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South-west France brings in water restrictions",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260428/south-west-france-brings-in-water-restrictions",
-      "published_date": "2026-04-28T08:36:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gunmen kill at least 29 in northeast Nigeria after targeting young people at football pitch",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260428-gunmen-kill-at-least-29-northeast-nigeria-after-targeting-young-people-football-pitch",
-      "published_date": "2026-04-28T08:08:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: 'Best teams in Europe' face off in semi-final clash",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260428-champions-league-best-teams-in-europe-face-off-semifinal-clash",
-      "published_date": "2026-04-28T05:42:26+00:00",
       "category": "Local Events"
     }
   ]
