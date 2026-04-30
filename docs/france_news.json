@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-04-29T23:52:21.519208+00:00",
+  "last_updated": "2026-04-30T12:12:04.209379+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Merz calls for a ‘a reliable transatlantic partnership’ after Trump threatens Germany with US troop reduction – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
+      "published_date": "2026-04-30T12:02:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'The world deserves food sovereignty and more secured food access for everybody'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/the-world-deserves-food-sovereignty-and-more-secured-food-access-for-everybody",
+      "published_date": "2026-04-30T11:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Sickening': British papers react to anti-Semitic attack in London",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260430-sickening-british-papers-react-to-anti-semitic-attack-in-london",
+      "published_date": "2026-04-30T10:38:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Nightmare’ queues and missed flights: a turbulent start to EU entry-exit system",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/30/eu-entry-exit-system-ees-queues-missed-flights-readers",
+      "published_date": "2026-04-30T08:25:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe air quality improves but falls short of 2030 targets, EEA report warns",
       "source": "France 24",
@@ -116,38 +144,115 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mali capital 'not under threat, but long term prospects do not look good', analyst says",
+      "title": "Mali crisis deepens as separatists and jihadists step up attacks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260428-mali-capital-not-under-threat-but-long-term-prospects-do-not-look-good-analyst-says",
-      "published_date": "2026-04-28T16:29:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/mali-crisis-deepens-as-separatists-and-jihadists-step-up-attacks",
+      "published_date": "2026-04-30T11:04:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hungary's Magyar seeks reset with Kyiv, proposes June summit with Zelensky",
+      "title": "Russia rejects Tuareg rebels' call to withdraw from Mali",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260428-hungary-s-pm-elect-magyar-offers-to-meet-ukraine-s-zelensky-in-june",
-      "published_date": "2026-04-28T16:25:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/africa/20260430-russia-rejects-tuareg-rebels-call-to-withdraw-from-mali",
+      "published_date": "2026-04-30T10:13:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron urges Andorra to 'move forwards' on decriminalising abortion",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260428/macron-urges-andorra-to-move-forwards-on-decriminalising-abortion",
-      "published_date": "2026-04-28T14:49:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU parliament approves resolution to define rape as sex without consent",
+      "title": "Mali junta leader to attend funeral of defence minister killed in rebel attacks",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260428-eu-parliament-approves-resolution-to-define-rape-as-sex-without-consent",
-      "published_date": "2026-04-28T14:29:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260430-mali-junta-leader-to-attend-funeral-of-defence-minister-killed-in-rebel-attacks",
+      "published_date": "2026-04-30T10:12:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US: Hegseth under fire in Congress over Iran war as diplomacy stalls",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-hegseth-under-fire-in-congress-over-iran-war-as-diplomacy-stalls",
+      "published_date": "2026-04-30T10:12:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Crude oil prices hit four-year high as Iran war threatens to drag on",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260430-crude-oil-prices-hit-four-year-high-as-iran-war-threatens-to-drag-on",
+      "published_date": "2026-04-30T09:29:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza: expanding Israeli military zone fuels fears of long-term control",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/gaza-expanding-israeli-military-zone-fuels-fears-of-long-term-control",
+      "published_date": "2026-04-30T09:19:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East: Rising tensions on Israel’s border as Iran negotiations falter",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east-rising-tensions-on-israel-s-border-as-iran-negotiations-falter",
+      "published_date": "2026-04-30T09:16:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Air France-KLM cuts capacity growth forecast amid expected $2.4bn fuel bill rise",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/30/air-france-klm-cuts-capacity-growth-forecast-amid-expected-24bn-fuel-bill-rise",
+      "published_date": "2026-04-30T09:13:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Haitian solutions for Haitian problems: Every international intervention in Haiti has failed'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/haitian-solutions-for-haitian-problems-every-international-intervention-in-haiti-has-failed",
+      "published_date": "2026-04-30T08:21:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France’s Foreign Legion still built for ‘hardest combat’ as drones reshape war",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260430-france-foreign-legion-still-built-for-hardest-combat-as-drones-reshape-war-cyrille-youchtchenko",
+      "published_date": "2026-04-30T06:21:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As a Ukrainian journalist, I’ve covered the US for 20 years. I find it increasingly shocking",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/30/as-a-ukrainian-journalist-ive-covered-the-us-for-20-years-i-find-it-increasingly-shocking",
+      "published_date": "2026-04-30T04:00:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-30T03:25:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran crisis, World Cup tensions overshadow FIFA Congress in Vancouver",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260430-iran-world-cup-fifa-congress-vancouver",
+      "published_date": "2026-04-30T02:50:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Enough of our homegrown weapons to go around, says Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/30/ukraine-war-briefing-enough-of-our-homegrown-weapons-to-go-around-says-zelenskyy",
+      "published_date": "2026-04-30T00:32:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump threatens to reduce troop numbers in Germany amid growing row with Nato allies",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/30/trump-threatens-to-reduce-troop-numbers-in-germany-amid-growing-row-with-nato-allies",
       "published_date": "2026-04-29T23:36:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says US may cut troops in Germany as Iran row rages",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260429-trump-says-us-may-cut-troops-in-germany-as-iran-row-rages",
+      "published_date": "2026-04-29T22:38:12+00:00",
       "category": "Military"
     },
     {
@@ -179,109 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Tuareg rebels vow Mali junta will fall",
+      "title": "Strait of Hormuz blockade: 'Who will blink first' ?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tuareg-rebels-vow-mali-junta-will-fall",
-      "published_date": "2026-04-29T20:33:17+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/strait-of-hormuz-blockade-who-will-blink-first",
+      "published_date": "2026-04-30T11:01:32+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli maps outline expanded zone of military control in Gaza",
+      "title": "Nations move fossil fuel debate from pledges to strategies in Colombia",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260430-nations-move-fossil-fuel-debate-from-pledges-to-strategies-in-colombia",
+      "published_date": "2026-04-30T11:00:11+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Strait of Hormuz: Iran-US standoff drags on",
       "source": "France 24",
-      "url": "https://www.france24.com/en/israeli-maps-outline-expanded-zone-of-military-control-in-gaza",
-      "published_date": "2026-04-29T20:16:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Viral LEGO-style AI videos blur line between entertainment and propaganda",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/viral-lego-style-ai-videos-blur-line-between-entertainment-and-propaganda",
-      "published_date": "2026-04-29T18:57:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin, in call with Trump, put forward ideas on Iran, Kremlin says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/putin-in-call-with-trump-put-forward-ideas-on-iran-kremlin-says",
-      "published_date": "2026-04-29T18:30:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Chornobyl, 40 years on: inside the 1 May Guardian Weekly",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/apr/29/chornobyl-40-years-on-inside-the-1-may-guardian-weekly",
-      "published_date": "2026-04-29T17:00:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "REPLAY: US lawmakers grill Pentagon chief Hegseth over Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260429-replay-us-lawmakers-grill-pentagon-chief-hegseth-over-iran-war",
-      "published_date": "2026-04-29T15:20:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia will not display military equipment at Victory Day parade due to Ukraine threat",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260429-russia-will-not-display-military-equipment-at-victory-day-parade-due-to-ukraine-threat",
-      "published_date": "2026-04-29T14:26:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The missing Ukrainian reporter, the Russian prison – and a vital lesson learned about journalism in a dangerous age | Laurent Richard",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/29/missing-ukrainian-reporter-russian-prison-journalism-investigative",
-      "published_date": "2026-04-29T13:50:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-29T13:01:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kim praises North Korean soldiers who blew themselves up to evade Ukraine capture",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/29/kim-north-korea-soldiers-blow-themselves-up-ukraine",
-      "published_date": "2026-04-29T11:34:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia to hold Victory Day parade with no military hardware amid Ukraine strike fears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/29/russia-to-scale-back-victory-day-parade-as-ukraine-extends-its-drone-attacks",
-      "published_date": "2026-04-29T10:39:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Airlines worldwide cancel flights, raise fares amid Middle East conflict",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260429-airlines-worldwide-cancel-flights-raise-fares-amid-middle-east-conflict",
-      "published_date": "2026-04-29T09:35:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "King Charles, Trump toast ties despite Iran tensions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260429-king-charles-trump-toast-ties-despite-iran-tensions",
-      "published_date": "2026-04-29T09:34:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali's embattled junta chief says situation 'under control'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260429-mali-s-embattled-junta-chief-says-situation-under-control",
-      "published_date": "2026-04-29T09:32:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill 8 in Lebanon: Violence continues despite ongoing ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260429-israeli-strikes-kill-8-in-lebanon-violence-continues-despite-ongoing-ceasefire",
-      "published_date": "2026-04-29T09:28:40+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/strait-of-hormuz-iran-us-standoff-drags-on",
+      "published_date": "2026-04-30T09:20:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "Colombia hosts climate talks in bid to lead global transition away from fossil fuels",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "TotalEnergies refinery working full tilt to keep France fuelled",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260426/totalenergies-refinery-working-full-tilt-to-keep-france-fuelled",
-      "published_date": "2026-04-26T07:30:50+00:00",
-      "category": "Energy"
+      "title": "Eurozone inflation soars to 3% as Iran war drives up energy prices",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices",
+      "published_date": "2026-04-30T10:36:50+00:00",
+      "category": "Economy"
     },
     {
-      "title": "On the Agenda: What’s happening in France this week",
+      "title": "French economy records zero growth in first quarter",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260426/on-the-agenda-whats-happening-in-france-this-week-207",
-      "published_date": "2026-04-26T06:38:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US envoys to travel to Islamabad despite Iran ruling out direct negotiations with US",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-envoys-to-travel-to-islamabad-despite-iran-ruling-out-direct-negotiations-with-us",
-      "published_date": "2026-04-25T09:35:58+00:00",
-      "category": "Energy"
+      "url": "https://www.thelocal.fr/20260430/french-economy-records-zero-growth-in-first-quarter",
+      "published_date": "2026-04-30T06:32:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "Reliance on Chinese green tech poses ‘serious’ risk for Europe, experts say",
@@ -529,18 +543,67 @@
       "category": "Economy"
     },
     {
-      "title": "Chihuahua operation: Mexico, US trade harsh words over deaths of two US agents",
+      "title": "US indicts Mexican state governor over drug trafficking",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260423-chihuahua-operation-mexico-us-trade-harsh-words-over-deaths-of-two-us-agents",
-      "published_date": "2026-04-23T08:39:47+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/us-indicts-mexican-state-governor-over-drug-trafficking",
+      "published_date": "2026-04-30T11:07:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Czech journalists threaten to strike over plan to scrap licence fees",
+      "title": "Bodycam footage shows police detaining London stabbing suspect",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260430-bodycam-footage-shows-police-detaining-london-stabbing-suspect",
+      "published_date": "2026-04-30T10:59:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women sexually assaulted during Nigerian fertility festival",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20260430-women-sexually-assaulted-nigeria-fertility-festival",
+      "published_date": "2026-04-30T10:14:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why local police in France might soon have more powers",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260430/why-local-police-in-france-might-soon-have-more-powers",
+      "published_date": "2026-04-30T10:03:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris neighbourhoods: Exploring the massive 17th arrondissement",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/french-connections/20260430-paris-neighbourhoods-exploring-the-massive-17th-arrondissement",
+      "published_date": "2026-04-30T09:30:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: Supreme Court weakens voting rigths act",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-supreme-court-weakens-voting-rigths-act",
+      "published_date": "2026-04-30T09:29:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French teen faces possible prison sentence for Singapore straw-licking video",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260430-french-teen-faces-possible-prison-sentence-for-singapore-straw-licking-video",
+      "published_date": "2026-04-30T07:00:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I took an algorithm to court in Sweden. The algorithm won | Charlotta Kronblad",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/23/czech-journalists-threaten-to-strike-over-plan-to-scrap-licence-fees",
-      "published_date": "2026-04-23T04:00:45+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/30/i-took-an-algorithm-to-court-in-sweden-the-algorithm-won",
+      "published_date": "2026-04-30T04:00:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New York's Mamdani calls on King Charles to 'return' Koh-i-Noor diamond taken from India",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260430-new-york-s-mamdani-calls-on-king-charles-to-return-koh-i-noor-diamond",
+      "published_date": "2026-04-30T03:59:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Iranian football officials leave Canada before FIFA Congress due to airport 'insult'",
@@ -554,6 +617,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/yes-donald-trump-s-portrait-will-soon-feature-in-some-us-passports",
       "published_date": "2026-04-29T20:08:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG blow as Hakimi ruled out of Champions League semi-final return",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260429-psg-blow-as-hakimi-ruled-out-of-champions-league-semi-final-return",
+      "published_date": "2026-04-29T19:28:10+00:00",
       "category": "Local Events"
     },
     {
@@ -610,76 +680,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/sports/20260429-champions-league-psg-come-out-on-top-in-legendary-game-against-bayern",
       "published_date": "2026-04-29T06:41:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A record-breaking semi-final - the antidote to modern football?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cp3pd2kgy76o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-28T23:33:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luis Enrique predicts more thrills in return leg after PSG beat Bayern in classic",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260428-luis-enrique-predicts-more-thrills-in-return-leg-after-psg-beat-bayern-in-classic",
-      "published_date": "2026-04-28T22:56:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG edge Bayern in nine-goal Champions League semi-final thriller",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260428-psg-edge-bayern-in-nine-goal-champions-league-semi-final-thriller",
-      "published_date": "2026-04-28T21:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "European parliament urges EU to draw up standardised consent-based definition of rape",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/28/european-parliament-urges-eu-draw-up-standardised-consent-based-definition-rape",
-      "published_date": "2026-04-28T18:55:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fast-food ‘chicken war’ sparks political cockfight in Paris suburb",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260428-fast-food-chicken-war-sparks-political-cockfight-paris-saint-ouen-bouamrane-master-poulet",
-      "published_date": "2026-04-28T18:51:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "89-year-old man arrested over Athens double shooting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/28/89-year-old-man-arrested-greece-athens-double-shooting",
-      "published_date": "2026-04-28T18:43:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Insurgents reshaping Mali: Tuaregs seek autonomy, jihadists pursue caliphate across Sahel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-insurgents-reshaping-mali-tuaregs-seek-autonomy-jihadists-pursue-caliphate-across-sahel-1",
-      "published_date": "2026-04-28T18:12:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Adele to Amy Whitehouse – the UK school where future stars are made",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-from-adele-to-amy-whitehouse-%E2%80%93-the-uk-school-where-future-stars-are-made",
-      "published_date": "2026-04-28T15:50:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris Saint-Germain vs Bayern Munich: Champions League semi-final showdown",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-paris-saint-germain-vs-bayern-munich-champions-league-semi-final-showdown",
-      "published_date": "2026-04-28T15:31:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Defending champion PSG faces 6-time winner Bayern in Champions League semifinal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-defending-champion-psg-faces-6-time-winner-bayern-in-champions-league-semifinal",
-      "published_date": "2026-04-28T15:27:25+00:00",
       "category": "Local Events"
     }
   ]
