@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-04-30T12:12:04.209379+00:00",
-  "story_count": 97,
+  "last_updated": "2026-04-30T23:50:35.065364+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Musk vs Altman: Beyond battle of egos, who gets final say on AI?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260430-musk-vs-altman-beyond-battle-of-egos-who-gets-final-say-on-ai",
+      "published_date": "2026-04-30T18:14:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wada investigation finds 300 Russian doping cases",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/articles/cx21k881djlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-30T16:00:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Damage control mode': Reputations of Mali junta & Russian mercenaries 'hang in balance'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/damage-control-mode-reputations-of-mali-junta-russian-mercenaries-hang-in-balance",
+      "published_date": "2026-04-30T15:59:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Merz calls for a ‘a reliable transatlantic partnership’ after Trump threatens Germany with US troop reduction – Europe live",
       "source": "The Guardian",
@@ -123,25 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hungary’s Magyar has ‘highly constructive’ meeting in Brussels amid push to unblock EU funds",
+      "title": "Iran 'will not capitulate', conflict resolution expert says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260429-hungary-s-magyar-pushes-to-unblock-eu-billion-in-brussels",
-      "published_date": "2026-04-29T05:37:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260430-iran-will-not-capitulate-conflict-resolution-expert-says",
+      "published_date": "2026-04-30T21:23:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "'When media freedom goes, the rest is not far behind', campaigner says",
+      "title": "Mali pays tribute to Defence Minister Sadio Camara",
       "source": "France 24",
-      "url": "https://www.france24.com/en/when-media-freedom-goes-the-rest-is-not-far-behind-campaigner-says",
-      "published_date": "2026-04-28T19:00:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260430-mali-pays-tribute-to-defence-minister-sadio-camara",
+      "published_date": "2026-04-30T20:50:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Guardian view on the politics of central Europe: in search of a new left | Editorial",
+      "title": "Iran’s supreme leader tells US its only place in Persian Gulf is at ‘bottom of its waters’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260430-iran-s-supreme-leader-tells-us-its-only-place-in-persian-gulf-is-at-bottom-of-its-waters",
+      "published_date": "2026-04-30T20:32:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany says 'prepared' for any US troop reduction",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/germany-says-prepared-for-any-us-troop-reduction",
+      "published_date": "2026-04-30T19:46:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel says detained Gaza flotilla activists to be taken to Greece",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-says-detained-gaza-flotilla-activists-to-be-taken-to-greece",
+      "published_date": "2026-04-30T19:42:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US troop withdrawal from Germany would be 'foolish', expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-troop-withdrawal-from-germany-would-be-foolish-expert-says",
+      "published_date": "2026-04-30T19:26:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vessel carrying grain Ukraine says stolen by Russia will not unload in Israel, Kyiv says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/vessel-carrying-grain-ukraine-says-stolen-by-russia-will-not-unload-in-israel-kyiv-says",
+      "published_date": "2026-04-30T18:24:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump tells Merz to ‘fix his broken country’ in new attack on German chancellor",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/28/the-guardian-view-on-the-politics-of-central-europe-in-search-of-a-new-left-",
-      "published_date": "2026-04-28T18:05:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/apr/30/trump-tells-merz-to-fix-his-broken-country-in-new-attack-on-german-chancellor",
+      "published_date": "2026-04-30T16:37:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran targets long-standing exiled opposition as war deepens repression",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260430-iran-executions-target-old-exiled-opposition-as-war-deepens-repression-mek",
+      "published_date": "2026-04-30T16:11:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21mlr8kk3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-30T14:47:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia vows to keep forces in Mali despite warning from separatists to withdraw",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260430-russia-vows-to-keep-forces-in-mali-despite-warning-from-separatists-to-withdraw",
+      "published_date": "2026-04-30T14:12:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Mali crisis deepens as separatists and jihadists step up attacks",
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "France’s Foreign Legion still built for ‘hardest combat’ as drones reshape war",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260430-france-foreign-legion-still-built-for-hardest-combat-as-drones-reshape-war-cyrille-youchtchenko",
-      "published_date": "2026-04-30T06:21:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As a Ukrainian journalist, I’ve covered the US for 20 years. I find it increasingly shocking",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/30/as-a-ukrainian-journalist-ive-covered-the-us-for-20-years-i-find-it-increasingly-shocking",
-      "published_date": "2026-04-30T04:00:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
+      "title": "Belgium plans to nationalise nuclear power plants",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-30T03:25:51+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-30T19:50:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran crisis, World Cup tensions overshadow FIFA Congress in Vancouver",
+      "title": "The UAE: Abu Dhabi's OPEC exit 'definitely doesn't' signal end of group",
       "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260430-iran-world-cup-fifa-congress-vancouver",
-      "published_date": "2026-04-30T02:50:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Enough of our homegrown weapons to go around, says Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/30/ukraine-war-briefing-enough-of-our-homegrown-weapons-to-go-around-says-zelenskyy",
-      "published_date": "2026-04-30T00:32:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump threatens to reduce troop numbers in Germany amid growing row with Nato allies",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/30/trump-threatens-to-reduce-troop-numbers-in-germany-amid-growing-row-with-nato-allies",
-      "published_date": "2026-04-29T23:36:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US may cut troops in Germany as Iran row rages",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260429-trump-says-us-may-cut-troops-in-germany-as-iran-row-rages",
-      "published_date": "2026-04-29T22:38:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Raise tax on alcohol and junk food to cut deaths from liver disease, experts say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/apr/29/alcohol-junk-food-liver-disease-taxes-health-europe",
-      "published_date": "2026-04-29T22:31:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia scales down WW2 victory parade due to Ukrainian threat",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260429-russia-scales-down-ww2-victory-parade-due-to-ukrainian-threat",
-      "published_date": "2026-04-29T21:23:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Assad regime trials are 'integral for Syria to move on' from civil war, atrocities",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260429-assad-regime-trials-are-integral-for-syria-to-move-on-from-civil-war-atrocities",
-      "published_date": "2026-04-29T21:08:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Uncertainty but a lot of resilience' in Latin America, says IDB head",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uncertainty-but-a-lot-of-resilience-in-latin-america-says-idb-head-ilan-goldfajn",
-      "published_date": "2026-04-29T20:49:04+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260430-the-uae-abu-dhabi-s-opec-exit-definitely-doesn-t-signal-end-of-group",
+      "published_date": "2026-04-30T17:22:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Strait of Hormuz blockade: 'Who will blink first' ?",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Amsterdam becomes world's first capital to ban fossil fuel ads",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260427-amsterdam-becomes-world-s-first-capital-to-ban-fossil-fuel-ads",
-      "published_date": "2026-04-27T10:57:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Renewable energy will boost national security and protect UK from sabotage, minister says",
+      "title": "Germany was largest exporter of plastic waste in 2025, sending 810,000 tonnes overseas, analysis finds",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
-      "published_date": "2026-04-26T23:01:26+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/environment/2026/apr/30/germany-largest-exporter-plastic-waste-2025",
+      "published_date": "2026-04-30T14:38:13+00:00",
+      "category": "Economy"
     },
     {
       "title": "Eurozone inflation soars to 3% as Iran war drives up energy prices",
@@ -529,18 +536,60 @@
       "category": "Economy"
     },
     {
-      "title": "Iran flaunts its grip over the Strait of Hormuz with commandos storming cargo ship",
+      "title": "Donald Trump backs proposal to rename ICE as ‘NICE’",
       "source": "France 24",
-      "url": "https://www.france24.com/en/iran-flaunts-its-grip-over-the-strait-of-hormuz-with-commandos-storming-cargo-ship",
-      "published_date": "2026-04-23T18:33:09+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/donald-trump-backs-proposal-to-rename-ice-as-nice",
+      "published_date": "2026-04-30T19:55:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump administration reclassifies medical marijuana as a 'less-dangerous drug'",
+      "title": "World's largest sailing yacht christened in Saint Nazaire shipyards",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260423-trump-administration-reclassifies-medical-marijuana-as-a-less-dangerous-drug",
-      "published_date": "2026-04-23T15:53:36+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/world-s-largest-sailing-yacht-christened-in-saint-nazaire-shipyards",
+      "published_date": "2026-04-30T18:50:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four rescued from Seine after bus plunges into river near Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/30/bus-crash-seine-river-juvisy-sur-orge-paris",
+      "published_date": "2026-04-30T16:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trainee driver crashes bus into River Seine",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-30T15:34:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Starmer heckled with ‘Jew harmer’ shouts after London knife attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260430-starmer-heckled-with-jew-harmer-shouts-after-london-knife-attack",
+      "published_date": "2026-04-30T15:04:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bus and car fall into Seine River near Paris, four people rescued",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260430-bus-and-car-fall-into-seine-river-near-paris-four-people-rescued",
+      "published_date": "2026-04-30T14:24:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French teenager charged in Singapore over vending machine straw-licking video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/30/french-teenager-charged-in-singapore-over-vending-machine-straw-licking-video",
+      "published_date": "2026-04-30T13:02:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four rescued after bus plunges into Seine near Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260430/four-rescued-after-bus-plunges-into-seine-near-paris",
+      "published_date": "2026-04-30T12:37:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US indicts Mexican state governor over drug trafficking",
@@ -624,62 +673,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/sports/20260429-psg-blow-as-hakimi-ruled-out-of-champions-league-semi-final-return",
       "published_date": "2026-04-29T19:28:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London police say stabbing of 2 Jewish men is declared a terrorist incident",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260429-london-police-say-stabbing-of-2-jewish-men-is-declared-a-terrorist-incident",
-      "published_date": "2026-04-29T16:13:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Genius & Gadgets: Discovering Paris’s annual invention competition",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260429-genius-gadgets-discovering-paris-s-annual-invention-competition-1",
-      "published_date": "2026-04-29T15:23:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abuse at French after-school programmes: Parents sound the alarm",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20260429-abuse-at-french-after-school-programmes-parents-sound-the-alarm",
-      "published_date": "2026-04-29T13:58:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect arrested after two Jewish men stabbed in London's Golders Green",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk/20260429-suspect-arrested-after-two-jewish-men-stabbed-in-london-s-golders-green",
-      "published_date": "2026-04-29T11:39:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Despite everything, 'the Palestinians have not given up': Historian Rashid Khalidi",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260429-despite-everything-the-palestinians-have-not-given-up-historian-rashid-khalidi",
-      "published_date": "2026-04-29T11:14:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Timmy the whale rescue attempt begins off coast of Germany – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/gallery/2026/apr/29/timmy-the-whale-rescue-attempt-begins-germany-in-pictures",
-      "published_date": "2026-04-29T11:01:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 tips for having a casual conversation in French",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260429/5-tips-for-having-a-casual-conversation-in-french",
-      "published_date": "2026-04-29T10:23:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: PSG come out on top in legendary game against Bayern Munich",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260429-champions-league-psg-come-out-on-top-in-legendary-game-against-bayern",
-      "published_date": "2026-04-29T06:41:04+00:00",
       "category": "Local Events"
     }
   ]
