@@ -1,8 +1,78 @@
 {
   "country": "France",
-  "last_updated": "2026-05-01T11:55:44.348165+00:00",
-  "story_count": 98,
+  "last_updated": "2026-05-01T23:48:48.286943+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Trump says he will hike tariffs on EU cars to 25%",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-01T19:42:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump tears up part of EU tariff deal to raise import duties on cars and lorries",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-tears-up-eu-tariff-deal-raises-import-duties-europe",
+      "published_date": "2026-05-01T19:08:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cubans mark May Day amid rising humanitarian crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/cubans-mark-may-day-amid-rising-humanitarian-crisis",
+      "published_date": "2026-05-01T16:30:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How the Golan Heights emerged as a new front in Israeli expansion",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260501-how-the-golan-heights-has-emerged-as-a-new-front-in-israeli-expansion-syria",
+      "published_date": "2026-05-01T16:14:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says he will raise tariffs on EU autos to 25% for 'not complying' with trade deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260501-trump-says-he-will-raise-tariffs-on-eu-autos-to-25",
+      "published_date": "2026-05-01T16:01:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The industrial crisis is challenging both the EU and France's distinct social and economic models",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260501-the-industrial-crisis-has-challenging-both-the-eu-and-france-s-distinct-social-and-economic-models",
+      "published_date": "2026-05-01T14:15:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Planned EU-Taliban talks on return of Afghan nationals spark backlash",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260501-planned-eu-taliban-talks-on-return-of-afghan-nationals-spark-backlash",
+      "published_date": "2026-05-01T14:04:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'We should be able to open up negotiations' with Ukraine, Sweden's EU minister says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260501-we-should-be-able-to-open-up-negotiations-with-ukraine-sweden-s-eu-minister-says",
+      "published_date": "2026-05-01T12:45:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'A common enemy, but not a common project': A fragile jihadist-separatist alliance in Mali",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260501-common-enemy-but-not-common-project-fragile-jihadist-separatist-alliance-in-mali",
+      "published_date": "2026-05-01T12:38:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungary and Bulgaria elections: EU's new ally and new adversary?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260501-hungary-and-bulgaria-elections-eu-s-new-ally-and-new-adversary",
+      "published_date": "2026-05-01T12:05:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Washington sanctions former DRC president Kabila over 'support' for rebels",
       "source": "RFI English",
@@ -74,74 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Wada investigation finds 300 Russian doping cases",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/articles/cx21k881djlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-30T16:00:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Damage control mode': Reputations of Mali junta & Russian mercenaries 'hang in balance'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/damage-control-mode-reputations-of-mali-junta-russian-mercenaries-hang-in-balance",
-      "published_date": "2026-04-30T15:59:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Merz calls for a ‘a reliable transatlantic partnership’ after Trump threatens Germany with US troop reduction – Europe live",
+      "title": "Why does the US have military bases in Germany?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
-      "published_date": "2026-04-30T12:02:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/us-news/2026/apr/30/us-military-bases-germany-trump-threat-cut-numbers",
+      "published_date": "2026-05-01T22:55:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "'The world deserves food sovereignty and more secured food access for everybody'",
+      "title": "Tessalit army base taken by rebels",
       "source": "France 24",
-      "url": "https://www.france24.com/en/the-world-deserves-food-sovereignty-and-more-secured-food-access-for-everybody",
-      "published_date": "2026-04-30T11:57:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tessalit-army-base-taken-by-rebels",
+      "published_date": "2026-05-01T21:18:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Sickening': British papers react to anti-Semitic attack in London",
+      "title": "AI actors and writers will not be eligible for Oscars, Academy says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260430-sickening-british-papers-react-to-anti-semitic-attack-in-london",
-      "published_date": "2026-04-30T10:38:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/culture/20260501-ai-actors-and-writers-will-not-be-eligible-for-oscars-academy-rules",
+      "published_date": "2026-05-01T19:35:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Nightmare’ queues and missed flights: a turbulent start to EU entry-exit system",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/30/eu-entry-exit-system-ees-queues-missed-flights-readers",
-      "published_date": "2026-04-30T08:25:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe air quality improves but falls short of 2030 targets, EEA report warns",
+      "title": "Inside Iran’s ‘mosquito fleet’: Telegraph’s Adrian Blomfield with a rare frontline glimpse of Hormuz",
       "source": "France 24",
-      "url": "https://www.france24.com/en/environment/20260429-europe-air-quality-improves-falls-short-eu-2030-targets-eea-report",
-      "published_date": "2026-04-29T23:21:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260501-iran-s-most-potent-weapon-telegraph-s-adrian-blomfield-offers-rare-frontline-glimpse-of-hormuz",
+      "published_date": "2026-05-01T17:55:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hungary's next PM says frozen EU funds will be paid out soon",
+      "title": "Artificial Intelligence: Tech giants dominating AI market are 'too big to fail'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260501-artificial-intelligence-tech-giants-dominating-ai-market-are-too-big-to-fail",
+      "published_date": "2026-05-01T16:47:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-29T19:51:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-01T15:12:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Armenia's foreign minister signals new era: Peace, EU ambitions, trade, 'huge' infrastructure plans",
+      "title": "60-day deadline for Congress' Iran war extension approval",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260429-armenia-s-fm-hails-peace-embraces-future-eu-elections-trade-huge-infrastructure-projects",
-      "published_date": "2026-04-29T18:57:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260501-60-day-deadline-for-congress-iran-war-extension-approval-1",
+      "published_date": "2026-05-01T14:45:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Foreign minister signals new era for Armenia: Peace, EU ambitions, trade, 'huge' infrastructure plan",
+      "title": "President Macron attends Orion 26 excerices",
       "source": "France 24",
-      "url": "https://www.france24.com/en/armenia-s-fm-hails-peace-embraces-future-eu-elections-neighbours-huge-infrastructure-projects",
-      "published_date": "2026-04-29T18:47:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/president-macron-attends-orion-26-excerices",
+      "published_date": "2026-05-01T13:02:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French hub monitors Hormuz tensions from afar",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260501/french-hub-monitors-hormuz-tensions-from-afar",
+      "published_date": "2026-05-01T12:51:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali rebels seize key military camp as junta forces and Russians retreat",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260501-rebels-take-key-military-camp-in-mali-s-north",
+      "published_date": "2026-05-01T12:42:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump threatens to withdraw troops from Italy and Spain",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Germany’s climate U-turn is the worst possible response to the oil shock",
+      "title": "Octopus Energy boss: some people would accept blackouts if bills cut",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/01/germanys-climate-u-turn-is-the-worst-possible-response-to-the-oil-shock",
-      "published_date": "2026-05-01T04:00:37+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/may/01/octopus-energy-boss-blackouts-bills",
+      "published_date": "2026-05-01T16:02:42+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Middle East war live: Iran briefly activates Tehran air defences against ‘reconnaissance drones’",
+      "title": "A cultural stroll through Paris with actor Redouane Bougheraba and singer Camille",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260501-middle-east-war-live-iran-supreme-leader-nuclear-missile-capabilities",
-      "published_date": "2026-05-01T03:13:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv claims victory over ‘shadow grain fleet’ shipment to Israel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/01/ukraine-war-briefing-kyiv-claims-victory-over-shadow-grain-fleet-shipment-to-israel",
-      "published_date": "2026-05-01T01:05:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Venice Biennale jury resigns days before start of top art exhibition",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-30T23:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran 'will not capitulate', conflict resolution expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260430-iran-will-not-capitulate-conflict-resolution-expert-says",
-      "published_date": "2026-04-30T21:23:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali pays tribute to Defence Minister Sadio Camara",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260430-mali-pays-tribute-to-defence-minister-sadio-camara",
-      "published_date": "2026-04-30T20:50:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s supreme leader tells US its only place in Persian Gulf is at ‘bottom of its waters’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260430-iran-s-supreme-leader-tells-us-its-only-place-in-persian-gulf-is-at-bottom-of-its-waters",
-      "published_date": "2026-04-30T20:32:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-30T20:15:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany says 'prepared' for any US troop reduction",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/germany-says-prepared-for-any-us-troop-reduction",
-      "published_date": "2026-04-30T19:46:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says detained Gaza flotilla activists to be taken to Greece",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-says-detained-gaza-flotilla-activists-to-be-taken-to-greece",
-      "published_date": "2026-04-30T19:42:33+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/paris-des-arts/20260501-a-cultural-stroll-through-paris-with-actor-redouane-bougheraba-and-singer-camille",
+      "published_date": "2026-05-01T15:40:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "In Canada, Alberta's 'Maple MAGA' dream of independence",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "UAE leaves OPEC in a blow to oil cartel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260428-uae-leaves-opec-in-a-blow-to-oil-cartel",
-      "published_date": "2026-04-28T21:17:20+00:00",
-      "category": "Energy"
+      "title": "Ryanair demands France suspend 'half-baked' EES border checks",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260501/ryanair-demands-france-to-suspend-half-baked-ees-checks",
+      "published_date": "2026-05-01T14:23:47+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UAE pulls out of OPEC oil cartels citing 'national interests'",
+      "title": "China opens tariff-free trade to nearly all African countries",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260501-china-opens-tariff-free-trade-to-nearly-all-african-countries",
+      "published_date": "2026-05-01T14:19:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Let them eat baguette: French bakeries enjoy May Day exemption",
       "source": "France 24",
-      "url": "https://www.france24.com/en/uae-pulls-out-of-opec-oil-cartels-citing-national-interests",
-      "published_date": "2026-04-28T20:18:23+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/france/20260501-baguettes-take-centre-stage-on-france-s-labour-day",
+      "published_date": "2026-05-01T14:11:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "French unions rally on Labour Day to defend paid holiday rights",
@@ -543,11 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Pirate gangs prowl Bangladesh's Sundarbans forest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260424-pirate-gangs-prowl-bangladesh-s-sundarbans-forest",
-      "published_date": "2026-04-24T15:21:56+00:00",
-      "category": "Economy"
+      "title": "CCTV captures moment man attacks nun in Jerusalem – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/may/01/cctv-captures-moment-man-attacks-nun-in-jerusalem-video",
+      "published_date": "2026-05-01T16:36:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour Day sees clashes as French unions demand pay rise and bakery row continues",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260501-labour-day-sees-clashes-as-french-unions-demand-pay-rise-and-bakery-row-continues",
+      "published_date": "2026-05-01T16:28:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian city orders dog owners to wash away urine or face €500 fine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/01/italian-city-dog-owners-clear-up-urine-fine-livorno",
+      "published_date": "2026-05-01T13:47:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Fighting racism 'must be at heart of presidential debate', French mayor tells RFI",
@@ -666,27 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260430/why-local-police-in-france-might-soon-have-more-powers",
       "published_date": "2026-04-30T10:03:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris neighbourhoods: Exploring the massive 17th arrondissement",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/french-connections/20260430-paris-neighbourhoods-exploring-the-massive-17th-arrondissement",
-      "published_date": "2026-04-30T09:30:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: Supreme Court weakens voting rigths act",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-supreme-court-weakens-voting-rigths-act",
-      "published_date": "2026-04-30T09:29:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French teen faces possible prison sentence for Singapore straw-licking video",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260430-french-teen-faces-possible-prison-sentence-for-singapore-straw-licking-video",
-      "published_date": "2026-04-30T07:00:31+00:00",
       "category": "Local Events"
     }
   ]
