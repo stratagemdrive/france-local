@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-05-02T11:40:51.538897+00:00",
-  "story_count": 99,
+  "last_updated": "2026-05-02T23:39:20.944591+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "New tariff hike could cost Germany $18BN",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260502-new-tariff-hike-could-cost-germany-18bn-1",
+      "published_date": "2026-05-02T15:24:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Asylum seeker sent back to France in ‘one in, one out’ scheme to be returned to Syria",
       "source": "The Guardian",
@@ -74,6 +81,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "France, Germany send firefighters to help battle Dutch blazes",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260501/france-sends-firefighters-to-help-battle-blazes-in-netherlands",
+      "published_date": "2026-05-01T14:43:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "The industrial crisis is challenging both the EU and France's distinct social and economic models",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260501-the-industrial-crisis-has-challenging-both-the-eu-and-france-s-distinct-social-and-economic-models",
@@ -130,157 +144,143 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Venice Biennale jury resigns against participation of Russia and Israel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/venice-biennale-jury-resigns-against-participation-of-russia-and-israel",
-      "published_date": "2026-05-01T07:52:50+00:00",
-      "category": "Diplomacy"
+      "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-02T23:13:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Blockbuster EU-Mercosur trade deal enters into force",
+      "title": "Ukraine battlefield: Advanced Ukrainian drones raise concerns among Russian forces",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260502-ukraine-battlefield-advanced-ukrainian-drones-raise-concerns-among-russian-forces",
+      "published_date": "2026-05-02T19:11:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali in crisis: Jihadist fighters and Tuareg separatists threaten Bamako",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260502-mali-in-crisis-jihadist-fighters-and-tuareg-separatists-threaten-bamako",
+      "published_date": "2026-05-02T18:44:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nato seeks to ‘understand the details’ of US decision to withdraw troops from Germany",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
+      "published_date": "2026-05-02T17:52:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey boosts Mali defence ties after separatist and jihadist attacks",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260502-turkey-boosts-mali-defence-ties-after-separatist-and-jihadist-attacks",
+      "published_date": "2026-05-02T16:27:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hijackings off Somalia raise fears that piracy is back on the rise",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260502-hijackings-off-somalia-raise-fears-that-piracy-is-back-on-the-rise",
+      "published_date": "2026-05-02T15:19:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pentagon announces withdrawal of 5.000 soldiers from Germany",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/pentagon-announces-withdrawal-of-5-000-soldiers-from-germany",
+      "published_date": "2026-05-02T15:18:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pentagon partners with seven AI firms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/pentagon-partners-with-seven-ai-firms",
+      "published_date": "2026-05-02T14:38:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Berlin urges stronger European defence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/berlin-urges-stronger-european-defence",
+      "published_date": "2026-05-02T14:37:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali probes soldiers working with rebels",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mali-probes-soldiers-working-with-rebels",
+      "published_date": "2026-05-02T14:27:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO in talks with US over troops cuts",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nato-in-talks-with-us-over-troops-cuts",
+      "published_date": "2026-05-02T14:25:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali investigates soldiers over role in coordinated insurgent attacks",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260502-mali-investigates-soldiers-over-role-in-coordinated-insurgent-attacks",
+      "published_date": "2026-05-02T13:39:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Illegal rave draws 20,000 to 'dangerous' military site in France",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260501/blockbuster-eu-mercosur-trade-deal-enters-into-force",
-      "published_date": "2026-05-01T07:52:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.fr/20260502/illegal-rave-draws-20000-to-dangerous-military-site-in-france",
+      "published_date": "2026-05-02T12:24:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan's medicine crisis worsens",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sudan-s-medicine-crisis-worsens",
+      "published_date": "2026-05-02T12:22:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine hits oil facilities in Russia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-hits-oil-facilities-in-russia",
+      "published_date": "2026-05-02T12:21:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Senior Iranian officer says renewed war with US ‘likely’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260502-senior-iranian-officer-says-renewed-war-with-us-likely",
+      "published_date": "2026-05-02T12:21:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali: Rebels take key Tessalit military camp",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp-1",
+      "published_date": "2026-05-02T12:19:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US to withdraw 5.000 troops from Germany",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-to-withdraw-5-000-troops-from-germany-1",
+      "published_date": "2026-05-02T12:14:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "USA: Soaring petrol prices in California",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/usa-soaring-petrol-prices-in-california",
+      "published_date": "2026-05-02T11:30:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
       "published_date": "2026-05-02T11:18:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French navy warns stranded ships as Iran blockades choke Hormuz",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260502-french-hub-monitors-hormuz-tensions-from-afar",
-      "published_date": "2026-05-02T10:49:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oscars bans AI actors and writers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/oscars-bans-ai-actors-and-writers",
-      "published_date": "2026-05-02T08:18:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rebuilding Gaza Strip: Labour Day is the last thing on Palestinians' minds",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/rebuilding-gaza-strip-labour-day-is-the-last-thing-on-palestinians-minds",
-      "published_date": "2026-05-02T08:15:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump told Congress that hostilities \"have terminated\"",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-told-congress-that-hostilities-have-terminated",
-      "published_date": "2026-05-02T08:15:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US to withdraw 5.000 troops from Germany",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-to-withdraw-5-000-troops-from-germany",
-      "published_date": "2026-05-02T08:14:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali: Rebels take key Tessalit military camp",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp",
-      "published_date": "2026-05-02T08:13:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tuareg separatists and jihadists wage attacks across Mali",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tuareg-separatists-and-jihadists-wage-attacks-across-mali",
-      "published_date": "2026-05-02T08:12:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Summer holidays up in the air as Europe braces for jet fuel shortage",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260502-summer-holidays-up-in-the-air-as-europe-braces-for-jet-fuel-shortage",
-      "published_date": "2026-05-02T07:02:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Still on a war footing': Tehran shares new proposal on ending Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/still-on-a-war-footing-tehran-shares-new-peace-proposal-with-washington",
-      "published_date": "2026-05-02T06:23:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran standoff could leave Trump worse off than before he went to war",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260502-iran-standoff-could-leave-trump-worse-off-than-before-he-went-to-war",
-      "published_date": "2026-05-02T05:48:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: Iran official says renewed conflict ‘likely’, Trump says fighting ‘terminated’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260502-middle-east-war-live-trump-tells-us-congress-that-hostilities-in-iran-have-terminated",
-      "published_date": "2026-05-02T05:02:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russian oil hub of Tuapse hit for fourth time as environmental disaster mounts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/02/ukraine-war-briefing-russian-oil-hub-of-tuapse-hit-for-fourth-time-as-environmental-disaster-mounts",
-      "published_date": "2026-05-02T02:50:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why does the US have military bases in Germany?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/30/us-military-bases-germany-trump-threat-cut-numbers",
-      "published_date": "2026-05-01T22:55:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US to withdraw about 5,000 troops from Germany",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260501-us-to-withdraw-about-5-000-troops-from-germany",
-      "published_date": "2026-05-01T22:42:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tessalit army base taken by rebels",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tessalit-army-base-taken-by-rebels",
-      "published_date": "2026-05-01T21:18:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI actors and writers will not be eligible for Oscars, Academy says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260501-ai-actors-and-writers-will-not-be-eligible-for-oscars-academy-rules",
-      "published_date": "2026-05-01T19:35:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside Iran’s ‘mosquito fleet’: Telegraph’s Adrian Blomfield with a rare frontline glimpse of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260501-iran-s-most-potent-weapon-telegraph-s-adrian-blomfield-offers-rare-frontline-glimpse-of-hormuz",
-      "published_date": "2026-05-01T17:55:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Artificial Intelligence: Tech giants dominating AI market are 'too big to fail'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260501-artificial-intelligence-tech-giants-dominating-ai-market-are-too-big-to-fail",
-      "published_date": "2026-05-01T16:47:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T15:12:14+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Criminal groups recruit women to cater to female clients",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260502-criminal-groups-recruit-women-to-cater-to-female-clients",
+      "published_date": "2026-05-02T15:21:44+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Ryanair demands France suspend 'half-baked' EES border checks",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260501/ryanair-demands-france-to-suspend-half-baked-ees-checks",
@@ -557,6 +564,20 @@
       "category": "Economy"
     },
     {
+      "title": "Imprisoned Iranian Nobel laureate Mohammadi rushed to hospital following cardiac 'crisis'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/imprisoned-iranian-nobel-laureate-mohammadi-rushed-hospital-following-severe-cardiac-crisis",
+      "published_date": "2026-05-02T15:41:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG fringe team held by Lorient as Bayern Munich return leg looms",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260502-struggling-nantes-deepen-marseille-s-woes-in-ligue-1",
+      "published_date": "2026-05-02T15:18:10+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘We love our Americans’: the German town rocked by Trump’s plan to withdraw US troops",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/02/landstuhl-german-town-rocked-trump-plan-withdraw-us-troops",
@@ -680,20 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260430-starmer-heckled-with-jew-harmer-shouts-after-london-knife-attack",
       "published_date": "2026-04-30T15:04:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bus and car fall into Seine River near Paris, four people rescued",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260430-bus-and-car-fall-into-seine-river-near-paris-four-people-rescued",
-      "published_date": "2026-04-30T14:24:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French teenager charged in Singapore over vending machine straw-licking video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/30/french-teenager-charged-in-singapore-over-vending-machine-straw-licking-video",
-      "published_date": "2026-04-30T13:02:16+00:00",
       "category": "Local Events"
     }
   ]
