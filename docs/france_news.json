@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-05-01T23:48:48.286943+00:00",
-  "story_count": 100,
+  "last_updated": "2026-05-02T11:40:51.538897+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Asylum seeker sent back to France in ‘one in, one out’ scheme to be returned to Syria",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/02/asylum-seeker-sent-france-one-in-one-out-returned-syria",
+      "published_date": "2026-05-02T09:00:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Data theft: Teen arrested over hacking of French government website",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/data-thieft-a-15-year-old-minor-arrested",
+      "published_date": "2026-05-02T08:17:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Such huge consequences’: pressure mounts on France to act on enslavement reparatory justice",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/may/02/pressure-mounts-france-enslavement-reparatory-justice-framework",
+      "published_date": "2026-05-02T08:00:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hope out of chaos: how the dark era of Trump is creating a new approach to global politics",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/02/dark-era-trump-creating-new-approach-global-politics",
+      "published_date": "2026-05-02T04:00:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New US sanctions are 'collective punishment', Cuba's FM says during May 1 marches",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260501-us-sanctions-are-collective-punishment-cuba-s-fm-says-during-may-1-marches",
+      "published_date": "2026-05-01T20:17:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says he will hike tariffs on EU cars to 25%",
       "source": "BBC News",
@@ -109,45 +144,108 @@
       "category": "Diplomacy"
     },
     {
-      "title": "At least 15 killed in southern Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/at-least-15-killed-in-southern-lebanon",
-      "published_date": "2026-05-01T07:44:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel navy to release six Australians in Greece after intercepting Gaza flotilla",
+      "title": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/01/israel-intercepted-gaza-flotilla-navy-release-australians-greece-ntwnfb",
-      "published_date": "2026-05-01T07:35:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
+      "published_date": "2026-05-02T11:18:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Controversial EU-Mercosur free trade deal comes into force",
+      "title": "French navy warns stranded ships as Iran blockades choke Hormuz",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260501-controversial-eu-mercosur-trade-deal-enters-into-force",
-      "published_date": "2026-05-01T06:41:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260502-french-hub-monitors-hormuz-tensions-from-afar",
+      "published_date": "2026-05-02T10:49:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Danish treatment of Greenlandic mother may be ‘ethnic discrimination’, says UN",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/01/un-denmark-greenlandic-mother-ethnic-discrimination",
-      "published_date": "2026-05-01T04:00:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Musk vs Altman: Beyond battle of egos, who gets final say on AI?",
+      "title": "Oscars bans AI actors and writers",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260430-musk-vs-altman-beyond-battle-of-egos-who-gets-final-say-on-ai",
-      "published_date": "2026-04-30T18:14:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/oscars-bans-ai-actors-and-writers",
+      "published_date": "2026-05-02T08:18:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rebuilding Gaza Strip: Labour Day is the last thing on Palestinians' minds",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/rebuilding-gaza-strip-labour-day-is-the-last-thing-on-palestinians-minds",
+      "published_date": "2026-05-02T08:15:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump told Congress that hostilities \"have terminated\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-told-congress-that-hostilities-have-terminated",
+      "published_date": "2026-05-02T08:15:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US to withdraw 5.000 troops from Germany",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-to-withdraw-5-000-troops-from-germany",
+      "published_date": "2026-05-02T08:14:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali: Rebels take key Tessalit military camp",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp",
+      "published_date": "2026-05-02T08:13:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tuareg separatists and jihadists wage attacks across Mali",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tuareg-separatists-and-jihadists-wage-attacks-across-mali",
+      "published_date": "2026-05-02T08:12:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Summer holidays up in the air as Europe braces for jet fuel shortage",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260502-summer-holidays-up-in-the-air-as-europe-braces-for-jet-fuel-shortage",
+      "published_date": "2026-05-02T07:02:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Still on a war footing': Tehran shares new proposal on ending Iran war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/still-on-a-war-footing-tehran-shares-new-peace-proposal-with-washington",
+      "published_date": "2026-05-02T06:23:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran standoff could leave Trump worse off than before he went to war",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260502-iran-standoff-could-leave-trump-worse-off-than-before-he-went-to-war",
+      "published_date": "2026-05-02T05:48:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: Iran official says renewed conflict ‘likely’, Trump says fighting ‘terminated’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260502-middle-east-war-live-trump-tells-us-congress-that-hostilities-in-iran-have-terminated",
+      "published_date": "2026-05-02T05:02:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russian oil hub of Tuapse hit for fourth time as environmental disaster mounts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/02/ukraine-war-briefing-russian-oil-hub-of-tuapse-hit-for-fourth-time-as-environmental-disaster-mounts",
+      "published_date": "2026-05-02T02:50:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Why does the US have military bases in Germany?",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/apr/30/us-military-bases-germany-trump-threat-cut-numbers",
       "published_date": "2026-05-01T22:55:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US to withdraw about 5,000 troops from Germany",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260501-us-to-withdraw-about-5-000-troops-from-germany",
+      "published_date": "2026-05-01T22:42:13+00:00",
       "category": "Military"
     },
     {
@@ -183,104 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-01T15:12:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "60-day deadline for Congress' Iran war extension approval",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260501-60-day-deadline-for-congress-iran-war-extension-approval-1",
-      "published_date": "2026-05-01T14:45:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President Macron attends Orion 26 excerices",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/president-macron-attends-orion-26-excerices",
-      "published_date": "2026-05-01T13:02:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French hub monitors Hormuz tensions from afar",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260501/french-hub-monitors-hormuz-tensions-from-afar",
-      "published_date": "2026-05-01T12:51:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali rebels seize key military camp as junta forces and Russians retreat",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260501-rebels-take-key-military-camp-in-mali-s-north",
-      "published_date": "2026-05-01T12:42:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump threatens to withdraw troops from Italy and Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-threatens-withdraw-troops-italy-spain-strait-hormuz",
-      "published_date": "2026-05-01T11:32:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump threatens to withdraw US troops from Italy and Spain – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/01/donald-trump-us-troops-italy-spain-germany-nato-europe-latest-news",
-      "published_date": "2026-05-01T11:26:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali jihadists vow to blockade capital",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/mali-jihadists-vow-to-blockade-capital",
-      "published_date": "2026-05-01T09:43:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US official says Iran war truce 'terminated' hostilities for war powers deadline",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260501-us-official-says-iran-war-truce-terminated-hostilities-for-war-powers-deadline-1",
-      "published_date": "2026-05-01T09:41:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump faces Iran war Congress deadline",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-faces-iran-war-congress-deadline",
-      "published_date": "2026-05-01T09:39:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Countries mark May Day with mass street demonstrations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/countries-mark-may-day-with-mass-street-demonstrations",
-      "published_date": "2026-05-01T07:50:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US considers reducing troops in Germany",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-considers-reducing-troops-in-germany",
-      "published_date": "2026-05-01T07:48:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadline for US Congress on war in Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/deadline-for-us-congress-on-war-in-iran",
-      "published_date": "2026-05-01T07:43:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Military force unable to solve Mali crisis': Is political solution only 'viable path forward'?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260501-military-force-unable-to-solve-mali-crisis-is-political-solution-only-viable-path-forward",
-      "published_date": "2026-05-01T06:36:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Public health time bomb’: How France allowed cadmium to poison its crops and soil",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260501-public-health-time-bomb-france-allowed-cadmium-poison-crops-soil",
-      "published_date": "2026-05-01T05:18:40+00:00",
       "category": "Military"
     },
     {
@@ -557,11 +557,39 @@
       "category": "Economy"
     },
     {
-      "title": "REVEALED: The countries in Europe that will buck the trend and grow in population",
+      "title": "‘We love our Americans’: the German town rocked by Trump’s plan to withdraw US troops",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/02/landstuhl-german-town-rocked-trump-plan-withdraw-us-troops",
+      "published_date": "2026-05-02T11:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG return to Ligue 1 action four days after epic match against Bayern",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260502-psg-return-ligue-1-action-four-days-after-epic-match-against-bayern",
+      "published_date": "2026-05-02T09:37:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Letters and photos from Beatles’ early days to go on show in Hamburg",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/may/02/beatles-early-days-letters-photos-hamburg-exhibition",
+      "published_date": "2026-05-02T09:00:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rescuers transport stranded whale by barge to freedom in North Sea",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260502-humpback-whale-stranded-in-germany-released-by-barge-into-north-sea",
+      "published_date": "2026-05-02T08:13:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside France: The love lives of French politicians and an alternative Francophone USA",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260425/revealed-the-countries-in-europe-that-will-buck-the-trend-and-grow-in-population",
-      "published_date": "2026-04-25T09:32:03+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20260502/inside-france-the-love-lives-of-french-politicians-and-an-alternative-francophone-usa",
+      "published_date": "2026-05-02T07:57:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "CCTV captures moment man attacks nun in Jerusalem – video",
@@ -666,41 +694,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/30/french-teenager-charged-in-singapore-over-vending-machine-straw-licking-video",
       "published_date": "2026-04-30T13:02:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four rescued after bus plunges into Seine near Paris",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260430/four-rescued-after-bus-plunges-into-seine-near-paris",
-      "published_date": "2026-04-30T12:37:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US indicts Mexican state governor over drug trafficking",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-indicts-mexican-state-governor-over-drug-trafficking",
-      "published_date": "2026-04-30T11:07:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bodycam footage shows police detaining London stabbing suspect",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260430-bodycam-footage-shows-police-detaining-london-stabbing-suspect",
-      "published_date": "2026-04-30T10:59:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women sexually assaulted during Nigerian fertility festival",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260430-women-sexually-assaulted-nigeria-fertility-festival",
-      "published_date": "2026-04-30T10:14:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why local police in France might soon have more powers",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260430/why-local-police-in-france-might-soon-have-more-powers",
-      "published_date": "2026-04-30T10:03:21+00:00",
       "category": "Local Events"
     }
   ]
