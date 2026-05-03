@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-05-03T11:38:16.231264+00:00",
+  "last_updated": "2026-05-03T23:40:48.649864+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
+      "published_date": "2026-05-03T14:57:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Two women die on migrant boat attempting to reach the UK from France",
       "source": "France 24",
@@ -137,11 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US-Venezuela commercial flights restart",
+      "title": "Merz ‘not giving up on working with Trump’ despite Iran war spat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/03/merz-not-giving-up-on-working-with-trump-despite-iran-war-spat",
+      "published_date": "2026-05-03T20:27:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran reviews US response to peace proposal, warns against further military action",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-venezuela-commercial-flights-restart",
-      "published_date": "2026-05-01T09:44:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260503-iran-reviews-us-response-to-peace-proposal-warns-against-further-military-action",
+      "published_date": "2026-05-03T16:45:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French minister vows crackdown on illegal raves",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260503/french-minister-vows-crackdown-on-illegal-raves",
+      "published_date": "2026-05-03T16:31:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two US service members missing after joint military exercises in Morocco",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260503-two-us-service-members-missing-after-joint-military-exercises-in-morocco",
+      "published_date": "2026-05-03T16:24:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italian media reports US top diplomat Rubio to meet Pope Leo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/italian-media-reports-us-top-diplomat-rubio-to-meet-pope-leo",
+      "published_date": "2026-05-03T15:26:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Southern Lebanon: Israeli strikes kill one, wounds rescuers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/southern-lebanon-israeli-strikes-kill-one-wounds-rescuers",
+      "published_date": "2026-05-03T15:25:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French interior minister vows crackdown on illegal raves after thousands gather at military site",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260503-french-interior-minister-promises-crackdown-on-illegal-rave-parties",
+      "published_date": "2026-05-03T15:24:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian strikes on Ukraine kill three",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russian-strikes-on-ukraine-kill-three",
+      "published_date": "2026-05-03T15:24:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian drones strike Russia's Primorsk oil port",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260503-ukrainian-drones-strike-russia-baltic-sea-port-primorsk",
+      "published_date": "2026-05-03T14:26:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T13:43:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Republicans ‘concerned’ after Trump threatens to withdraw more US troops from Germany",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/trump-threats-withdraw-troops-from-germany",
+      "published_date": "2026-05-03T13:39:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The week in pictures: May Day marches, King Charles in Bermuda and Mali's rebel push",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260503-the-week-in-pictures-may-day-marches-king-charles-in-bermuda-and-mali-s-rebel-push",
+      "published_date": "2026-05-03T12:46:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "World Press Freedom Day 2026: RSF report says press freedom at its lowest in 25 years",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260503-world-press-freedom-day-2026-rsf-report-says-press-freedom-at-its-lowest-in-25-years",
+      "published_date": "2026-05-03T12:18:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Illegal party at French military site draws nearly 40,000",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/illegal-party-at-french-military-site-draws-nearly-40-000",
+      "published_date": "2026-05-03T12:17:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Elderly Ukrainian woman rescued using robotic vehicle",
@@ -186,102 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-02T23:13:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine battlefield: Advanced Ukrainian drones raise concerns among Russian forces",
+      "title": "OPEC+ raises oil output quotas for 'stability' after shock UAE pull-out",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260502-ukraine-battlefield-advanced-ukrainian-drones-raise-concerns-among-russian-forces",
-      "published_date": "2026-05-02T19:11:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali in crisis: Jihadist fighters and Tuareg separatists threaten Bamako",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260502-mali-in-crisis-jihadist-fighters-and-tuareg-separatists-threaten-bamako",
-      "published_date": "2026-05-02T18:44:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nato seeks to ‘understand the details’ of US decision to withdraw troops from Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
-      "published_date": "2026-05-02T17:52:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey boosts Mali defence ties after separatist and jihadist attacks",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260502-turkey-boosts-mali-defence-ties-after-separatist-and-jihadist-attacks",
-      "published_date": "2026-05-02T16:27:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hijackings off Somalia raise fears that piracy is back on the rise",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260502-hijackings-off-somalia-raise-fears-that-piracy-is-back-on-the-rise",
-      "published_date": "2026-05-02T15:19:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon announces withdrawal of 5.000 soldiers from Germany",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/pentagon-announces-withdrawal-of-5-000-soldiers-from-germany",
-      "published_date": "2026-05-02T15:18:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon partners with seven AI firms",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/pentagon-partners-with-seven-ai-firms",
-      "published_date": "2026-05-02T14:38:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Berlin urges stronger European defence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/berlin-urges-stronger-european-defence",
-      "published_date": "2026-05-02T14:37:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali probes soldiers working with rebels",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/mali-probes-soldiers-working-with-rebels",
-      "published_date": "2026-05-02T14:27:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO in talks with US over troops cuts",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nato-in-talks-with-us-over-troops-cuts",
-      "published_date": "2026-05-02T14:25:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali investigates soldiers over role in coordinated insurgent attacks",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260502-mali-investigates-soldiers-over-role-in-coordinated-insurgent-attacks",
-      "published_date": "2026-05-02T13:39:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Illegal rave draws 20,000 to 'dangerous' military site in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260502/illegal-rave-draws-20000-to-dangerous-military-site-in-france",
-      "published_date": "2026-05-02T12:24:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan's medicine crisis worsens",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sudan-s-medicine-crisis-worsens",
-      "published_date": "2026-05-02T12:22:55+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/middle-east/20260503-opec-increases-production-quotas-without-mentioning-uae-withdrawal",
+      "published_date": "2026-05-03T12:13:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "The tech project bringing some of Malawi's remotest schools into the digital age",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "France unveils roadmap to ditch all fossil fuels by 2050",
+      "title": "Madagascar revives Vara Mada mining project as key investment awaits approval",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260429-france-unveils-roadmap-to-ditch-all-fossil-fuels-by-2050",
-      "published_date": "2026-04-29T01:08:20+00:00",
-      "category": "Energy"
+      "url": "https://www.rfi.fr/en/africa/20260503-madagascar-revives-vara-mada-mining-project-as-key-investment-awaits-approval",
+      "published_date": "2026-05-03T15:56:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US airlines step up as Spirit winds down",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-airlines-step-up-as-spirit-winds-down",
+      "published_date": "2026-05-03T14:13:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "Cuba's economy collapses, prices soar",
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Staff at French medical labs to strike in May",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260427/staff-at-french-medical-labs-to-strike-in-may",
-      "published_date": "2026-04-27T09:42:16+00:00",
-      "category": "Economy"
+      "title": "Shakira rocks Copacabana with 2 million fans",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/shakira-rocks-copacabana-with-2-million-fans",
+      "published_date": "2026-05-03T14:14:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Phantoms of July review – interlocking tales hop across time in funny-quirky fable with a point",
+      "title": "Heathrow in talks with airlines to end row that could delay third runway",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/27/phantoms-of-july-review",
-      "published_date": "2026-04-27T05:00:35+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/may/03/heathrow-talks-deal-airlines-row-third-runway-expansion-delay",
+      "published_date": "2026-05-03T14:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two women suffocate on migrant boat off French coast seeking to reach UK",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260503/two-women-suffocate-on-migrant-boat-off-french-coast-seeking-to-reach-uk",
+      "published_date": "2026-05-03T13:19:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Two women die on migrant boat near France seeking to reach UK",
@@ -680,27 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/lifeandstyle/2026/may/01/italian-city-dog-owners-clear-up-urine-fine-livorno",
       "published_date": "2026-05-01T13:47:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fighting racism 'must be at heart of presidential debate', French mayor tells RFI",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260501-fighting-racism-must-be-at-heart-of-france-presidential-debate-bagayoko-tells-rfi-saint-denis-mayor",
-      "published_date": "2026-05-01T09:56:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Belle Vie: Seafood festivals to choosing trains over planes",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260501/la-belle-vie-seafood-festivals-to-choosing-trains-over-planes",
-      "published_date": "2026-05-01T08:30:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK police charge man with attempted murder for stabbing two Jewish Londoners",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260501-uk-police-charge-man-with-attempted-murder-for-stabbing-two-jewish-londoners",
-      "published_date": "2026-05-01T06:31:58+00:00",
       "category": "Local Events"
     }
   ]
