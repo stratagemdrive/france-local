@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-05-02T23:39:20.944591+00:00",
+  "last_updated": "2026-05-03T11:38:16.231264+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Two women die on migrant boat attempting to reach the UK from France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260503-two-women-die-on-a-small-migrant-boat-trying-to-reach-the-uk",
+      "published_date": "2026-05-03T09:01:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "New tariff hike could cost Germany $18BN",
       "source": "France 24",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron on the world stage:  French president 'very popular everywhere in Europe, except for France'",
+      "title": "Elderly Ukrainian woman rescued using robotic vehicle",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260501-macron-on-the-world-stage-french-president-very-popular-everywhere-in-europe-except-for-france-1",
-      "published_date": "2026-05-01T09:41:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ukrainian-elderly-woman-rescued-using-robotic-vehicle",
+      "published_date": "2026-05-03T08:41:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New Iranian proposal to end the war under examination",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/new-iranian-proposal-to-end-the-war-under-examination",
+      "published_date": "2026-05-03T08:38:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two foreign activists seized from Gaza aid flotilla appear before Israeli court",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260503-two-foreign-activists-seized-from-gaza-aid-flotilla-appear-before-israeli-court",
+      "published_date": "2026-05-03T08:36:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Illegal party at French military site draws up to 40,000 ravers",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260503/illegal-party-at-french-military-site-draws-up-to-40000-ravers",
+      "published_date": "2026-05-03T07:32:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: Trump says he 'can't imagine' Iran's latest peace plan is acceptable",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260503-middle-east-war-live-trump-says-he-can-t-imagine-iran-s-latest-peace-plan-is-acceptable",
+      "published_date": "2026-05-03T05:06:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russia tries for a foothold in Ukraine’s eastern ‘fortress belt’, continues attacks on civilians",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/03/ukraine-war-briefing-russia-tries-for-a-foothold-in-ukraines-eastern-fortress-belt-continues-attacks-on-civilians",
+      "published_date": "2026-05-03T00:56:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine hits oil facilities in Russia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-hits-oil-facilities-in-russia",
-      "published_date": "2026-05-02T12:21:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Senior Iranian officer says renewed war with US ‘likely’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260502-senior-iranian-officer-says-renewed-war-with-us-likely",
-      "published_date": "2026-05-02T12:21:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali: Rebels take key Tessalit military camp",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp-1",
-      "published_date": "2026-05-02T12:19:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US to withdraw 5.000 troops from Germany",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-to-withdraw-5-000-troops-from-germany-1",
-      "published_date": "2026-05-02T12:14:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "USA: Soaring petrol prices in California",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/usa-soaring-petrol-prices-in-california",
-      "published_date": "2026-05-02T11:30:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
-      "published_date": "2026-05-02T11:18:29+00:00",
-      "category": "Military"
+      "title": "The tech project bringing some of Malawi's remotest schools into the digital age",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260503-the-tech-project-bringing-some-of-malawi-s-remotest-schools-into-the-digital-age",
+      "published_date": "2026-05-03T08:26:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Octopus Energy boss: some people would accept blackouts if bills cut",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "UAE OPEC departure 'a manifestation of dissatisfaction vis à vis Saudi Arabia', expert says",
+      "title": "Cuba's economy collapses, prices soar",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260428-uae-opec-departure-a-manifestation-of-dissatisfaction-vis-%C3%A0-vis-saudi-arabia-expert-says",
-      "published_date": "2026-04-28T21:54:34+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/cuba-s-economy-collapses-prices-soar",
+      "published_date": "2026-05-03T10:04:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inflation surging past 50% in Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/inflation-surging-past-50-in-iran",
+      "published_date": "2026-05-03T08:40:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hosepipe bans, tax help, and driving offences: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260503/hosepipe-bans-tax-help-and-driving-offences-6-essential-articles-for-life-in-france",
+      "published_date": "2026-05-03T06:30:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "Criminal groups recruit women to cater to female clients",
@@ -543,25 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs",
-      "published_date": "2026-04-26T21:30:25+00:00",
-      "category": "Economy"
+      "title": "Two women die on migrant boat near France seeking to reach UK",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260503-two-women-die-on-migrant-boat-near-france-seeking-to-reach-uk",
+      "published_date": "2026-05-03T11:00:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ryanair to shut Berlin base as it blames rise in German aviation tax",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/26/ryanair-shut-berlin-base-blames-german-aviation-tax-union",
-      "published_date": "2026-04-26T13:44:01+00:00",
-      "category": "Economy"
+      "title": "Anti-Christian aggressions on the rise in Jerusalem",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/anti-christian-aggressions-has-been-on-the-rise-in-jerusalem",
+      "published_date": "2026-05-03T10:05:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Cannes AI film festival raises eyebrows – and questions about future",
+      "title": "Gaza flotilla activists from Spain and Brazil appear in Israeli court",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future",
-      "published_date": "2026-04-26T06:00:07+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/may/03/gaza-flotilla-activists-spain-brazil-appear-israel-court",
+      "published_date": "2026-05-03T09:02:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG held to a draw by Lorient ahead of Bayern Munich Champions League clash",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260503-psg-held-draw-lorient-ahead-bayern-munich-champions-league-clash",
+      "published_date": "2026-05-03T08:51:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian Nobel laureate Narges Mohammadi hospitalised",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iranian-nobel-laureate-narges-mohammadi-hospitalised",
+      "published_date": "2026-05-03T08:39:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'We cannot give up': Hong Kong journalists navigate fear, surveillance and shrinking space",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260503-hong-kong-journalists-fear-surveillance-press-freedom-lai-shrinking-space",
+      "published_date": "2026-05-03T06:56:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260503/on-the-agenda-whats-happening-in-france-this-week-208",
+      "published_date": "2026-05-03T06:31:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Imprisoned Iranian Nobel laureate Mohammadi rushed to hospital following cardiac 'crisis'",
@@ -652,55 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260501-uk-police-charge-man-with-attempted-murder-for-stabbing-two-jewish-londoners",
       "published_date": "2026-05-01T06:31:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Workers across the world march for peace and better pay in May Day rallies",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260501-workers-across-the-world-march-for-peace-and-better-pay-in-may-day-rallies",
-      "published_date": "2026-05-01T06:02:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG closing in on another French title before Bayern second leg",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260501-psg-closing-in-on-another-french-title-before-bayern-second-leg",
-      "published_date": "2026-05-01T04:10:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Trump backs proposal to rename ICE as ‘NICE’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/donald-trump-backs-proposal-to-rename-ice-as-nice",
-      "published_date": "2026-04-30T19:55:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World's largest sailing yacht christened in Saint Nazaire shipyards",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/world-s-largest-sailing-yacht-christened-in-saint-nazaire-shipyards",
-      "published_date": "2026-04-30T18:50:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four rescued from Seine after bus plunges into river near Paris",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/30/bus-crash-seine-river-juvisy-sur-orge-paris",
-      "published_date": "2026-04-30T16:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trainee driver crashes bus into River Seine",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-30T15:34:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer heckled with ‘Jew harmer’ shouts after London knife attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260430-starmer-heckled-with-jew-harmer-shouts-after-london-knife-attack",
-      "published_date": "2026-04-30T15:04:11+00:00",
       "category": "Local Events"
     }
   ]
