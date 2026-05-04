@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-05-03T23:40:48.649864+00:00",
+  "last_updated": "2026-05-04T12:19:04.365851+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
+      "published_date": "2026-05-04T11:46:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron calls for coordinated reopening of Hormuz as US initiative draws doubts",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260504-macron-calls-for-coordinated-reopening-of-hormuz-as-us-initiative-draws-doubts-iran-shipping",
+      "published_date": "2026-05-04T10:01:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe, Canada leaders hold Yerevan talks in Trump's shadow",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260504-europe-canada-leaders-hold-yerevan-talks-in-trump-s-shadow",
+      "published_date": "2026-05-04T09:04:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada joins European summit in Armenia as leaders confront security challenges",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260504-canada-joins-european-summit-in-armenia-as-leaders-confront-security-challenges",
+      "published_date": "2026-05-04T07:06:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU forging closer ties with Armenia as it sends experts to help counter Russian interference",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/eu-closer-ties-armenia-counter-russian-interference",
+      "published_date": "2026-05-04T04:00:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spanish PM Pedro Sanchez’s plane makes emergency landing in Turkey",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260504-spanish-pm-pedro-s%C3%A1nchez-s-plane-makes-emergency-landing-in-turkey",
+      "published_date": "2026-05-04T01:24:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
       "source": "The Guardian",
@@ -102,46 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The industrial crisis is challenging both the EU and France's distinct social and economic models",
+      "title": "A diary of America's wars with photographer Peter van Agtmael",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260501-the-industrial-crisis-has-challenging-both-the-eu-and-france-s-distinct-social-and-economic-models",
-      "published_date": "2026-05-01T14:15:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260504-a-diary-of-america-s-wars-with-photographer-peter-van-agtmael",
+      "published_date": "2026-05-04T12:12:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Planned EU-Taliban talks on return of Afghan nationals spark backlash",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260501-planned-eu-taliban-talks-on-return-of-afghan-nationals-spark-backlash",
-      "published_date": "2026-05-01T14:04:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'We should be able to open up negotiations' with Ukraine, Sweden's EU minister says",
+      "title": "Hezbollah deploys hard-to-jam fibre optic drones, shifting battlefield tactics",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260501-we-should-be-able-to-open-up-negotiations-with-ukraine-sweden-s-eu-minister-says",
-      "published_date": "2026-05-01T12:45:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260504-hezbollah-deploys-hard-to-jam-fibre-optic-drones-shifting-battlefield-tactics",
+      "published_date": "2026-05-04T12:00:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "'A common enemy, but not a common project': A fragile jihadist-separatist alliance in Mali",
+      "title": "US to 'guide' stranded ships from Hormuz: What we know about 'Project Freedom'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260501-common-enemy-but-not-common-project-fragile-jihadist-separatist-alliance-in-mali",
-      "published_date": "2026-05-01T12:38:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260504-us-to-guide-stranded-ships-from-hormuz-what-we-know-about-project-freedom",
+      "published_date": "2026-05-04T11:36:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hungary and Bulgaria elections: EU's new ally and new adversary?",
+      "title": "Israeli minister's 'disgusting noose cake' draws widespread criticism",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260501-hungary-and-bulgaria-elections-eu-s-new-ally-and-new-adversary",
-      "published_date": "2026-05-01T12:05:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260504-israeli-minister-s-disgusting-noose-cake-draws-widespread-criticism",
+      "published_date": "2026-05-04T09:50:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Washington sanctions former DRC president Kabila over 'support' for rebels",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260501-washington-sanctions-former-drc-president-kabila-over-support-for-rebels-m23-afc",
-      "published_date": "2026-05-01T10:18:19+00:00",
-      "category": "Diplomacy"
+      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-04T09:49:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says US operation will aid ships stranded in Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260504-trump-says-us-operation-will-aid-ships-stranded-in-strait-of-hormuz",
+      "published_date": "2026-05-04T09:05:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German chancellor downplays row with Trump after troop drawdown announced",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260504-german-chancellor-downplays-row-with-trump-after-troop-drawdown-announced",
+      "published_date": "2026-05-04T08:59:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defence in focus at European Political Community Summit in Yerevan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260504-defence-in-focus-at-european-political-community-summit-in-yerevan",
+      "published_date": "2026-05-04T08:57:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon's food security crisis and displacement 'going to have a lasting effect'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/lebanon-s-food-security-crisis-and-displacement-going-to-have-a-lasting-effect",
+      "published_date": "2026-05-04T08:51:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A look at the US military presence in Europe as Trump seeks to withdraw troops from Germany",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260504-what-to-know-us-military-presence-europe-trump-seeks-troop-drawdown-germany",
+      "published_date": "2026-05-04T07:19:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sketches of Spain at arms: Sim, the anarchist illustrator who drew the civil war from the frontline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/may/04/sim-spanish-civil-war-artist-jose-luis-rey-vila-barcelona-exhibition",
+      "published_date": "2026-05-04T05:00:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Australia holds public hearings on rise in anti-Semitism ahead of Bondi Beach shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260504-australian-inquiry-opens-public-hearings-into-bondi-beach-shooting",
+      "published_date": "2026-05-04T03:07:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "European and Canadian leaders hold security talks in Yerevan amid uncertainty over US policy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260504-europe-canada-leaders-meet-in-armenia-amid-uncertainty-over-us-policy-trump-russia-ukraine-iran-war-nato",
+      "published_date": "2026-05-04T01:53:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Merz ‘not giving up on working with Trump’ despite Iran war spat",
@@ -193,95 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russian strikes on Ukraine kill three",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russian-strikes-on-ukraine-kill-three",
-      "published_date": "2026-05-03T15:24:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian drones strike Russia's Primorsk oil port",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260503-ukrainian-drones-strike-russia-baltic-sea-port-primorsk",
-      "published_date": "2026-05-03T14:26:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T13:43:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Republicans ‘concerned’ after Trump threatens to withdraw more US troops from Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/03/trump-threats-withdraw-troops-from-germany",
-      "published_date": "2026-05-03T13:39:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The week in pictures: May Day marches, King Charles in Bermuda and Mali's rebel push",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260503-the-week-in-pictures-may-day-marches-king-charles-in-bermuda-and-mali-s-rebel-push",
-      "published_date": "2026-05-03T12:46:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "World Press Freedom Day 2026: RSF report says press freedom at its lowest in 25 years",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260503-world-press-freedom-day-2026-rsf-report-says-press-freedom-at-its-lowest-in-25-years",
-      "published_date": "2026-05-03T12:18:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Illegal party at French military site draws nearly 40,000",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/illegal-party-at-french-military-site-draws-nearly-40-000",
-      "published_date": "2026-05-03T12:17:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Elderly Ukrainian woman rescued using robotic vehicle",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukrainian-elderly-woman-rescued-using-robotic-vehicle",
-      "published_date": "2026-05-03T08:41:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New Iranian proposal to end the war under examination",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/new-iranian-proposal-to-end-the-war-under-examination",
-      "published_date": "2026-05-03T08:38:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two foreign activists seized from Gaza aid flotilla appear before Israeli court",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260503-two-foreign-activists-seized-from-gaza-aid-flotilla-appear-before-israeli-court",
-      "published_date": "2026-05-03T08:36:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Illegal party at French military site draws up to 40,000 ravers",
+      "title": "France pushes for global action on methane emissions",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260503/illegal-party-at-french-military-site-draws-up-to-40000-ravers",
-      "published_date": "2026-05-03T07:32:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: Trump says he 'can't imagine' Iran's latest peace plan is acceptable",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260503-middle-east-war-live-trump-says-he-can-t-imagine-iran-s-latest-peace-plan-is-acceptable",
-      "published_date": "2026-05-03T05:06:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russia tries for a foothold in Ukraine’s eastern ‘fortress belt’, continues attacks on civilians",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/03/ukraine-war-briefing-russia-tries-for-a-foothold-in-ukraines-eastern-fortress-belt-continues-attacks-on-civilians",
-      "published_date": "2026-05-03T00:56:25+00:00",
-      "category": "Military"
+      "url": "https://www.thelocal.fr/20260504/france-pushes-for-global-action-on-methane-emissions",
+      "published_date": "2026-05-04T09:49:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "OPEC+ raises oil output quotas for 'stability' after shock UAE pull-out",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Europe hit by record heat, glacier loss and marine extremes: report",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260429-europe-hit-by-record-heat-glacier-loss-and-marine-extremes-report",
-      "published_date": "2026-04-29T02:26:26+00:00",
-      "category": "Energy"
+      "title": "GameStop makes $56 billion bid to take over eBay in hopes of building Amazon rival",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260504-gamestop-makes-56-billion-bid-to-take-over-ebay-in-hopes-of-building-amazon-rival",
+      "published_date": "2026-05-04T08:47:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "Madagascar revives Vara Mada mining project as key investment awaits approval",
@@ -557,11 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Orbán may be gone, but his prejudices are now baked into the European political mainstream | Shada Islam",
+      "title": "Australian inquiry opens public hearings into Bondi Beach shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260504-australian-inquiry-opens-public-hearings-into-bondi-beach-shooting",
+      "published_date": "2026-05-04T09:03:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Should kitesurf be banned? French mayor wants to ban sport to keep sea swimmers safe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260504-should-kitesurf-be-banned-french-mayor-wants-to-ban-sport-to-keep-sea-swimmers-safe",
+      "published_date": "2026-05-04T09:00:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ligue 1: Lyon defeat Rennes as they close in on Champions League qualification",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260504-ligue-1-lyon-defeat-rennes-as-they-close-in-on-champions-league-qualification",
+      "published_date": "2026-05-04T07:01:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French senators clear path for return of Kali'na remains to French Guiana",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260504-french-senators-smooth-path-for-return-to-french-guiana-of-kali-na-human-zoo",
+      "published_date": "2026-05-04T06:12:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Strikes on Russia’s Primorsk oil port and ships",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/27/orban-europe-eu-racism-migration-border",
-      "published_date": "2026-04-27T11:31:11+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/may/04/ukraine-war-briefing-strikes-on-russias-primorsk-oil-port-and-ships",
+      "published_date": "2026-05-04T01:45:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former New York mayor Rudy Giuliani hospitalised in critical condition",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260504-former-new-york-mayor-rudy-giuliani-in-critical-condition-in-hospital",
+      "published_date": "2026-05-04T01:36:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "European leaders converge on Armenia as Russia looks on",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T23:19:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Shakira rocks Copacabana with 2 million fans",
@@ -652,55 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/02/landstuhl-german-town-rocked-trump-plan-withdraw-us-troops",
       "published_date": "2026-05-02T11:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG return to Ligue 1 action four days after epic match against Bayern",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260502-psg-return-ligue-1-action-four-days-after-epic-match-against-bayern",
-      "published_date": "2026-05-02T09:37:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letters and photos from Beatles’ early days to go on show in Hamburg",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/may/02/beatles-early-days-letters-photos-hamburg-exhibition",
-      "published_date": "2026-05-02T09:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescuers transport stranded whale by barge to freedom in North Sea",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260502-humpback-whale-stranded-in-germany-released-by-barge-into-north-sea",
-      "published_date": "2026-05-02T08:13:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside France: The love lives of French politicians and an alternative Francophone USA",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260502/inside-france-the-love-lives-of-french-politicians-and-an-alternative-francophone-usa",
-      "published_date": "2026-05-02T07:57:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CCTV captures moment man attacks nun in Jerusalem – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/may/01/cctv-captures-moment-man-attacks-nun-in-jerusalem-video",
-      "published_date": "2026-05-01T16:36:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour Day sees clashes as French unions demand pay rise and bakery row continues",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260501-labour-day-sees-clashes-as-french-unions-demand-pay-rise-and-bakery-row-continues",
-      "published_date": "2026-05-01T16:28:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian city orders dog owners to wash away urine or face €500 fine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/01/italian-city-dog-owners-clear-up-urine-fine-livorno",
-      "published_date": "2026-05-01T13:47:26+00:00",
       "category": "Local Events"
     }
   ]
