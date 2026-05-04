@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-05-04T12:19:04.365851+00:00",
-  "story_count": 100,
+  "last_updated": "2026-05-04T23:51:58.270702+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Armenia turns 'towards Europe' as Macron highlights shift from Russia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260504-armenia-turns-towards-europe-as-macron-highlights-shift-from-russia",
+      "published_date": "2026-05-04T23:19:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'America has confirmed everything that Iran has been telling its population', analyst says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/america-has-confirmed-everything-that-iran-has-been-telling-its-population-analyst-says",
+      "published_date": "2026-05-04T19:27:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Starmer lauds £78bn EU loan for Ukraine amid increased Trump tensions",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/europe-must-face-up-to-tensions-with-trump-keir-starmer-says",
+      "published_date": "2026-05-04T18:37:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Poking the bear? Armenia welcomes European leaders in Russia's backyard",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260504-poking-the-bear-armenia-welcomes-european-leaders-in-russia-s-backyard",
+      "published_date": "2026-05-04T18:15:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Austria expels three Russian embassy staff after ‘forest of antennae’ discovered",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/austria-expels-three-russian-embassy-staff-vienna-suspicion-of-spying",
+      "published_date": "2026-05-04T14:40:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Far beyond’ EU and NATO: Armenia hosts EPC summit cast as ‘gateway’ in shifting diplomatic order",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260504-far-beyond-eu-and-nato-armenia-hosts-epc-summit-cast-as-gateway-in-shifting-diplomatic-order-1",
+      "published_date": "2026-05-04T12:57:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – UK politics live",
       "source": "The Guardian",
@@ -102,46 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump says he will hike tariffs on EU cars to 25%",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T19:42:56+00:00",
-      "category": "Diplomacy"
+      "title": "US and UAE report Iran attacks as military pushes to reopen Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260504-us-and-uae-report-iran-attacks-as-military-pushes-to-reopen-strait-of-hormuz",
+      "published_date": "2026-05-04T23:43:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump tears up part of EU tariff deal to raise import duties on cars and lorries",
+      "title": "Opaque nature of US-Iran shadow war: Are they 'dancing their way out of a minefield' toward a deal?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260504-opaque-nature-of-us-iran-shadow-war-are-they-dancing-their-way-out-of-a-minefield-toward-a-deal",
+      "published_date": "2026-05-04T20:49:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Assimi Goita appoints himself defence minister",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/assimi-goita-appoints-himself-defence-minister",
+      "published_date": "2026-05-04T20:38:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War of words: Trump, Iran trade claims of missile strikes in the Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-of-words-trump-iran-trade-claims-of-missile-strikes-in-the-strait-of-hormuz-1",
+      "published_date": "2026-05-04T19:48:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fujairah oil zone hit by fire after drone attack as UAE says it intercepted Iran missiles",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/fujairah-oil-zone-hit-by-fire-after-drone-attack-as-uae-says-it-intercepted-iran-missiles",
+      "published_date": "2026-05-04T18:54:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin and Zelensky both unilaterally declare conflicting 2-day truces",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260504-putin-threatens-massive-missile-strike-on-kyiv-if-ukraine-breaks-two-day-truce",
+      "published_date": "2026-05-04T18:40:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe, Canada pull together in Yerevan in Trump's shadow",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe-canada-pull-together-in-yerevan-in-trump-s-shadow",
+      "published_date": "2026-05-04T18:28:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran fires 'warning shots' as US Navy says its ships entered Gulf via Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-fires-warning-shots-as-us-navy-says-its-ships-entered-gulf-via-hormuz",
+      "published_date": "2026-05-04T18:18:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Guardian view on Trump, Merz and Europe’s security: EU countries cannot go it alone | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-tears-up-eu-tariff-deal-raises-import-duties-europe",
-      "published_date": "2026-05-01T19:08:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/may/04/the-guardian-view-on-trump-merz-and-europes-security-eu-countries-cannot-go-it-alone",
+      "published_date": "2026-05-04T17:31:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cubans mark May Day amid rising humanitarian crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/cubans-mark-may-day-amid-rising-humanitarian-crisis",
-      "published_date": "2026-05-01T16:30:42+00:00",
-      "category": "Diplomacy"
+      "title": "Central Europe is a laboratory for political trends | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/central-europe-is-a-laboratory-for-political-trends",
+      "published_date": "2026-05-04T15:54:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "How the Golan Heights emerged as a new front in Israeli expansion",
+      "title": "Are Mali’s Tuareg-led FLA fighters terrorists or separatists?",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260501-how-the-golan-heights-has-emerged-as-a-new-front-in-israeli-expansion-syria",
-      "published_date": "2026-05-01T16:14:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260504-are-mali-s-tuareg-led-fla-fighters-terrorists-or-separatists-azawad-liberation-front",
+      "published_date": "2026-05-04T15:47:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says he will raise tariffs on EU autos to 25% for 'not complying' with trade deal",
+      "title": "Allies jolted on defence as Trump pulls troops from Germany",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260501-trump-says-he-will-raise-tariffs-on-eu-autos-to-25",
-      "published_date": "2026-05-01T16:01:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260504-allies-jolted-on-defence-as-trump-pulls-troops-from-germany",
+      "published_date": "2026-05-04T15:28:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "France, Germany send firefighters to help battle Dutch blazes",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260501/france-sends-firefighters-to-help-battle-blazes-in-netherlands",
-      "published_date": "2026-05-01T14:43:23+00:00",
-      "category": "Diplomacy"
+      "title": "Mali crisis: Junta entrenches itself with no political solution in sight",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260504-mali-crisis-junta-entrenches-itself-with-no-political-solution-in-sight",
+      "published_date": "2026-05-04T15:24:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany’s military power is on the rise. This time it must be firmly embedded in Europe | Timothy Garton Ash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/04/germany-military-power-rise-embedded-europe-us-trump",
+      "published_date": "2026-05-04T14:39:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Musk vs. Altman: Battle of the tech bros underway in California courthouse",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/tech-24/20260504-musk-vs-altman-battle-of-the-tech-bros-underway-in-california-courthouse",
+      "published_date": "2026-05-04T13:15:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Radical left Jean-Luc Mélenchon announces 2027 French presidential bid",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/france-jean-luc-melenchon-president-bid-2027",
+      "published_date": "2026-05-04T12:26:09+00:00",
+      "category": "Military"
     },
     {
       "title": "A diary of America's wars with photographer Peter van Agtmael",
@@ -172,116 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-04T09:49:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US operation will aid ships stranded in Strait of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260504-trump-says-us-operation-will-aid-ships-stranded-in-strait-of-hormuz",
-      "published_date": "2026-05-04T09:05:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German chancellor downplays row with Trump after troop drawdown announced",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260504-german-chancellor-downplays-row-with-trump-after-troop-drawdown-announced",
-      "published_date": "2026-05-04T08:59:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defence in focus at European Political Community Summit in Yerevan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260504-defence-in-focus-at-european-political-community-summit-in-yerevan",
-      "published_date": "2026-05-04T08:57:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon's food security crisis and displacement 'going to have a lasting effect'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/lebanon-s-food-security-crisis-and-displacement-going-to-have-a-lasting-effect",
-      "published_date": "2026-05-04T08:51:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A look at the US military presence in Europe as Trump seeks to withdraw troops from Germany",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260504-what-to-know-us-military-presence-europe-trump-seeks-troop-drawdown-germany",
-      "published_date": "2026-05-04T07:19:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sketches of Spain at arms: Sim, the anarchist illustrator who drew the civil war from the frontline",
+      "title": "Norwegian fish farms polluting fjords with waste likened to ‘raw sewage of millions of people’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/may/04/sim-spanish-civil-war-artist-jose-luis-rey-vila-barcelona-exhibition",
-      "published_date": "2026-05-04T05:00:15+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/may/04/norwegian-fish-farms-polluting-fjords-with-waste-likened-to-raw-sewage-of-millions-of-people",
+      "published_date": "2026-05-04T22:01:34+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Australia holds public hearings on rise in anti-Semitism ahead of Bondi Beach shooting",
+      "title": "Can solar cars become mainstream?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260504-australian-inquiry-opens-public-hearings-into-bondi-beach-shooting",
-      "published_date": "2026-05-04T03:07:16+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/business/20260504-can-solar-cars-become-mainstream",
+      "published_date": "2026-05-04T21:24:09+00:00",
+      "category": "Energy"
     },
     {
-      "title": "European and Canadian leaders hold security talks in Yerevan amid uncertainty over US policy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260504-europe-canada-leaders-meet-in-armenia-amid-uncertainty-over-us-policy-trump-russia-ukraine-iran-war-nato",
-      "published_date": "2026-05-04T01:53:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Merz ‘not giving up on working with Trump’ despite Iran war spat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/03/merz-not-giving-up-on-working-with-trump-despite-iran-war-spat",
-      "published_date": "2026-05-03T20:27:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran reviews US response to peace proposal, warns against further military action",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260503-iran-reviews-us-response-to-peace-proposal-warns-against-further-military-action",
-      "published_date": "2026-05-03T16:45:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French minister vows crackdown on illegal raves",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260503/french-minister-vows-crackdown-on-illegal-raves",
-      "published_date": "2026-05-03T16:31:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two US service members missing after joint military exercises in Morocco",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260503-two-us-service-members-missing-after-joint-military-exercises-in-morocco",
-      "published_date": "2026-05-03T16:24:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italian media reports US top diplomat Rubio to meet Pope Leo",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/italian-media-reports-us-top-diplomat-rubio-to-meet-pope-leo",
-      "published_date": "2026-05-03T15:26:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Southern Lebanon: Israeli strikes kill one, wounds rescuers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/southern-lebanon-israeli-strikes-kill-one-wounds-rescuers",
-      "published_date": "2026-05-03T15:25:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French interior minister vows crackdown on illegal raves after thousands gather at military site",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260503-french-interior-minister-promises-crackdown-on-illegal-rave-parties",
-      "published_date": "2026-05-03T15:24:24+00:00",
-      "category": "Military"
+      "title": "France urges faster methane cuts as emissions remain at record high",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260504-france-urges-faster-methane-cuts-as-emissions-remain-at-record-high-environment",
+      "published_date": "2026-05-04T12:23:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "France pushes for global action on methane emissions",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "TotalEnergies profits surge amid Iran war, sparking calls for windfall tax",
+      "title": "France introduces one‑euro canteen meals for all students",
       "source": "France 24",
-      "url": "https://www.france24.com/en/business/20260429-totalenergies-first-quarter-profits-surge-amid-middle-east-war",
-      "published_date": "2026-04-29T07:49:10+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "From the oceans into our bodies: Plastic pollution 'associated with obesity and dementia'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260429-from-the-oceans-into-our-bodies-plastic-pollution-associated-with-obesity-and-dementia",
-      "published_date": "2026-04-29T07:10:34+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "France unveils plan to ditch all fossil fuels by 2050",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260429/france-unveils-plan-to-ditch-all-fossil-fuels-by-2050",
-      "published_date": "2026-04-29T07:06:48+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/france/20260504-in-france-a-one%E2%80%91euro-university-meals-for-all-students",
+      "published_date": "2026-05-04T16:07:13+00:00",
+      "category": "Economy"
     },
     {
       "title": "GameStop makes $56 billion bid to take over eBay in hopes of building Amazon rival",
@@ -543,25 +550,46 @@
       "category": "Economy"
     },
     {
-      "title": "Culture of hate? Trump's America and the White House press gala shooting",
+      "title": "Secret Service shoots armed suspect near White House after brief lockdown",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260427-culture-of-hate-trump-s-america-and-the-white-house-press-gala-shooting",
-      "published_date": "2026-04-27T19:18:48+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/americas/20260504-secret-service-shoots-armed-suspect-near-white-house-after-brief-lockdown",
+      "published_date": "2026-05-04T22:55:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EU faces ‘China shock’ as EV imports drive Beijing’s record surplus with bloc",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/27/eu-faces-china-shock-as-ev-imports-drive-beijings-record-surplus-with-bloc",
-      "published_date": "2026-04-27T16:08:33+00:00",
-      "category": "Economy"
+      "title": "Two dead as car ploughs into crowd in Germany's Leipzig",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/two-dead-as-car-ploughs-into-crowd-in-germany-s-leipzig",
+      "published_date": "2026-05-04T18:34:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Venice opera house fires government-linked music director after months of protests",
+      "title": "'Deeply shocked': Leipzig mayor reacts after car rams crowd in Germany – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/apr/27/venice-opera-house-fires-incoming-music-director-who-made-nepotism-claims",
-      "published_date": "2026-04-27T12:19:15+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/may/04/leipzig-mayor-reacts-car-rams-crowd-germany-video",
+      "published_date": "2026-05-04T18:30:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two killed and several hurt after car ploughs into crowds in German city of Leipzig",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/car-runs-into-crowd-in-german-city-of-leipzig-with-fatalities-reported",
+      "published_date": "2026-05-04T17:45:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather tracker: Cold spells in Greece and Turkey, and storms in Bangladesh",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/04/weather-tracker-greece-winds-turkey-rain-bangladesh-storms-central-europe-heat",
+      "published_date": "2026-05-04T15:01:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Missile strike on Ukraine's Kharkiv region kills five, destroys infrastructure",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260504-missile-strike-ukraine-kharkiv-region-kills-five-destroys-infrastructure",
+      "published_date": "2026-05-04T12:53:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Australian inquiry opens public hearings into Bondi Beach shooting",
@@ -659,48 +687,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/sports/20260503-psg-held-draw-lorient-ahead-bayern-munich-champions-league-clash",
       "published_date": "2026-05-03T08:51:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian Nobel laureate Narges Mohammadi hospitalised",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iranian-nobel-laureate-narges-mohammadi-hospitalised",
-      "published_date": "2026-05-03T08:39:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We cannot give up': Hong Kong journalists navigate fear, surveillance and shrinking space",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260503-hong-kong-journalists-fear-surveillance-press-freedom-lai-shrinking-space",
-      "published_date": "2026-05-03T06:56:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On the Agenda: What’s happening in France this week",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260503/on-the-agenda-whats-happening-in-france-this-week-208",
-      "published_date": "2026-05-03T06:31:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imprisoned Iranian Nobel laureate Mohammadi rushed to hospital following cardiac 'crisis'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/imprisoned-iranian-nobel-laureate-mohammadi-rushed-hospital-following-severe-cardiac-crisis",
-      "published_date": "2026-05-02T15:41:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG fringe team held by Lorient as Bayern Munich return leg looms",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260502-struggling-nantes-deepen-marseille-s-woes-in-ligue-1",
-      "published_date": "2026-05-02T15:18:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We love our Americans’: the German town rocked by Trump’s plan to withdraw US troops",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/02/landstuhl-german-town-rocked-trump-plan-withdraw-us-troops",
-      "published_date": "2026-05-02T11:00:26+00:00",
       "category": "Local Events"
     }
   ]
