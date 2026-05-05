@@ -1,8 +1,71 @@
 {
   "country": "France",
-  "last_updated": "2026-05-05T11:57:39.126633+00:00",
-  "story_count": 99,
+  "last_updated": "2026-05-05T23:44:13.278159+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "EU, Armenia sign new partnership deals at first bilateral summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260505-eu-armenia-sign-new-partnership-deals-at-first-bilateral-summit",
+      "published_date": "2026-05-05T19:58:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump-Pope clash rehashes old gripes, casts cloud over Rubio's Vatican visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260505-trump-pope-clash-rehashes-old-gripes-casts-cloud-over-rubio-s-vatican-visit",
+      "published_date": "2026-05-05T19:13:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Romania’s pro-EU coalition collapse 'does not alter the country's foreign policy', analyst says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/romania-s-pro-eu-coalition-collapse-does-not-alter-the-country-s-foreign-policy-analyst-says",
+      "published_date": "2026-05-05T18:33:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France positions itself at the heart of Armenia’s pivot to Europe",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260505-france-positions-itself-at-the-heart-of-armenia-s-pivot-to-europe",
+      "published_date": "2026-05-05T16:28:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron sings as Armenia's PM plays the drums during official dinner - video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/may/05/macron-sings-as-armenias-prime-minister-plays-the-drums-during-official-dinner-video",
+      "published_date": "2026-05-05T16:14:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hegseth 'seeking to reassure people US is still in control' in Middle East",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260505-hegseth-seeking-to-reassure-people-us-is-still-in-control-in-middle-east",
+      "published_date": "2026-05-05T14:50:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Queues worsen at French airports as EES rollout continues",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260505/queues-worsen-at-french-airports-as-ees-rollout-continues",
+      "published_date": "2026-05-05T14:00:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron backs Armenia’s pro-Europe PM as re-election campaign draws to close",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/05/macron-backs-armenia-pro-europe-pm-nikol-pashinyan-re-election",
+      "published_date": "2026-05-05T12:52:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Romania's pro-EU coalition government collapses after prime minister loses no-confidence vote",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260505-romania-s-pro-eu-coalition-government-collapses-after-prime-minister-loses-no-confidence-vote",
+      "published_date": "2026-05-05T11:47:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Romanian government collapses after losing no confidence vote – Europe live",
       "source": "The Guardian",
@@ -81,67 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Starmer lauds £78bn EU loan for Ukraine amid increased Trump tensions",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/europe-must-face-up-to-tensions-with-trump-keir-starmer-says",
-      "published_date": "2026-05-04T18:37:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Poking the bear? Armenia welcomes European leaders in Russia's backyard",
+      "title": "Rubio says US military has completed offensive operations in Iran",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260504-poking-the-bear-armenia-welcomes-european-leaders-in-russia-s-backyard",
-      "published_date": "2026-05-04T18:15:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260505-rubio-says-us-military-has-completed-offensive-operations-in-iran",
+      "published_date": "2026-05-05T22:39:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Three Russian diplomats expelled from Austria over spying accusations",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yrwny111xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-04T16:58:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Austria expels three Russian embassy staff after ‘forest of antennae’ discovered",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/austria-expels-three-russian-embassy-staff-vienna-suspicion-of-spying",
-      "published_date": "2026-05-04T14:40:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Far beyond’ EU and NATO: Armenia hosts EPC summit cast as ‘gateway’ in shifting diplomatic order",
+      "title": "Japanese PM Takaichi in push to revise pacifist constitution as regional tensions rise",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260504-far-beyond-eu-and-nato-armenia-hosts-epc-summit-cast-as-gateway-in-shifting-diplomatic-order-1",
-      "published_date": "2026-05-04T12:57:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260505-japanese-pm-takaichi-in-push-to-revise-pacifist-constitution-as-regional-tensions-rise",
+      "published_date": "2026-05-05T21:04:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – UK politics live",
+      "title": "Trump accuses pope of ‘endangering a lot of Catholics’ with Iran stance",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
-      "published_date": "2026-05-04T11:46:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/05/donald-trump-accuses-pope-leo-of-endangering-a-lot-of-catholics-with-iran-stance",
+      "published_date": "2026-05-05T20:34:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron calls for coordinated reopening of Hormuz as US initiative draws doubts",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260504-macron-calls-for-coordinated-reopening-of-hormuz-as-us-initiative-draws-doubts-iran-shipping",
-      "published_date": "2026-05-04T10:01:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe, Canada leaders hold Yerevan talks in Trump's shadow",
+      "title": "Trump hard-pressed to get better Iran nuclear deal than Obama's",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260504-europe-canada-leaders-hold-yerevan-talks-in-trump-s-shadow",
-      "published_date": "2026-05-04T09:04:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/trump-fears-may-not-get-better-iran-nuclear-deal-than-obama-s",
+      "published_date": "2026-05-05T19:19:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canada joins European summit in Armenia as leaders confront security challenges",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260504-canada-joins-european-summit-in-armenia-as-leaders-confront-security-challenges",
-      "published_date": "2026-05-04T07:06:38+00:00",
-      "category": "Diplomacy"
+      "title": "Can Pakistan play brother-in-arms role as Gulf states eye security shifts?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260505-can-pakistan-play-brother-in-arms-role-as-gulf-states-eye-security-shifts",
+      "published_date": "2026-05-05T18:08:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moscow shuts down airports and mobile signals as Victory Day parade looms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/05/moscow-russia-shuts-down-airports-mobile-signals-may-9-victory-day-parade-security",
+      "published_date": "2026-05-05T16:29:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin ‘doesn’t care' about Russians or Ukrainians: ‘Pageantry and symbolism’ over civilian lives",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/pageantry-and-symbolism-over-civilian-lives-putin-doesn-t-care-about-russians-or-ukrainians",
+      "published_date": "2026-05-05T16:07:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Several killed in Russian strikes on Ukraine ahead of rival ceasefires",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260505-several-killed-in-russian-strikes-on-ukraine-ahead-of-rival-ceasefires",
+      "published_date": "2026-05-05T14:52:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Friedrich Merz decided to risk Donald Trump’s wrath | Jörg Lau",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/05/friedrich-merz-risk-donald-trump-germany-nato-europe",
+      "published_date": "2026-05-05T12:00:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Zelenskyy condemns Russian ‘cynicism’ over parade truce as attack kills five",
@@ -218,69 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/war-of-words-trump-iran-trade-claims-of-missile-strikes-in-the-strait-of-hormuz-1",
       "published_date": "2026-05-04T19:48:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fujairah oil zone hit by fire after drone attack as UAE says it intercepted Iran missiles",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/fujairah-oil-zone-hit-by-fire-after-drone-attack-as-uae-says-it-intercepted-iran-missiles",
-      "published_date": "2026-05-04T18:54:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin and Zelensky both unilaterally declare conflicting 2-day truces",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260504-putin-threatens-massive-missile-strike-on-kyiv-if-ukraine-breaks-two-day-truce",
-      "published_date": "2026-05-04T18:40:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe, Canada pull together in Yerevan in Trump's shadow",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe-canada-pull-together-in-yerevan-in-trump-s-shadow",
-      "published_date": "2026-05-04T18:28:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran fires 'warning shots' as US Navy says its ships entered Gulf via Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-fires-warning-shots-as-us-navy-says-its-ships-entered-gulf-via-hormuz",
-      "published_date": "2026-05-04T18:18:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Guardian view on Trump, Merz and Europe’s security: EU countries cannot go it alone | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/04/the-guardian-view-on-trump-merz-and-europes-security-eu-countries-cannot-go-it-alone",
-      "published_date": "2026-05-04T17:31:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Central Europe is a laboratory for political trends | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/central-europe-is-a-laboratory-for-political-trends",
-      "published_date": "2026-05-04T15:54:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Are Mali’s Tuareg-led FLA fighters terrorists or separatists?",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260504-are-mali-s-tuareg-led-fla-fighters-terrorists-or-separatists-azawad-liberation-front",
-      "published_date": "2026-05-04T15:47:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Allies jolted on defence as Trump pulls troops from Germany",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260504-allies-jolted-on-defence-as-trump-pulls-troops-from-germany",
-      "published_date": "2026-05-04T15:28:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali crisis: Junta entrenches itself with no political solution in sight",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260504-mali-crisis-junta-entrenches-itself-with-no-political-solution-in-sight",
-      "published_date": "2026-05-04T15:24:39+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Romania’s pro-Europe government collapses unleashing fresh turmoil",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/05/romania-pro-europe-government-collapses",
+      "published_date": "2026-05-05T16:01:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French tax deadlines in May and June 2026",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260505/french-tax-deadlines-in-may-and-june-2026",
+      "published_date": "2026-05-05T14:29:27+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Airline's plan for fuel surcharge raises questions of legality",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260505-airline-s-plan-for-fuel-surcharge-raises-questions-of-legality",
@@ -550,11 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Reliance on Chinese green tech poses ‘serious’ risk for Europe, experts say",
+      "title": "Nigeria to evacuate citizens from South Africa after attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/2026-05-05-21-41-eye-on-africa",
+      "published_date": "2026-05-05T20:20:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dark clouds, protests and resignations dampen start of 61st Venice Biennale",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/29/reliance-on-chinese-green-tech-poses-serious-risk-europe-economy-security-experts-say",
-      "published_date": "2026-04-29T14:49:48+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/artanddesign/2026/may/05/venice-biennale-protests-resignations-russia-israel",
+      "published_date": "2026-05-05T18:02:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Political row as report calls for sweeping cuts to French public broadcasting",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/05/political-row-as-report-calls-for-sweeping-cuts-to-french-public-broadcasting",
+      "published_date": "2026-05-05T16:44:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jailed Iranian Nobel prize winner Narges Mohammadi ‘between life and death’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/05/jailed-iranian-nobel-prize-winner-narges-mohammadi-between-life-and-death",
+      "published_date": "2026-05-05T16:42:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FRANCE 24-RFI award for best African player in Ligue 1: Who are the three finalists?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260505-france-24-rfi-award-for-best-african-player-in-ligue-1-who-are-the-three-finalists",
+      "published_date": "2026-05-05T16:09:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court orders government 'fix ANEF website within 6 months'",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260505/french-court-orders-government-fix-anef-website-within-6-months",
+      "published_date": "2026-05-05T16:01:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gulf migrant workers face tough choices amid Mideast war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260505-gulf-migrant-workers-face-tough-choices-amid-mideast-war",
+      "published_date": "2026-05-05T15:44:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three killed after small plane crashes in southeastern Brazil",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260505-three-killed-after-small-plane-crashes-in-southeastern-brazil",
+      "published_date": "2026-05-05T15:28:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris exhibition celebrates the visionary world of Hilma af Klint, an artist ahead of her time",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260505-paris-exhibition-celebrates-visionary-world-of-hilma-af-klint-artist-ahead-her-time-grand-palais",
+      "published_date": "2026-05-05T15:23:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli court extends detention of two Gaza flotilla activists amid abuse claims",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260505-israeli-court-extends-detention-of-two-gaza-flotilla-activists-amid-abuse-claims",
+      "published_date": "2026-05-05T15:14:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two severely wounded in explosion in aerospace factory in south-west France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260505/two-severely-wounded-in-explosion-in-aerospace-factory-in-south-west-france",
+      "published_date": "2026-05-05T13:19:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jailed French journalist drops appeal in Algeria and eyes presidential pardon",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260505-jailed-french-journalist-drops-appeal-in-algeria-eyes-presidential-pardon",
+      "published_date": "2026-05-05T13:11:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France considers ending rent control after five-year trial period",
@@ -610,90 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/video/2026/may/04/leipzig-mayor-reacts-car-rams-crowd-germany-video",
       "published_date": "2026-05-04T18:30:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two killed and several hurt after car ploughs into crowds in German city of Leipzig",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/car-runs-into-crowd-in-german-city-of-leipzig-with-fatalities-reported",
-      "published_date": "2026-05-04T17:45:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather tracker: Cold spells in Greece and Turkey, and storms in Bangladesh",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/04/weather-tracker-greece-winds-turkey-rain-bangladesh-storms-central-europe-heat",
-      "published_date": "2026-05-04T15:01:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Missile strike on Ukraine's Kharkiv region kills five, destroys infrastructure",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260504-missile-strike-ukraine-kharkiv-region-kills-five-destroys-infrastructure",
-      "published_date": "2026-05-04T12:53:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australian inquiry opens public hearings into Bondi Beach shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260504-australian-inquiry-opens-public-hearings-into-bondi-beach-shooting",
-      "published_date": "2026-05-04T09:03:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Should kitesurf be banned? French mayor wants to ban sport to keep sea swimmers safe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260504-should-kitesurf-be-banned-french-mayor-wants-to-ban-sport-to-keep-sea-swimmers-safe",
-      "published_date": "2026-05-04T09:00:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ligue 1: Lyon defeat Rennes as they close in on Champions League qualification",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260504-ligue-1-lyon-defeat-rennes-as-they-close-in-on-champions-league-qualification",
-      "published_date": "2026-05-04T07:01:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French senators clear path for return of Kali'na remains to French Guiana",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260504-french-senators-smooth-path-for-return-to-french-guiana-of-kali-na-human-zoo",
-      "published_date": "2026-05-04T06:12:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Strikes on Russia’s Primorsk oil port and ships",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/ukraine-war-briefing-strikes-on-russias-primorsk-oil-port-and-ships",
-      "published_date": "2026-05-04T01:45:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former New York mayor Rudy Giuliani hospitalised in critical condition",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260504-former-new-york-mayor-rudy-giuliani-in-critical-condition-in-hospital",
-      "published_date": "2026-05-04T01:36:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "European leaders converge on Armenia as Russia looks on",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T23:19:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amsterdam bans public adverts for meat and fossil fuels",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9wejdekpwyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T23:07:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shakira rocks Copacabana with 2 million fans",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/shakira-rocks-copacabana-with-2-million-fans",
-      "published_date": "2026-05-03T14:14:57+00:00",
       "category": "Local Events"
     }
   ]
