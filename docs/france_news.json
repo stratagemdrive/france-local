@@ -1,8 +1,71 @@
 {
   "country": "France",
-  "last_updated": "2026-05-04T23:51:58.270702+00:00",
-  "story_count": 98,
+  "last_updated": "2026-05-05T11:57:39.126633+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Romanian government collapses after losing no confidence vote – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/05/zelenskyy-putin-ukraine-russia-trump-troops-merz-latest-news-updates",
+      "published_date": "2026-05-05T11:31:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "VIDEO: Macron leads Charles Aznavour sing-along on visit to Armenia",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260505/france-and-armenia-leaders-unite-in-song-of-shared-son",
+      "published_date": "2026-05-05T10:34:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France’s Macron sings 'La Bohème' with the Armenian President",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260505-france-s-macron-sings-la-boh%C3%A8me-with-the-armenian-president",
+      "published_date": "2026-05-05T10:09:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jailed French sports journalist drops Algeria appeal in hopes of presidential pardon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260505-jailed-french-sports-journalist-drops-algeria-appeal-in-hopes-of-presidential-pardon",
+      "published_date": "2026-05-05T09:42:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crooning diplomacy: France, Armenia leaders unite over shared icon Charles Aznavour",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260505-crooning-diplomacy-france-armenia-leaders-unite-over-shared-icon-charles-aznavour",
+      "published_date": "2026-05-05T09:35:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France condemns 'unacceptable' Iranian strikes on UAE and calls for diplomacy",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260505-france-condemns-iran-s-unacceptable-strikes-on-uae-calls-for-diplomacy",
+      "published_date": "2026-05-05T09:31:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia hosts historic EU summit as it charts path away from Russia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260505-armenia-hosts-historic-eu-summit-as-it-charts-path-away-from-russia",
+      "published_date": "2026-05-05T09:03:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French former foreign minister returns gifted statues",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260505/french-former-foreign-minister-returns-gifted-statues",
+      "published_date": "2026-05-05T06:23:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU and US trade officials meet in Paris as tensions rise over Trump tariff threat",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260505-eu-us-trade-officials-meet-in-paris-to-discuss-trump-tariff-threat",
+      "published_date": "2026-05-05T06:10:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Armenia turns 'towards Europe' as Macron highlights shift from Russia",
       "source": "France 24",
@@ -29,6 +92,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260504-poking-the-bear-armenia-welcomes-european-leaders-in-russia-s-backyard",
       "published_date": "2026-05-04T18:15:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Three Russian diplomats expelled from Austria over spying accusations",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yrwny111xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-04T16:58:56+00:00",
       "category": "Diplomacy"
     },
     {
@@ -74,74 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU forging closer ties with Armenia as it sends experts to help counter Russian interference",
+      "title": "Zelenskyy condemns Russian ‘cynicism’ over parade truce as attack kills five",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/eu-closer-ties-armenia-counter-russian-interference",
-      "published_date": "2026-05-04T04:00:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/05/zelenskyy-russia-parade-truce-poltava-attack",
+      "published_date": "2026-05-05T11:05:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spanish PM Pedro Sanchez’s plane makes emergency landing in Turkey",
+      "title": "German minesweeper sets sail for possible Hormuz mission",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260504-spanish-pm-pedro-s%C3%A1nchez-s-plane-makes-emergency-landing-in-turkey",
-      "published_date": "2026-05-04T01:24:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260505-german-minesweeper-sets-sail-for-possible-hormuz-mission",
+      "published_date": "2026-05-05T10:58:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
+      "title": "'The highest tensions have been' as US, Iran trade fire in Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260505-the-highest-tensions-have-been-as-us-iran-trade-fire-in-hormuz",
+      "published_date": "2026-05-05T10:18:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'No pilgrims': Regional war hushes Iraq's worship tourism",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260505-no-pilgrims-regional-war-hushes-iraq-s-worship-tourism",
+      "published_date": "2026-05-05T09:22:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War with Iran threatens to reignite as Trump launches 'Project Freedom'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260505-war-with-iran-threatens-to-reignite-as-trump-launches-project-freedom",
+      "published_date": "2026-05-05T09:01:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Truce under threat as Iran, US trade fire in Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260505-truce-under-threat-as-iran-us-trade-fire-in-strait-of-hormuz",
+      "published_date": "2026-05-05T09:00:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Duelling ceasefires as Zelenskyy floats open-ended truce",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
-      "published_date": "2026-05-03T14:57:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Two women die on migrant boat attempting to reach the UK from France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260503-two-women-die-on-a-small-migrant-boat-trying-to-reach-the-uk",
-      "published_date": "2026-05-03T09:01:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New tariff hike could cost Germany $18BN",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260502-new-tariff-hike-could-cost-germany-18bn-1",
-      "published_date": "2026-05-02T15:24:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Asylum seeker sent back to France in ‘one in, one out’ scheme to be returned to Syria",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/02/asylum-seeker-sent-france-one-in-one-out-returned-syria",
-      "published_date": "2026-05-02T09:00:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Data theft: Teen arrested over hacking of French government website",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/data-thieft-a-15-year-old-minor-arrested",
-      "published_date": "2026-05-02T08:17:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Such huge consequences’: pressure mounts on France to act on enslavement reparatory justice",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/may/02/pressure-mounts-france-enslavement-reparatory-justice-framework",
-      "published_date": "2026-05-02T08:00:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hope out of chaos: how the dark era of Trump is creating a new approach to global politics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/02/dark-era-trump-creating-new-approach-global-politics",
-      "published_date": "2026-05-02T04:00:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New US sanctions are 'collective punishment', Cuba's FM says during May 1 marches",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260501-us-sanctions-are-collective-punishment-cuba-s-fm-says-during-may-1-marches",
-      "published_date": "2026-05-01T20:17:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/05/ukraine-war-briefing-duelling-ceasefires-as-zelenskyy-floats-open-ended-truce",
+      "published_date": "2026-05-05T00:30:37+00:00",
+      "category": "Military"
     },
     {
       "title": "US and UAE report Iran attacks as military pushes to reopen Strait of Hormuz",
@@ -232,55 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260504-mali-crisis-junta-entrenches-itself-with-no-political-solution-in-sight",
       "published_date": "2026-05-04T15:24:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany’s military power is on the rise. This time it must be firmly embedded in Europe | Timothy Garton Ash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/04/germany-military-power-rise-embedded-europe-us-trump",
-      "published_date": "2026-05-04T14:39:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Musk vs. Altman: Battle of the tech bros underway in California courthouse",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/tech-24/20260504-musk-vs-altman-battle-of-the-tech-bros-underway-in-california-courthouse",
-      "published_date": "2026-05-04T13:15:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Radical left Jean-Luc Mélenchon announces 2027 French presidential bid",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/france-jean-luc-melenchon-president-bid-2027",
-      "published_date": "2026-05-04T12:26:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A diary of America's wars with photographer Peter van Agtmael",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260504-a-diary-of-america-s-wars-with-photographer-peter-van-agtmael",
-      "published_date": "2026-05-04T12:12:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah deploys hard-to-jam fibre optic drones, shifting battlefield tactics",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260504-hezbollah-deploys-hard-to-jam-fibre-optic-drones-shifting-battlefield-tactics",
-      "published_date": "2026-05-04T12:00:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US to 'guide' stranded ships from Hormuz: What we know about 'Project Freedom'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260504-us-to-guide-stranded-ships-from-hormuz-what-we-know-about-project-freedom",
-      "published_date": "2026-05-04T11:36:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli minister's 'disgusting noose cake' draws widespread criticism",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260504-israeli-minister-s-disgusting-noose-cake-draws-widespread-criticism",
-      "published_date": "2026-05-04T09:50:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Airline's plan for fuel surcharge raises questions of legality",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260505-airline-s-plan-for-fuel-surcharge-raises-questions-of-legality",
+      "published_date": "2026-05-05T10:10:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France launches one-euro university meals for all students",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260505/france-launches-one-euro-university-meals-for-all-students",
+      "published_date": "2026-05-05T06:12:48+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "France introduces one‑euro canteen meals for all students",
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20260504-in-france-a-one%E2%80%91euro-university-meals-for-all-students",
@@ -543,17 +557,45 @@
       "category": "Economy"
     },
     {
-      "title": "French scale back holiday plans amid global tensions and inflation",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260428-french-scale-back-holiday-plans-amid-global-tensions-and-inflation-ifop-survey",
-      "published_date": "2026-04-28T11:46:45+00:00",
-      "category": "Economy"
+      "title": "France considers ending rent control after five-year trial period",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260505/france-considers-ending-rent-control-after-five-year-trial-period",
+      "published_date": "2026-05-05T10:57:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-05T10:56:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UAE says oil facility hit by Iranian drone strike as attacks resume",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260505-uae-says-oil-facility-hit-by-iranian-drone-strike-as-attacks-resume",
+      "published_date": "2026-05-05T10:20:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British man arrested over €16m French chateau scam",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260505/british-man-arrested-over-e16m-french-chateau-scam",
+      "published_date": "2026-05-05T09:57:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Secret Service shoots armed suspect near White House after brief lockdown",
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260504-secret-service-shoots-armed-suspect-near-white-house-after-brief-lockdown",
       "published_date": "2026-05-04T22:55:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-04T19:09:14+00:00",
       "category": "Local Events"
     },
     {
@@ -641,52 +683,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Amsterdam bans public adverts for meat and fossil fuels",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9wejdekpwyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T23:07:44+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Shakira rocks Copacabana with 2 million fans",
       "source": "France 24",
       "url": "https://www.france24.com/en/shakira-rocks-copacabana-with-2-million-fans",
       "published_date": "2026-05-03T14:14:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heathrow in talks with airlines to end row that could delay third runway",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/03/heathrow-talks-deal-airlines-row-third-runway-expansion-delay",
-      "published_date": "2026-05-03T14:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two women suffocate on migrant boat off French coast seeking to reach UK",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260503/two-women-suffocate-on-migrant-boat-off-french-coast-seeking-to-reach-uk",
-      "published_date": "2026-05-03T13:19:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two women die on migrant boat near France seeking to reach UK",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260503-two-women-die-on-migrant-boat-near-france-seeking-to-reach-uk",
-      "published_date": "2026-05-03T11:00:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anti-Christian aggressions on the rise in Jerusalem",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/anti-christian-aggressions-has-been-on-the-rise-in-jerusalem",
-      "published_date": "2026-05-03T10:05:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza flotilla activists from Spain and Brazil appear in Israeli court",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/03/gaza-flotilla-activists-spain-brazil-appear-israel-court",
-      "published_date": "2026-05-03T09:02:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG held to a draw by Lorient ahead of Bayern Munich Champions League clash",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260503-psg-held-draw-lorient-ahead-bayern-munich-champions-league-clash",
-      "published_date": "2026-05-03T08:51:30+00:00",
       "category": "Local Events"
     }
   ]
