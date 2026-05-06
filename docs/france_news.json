@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-05-06T12:25:15.060800+00:00",
-  "story_count": 99,
+  "last_updated": "2026-05-06T23:46:42.935478+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "G7 trade ministers seek common ground on minerals",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/g7-trade-ministers-seek-common-ground-on-minerals",
+      "published_date": "2026-05-06T20:47:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia: EU 'isn't poking the bear' enforcing ties with Russian-allied Yerevan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260506-armenia-eu-isn-t-poking-the-bear-enforcing-ties-with-russian-allied-yerevan",
+      "published_date": "2026-05-06T19:54:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China's 'key priorities': Open Hormuz, get oil flowing, avoid 'getting dragged into conflicts'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/china-s-key-priorities-open-hormuz-avoid-getting-dragged-into-conflicts",
+      "published_date": "2026-05-06T17:59:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Lourdes and Paris': Pope Leo likely to visit France in September, bishops say",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260506-lourdes-and-paris-pope-leo-likely-to-visit-france-in-september-bishops-say",
+      "published_date": "2026-05-06T17:04:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US threatens to scrap EU visa waivers over data sharing demands",
       "source": "The Local France",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Romanian government collapses after losing no confidence vote – Europe live",
+      "title": "Russia warns foreign diplomats to leave Kyiv in case of strike",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260506-russia-warns-foreign-diplomats-to-leave-kyiv-in-case-of-strike",
+      "published_date": "2026-05-06T22:29:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could Iran use ‘kamikaze dolphins’ against the US in the Strait of Hormuz?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260506-could-iran-use-kamikaze-dolphins-against-the-us-in-the-strait-of-hormuz",
+      "published_date": "2026-05-06T19:44:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India 'funds organisations behind terror activities in Pakistan': Bilawal Bhutto Zardari",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260506-india-funds-organisations-behind-terror-activities-in-pakistan-bilawal-bhutto-zardari",
+      "published_date": "2026-05-06T15:32:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From Eurovision to the Venice Biennale, culture contests are being overshadowed by politics",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/05/zelenskyy-putin-ukraine-russia-trump-troops-merz-latest-news-updates",
-      "published_date": "2026-05-05T11:31:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/06/from-eurovision-to-the-venice-biennale-culture-contests-are-struggling-to-channel-globalised-politics",
+      "published_date": "2026-05-06T14:43:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "VIDEO: Macron leads Charles Aznavour sing-along on visit to Armenia",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260505/france-and-armenia-leaders-unite-in-song-of-shared-son",
-      "published_date": "2026-05-05T10:34:21+00:00",
-      "category": "Diplomacy"
+      "title": "‘Factory of lies’: what will Péter Magyar do about Hungary’s state media?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/06/factory-of-lies-peter-magyar-hungary-state-media",
+      "published_date": "2026-05-06T14:01:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "France’s Macron sings 'La Bohème' with the Armenian President",
+      "title": "War in Ukraine: Russia attacks east and south Ukraine with over 100 drones",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260505-france-s-macron-sings-la-boh%C3%A8me-with-the-armenian-president",
-      "published_date": "2026-05-05T10:09:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jailed French sports journalist drops Algeria appeal in hopes of presidential pardon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260505-jailed-french-sports-journalist-drops-algeria-appeal-in-hopes-of-presidential-pardon",
-      "published_date": "2026-05-05T09:42:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/war-in-ukraine-russia-attacks-east-and-south-ukraine-with-over-100-drones",
+      "published_date": "2026-05-06T12:59:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Polanski says he is not ready to be PM, but might be in two years’ time – UK politics live",
@@ -242,46 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Rubio says US military has completed offensive operations in Iran",
+      "title": "France considers windfall tax on massive oil profits: TotalEnergies fights back",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260505-rubio-says-us-military-has-completed-offensive-operations-in-iran",
-      "published_date": "2026-05-05T22:39:05+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/france-considers-windfall-tax-on-massive-oil-profits-totalenergies-fights-back",
+      "published_date": "2026-05-06T15:30:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Japanese PM Takaichi in push to revise pacifist constitution as regional tensions rise",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260505-japanese-pm-takaichi-in-push-to-revise-pacifist-constitution-as-regional-tensions-rise",
-      "published_date": "2026-05-05T21:04:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump accuses pope of ‘endangering a lot of Catholics’ with Iran stance",
+      "title": "Norwegian government attacked over decision to reopen North Sea gasfields",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/05/donald-trump-accuses-pope-leo-of-endangering-a-lot-of-catholics-with-iran-stance",
-      "published_date": "2026-05-05T20:34:47+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/may/06/norwegian-government-rebuked-over-decision-to-reopen-north-sea-gas-fields",
+      "published_date": "2026-05-06T15:25:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Mission is to preach peace, says Pope in response to Trump attacks",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2023gne5p1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-05T20:30:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump hard-pressed to get better Iran nuclear deal than Obama's",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-fears-may-not-get-better-iran-nuclear-deal-than-obama-s",
-      "published_date": "2026-05-05T19:19:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Pakistan play brother-in-arms role as Gulf states eye security shifts?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260505-can-pakistan-play-brother-in-arms-role-as-gulf-states-eye-security-shifts",
-      "published_date": "2026-05-05T18:08:52+00:00",
-      "category": "Military"
+      "title": "France’s EDF to test ‘dynamic’ electricity pricing",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260506/frances-edf-to-test-dynamic-electricity-pricing",
+      "published_date": "2026-05-06T12:35:37+00:00",
+      "category": "Energy"
     },
     {
       "title": "Samsung Electronics reaches $1 trillion market cap thanks to surging demand for AI chips",
@@ -400,20 +421,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/strait-of-hormuz-iran-us-standoff-drags-on",
       "published_date": "2026-04-30T09:20:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Colombia hosts climate talks in bid to lead global transition away from fossil fuels",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260429-colombia-hosts-climate-talks-in-bid-to-lead-global-transition-away-from-fossil-fuels",
-      "published_date": "2026-04-29T20:44:59+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Middle East war boosts oil giants’ profits as 'households pay the price'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260429-oil-giants-post-bumper-profits-as-middle-east-war-disrupts-energy-markets",
-      "published_date": "2026-04-29T16:01:26+00:00",
       "category": "Energy"
     },
     {
@@ -557,6 +564,83 @@
       "category": "Economy"
     },
     {
+      "title": "Dembélé's strike kills off Bayern Munich to send PSG into Champions League final",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260506-demb%C3%A9l%C3%A9-s-strike-kills-off-bayern-munich-to-send-psg-into-champions-league-final",
+      "published_date": "2026-05-06T21:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tshisekedi hints at possible rule beyond second term",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tshisekedi-hints-at-possible-rule-beyond-second-term",
+      "published_date": "2026-05-06T20:22:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Portuguese police chiefs detained as abuse scandal escalates, reports say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0r2zq9wg9xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-06T19:32:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Starmer's last stand? The UK local elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260506-starmer-s-last-stand-the-uk-local-elections",
+      "published_date": "2026-05-06T18:10:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pussy Riot protest at Venice Biennale forces Russian pavilion to briefly close",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/06/pussy-riot-protest-at-venice-biennale-forces-russian-pavilion-to-briefly-close",
+      "published_date": "2026-05-06T16:35:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Significant threat to local ecosystem: Israel's war on Lebanon generated 16 million tons of rubble'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/significant-threat-to-local-ecosystem-israel-s-war-on-lebanon-generated-16-million-tons-of-rubble",
+      "published_date": "2026-05-06T16:14:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vienna’s public transport is the envy of the world – so why can’t it ditch cars?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/06/vienna-public-transport-tram-network-ditch-cars",
+      "published_date": "2026-05-06T15:00:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris gets taste of Nigeria’s Nollywood",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260506/paris-gets-taste-of-nigerias-nollywood",
+      "published_date": "2026-05-06T14:16:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France reopens probe into Rwanda’s ex-first lady over 1994 genocide",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260506-france-reopens-probe-into-rwanda-s-ex-first-lady-over-1994-genocide",
+      "published_date": "2026-05-06T13:53:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli court rejects appeal by detained Gaza aid flotilla activists",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260506-israeli-court-rejects-appeal-by-detained-gaza-aid-flotilla-activists",
+      "published_date": "2026-05-06T13:49:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK elections: What does it mean to be Scottish today?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260506-uk-local-elections-what-does-it-mean-to-be-scottish-today",
+      "published_date": "2026-05-06T13:30:55+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Looking ahead to the UK's local elections with British politics expert Colm Murphy",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/perspective/20260506-looking-ahead-to-the-uk-s-local-elections-with-british-politics-expert-colm-murphy",
@@ -575,6 +659,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-06T11:34:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Patients evacuated from hantavirus-hit cruise ship land in Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260506-patients-evacuated-from-hantavirus-hit-cruise-ship-land-in-europe",
+      "published_date": "2026-05-06T08:47:13+00:00",
       "category": "Local Events"
     },
     {
@@ -610,90 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/06/if-he-didnt-do-it-who-did-fresh-doubts-over-2007-case-that-gripped-italy",
       "published_date": "2026-05-06T04:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria to evacuate citizens from South Africa after attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/2026-05-05-21-41-eye-on-africa",
-      "published_date": "2026-05-05T20:20:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dark clouds, protests and resignations dampen start of 61st Venice Biennale",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/may/05/venice-biennale-protests-resignations-russia-israel",
-      "published_date": "2026-05-05T18:02:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Political row as report calls for sweeping cuts to French public broadcasting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/05/political-row-as-report-calls-for-sweeping-cuts-to-french-public-broadcasting",
-      "published_date": "2026-05-05T16:44:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jailed Iranian Nobel prize winner Narges Mohammadi ‘between life and death’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/05/jailed-iranian-nobel-prize-winner-narges-mohammadi-between-life-and-death",
-      "published_date": "2026-05-05T16:42:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FRANCE 24-RFI award for best African player in Ligue 1: Who are the three finalists?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260505-france-24-rfi-award-for-best-african-player-in-ligue-1-who-are-the-three-finalists",
-      "published_date": "2026-05-05T16:09:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court orders government 'fix ANEF website within 6 months'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260505/french-court-orders-government-fix-anef-website-within-6-months",
-      "published_date": "2026-05-05T16:01:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gulf migrant workers face tough choices amid Mideast war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260505-gulf-migrant-workers-face-tough-choices-amid-mideast-war",
-      "published_date": "2026-05-05T15:44:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three killed after small plane crashes in southeastern Brazil",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260505-three-killed-after-small-plane-crashes-in-southeastern-brazil",
-      "published_date": "2026-05-05T15:28:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris exhibition celebrates the visionary world of Hilma af Klint, an artist ahead of her time",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260505-paris-exhibition-celebrates-visionary-world-of-hilma-af-klint-artist-ahead-her-time-grand-palais",
-      "published_date": "2026-05-05T15:23:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli court extends detention of two Gaza flotilla activists amid abuse claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260505-israeli-court-extends-detention-of-two-gaza-flotilla-activists-amid-abuse-claims",
-      "published_date": "2026-05-05T15:14:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two severely wounded in explosion in aerospace factory in south-west France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260505/two-severely-wounded-in-explosion-in-aerospace-factory-in-south-west-france",
-      "published_date": "2026-05-05T13:19:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jailed French journalist drops appeal in Algeria and eyes presidential pardon",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260505-jailed-french-journalist-drops-appeal-in-algeria-eyes-presidential-pardon",
-      "published_date": "2026-05-05T13:11:53+00:00",
       "category": "Local Events"
     }
   ]
