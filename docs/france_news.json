@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-05-07T12:27:06.653599+00:00",
-  "story_count": 99,
+  "last_updated": "2026-05-07T23:50:47.050819+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T23:11:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump gives EU until 4 July to ratify trade deal or face ‘much higher’ tariffs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/07/trump-gives-eu-until-4-july-to-ratify-trade-deal-or-face-much-higher-tariffs",
+      "published_date": "2026-05-07T22:04:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US trade court rules against Trump’s 10% global tariffs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/07/trump-global-tariffs-trade-court-ruling",
+      "published_date": "2026-05-07T21:43:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump sets July 4 ultimatum for EU on trade pact",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260507-trump-sets-july-4-ultimatum-for-eu-on-trade-pact",
+      "published_date": "2026-05-07T20:12:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Norway's Svalbard archipelago, a pawn on Russia's chessboard",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/reporters/20260507-norway-svalbard-archipelago-a-pawn-on-russia-chessboard",
+      "published_date": "2026-05-07T15:26:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU prosecutors probe alleged misuse of funds linked to France's Bardella",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260507-eu-prosecutors-probe-alleged-misuse-of-funds-linked-to-france-s-bardella",
+      "published_date": "2026-05-07T15:08:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU prosecutors probe alleged misuse of funds linked to French far-right leader Bardella",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260507/eu-prosecutors-probe-alleged-misuse-of-funds-linked-to-french-far-right-leader-bardella-sources-report",
+      "published_date": "2026-05-07T14:28:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "West Bank settlements prompt call for sanctions from European political figures",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260507-west-bank-settlements-prompt-call-for-sanctions-from-european-political-figures",
+      "published_date": "2026-05-07T12:48:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU rolls out €6m West Bank aid plan amid settler violence against Palestinians",
       "source": "RFI English",
@@ -88,60 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "OPINION: Remains of Macron's centrists still have the best chance of beating the far-right",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260506/opinion-remains-of-macrons-centrists-still-have-the-best-chance-of-beating-the-far-right",
-      "published_date": "2026-05-06T07:43:56+00:00",
-      "category": "Diplomacy"
+      "title": "Middle East war live: US and Iran accuse each other of ceasefire violations in Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260507-middle-east-war-live-us-and-iran-accuse-each-other-of-ceasefire-violations-in-strait-of-hormuz",
+      "published_date": "2026-05-07T23:12:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron taps ex-aide to head France’s central bank",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260506/macron-taps-ex-aide-to-head-frances-central-bank",
-      "published_date": "2026-05-06T06:53:18+00:00",
-      "category": "Diplomacy"
+      "title": "French prosecutors seek charges against Musk and X over Grok content",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/technology/20260507-french-prosecutors-seek-charges-against-musk-and-x-over-grok-content",
+      "published_date": "2026-05-07T22:52:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU trade deal could force UK to restrict use of weedkiller linked to cancer",
+      "title": "Strait of Hormuz: What role for France?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260507-strait-of-hormuz-what-role-for-france",
+      "published_date": "2026-05-07T22:03:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Photo shows Israeli soldier desecrating a Virgin Mary statue in Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/photo-shows-israeli-soldier-desecrating-a-virgin-mary-statue-in-lebanon",
+      "published_date": "2026-05-07T19:34:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Still no sign of a solution in Iran: US president says the war will be over soon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260507-still-no-sign-of-a-solution-in-iran-us-president-says-the-war-will-be-over-soon",
+      "published_date": "2026-05-07T18:17:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Keeping the Lebanese army weak: A hardened US military doctrine at Israel's service",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260507-keeping-the-lebanese-army-weak-a-hardened-us-military-doctrine-at-israel-service-qme",
+      "published_date": "2026-05-07T17:39:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Guardian view on ceasefires that aren’t: Israel never stopped killing in Gaza – allies must reject any escalation | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/06/eu-trade-deal-could-force-uk-restrict-glyphosate-weedkiller-linked-to-cancer",
-      "published_date": "2026-05-06T05:00:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/may/07/the-guardian-view-on-ceasefires-that-arent-israel-never-stopped-killing-in-gaza-allies-must-reject-any-escalation",
+      "published_date": "2026-05-07T17:36:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU, Armenia sign new partnership deals at first bilateral summit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260505-eu-armenia-sign-new-partnership-deals-at-first-bilateral-summit",
-      "published_date": "2026-05-05T19:58:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump-Pope clash rehashes old gripes, casts cloud over Rubio's Vatican visit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260505-trump-pope-clash-rehashes-old-gripes-casts-cloud-over-rubio-s-vatican-visit",
-      "published_date": "2026-05-05T19:13:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Romania’s pro-EU coalition collapse 'does not alter the country's foreign policy', analyst says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/romania-s-pro-eu-coalition-collapse-does-not-alter-the-country-s-foreign-policy-analyst-says",
-      "published_date": "2026-05-05T18:33:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France positions itself at the heart of Armenia’s pivot to Europe",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260505-france-positions-itself-at-the-heart-of-armenia-s-pivot-to-europe",
-      "published_date": "2026-05-05T16:28:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron sings as Armenia's PM plays the drums during official dinner - video",
+      "title": "Royal Navy tracks Russian frigate for one month off UK coast",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/may/05/macron-sings-as-armenias-prime-minister-plays-the-drums-during-official-dinner-video",
-      "published_date": "2026-05-05T16:14:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/may/07/royal-navy-tracks-russian-frigate-one-month-uk-coast",
+      "published_date": "2026-05-07T17:09:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel strikes Beirut and southern Lebanon despite truce",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260507-israel-strikes-beirut-and-southern-lebanon-despite-truce",
+      "published_date": "2026-05-07T16:08:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T16:00:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can nuclear power resolve the energy crisis?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/people-profit/20260507-can-nuclear-power-resolve-the-energy-crisis",
+      "published_date": "2026-05-07T15:36:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: Lebanon, Israel to hold new talks in Washington May 14-15",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260507-middle-east-war-live-source-close-to-hezbollah-says-top-commander-killed-in-israeli-strike",
+      "published_date": "2026-05-07T15:03:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Propaganda war: The Gen Z team behind Iran’s hit anti-Trump videos",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20260507-propaganda-war-gen-z-team-behind-iran-hit-anti-trump-videos",
+      "published_date": "2026-05-07T14:51:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Spain awards UN legal expert Francesca Albanese one of its highest civilian honours",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/07/spain-awards-un-legal-expert-francesca-albanese-one-of-highest-civilian-honours",
+      "published_date": "2026-05-07T14:17:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian attacks kill 27 before deadline for ceasefire proposed by Kyiv",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260507-russian-attacks-kill-27-before-deadline-for-ceasefire-proposed-by-kyiv",
+      "published_date": "2026-05-07T14:15:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EXPLAINED: Why France doesn't have any US military bases",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260507/explained-why-france-doesnt-have-any-us-military-bases",
+      "published_date": "2026-05-07T13:48:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Rubio meets Pope Leo in bid to ease tensions after Trump’s criticism of the pontiff - Europe live",
@@ -169,118 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260507-drc-leader-tshisekedi-hints-at-possible-rule-beyond-second-term-amid-eastern-war",
       "published_date": "2026-05-07T10:16:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio faces challenge in Pope Leo meeting after Trump's criticism over Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-rubio-faces-challenge-in-pope-leo-meeting-after-trump-s-criticism-over-iran",
-      "published_date": "2026-05-07T09:44:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Rubio seeks to ease tensions with US pope after Trump's attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-us-rubio-seeks-to-ease-tensions-with-us-pope-after-trump-s-attacks",
-      "published_date": "2026-05-07T09:43:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump sees swift end to war as Iran reviews US peace proposal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-trump-sees-swift-end-to-war-as-iran-reviews-us-peace-proposal",
-      "published_date": "2026-05-07T09:42:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Stitching lives back together for Central African Republic's child soldiers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-stitching-lives-back-together-for-central-african-republic-s-child-soldiers",
-      "published_date": "2026-05-07T09:31:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Venice Biennale 'shaken': 'Turmoil on the international scene has entered the exhibition'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260507-venice-and-biennale-shaken-the-turmoil-on-the-international-scene-has-entered-the-exhibition",
-      "published_date": "2026-05-07T08:09:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Venice Biennale 'shaken': 'Turmoil on the international scene has entered the exhibition'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/venice-and-biennale-shaken-the-turmoil-on-the-international-scene-has-entered-the-exhibition",
-      "published_date": "2026-05-07T07:58:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US war on Iran: 'A game of high-risk, high-reward' for both Trump and the Islamic Republic",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260507-us-war-on-iran-a-game-of-high-risk-high-reward-for-both-trump-and-the-islamic-republic",
-      "published_date": "2026-05-07T07:37:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France positions aircraft carrier for possible mission in Strait of Hormuz",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260507-france-mobilises-aircraft-carrier-strike-force-towards-straight-of-hormuz",
-      "published_date": "2026-05-07T06:58:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine is a global surrogacy hub - but that could be about to end",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp4kp687go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T05:02:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia warns foreign diplomats to leave Kyiv in case of strike",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260506-russia-warns-foreign-diplomats-to-leave-kyiv-in-case-of-strike",
-      "published_date": "2026-05-06T22:29:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-06T21:29:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could Iran use ‘kamikaze dolphins’ against the US in the Strait of Hormuz?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260506-could-iran-use-kamikaze-dolphins-against-the-us-in-the-strait-of-hormuz",
-      "published_date": "2026-05-06T19:44:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India 'funds organisations behind terror activities in Pakistan': Bilawal Bhutto Zardari",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260506-india-funds-organisations-behind-terror-activities-in-pakistan-bilawal-bhutto-zardari",
-      "published_date": "2026-05-06T15:32:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Eurovision to the Venice Biennale, culture contests are being overshadowed by politics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/06/from-eurovision-to-the-venice-biennale-culture-contests-are-struggling-to-channel-globalised-politics",
-      "published_date": "2026-05-06T14:43:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Factory of lies’: what will Péter Magyar do about Hungary’s state media?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/06/factory-of-lies-peter-magyar-hungary-state-media",
-      "published_date": "2026-05-06T14:01:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in Ukraine: Russia attacks east and south Ukraine with over 100 drones",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/war-in-ukraine-russia-attacks-east-and-south-ukraine-with-over-100-drones",
-      "published_date": "2026-05-06T12:59:59+00:00",
       "category": "Military"
     },
     {
@@ -403,18 +403,25 @@
       "category": "Energy"
     },
     {
-      "title": "Belgium plans to nationalise nuclear power plants",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-30T19:50:29+00:00",
-      "category": "Energy"
+      "title": "Travel costs soar for Champions League final",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/travel-costs-soar-for-champions-league-final",
+      "published_date": "2026-05-07T21:06:59+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The UAE: Abu Dhabi's OPEC exit 'definitely doesn't' signal end of group",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260430-the-uae-abu-dhabi-s-opec-exit-definitely-doesn-t-signal-end-of-group",
-      "published_date": "2026-04-30T17:22:12+00:00",
-      "category": "Energy"
+      "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T18:13:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inside Iran’s new two-tier internet access, as blackout drags on",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260507-inside-iran-s-new-two-tier-internet-as-blackout-drags-on",
+      "published_date": "2026-05-07T16:01:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "JD Sports says Iran war could hit consumer spending and raise prices",
@@ -536,25 +543,95 @@
       "category": "Economy"
     },
     {
-      "title": "Hosepipe bans, tax help, and driving offences: 6 essential articles for life in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260503/hosepipe-bans-tax-help-and-driving-offences-6-essential-articles-for-life-in-france",
-      "published_date": "2026-05-03T06:30:41+00:00",
-      "category": "Economy"
+      "title": "Valverde cut head when he 'accidentally hit table' in Tchouameni row",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c98r4218l73o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T21:40:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Criminal groups recruit women to cater to female clients",
+      "title": "Tshisekedi angers opposition leaders",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260502-criminal-groups-recruit-women-to-cater-to-female-clients",
-      "published_date": "2026-05-02T15:21:44+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tshisekedi-angers-opposition-leaders",
+      "published_date": "2026-05-07T20:36:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ryanair demands France suspend 'half-baked' EES border checks",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260501/ryanair-demands-france-to-suspend-half-baked-ees-checks",
-      "published_date": "2026-05-01T14:23:47+00:00",
-      "category": "Economy"
+      "title": "Bonnie Tyler in induced coma after emergency intestinal surgery",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/may/07/bonnie-tyler-induced-coma-intestinal-surgery",
+      "published_date": "2026-05-07T19:27:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
+      "published_date": "2026-05-07T19:20:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Ici c'est Paris': Defending champions PSG 'on the verge of making history'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260507-ici-c-est-paris-defending-champions-psg-on-the-verge-of-making-history-1",
+      "published_date": "2026-05-07T17:21:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK elections: Conservatives are stuck between a rock and a hard place",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260507-uk-elections-conservatives-are-stuck-between-a-rock-and-a-hard-place",
+      "published_date": "2026-05-07T16:48:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil’s Lula to discuss fighting organized crime, tariffs in Trump meeting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260507-brazil-s-lula-to-discuss-fighting-organized-crime-tariffs-in-trump-meeting",
+      "published_date": "2026-05-07T16:07:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tennis stars raise French Open boycott threat in fight for more prize money",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260507-tennis-stars-raise-french-open-boycott-threat-in-fight-for-more-prize-money",
+      "published_date": "2026-05-07T15:14:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settler to go on trial over attack on French nun in Jerusalem",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/07/israeli-settler-trial-attack-french-nun-jerusalem",
+      "published_date": "2026-05-07T14:18:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police raids across 90 countries seize fake and illegal medicines worth €14m",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260507-police-raids-across-90-countries-seize-fake-and-illegal-medicines-worth-%E2%82%AC14m",
+      "published_date": "2026-05-07T14:18:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026: FIFA under fire for ticket prices",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260507-world-cup-2026-fifa-under-fire-for-ticket-prices",
+      "published_date": "2026-05-07T14:13:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel says it killed Hezbollah commander in first strike on Beirut since ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260507-israel-says-it-killed-hezbollah-commander-in-first-strike-on-beirut-since-ceasefire",
+      "published_date": "2026-05-07T14:12:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Disturbances and 127 arrests mar Paris party after PSG Champions League victory",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czj2egv8elro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T12:19:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Independent journalist Estelle Ndjandjo on the lack of diversity in French newsrooms",
@@ -603,97 +680,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260507-uk-voters-cast-ballots-in-elections-expected-to-deal-blow-to-starmer",
       "published_date": "2026-05-07T09:41:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holders PSG edge Bayern Munich to reach Champions League final",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-holders-psg-edge-bayern-munich-to-reach-champions-league-final",
-      "published_date": "2026-05-07T09:37:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Britons set to punish Starmer's Labour in local polls",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-britons-set-to-punish-starmer-s-labour-in-local-polls",
-      "published_date": "2026-05-07T09:33:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG returns to Champions League final as Dembélé goal stifles Bayern Munich",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-psg-returns-to-champions-league-final-as-demb%C3%A9l%C3%A9-goal-stifles-bayern-munich",
-      "published_date": "2026-05-07T09:29:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scores arrested in Paris after PSG reach Champions League final",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260507/scores-arrested-in-paris-after-psg-reach-champions-league-final",
-      "published_date": "2026-05-07T09:18:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French village in shock after teen killed on way to school",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260507/french-village-in-shock-after-teen-killed-on-way-to-school",
-      "published_date": "2026-05-07T08:46:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG sweep aside Bayern to reach second straight Champions League final",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260507-psg-sweep-aside-bayern-to-reach-second-straight-champions-league-final",
-      "published_date": "2026-05-07T08:11:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court sentences bank scam 'godfather' to six years",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260507/french-court-sentences-bank-scam-godfather-to-six-years",
-      "published_date": "2026-05-07T06:14:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keir Starmer's leadership tested as polls open in UK local elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260507-starmer-s-labour-to-face-potential-backlash-in-uk-local-elections",
-      "published_date": "2026-05-07T01:33:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Millions head to polls in UK as Starmer faces pressure over Labour slump",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260507-uk-local-elections-open-as-starmer-faces-pressure-over-labour-slump",
-      "published_date": "2026-05-07T01:32:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dembélé's strike kills off Bayern Munich to send PSG into Champions League final",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260506-demb%C3%A9l%C3%A9-s-strike-kills-off-bayern-munich-to-send-psg-into-champions-league-final",
-      "published_date": "2026-05-06T21:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tshisekedi hints at possible rule beyond second term",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tshisekedi-hints-at-possible-rule-beyond-second-term",
-      "published_date": "2026-05-06T20:22:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Portuguese police chiefs detained as abuse scandal escalates, reports say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0r2zq9wg9xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-06T19:32:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer's last stand? The UK local elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260506-starmer-s-last-stand-the-uk-local-elections",
-      "published_date": "2026-05-06T18:10:21+00:00",
       "category": "Local Events"
     }
   ]
