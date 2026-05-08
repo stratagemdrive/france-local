@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-05-07T23:50:47.050819+00:00",
-  "story_count": 97,
+  "last_updated": "2026-05-08T12:06:29.880753+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "France returns ambassador to Algeria in further sign of thawing relations",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260508-france-returns-ambassador-to-algeria-in-further-sign-of-thawing-relations",
+      "published_date": "2026-05-08T11:53:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ahead of Nairobi summit, France highlights youth, innovation and 'huge diaspora' investing in Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260508-ahead-of-nairobi-summit-france-highlights-youth-innovation-and-huge-diaspora-investing-in-africa",
+      "published_date": "2026-05-08T10:48:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Future of UK lies in the EU after Brexit ‘failure’, say European Greens",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/08/future-of-uk-lies-eu-brexit-failure-european-greens-vula-tsetsi",
+      "published_date": "2026-05-08T10:46:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Increasing border checks across Europe test Schengen free movement",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260508-growing-border-checks-across-europe-test-schengen-free-movement",
+      "published_date": "2026-05-08T05:08:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU monitor says sea temperatures near all-time highs as El Nino looms",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260508-eu-monitor-says-sea-temperatures-near-all-time-highs-as-el-nino-looms",
+      "published_date": "2026-05-08T02:10:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
       "source": "BBC News",
@@ -109,39 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Lourdes and Paris': Pope Leo likely to visit France in September, bishops say",
+      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T11:42:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine and Russia accuse each other of breaking proposed ceasefires ahead of Victory Day parade in Moscow – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates",
+      "published_date": "2026-05-08T11:21:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Inside TikTok's prostitution recruitment networks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260506-lourdes-and-paris-pope-leo-likely-to-visit-france-in-september-bishops-say",
-      "published_date": "2026-05-06T17:04:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/the-51/20260508-inside-tiktok-s-prostitution-recruitment-networks",
+      "published_date": "2026-05-08T10:58:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "US threatens to scrap EU visa waivers over data sharing demands",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260506/us-threatens-to-scrap-eu-visa-waivers-over-data-sharing-demands",
-      "published_date": "2026-05-06T10:42:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Donald Trump renews pressure and plans to hike tariffs on EU cars",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/donald-trump-renews-pressure-and-plans-to-hike-tariffs-on-eu-cars",
-      "published_date": "2026-05-06T10:20:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Economic diplomacy' key in Algeria, French employers' union chief tells RFI",
+      "title": "Nigeria's security ‘has never been worse’ as coup trial opens",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260506-economic-diplomacy-key-in-algeria-french-employers-union-chief-tells-rfi",
-      "published_date": "2026-05-06T09:37:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260508-nigeria-security-has-never-been-worse-as-coup-trial-opens-jibrin-ibrahim",
+      "published_date": "2026-05-08T10:26:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Risk of summer flight cancellations in France 'very low'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260506/risk-of-summer-flight-cancellations-in-france-very-low",
-      "published_date": "2026-05-06T08:54:48+00:00",
-      "category": "Diplomacy"
+      "title": "Russia and Ukraine trade major attacks despite Victory Day ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-and-ukraine-trade-major-attacks-despite-victory-day-ceasefire",
+      "published_date": "2026-05-08T09:16:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CPJ demands update on US probe of journalist Abu Akleh’s killing in West Bank",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260508-cpj-demands-update-on-us-probe-of-journalist-abu-akleh-s-killing-in-west-bank",
+      "published_date": "2026-05-08T08:56:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin's 'paranoia': 'He is fearful of Ukrainians & afraid the elite around him is starting to break'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260508-putin-s-paranoia-he-s-fearful-of-ukrainians-afraid-the-elite-around-him-is-starting-to-break",
+      "published_date": "2026-05-08T08:31:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Meeting ‘Madyar’: the Ukrainian drones boss raining on Putin’s parade",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/08/madyar-robert-brovdi-ukraine-military-vladimir-putin",
+      "published_date": "2026-05-08T07:00:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The WW2 spy killed in mystery crash days after the war ended",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9d3y1y3036o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T05:14:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Experience: I am the best lightsaber fighter in Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/08/experience-i-am-the-best-lightsaber-fighter-in-europe",
+      "published_date": "2026-05-08T04:00:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military says it intercepted Iranian attacks in Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260508-us-military-says-it-intercepted-iranian-attacks-in-strait-of-hormuz",
+      "published_date": "2026-05-08T01:08:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Middle East war live: US and Iran accuse each other of ceasefire violations in Strait of Hormuz",
@@ -155,6 +232,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/technology/20260507-french-prosecutors-seek-charges-against-musk-and-x-over-grok-content",
       "published_date": "2026-05-07T22:52:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T22:20:56+00:00",
       "category": "Military"
     },
     {
@@ -193,95 +277,25 @@
       "category": "Military"
     },
     {
-      "title": "Royal Navy tracks Russian frigate for one month off UK coast",
+      "title": "Russia, Ukraine trade attacks ahead of Kremlin's World War II commemoration parade",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260507-russia-ukraine-trade-attacks-ahead-of-kremlin-s-world-war-ii-commemoration-parade",
+      "published_date": "2026-05-07T17:33:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/07/royal-navy-tracks-russian-frigate-one-month-uk-coast",
-      "published_date": "2026-05-07T17:09:20+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/may/08/airline-emissions-in-europe-top-pre-covid-levels-despite-pledge-to-decarbonise",
+      "published_date": "2026-05-08T10:30:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel strikes Beirut and southern Lebanon despite truce",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-israel-strikes-beirut-and-southern-lebanon-despite-truce",
-      "published_date": "2026-05-07T16:08:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T16:00:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can nuclear power resolve the energy crisis?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20260507-can-nuclear-power-resolve-the-energy-crisis",
-      "published_date": "2026-05-07T15:36:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: Lebanon, Israel to hold new talks in Washington May 14-15",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260507-middle-east-war-live-source-close-to-hezbollah-says-top-commander-killed-in-israeli-strike",
-      "published_date": "2026-05-07T15:03:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Propaganda war: The Gen Z team behind Iran’s hit anti-Trump videos",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260507-propaganda-war-gen-z-team-behind-iran-hit-anti-trump-videos",
-      "published_date": "2026-05-07T14:51:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain awards UN legal expert Francesca Albanese one of its highest civilian honours",
+      "title": "Our cities are choked by cars – here’s how experts would fix them",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/spain-awards-un-legal-expert-francesca-albanese-one-of-highest-civilian-honours",
-      "published_date": "2026-05-07T14:17:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian attacks kill 27 before deadline for ceasefire proposed by Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-russian-attacks-kill-27-before-deadline-for-ceasefire-proposed-by-kyiv",
-      "published_date": "2026-05-07T14:15:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EXPLAINED: Why France doesn't have any US military bases",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260507/explained-why-france-doesnt-have-any-us-military-bases",
-      "published_date": "2026-05-07T13:48:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio meets Pope Leo in bid to ease tensions after Trump’s criticism of the pontiff - Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/07/ukraine-russia-drones-latvia-hungary-bulgaria-latest-news-updates",
-      "published_date": "2026-05-07T11:52:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s tantrums over Nato are prompting European leaders to think the unthinkable | Paul Taylor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/07/trump-nato-european-leaders-russia-attacks-us-allies",
-      "published_date": "2026-05-07T11:30:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Reopening strait of Hormuz would have limited impact on cargo flows, says Maersk",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/07/reopening-strait-of-hormuz-would-have-limited-impact-on-cargo-flows-says-maersk",
-      "published_date": "2026-05-07T10:36:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DRC leader Tshisekedi hints at possible rule beyond second term amid eastern war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-drc-leader-tshisekedi-hints-at-possible-rule-beyond-second-term-amid-eastern-war",
-      "published_date": "2026-05-07T10:16:06+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/may/08/cities-cars-experts-green-spaces-cyclists",
+      "published_date": "2026-05-08T10:00:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "Argentina probes link to deadly hantavirus outbreak on Atlantic cruise",
@@ -382,25 +396,39 @@
       "category": "Energy"
     },
     {
-      "title": "In Canada, Alberta's 'Maple MAGA' dream of independence",
+      "title": "Iran and the US trade fire over Hormuz, Trump says ceasefire still in effect",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/reporters/20260501-canada-alberta-separatism-maple-maga-dream-of-independence",
-      "published_date": "2026-05-01T11:39:04+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/iran-and-the-us-trade-fire-over-hormuz-trump-says-ceasefire-still-in-effect",
+      "published_date": "2026-05-08T09:45:52+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Is Iran's hybrid warfare behind anti-Semitic attacks in Europe?",
+      "title": "Israel and Hezbollah continue to trade blows despite the ceasefire",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260501-is-iran-s-hybrid-warfare-behind-anti-semitic-attacks-in-europe",
-      "published_date": "2026-05-01T09:51:11+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/israel-and-hezbollah-continue-to-trade-blows-despite-the-ceasefire",
+      "published_date": "2026-05-08T09:41:34+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Opening Hormuz 'not a humanitarian gesture': Essential to keeping global food system operating",
+      "title": "Iran on the verge of economic asphyxiation -- rare footage from Tehran",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260501-opening-hormuz-not-a-humanitarian-gesture-essential-to-keeping-global-food-system-operating",
-      "published_date": "2026-05-01T06:15:39+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/did-donald-trump-liberate-the-iranian-people-iran-on-the-verge-of-economic-asphyxiation",
+      "published_date": "2026-05-08T09:11:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US trade court once again rules Trump tariffs illegal, but issues narrow block",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260508-us-trade-court-once-again-rules-trump-tariffs-illegal-but-issues-narrow-block",
+      "published_date": "2026-05-08T07:28:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators",
+      "published_date": "2026-05-08T04:00:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Travel costs soar for Champions League final",
@@ -508,39 +536,67 @@
       "category": "Economy"
     },
     {
-      "title": "GameStop makes $56 billion bid to take over eBay in hopes of building Amazon rival",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260504-gamestop-makes-56-billion-bid-to-take-over-ebay-in-hopes-of-building-amazon-rival",
-      "published_date": "2026-05-04T08:47:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Madagascar revives Vara Mada mining project as key investment awaits approval",
+      "title": "Lens boss says team has a 'duty' to win over Nantes in fight for Ligue 1 crown",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260503-madagascar-revives-vara-mada-mining-project-as-key-investment-awaits-approval",
-      "published_date": "2026-05-03T15:56:06+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/sports/20260508-lens-boss-says-team-has-a-duty-to-win-over-nantes-in-fight-for-ligue-1-crown",
+      "published_date": "2026-05-08T11:05:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US airlines step up as Spirit winds down",
+      "title": "'Peacemaker' Rubio tries to appease pope over spat with Trump",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-airlines-step-up-as-spirit-winds-down",
-      "published_date": "2026-05-03T14:13:40+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260508-peacemaker-rubio-tries-to-appease-pope-over-spat-with-trump",
+      "published_date": "2026-05-08T10:39:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Cuba's economy collapses, prices soar",
+      "title": "Keir Starmer's Labour braces for heavy losses in UK local elections",
       "source": "France 24",
-      "url": "https://www.france24.com/en/cuba-s-economy-collapses-prices-soar",
-      "published_date": "2026-05-03T10:04:14+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/keir-starmer-s-labour-braces-for-heavy-losses-in-uk-local-elections",
+      "published_date": "2026-05-08T09:43:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Inflation surging past 50% in Iran",
+      "title": "English elections see Labour Party punished and gains for populist Reform",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260508-english-elections-see-labour-party-punished-and-gains-for-right-wing-reform",
+      "published_date": "2026-05-08T09:40:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inequality causing 100,000 extra deaths a year from heat and cold in Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/08/inequality-extra-deaths-heat-cold-europe-climate",
+      "published_date": "2026-05-08T09:29:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More hantavirus cases possible after cruise ship outbreak, says World Health Organisation",
       "source": "France 24",
-      "url": "https://www.france24.com/en/inflation-surging-past-50-in-iran",
-      "published_date": "2026-05-03T08:40:21+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260508-more-hantavirus-cases-possible-after-cruise-ship-outbreak-says-world-health-organisation",
+      "published_date": "2026-05-08T09:16:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No final for French club Strasbourg as Rayo Vallecano end their European journey",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260508-no-final-for-french-club-strasbourg-as-rayo-vallecano-end-their-european-journey",
+      "published_date": "2026-05-08T06:06:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What we know about the latest exchange of fire between the US and Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260508-what-we-know-about-the-latest-exchange-of-fire-between-the-us-and-iran",
+      "published_date": "2026-05-08T05:57:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Al-Qaeda-linked attacks in central Mali kill more than 30 people",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260508-al-qaeda-linked-attacks-in-central-mali-kill-more-than-30-people",
+      "published_date": "2026-05-08T01:24:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Valverde cut head when he 'accidentally hit table' in Tchouameni row",
@@ -617,69 +673,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260507-world-cup-2026-fifa-under-fire-for-ticket-prices",
       "published_date": "2026-05-07T14:13:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel says it killed Hezbollah commander in first strike on Beirut since ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-israel-says-it-killed-hezbollah-commander-in-first-strike-on-beirut-since-ceasefire",
-      "published_date": "2026-05-07T14:12:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Disturbances and 127 arrests mar Paris party after PSG Champions League victory",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czj2egv8elro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T12:19:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Independent journalist Estelle Ndjandjo on the lack of diversity in French newsrooms",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260507-independent-journalist-estelle-ndjandjo-on-the-lack-of-diversity-in-french-newsrooms",
-      "published_date": "2026-05-07T12:19:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German tourist awarded €1,000 after losing out on sunloungers at Greek hotel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/german-tourist-awarded-after-losing-out-sunloungers-greek-hotel",
-      "published_date": "2026-05-07T12:14:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Time to say goodbye': Judge releases Epstein's alleged 'suicide note'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260507-time-to-say-goodbye-judge-releases-epstein-s-alleged-suicide-note",
-      "published_date": "2026-05-07T11:39:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 50,000 pupils expected to strike over German rearmament policy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/germany-pupils-strike-rearmament-policy-protest-boycott",
-      "published_date": "2026-05-07T11:39:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "⚽ Champions League: Paris fans celebrate reaching the final",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-%E2%9A%BD-champions-league-paris-fans-celebrate-reaching-the-final",
-      "published_date": "2026-05-07T10:33:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG victory celebrations turn violent with arrests and injuries in Paris",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260507-psg-victory-celebrations-turn-violent-with-arrests-and-injuries-in-paris-champions-league",
-      "published_date": "2026-05-07T10:28:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK voters cast ballots in elections expected to deal blow to Starmer",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-uk-voters-cast-ballots-in-elections-expected-to-deal-blow-to-starmer",
-      "published_date": "2026-05-07T09:41:23+00:00",
       "category": "Local Events"
     }
   ]
