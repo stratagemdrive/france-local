@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-05-08T12:06:29.880753+00:00",
-  "story_count": 96,
+  "last_updated": "2026-05-08T23:54:11.094379+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "'We need a decisive European pillar inside NATO': Parliamentary Assembly President Perestrello",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260508-we-need-a-decisive-european-pillar-inside-nato-parliamentary-assembly-president-perestrello",
+      "published_date": "2026-05-08T15:11:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU enlargement: New horizons, from East to West",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260508-eu-enlargement-new-horizons-from-east-to-west",
+      "published_date": "2026-05-08T14:36:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French ambassador returns to Algeria in bid to ease Paris-Algier tensions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260508-french-ambassador-returns-to-algeria-in-bid-to-ease-paris-algier-tensions",
+      "published_date": "2026-05-08T14:03:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turning the page on Orbán’s rule: Magyar to be sworn in as Hungary PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/08/turning-page-orban-rule-magyar-to-be-sworn-in-hungary-pm",
+      "published_date": "2026-05-08T13:55:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron seeks to cement Africa legacy with Kenya summit",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260508/macron-seeks-to-cement-africa-legacy-with-kenya-summit",
+      "published_date": "2026-05-08T12:07:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France returns ambassador to Algeria in further sign of thawing relations",
       "source": "RFI English",
@@ -22,6 +57,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/may/08/future-of-uk-lies-eu-brexit-failure-european-greens-vula-tsetsi",
       "published_date": "2026-05-08T10:46:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France sending envoy back to Algeria to ease relations",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260508/france-sending-envoy-back-to-algeria-to-ease-relations",
+      "published_date": "2026-05-08T10:06:31+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,46 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France's ex-president Sarkozy escapes second ankle tag sentence",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260507/frances-ex-president-sarkozy-escapes-second-ankle-tag-sentence",
-      "published_date": "2026-05-07T06:08:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe’s AI translation industry told it risks reputation by partnering with US firms",
+      "title": "Trump announces Russia-Ukraine three-day ceasefire from 9 May",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/may/07/europe-ai-translation-industry-deepl-partnering-us-firms",
-      "published_date": "2026-05-07T06:00:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/08/trump-russia-ukraine-three-day-ceasefire-9-may",
+      "published_date": "2026-05-08T18:52:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump may be toxic and Orbán is gone, but Europe’s far right is not in decline | Cas Mudde",
+      "title": "One Page Peace Plan for Iran? Starmer’s Sinking Ship, Musk V Altman",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260508-one-page-peace-plan-for-iran-starmer-s-sinking-ship-musk-v-altman",
+      "published_date": "2026-05-08T18:22:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump announces three-day ceasefire between Ukraine and Russia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260508-trump-announces-three-day-ceasefire-between-ukraine-and-russia",
+      "published_date": "2026-05-08T18:10:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rubio cites 'positive' meeting with pope after meeting Giorgia Meloni – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/07/trump-orban-hungary-liability-europe-far-right-decline",
-      "published_date": "2026-05-07T04:00:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/us-news/video/2026/may/08/rubio-pope-meeting-meloni-video",
+      "published_date": "2026-05-08T18:02:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "G7 trade ministers seek common ground on minerals",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/g7-trade-ministers-seek-common-ground-on-minerals",
-      "published_date": "2026-05-06T20:47:14+00:00",
-      "category": "Diplomacy"
+      "title": "Greece examines mystery naval drone found in Ionian Sea",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T17:53:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Armenia: EU 'isn't poking the bear' enforcing ties with Russian-allied Yerevan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260506-armenia-eu-isn-t-poking-the-bear-enforcing-ties-with-russian-allied-yerevan",
-      "published_date": "2026-05-06T19:54:43+00:00",
-      "category": "Diplomacy"
+      "title": "Real Madrid in crisis - inside the conflict and chaos at the Bernabeu",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c3r28w34l0wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T15:42:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "China's 'key priorities': Open Hormuz, get oil flowing, avoid 'getting dragged into conflicts'",
+      "title": "Middle East war back on? UAE responds to fresh attacks, US and Iran trade fire",
       "source": "France 24",
-      "url": "https://www.france24.com/en/china-s-key-priorities-open-hormuz-avoid-getting-dragged-into-conflicts",
-      "published_date": "2026-05-06T17:59:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east-war-back-on-uae-responds-to-fresh-attacks-us-and-iran-trade-fire",
+      "published_date": "2026-05-08T15:28:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia loses ground – but not the war – in Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260508-russia-loses-ground-but-not-the-war-in-ukraine-institute-for-study-of-war-isw",
+      "published_date": "2026-05-08T14:22:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war hangs over Trump's Beijing visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/access-asia/20260508-iran-war-hangs-over-trump-s-beijing-visit",
+      "published_date": "2026-05-08T13:29:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia forced to scale down its victory parade for the first time in almost 20 years",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260508-russia-forced-to-scale-down-its-victory-parade-for-the-first-time-in-almost-20-years",
+      "published_date": "2026-05-08T12:44:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US military says it intercepted Iranian attacks in Strait of Hormuz",
+      "title": "Energy security vs climate crisis: Norway reopens three old gas fields",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260508-us-military-says-it-intercepted-iranian-attacks-in-strait-of-hormuz",
-      "published_date": "2026-05-08T01:08:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: US and Iran accuse each other of ceasefire violations in Strait of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260507-middle-east-war-live-us-and-iran-accuse-each-other-of-ceasefire-violations-in-strait-of-hormuz",
-      "published_date": "2026-05-07T23:12:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French prosecutors seek charges against Musk and X over Grok content",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20260507-french-prosecutors-seek-charges-against-musk-and-x-over-grok-content",
-      "published_date": "2026-05-07T22:52:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T22:20:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Strait of Hormuz: What role for France?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260507-strait-of-hormuz-what-role-for-france",
-      "published_date": "2026-05-07T22:03:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Photo shows Israeli soldier desecrating a Virgin Mary statue in Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/photo-shows-israeli-soldier-desecrating-a-virgin-mary-statue-in-lebanon",
-      "published_date": "2026-05-07T19:34:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Still no sign of a solution in Iran: US president says the war will be over soon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260507-still-no-sign-of-a-solution-in-iran-us-president-says-the-war-will-be-over-soon",
-      "published_date": "2026-05-07T18:17:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Keeping the Lebanese army weak: A hardened US military doctrine at Israel's service",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260507-keeping-the-lebanese-army-weak-a-hardened-us-military-doctrine-at-israel-service-qme",
-      "published_date": "2026-05-07T17:39:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Guardian view on ceasefires that aren’t: Israel never stopped killing in Gaza – allies must reject any escalation | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/07/the-guardian-view-on-ceasefires-that-arent-israel-never-stopped-killing-in-gaza-allies-must-reject-any-escalation",
-      "published_date": "2026-05-07T17:36:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia, Ukraine trade attacks ahead of Kremlin's World War II commemoration parade",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260507-russia-ukraine-trade-attacks-ahead-of-kremlin-s-world-war-ii-commemoration-parade",
-      "published_date": "2026-05-07T17:33:10+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/energy-security-vs-climate-crisis-norway-reopens-three-old-gas-fields",
+      "published_date": "2026-05-08T12:47:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise",
@@ -382,18 +389,11 @@
       "category": "Energy"
     },
     {
-      "title": "Octopus Energy boss: some people would accept blackouts if bills cut",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/01/octopus-energy-boss-blackouts-bills",
-      "published_date": "2026-05-01T16:02:42+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "A cultural stroll through Paris with actor Redouane Bougheraba and singer Camille",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/paris-des-arts/20260501-a-cultural-stroll-through-paris-with-actor-redouane-bougheraba-and-singer-camille",
-      "published_date": "2026-05-01T15:40:06+00:00",
-      "category": "Energy"
+      "title": "How Africa helped forge French billionaire Vincent Bolloré's empire of influence",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260508-how-africa-helped-forge-french-billionaire-vincent-bollore-s-empire-of-influence",
+      "published_date": "2026-05-08T16:00:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "Iran and the US trade fire over Hormuz, Trump says ceasefire still in effect",
@@ -529,11 +529,74 @@
       "category": "Economy"
     },
     {
-      "title": "France introduces one‑euro canteen meals for all students",
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/may/08/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-05-08T18:35:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour suffers losses across the UK as Reform surges: “Starmer’s survival depends on improvement”",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260504-in-france-a-one%E2%80%91euro-university-meals-for-all-students",
-      "published_date": "2026-05-04T16:07:13+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260508-labour-suffers-losses-across-the-uk-as-reform-surges-starmer-s-survival-depends-on-improvement",
+      "published_date": "2026-05-08T18:20:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: The end of the traditional two-party system? Starmer faces crushing defeat in local polls",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-the-end-of-the-traditional-two-party-system-starmer-faces-crushing-defeat-in-local-polls",
+      "published_date": "2026-05-08T15:53:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several Venice Biennale pavilions shut in protest over inclusion of Israel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/may/08/several-venice-biennale-pavilions-shut-in-protest-over-inclusion-of-israel",
+      "published_date": "2026-05-08T15:50:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Substantial win for Nigel Farage's Reform UK in local elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/substantial-win-for-nigel-farage-s-reform-uk-in-local-elections",
+      "published_date": "2026-05-08T15:40:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I should have kicked him even harder. He deserved it’: Eric Cantona comes out fighting",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/08/eric-cantona-cannes-film-festival-documentary",
+      "published_date": "2026-05-08T15:18:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dr Winter warns UK PM normalised far-right, 'legitimised migration talking points, policy positions'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260508-dr-winter-warns-uk-pm-normalised-far-right-legitimised-migration-talking-points-policy-positions",
+      "published_date": "2026-05-08T15:06:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greenlandic woman wins case against Danish authorities who removed her two-hour-old child",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/08/greenland-woman-wins-danish-authorities-keira-alexandra-kronvold-child",
+      "published_date": "2026-05-08T14:45:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa rejects xenophobia claims over anti-migrant protests",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260508-south-africa-rejects-xenophobia-claims-over-anti-migrant-protests",
+      "published_date": "2026-05-08T14:25:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French parliament votes to ease returns of looted art to ex-colonies",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260508/french-parliament-votes-to-ease-returns-of-looted-art-to-ex-colonies",
+      "published_date": "2026-05-08T12:56:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lens boss says team has a 'duty' to win over Nantes in fight for Ligue 1 crown",
@@ -578,6 +641,13 @@
       "category": "Local Events"
     },
     {
+      "title": "La Belle Vie: Holidays, expos and tackling French administration",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260508/la-belle-vie-holidays-expos-and-tackling-french-administration",
+      "published_date": "2026-05-08T09:00:37+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "No final for French club Strasbourg as Rayo Vallecano end their European journey",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/sports/20260508-no-final-for-french-club-strasbourg-as-rayo-vallecano-end-their-european-journey",
@@ -596,83 +666,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/africa/20260508-al-qaeda-linked-attacks-in-central-mali-kill-more-than-30-people",
       "published_date": "2026-05-08T01:24:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Valverde cut head when he 'accidentally hit table' in Tchouameni row",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c98r4218l73o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T21:40:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tshisekedi angers opposition leaders",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tshisekedi-angers-opposition-leaders",
-      "published_date": "2026-05-07T20:36:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bonnie Tyler in induced coma after emergency intestinal surgery",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/may/07/bonnie-tyler-induced-coma-intestinal-surgery",
-      "published_date": "2026-05-07T19:27:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
-      "published_date": "2026-05-07T19:20:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Ici c'est Paris': Defending champions PSG 'on the verge of making history'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-ici-c-est-paris-defending-champions-psg-on-the-verge-of-making-history-1",
-      "published_date": "2026-05-07T17:21:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK elections: Conservatives are stuck between a rock and a hard place",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-uk-elections-conservatives-are-stuck-between-a-rock-and-a-hard-place",
-      "published_date": "2026-05-07T16:48:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil’s Lula to discuss fighting organized crime, tariffs in Trump meeting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-brazil-s-lula-to-discuss-fighting-organized-crime-tariffs-in-trump-meeting",
-      "published_date": "2026-05-07T16:07:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tennis stars raise French Open boycott threat in fight for more prize money",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260507-tennis-stars-raise-french-open-boycott-threat-in-fight-for-more-prize-money",
-      "published_date": "2026-05-07T15:14:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli settler to go on trial over attack on French nun in Jerusalem",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/israeli-settler-trial-attack-french-nun-jerusalem",
-      "published_date": "2026-05-07T14:18:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police raids across 90 countries seize fake and illegal medicines worth €14m",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260507-police-raids-across-90-countries-seize-fake-and-illegal-medicines-worth-%E2%82%AC14m",
-      "published_date": "2026-05-07T14:18:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: FIFA under fire for ticket prices",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-world-cup-2026-fifa-under-fire-for-ticket-prices",
-      "published_date": "2026-05-07T14:13:33+00:00",
       "category": "Local Events"
     }
   ]
