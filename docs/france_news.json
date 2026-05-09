@@ -1,13 +1,41 @@
 {
   "country": "France",
-  "last_updated": "2026-05-09T11:45:47.195619+00:00",
+  "last_updated": "2026-05-09T23:43:30.294268+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "Hungary lawmakers formally elect Peter Magyar as PM, succeeding Viktor Orban",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260509-hungary-lawmakers-formally-elect-peter-magyar-as-pm-succeeding-viktor-orban",
+      "published_date": "2026-05-09T16:49:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'End of an era': EU flag outside parliament signals shift in Hungary",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260509-shirli-sitbon",
+      "published_date": "2026-05-09T16:10:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European nations dispatch planes to evacuate citizens from hantavirus-hit cruise ship",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/health/20260509-european-nations-dispatch-planes-to-evacuate-citizens-from-hantavirus-hit-cruise-ship",
+      "published_date": "2026-05-09T16:01:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "WHO chief heads to Tenerife as Canary Islands brace for arrival of hantavirus cruise ship – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
       "published_date": "2026-05-09T11:38:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran keeps US waiting for response on ceasefire plan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260509-iran-keeps-us-waiting-for-response-on-ceasefire-plan",
+      "published_date": "2026-05-09T10:09:15+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US trade court rules against Trump’s 10% global tariffs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/07/trump-global-tariffs-trade-court-ruling",
-      "published_date": "2026-05-07T21:43:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump sets July 4 ultimatum for EU on trade pact",
+      "title": "Putin says Ukraine war 'heading to an end' despite ceasefire violations",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260507-trump-sets-july-4-ultimatum-for-eu-on-trade-pact",
-      "published_date": "2026-05-07T20:12:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260509-russia-and-ukraine-trade-accusations-of-truce-violations",
+      "published_date": "2026-05-09T19:07:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Norway's Svalbard archipelago, a pawn on Russia's chessboard",
+      "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T17:25:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Could and would Ukraine target Putin?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/reporters/20260507-norway-svalbard-archipelago-a-pawn-on-russia-chessboard",
-      "published_date": "2026-05-07T15:26:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260509-could-and-would-ukraine-target-putin",
+      "published_date": "2026-05-09T17:22:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU prosecutors probe alleged misuse of funds linked to France's Bardella",
+      "title": "Pro-Russian separatist held in France over Ukraine torture claims",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260507-eu-prosecutors-probe-alleged-misuse-of-funds-linked-to-france-s-bardella",
-      "published_date": "2026-05-07T15:08:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/france/20260509-pro-russian-separatist-held-in-france-over-ukraine-torture-claims",
+      "published_date": "2026-05-09T17:19:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainians mark end of WWII amid fragile ceasefire with Russia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260509-ukraine-marks-end-of-world-war-ii",
+      "published_date": "2026-05-09T16:19:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moscow marks Victory Day amid tight security",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/moscow-marks-victory-day-amid-tight-security",
+      "published_date": "2026-05-09T14:20:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin says Russia will prevail at scaled-down Victory Day parade – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/may/09/putin-russia-will-prevail-scaled-down-victory-day-parade-video",
+      "published_date": "2026-05-09T13:24:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Atmosphere closer to wartime': Moscow’s muted Victory Day reflects growing security fears",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260509-gr%C3%A9goire-roos",
+      "published_date": "2026-05-09T13:22:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Disposable spies': Poland records unprecedented number of Russian espionage cases",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260509-disposable-spies-poland-records-unprecedented-number-of-russian-espionage-cases",
+      "published_date": "2026-05-09T11:56:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Putin denounces Nato at scaled back Victory Day parade",
@@ -218,69 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/09/ukraine-war-briefing-zelenskyy-hereby-decrees-moscow-can-hold-victory-day-parade",
       "published_date": "2026-05-09T03:16:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can artificial intelligence help Nollywood tell African stories differently without losing its soul?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260508-can-artificial-intelligence-help-nollywood-tell-african-stories-differently-without-losing-its-soul",
-      "published_date": "2026-05-08T21:00:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump announces Russia-Ukraine three-day ceasefire from 9 May",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/08/trump-russia-ukraine-three-day-ceasefire-9-may",
-      "published_date": "2026-05-08T18:52:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One Page Peace Plan for Iran? Starmer’s Sinking Ship, Musk V Altman",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260508-one-page-peace-plan-for-iran-starmer-s-sinking-ship-musk-v-altman",
-      "published_date": "2026-05-08T18:22:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump announces three-day ceasefire between Ukraine and Russia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260508-trump-announces-three-day-ceasefire-between-ukraine-and-russia",
-      "published_date": "2026-05-08T18:10:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio cites 'positive' meeting with pope after meeting Giorgia Meloni – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/video/2026/may/08/rubio-pope-meeting-meloni-video",
-      "published_date": "2026-05-08T18:02:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Greece examines mystery naval drone found in Ionian Sea",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-08T17:53:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Real Madrid in crisis - inside the conflict and chaos at the Bernabeu",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c3r28w34l0wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-08T15:42:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war back on? UAE responds to fresh attacks, US and Iran trade fire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east-war-back-on-uae-responds-to-fresh-attacks-us-and-iran-trade-fire",
-      "published_date": "2026-05-08T15:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia loses ground – but not the war – in Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260508-russia-loses-ground-but-not-the-war-in-ukraine-institute-for-study-of-war-isw",
-      "published_date": "2026-05-08T14:22:40+00:00",
       "category": "Military"
     },
     {
@@ -536,6 +536,13 @@
       "category": "Economy"
     },
     {
+      "title": "Female nudity and art that stinks: key takeaways from Venice Biennale 2026",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/may/09/female-nudity-art-stinks-key-takeways-venice-biennale-2026",
+      "published_date": "2026-05-09T14:00:58+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UK local elections: \"Starmer must address voters' frustration over change\"",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260509-uk-local-elections-starmer-must-address-voters-frustration-over-change",
@@ -666,13 +673,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/keir-starmer-s-labour-braces-for-heavy-losses-in-uk-local-elections",
       "published_date": "2026-05-08T09:43:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "English elections see Labour Party punished and gains for populist Reform",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260508-english-elections-see-labour-party-punished-and-gains-for-right-wing-reform",
-      "published_date": "2026-05-08T09:40:20+00:00",
       "category": "Local Events"
     }
   ]
