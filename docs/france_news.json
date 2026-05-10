@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-05-10T11:45:57.365961+00:00",
+  "last_updated": "2026-05-10T23:49:30.286863+00:00",
   "story_count": 95,
   "stories": [
+    {
+      "title": "Rhythm nation: politician’s viral dance moves mark new, optimistic era for Hungary",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/10/rhythm-nation-politicians-viral-dance-moves-mark-new-optimistic-era-for-hungary",
+      "published_date": "2026-05-10T16:42:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron arrives in Kenya ahead of Africa summit",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260510-macron-arrives-in-kenya-ahead-of-africa-summit",
+      "published_date": "2026-05-10T16:03:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Togo’s fight against centuries-old map revives debate over African representation",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260510-togo-s-fight-against-a-centuries-old-map-revives-debate-over-african-representation",
+      "published_date": "2026-05-10T13:24:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron heads to Kenya to push new France-Africa partnership",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/macron-heads-to-kenya-to-push-new-france-africa-partnership",
+      "published_date": "2026-05-10T12:54:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran warns of retaliation as US tensions threaten fragile peace talks",
       "source": "France 24",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ahead of Nairobi summit, France highlights youth, innovation and 'huge diaspora' investing in Africa",
+      "title": "Iran’s two navies and the fate of its “Midget Submarines”",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260508-ahead-of-nairobi-summit-france-highlights-youth-innovation-and-huge-diaspora-investing-in-africa",
-      "published_date": "2026-05-08T10:48:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260510-iran-s-two-navies-and-the-fate-of-its-midget-submarines",
+      "published_date": "2026-05-10T17:46:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Future of UK lies in the EU after Brexit ‘failure’, say European Greens",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/08/future-of-uk-lies-eu-brexit-failure-european-greens-vula-tsetsi",
-      "published_date": "2026-05-08T10:46:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France sending envoy back to Algeria to ease relations",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260508/france-sending-envoy-back-to-algeria-to-ease-relations",
-      "published_date": "2026-05-08T10:06:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Increasing border checks across Europe test Schengen free movement",
+      "title": "Inside the chimpanzee 'civil war' that has locked a Ugandan forest in conflict",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260508-growing-border-checks-across-europe-test-schengen-free-movement",
-      "published_date": "2026-05-08T05:08:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260510-inside-the-chimpanzee-civil-war-that-s-locked-a-ugandan-forest-in-conflict",
+      "published_date": "2026-05-10T16:24:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe weighs Putin’s ceasefire signals and security proposals",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe-weighs-putin-s-ceasefire-signals-and-security-proposals",
+      "published_date": "2026-05-10T15:27:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia, Ukraine trade blame over ceasefire violations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-ukraine-trade-blame-over-ceasefire-violations",
+      "published_date": "2026-05-10T15:00:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Berlin sceptical as Putin proposes Germany's ex-chancellor Schroeder as Ukraine mediator",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260510-berlin-sceptical-as-putin-proposes-ex-german-chancellor-schroeder-as-ukraine-mediator",
+      "published_date": "2026-05-10T14:03:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Prague derby abandoned after fans storm pitch with Slavia seconds from title",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/may/10/slavia-sparta-prague-derby-abandoned-fans-storm-pitch-title",
+      "published_date": "2026-05-10T12:36:26+00:00",
+      "category": "Military"
     },
     {
       "title": "First plane carrying passengers evacuated from hantavirus-hit cruise ship has left Tenerife – Europe live",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "'Atmosphere closer to wartime': Moscow’s muted Victory Day reflects growing security fears",
+      "title": "Trump calls Iran's response to US peace proposal 'totally unacceptable'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260509-gr%C3%A9goire-roos",
-      "published_date": "2026-05-09T13:22:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Disposable spies': Poland records unprecedented number of Russian espionage cases",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260509-disposable-spies-poland-records-unprecedented-number-of-russian-espionage-cases",
-      "published_date": "2026-05-09T11:56:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin denounces Nato at scaled back Victory Day parade",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-09T11:15:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia will always be victorious, says Putin at scaled-back Victory Day parade",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/09/russia-putin-moscow-victory-day-parade-scaled-back",
-      "published_date": "2026-05-09T11:05:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan sees collapse in tourism since Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/jordan-sees-collapse-in-tourism-since-iran-war",
-      "published_date": "2026-05-09T10:24:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey sounds alarm over planned French troop deployment to Cyprus",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260509-turkey-sounds-alarm-over-planned-french-troop-deployment-to-cyprus",
-      "published_date": "2026-05-09T10:21:24+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/middle-east/20260510-trump-calls-iran-response-to-us-peace-proposal-totally-unacceptable",
+      "published_date": "2026-05-10T23:23:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘We are talking about energy security for Europe’: Norway doubles down on oil and gas production",
@@ -382,11 +389,11 @@
       "category": "Energy"
     },
     {
-      "title": "OPEC+ raises oil output quotas for 'stability' after shock UAE pull-out",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260503-opec-increases-production-quotas-without-mentioning-uae-withdrawal",
-      "published_date": "2026-05-03T12:13:11+00:00",
-      "category": "Energy"
+      "title": "‘Degree of complacency’: are supply chains prepared for impact of ongoing Iran war?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/10/degree-complacency-supply-chains-prepared-impact-iran-war",
+      "published_date": "2026-05-10T14:00:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tax deadlines, rail trips and summer drinks: 6 essential articles for life in France",
@@ -522,11 +529,39 @@
       "category": "Economy"
     },
     {
-      "title": "French tax deadlines in May and June 2026",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260505/french-tax-deadlines-in-may-and-june-2026",
-      "published_date": "2026-05-05T14:29:27+00:00",
-      "category": "Economy"
+      "title": "Starmer under pressure: “Swapping leaders won’t fix problems,” says former Labour adviser",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260510-starmer-under-pressure-swapping-leaders-won-t-fix-problems-says-former-labour-adviser",
+      "published_date": "2026-05-10T21:55:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens of people from cruise ship struck by hantavirus leave Tenerife",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+      "published_date": "2026-05-10T20:30:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Killing Palestinians in broad daylight': Settlers attack villages with 'full support of military'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260510-west-bank-violence-no-accountability-for-settler-attacks",
+      "published_date": "2026-05-10T19:50:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French national shows symptoms on return from hantavirus-hit ship",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-10T19:43:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eurovision fever hits host city Vienna",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260510-eurovision-fever-hits-host-city-vienna",
+      "published_date": "2026-05-10T13:21:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel strikes kill several in Lebanon despite truce",
@@ -631,41 +666,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/international/20260509-uk-pm-starmer-vows-to-fight-on-after-local-polls-drubbing",
       "published_date": "2026-05-09T06:02:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France has a record number of presidential hopefuls. Will any of them be able to hold back the far right?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/09/france-has-a-record-number-of-presidential-hopefuls-will-any-of-them-be-able-to-hold-back-the-far-right",
-      "published_date": "2026-05-09T05:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa’s highest court revives impeachment proceedings against the president Cyril Ramaphosa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260508-south-africa-s-highest-court-revives-impeachment-proceedings-against-the-president-cyril-ramaphosa",
-      "published_date": "2026-05-08T21:05:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British PM Starmer says he won't quit after local elections drubbing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260508-starmer-says-he-won-t-quit-after-local-elections-deliver-drubbing",
-      "published_date": "2026-05-08T19:11:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/may/08/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-05-08T18:35:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour suffers losses across the UK as Reform surges: “Starmer’s survival depends on improvement”",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260508-labour-suffers-losses-across-the-uk-as-reform-surges-starmer-s-survival-depends-on-improvement",
-      "published_date": "2026-05-08T18:20:05+00:00",
       "category": "Local Events"
     }
   ]
