@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-05-09T23:43:30.294268+00:00",
-  "story_count": 96,
+  "last_updated": "2026-05-10T11:45:57.365961+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Iran warns of retaliation as US tensions threaten fragile peace talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260510-iran-war",
+      "published_date": "2026-05-10T10:50:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron boosts Egypt ties during Alexandria visit ahead of Africa-France summit",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260510-macron-boosts-egypt-ties-during-alexandria-visit-ahead-of-africa-france-summit",
+      "published_date": "2026-05-10T09:23:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and Algeria agree to boost cooperation after diplomatic spat",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260510/france-and-algeria-agree-to-boost-cooperation-after-diplomatic-spat",
+      "published_date": "2026-05-10T07:28:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hungary lawmakers formally elect Peter Magyar as PM, succeeding Viktor Orban",
       "source": "RFI English",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU monitor says sea temperatures near all-time highs as El Nino looms",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260508-eu-monitor-says-sea-temperatures-near-all-time-highs-as-el-nino-looms",
-      "published_date": "2026-05-08T02:10:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T23:11:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump gives EU until 4 July to ratify trade deal or face ‘much higher’ tariffs",
+      "title": "First plane carrying passengers evacuated from hantavirus-hit cruise ship has left Tenerife – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/07/trump-gives-eu-until-4-july-to-ratify-trade-deal-or-face-much-higher-tariffs",
-      "published_date": "2026-05-07T22:04:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/may/10/hantavirus-cruise-ship-rat-spain-tenerife-russia-ukraine-putin-zelenskyy-war-europe-latest-news-updates",
+      "published_date": "2026-05-10T11:34:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vladimir Putin suggests Ukraine war is ‘coming to an end’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end",
+      "published_date": "2026-05-10T10:56:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian President Putin accuses West of arming Ukraine on Victory Day",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260510-russian-president-putin-accuses-west-of-arming-ukraine-on-victory-day",
+      "published_date": "2026-05-10T08:58:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pro-Russian separatist held in France over Ukraine torture claims",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260510/pro-russian-separatist-held-in-france-over-ukraine-torture-claims",
+      "published_date": "2026-05-10T07:21:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defence sovereignty: Europe races to build the low-cost weapons of future",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/10/defence-sovereignty-europe-builds-low-cost-weapons-drones",
+      "published_date": "2026-05-10T04:00:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Moscow and Kyiv trade accusations of violating ceasefire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/10/ukraine-war-briefing-moscow-and-kyiv-trade-accusations-of-violating-ceasefire",
+      "published_date": "2026-05-10T02:01:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-10T00:46:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Putin says Ukraine war 'heading to an end' despite ceasefire violations",
@@ -232,55 +281,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/podcasts/international-report/20260509-turkey-sounds-alarm-over-planned-french-troop-deployment-to-cyprus",
       "published_date": "2026-05-09T10:21:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin says army fighting 'aggressive' NATO-backed force in Victory Parade address",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260509-putin-says-army-fighting-aggressive-nato-backed-force-in-victory-parade-address",
-      "published_date": "2026-05-09T09:00:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US awaits Iran's response to latest proposal amid technical ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260509-us-awaits-iran-s-response-to-latest-proposal-amid-technical-ceasefire",
-      "published_date": "2026-05-09T08:40:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia marks Victory Day with scaled-back parade",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-marks-victory-day-with-scaled-back-parade",
-      "published_date": "2026-05-09T08:35:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: Israel launches strikes on south Lebanon after warning residents to evacuate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260509-live-oil-spill-is-detected-off-kharg-island-in-the-persian-gulf",
-      "published_date": "2026-05-09T05:49:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia is fighting an 'aggressive' NATO-backed force, Putin says in Victory Day speech",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260509-moscow-set-to-hold-victory-day-parade-in-red-square-parade-amid-tight-security",
-      "published_date": "2026-05-09T05:28:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At the Venice Biennale I saw anger at Russia and Israel – and its leadership pretending everything was fine | Charlotte Higgins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/09/venice-biennale-anger-russia-israel-art-festival",
-      "published_date": "2026-05-09T05:00:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy ‘hereby decrees’ Moscow can hold Victory Day parade",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/09/ukraine-war-briefing-zelenskyy-hereby-decrees-moscow-can-hold-victory-day-parade",
-      "published_date": "2026-05-09T03:16:29+00:00",
       "category": "Military"
     },
     {
@@ -389,11 +389,18 @@
       "category": "Energy"
     },
     {
-      "title": "The tech project bringing some of Malawi's remotest schools into the digital age",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260503-the-tech-project-bringing-some-of-malawi-s-remotest-schools-into-the-digital-age",
-      "published_date": "2026-05-03T08:26:56+00:00",
-      "category": "Energy"
+      "title": "Tax deadlines, rail trips and summer drinks: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260510/tax-deadlines-rail-trips-and-summer-drinks-6-essential-articles-for-life-in-france",
+      "published_date": "2026-05-10T08:07:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Away from the red carpet, the  ‘flashy, jazzy and tacky’ descend on Cannes – photo essay",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/may/10/cannes-film-festival-sidelines-photo-essay",
+      "published_date": "2026-05-10T06:00:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "How Africa helped forge French billionaire Vincent Bolloré's empire of influence",
@@ -522,18 +529,81 @@
       "category": "Economy"
     },
     {
-      "title": "Airline's plan for fuel surcharge raises questions of legality",
+      "title": "Israel strikes kill several in Lebanon despite truce",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260505-airline-s-plan-for-fuel-surcharge-raises-questions-of-legality",
-      "published_date": "2026-05-05T10:10:15+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/israel-strikes-kill-several-in-lebanon-despite-truce",
+      "published_date": "2026-05-10T09:53:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "France launches one-euro university meals for all students",
+      "title": "Live: First plane with passengers from hantavirus-hit cruise ship departs for Madrid",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260510-live-spanish-passengers-begin-evacuating-ship-hit-by-hantavirus",
+      "published_date": "2026-05-10T09:47:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Starmer vows to stay on after local elections deliver losses for Labour",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/starmer-vows-to-stay-on-after-local-elections-deliver-losses-for-labour",
+      "published_date": "2026-05-10T09:02:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 15 killed in car bomb attack on northwest Pakistan checkpoint",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/at-least-15-killed-in-car-bomb-attack-on-northwest-pakistan-checkpoint",
+      "published_date": "2026-05-10T08:59:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Week in pictures: Met Gala, Russia's Victory Day parade and the far right makes gains in the UK",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260510-week-in-pictures-met-gala-russia-s-victory-day-parade-and-the-far-right-makes-gains-in-the-uk",
+      "published_date": "2026-05-10T08:59:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manchester City keep pressure on Arsenal in title race with win over Brentford",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260510-manchester-city-keep-pressure-on-arsenal-in-title-race-with-win-over-brentford",
+      "published_date": "2026-05-10T08:20:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'A full-time job': How a self-proclaimed Swiss king's 'empire' is riling local authorities",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260510-how-switzerland-self-proclaimed-king-built-a-land-empire-that-riling-local-authorities",
+      "published_date": "2026-05-10T07:47:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "46 in custody in Paris over banned far-right and anti-fascist marches",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260505/france-launches-one-euro-university-meals-for-all-students",
-      "published_date": "2026-05-05T06:12:48+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20260510/46-in-custody-in-paris-over-banned-far-right-and-anti-fascist-marches",
+      "published_date": "2026-05-10T07:12:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Live: Iran's Guards threaten US sites in the region if its tankers come under fire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260510-live-iran-s-guards-threaten-us-sites-in-the-region-if-its-tankers-come-under-fire",
+      "published_date": "2026-05-10T06:50:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far-right leaders court Israel, Germany envoys ahead of presidential poll",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260510-france-far-right-leaders-court-israel-germany-envoys-ahead-of-presidentials-marine-le-pen",
+      "published_date": "2026-05-10T06:04:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens killed in jihadist attacks in central Mali",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260510-dozens-killed-in-jihadist-attacks-in-central-mali",
+      "published_date": "2026-05-10T06:02:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Female nudity and art that stinks: key takeaways from Venice Biennale 2026",
@@ -596,83 +666,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260508-labour-suffers-losses-across-the-uk-as-reform-surges-starmer-s-survival-depends-on-improvement",
       "published_date": "2026-05-08T18:20:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: The end of the traditional two-party system? Starmer faces crushing defeat in local polls",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk-the-end-of-the-traditional-two-party-system-starmer-faces-crushing-defeat-in-local-polls",
-      "published_date": "2026-05-08T15:53:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Several Venice Biennale pavilions shut in protest over inclusion of Israel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/may/08/several-venice-biennale-pavilions-shut-in-protest-over-inclusion-of-israel",
-      "published_date": "2026-05-08T15:50:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Substantial win for Nigel Farage's Reform UK in local elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/substantial-win-for-nigel-farage-s-reform-uk-in-local-elections",
-      "published_date": "2026-05-08T15:40:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I should have kicked him even harder. He deserved it’: Eric Cantona comes out fighting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/08/eric-cantona-cannes-film-festival-documentary",
-      "published_date": "2026-05-08T15:18:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dr Winter warns UK PM normalised far-right, 'legitimised migration talking points, policy positions'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260508-dr-winter-warns-uk-pm-normalised-far-right-legitimised-migration-talking-points-policy-positions",
-      "published_date": "2026-05-08T15:06:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greenlandic woman wins case against Danish authorities who removed her two-hour-old child",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/08/greenland-woman-wins-danish-authorities-keira-alexandra-kronvold-child",
-      "published_date": "2026-05-08T14:45:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa rejects xenophobia claims over anti-migrant protests",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260508-south-africa-rejects-xenophobia-claims-over-anti-migrant-protests",
-      "published_date": "2026-05-08T14:25:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French parliament votes to ease returns of looted art to ex-colonies",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260508/french-parliament-votes-to-ease-returns-of-looted-art-to-ex-colonies",
-      "published_date": "2026-05-08T12:56:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lens boss says team has a 'duty' to win over Nantes in fight for Ligue 1 crown",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260508-lens-boss-says-team-has-a-duty-to-win-over-nantes-in-fight-for-ligue-1-crown",
-      "published_date": "2026-05-08T11:05:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Peacemaker' Rubio tries to appease pope over spat with Trump",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260508-peacemaker-rubio-tries-to-appease-pope-over-spat-with-trump",
-      "published_date": "2026-05-08T10:39:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keir Starmer's Labour braces for heavy losses in UK local elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/keir-starmer-s-labour-braces-for-heavy-losses-in-uk-local-elections",
-      "published_date": "2026-05-08T09:43:35+00:00",
       "category": "Local Events"
     }
   ]
