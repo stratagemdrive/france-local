@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-05-13T13:08:04.455977+00:00",
-  "story_count": 93,
+  "last_updated": "2026-05-13T23:54:00.255103+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Ukraine war briefing: New Hungary PM signals shift away from Kremlin after massive drone attack on Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/14/ukraine-war-briefing-hungary-peter-magyar-signals-shift-from-russia-after-drone-attack",
+      "published_date": "2026-05-13T23:28:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump in Beijing to reset US-China relations, with tariffs top of the agenda",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260513-trump-to-visit-beijing-to-reset-china-us-relationship-with-tariffs-top-of-agenda",
+      "published_date": "2026-05-13T20:46:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump-Xi Summit: China wants to 'displace' the US in world order",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-trump-xi-summit-china-wants-to-displace-the-us-in-world-order",
+      "published_date": "2026-05-13T16:25:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU proposes end to ‘five tabs, three apps and a prayer’ for cross-border train bookings",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/13/eu-proposal-cross-border-europe-train-bookings",
+      "published_date": "2026-05-13T15:49:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Africa Forward Summit: Africa must \"build off the basis of what it already owns\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-africa-forward-summit-africa-must-build-off-the-basis-of-what-it-already-owns",
+      "published_date": "2026-05-13T15:46:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Africa Forward Summit: Navigating the nuances of data governance in Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-africa-forward-summit-navigating-the-nuances-of-data-governance-in-africa",
+      "published_date": "2026-05-13T15:28:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'I'm incredibly proud of my record' on Africa, Macron tells RFI",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260513-i-m-incredibly-proud-of-my-record-on-africa-macron-tells-rfi",
+      "published_date": "2026-05-13T14:08:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Who holds the cards at the Trump-Xi summit in Beijing?",
       "source": "France 24",
@@ -95,53 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron's Renaissance party endorses former PM Attal for 2027 presidential bid",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260513-macron-s-renaissance-party-endorses-ex-pm-attal-for-2027-presidential-bid",
-      "published_date": "2026-05-13T07:01:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Von der Leyen steps up EU child safety crackdown on social media giants",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260513-wed-8am-von-der-leyen-steps-up-eu-child-safety-crackdown-on-social-media-giants",
-      "published_date": "2026-05-13T06:02:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New EU rules aim to ease cross-border European train travel",
+      "title": "Taiwan vs China: Is conflict inevitable?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260513-new-rules-aim-to-ease-inter-eu-train-travel",
-      "published_date": "2026-05-13T01:27:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260513-taiwan-vs-china-is-conflict-inevitable",
+      "published_date": "2026-05-13T18:29:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Emmanuel Macron wants dialogue with Rwanda and DRC",
+      "title": "Russia unleashes deadly daylight drone blitz across Ukraine",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260512-emmanuel-macron-wants-dialogue-with-rwanda-and-drc",
-      "published_date": "2026-05-12T20:37:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260513-russia-unleashes-deadly-daylight-drone-blitz-across-ukraine",
+      "published_date": "2026-05-13T17:07:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Deals and new partnerships at Africa-France summit",
+      "title": "No, two French soldiers have not been killed in a Russian attack in Ukraine",
       "source": "France 24",
-      "url": "https://www.france24.com/en/deals-and-new-partnerships-at-africa-france-summit",
-      "published_date": "2026-05-12T20:23:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260513-two-french-soldiers-not-been-killed-russian-attack-ukraine",
+      "published_date": "2026-05-13T16:47:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Emmanuel Macron’s speaks about France's policies in Sahel countries",
+      "title": "Israeli singer Noa speaks to FRANCE 24 as Israel's participation sparks Eurovision backlash",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260512-emmanuel-macron-s-speaks-about-france-s-policies-in-sahel-countries",
-      "published_date": "2026-05-12T20:11:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260513-israeli-singer-noa-speaks-to-france-24-as-israel-s-participation-sparks-eurovision-backlash",
+      "published_date": "2026-05-13T15:43:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Mali, immigration and DR Congo: Five key takeaways from Macron's interview with FRANCE 24",
+      "title": "Trump arrives in China for historic trip",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260512-mali-immigration-and-dr-congo-five-key-takeaways-from-macron-s-interview-with-france-24",
-      "published_date": "2026-05-12T19:39:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260513-trump-arrives-in-china-for-historic-trip",
+      "published_date": "2026-05-13T15:30:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia targets Ukraine with more than 800 drones in deadly daytime assault",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/russia-targets-ukraine-with-more-than-200-drones-in-daytime-assault",
+      "published_date": "2026-05-13T15:23:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What it's like doing France’s Journée de Défense et de Citoyenneté",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260513/what-its-like-doing-frances-journee-de-defense-et-de-citoyennete",
+      "published_date": "2026-05-13T15:16:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Romanians fearful as Danube Delta targeted by Russian attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260513-romanians-fearful-as-danube-delta-targeted-by-russian-attacks",
+      "published_date": "2026-05-13T13:36:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump heads to China, says no need for Xi's help on Iran war",
@@ -225,62 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-12T16:19:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cannes promises ‘electric’ opener, as AI fears feature behind the scenes",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260512-cannes-promises-electric-opening-night-as-ai-fears-feature-behind-the-scenes",
-      "published_date": "2026-05-12T16:06:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three-day ceasefire ends with fresh wave of Russian attacks on Ukraine – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates",
-      "published_date": "2026-05-12T12:42:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranians mourn children killed in US bombing of school",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iranians-mourn-children-killed-in-us-bombing-of-school",
-      "published_date": "2026-05-12T09:58:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How France works to beat the hantavirus chain of transmission",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/how-france-works-to-beat-the-hantavirus-chain-of-transmission",
-      "published_date": "2026-05-12T09:53:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Teen bedroom art installation shines spotlight on Ukraine’s stolen children",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/teen-bedroom-art-installation-shines-spotlight-on-ukraines-stolen-children",
-      "published_date": "2026-05-12T05:00:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy’s ex-chief of staff accused in Ukraine corruption investigation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/zelenskyy-ex-chief-of-staff-andriy-yermak-accused-ukraine-corruption-investigation",
-      "published_date": "2026-05-12T04:46:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yes, Europe’s leaders are finally standing up to Trump. Here’s why | Mujtaba Rahman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/12/friedrich-merz-europe-leaders-standing-up-to-trump",
-      "published_date": "2026-05-12T04:00:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T18:27:21+00:00",
       "category": "Military"
     },
     {
@@ -368,18 +368,39 @@
       "category": "Energy"
     },
     {
-      "title": "France considers windfall tax on massive oil profits: TotalEnergies fights back",
+      "title": "Trade, tech, and rare earths to dominate Trump's China trip",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-considers-windfall-tax-on-massive-oil-profits-totalenergies-fights-back",
-      "published_date": "2026-05-06T15:30:00+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/trade-tech-and-rare-earths-to-dominate-trump-s-china-trip",
+      "published_date": "2026-05-13T21:23:02+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Norwegian government attacked over decision to reopen North Sea gasfields",
+      "title": "A Woman’s Life review – a breezy comedy of midlife crisis and same-sex affair",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/06/norwegian-government-rebuked-over-decision-to-reopen-north-sea-gas-fields",
-      "published_date": "2026-05-06T15:25:36+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/film/2026/may/13/a-womans-life-review-lea-drucker-charline-bourgeois-tacquet",
+      "published_date": "2026-05-13T18:39:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Starmer has ‘full confidence’ in Streeting despite health secretary’s allies saying he is planning to resign – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/may/13/keir-starmer-labour-party-prime-minister-leadership-wes-streeting-kings-speech-latest-news-updates",
+      "published_date": "2026-05-13T17:00:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Easyjet to launch new route between Italy and south-west France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260513/easyjet-to-launch-new-route-between-italy-and-south-west-france",
+      "published_date": "2026-05-13T14:32:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Sung by a silver robot from 1984!’ The 11 biggest bangers in Eurovision 2026",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/13/best-eurovision-songs-2026-sarah-engels-delta-goodrem-jonas-lovv",
+      "published_date": "2026-05-13T14:31:59+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tens of thousands demonstrate in Argentina over Milei university cuts",
@@ -487,32 +508,74 @@
       "category": "Economy"
     },
     {
-      "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T18:13:11+00:00",
-      "category": "Economy"
+      "title": "Paris Saint-Germain clinches a record-extending 14th French league title",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260513-paris-saint-germain-clinches-a-record-extending-14th-french-league-title",
+      "published_date": "2026-05-13T20:59:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Inside Iran’s new two-tier internet access, as blackout drags on",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260507-inside-iran-s-new-two-tier-internet-as-blackout-drags-on",
-      "published_date": "2026-05-07T16:01:28+00:00",
-      "category": "Economy"
+      "title": "Ghana to bring home 300 after anti-migrant incidents in S.Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ghana-to-bring-home-300-after-anti-migrant-incidents-in-s-africa",
+      "published_date": "2026-05-13T20:16:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "JD Sports says Iran war could hit consumer spending and raise prices",
+      "title": "Milka maker milked shoppers over size of chocolate bars, German court rules",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/07/jd-sports-warns-iran-war-could-hit-consumer-spending-and-raise-prices",
-      "published_date": "2026-05-07T09:02:58+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/food/2026/may/13/milka-maker-milked-shoppers-over-size-of-chocolate-bars-german-court-rules",
+      "published_date": "2026-05-13T18:17:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French rail unions announce June train strike",
+      "title": "Should politics and culture mix? Eurovision 2026: inside the controversy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260513-should-politics-and-culture-mix-eurovision-2026-inside-the-controversy",
+      "published_date": "2026-05-13T18:11:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magnus the wandering walrus leaves Scotland for Norway",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/magnus-walrus-scotland-norway",
+      "published_date": "2026-05-13T15:39:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prosecutors demand 7-year sentence for Sarkozy in Libya financing case",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-prosecutors-demand-7-year-sentence-for-sarkozy-in-libya-financing-case",
+      "published_date": "2026-05-13T15:22:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gunshots fired in standoff at Philippine Senate over ICC suspect",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-gunshots-fired-in-standoff-at-philippine-senate-over-icc-suspect",
+      "published_date": "2026-05-13T15:10:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marine Le Pen’s party hits back at Kylian Mbappé comments",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/marine-le-pen-party-national-rally-kylian-mbappe-criticism",
+      "published_date": "2026-05-13T15:08:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French films with English subtitles to watch in June 2026",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260507/french-rail-unions-announce-june-train-strike",
-      "published_date": "2026-05-07T06:45:37+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20260513/french-films-with-english-subtitles-to-watch-in-june-2026",
+      "published_date": "2026-05-13T14:41:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘The guards could not speak without yelling’: life as an 85-year-old ICE detainee",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/13/marie-therese-ross-85-year-old-ice-detainee",
+      "published_date": "2026-05-13T13:48:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France confines more than 1,700 people to cruise ship after suspected norovirus death",
@@ -582,76 +645,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/serious-disease-hantavirus-less-infectious-than-covid-yet-has-significant-fatality-rate-1-in-3",
       "published_date": "2026-05-13T07:27:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French pilots call last-minute strike in pay dispute",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260513/french-pilots-call-last-minute-strike-in-pay-dispute",
-      "published_date": "2026-05-13T06:52:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PODCAST: The €16m French chateau scam and why 2027 could be a ‘scary’ year in France?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260513/podcast-the-e16m-french-chateau-scam-and-why-2027-could-be-a-scary-year-in-france",
-      "published_date": "2026-05-13T06:31:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’s toxic’: Romania reeling over claims of high-level justice system corruption",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/13/romania-corruption-justice-system",
-      "published_date": "2026-05-13T04:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Deadly Russian bombing spree marks end of ceasefire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/13/ukraine-war-briefing-deadly-russian-bombing-spree-end-of-ceasefire",
-      "published_date": "2026-05-13T01:00:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer faces calls to quit: “Step aside or give No 10 to Nigel Farage,” says former Labour adviser",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/starmer-faces-calls-to-quit-step-aside-or-give-no-10-to-nigel-farage-says-former-labour-adviser",
-      "published_date": "2026-05-12T19:06:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WHO head tells countries to prepare for more hantavirus cases",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/who-head-warns-countries-prepare-more-hantavirus-cases",
-      "published_date": "2026-05-12T19:04:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli report says Hamas used 'systematic, widespread' sexual violence in October 7 attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260512-israeli-report-says-hamas-used-systematic-widespread-sexual-violence-in-october-7-attack",
-      "published_date": "2026-05-12T16:51:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bosnia and Herzegovina left vulnerable by policy clash with US, representative says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/bosnia-and-herzegovina-vulnerable-policy-clash-us-representative-says",
-      "published_date": "2026-05-12T16:40:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French media tycoon Vincent Bolloré casts shadow over Cannes opening",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260512-french-media-tycoon-vincent-bollor%C3%A9-casts-shadow-over-cannes-opening",
-      "published_date": "2026-05-12T15:49:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Underwater hoover wins France's annual inventor competition",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/underwater-hoover-wins-france-s-annual-inventor-competition",
-      "published_date": "2026-05-12T15:32:17+00:00",
       "category": "Local Events"
     }
   ]
