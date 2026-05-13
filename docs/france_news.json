@@ -1,8 +1,120 @@
 {
   "country": "France",
-  "last_updated": "2026-05-12T23:56:50.254536+00:00",
-  "story_count": 96,
+  "last_updated": "2026-05-13T13:08:04.455977+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Who holds the cards at the Trump-Xi summit in Beijing?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260513-who-holds-the-cards-at-the-trump-xi-beijing-summit",
+      "published_date": "2026-05-13T12:30:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "More than 1,700 confined on cruise ship in Bordeaux after suspected norovirus death – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/13/ukraine-russia-war-sergei-lavrov-mark-rutte-bucharest-europe-latest-news-updates",
+      "published_date": "2026-05-13T12:26:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ahead of Trump-Xi summit, China warns on US arms sales to Taiwan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-ahead-of-trump-xi-summit-china-warns-on-us-arms-sales-to-taiwan",
+      "published_date": "2026-05-13T12:24:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump vows to push Xi to 'open up' China at superpower summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-trump-vows-to-push-xi-to-open-up-china-at-superpower-summit",
+      "published_date": "2026-05-13T12:22:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Africa Forward Summit concludes with key France-Kenya agreement",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-africa-forward-summit-concludes-with-key-france-kenya-agreement",
+      "published_date": "2026-05-13T12:18:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN torture watchdog to inspect French detention facilities for first time",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260513-un-torture-watchdog-to-inspect-french-detention-centres-for-first-time8",
+      "published_date": "2026-05-13T11:09:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "One trip, one ticket: New EU rules aim to ease train travel",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260513/one-trip-one-ticket-new-eu-rules-aim-to-ease-train-travel",
+      "published_date": "2026-05-13T10:59:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump and Xi play nice ahead of US-China summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260513-trump-and-xi-play-nice-ahead-of-us-china-summit",
+      "published_date": "2026-05-13T10:30:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump heads to Beijing with delegation of US business leaders, hopes China will 'open up'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260513-trump-heads-to-beijing-with-delegation-of-us-business-leaders-hopes-china-will-open-up",
+      "published_date": "2026-05-13T10:03:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron's interview with FRANCE 24: French president recaps his work in Africa over 2 terms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-macron-s-interview-with-france-24-french-president-recaps-his-work-in-africa-over-2-terms",
+      "published_date": "2026-05-13T09:40:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The key measures in the King's Speech as Starmer battles to save PM job",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260513-king-charles-to-lay-out-uk-government-agenda-as-starmer-battles-to-save-pm-job",
+      "published_date": "2026-05-13T07:27:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prosecutors to announce sentences for Sarkozy in Libya funding appeal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260513-prosecutors-to-announce-sentences-sought-for-sarkozy-in-libya-appeal-trial",
+      "published_date": "2026-05-13T07:20:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump-Xi summit: Trade, Taiwan and Iran on the table at high-stakes Beijing meeting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260513-trump-xi-summit-trade-taiwan-and-iran-on-the-table-at-high-stakes-beijing-meeting",
+      "published_date": "2026-05-13T07:15:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron's Renaissance party endorses former PM Attal for 2027 presidential bid",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260513-macron-s-renaissance-party-endorses-ex-pm-attal-for-2027-presidential-bid",
+      "published_date": "2026-05-13T07:01:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Von der Leyen steps up EU child safety crackdown on social media giants",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260513-wed-8am-von-der-leyen-steps-up-eu-child-safety-crackdown-on-social-media-giants",
+      "published_date": "2026-05-13T06:02:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New EU rules aim to ease cross-border European train travel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260513-new-rules-aim-to-ease-inter-eu-train-travel",
+      "published_date": "2026-05-13T01:27:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Emmanuel Macron wants dialogue with Rwanda and DRC",
       "source": "France 24",
@@ -32,116 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Watch: Macron speaks to FRANCE 24 as Africa Forward Summit wraps up",
+      "title": "Trump heads to China, says no need for Xi's help on Iran war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260512-watch-macron-speaks-to-france-24-as-africa-forward-summit-wraps-up",
-      "published_date": "2026-05-12T18:55:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260513-trump-heads-to-china-says-no-need-for-xi-s-help-on-iran-war",
+      "published_date": "2026-05-13T12:19:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Whose art of the deal? Trump & Xi to meet in Beijing",
+      "title": "Russia announces new nuclear missile ready to launch by end of year",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260512-whose-art-of-the-deal-trump-xi-to-meet-in-beijing",
-      "published_date": "2026-05-12T18:55:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260513-russia-announces-new-nuclear-missile-ready-to-launch-by-end-of-year-1",
+      "published_date": "2026-05-13T11:15:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "'No evidence' of widespread hantavirus circulation in France, health minister says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/health/20260512-no-evidence-of-widespread-hantavirus-circulation-in-france-health-minister-says",
-      "published_date": "2026-05-12T18:02:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French companies expand presence in Ethiopia, despite security concerns",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260512-french-companies-expand-presence-in-ethiopia-despite-security-concerns",
-      "published_date": "2026-05-12T14:11:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Historian Achille Mbembe: Africa’s ‘rule of gerontocracy’ is coming to an end",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260512-rule-of-gerontocracy-has-ended-africa-will-no-longer-be-lorded-over-by-moral-rule-of-old-men",
-      "published_date": "2026-05-12T11:08:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European Union adopts new sanctions Israeli settlers over violence in West Bank",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/european-union-adopts-new-sanctions-israeli-settlers-over-violence-in-west-bank",
-      "published_date": "2026-05-12T11:06:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU needs to delay social media access for children - von der Leyen",
+      "title": "Russian drone attacks kill nine in Ukraine after ceasefire expires",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-12T11:00:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-13T10:21:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "European ministers to discuss sending rejected asylum seekers to third-country hubs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/may/12/european-ministers-moldova-asylum-seekers-third-country-hubs",
-      "published_date": "2026-05-12T11:00:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France and Kenya look for future partnerships at Africa Forward summit",
+      "title": "Russia announces new nuclear missile ready to launch by end of year",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-and-kenya-look-for-future-partnerships-at-africa-forward-summit",
-      "published_date": "2026-05-12T10:50:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260513-russia-announces-new-nuclear-missile-ready-to-launch-by-end-of-year",
+      "published_date": "2026-05-13T10:05:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Youth mobility scheme disagreement hampering reset of UK-EU relations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/12/youth-mobility-scheme-disagreement-hampering-reset-uk-eu-relations",
-      "published_date": "2026-05-12T10:28:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron presents France 'as the ethical partner with Africa' at summit in Kenya",
+      "title": "Trump set to meet with Xi in Beijing as war and inflation weigh on his presidency",
       "source": "France 24",
-      "url": "https://www.france24.com/en/macron-presents-france-as-the-ethical-partner-with-africa-at-summit-in-kenya",
-      "published_date": "2026-05-12T10:15:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "First US visit to China since 2017 amid geopolitical tension",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/first-us-visit-to-china-since-2017-amid-geopolitical-tension",
-      "published_date": "2026-05-12T10:11:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranians concerned about war extending as Iran and US fail to find common ground",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iranians-concerned-about-war-extending-as-iran-and-us-fail-to-find-common-ground",
-      "published_date": "2026-05-12T10:08:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France pitches 'partnership of equals' as African summit enters second day",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-pitches-partnership-of-equals-as-african-summit-enters-second-day",
-      "published_date": "2026-05-12T09:50:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spotlight on Africa: Africa Forward - a fresh start in Nairobi?",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-africa/20260512-spotlight-on-africa-africa-forward-a-fresh-start-in-nairobi",
-      "published_date": "2026-05-12T08:58:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is Africa ready for the AI revolution? The scramble for resources, jobs, digital sovereignty",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260512-is-africa-ready-for-the-ai-revolution-the-scramble-for-resources-jobs-digital-sovereignty",
-      "published_date": "2026-05-12T07:41:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260513-trump-set-to-meet-with-xi-in-beijing-as-war-and-inflation-weigh-on-his-presidency",
+      "published_date": "2026-05-13T09:43:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran tells US to accept latest peace plan or face 'failure' of Middle East truce",
@@ -242,45 +277,10 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine and Russia fight on despite US-mediated ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260511-ukraine-and-russia-fight-on-despite-us-mediated-ceasefire",
-      "published_date": "2026-05-11T14:35:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan conflict enters 'deadlier' phase due to drones: UN",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260511-sudan-conflict-enters-deadlier-phase-due-to-drones-un-civilan-deaths",
-      "published_date": "2026-05-11T13:31:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran-US ceasefire grows shaky after Trump rejects Tehran's latest proposal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260511-iran-us-ceasefire-grows-shaky-after-trump-rejects-tehran-s-latest-proposal",
-      "published_date": "2026-05-11T13:08:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Molière Ex Machina: AI used to create ‘new work’ by beloved French playwright",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/stage/2026/may/11/moliere-ex-machina-ai-create-new-work-france-equivalent-shakespeare",
-      "published_date": "2026-05-11T12:29:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU rejects Putin call for Gerhard Schröder role in Ukraine peace talks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/11/eu-rejects-putin-call-gerhard-schroder-role-ukraine-peace-talks",
-      "published_date": "2026-05-11T12:02:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump rejects Iran's response to US peace proposal as 'unacceptable'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260511-trump-rejects-iran-s-response-to-us-peace-proposal-as-unacceptable",
-      "published_date": "2026-05-11T10:53:09+00:00",
+      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-11T18:27:21+00:00",
       "category": "Military"
     },
     {
@@ -382,18 +382,25 @@
       "category": "Energy"
     },
     {
-      "title": "France’s EDF to test ‘dynamic’ electricity pricing",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260506/frances-edf-to-test-dynamic-electricity-pricing",
-      "published_date": "2026-05-06T12:35:37+00:00",
-      "category": "Energy"
+      "title": "Tens of thousands demonstrate in Argentina over Milei university cuts",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-tens-of-thousands-demonstrate-in-argentina-over-milei-university-cuts",
+      "published_date": "2026-05-13T12:21:32+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Samsung Electronics reaches $1 trillion market cap thanks to surging demand for AI chips",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260506-samsung-electronics-reaches-1-trillion-market-cap-thanks-to-surging-demand-for-ai-chips",
-      "published_date": "2026-05-06T08:37:10+00:00",
-      "category": "Energy"
+      "title": "Lab testing group Intertek to back £10.6bn takeover by Swedish firm EQT",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/13/lab-testing-group-intertek-to-back-takeover-by-swedish-firm-eqt",
+      "published_date": "2026-05-13T11:29:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cannes is a beautiful, gruelling circus. I wouldn’t quit it for anything | Agnès Poirier",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/13/cannes-film-festival-beautiful-gruelling-circus-cinema",
+      "published_date": "2026-05-13T04:00:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump heads to China in bid to boost trade, reduce Iran and Taiwan tensions",
@@ -508,32 +515,102 @@
       "category": "Economy"
     },
     {
-      "title": "Putin said to be 'hiding in bunkers' as his popularity erodes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260506-putin-said-to-be-hiding-in-bunkers-as-his-popularity-erodes",
-      "published_date": "2026-05-06T09:50:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "G7 ministers discuss trade security and China dependence in Paris",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260506-g7-ministers-discuss-trade-security-and-china-dependence-in-paris",
-      "published_date": "2026-05-06T06:54:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Amazon to invest €15bn in France expansion",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260506/amazon-to-invest-e15bn-in-france-expansion",
-      "published_date": "2026-05-06T06:45:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Stuck in the mud’: one year on, Friedrich Merz struggles to find his footing",
+      "title": "France confines more than 1,700 people to cruise ship after suspected norovirus death",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/06/stuck-in-the-mud-one-year-on-friedrich-merz-struggles-to-find-his-footing",
-      "published_date": "2026-05-06T04:00:03+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/may/13/france-confines-passengers-cruise-ship-norovirus-death-bordeaux",
+      "published_date": "2026-05-13T12:38:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel and favorite Finland advance to the Eurovision final",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-israel-and-favorite-finland-advance-to-the-eurovision-final",
+      "published_date": "2026-05-13T12:25:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Czech police hunt thief who stole 800-year-old skull of saint from church",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/czech-police-hunt-thief-stolen-skull-saint-zdislava-lemberk-church",
+      "published_date": "2026-05-13T11:40:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France confines more than 1,700 on cruise ship after suspected norovirus death",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260513-france-confines-more-than-1700-bordeaux-cruise-ship-suspected-norovirus-death-gastroenteritis",
+      "published_date": "2026-05-13T11:34:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shrinking Milka chocolate bar tricked consumers, says German court",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-13T11:29:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "1,700 cruise ship passengers quarantined in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260513/1700-cruise-ship-passengers-quarantined-in-france",
+      "published_date": "2026-05-13T11:20:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France intensifies hantavirus surveillance as 22 contact cases identified",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-france-intensifies-hantavirus-surveillance-as-22-contact-cases-identified",
+      "published_date": "2026-05-13T09:42:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Keir Starmer could be replaced as UK PM after discontent rises in his own party",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260513-how-keir-starmer-could-be-replaced-as-uk-pm-after-discontent-rises-in-his-own-party",
+      "published_date": "2026-05-13T09:38:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: The French far-right have a runaway poll lead - but may yet lose the 2027 election",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260513/opinion-the-french-far-right-have-a-runaway-poll-lead-but-may-yet-lose-the-2027-election",
+      "published_date": "2026-05-13T08:06:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Serious disease': Hantavirus less infectious than COVID, yet has significant fatality rate - 1 in 3",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/serious-disease-hantavirus-less-infectious-than-covid-yet-has-significant-fatality-rate-1-in-3",
+      "published_date": "2026-05-13T07:27:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French pilots call last-minute strike in pay dispute",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260513/french-pilots-call-last-minute-strike-in-pay-dispute",
+      "published_date": "2026-05-13T06:52:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PODCAST: The €16m French chateau scam and why 2027 could be a ‘scary’ year in France?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260513/podcast-the-e16m-french-chateau-scam-and-why-2027-could-be-a-scary-year-in-france",
+      "published_date": "2026-05-13T06:31:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It’s toxic’: Romania reeling over claims of high-level justice system corruption",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/romania-corruption-justice-system",
+      "published_date": "2026-05-13T04:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Deadly Russian bombing spree marks end of ceasefire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/ukraine-war-briefing-deadly-russian-bombing-spree-end-of-ceasefire",
+      "published_date": "2026-05-13T01:00:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Starmer faces calls to quit: “Step aside or give No 10 to Nigel Farage,” says former Labour adviser",
@@ -575,104 +652,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/underwater-hoover-wins-france-s-annual-inventor-competition",
       "published_date": "2026-05-12T15:32:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French film industry at risk from the far right, say actors and directors",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/12/french-film-risk-from-far-right-juliette-binoche-actors-directors",
-      "published_date": "2026-05-12T15:17:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Irish TV to air Father Ted instead of Eurovision final in protest against Israel’s inclusion",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/12/irish-tv-rte-father-ted-eurovision-final-israel",
-      "published_date": "2026-05-12T13:31:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French footballers hail PSG's Dembélé and OL Lyonnes' Dumornay as best players",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260512-french-footballers-hail-psg-s-demb%C3%A9l%C3%A9-and-ol-lyonnes-dumornay-as-best-players",
-      "published_date": "2026-05-12T12:10:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French language test website down",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260512/french-language-test-website-down",
-      "published_date": "2026-05-12T11:39:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sicily police investigate illegal race with horse-drawn carts and Kalashnikovs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/sicily-illegal-horse-race-carts-kalashnikovs-video",
-      "published_date": "2026-05-12T10:34:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of plotting Paris attack 'inspired by jihadism'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260512-french-authorities-arrest-man-suspected-of-plotting-attack-inspired-by-jihadism",
-      "published_date": "2026-05-12T10:34:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosecution at Sarkozy's appeal trial in Libyan case hope it won't dilute initial conviction",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/prosecution-at-sarkozy-s-appeal-trial-in-libyan-case-hope-it-won-t-dilute-initial-conviction",
-      "published_date": "2026-05-12T10:04:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French PM imposes strict quarantine on hantavirus contact cases",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260512/french-prime-minister-imposes-stricter-quarantine-measures-on-all-hantavirus-contact-cases",
-      "published_date": "2026-05-12T07:29:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cannes spotlight reverts to auteurs as Hollywood retreats from film festival",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/12/cannes-film-festival-comeback-auteurs-hollywood-retreats",
-      "published_date": "2026-05-12T04:00:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pressure mounts on British PM Starmer to quit after crushing Labour election losses",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260511-pressure-mounts-on-british-pm-starmer-to-quit-after-crushing-labour-election-losses",
-      "published_date": "2026-05-11T23:13:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France arrests Tunisian suspected of planning 'jihad-inspired' attack in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260511-france-arrests-tunisian-suspected-of-planning-jihad-inspired-attack-in-paris",
-      "published_date": "2026-05-11T20:16:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Royal Opera House calls for release of Georgian bass singer jailed over democracy protests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/may/11/royal-opera-house-release-paata-burchuladze-georgian-singer-democracy-protests-tbilisi",
-      "published_date": "2026-05-11T15:00:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hantavirus: French PM Lecornu holds talks with medical advisers, ministers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260511-hantavirus-french-pm-lecornu-holds-talks-with-medical-advisers-ministers",
-      "published_date": "2026-05-11T14:33:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain, Ireland, Slovenia will not broadcast Eurovision over Israel's participation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260511-spain-ireland-slovenia-will-not-broadcast-eurovision-to-protest-israel-s-inclusion",
-      "published_date": "2026-05-11T13:55:43+00:00",
       "category": "Local Events"
     }
   ]
