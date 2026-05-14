@@ -1,8 +1,78 @@
 {
   "country": "France",
-  "last_updated": "2026-05-14T12:23:48.235581+00:00",
-  "story_count": 90,
+  "last_updated": "2026-05-14T23:54:43.433320+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Haiti gang clashes kill at least 78 in Port-au-Prince suburbs, UN says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260514-haiti-gang-clashes-port-au-prince-suburbs-78-dead-un",
+      "published_date": "2026-05-14T23:44:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuban government says CIA chief John Ratcliffe met with officials in Havana",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260514-cuba-cia-john-ratcliffe-officials-havana",
+      "published_date": "2026-05-14T21:52:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Parallel Tales review – Isabelle Huppert pens furtive sexual fantasy for Vincent Cassel in Asghar Farhadi’s latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/14/parallel-tales-review-isabelle-huppert-sexual-fantasy-for-vincent-cassel-in-asghar-farhadis-latest",
+      "published_date": "2026-05-14T21:50:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Abu Dhabi 'doesn't want to appear too much in cooperation with Israel', analyst says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260514-abu-dhabi-doesn-t-want-to-appear-too-much-in-cooperation-with-israel-analyst-says",
+      "published_date": "2026-05-14T21:00:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron ‘slap’ was sparked by texts with Iranian actress, book claims",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/macron-s-alleged-slap-was-sparked-by-texts-with-iranian-actress-book-claims",
+      "published_date": "2026-05-14T20:05:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'A desire to lower the temperature on both sides', expert says as Trump meets Xi",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/a-desire-to-lower-the-temperature-on-both-sides-expert-says-as-trump-meets-xi",
+      "published_date": "2026-05-14T19:20:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran accuses United Arab Emirates of being 'active partner' in US-Israeli war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-accuses-united-arab-emirates-of-being-active-partner-in-us-israeli-war",
+      "published_date": "2026-05-14T18:49:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on life after Orbán: Péter Magyar’s fast start bodes well for Hungary and for Europe | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/14/the-guardian-view-on-life-after-orban-peter-magyars-fast-start-bodes-well-for-hungary-and-for-europe",
+      "published_date": "2026-05-14T18:19:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Extremely positive and productive talks': Trump praises Xi meeting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/extremely-positive-and-productive-talks-trump-praises-xi-meeting",
+      "published_date": "2026-05-14T16:20:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Conversion therapy' is banned in eight EU countries – so why not the rest?",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260514-conversion-therapy-is-banned-in-eight-eu-countries-so-why-not-the-rest",
+      "published_date": "2026-05-14T16:00:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "M23 rebels withdraw from several positions under US diplomatic pressure",
       "source": "France 24",
@@ -74,74 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Africa Forward Summit: Africa must \"build off the basis of what it already owns\"",
+      "title": "Trump says Xi offered help to open Hormuz, vowed not to arm Iran",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-africa-forward-summit-africa-must-build-off-the-basis-of-what-it-already-owns",
-      "published_date": "2026-05-13T15:46:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/trump-says-xi-offered-help-to-open-hormuz-vowed-not-to-arm-iran",
+      "published_date": "2026-05-14T18:13:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Africa Forward Summit: Navigating the nuances of data governance in Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-africa-forward-summit-navigating-the-nuances-of-data-governance-in-africa",
-      "published_date": "2026-05-13T15:28:46+00:00",
-      "category": "Diplomacy"
+      "title": "War criminal Ratko Mladić's jail release request denied",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-14T17:45:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "'I'm incredibly proud of my record' on Africa, Macron tells RFI",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260513-i-m-incredibly-proud-of-my-record-on-africa-macron-tells-rfi",
-      "published_date": "2026-05-13T14:08:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Who holds the cards at the Trump-Xi summit in Beijing?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260513-who-holds-the-cards-at-the-trump-xi-beijing-summit",
-      "published_date": "2026-05-13T12:30:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "More than 1,700 confined on cruise ship in Bordeaux after suspected norovirus death – Europe live",
+      "title": "Fatherland review – Sandra Hüller brings a bayonet of intelligence to Paweł Pawlikowski’s taut return",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/13/ukraine-russia-war-sergei-lavrov-mark-rutte-bucharest-europe-latest-news-updates",
-      "published_date": "2026-05-13T12:26:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/film/2026/may/14/fatherland-review-sandra-huller-thomas-mann-pawel-pawlikowski-cannes-film-festivali",
+      "published_date": "2026-05-14T17:22:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ahead of Trump-Xi summit, China warns on US arms sales to Taiwan",
+      "title": "Ukraine hit by second day of large-scale Russian missile and drone strikes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/14/ukraine-second-day-large-scale-russian-missile-drone-strikes",
+      "published_date": "2026-05-14T15:57:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'We have learned to live with our neighbours': Liberia's President Joseph Boakai",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-ahead-of-trump-xi-summit-china-warns-on-us-arms-sales-to-taiwan",
-      "published_date": "2026-05-13T12:24:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260514-we-have-learned-to-live-with-our-neighbours-liberia-s-president-joseph-boakai",
+      "published_date": "2026-05-14T15:46:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump vows to push Xi to 'open up' China at superpower summit",
+      "title": "How stray Ukrainian drones pushed Latvia's prime minister to resign",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-trump-vows-to-push-xi-to-open-up-china-at-superpower-summit",
-      "published_date": "2026-05-13T12:22:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260514-how-stray-ukrainian-drones-pushed-latvia-prime-minister-resign",
+      "published_date": "2026-05-14T14:37:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Africa Forward Summit concludes with key France-Kenya agreement",
+      "title": "Ukraine: Volodymyr Zelensy's former top aide arrested as corruption probe widens",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-africa-forward-summit-concludes-with-key-france-kenya-agreement",
-      "published_date": "2026-05-13T12:18:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN torture watchdog to inspect French detention facilities for first time",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260513-un-torture-watchdog-to-inspect-french-detention-centres-for-first-time8",
-      "published_date": "2026-05-13T11:09:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "One trip, one ticket: New EU rules aim to ease train travel",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260513/one-trip-one-ticket-new-eu-rules-aim-to-ease-train-travel",
-      "published_date": "2026-05-13T10:59:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ukraine-volodymyr-zelensy-s-former-top-aide-arrested-as-corruption-probe-widens",
+      "published_date": "2026-05-14T13:38:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Russia pounds Kyiv and cities across Ukraine in deadly aerial attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260514-russia-pounds-kyiv-and-cities-across-ukraine-in-massive-air-attack-drones-missiles",
-      "published_date": "2026-05-14T06:01:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taiwan vs China: Is conflict inevitable?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-taiwan-vs-china-is-conflict-inevitable",
-      "published_date": "2026-05-13T18:29:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia unleashes deadly daylight drone blitz across Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260513-russia-unleashes-deadly-daylight-drone-blitz-across-ukraine",
-      "published_date": "2026-05-13T17:07:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "No, two French soldiers have not been killed in a Russian attack in Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260513-two-french-soldiers-not-been-killed-russian-attack-ukraine",
-      "published_date": "2026-05-13T16:47:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli singer Noa speaks to FRANCE 24 as Israel's participation sparks Eurovision backlash",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-israeli-singer-noa-speaks-to-france-24-as-israel-s-participation-sparks-eurovision-backlash",
-      "published_date": "2026-05-13T15:43:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump arrives in China for historic trip",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-trump-arrives-in-china-for-historic-trip",
-      "published_date": "2026-05-13T15:30:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia targets Ukraine with more than 800 drones in deadly daytime assault",
+      "title": "Eurovision 2026: Delta Goodrem sends Australia to the grand final with note-perfect performance",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/13/russia-targets-ukraine-with-more-than-200-drones-in-daytime-assault",
-      "published_date": "2026-05-13T15:23:54+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/15/delta-goodrem-eurovision-2026-performance-watch-australia-grand-final-eclipse",
+      "published_date": "2026-05-14T21:38:41+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Cuba runs out of fuel, diesel amid US blockade",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/cuba-runs-out-of-fuel-diesel-amid-us-blockade",
+      "published_date": "2026-05-14T20:42:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "French oil giant TotalEnergies' record profits fuel calls for windfall tax",
@@ -352,6 +366,34 @@
       "url": "https://www.theguardian.com/environment/2026/may/08/cities-cars-experts-green-spaces-cyclists",
       "published_date": "2026-05-08T10:00:25+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Nobel winner Mukwege warns of predatory US deal for DR Congo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nobel-winner-mukwege-warns-of-predatory-us-deal-for-dr-congo",
+      "published_date": "2026-05-14T20:18:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran’s small businesses collapse under war, inflation and internet blackout",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260514-iran-economy-collapse-internet-blackout-small-businesses-war-inflation",
+      "published_date": "2026-05-14T16:44:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US-China priority is 'economic relationship':  Trump 'heavily prioritising trade and investment'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-china-priority-is-economic-relationship-trump-heavily-prioritising-trade-and-investment",
+      "published_date": "2026-05-14T16:17:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK health secretary Wes Streeting resigns and is expected to challenge Keir Starmer's leadership",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-health-secretary-wes-streeting-resigns-and-is-expected-to-challenge-keir-starmer-s-leadership",
+      "published_date": "2026-05-14T13:00:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "Will Keir Starmer's rivals manage to unseat the UK Prime Minister?",
@@ -466,32 +508,25 @@
       "category": "Economy"
     },
     {
-      "title": "Israel and Hezbollah continue to trade blows despite the ceasefire",
+      "title": "Labour politicians jockey for possible challenge to UK's Starmer",
       "source": "France 24",
-      "url": "https://www.france24.com/en/israel-and-hezbollah-continue-to-trade-blows-despite-the-ceasefire",
-      "published_date": "2026-05-08T09:41:34+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/labour-politicians-jockey-for-possible-challenge-to-uk-s-starmer",
+      "published_date": "2026-05-14T18:41:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran on the verge of economic asphyxiation -- rare footage from Tehran",
+      "title": "China's Xi woos Trump with state banquet: Taiwan on the table?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/did-donald-trump-liberate-the-iranian-people-iran-on-the-verge-of-economic-asphyxiation",
-      "published_date": "2026-05-08T09:11:00+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260514-china-s-xi-woos-trump-with-state-banquet-taiwan-on-the-table",
+      "published_date": "2026-05-14T18:19:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US trade court once again rules Trump tariffs illegal, but issues narrow block",
+      "title": "London's old double-decker buses and underground carriages get a second life",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260508-us-trade-court-once-again-rules-trump-tariffs-illegal-but-issues-narrow-block",
-      "published_date": "2026-05-08T07:28:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators",
-      "published_date": "2026-05-08T04:00:37+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/focus/20260514-london-s-old-double-decker-buses-and-underground-carriages-get-a-second-life",
+      "published_date": "2026-05-14T13:52:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump-Xi meeting 'like watching a boxer fight a Kung Fu master'",
@@ -610,27 +645,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/13/marine-le-pen-party-national-rally-kylian-mbappe-criticism",
       "published_date": "2026-05-13T15:08:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French films with English subtitles to watch in June 2026",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260513/french-films-with-english-subtitles-to-watch-in-june-2026",
-      "published_date": "2026-05-13T14:41:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-13T14:16:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The guards could not speak without yelling’: life as an 85-year-old ICE detainee",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/13/marie-therese-ross-85-year-old-ice-detainee",
-      "published_date": "2026-05-13T13:48:50+00:00",
       "category": "Local Events"
     }
   ]
