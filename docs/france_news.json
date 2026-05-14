@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-05-13T23:54:00.255103+00:00",
-  "story_count": 92,
+  "last_updated": "2026-05-14T12:23:48.235581+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "M23 rebels withdraw from several positions under US diplomatic pressure",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/m23-rebels-withdraw-from-several-positions-under-us-diplomatic-pressure",
+      "published_date": "2026-05-14T12:10:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What did Trump and Xi discuss at high-profile Beijing summit?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/what-did-trump-and-xi-discuss-at-high-profile-beijing-summit",
+      "published_date": "2026-05-14T10:19:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron announces Paris funding conference to support African peace efforts",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260514-macron-announces-paris-funding-conference-to-support-african-peace-efforts",
+      "published_date": "2026-05-14T09:42:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nvidia's Jensen Huang attends Trump-Xi summit in bid to revive sales of chips to China",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260514-nvidia-s-jensen-huang-attends-trump-xi-summit-in-bid-to-revive-sales-of-chips-to-china",
+      "published_date": "2026-05-14T09:10:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Divide and rule’: Mahmoud Abbas keeps Fatah 'divided', ensuring no potential successor can emerge",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260514-who-will-rule-over-palestine-after-mahmoud-abbas-his-son-elevated-to-top-leadership",
+      "published_date": "2026-05-14T08:58:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Macron announces funding conference for Africa peace efforts",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260514/frances-macron-announces-funding-conference-for-africa-peace-efforts",
+      "published_date": "2026-05-14T07:07:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukraine war briefing: New Hungary PM signals shift away from Kremlin after massive drone attack on Ukraine",
       "source": "The Guardian",
@@ -102,46 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump and Xi play nice ahead of US-China summit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260513-trump-and-xi-play-nice-ahead-of-us-china-summit",
-      "published_date": "2026-05-13T10:30:40+00:00",
-      "category": "Diplomacy"
+      "title": "Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-14T12:08:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump heads to Beijing with delegation of US business leaders, hopes China will 'open up'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260513-trump-heads-to-beijing-with-delegation-of-us-business-leaders-hopes-china-will-open-up",
-      "published_date": "2026-05-13T10:03:53+00:00",
-      "category": "Diplomacy"
+      "title": "Latvia prime minister resigns days after ‘stray’ drone incursion – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/14/russia-ukraine-strikes-poland-defence-talks-latest-news-updates",
+      "published_date": "2026-05-14T11:59:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron's interview with FRANCE 24: French president recaps his work in Africa over 2 terms",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-macron-s-interview-with-france-24-french-president-recaps-his-work-in-africa-over-2-terms",
-      "published_date": "2026-05-13T09:40:46+00:00",
-      "category": "Diplomacy"
+      "title": "BBC at the scene of Russian strikes in Kyiv",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cd6pnle9zngo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-14T11:46:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "The key measures in the King's Speech as Starmer battles to save PM job",
+      "title": "Russia pummels Ukraine, hitting regions far from the front lines",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260513-king-charles-to-lay-out-uk-government-agenda-as-starmer-battles-to-save-pm-job",
-      "published_date": "2026-05-13T07:27:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/russia-pummels-ukraine-hitting-regions-far-from-the-front-lines",
+      "published_date": "2026-05-14T10:52:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Prosecutors to announce sentences for Sarkozy in Libya funding appeal",
+      "title": "China or the US: Who has the largest army?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260513-prosecutors-to-announce-sentences-sought-for-sarkozy-in-libya-appeal-trial",
-      "published_date": "2026-05-13T07:20:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/china-or-the-us-who-has-the-largest-army",
+      "published_date": "2026-05-14T10:28:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump-Xi summit: Trade, Taiwan and Iran on the table at high-stakes Beijing meeting",
+      "title": "Zelensky's former top aide Andriy Yermak remanded in Ukraine corruption probe",
       "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260513-trump-xi-summit-trade-taiwan-and-iran-on-the-table-at-high-stakes-beijing-meeting",
-      "published_date": "2026-05-13T07:15:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260514-zelensky-former-top-aide-andriy-yermak-remanded-custody-ukraine-corruption-probe",
+      "published_date": "2026-05-14T10:03:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Taiwan says China 'sole risk' to peace after Xi warned Trump over Taiwan issue",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/taiwan-says-china-sole-risk-to-peace-after-xi-warned-trump-over-taiwan-issue",
+      "published_date": "2026-05-14T09:53:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "800 drones in 24 hours? Russia launches massive daytime barrage on Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/800-drones-in-24-hours-russia-launches-massive-daytime-barrage-on-ukraine",
+      "published_date": "2026-05-14T09:48:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel launches fresh strikes on Lebanon despite ceasifre and ongoing talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-launches-fresh-strikes-on-lebanon-despite-ceasifre-and-ongoing-talks",
+      "published_date": "2026-05-14T09:20:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Donald Trump and Xi Jinping hold high-stakes meeting in Beijing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/donald-trump-and-xi-jinping-hold-high-stakes-meeting-in-beijing",
+      "published_date": "2026-05-14T09:13:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A massive overnight barrage on Kyiv splits a residential building in two",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/a-massive-overnight-barrage-on-kyiv-splits-a-residential-building-in-two",
+      "published_date": "2026-05-14T08:41:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Xi warns Trump Taiwan issue could push China and US into conflict",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260514-xi-warns-trump-taiwan-issue-could-push-china-and-us-into-conflict",
+      "published_date": "2026-05-14T08:31:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia pounds Kyiv and cities across Ukraine in deadly aerial attack",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260514-russia-pummels-kyiv-killing-five-and-denting-peace-hopes",
+      "published_date": "2026-05-14T06:28:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia pounds Kyiv and cities across Ukraine in deadly aerial attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260514-russia-pounds-kyiv-and-cities-across-ukraine-in-massive-air-attack-drones-missiles",
+      "published_date": "2026-05-14T06:01:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Taiwan vs China: Is conflict inevitable?",
@@ -183,104 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/13/russia-targets-ukraine-with-more-than-200-drones-in-daytime-assault",
       "published_date": "2026-05-13T15:23:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What it's like doing France’s Journée de Défense et de Citoyenneté",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260513/what-its-like-doing-frances-journee-de-defense-et-de-citoyennete",
-      "published_date": "2026-05-13T15:16:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romanians fearful as Danube Delta targeted by Russian attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260513-romanians-fearful-as-danube-delta-targeted-by-russian-attacks",
-      "published_date": "2026-05-13T13:36:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump heads to China, says no need for Xi's help on Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-trump-heads-to-china-says-no-need-for-xi-s-help-on-iran-war",
-      "published_date": "2026-05-13T12:19:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia announces new nuclear missile ready to launch by end of year",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-russia-announces-new-nuclear-missile-ready-to-launch-by-end-of-year-1",
-      "published_date": "2026-05-13T11:15:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone attacks kill nine in Ukraine after ceasefire expires",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-13T10:21:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia announces new nuclear missile ready to launch by end of year",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-russia-announces-new-nuclear-missile-ready-to-launch-by-end-of-year",
-      "published_date": "2026-05-13T10:05:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump set to meet with Xi in Beijing as war and inflation weigh on his presidency",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-trump-set-to-meet-with-xi-in-beijing-as-war-and-inflation-weigh-on-his-presidency",
-      "published_date": "2026-05-13T09:43:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran tells US to accept latest peace plan or face 'failure' of Middle East truce",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260512-iran-us-peace-plan-middle-east-truce-failure",
-      "published_date": "2026-05-12T22:19:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US attorney general defends press subpoenas over classified leaks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260512-us-attorney-general-defends-press-subpoenas-over-classified-leaks",
-      "published_date": "2026-05-12T21:43:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eurovision kicks-off in Vienna as broadcasters boycott contest over Israel",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260512-eurovision-kicks-off-in-vienna-as-broadcasters-boycott-contest-over-israel",
-      "published_date": "2026-05-12T19:50:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Japanese crisp bags turn black and white due to Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260512-japanese-crisp-bags-turn-black-and-white-due-to-iran-war",
-      "published_date": "2026-05-12T19:42:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Film industry cannot fight rise of artificial intelligence, says Demi Moore",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/12/film-world-must-not-resist-artificial-intelligence-demi-moore",
-      "published_date": "2026-05-12T17:20:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian ship that sank near Spain may have been carrying nuclear reactors to North Korea",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/russian-ship-ursa-major-sank-spain-nuclear-reactors-north-korea",
-      "published_date": "2026-05-12T16:44:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-12T16:19:24+00:00",
       "category": "Military"
     },
     {
@@ -354,18 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "Argentina probes link to deadly hantavirus outbreak on Atlantic cruise",
+      "title": "Will Keir Starmer's rivals manage to unseat the UK Prime Minister?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260507-argentina-probes-link-to-deadly-hantavirus-outbreak-on-atlantic-cruise",
-      "published_date": "2026-05-07T09:38:14+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Hantavirus on the rise in Argentina, where MV Hondius cruise ship set sail",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260507-hantavirus-on-rise-argentina-where-mv-hondius-cruise-ship-set-sail",
-      "published_date": "2026-05-07T08:32:37+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/will-keir-starmer-s-rivals-manage-to-unseat-the-uk-prime-minister",
+      "published_date": "2026-05-14T12:06:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trade, tech, and rare earths to dominate Trump's China trip",
@@ -501,11 +494,60 @@
       "category": "Economy"
     },
     {
-      "title": "Travel costs soar for Champions League final",
+      "title": "Trump-Xi meeting 'like watching a boxer fight a Kung Fu master'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/travel-costs-soar-for-champions-league-final",
-      "published_date": "2026-05-07T21:06:59+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260514-trump-xi-meeting-like-watching-a-boxer-fight-a-kung-fu-master",
+      "published_date": "2026-05-14T10:38:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ghana to repatriate 300 citizens after xenophobic incidents in South Africa",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260514-ghana-to-repatriate-300-citizens-after-xenophobic-incidents-in-south-africa",
+      "published_date": "2026-05-14T09:55:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hantavirus close contacts in France have so far tested negative",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/hantavirus-close-contacts-in-france-have-so-far-tested-negative",
+      "published_date": "2026-05-14T09:21:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French authorities lift lockdown on norovirus-hit cruise ship",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/14/french-authorities-lift-lockdown-on-norovirus-hit-cruise-ship-ambition",
+      "published_date": "2026-05-14T07:57:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bone appétit: Paris dogs lap up treats at canine-friendly cafés",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260514-bone-app%C3%A9tit-paris-pups-lap-up-treats-at-dog-friendly-caf%C3%A9s",
+      "published_date": "2026-05-14T06:07:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ligue 1: PSG crowned French champions after win at Lens",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260514-ligue-1-psg-crowned-french-champions-after-win-at-lens",
+      "published_date": "2026-05-14T05:12:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "For three years I scoured the world for answers to Europe’s big problems – here’s what I found",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/14/europe-big-problems-japan-taiwan-care-systems",
+      "published_date": "2026-05-14T04:00:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris Saint-Germain clinch a record-extending 14th French league title",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260513-paris-saint-germain-clinches-a-record-extending-14th-french-league-title",
+      "published_date": "2026-05-13T21:22:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Paris Saint-Germain clinches a record-extending 14th French league title",
@@ -550,6 +592,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Why is the Princess of Wales in Italy this week?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cx219p72x3xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-13T15:18:51+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Gunshots fired in standoff at Philippine Senate over ICC suspect",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260513-gunshots-fired-in-standoff-at-philippine-senate-over-icc-suspect",
@@ -571,80 +620,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-13T14:16:08+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘The guards could not speak without yelling’: life as an 85-year-old ICE detainee",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/may/13/marie-therese-ross-85-year-old-ice-detainee",
       "published_date": "2026-05-13T13:48:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France confines more than 1,700 people to cruise ship after suspected norovirus death",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/13/france-confines-passengers-cruise-ship-norovirus-death-bordeaux",
-      "published_date": "2026-05-13T12:38:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel and favorite Finland advance to the Eurovision final",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-israel-and-favorite-finland-advance-to-the-eurovision-final",
-      "published_date": "2026-05-13T12:25:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Czech police hunt thief who stole 800-year-old skull of saint from church",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/13/czech-police-hunt-thief-stolen-skull-saint-zdislava-lemberk-church",
-      "published_date": "2026-05-13T11:40:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France confines more than 1,700 on cruise ship after suspected norovirus death",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260513-france-confines-more-than-1700-bordeaux-cruise-ship-suspected-norovirus-death-gastroenteritis",
-      "published_date": "2026-05-13T11:34:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shrinking Milka chocolate bar tricked consumers, says German court",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-13T11:29:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "1,700 cruise ship passengers quarantined in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260513/1700-cruise-ship-passengers-quarantined-in-france",
-      "published_date": "2026-05-13T11:20:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France intensifies hantavirus surveillance as 22 contact cases identified",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-france-intensifies-hantavirus-surveillance-as-22-contact-cases-identified",
-      "published_date": "2026-05-13T09:42:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Keir Starmer could be replaced as UK PM after discontent rises in his own party",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-how-keir-starmer-could-be-replaced-as-uk-pm-after-discontent-rises-in-his-own-party",
-      "published_date": "2026-05-13T09:38:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: The French far-right have a runaway poll lead - but may yet lose the 2027 election",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260513/opinion-the-french-far-right-have-a-runaway-poll-lead-but-may-yet-lose-the-2027-election",
-      "published_date": "2026-05-13T08:06:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Serious disease': Hantavirus less infectious than COVID, yet has significant fatality rate - 1 in 3",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/serious-disease-hantavirus-less-infectious-than-covid-yet-has-significant-fatality-rate-1-in-3",
-      "published_date": "2026-05-13T07:27:30+00:00",
       "category": "Local Events"
     }
   ]
