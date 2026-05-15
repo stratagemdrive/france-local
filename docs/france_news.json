@@ -1,8 +1,78 @@
 {
   "country": "France",
-  "last_updated": "2026-05-14T23:54:43.433320+00:00",
-  "story_count": 92,
+  "last_updated": "2026-05-15T12:28:48.936590+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "US-China summit ends with Xi and Trump claiming progress but differences remain",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260515-us-china-summit-ends-with-xi-and-trump-claiming-progress-but-differences-remain",
+      "published_date": "2026-05-15T12:03:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Famine looms in Somalia amid drought, dwindling aid and Middle East war",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260515-famine-looms-in-somalia-amid-drought-dwindling-aid-and-middle-east-war",
+      "published_date": "2026-05-15T11:55:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How to fix France's declining birthrate",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-51/20260515-how-to-fix-france-s-declining-birthrate",
+      "published_date": "2026-05-15T10:50:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Xi-Trump summit: The humble soybean at the heart of a trade dispute between the US and China",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260515-xi-trump-summit-the-humble-soybean-at-the-heart-of-a-trade-dispute-between-the-us-and-china",
+      "published_date": "2026-05-15T09:39:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Hats off to Bergerac airport': Your accounts of EES border checks around France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260515/hats-off-to-bergerac-airport-your-accounts-of-ees-border-checks-around-france",
+      "published_date": "2026-05-15T09:38:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least 78 dead, 5,000 displaced in gang clashes in Haiti since Saturday",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260515-at-least-78-dead-5-000-displaced-in-gang-clashes-in-haiti-since-saturday",
+      "published_date": "2026-05-15T09:34:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israelis chant threats, anti-Palestinian slogans at Jerusalem Day march",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260515-israelis-chant-threats-anti-palestinian-slogans-at-jerusalem-day-march",
+      "published_date": "2026-05-15T09:14:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump hails 'fantastic trade deals' made during talks with China's Xi",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260515-china-us-summit-day-2-trump-says-made-fantastic-trade-deals-with-xi",
+      "published_date": "2026-05-15T06:00:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU carmakers pave way for Chinese rivals as balance in market shifts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/15/eu-carmakers-chinese-rivals-market-shifts",
+      "published_date": "2026-05-15T04:00:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East live: Iran says all vessels can pass through Hormuz, except those at war with Tehran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260515-middle-east-live-trump-says-he-won-t-be-much-more-patient-with-iran",
+      "published_date": "2026-05-15T02:55:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Haiti gang clashes kill at least 78 in Port-au-Prince suburbs, UN says",
       "source": "France 24",
@@ -74,74 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "M23 rebels withdraw from several positions under US diplomatic pressure",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/m23-rebels-withdraw-from-several-positions-under-us-diplomatic-pressure",
-      "published_date": "2026-05-14T12:10:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What did Trump and Xi discuss at high-profile Beijing summit?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/what-did-trump-and-xi-discuss-at-high-profile-beijing-summit",
-      "published_date": "2026-05-14T10:19:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron announces Paris funding conference to support African peace efforts",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260514-macron-announces-paris-funding-conference-to-support-african-peace-efforts",
-      "published_date": "2026-05-14T09:42:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nvidia's Jensen Huang attends Trump-Xi summit in bid to revive sales of chips to China",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260514-nvidia-s-jensen-huang-attends-trump-xi-summit-in-bid-to-revive-sales-of-chips-to-china",
-      "published_date": "2026-05-14T09:10:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Divide and rule’: Mahmoud Abbas keeps Fatah 'divided', ensuring no potential successor can emerge",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260514-who-will-rule-over-palestine-after-mahmoud-abbas-his-son-elevated-to-top-leadership",
-      "published_date": "2026-05-14T08:58:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France's Macron announces funding conference for Africa peace efforts",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260514/frances-macron-announces-funding-conference-for-africa-peace-efforts",
-      "published_date": "2026-05-14T07:07:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine war briefing: New Hungary PM signals shift away from Kremlin after massive drone attack on Ukraine",
+      "title": "At least 24 killed in Kyiv in one of deadliest Russian attacks since start of war – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/14/ukraine-war-briefing-hungary-peter-magyar-signals-shift-from-russia-after-drone-attack",
-      "published_date": "2026-05-13T23:28:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/may/15/russian-attack-kyiv-ukraine-europe-live-updates-latest",
+      "published_date": "2026-05-15T12:09:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump in Beijing to reset US-China relations, with tariffs top of the agenda",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260513-trump-to-visit-beijing-to-reset-china-us-relationship-with-tariffs-top-of-agenda",
-      "published_date": "2026-05-13T20:46:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump-Xi Summit: China wants to 'displace' the US in world order",
+      "title": "Ukraine in mourning after 24 killed in Russian attack on Kyiv",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-trump-xi-summit-china-wants-to-displace-the-us-in-world-order",
-      "published_date": "2026-05-13T16:25:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260515-ukraine-in-mourning-after-24-killed-in-russian-attack-on-kyiv",
+      "published_date": "2026-05-15T11:11:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU proposes end to ‘five tabs, three apps and a prayer’ for cross-border train bookings",
+      "title": "Ukraine - UN aid convoy targeted by drone attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260515-ukraine-un-convoy-targeted-by-drone-attacks",
+      "published_date": "2026-05-15T10:59:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine attacks Russia with drones after suffering three days of massive strikes",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/13/eu-proposal-cross-border-europe-train-bookings",
-      "published_date": "2026-05-13T15:49:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/15/ukraine-attacks-russia-with-drones-after-suffering-three-days-of-strikes",
+      "published_date": "2026-05-15T10:21:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ebola outbreak declared in eastern DR Congo as regional alert raised",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260515-ebola-outbreak-declared-in-eastern-dr-congo-as-regional-alert-raised",
+      "published_date": "2026-05-15T10:14:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rights group says M23, Rwandan army commit atrocities in DRC’s Uvira",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260515-rights-group-says-m23-rwandan-army-commit-atrocities-in-drc-s-uvira",
+      "published_date": "2026-05-15T09:12:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/15/russia-war-ukraine-vladimir-putin-economy-casualties",
+      "published_date": "2026-05-15T05:00:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indian PM seeks trade, energy stability on UAE-Europe tour",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260515-indian-pm-seeks-trade-energy-stability-on-uae-europe-tour",
+      "published_date": "2026-05-15T01:30:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Putin escalating war, not seeking an end – Merz",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/15/ukraine-war-briefing-putin-escalating-war-not-seeking-an-end-merz",
+      "published_date": "2026-05-15T01:02:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Romanian metal, Australian star Delta Goodrem qualify for Eurovision grand final",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/culture/20260515-romanian-metal-australian-delta-goodrem-qualify-eurovision-final",
+      "published_date": "2026-05-15T00:59:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says Xi offered help to open Hormuz, vowed not to arm Iran",
@@ -211,76 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/cd6pnle9zngo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-14T11:46:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia pummels Ukraine, hitting regions far from the front lines",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-pummels-ukraine-hitting-regions-far-from-the-front-lines",
-      "published_date": "2026-05-14T10:52:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China or the US: Who has the largest army?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/china-or-the-us-who-has-the-largest-army",
-      "published_date": "2026-05-14T10:28:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky's former top aide Andriy Yermak remanded in Ukraine corruption probe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260514-zelensky-former-top-aide-andriy-yermak-remanded-custody-ukraine-corruption-probe",
-      "published_date": "2026-05-14T10:03:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taiwan says China 'sole risk' to peace after Xi warned Trump over Taiwan issue",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/taiwan-says-china-sole-risk-to-peace-after-xi-warned-trump-over-taiwan-issue",
-      "published_date": "2026-05-14T09:53:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "800 drones in 24 hours? Russia launches massive daytime barrage on Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/800-drones-in-24-hours-russia-launches-massive-daytime-barrage-on-ukraine",
-      "published_date": "2026-05-14T09:48:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel launches fresh strikes on Lebanon despite ceasifre and ongoing talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-launches-fresh-strikes-on-lebanon-despite-ceasifre-and-ongoing-talks",
-      "published_date": "2026-05-14T09:20:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Donald Trump and Xi Jinping hold high-stakes meeting in Beijing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/donald-trump-and-xi-jinping-hold-high-stakes-meeting-in-beijing",
-      "published_date": "2026-05-14T09:13:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A massive overnight barrage on Kyiv splits a residential building in two",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/a-massive-overnight-barrage-on-kyiv-splits-a-residential-building-in-two",
-      "published_date": "2026-05-14T08:41:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Xi warns Trump Taiwan issue could push China and US into conflict",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260514-xi-warns-trump-taiwan-issue-could-push-china-and-us-into-conflict",
-      "published_date": "2026-05-14T08:31:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia pounds Kyiv and cities across Ukraine in deadly aerial attack",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260514-russia-pummels-kyiv-killing-five-and-denting-peace-hopes",
-      "published_date": "2026-05-14T06:28:12+00:00",
       "category": "Military"
     },
     {
@@ -354,18 +354,32 @@
       "category": "Energy"
     },
     {
-      "title": "Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/08/airline-emissions-in-europe-top-pre-covid-levels-despite-pledge-to-decarbonise",
-      "published_date": "2026-05-08T10:30:25+00:00",
-      "category": "Energy"
+      "title": "The murky waters of Chile's salmon industry",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260515-the-murky-waters-of-chile-s-salmon-industry",
+      "published_date": "2026-05-15T10:06:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Our cities are choked by cars – here’s how experts would fix them",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/08/cities-cars-experts-green-spaces-cyclists",
-      "published_date": "2026-05-08T10:00:25+00:00",
-      "category": "Energy"
+      "title": "Trump touts business wins as China airs Iran, Taiwan concerns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260515-trump-touts-business-wins-as-china-airs-iran-taiwan-concerns",
+      "published_date": "2026-05-15T09:36:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump leaves Beijing with few wins, many warm words for Xi",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260515-trump-leaves-beijing-with-few-wins-many-warm-words-for-xi",
+      "published_date": "2026-05-15T09:17:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "China, Turkey eclipse France in Senegal as the country’s leading investors",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260515-china-turkey-eclipse-france-in-senegal-as-the-country-s-leading-investors",
+      "published_date": "2026-05-15T09:10:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Nobel winner Mukwege warns of predatory US deal for DR Congo",
@@ -480,32 +494,39 @@
       "category": "Economy"
     },
     {
-      "title": "Tax deadlines, rail trips and summer drinks: 6 essential articles for life in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260510/tax-deadlines-rail-trips-and-summer-drinks-6-essential-articles-for-life-in-france",
-      "published_date": "2026-05-10T08:07:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Away from the red carpet, the  ‘flashy, jazzy and tacky’ descend on Cannes – photo essay",
+      "title": "Why rights groups fear new ECHR declaration could weaken migrant protections",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/may/10/cannes-film-festival-sidelines-photo-essay",
-      "published_date": "2026-05-10T06:00:18+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/law/2026/may/15/rights-groups-fear-echr-declaration-weaken-migrant-protections",
+      "published_date": "2026-05-15T12:12:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How Africa helped forge French billionaire Vincent Bolloré's empire of influence",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260508-how-africa-helped-forge-french-billionaire-vincent-bollore-s-empire-of-influence",
-      "published_date": "2026-05-08T16:00:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Iran and the US trade fire over Hormuz, Trump says ceasefire still in effect",
+      "title": "Clashes erupt in Bolivia as miners set off dynamite and police fire tear gas",
       "source": "France 24",
-      "url": "https://www.france24.com/en/iran-and-the-us-trade-fire-over-hormuz-trump-says-ceasefire-still-in-effect",
-      "published_date": "2026-05-08T09:45:52+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260515-clashes-erupt-in-bolivia-as-miners-set-off-dynamite-and-police-fire-tear-gas",
+      "published_date": "2026-05-15T12:04:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London police brace for far-right march and rally marking Palestinian Nakba",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260515-london-police-brace-for-far-right-march-and-rally-marking-palestinian-nakba",
+      "published_date": "2026-05-15T09:05:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French city Nantes reels from teen killing in drug-linked shooting",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260515/french-city-nantes-reels-from-teen-killing-in-drug-linked-shooting",
+      "published_date": "2026-05-15T08:49:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Belle Vie: A taste of summer and an island jewel in the south of France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260515/la-belle-vie-a-taste-of-summer-and-southern-france-culture",
+      "published_date": "2026-05-15T06:31:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Labour politicians jockey for possible challenge to UK's Starmer",
@@ -610,41 +631,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260513-should-politics-and-culture-mix-eurovision-2026-inside-the-controversy",
       "published_date": "2026-05-13T18:11:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Magnus the wandering walrus leaves Scotland for Norway",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/13/magnus-walrus-scotland-norway",
-      "published_date": "2026-05-13T15:39:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosecutors demand 7-year sentence for Sarkozy in Libya financing case",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-prosecutors-demand-7-year-sentence-for-sarkozy-in-libya-financing-case",
-      "published_date": "2026-05-13T15:22:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is the Princess of Wales in Italy this week?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cx219p72x3xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-13T15:18:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gunshots fired in standoff at Philippine Senate over ICC suspect",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-gunshots-fired-in-standoff-at-philippine-senate-over-icc-suspect",
-      "published_date": "2026-05-13T15:10:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen’s party hits back at Kylian Mbappé comments",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/13/marine-le-pen-party-national-rally-kylian-mbappe-criticism",
-      "published_date": "2026-05-13T15:08:46+00:00",
       "category": "Local Events"
     }
   ]
