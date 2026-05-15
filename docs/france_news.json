@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-05-15T12:28:48.936590+00:00",
-  "story_count": 90,
+  "last_updated": "2026-05-15T23:53:14.489886+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Trump-Xi, the alpha power summit: a debrief",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260515-trump-xi-the-alpha-power-summit-a-debrief",
+      "published_date": "2026-05-15T18:29:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU's push to deport Afghan refugees brings the Taliban back to the table",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260515-eu-push-to-deport-afghan-refugees-brings-taliban-back-to-the-table",
+      "published_date": "2026-05-15T16:09:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Simulator: Find out if you qualify for France's fuel allowance",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260515/simulator-find-out-if-you-qualify-for-frances-fuel-allowance",
+      "published_date": "2026-05-15T15:11:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US-China summit ends with Xi and Trump claiming progress but differences remain",
       "source": "France 24",
@@ -123,31 +144,73 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Guardian view on life after Orbán: Péter Magyar’s fast start bodes well for Hungary and for Europe | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/14/the-guardian-view-on-life-after-orban-peter-magyars-fast-start-bodes-well-for-hungary-and-for-europe",
-      "published_date": "2026-05-14T18:19:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Extremely positive and productive talks': Trump praises Xi meeting",
+      "title": "A test for Ukraine, a dilemma for Zelensky: What's at stake in the Andriy Yermak corruption probe",
       "source": "France 24",
-      "url": "https://www.france24.com/en/extremely-positive-and-productive-talks-trump-praises-xi-meeting",
-      "published_date": "2026-05-14T16:20:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260515-test-for-ukraine-dilemma-zelensky-what-stake-andriy-yermak-corruption-probe",
+      "published_date": "2026-05-15T17:27:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Conversion therapy' is banned in eight EU countries – so why not the rest?",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260514-conversion-therapy-is-banned-in-eight-eu-countries-so-why-not-the-rest",
-      "published_date": "2026-05-14T16:00:51+00:00",
-      "category": "Diplomacy"
+      "title": "German leader Merz says he ‘would not advise my children to go’ to US",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/15/friedrich-merz-germany-children-study-work-us-politics",
+      "published_date": "2026-05-15T16:38:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "36 countries approve creation of special Ukraine tribunal to prosecute Russia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260515-36-countries-approve-creation-of-special-ukraine-tribunal-prosecute-russia",
+      "published_date": "2026-05-15T15:50:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia and Ukraine swap 205 prisoners of war each",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260515-russia-and-ukraine-swap-205-prisoners-of-war-each",
+      "published_date": "2026-05-15T15:24:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is Europe getting its act together on defence? Multiple threats prompt EU rearmament",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260515-is-europe-getting-its-act-together-on-defence-multiple-threats-prompt-eu-rearmament",
+      "published_date": "2026-05-15T13:54:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A year in hospital and 90% lung damage: how Andrey Zvyagintsev came back from Covid to Cannes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/15/a-year-in-hospital-and-90-lung-damage-how-andrey-zvyagintsev-survived-covid-and-came-back-to-cannes",
+      "published_date": "2026-05-15T13:22:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-15T12:53:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-15T12:33:56+00:00",
+      "category": "Military"
     },
     {
       "title": "At least 24 killed in Kyiv in one of deadliest Russian attacks since start of war – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/may/15/russian-attack-kyiv-ukraine-europe-live-updates-latest",
       "published_date": "2026-05-15T12:09:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is Ireland not taking part in this year's Eurovision?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-15T11:41:41+00:00",
       "category": "Military"
     },
     {
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "War criminal Ratko Mladić's jail release request denied",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-14T17:45:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fatherland review – Sandra Hüller brings a bayonet of intelligence to Paweł Pawlikowski’s taut return",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/14/fatherland-review-sandra-huller-thomas-mann-pawel-pawlikowski-cannes-film-festivali",
-      "published_date": "2026-05-14T17:22:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine hit by second day of large-scale Russian missile and drone strikes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/14/ukraine-second-day-large-scale-russian-missile-drone-strikes",
-      "published_date": "2026-05-14T15:57:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'We have learned to live with our neighbours': Liberia's President Joseph Boakai",
+      "title": "EU facing 'second big wake-up call' on energy, Irish Minister Darragh O'Brien says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260514-we-have-learned-to-live-with-our-neighbours-liberia-s-president-joseph-boakai",
-      "published_date": "2026-05-14T15:46:55+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260515-eu-facing-second-big-wake-up-call-on-energy-irish-minister-darragh-o-brien-says",
+      "published_date": "2026-05-15T15:52:31+00:00",
+      "category": "Energy"
     },
     {
-      "title": "How stray Ukrainian drones pushed Latvia's prime minister to resign",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260514-how-stray-ukrainian-drones-pushed-latvia-prime-minister-resign",
-      "published_date": "2026-05-14T14:37:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Volodymyr Zelensy's former top aide arrested as corruption probe widens",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-volodymyr-zelensy-s-former-top-aide-arrested-as-corruption-probe-widens",
-      "published_date": "2026-05-14T13:38:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-14T12:08:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latvia prime minister resigns days after ‘stray’ drone incursion – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/14/russia-ukraine-strikes-poland-defence-talks-latest-news-updates",
-      "published_date": "2026-05-14T11:59:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "BBC at the scene of Russian strikes in Kyiv",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cd6pnle9zngo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-14T11:46:36+00:00",
-      "category": "Military"
+      "title": "Everything that changes in France in June 2026",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260515/everything-that-changes-in-france-in-june-2026",
+      "published_date": "2026-05-15T15:01:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "Eurovision 2026: Delta Goodrem sends Australia to the grand final with note-perfect performance",
@@ -347,11 +361,25 @@
       "category": "Energy"
     },
     {
-      "title": "Energy security vs climate crisis: Norway reopens three old gas fields",
+      "title": "Trump & Xi, Carry on Westminster, the french pivot",
       "source": "France 24",
-      "url": "https://www.france24.com/en/energy-security-vs-climate-crisis-norway-reopens-three-old-gas-fields",
-      "published_date": "2026-05-08T12:47:59+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260515-trump-xi-carry-on-westminster-the-french-pivot",
+      "published_date": "2026-05-15T18:21:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "All of a Sudden review – care home drama is tender, meditative and a little too precious for its own good",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/15/all-of-a-sudden-review-care-home-ryusuke-hamaguchi-cannes",
+      "published_date": "2026-05-15T15:16:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "As Africa rapidly goes digital, it becomes a prime target for hackers",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260515-as-africa-rapidly-goes-digital-it-becomes-a-prime-target-for-hackers",
+      "published_date": "2026-05-15T14:59:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "The murky waters of Chile's salmon industry",
@@ -473,25 +501,53 @@
       "category": "Economy"
     },
     {
-      "title": "Trump heads to China in bid to boost trade, reduce Iran and Taiwan tensions",
+      "title": "Gentle Monster review – disquieting drama about two women facing the truth about the men they love",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/15/gentle-monster-review-disquieting-drama-about-two-women-facing-the-truth-about-the-men-they-love",
+      "published_date": "2026-05-15T21:56:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Ebola outbreak hits DR Congo",
       "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260512-trump-heads-to-china-in-bid-to-boost-trade-and-reduce-iran-taiwan-tensions",
-      "published_date": "2026-05-12T16:03:11+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260515-new-ebola-outbreak-hits-dr-congo",
+      "published_date": "2026-05-15T20:48:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Hantavirus cruise ship passengers enter isolation facility after evacuation to UK",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/11/mv-hondius-passengers-from-hantavirus-cruise-ship-enter-isolation-facility-in-wirral",
-      "published_date": "2026-05-11T08:06:03+00:00",
-      "category": "Economy"
+      "title": "Haiti: At least 78 dead in violent Port-au-Prince gang clashes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260515-haiti-at-least-78-dead-in-violent-port-au-prince-gang-clashes",
+      "published_date": "2026-05-15T16:02:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Degree of complacency’: are supply chains prepared for impact of ongoing Iran war?",
+      "title": "‘Some hide their crosses’: Jerusalem nun attack highlights Israel’s growing anti-Christian problem",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260515-some-hide-their-crosses-jerusalem-nun-attack-highlights-israel-growing-anti-christian-problem",
+      "published_date": "2026-05-15T15:38:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: 'Andy Burnham is by far and away the favourite of all Labour Party members across all stripes'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-andy-burnham-is-by-far-and-away-the-favourite-of-all-labour-party-members-across-all-stripes",
+      "published_date": "2026-05-15T15:33:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Czech police find stolen skull of medieval saint encased in concrete",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/10/degree-complacency-supply-chains-prepared-impact-iran-war",
-      "published_date": "2026-05-10T14:00:27+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/may/15/czech-police-find-stolen-skull-13th-century-saint-arrest-man",
+      "published_date": "2026-05-15T15:06:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Erling Haaland to make film acting debut – as a Viking called Haaland",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/15/erling-haaland-film-acting-debut-viqueens-viking",
+      "published_date": "2026-05-15T15:04:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Why rights groups fear new ECHR declaration could weaken migrant protections",
@@ -505,6 +561,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260515-clashes-erupt-in-bolivia-as-miners-set-off-dynamite-and-police-fire-tear-gas",
       "published_date": "2026-05-15T12:04:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who are possible contenders in the UK Labour Party leadership race?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260515-who-are-the-possible-contenders-in-uk-labour-party-s-leadership-race",
+      "published_date": "2026-05-15T11:39:13+00:00",
       "category": "Local Events"
     },
     {
@@ -575,62 +638,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/may/14/french-authorities-lift-lockdown-on-norovirus-hit-cruise-ship-ambition",
       "published_date": "2026-05-14T07:57:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bone appétit: Paris dogs lap up treats at canine-friendly cafés",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260514-bone-app%C3%A9tit-paris-pups-lap-up-treats-at-dog-friendly-caf%C3%A9s",
-      "published_date": "2026-05-14T06:07:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ligue 1: PSG crowned French champions after win at Lens",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260514-ligue-1-psg-crowned-french-champions-after-win-at-lens",
-      "published_date": "2026-05-14T05:12:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "For three years I scoured the world for answers to Europe’s big problems – here’s what I found",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/14/europe-big-problems-japan-taiwan-care-systems",
-      "published_date": "2026-05-14T04:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris Saint-Germain clinch a record-extending 14th French league title",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260513-paris-saint-germain-clinches-a-record-extending-14th-french-league-title",
-      "published_date": "2026-05-13T21:22:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris Saint-Germain clinches a record-extending 14th French league title",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260513-paris-saint-germain-clinches-a-record-extending-14th-french-league-title",
-      "published_date": "2026-05-13T20:59:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghana to bring home 300 after anti-migrant incidents in S.Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ghana-to-bring-home-300-after-anti-migrant-incidents-in-s-africa",
-      "published_date": "2026-05-13T20:16:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Milka maker milked shoppers over size of chocolate bars, German court rules",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/food/2026/may/13/milka-maker-milked-shoppers-over-size-of-chocolate-bars-german-court-rules",
-      "published_date": "2026-05-13T18:17:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Should politics and culture mix? Eurovision 2026: inside the controversy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260513-should-politics-and-culture-mix-eurovision-2026-inside-the-controversy",
-      "published_date": "2026-05-13T18:11:48+00:00",
       "category": "Local Events"
     }
   ]
