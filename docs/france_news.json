@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-05-15T23:53:14.489886+00:00",
-  "story_count": 91,
+  "last_updated": "2026-05-16T11:46:13.587106+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "Sierra Leone to take in hundreds of West Africans deported by US, minister says",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260516-sierra-leone-to-take-in-hundreds-of-west-africans-deported-by-us-minister-says",
+      "published_date": "2026-05-16T10:16:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Putin to hold taks with Xi in China days after Trump’s trip to Beijing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260516-putin-to-hold-taks-with-xi-in-china-days-after-trump-s-trip-to-beijing",
+      "published_date": "2026-05-16T09:33:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Philippine Leroy-Beaulieu: The art of self-confidence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260516-philippine-leroy-beaulieu-the-art-of-self-confidence",
+      "published_date": "2026-05-16T06:54:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump-Xi, the alpha power summit: a debrief",
       "source": "France 24",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron ‘slap’ was sparked by texts with Iranian actress, book claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/macron-s-alleged-slap-was-sparked-by-texts-with-iranian-actress-book-claims",
-      "published_date": "2026-05-14T20:05:31+00:00",
-      "category": "Diplomacy"
+      "title": "Why French law on returning looted artefacts is of ‘great importance’ to China",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260516-why-french-law-on-returning-looted-artefacts-is-of-great-importance-to-china",
+      "published_date": "2026-05-16T10:54:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "'A desire to lower the temperature on both sides', expert says as Trump meets Xi",
+      "title": "Ukraine vows retribution after Russian strike on housing block kills 24",
       "source": "France 24",
-      "url": "https://www.france24.com/en/a-desire-to-lower-the-temperature-on-both-sides-expert-says-as-trump-meets-xi",
-      "published_date": "2026-05-14T19:20:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ukraine-vows-retribution-after-russian-strike-on-housing-block-kills-24",
+      "published_date": "2026-05-16T08:50:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran accuses United Arab Emirates of being 'active partner' in US-Israeli war",
+      "title": "US ramps up pressure on Cuba and plans to indict Raúl Castro",
       "source": "France 24",
-      "url": "https://www.france24.com/en/iran-accuses-united-arab-emirates-of-being-active-partner-in-us-israeli-war",
-      "published_date": "2026-05-14T18:49:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260516-us-ramps-up-pressure-on-cuba-and-plans-to-indict-ra%C3%BAl-castro",
+      "published_date": "2026-05-16T08:41:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in the Middle East: Israel targets top Hamas leader in Gaza",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-israel-targets-top-hamas-leader-in-gaza",
+      "published_date": "2026-05-16T08:36:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nigeria confirms Islamic State second in command killed in joint US operation",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260516-nigeria-confirms-islamic-state-leader-killed-in-joint-us-operation-tinubu-trump-al-minuki",
+      "published_date": "2026-05-16T07:45:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: Israel strikes southern Lebanon hours after ceasefire extension",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260516-middle-east-war-live-israel-lebanon-extend-shaky-ceasefire",
+      "published_date": "2026-05-16T05:01:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "I’m a Eurovision superfan, but this year’s contest brings only sadness. I won’t be tuning in",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/16/im-a-eurovision-superfan-but-this-years-contest-brings-only-sadness-i-wont-be-tuning-in",
+      "published_date": "2026-05-16T04:00:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy vows retribution over deadly Russian bombardments",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/ukraine-war-briefing-zelenskyy-vows-retribution-over-deadly-russian-bombardments",
+      "published_date": "2026-05-16T03:16:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-15T23:04:33+00:00",
+      "category": "Military"
     },
     {
       "title": "A test for Ukraine, a dilemma for Zelensky: What's at stake in the Andriy Yermak corruption probe",
@@ -221,69 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine - UN aid convoy targeted by drone attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260515-ukraine-un-convoy-targeted-by-drone-attacks",
-      "published_date": "2026-05-15T10:59:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine attacks Russia with drones after suffering three days of massive strikes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/15/ukraine-attacks-russia-with-drones-after-suffering-three-days-of-strikes",
-      "published_date": "2026-05-15T10:21:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ebola outbreak declared in eastern DR Congo as regional alert raised",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260515-ebola-outbreak-declared-in-eastern-dr-congo-as-regional-alert-raised",
-      "published_date": "2026-05-15T10:14:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rights group says M23, Rwandan army commit atrocities in DRC’s Uvira",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260515-rights-group-says-m23-rwandan-army-commit-atrocities-in-drc-s-uvira",
-      "published_date": "2026-05-15T09:12:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "After four bloody years, the war on Ukraine might be turning into Putin’s undoing | Rajan Menon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/15/russia-war-ukraine-vladimir-putin-economy-casualties",
-      "published_date": "2026-05-15T05:00:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indian PM seeks trade, energy stability on UAE-Europe tour",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260515-indian-pm-seeks-trade-energy-stability-on-uae-europe-tour",
-      "published_date": "2026-05-15T01:30:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Putin escalating war, not seeking an end – Merz",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/15/ukraine-war-briefing-putin-escalating-war-not-seeking-an-end-merz",
-      "published_date": "2026-05-15T01:02:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romanian metal, Australian star Delta Goodrem qualify for Eurovision grand final",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260515-romanian-metal-australian-delta-goodrem-qualify-eurovision-final",
-      "published_date": "2026-05-15T00:59:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Xi offered help to open Hormuz, vowed not to arm Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-says-xi-offered-help-to-open-hormuz-vowed-not-to-arm-iran",
-      "published_date": "2026-05-14T18:13:43+00:00",
-      "category": "Military"
-    },
-    {
       "title": "EU facing 'second big wake-up call' on energy, Irish Minister Darragh O'Brien says",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/talking-europe/20260515-eu-facing-second-big-wake-up-call-on-energy-irish-minister-darragh-o-brien-says",
@@ -351,13 +351,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260510-trump-calls-iran-response-to-us-peace-proposal-totally-unacceptable",
       "published_date": "2026-05-10T23:23:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘We are talking about energy security for Europe’: Norway doubles down on oil and gas production",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/09/norway-oil-and-gas-production-shortages-middle-east-ukraine",
-      "published_date": "2026-05-09T06:00:49+00:00",
       "category": "Energy"
     },
     {
@@ -501,6 +494,55 @@
       "category": "Economy"
     },
     {
+      "title": "UK: Far-right rally meets pro-palestine counter-protest in London",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-far-right-rally-meets-pro-palestine-counter-protest-in-london",
+      "published_date": "2026-05-16T11:44:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Gradiva review – stunning coming-of-age story of young love and sexual tension",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/16/la-gradiva-review-stunning-coming-of-age-story-of-young-love-and-sexual-tension",
+      "published_date": "2026-05-16T11:25:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andalucíans to vote in election seen as gauge of Spain’s wider political change",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/andalucia-regional-election-spain-politics-moreno-montero-sanchez",
+      "published_date": "2026-05-16T11:01:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo to visit France in September, Vatican says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260516-pope-leo-to-visit-france-in-september-vatican-says",
+      "published_date": "2026-05-16T10:08:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France to probe Khashoggi killing after complaint against Saudi crown prince",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260516-france-to-probe-khashoggi-killing-after-complaint-against-saudi-crown-prince",
+      "published_date": "2026-05-16T09:27:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel, Lebanon extending ceasefire, US says, despite new Israeli strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-lebanon-extending-ceasefire-us-says-despite-new-israeli-strikes",
+      "published_date": "2026-05-16T06:25:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Down and then out in Paris and London? Why Starmer isn’t the only one with a popularity problem",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/16/down-and-then-out-in-paris-and-london-why-starmer-isnt-the-only-one-with-a-popularity-problem",
+      "published_date": "2026-05-16T05:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Gentle Monster review – disquieting drama about two women facing the truth about the men they love",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/may/15/gentle-monster-review-disquieting-drama-about-two-women-facing-the-truth-about-the-men-they-love",
@@ -589,55 +631,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260515/la-belle-vie-a-taste-of-summer-and-southern-france-culture",
       "published_date": "2026-05-15T06:31:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour politicians jockey for possible challenge to UK's Starmer",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/labour-politicians-jockey-for-possible-challenge-to-uk-s-starmer",
-      "published_date": "2026-05-14T18:41:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China's Xi woos Trump with state banquet: Taiwan on the table?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260514-china-s-xi-woos-trump-with-state-banquet-taiwan-on-the-table",
-      "published_date": "2026-05-14T18:19:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London's old double-decker buses and underground carriages get a second life",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260514-london-s-old-double-decker-buses-and-underground-carriages-get-a-second-life",
-      "published_date": "2026-05-14T13:52:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump-Xi meeting 'like watching a boxer fight a Kung Fu master'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260514-trump-xi-meeting-like-watching-a-boxer-fight-a-kung-fu-master",
-      "published_date": "2026-05-14T10:38:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghana to repatriate 300 citizens after xenophobic incidents in South Africa",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260514-ghana-to-repatriate-300-citizens-after-xenophobic-incidents-in-south-africa",
-      "published_date": "2026-05-14T09:55:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hantavirus close contacts in France have so far tested negative",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/hantavirus-close-contacts-in-france-have-so-far-tested-negative",
-      "published_date": "2026-05-14T09:21:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French authorities lift lockdown on norovirus-hit cruise ship",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/14/french-authorities-lift-lockdown-on-norovirus-hit-cruise-ship-ambition",
-      "published_date": "2026-05-14T07:57:48+00:00",
       "category": "Local Events"
     }
   ]
