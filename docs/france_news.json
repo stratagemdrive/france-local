@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-05-16T11:46:13.587106+00:00",
+  "last_updated": "2026-05-16T23:50:06.718835+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "UK and France extend ‘one in, one out’ small boats pilot scheme until October",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/16/uk-and-france-extend-one-in-one-out-small-boats-pilot-scheme-until-october",
+      "published_date": "2026-05-16T21:07:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France monitoring hantavirus contact cases",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260516-france-monitoring-hantavirus-contact-cases",
+      "published_date": "2026-05-16T15:28:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's justice minister to visit Algeria amid diplomatic thaw",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260516/frances-justice-minister-to-visit-algeria-amid-diplomatic-thaw",
+      "published_date": "2026-05-16T14:01:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sierra Leone to take in hundreds of West Africans deported by US, minister says",
       "source": "RFI English",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cuban government says CIA chief John Ratcliffe met with officials in Havana",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260514-cuba-cia-john-ratcliffe-officials-havana",
-      "published_date": "2026-05-14T21:52:56+00:00",
-      "category": "Diplomacy"
+      "title": "Middle East war imperils rare vultures' yearly odyssey to the Balkans",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260516-middle-east-war-imperils-rare-vultures-yearly-odyssey-to-the-balkans",
+      "published_date": "2026-05-16T14:19:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Parallel Tales review – Isabelle Huppert pens furtive sexual fantasy for Vincent Cassel in Asghar Farhadi’s latest",
+      "title": "Leader of Hamas's armed wing killed in strike on Gaza, says Israel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260516-israel-says-leader-of-hamas-armed-wing-killed-in-strike-on-gaza",
+      "published_date": "2026-05-16T12:23:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Arrest of Iraqi terror suspect with alleged links to Iran’s Quds Force is astonishing but not surprising",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/14/parallel-tales-review-isabelle-huppert-sexual-fantasy-for-vincent-cassel-in-asghar-farhadis-latest",
-      "published_date": "2026-05-14T21:50:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/16/mohammad-baqer-saad-dawood-al-saadi-iran-guards-hayi",
+      "published_date": "2026-05-16T12:18:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Abu Dhabi 'doesn't want to appear too much in cooperation with Israel', analyst says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260514-abu-dhabi-doesn-t-want-to-appear-too-much-in-cooperation-with-israel-analyst-says",
-      "published_date": "2026-05-14T21:00:04+00:00",
-      "category": "Diplomacy"
+      "title": "Maldives diver dies in operation to recover bodies of Italians from cave",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/maldives-scuba-divers-italy-drowned-cave",
+      "published_date": "2026-05-16T11:45:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkey expands military footprint in Somalia as regional rivalries intensify",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260516-turkey-expands-military-footprint-in-somalia-as-regional-rivalries-intensify",
+      "published_date": "2026-05-16T11:09:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Why French law on returning looted artefacts is of ‘great importance’ to China",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-15T12:53:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-15T12:33:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 24 killed in Kyiv in one of deadliest Russian attacks since start of war – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/15/russian-attack-kyiv-ukraine-europe-live-updates-latest",
-      "published_date": "2026-05-15T12:09:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Ireland not taking part in this year's Eurovision?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-15T11:41:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine in mourning after 24 killed in Russian attack on Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260515-ukraine-in-mourning-after-24-killed-in-russian-attack-on-kyiv",
-      "published_date": "2026-05-15T11:11:17+00:00",
-      "category": "Military"
-    },
-    {
       "title": "EU facing 'second big wake-up call' on energy, Irish Minister Darragh O'Brien says",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/talking-europe/20260515-eu-facing-second-big-wake-up-call-on-energy-irish-minister-darragh-o-brien-says",
@@ -352,6 +352,13 @@
       "url": "https://www.france24.com/en/middle-east/20260510-trump-calls-iran-response-to-us-peace-proposal-totally-unacceptable",
       "published_date": "2026-05-10T23:23:51+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Pope Leo to visit France in September in first official papal trip in 18 years",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260516-pope-leo-to-visit-france-in-september-in-first-official-papal-trip-in-18-years",
+      "published_date": "2026-05-16T12:01:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump & Xi, Carry on Westminster, the french pivot",
@@ -487,11 +494,53 @@
       "category": "Economy"
     },
     {
-      "title": "Cannes is a beautiful, gruelling circus. I wouldn’t quit it for anything | Agnès Poirier",
+      "title": "‘Surfers say, that board is so sick!’ The French artist redesigning the surfboard like you’ve never seen before",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/13/cannes-film-festival-beautiful-gruelling-circus-cinema",
-      "published_date": "2026-05-13T04:00:19+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/artanddesign/2026/may/17/surfers-say-that-board-is-so-sick-the-french-artist-redesigning-the-surfboard-like-youve-never-seen-before",
+      "published_date": "2026-05-16T20:00:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seven people injured after man drives car into pedestrians in northern Italy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/people-injured-car-crowd-modena-northern-italy",
+      "published_date": "2026-05-16T18:13:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK police brace far-right rally and counter demonstration in London",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-police-brace-far-right-rally-and-counter-demonstration-in-london",
+      "published_date": "2026-05-16T14:15:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France arrests 6 over Palestinian flag on Eiffel Tower",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260516/france-arrests-6-over-palestinian-flag-on-eiffel-tower",
+      "published_date": "2026-05-16T13:19:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Congolese report constant burials as deaths in new Ebola outbreak reach 80",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/congolese-report-constant-burials-as-deaths-in-new-ebola-outbreak-reach-80",
+      "published_date": "2026-05-16T13:07:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Large scale far-right and pro-Palestine protests in London",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-large-scale-far-right-and-pro-palestine-protests-in-london",
+      "published_date": "2026-05-16T13:05:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peacock ‘invasion’ of Italian seaside town ruffles feathers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/peacock-italy-punta-marina-tensions",
+      "published_date": "2026-05-16T12:00:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UK: Far-right rally meets pro-palestine counter-protest in London",
@@ -582,55 +631,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/15/czech-police-find-stolen-skull-13th-century-saint-arrest-man",
       "published_date": "2026-05-15T15:06:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Erling Haaland to make film acting debut – as a Viking called Haaland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/15/erling-haaland-film-acting-debut-viqueens-viking",
-      "published_date": "2026-05-15T15:04:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why rights groups fear new ECHR declaration could weaken migrant protections",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/may/15/rights-groups-fear-echr-declaration-weaken-migrant-protections",
-      "published_date": "2026-05-15T12:12:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clashes erupt in Bolivia as miners set off dynamite and police fire tear gas",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260515-clashes-erupt-in-bolivia-as-miners-set-off-dynamite-and-police-fire-tear-gas",
-      "published_date": "2026-05-15T12:04:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who are possible contenders in the UK Labour Party leadership race?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260515-who-are-the-possible-contenders-in-uk-labour-party-s-leadership-race",
-      "published_date": "2026-05-15T11:39:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London police brace for far-right march and rally marking Palestinian Nakba",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260515-london-police-brace-for-far-right-march-and-rally-marking-palestinian-nakba",
-      "published_date": "2026-05-15T09:05:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French city Nantes reels from teen killing in drug-linked shooting",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260515/french-city-nantes-reels-from-teen-killing-in-drug-linked-shooting",
-      "published_date": "2026-05-15T08:49:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Belle Vie: A taste of summer and an island jewel in the south of France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260515/la-belle-vie-a-taste-of-summer-and-southern-france-culture",
-      "published_date": "2026-05-15T06:31:46+00:00",
       "category": "Local Events"
     }
   ]
