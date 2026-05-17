@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-05-17T11:57:41.506264+00:00",
-  "story_count": 90,
+  "last_updated": "2026-05-17T23:55:25.584582+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "Where does UK-EU relationship stand and how might bid to rejoin bloc be received?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/17/explainer-uk-eu-relationship-brexit-bid-rejoining",
+      "published_date": "2026-05-17T16:29:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Top of Labour in row over EU as Nandy challenges Streeting’s remarks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/17/culture-secretary-lisa-nandy-says-wes-streeting-rejoin-eu-call-odd",
+      "published_date": "2026-05-17T14:10:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK: PM Keir Starmer under pressure to reseign",
       "source": "France 24",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump hails 'fantastic trade deals' made during talks with China's Xi",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260515-china-us-summit-day-2-trump-says-made-fantastic-trade-deals-with-xi",
-      "published_date": "2026-05-15T06:00:13+00:00",
-      "category": "Diplomacy"
+      "title": "Drone strike sparks a fire on the edge of UAE nuclear facility",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260517-drone-strike-sparks-a-fire-on-the-edge-of-uae-nuclear-facility",
+      "published_date": "2026-05-17T20:46:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU carmakers pave way for Chinese rivals as balance in market shifts",
+      "title": "Suspected Ukrainian military drone discovered after crashing in Lithuania",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260517-suspected-ukrainian-military-drone-discovered-after-crashing-in-lithuania",
+      "published_date": "2026-05-17T20:16:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moulin review – László Nemes’s resistance hero drama is chilling, stirring and surprisingly conventional",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/15/eu-carmakers-chinese-rivals-market-shifts",
-      "published_date": "2026-05-15T04:00:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/film/2026/may/17/moulin-review-laszlo-nemes-jean-moulin-rfrench-resistance-klaus-barbie",
+      "published_date": "2026-05-17T15:55:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Most of the architects of October 7 attacks have been killed, says Netanyahu",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260517-most-of-the-architects-of-october-7-attacks-have-been-killed-says-netanyahu",
+      "published_date": "2026-05-17T15:13:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine strikes Russia: Zelensky says response to Moscow's agression 'justified'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-strikes-russia-zelensky-says-response-to-moscow-s-agression-justified",
+      "published_date": "2026-05-17T14:58:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone hits UAE nuclear power plant: IAEA reports normal radiation levels",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/drone-hits-uae-nuclear-power-plant-iaea-reports-normal-radiation-levels",
+      "published_date": "2026-05-17T14:55:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian drone strikes on Russia kills at least 4 and wound 12 others",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260517-ukrainian-drone-strikes-on-russia-kills-at-least-4-and-wound-12-others",
+      "published_date": "2026-05-17T14:25:29+00:00",
+      "category": "Military"
     },
     {
       "title": "At least four people killed in Russia as Ukraine launches retaliatory strikes",
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Why French law on returning looted artefacts is of ‘great importance’ to China",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260516-why-french-law-on-returning-looted-artefacts-is-of-great-importance-to-china",
-      "published_date": "2026-05-16T10:54:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine vows retribution after Russian strike on housing block kills 24",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-vows-retribution-after-russian-strike-on-housing-block-kills-24",
-      "published_date": "2026-05-16T08:50:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US ramps up pressure on Cuba and plans to indict Raúl Castro",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260516-us-ramps-up-pressure-on-cuba-and-plans-to-indict-ra%C3%BAl-castro",
-      "published_date": "2026-05-16T08:41:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in the Middle East: Israel targets top Hamas leader in Gaza",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/war-in-the-middle-east-israel-targets-top-hamas-leader-in-gaza",
-      "published_date": "2026-05-16T08:36:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nigeria confirms Islamic State second in command killed in joint US operation",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260516-nigeria-confirms-islamic-state-leader-killed-in-joint-us-operation-tinubu-trump-al-minuki",
-      "published_date": "2026-05-16T07:45:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: Israel strikes southern Lebanon hours after ceasefire extension",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260516-middle-east-war-live-israel-lebanon-extend-shaky-ceasefire",
-      "published_date": "2026-05-16T05:01:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "I’m a Eurovision superfan, but this year’s contest brings only sadness. I won’t be tuning in",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/16/im-a-eurovision-superfan-but-this-years-contest-brings-only-sadness-i-wont-be-tuning-in",
-      "published_date": "2026-05-16T04:00:01+00:00",
-      "category": "Military"
-    },
-    {
       "title": "EU facing 'second big wake-up call' on energy, Irish Minister Darragh O'Brien says",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/talking-europe/20260515-eu-facing-second-big-wake-up-call-on-energy-irish-minister-darragh-o-brien-says",
@@ -347,11 +347,11 @@
       "category": "Energy"
     },
     {
-      "title": "Trump calls Iran's response to US peace proposal 'totally unacceptable'",
+      "title": "Bolivian police clash with protesters blocking roads into La Paz",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260510-trump-calls-iran-response-to-us-peace-proposal-totally-unacceptable",
-      "published_date": "2026-05-10T23:23:51+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/bolivian-police-clash-with-protesters-blocking-roads-into-la-paz",
+      "published_date": "2026-05-17T16:28:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "On the Agenda: What’s happening in France this week",
@@ -487,11 +487,67 @@
       "category": "Economy"
     },
     {
-      "title": "Tens of thousands demonstrate in Argentina over Milei university cuts",
+      "title": "Garance review – Adèle Exarchopoulos gives it her all in ripe but flimsy portrait of alcohol addiction",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/18/garance-review-adele-exarchopoulos-gives-it-her-all-in-ripe-but-flimsy-portrait-of-alcohol-addiction",
+      "published_date": "2026-05-17T22:59:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France’s 'free party' crackdown ignites debate over who controls public space",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260517-france-s-free-party-crackdown-ignites-debate-over-who-controls-public-space-teknival-rave",
+      "published_date": "2026-05-17T20:59:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France’s top film producer says it will blacklist figures who petitioned against rightwing billionaire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/17/frances-top-film-producer-says-it-will-blacklist-figures-who-petitioned-against-rightwing-billionaire",
+      "published_date": "2026-05-17T18:37:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Around 10 'new' victims in France's Epstein probe: prosecutor",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260517/around-10-new-victims-in-frances-epstein-probe-prosecutor",
+      "published_date": "2026-05-17T15:29:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Probes ongoing into alleged abuse at 84 Paris preschools: prosecutor",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260517/probes-ongoing-into-alleged-abuse-at-84-paris-preschools-prosecutor",
+      "published_date": "2026-05-17T15:25:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Around 10 'new' victims in France's Epstein probe, says prosecutor",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260517-around-10-new-victims-in-france-s-epstein-probe-says-prosecutor",
+      "published_date": "2026-05-17T15:19:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scuffles in France, Italy and beyond as Swatch sale descends into chaos",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260517/scuffles-in-france-italy-and-beyond-as-swatch-sale-descends-into-chaos",
+      "published_date": "2026-05-17T14:50:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK leadership crisis: ‘Keir Starmer is a lame duck Prime Minister’ says former Labour adviser",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260513-tens-of-thousands-demonstrate-in-argentina-over-milei-university-cuts",
-      "published_date": "2026-05-13T12:21:32+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260517-uk-leadership-crisis-keir-starmer-is-a-lame-duck-prime-minister-says-former-labour-adviser",
+      "published_date": "2026-05-17T13:22:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘The real work begins now’: Roma take centre stage as Hungary brings in new government",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/17/roma-rights-hungary-new-government-magyar-orban",
+      "published_date": "2026-05-17T13:00:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UK police make 43 arrests at far-right rally, counter pro-Palestinian demo",
@@ -568,69 +624,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/uk-police-brace-far-right-rally-and-counter-demonstration-in-london",
       "published_date": "2026-05-16T14:15:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France arrests 6 over Palestinian flag on Eiffel Tower",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260516/france-arrests-6-over-palestinian-flag-on-eiffel-tower",
-      "published_date": "2026-05-16T13:19:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Congolese report constant burials as deaths in new Ebola outbreak reach 80",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/congolese-report-constant-burials-as-deaths-in-new-ebola-outbreak-reach-80",
-      "published_date": "2026-05-16T13:07:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Large scale far-right and pro-Palestine protests in London",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk-large-scale-far-right-and-pro-palestine-protests-in-london",
-      "published_date": "2026-05-16T13:05:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peacock ‘invasion’ of Italian seaside town ruffles feathers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/16/peacock-italy-punta-marina-tensions",
-      "published_date": "2026-05-16T12:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Far-right rally meets pro-palestine counter-protest in London",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk-far-right-rally-meets-pro-palestine-counter-protest-in-london",
-      "published_date": "2026-05-16T11:44:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Gradiva review – stunning coming-of-age story of young love and sexual tension",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/16/la-gradiva-review-stunning-coming-of-age-story-of-young-love-and-sexual-tension",
-      "published_date": "2026-05-16T11:25:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andalucíans to vote in election seen as gauge of Spain’s wider political change",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/16/andalucia-regional-election-spain-politics-moreno-montero-sanchez",
-      "published_date": "2026-05-16T11:01:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo to visit France in September, Vatican says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260516-pope-leo-to-visit-france-in-september-vatican-says",
-      "published_date": "2026-05-16T10:08:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France to probe Khashoggi killing after complaint against Saudi crown prince",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260516-france-to-probe-khashoggi-killing-after-complaint-against-saudi-crown-prince",
-      "published_date": "2026-05-16T09:27:02+00:00",
       "category": "Local Events"
     }
   ]
