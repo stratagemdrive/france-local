@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-05-17T23:55:25.584582+00:00",
+  "last_updated": "2026-05-18T14:27:41.602966+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "‘I am not going to walk away’, says Starmer – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/may/18/keir-starmer-labour-leadership-wes-streeting-andy-burnham-david-lammy-brexit-eu-latest-news-updates",
+      "published_date": "2026-05-18T14:24:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andy Burnham says he will not try to return UK to EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/18/andy-burnham-says-he-will-not-try-to-return-uk-to-eu",
+      "published_date": "2026-05-18T13:33:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rejoin, reset or go Swiss-style? How the UK could try to unpick Brexit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/18/rejoin-reset-swiss-how-uk-try-unpick-brexit",
+      "published_date": "2026-05-18T13:23:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France & Africa partnering on jobs, education, investment: 'Not just about money, also the diaspora'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-and-africa-partnering-on-jobs-investment-not-just-about-money-also-the-diaspora",
+      "published_date": "2026-05-18T12:29:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Weather tracker: Europe braces for swing from Arctic chill to extreme heat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/18/weather-tracker-europe-swing-arctic-chill-heat-temperatures-france-england-us",
+      "published_date": "2026-05-18T09:38:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7 ministers meet in Paris to seek common ground on China and Middle East war",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260518-g7-ministers-meet-in-paris-to-seek-common-ground-on-china-and-middle-east-war",
+      "published_date": "2026-05-18T06:19:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French star Patrick Bruel denies multiple sexual assault allegations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/18/patrick-bruel-denies-sexual-assault-allegations-french-actor-singer-ntwnfb",
+      "published_date": "2026-05-18T03:21:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Where does UK-EU relationship stand and how might bid to rejoin bloc be received?",
       "source": "The Guardian",
@@ -95,53 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US-China summit ends with Xi and Trump claiming progress but differences remain",
+      "title": "Experts locate bodies of four missing Italian divers inside Maldives cave",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/18/maldives-cave-italian-divers-bodies",
+      "published_date": "2026-05-18T13:54:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ryanair has ‘near-zero concerns’ on fuel shortages but warns of future price rises",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/18/ryanair-jet-fuel-shortage-fare-rises-book-flights-higher-prices",
+      "published_date": "2026-05-18T11:45:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'I don't believe the war is coming to an end': Kyiv-based photographer Mark Neville",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260515-us-china-summit-ends-with-xi-and-trump-claiming-progress-but-differences-remain",
-      "published_date": "2026-05-15T12:03:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260518-i-don-t-believe-the-war-is-coming-to-an-end-kyiv-based-photographer-mark-neville",
+      "published_date": "2026-05-18T11:33:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Famine looms in Somalia amid drought, dwindling aid and Middle East war",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260515-famine-looms-in-somalia-amid-drought-dwindling-aid-and-middle-east-war",
-      "published_date": "2026-05-15T11:55:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How to fix France's declining birthrate",
+      "title": "Could Ukraine's drone strikes mark a turning point in war with Russia?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-51/20260515-how-to-fix-france-s-declining-birthrate",
-      "published_date": "2026-05-15T10:50:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260518-could-ukraine-s-drone-strikes-mark-a-turning-point-in-war-with-russia",
+      "published_date": "2026-05-18T11:07:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Xi-Trump summit: The humble soybean at the heart of a trade dispute between the US and China",
+      "title": "US-Iran truce under strain amid stalled talks and attacks on US allies",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260515-xi-trump-summit-the-humble-soybean-at-the-heart-of-a-trade-dispute-between-the-us-and-china",
-      "published_date": "2026-05-15T09:39:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260518-us-iran-truce-under-strain-amid-stalled-talks-and-attacks-on-us-allies",
+      "published_date": "2026-05-18T10:43:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Hats off to Bergerac airport': Your accounts of EES border checks around France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260515/hats-off-to-bergerac-airport-your-accounts-of-ees-border-checks-around-france",
-      "published_date": "2026-05-15T09:38:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "At least 78 dead, 5,000 displaced in gang clashes in Haiti since Saturday",
+      "title": "Fighter jets collide at US air show",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260515-at-least-78-dead-5-000-displaced-in-gang-clashes-in-haiti-since-saturday",
-      "published_date": "2026-05-15T09:34:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260518-fighter-jets-collide-at-us-air-show",
+      "published_date": "2026-05-18T10:07:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israelis chant threats, anti-Palestinian slogans at Jerusalem Day march",
+      "title": "Russia and Ukraine exchange overnight drone attacks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260515-israelis-chant-threats-anti-palestinian-slogans-at-jerusalem-day-march",
-      "published_date": "2026-05-15T09:14:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/russia-and-ukraine-exchange-overnight-drone-attacks",
+      "published_date": "2026-05-18T09:51:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drones hit two ships off Ukraine's coast, including Chinese-owned vessel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260518-russian-drones-hit-two-ships-off-ukraine-coast-including-chinese-owned-vessel-odesa",
+      "published_date": "2026-05-18T09:49:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-17T23:02:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Drone strike sparks a fire on the edge of UAE nuclear facility",
@@ -193,6 +256,13 @@
       "category": "Military"
     },
     {
+      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-17T14:18:23+00:00",
+      "category": "Military"
+    },
+    {
       "title": "At least four people killed in Russia as Ukraine launches retaliatory strikes",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow",
@@ -211,76 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/betting-on-war-mysterious-traders-make-millions-on-well-timed-bets-on-iran",
       "published_date": "2026-05-17T09:14:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "$200,000 reward to catch Monica Witt wanted on espionage charges in Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/200-000-reward-to-catch-monica-witt-wanted-on-espionage-charges-in-iran",
-      "published_date": "2026-05-17T08:38:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Junta ally says Malians still 'love their army' despite rebel gains",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260517-malians-love-their-army-junta-ally-tells-rfi-fight-continues-after-rebel-attacks",
-      "published_date": "2026-05-17T07:43:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: more than 500 drones strike at Russia, killing 3; US allows Russian oil sanctions waiver to lapse",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/17/ukraine-war-briefing-us-allows-russian-oil-sanctions-waiver-to-lapse",
-      "published_date": "2026-05-17T05:56:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: Drone strike causes fire outside UAE nuclear power plant",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260517-middle-east-live-uss-ford-returns-from-iran-war-after-longest-deployment-since-vietnam",
-      "published_date": "2026-05-17T05:39:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cj3pznr0zr4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-17T02:00:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war imperils rare vultures' yearly odyssey to the Balkans",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260516-middle-east-war-imperils-rare-vultures-yearly-odyssey-to-the-balkans",
-      "published_date": "2026-05-16T14:19:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Leader of Hamas's armed wing killed in strike on Gaza, says Israel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260516-israel-says-leader-of-hamas-armed-wing-killed-in-strike-on-gaza",
-      "published_date": "2026-05-16T12:23:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Arrest of Iraqi terror suspect with alleged links to Iran’s Quds Force is astonishing but not surprising",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/16/mohammad-baqer-saad-dawood-al-saadi-iran-guards-hayi",
-      "published_date": "2026-05-16T12:18:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Maldives diver dies in operation to recover bodies of Italians from cave",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/16/maldives-scuba-divers-italy-drowned-cave",
-      "published_date": "2026-05-16T11:45:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey expands military footprint in Somalia as regional rivalries intensify",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260516-turkey-expands-military-footprint-in-somalia-as-regional-rivalries-intensify",
-      "published_date": "2026-05-16T11:09:44+00:00",
       "category": "Military"
     },
     {
@@ -345,6 +345,34 @@
       "url": "https://www.france24.com/en/video/20260511-india-modi-wants-indians-to-stop-buying-gold",
       "published_date": "2026-05-11T16:06:42+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "G7 finance ministers meet amid Middle East war economic fallout",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/g7-finance-ministers-meet-amid-middle-east-war-economic-fallout",
+      "published_date": "2026-05-18T12:47:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Shakira wins £50m tax refund from Spanish government",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-18T11:58:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Shakira in line for €55m payout as Spanish court rules tax fines were wrong",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/may/18/spain-tax-agency-shakira-55m-payout-wrongful-fines",
+      "published_date": "2026-05-18T11:01:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "G7 finance ministers meet in Paris as headwinds mount for global economy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260518-g7-finance-ministers-meet-in-paris-as-headwinds-mount-for-global-economy",
+      "published_date": "2026-05-18T09:52:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "Bolivian police clash with protesters blocking roads into La Paz",
@@ -459,32 +487,109 @@
       "category": "Economy"
     },
     {
-      "title": "A Woman’s Life review – a breezy comedy of midlife crisis and same-sex affair",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/13/a-womans-life-review-lea-drucker-charline-bourgeois-tacquet",
-      "published_date": "2026-05-13T18:39:04+00:00",
-      "category": "Economy"
+      "title": "Paris probes alleged abuse at over 100 schools and daycare centres",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/paris-probes-alleged-abuse-at-over-100-schools-and-daycare-centres",
+      "published_date": "2026-05-18T14:05:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Starmer has ‘full confidence’ in Streeting despite health secretary’s allies saying he is planning to resign – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/13/keir-starmer-labour-party-prime-minister-leadership-wes-streeting-kings-speech-latest-news-updates",
-      "published_date": "2026-05-13T17:00:19+00:00",
-      "category": "Economy"
+      "title": "Biggest French cinema producer's blacklist threat could recall Hollywood \"McCarthyism\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/biggest-french-cinema-producer-s-blacklist-threat-could-recall-hollywood-mccarthyism",
+      "published_date": "2026-05-18T14:00:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Easyjet to launch new route between Italy and south-west France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260513/easyjet-to-launch-new-route-between-italy-and-south-west-france",
-      "published_date": "2026-05-13T14:32:03+00:00",
-      "category": "Economy"
+      "title": "Nigeria: Who was the targeted Islamic State group leader & why was he targeted by the US?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nigeria-who-was-the-targeted-islamic-state-leader-why-was-he-targeted-by-the-us",
+      "published_date": "2026-05-18T13:57:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Sung by a silver robot from 1984!’ The 11 biggest bangers in Eurovision 2026",
+      "title": "Rare strike forces busiest US commuter line to a halt",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/rare-strike-forces-to-a-halt-busiest-us-commuter-line",
+      "published_date": "2026-05-18T13:00:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swatch watch triggers consumer frenzy from Europe to New York City",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/swatch-watch-triggers-consumer-frenzy-from-europe-to-new-york-city",
+      "published_date": "2026-05-18T12:43:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli attacks in Gaza have stepped up since halt in bombing in Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israeli-attacks-in-gaza-have-stepped-up-since-halt-in-bombing-in-iran",
+      "published_date": "2026-05-18T12:34:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France announces team of architects for Louvre overhaul",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260518-france-unveils-architects-to-build-new-louvre-entrance-and-mona-lisa-space",
+      "published_date": "2026-05-18T12:29:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US, Nigeria carry out fresh strikes on Islamic State group",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260518-us-nigeria-carry-out-fresh-strikes-on-islamic-state-group",
+      "published_date": "2026-05-18T12:02:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Loneliness: South Korea's silent epidemic",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260518-loneliness-south-korea-s-silent-epidemic",
+      "published_date": "2026-05-18T11:53:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's justice minister Darmanin enlists Algeria's aid in fight against crime",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260518-france-s-justice-minister-darmanin-enlists-algeria-s-aid-in-fight-against-crime",
+      "published_date": "2026-05-18T11:32:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two dozen injured in Ukraine following Russian strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260518-two-dozen-injured-in-ukraine-following-russian-strikes",
+      "published_date": "2026-05-18T10:45:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six French football clubs qualify for 2027 European competitions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/six-french-football-clubs-qualify-for-2027-european-competitions",
+      "published_date": "2026-05-18T10:16:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peru presidential standoff confirmed after month-long vote count",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/peru-presidential-standoff-confirmed-after-month-long-vote-count",
+      "published_date": "2026-05-18T10:09:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain’s conservatives forced to rely on far-right Vox party after losing majority in Andalucía",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/13/best-eurovision-songs-2026-sarah-engels-delta-goodrem-jonas-lovv",
-      "published_date": "2026-05-13T14:31:59+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/may/18/spain-conservative-peoples-party-far-right-vox-andalucia-election",
+      "published_date": "2026-05-18T08:48:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Escaped tiger shot by German police after attacking man",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-18T08:12:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Garance review – Adèle Exarchopoulos gives it her all in ripe but flimsy portrait of alcohol addiction",
@@ -519,111 +624,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260517/probes-ongoing-into-alleged-abuse-at-84-paris-preschools-prosecutor",
       "published_date": "2026-05-17T15:25:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Around 10 'new' victims in France's Epstein probe, says prosecutor",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260517-around-10-new-victims-in-france-s-epstein-probe-says-prosecutor",
-      "published_date": "2026-05-17T15:19:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scuffles in France, Italy and beyond as Swatch sale descends into chaos",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260517/scuffles-in-france-italy-and-beyond-as-swatch-sale-descends-into-chaos",
-      "published_date": "2026-05-17T14:50:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK leadership crisis: ‘Keir Starmer is a lame duck Prime Minister’ says former Labour adviser",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260517-uk-leadership-crisis-keir-starmer-is-a-lame-duck-prime-minister-says-former-labour-adviser",
-      "published_date": "2026-05-17T13:22:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The real work begins now’: Roma take centre stage as Hungary brings in new government",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/17/roma-rights-hungary-new-government-magyar-orban",
-      "published_date": "2026-05-17T13:00:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK police make 43 arrests at far-right rally, counter pro-Palestinian demo",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260517-uk-police-make-43-arrests-at-far-right-rally-counter-pro-palestinian-demo-london",
-      "published_date": "2026-05-17T11:55:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It was like a mosh pit’: Swatch closes stores as watch launch causes crowding and scuffles",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/17/swatch-royal-pop-launch-chaos-closures",
-      "published_date": "2026-05-17T10:50:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LGBTI+ rights: May 17th, international day against homophobia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260517-lgbti-rights-may-17th-international-day-against-homophobia",
-      "published_date": "2026-05-17T09:32:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Tens of thousands march in London in two separate protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk-tens-of-thousands-march-in-london-in-two-separate-protests",
-      "published_date": "2026-05-17T08:41:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/health/20260517-who-declares-global-health-emergency-over-ebola-outbreak-in-congo-and-uganda",
-      "published_date": "2026-05-17T08:39:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester City see off Chelsea in FA Cup final and keep treble dream alive",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260517-manchester-city-see-off-chelsea-in-fa-cup-final-and-keep-treble-dream-alive",
-      "published_date": "2026-05-17T08:05:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seine swimming, pensions and saying sorry: 6 essential articles for life in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260517/seine-swimming-pensions-and-saying-sorry-6-essential-articles-for-life-in-france",
-      "published_date": "2026-05-17T07:10:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘A place for everybody’: Stockholm to open its first publicly run sauna",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/17/a-place-for-everybody-stockholm-to-open-its-first-publicly-run-sauna",
-      "published_date": "2026-05-17T04:00:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Surfers say, that board is so sick!’ The French artist redesigning the surfboard like you’ve never seen before",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/may/17/surfers-say-that-board-is-so-sick-the-french-artist-redesigning-the-surfboard-like-youve-never-seen-before",
-      "published_date": "2026-05-16T20:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven people injured after man drives car into pedestrians in northern Italy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/16/people-injured-car-crowd-modena-northern-italy",
-      "published_date": "2026-05-16T18:13:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK police brace far-right rally and counter demonstration in London",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk-police-brace-far-right-rally-and-counter-demonstration-in-london",
-      "published_date": "2026-05-16T14:15:26+00:00",
       "category": "Local Events"
     }
   ]
