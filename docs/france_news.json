@@ -1,13 +1,55 @@
 {
   "country": "France",
-  "last_updated": "2026-05-18T14:27:41.602966+00:00",
-  "story_count": 89,
+  "last_updated": "2026-05-19T00:02:44.465389+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "No ‘tailor-made’ deal for UK if it wants to rejoin bloc, say former EU Brexit officials",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/18/no-tailor-made-deal-uk-eu-brexit-officials-rejoin",
+      "published_date": "2026-05-18T18:45:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andy Burnham’s first election hurdle: Brexit – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/may/18/andy-burnham-first-election-hurdle-brexit-podcast",
+      "published_date": "2026-05-18T17:04:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could the UK really rejoin the EU? - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/video/2026/may/18/could-the-uk-really-rejoin-the-eu-the-latest",
+      "published_date": "2026-05-18T16:38:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Angela Merkel says Europe ‘not making sufficient use of diplomatic potential’ to engage with Russia – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/18/europe-eu-ukraine-russia-greenland-bulgaria-germany-latest-news-updates",
+      "published_date": "2026-05-18T16:28:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could the UK really rejoin the EU? – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/may/18/could-the-uk-really-rejoin-the-eu-the-latest",
+      "published_date": "2026-05-18T16:18:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘I am not going to walk away’, says Starmer – UK politics live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/live/2026/may/18/keir-starmer-labour-leadership-wes-streeting-andy-burnham-david-lammy-brexit-eu-latest-news-updates",
       "published_date": "2026-05-18T14:24:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Trend will continue': Number of people refused entry to Europe sees sharp rise",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260518/trend-will-continue-number-of-people-refused-entry-to-europe-on-the-rise",
+      "published_date": "2026-05-18T13:58:26+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,46 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sierra Leone to take in hundreds of West Africans deported by US, minister says",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260516-sierra-leone-to-take-in-hundreds-of-west-africans-deported-by-us-minister-says",
-      "published_date": "2026-05-16T10:16:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Putin to hold taks with Xi in China days after Trump’s trip to Beijing",
+      "title": "Cuba warns of 'bloodbath' if US attacks; Washington adds sanctions",
       "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260516-putin-to-hold-taks-with-xi-in-china-days-after-trump-s-trip-to-beijing",
-      "published_date": "2026-05-16T09:33:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/cuba-warns-of-bloodbath-if-us-attacks-washington-adds-sanctions",
+      "published_date": "2026-05-18T21:55:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Philippine Leroy-Beaulieu: The art of self-confidence",
+      "title": "Iran announces new body to manage Strait of Hormuz as peace talks stall",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260516-philippine-leroy-beaulieu-the-art-of-self-confidence",
-      "published_date": "2026-05-16T06:54:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260518-iran-announces-new-body-to-manage-strait-of-hormuz-as-peace-talks-stall",
+      "published_date": "2026-05-18T21:37:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump-Xi, the alpha power summit: a debrief",
+      "title": "Elon Musk loses lawsuit against OpenAI and Sam Altman",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260515-trump-xi-the-alpha-power-summit-a-debrief",
-      "published_date": "2026-05-15T18:29:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/business/20260518-elon-musk-loses-lawsuit-against-openai-and-sam-altman",
+      "published_date": "2026-05-18T21:03:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU's push to deport Afghan refugees brings the Taliban back to the table",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260515-eu-push-to-deport-afghan-refugees-brings-taliban-back-to-the-table",
-      "published_date": "2026-05-15T16:09:06+00:00",
-      "category": "Diplomacy"
+      "title": "Israel built two secret military bases in Iraq to aid Iran war, New York Times reports",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-built-two-secret-military-bases-in-iraq-to-aid-iran-war-new-york-times-reports",
+      "published_date": "2026-05-18T19:38:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Simulator: Find out if you qualify for France's fuel allowance",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260515/simulator-find-out-if-you-qualify-for-frances-fuel-allowance",
-      "published_date": "2026-05-15T15:11:20+00:00",
-      "category": "Diplomacy"
+      "title": "Musk loses landmark lawsuit against OpenAI after jury finds he filed his claim too late",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260518-musk-loses-his-lawsuit-against-openai-after-jury-finds-he-filed-his-claim-too-late",
+      "published_date": "2026-05-18T19:10:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia and Belarus stage joint nuclear weapons drills",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260518-russia-and-belarus-stage-joint-nuclear-weapons-drills",
+      "published_date": "2026-05-18T16:18:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Experts locate bodies of four missing Italian divers inside Maldives cave",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Drone hits UAE nuclear power plant: IAEA reports normal radiation levels",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/drone-hits-uae-nuclear-power-plant-iaea-reports-normal-radiation-levels",
-      "published_date": "2026-05-17T14:55:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian drone strikes on Russia kills at least 4 and wound 12 others",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260517-ukrainian-drone-strikes-on-russia-kills-at-least-4-and-wound-12-others",
-      "published_date": "2026-05-17T14:25:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-17T14:18:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least four people killed in Russia as Ukraine launches retaliatory strikes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow",
-      "published_date": "2026-05-17T09:48:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "🔴 Ukraine launches around 600 drones at Russia, Zelensky claims ‘justified’ attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260517-ukraine-launches-more-than-500-drones-at-russia-in-deadly-overnight-attack-authorities-say",
-      "published_date": "2026-05-17T09:45:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Betting on war: Mysterious traders make millions on well-timed bets on Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/betting-on-war-mysterious-traders-make-millions-on-well-timed-bets-on-iran",
-      "published_date": "2026-05-17T09:14:50+00:00",
-      "category": "Military"
-    },
-    {
       "title": "EU facing 'second big wake-up call' on energy, Irish Minister Darragh O'Brien says",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/talking-europe/20260515-eu-facing-second-big-wake-up-call-on-energy-irish-minister-darragh-o-brien-says",
@@ -333,18 +333,25 @@
       "category": "Energy"
     },
     {
-      "title": "Starmer announces plans to fully nationalise British Steel",
+      "title": "Nationwide protests erupt in Kenya over soaring fuel prices",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260511-starmer-announces-plans-to-fully-nationalise-british-steel",
-      "published_date": "2026-05-11T20:52:19+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260518-nationwide-protests-erupt-in-kenya-over-soaring-fuel-prices",
+      "published_date": "2026-05-18T21:16:04+00:00",
+      "category": "Economy"
     },
     {
-      "title": "India: Modi wants Indians to stop buying gold",
+      "title": "Federal court rejects Elon Musk's claims against OpenAI, saying he filed his lawsuit too late",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260511-india-modi-wants-indians-to-stop-buying-gold",
-      "published_date": "2026-05-11T16:06:42+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/federal-court-rejects-elon-musk-s-claims-against-openai-saying-he-filed-his-lawsuit-too-late",
+      "published_date": "2026-05-18T20:25:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump drops $10 billion IRS lawsuit in exchange for $1.7 billion fund for allies",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260518-trump-drops-10-billion-irs-lawsuit-exchange-for-1-7-billion-for-allies-anti-weaponization-fund",
+      "published_date": "2026-05-18T16:55:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "G7 finance ministers meet amid Middle East war economic fallout",
@@ -466,25 +473,46 @@
       "category": "Economy"
     },
     {
-      "title": "UK health secretary Wes Streeting resigns and is expected to challenge Keir Starmer's leadership",
+      "title": "Three killed in attack at San Diego Islamic centre in suspected hate crime",
       "source": "France 24",
-      "url": "https://www.france24.com/en/uk-health-secretary-wes-streeting-resigns-and-is-expected-to-challenge-keir-starmer-s-leadership",
-      "published_date": "2026-05-14T13:00:11+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/americas/20260518-three-killed-in-attack-at-san-diego-islamic-centre-in-suspected-hate-crime",
+      "published_date": "2026-05-18T23:08:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Will Keir Starmer's rivals manage to unseat the UK Prime Minister?",
+      "title": "Five dead, including two suspects, after shooting at San Diego mosque",
       "source": "France 24",
-      "url": "https://www.france24.com/en/will-keir-starmer-s-rivals-manage-to-unseat-the-uk-prime-minister",
-      "published_date": "2026-05-14T12:06:34+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/five-dead-including-two-suspects-after-shooting-at-san-diego-mosque",
+      "published_date": "2026-05-18T21:53:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trade, tech, and rare earths to dominate Trump's China trip",
+      "title": "French cinema faces reckoning as media mogul Bolloré blacklists stars for daring to challenge him",
       "source": "France 24",
-      "url": "https://www.france24.com/en/trade-tech-and-rare-earths-to-dominate-trump-s-china-trip",
-      "published_date": "2026-05-13T21:23:02+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20260518-french-cinema-faces-reckoning-as-media-mogul-bollor%C3%A9-blacklists-stars-for-daring-to-challenge-him",
+      "published_date": "2026-05-18T19:45:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Louvre picks architects for €800m overhaul and new Mona Lisa space",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260518-louvre-picks-architects-for-%E2%82%AC800m-overhaul-and-new-mona-lisa-space",
+      "published_date": "2026-05-18T14:47:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Minister visits Algeria amid diplomatic thaw",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-minister-visits-algeria-amid-diplomatic-thaw",
+      "published_date": "2026-05-18T14:47:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champagne start in Reims for 2028 Tour de France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260518/champagne-start-in-reims-for-2028-tour-de-france",
+      "published_date": "2026-05-18T14:44:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Paris probes alleged abuse at over 100 schools and daycare centres",
@@ -582,48 +610,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/18/spain-conservative-peoples-party-far-right-vox-andalucia-election",
       "published_date": "2026-05-18T08:48:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Escaped tiger shot by German police after attacking man",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-18T08:12:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Garance review – Adèle Exarchopoulos gives it her all in ripe but flimsy portrait of alcohol addiction",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/18/garance-review-adele-exarchopoulos-gives-it-her-all-in-ripe-but-flimsy-portrait-of-alcohol-addiction",
-      "published_date": "2026-05-17T22:59:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France’s 'free party' crackdown ignites debate over who controls public space",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260517-france-s-free-party-crackdown-ignites-debate-over-who-controls-public-space-teknival-rave",
-      "published_date": "2026-05-17T20:59:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France’s top film producer says it will blacklist figures who petitioned against rightwing billionaire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/17/frances-top-film-producer-says-it-will-blacklist-figures-who-petitioned-against-rightwing-billionaire",
-      "published_date": "2026-05-17T18:37:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Around 10 'new' victims in France's Epstein probe: prosecutor",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260517/around-10-new-victims-in-frances-epstein-probe-prosecutor",
-      "published_date": "2026-05-17T15:29:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Probes ongoing into alleged abuse at 84 Paris preschools: prosecutor",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260517/probes-ongoing-into-alleged-abuse-at-84-paris-preschools-prosecutor",
-      "published_date": "2026-05-17T15:25:06+00:00",
       "category": "Local Events"
     }
   ]
