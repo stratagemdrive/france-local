@@ -1,8 +1,134 @@
 {
   "country": "France",
-  "last_updated": "2026-05-20T00:00:52.662233+00:00",
-  "story_count": 85,
+  "last_updated": "2026-05-20T13:36:37.755718+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Russian threats against Baltics ‘unacceptable’ and danger to ‘our entire union’, EU’s von der Leyen says - Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/20/lithuania-ukraine-belarus-estonia-baltcis-drones-air-alert-europe-vladimir-putin-xi-jinping-china-eu-nato-latest-news-updates",
+      "published_date": "2026-05-20T13:12:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EES: 7,000 overstayers snared since launch of EU's new Schengen border checks",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260520/ees-7000-overstayers-snared-since-launch-of-eus-new-schengen-border-checks",
+      "published_date": "2026-05-20T12:37:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French MPs back Macron associate to run Bank of France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260520/french-mps-back-macron-associate-to-run-bank-of-france",
+      "published_date": "2026-05-20T12:21:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK waters down new Russian oil sanctions as fuel prices rise",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-20T12:07:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Beijing as centre stage: Trump & Putin mark 'series of diplomatic visits to the court of Xi Jinping'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/beijing-as-centre-stage-trump-putin-mark-series-of-diplomatic-visits-to-the-court-of-xi-jinping",
+      "published_date": "2026-05-20T11:16:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Moldovans 'want to be EU citizens, not Russian citizens', says president Sandu",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260520-moldovans-want-to-be-eu-citizens-not-russian-citizens-says-president-sandu",
+      "published_date": "2026-05-20T11:03:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Energy in spotlight as Putin visits China",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260520-energy-in-spotlight-as-putin-visits-china",
+      "published_date": "2026-05-20T10:54:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU agrees to implement US trade deal struck last summer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/20/eu-european-union-to-implement-us-trade-deal",
+      "published_date": "2026-05-20T10:07:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU makes headway towards ratifying US trade deal, under pressure from Trump",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260520-eu-makes-headway-towards-ratifying-us-trade-deal-under-pressure-from-trump",
+      "published_date": "2026-05-20T09:39:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EXPLAINED: How to calculate the value of your French property after renovations",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260520/explained-how-to-calculate-the-value-of-your-french-property-after-renovations",
+      "published_date": "2026-05-20T09:17:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Crony capitalism and oligarchy': 'Remarkable correlation' between Adani's rise & Modi’s ascendancy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260520-crony-capitalism-and-oligarchy-remarkable-correlation-between-adani-s-rise-modi-s-ascendancy",
+      "published_date": "2026-05-20T08:56:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French government slams ‘disproportionate’ Canal+ riposte to anti-Bolloré petition",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260520/french-government-slams-disproportionate-canal-riposte-to-anti-bollore-petition",
+      "published_date": "2026-05-20T07:20:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU agrees to implement US trade pact after Trump threats",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260520/eu-agrees-to-implement-us-trade-pact-after-trump-threats",
+      "published_date": "2026-05-20T07:15:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU moves ahead with US trade pact before Trump deadline",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260520-eu-moves-ahead-with-us-trade-pact-before-trump-deadline",
+      "published_date": "2026-05-20T07:10:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The die isn’t cast: France is pessimistic, but not doomed to far-right rule | Joseph de Weck",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/20/france-pessimistic-doomed-far-right-rule-national-rally-president-2027",
+      "published_date": "2026-05-20T04:00:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-20T03:49:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Putin, Xi hail 'unyielding' ties in talks after Trump visit",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260520-putin-xi-hail-unyielding-ties-in-talks-after-trump-visit",
+      "published_date": "2026-05-20T02:46:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU reaches deal on US trade pact as Trump threatens new tariffs by July 4",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260520-eu-reaches-deal-us-trade-pact-trump-threatens-new-tariffs-july-4",
+      "published_date": "2026-05-20T02:00:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Multilateralsim at work: Eurogroup President on G7 meeting, Europe's priorities and challenges",
       "source": "France 24",
@@ -18,130 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Estonia says Nato jet shot down drone over its territory",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c302jy8z4vro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-19T19:01:44+00:00",
-      "category": "Diplomacy"
+      "title": "Libyan prison chief known as 'Angel of Death' appears before ICC",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260520-libyan-prison-chief-known-as-angel-of-death-appears-before-icc",
+      "published_date": "2026-05-20T13:27:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "G7 finance ministers seek common ground despite divisions over Russia and trade",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260519-g7-finance-ministers-seek-common-ground-despite-divisions-over-russia-and-trade",
-      "published_date": "2026-05-19T16:38:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian jamming blamed after Nato jet downs Ukrainian drone over Estonia",
+      "title": "Forced disappearances and torture: Ecuador’s war on drugs is brutal – and backed by US troops",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/19/russian-jamming-blamed-nato-jet-downs-ukrainian-drone-estonia",
-      "published_date": "2026-05-19T15:57:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/global-development/2026/may/20/forced-disappearances-torture-ecuador-war-on-drugs-us-troops",
+      "published_date": "2026-05-20T12:00:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "G7 finance ministers call for action on trade imbalances as Russia sanctions divide US from allies",
+      "title": "Trump purges another Republican critic with Massie defeat in Kentucky",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260519-g7-finance-ministers-call-for-action-on-trade-imbalances-as-russia-sanctions-divide-us-from-allies",
-      "published_date": "2026-05-19T13:47:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260520-trump-purges-another-republican-critic-with-massie-defeat-in-kentucky",
+      "published_date": "2026-05-20T11:09:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Vladimir Putin to arrive in Beijing for state visit hot on heels of Trump",
+      "title": "Xi and Putin - Leaders praise 'unshakable foundations' at Beijing talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260520-xi-and-putin-leaders-praise-unshakable-foundations-at-beijing-talks",
+      "published_date": "2026-05-20T11:05:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns of war ‘beyond the region’ if US resumes attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260520-iran-warns-of-war-beyond-the-region-if-us-resumes-attacks",
+      "published_date": "2026-05-20T11:00:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Blinded and broken, Sunny the owl becomes another casualty of Russia’s war",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/19/vladimir-putin-beijing-china-state-visit-xi-jinping-russia",
-      "published_date": "2026-05-19T13:24:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/environment/2026/may/20/owl-casualty-of-russia-war-ukraine-birds",
+      "published_date": "2026-05-20T10:49:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Funding and Ebola epidemic loom over WHO's annual summit",
+      "title": "‘US imperialism’: Anger in Philippines as war with Iran sends oil prices soaring",
       "source": "France 24",
-      "url": "https://www.france24.com/en/funding-and-ebola-epidemic-loom-over-who-s-annual-summit",
-      "published_date": "2026-05-19T13:17:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260520-us-imperialism-anger-in-philippines-as-war-with-iran-sends-oil-prices-soaring",
+      "published_date": "2026-05-20T09:39:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Andie MacDowell on timeless beauty at the Cannes Film Festival",
+      "title": "Pentagon says it reduced US troop brigades in Europe from four to three",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260519-andie-macdowell-on-timeless-beauty-at-the-cannes-film-festival",
-      "published_date": "2026-05-19T13:13:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260520-us-europe-troop-brigades-reduction-pentagon",
+      "published_date": "2026-05-20T02:45:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "French and Algerian Ministers promote cooperation amid diplomatic thaw",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-and-algerian-ministers-promote-cooperation-amid-diplomatic-thaw",
-      "published_date": "2026-05-19T10:29:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Chairman of United Bank for Africa: 'We need to fix our problems ourselves'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260519-chairman-of-united-bank-for-africa-we-need-to-fix-our-problems-ourselves",
-      "published_date": "2026-05-19T10:24:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France refuses entry to hundreds of Brits",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260519/france-refuses-entry-to-hundreds-of-brits",
-      "published_date": "2026-05-19T10:22:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cuba says it has right to defend itself in case of US attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/cuba-says-it-has-right-to-defend-itself-in-case-of-us-attack",
-      "published_date": "2026-05-19T10:13:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Your only friend right now is Mr. Xi: Normal practice for Putin to go to China every year'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260519-your-only-friend-right-now-is-mr-xi-normal-practice-for-putin-to-go-to-china-every-year-1",
-      "published_date": "2026-05-19T08:35:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France and Turkey have most overcrowded jails in Europe",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260519/france-and-turkey-have-most-overcrowded-jails-in-europe",
-      "published_date": "2026-05-19T08:09:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU-China solar exploration spaceship launches successfully from French Guiana",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260519-eu-china-solar-exploration-spaceship-launches-successfully-from-french-guiana",
-      "published_date": "2026-05-19T07:06:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ex-Everton director loses Russian sanctions challenge",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0528mg7pvgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-18T18:54:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "No ‘tailor-made’ deal for UK if it wants to rejoin bloc, say former EU Brexit officials",
+      "title": "Ukraine war briefing: Britain to buy diesel and jet fuel made from Russian crude oil",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/18/no-tailor-made-deal-uk-eu-brexit-officials-rejoin",
-      "published_date": "2026-05-18T18:45:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Andy Burnham’s first election hurdle: Brexit – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/may/18/andy-burnham-first-election-hurdle-brexit-podcast",
-      "published_date": "2026-05-18T17:04:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Could the UK really rejoin the EU? - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/may/18/could-the-uk-really-rejoin-the-eu-the-latest",
-      "published_date": "2026-05-18T16:38:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/20/ukraine-war-briefing-britain-to-buy-diesel-and-jet-fuel-made-from-russian-crude-oil",
+      "published_date": "2026-05-20T00:44:34+00:00",
+      "category": "Military"
     },
     {
       "title": "'Huge mismatch' between Iran's, US' and Gulf States' expectations, analyst says",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russia to conduct three-day nuclear drills on May 19-21",
+      "title": "Xi hails China’s ‘unyielding’ ties with Russia as Putin visits Beijing",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260519-russia-to-conduct-three-day-nuclear-drills-on-may-19-21",
-      "published_date": "2026-05-19T06:24:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin visits China after Trump trip fails to shift Xi on Ukraine",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260519-putin-visits-china-after-trump-trip-fails-to-shift-xi-on-ukraine",
-      "published_date": "2026-05-19T06:07:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From sanctioned cars to beauty clinics, Russian rubles have flowed into China’s border towns since Ukraine war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/19/russia-china-border-increase-trade-ukraine-war",
-      "published_date": "2026-05-19T01:14:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Chinese ship hit on way in to Odesa port, says Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/19/ukraine-war-briefing-chinese-ship-hit-odesa-port-zelenskyy",
-      "published_date": "2026-05-19T00:22:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British ex-soldier imprisoned by Russia says he feels abandoned in occupied Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxper4k5w1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-18T23:09:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cuba warns of 'bloodbath' if US attacks; Washington adds sanctions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/cuba-warns-of-bloodbath-if-us-attacks-washington-adds-sanctions",
-      "published_date": "2026-05-18T21:55:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran announces new body to manage Strait of Hormuz as peace talks stall",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260518-iran-announces-new-body-to-manage-strait-of-hormuz-as-peace-talks-stall",
-      "published_date": "2026-05-18T21:37:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Elon Musk loses lawsuit against OpenAI and Sam Altman",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260518-elon-musk-loses-lawsuit-against-openai-and-sam-altman",
-      "published_date": "2026-05-18T21:03:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel built two secret military bases in Iraq to aid Iran war, New York Times reports",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-built-two-secret-military-bases-in-iraq-to-aid-iran-war-new-york-times-reports",
-      "published_date": "2026-05-18T19:38:21+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260520-xi-hails-china-s-unyielding-ties-with-russia-as-putin-visits-beijing",
+      "published_date": "2026-05-20T09:27:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Brush fire near Los Angeles forces thousands to evacuate",
@@ -317,6 +324,13 @@
       "url": "https://www.france24.com/en/cuba-runs-out-of-fuel-diesel-amid-us-blockade",
       "published_date": "2026-05-14T20:42:47+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Germany urged to stop admiring Beijing and wake up to ‘China Shock 2.0’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/20/germany-urged-stop-admiring-beijing-china-deindustrialisation",
+      "published_date": "2026-05-20T09:25:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "IRS will not pursue Trump for back taxes under settlement agreement",
@@ -452,11 +466,95 @@
       "category": "Economy"
     },
     {
-      "title": "Pope Leo to visit France in September in first official papal trip in 18 years",
+      "title": "Kenya transport strike over fuel price hikes called off",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260520-kenya-transport-strike-over-fuel-price-hikes-called-off",
+      "published_date": "2026-05-20T13:24:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela releases 300 prisoners under amnesty law",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260520-venezuela-releases-300-prisoners-under-amnesty-law",
+      "published_date": "2026-05-20T13:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "United States to fund Ebola clinics as aid cuts blamed for spread of virus",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260516-pope-leo-to-visit-france-in-september-in-first-official-papal-trip-in-18-years",
-      "published_date": "2026-05-16T12:01:54+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/international/20260520-united-states-to-fund-ebola-clinics-as-aid-cuts-blamed-for-spread-of-virus",
+      "published_date": "2026-05-20T13:19:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The lesson from John Travolta’s dramatic new look: always dress for the job you want | Morwenna Ferrier",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/20/john-travolta-cannes-festival-beret-glasses-new-look",
+      "published_date": "2026-05-20T12:15:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EXPLAINED: Could an embezzlement probe cost French centrist Philippe the election?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260520/explained-could-an-embezzlement-probe-cost-french-centrist-philippe-the-election",
+      "published_date": "2026-05-20T12:14:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As Palestinians mark Nakba, Israelis celebrate conquest of East Jerusalem",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260520-as-palestinians-mark-nakba-israelis-celebrate-conquest-of-east-jerusalem",
+      "published_date": "2026-05-20T11:49:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French presidential candidate Philippe targeted in embezzlement probe",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260520/french-presidential-candidate-philippe-targeted-in-embezzlement-probe",
+      "published_date": "2026-05-20T11:07:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los Angeles World Cup workers vow strike if ICE deployed at stadium",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260520-los-angeles-world-cup-workers-vow-strike-if-ice-deployed-at-stadium",
+      "published_date": "2026-05-20T11:07:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cannes pays tribute to ‘Thelma and Louise’ in festival poster",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260520-cannes-pays-tribute-to-thelma-and-louise-in-festival-poster",
+      "published_date": "2026-05-20T09:47:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court names Mango tycoon's son as suspect in probe into father's death",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260520-court-names-mango-tycoon-s-son-as-suspect-in-probe-into-father-s-death",
+      "published_date": "2026-05-20T09:42:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France encourages women to report rape as singer faces allegations",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260520/france-encourages-women-to-report-rape-as-singer-faces-allegations",
+      "published_date": "2026-05-20T07:01:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bone appetit: Paris pups lap up treats at dog-centric spots",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260520/bone-appetit-paris-pups-lap-up-treats-at-dog-centric-spots",
+      "published_date": "2026-05-20T06:47:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Korean labour minister to mediate talks as Samsung faces strike threat",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/business/20260520-union-calls-strike-at-south-korea-chip-giant-samsung-electronics",
+      "published_date": "2026-05-20T04:07:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel far-right finance minister says ICC prosecutor seeks arrest warrant against him",
@@ -505,97 +603,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/liquid-on-lips-noughty-makes-non-alcoholic-wine-nice-by-appealing-to-wine-drinkers",
       "published_date": "2026-05-19T18:56:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France to return bodies of Indigenous people exhibited in colonial ‘human zoos’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260519-france-return-bodies-of-indigenous-people-exhibited-colonial-human-zoos",
-      "published_date": "2026-05-19T18:21:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three Toronto police officers arrested over sexual assault in Barcelona",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
-      "published_date": "2026-05-19T17:13:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya's transportation strike suspended as negotiations take place",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/kenya-s-violent-transportation-strike-suspended-as-negotiations-take-place",
-      "published_date": "2026-05-19T13:24:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iconic Parisian bridge slowly turning into immersive cave as artist takes over",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iconic-parisian-bridge-slowly-turning-into-immersive-cave-as-artist-takes-over",
-      "published_date": "2026-05-19T13:14:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Son of Mango fashion chain founder arrested in Spain over death of father",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/19/jonathan-andic-son-mango-isak-andic-arrested-death-father-spain",
-      "published_date": "2026-05-19T12:35:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three dead in San Diego shooting as police investigate possible hate crime",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/three-dead-in-san-diego-shooting-as-police-investigate-possible-hate-crime",
-      "published_date": "2026-05-19T10:54:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly attack by teen gunmen on a San Diego mosque",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260519-deadly-attack-by-teen-gunmen-on-a-san-diego-mosque",
-      "published_date": "2026-05-19T10:51:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "San Diego police treating mosque shooting as hate crime",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/san-diego-police-treating-mosque-shooting-as-hate-crime",
-      "published_date": "2026-05-19T10:25:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two dead in Spain shooting, with babies reportedly among injured",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-19T07:17:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three killed in attack at San Diego Islamic centre in suspected hate crime",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260518-three-killed-in-attack-at-san-diego-islamic-centre-in-suspected-hate-crime",
-      "published_date": "2026-05-18T23:08:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five dead, including two suspects, after shooting at San Diego mosque",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/five-dead-including-two-suspects-after-shooting-at-san-diego-mosque",
-      "published_date": "2026-05-18T21:53:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French cinema faces reckoning as media mogul Bolloré blacklists stars for daring to challenge him",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260518-french-cinema-faces-reckoning-as-media-mogul-bollor%C3%A9-blacklists-stars-for-daring-to-challenge-him",
-      "published_date": "2026-05-18T19:45:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Louvre picks architects for €800m overhaul and new Mona Lisa space",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260518-louvre-picks-architects-for-%E2%82%AC800m-overhaul-and-new-mona-lisa-space",
-      "published_date": "2026-05-18T14:47:53+00:00",
       "category": "Local Events"
     }
   ]
