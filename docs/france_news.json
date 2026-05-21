@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-05-21T00:05:07.094780+00:00",
-  "story_count": 87,
+  "last_updated": "2026-05-21T14:11:40.732035+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "France condemns Israel as it deports 37 French nationals over Gaza flotilla",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260521-france-condemns-israel-37-french-nationals-deported-over-gaza-flotilla",
+      "published_date": "2026-05-21T13:59:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "India-Africa summit postponed due to Ebola outbreak, first case confirmed in South Kivu",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260521-india-africa-summit-postponed-due-to-ebola-outbreak-first-case-confirmed-in-south-kivu",
+      "published_date": "2026-05-21T12:08:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany's Merz proposes Ukraine as EU ‘associate member’ without voting rights",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260521-germany-s-merz-proposes-ukraine-as-eu-associate-member-without-voting-rights",
+      "published_date": "2026-05-21T04:12:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: Fresh threat of attack from Belarus front, warns Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/21/ukraine-war-briefing-fresh-threat-of-attack-from-belarus-front-warns-zelenskyy",
+      "published_date": "2026-05-21T01:11:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Stellantis - Dongfeng Joint Venture will see Chinese maker's EVs built in France",
       "source": "France 24",
@@ -116,32 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EXPLAINED: How to calculate the value of your French property after renovations",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260520/explained-how-to-calculate-the-value-of-your-french-property-after-renovations",
-      "published_date": "2026-05-20T09:17:07+00:00",
-      "category": "Diplomacy"
+      "title": "Many Nato countries not spending enough to support Ukraine, says Rutte – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/21/czech-republic-petr-pavel-ukraine-baltics-drones-russia-nato-security-latest-news-updates",
+      "published_date": "2026-05-21T13:21:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Crony capitalism and oligarchy': 'Remarkable correlation' between Adani's rise & Modi’s ascendancy",
+      "title": "Russian secret services target Latvia as Ukraine's drone offensive worries the Kremlin",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260520-crony-capitalism-and-oligarchy-remarkable-correlation-between-adani-s-rise-modi-s-ascendancy",
-      "published_date": "2026-05-20T08:56:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260521-russian-secret-services-target-latvia-as-ukraine-s-drone-offensive-worries-the-kremlin",
+      "published_date": "2026-05-21T12:33:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "French government slams ‘disproportionate’ Canal+ riposte to anti-Bolloré petition",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260520/french-government-slams-disproportionate-canal-riposte-to-anti-bollore-petition",
-      "published_date": "2026-05-20T07:20:50+00:00",
-      "category": "Diplomacy"
+      "title": "Israel's Ben-Gvir sees 'no innocent people in Gaza or even Europe': Journalist Gideon Levy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260521-gideon-levy-says-ben-gvir-sees-all-of-gaza-as-hamas-no-innocent-people-in-gaza-or-even-europe",
+      "published_date": "2026-05-21T11:12:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU agrees to implement US trade pact after Trump threats",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260520/eu-agrees-to-implement-us-trade-pact-after-trump-threats",
-      "published_date": "2026-05-20T07:15:17+00:00",
-      "category": "Diplomacy"
+      "title": "Israel: Video of security minister taunting flotilla activists sparks outrage",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260521-israel-video-of-security-minister-taunting-flotilla-activists-sparks-outrage",
+      "published_date": "2026-05-21T11:05:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EasyJet boss says summer flights won't be hit by jet fuel shortages",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-21T11:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EasyJet summer holiday bookings down on last year amid Iran war uncertainty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/21/easyjet-summer-holiday-bookings-down-on-last-year-amid-iran-war-uncertainty",
+      "published_date": "2026-05-21T10:49:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Backlash against Israel's 'racist thug' Ben-Gvir over flotilla video",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260521-backlash-against-israel-s-racist-thug-ben-gvir-over-flotilla-video",
+      "published_date": "2026-05-21T10:37:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump escalates pressure on Cuba as US charges Raul Castro with murder",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260521-trump-escalates-pressure-on-cuba-as-us-charges-raul-castro-with-murder",
+      "published_date": "2026-05-21T10:25:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-21T05:04:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US needs to 'put its footprint back on Greenland', says Trump envoy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260521-us-needs-to-put-its-footprint-back-on-greenland-says-trump-envoy",
+      "published_date": "2026-05-21T00:12:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Why Russian jets intercepting an RAF spy plane is 'serious incident'",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Inside France's new voluntary military service scheme",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-inside-france-s-new-voluntary-military-service-scheme",
-      "published_date": "2026-05-20T15:08:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Charles de Gaulle and the French Resistance: History in the spotlight at Cannes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260520-charles-de-gaulle-and-the-french-resistance-history-in-the-spotlight-at-cannes",
-      "published_date": "2026-05-20T14:59:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Same but different: how Xi and China welcomed Trump and Putin",
+      "title": "Record number of dams dismantled in Europe in effort to help wildlife thrive",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/20/how-xi-jinping-china-welcomed-donald-trump-vladimir-putin",
-      "published_date": "2026-05-20T13:44:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Libyan prison chief known as 'Angel of Death' appears before ICC",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-libyan-prison-chief-known-as-angel-of-death-appears-before-icc",
-      "published_date": "2026-05-20T13:27:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Forced disappearances and torture: Ecuador’s war on drugs is brutal – and backed by US troops",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/may/20/forced-disappearances-torture-ecuador-war-on-drugs-us-troops",
-      "published_date": "2026-05-20T12:00:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump purges another Republican critic with Massie defeat in Kentucky",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-trump-purges-another-republican-critic-with-massie-defeat-in-kentucky",
-      "published_date": "2026-05-20T11:09:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Xi and Putin - Leaders praise 'unshakable foundations' at Beijing talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-xi-and-putin-leaders-praise-unshakable-foundations-at-beijing-talks",
-      "published_date": "2026-05-20T11:05:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns of war ‘beyond the region’ if US resumes attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-iran-warns-of-war-beyond-the-region-if-us-resumes-attacks",
-      "published_date": "2026-05-20T11:00:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Blinded and broken, Sunny the owl becomes another casualty of Russia’s war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/20/owl-casualty-of-russia-war-ukraine-birds",
-      "published_date": "2026-05-20T10:49:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘US imperialism’: Anger in Philippines as war with Iran sends oil prices soaring",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-us-imperialism-anger-in-philippines-as-war-with-iran-sends-oil-prices-soaring",
-      "published_date": "2026-05-20T09:39:12+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/may/21/record-number-of-dams-dismantled-in-europe-in-effort-to-help-wildlife-thrive",
+      "published_date": "2026-05-21T12:14:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "UN General Assembly backs world court climate ruling, US among nations opposing",
@@ -331,6 +338,48 @@
       "url": "https://www.france24.com/en/cuba-runs-out-of-fuel-diesel-amid-us-blockade",
       "published_date": "2026-05-14T20:42:47+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "'Late Show' host Stephen Colbert bows out after show cancelled",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260521-late-show-host-stephen-colbert-bows-out-after-show-cancelled",
+      "published_date": "2026-05-21T13:11:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Girl, two, dies after being left in car as extreme heat sweeps Spain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/21/girl-dies-car-extreme-heat-spain",
+      "published_date": "2026-05-21T10:39:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Samsung union suspends strike after reaching tentative pay deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260521-samsung-union-suspends-strike-after-reaching-tentative-pay-deal",
+      "published_date": "2026-05-21T10:10:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Embattled Bolivian leader announces cabinet reshuffle in bid to end crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260521-embattled-bolivian-leader-announces-cabinet-reshuffle-in-bid-to-end-crisis",
+      "published_date": "2026-05-21T09:34:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Chinese investment in Europe hits seven-year high but rebound may be short-lived",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260521-chinese-investment-in-europe-hits-seven-year-high-but-recovery-may-be-short",
+      "published_date": "2026-05-21T06:09:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Give every item a long life’: Vinted boss on how the site is moving beyond fashion",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/21/vinted-boss-adam-jay-fashion-uk-clothes-retail",
+      "published_date": "2026-05-21T05:00:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Streeting says he resigned because Labour ‘in fight of our lives against nationalism’, and is currently losing – as it happened",
@@ -431,185 +480,143 @@
       "category": "Economy"
     },
     {
-      "title": "Trump drops $10 billion IRS lawsuit in exchange for $1.7 billion fund for allies",
+      "title": "More than a dozen arrested in France schools abuse scandal",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260518-trump-drops-10-billion-irs-lawsuit-exchange-for-1-7-billion-for-allies-anti-weaponization-fund",
-      "published_date": "2026-05-18T16:55:36+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260521-more-than-a-dozen-arrested-in-france-schools-abuse-scandal",
+      "published_date": "2026-05-21T13:10:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "G7 finance ministers meet amid Middle East war economic fallout",
+      "title": "Combatting the ‘systematic pattern’ of femicide in Kenya",
       "source": "France 24",
-      "url": "https://www.france24.com/en/g7-finance-ministers-meet-amid-middle-east-war-economic-fallout",
-      "published_date": "2026-05-18T12:47:19+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260521-combatting-the-systematic-pattern-of-femicide-in-kenya",
+      "published_date": "2026-05-21T13:08:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Shakira wins £50m tax refund from Spanish government",
+      "title": "French court finds Air France, Airbus guilty over 2009 Rio-Paris crash",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260521-french-court-finds-air-france-airbus-guilty-over-2009-rio-paris-crash",
+      "published_date": "2026-05-21T13:07:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-18T11:58:54+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-21T13:07:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Shakira in line for €55m payout as Spanish court rules tax fines were wrong",
+      "title": "French court finds Air France and Airbus guilty of involuntary manslaughter over 2009 crash",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260521/french-court-finds-air-france-and-airbus-guilty-of-involuntary-manslaughter-over-2009-crash",
+      "published_date": "2026-05-21T12:47:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'French Banksy' and Daft Punk star turn Paris bridge into Alpine cave",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260521/french-banksy-and-daft-punk-star-turn-paris-bridge-into-alpine-cave",
+      "published_date": "2026-05-21T12:43:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gun violence in Guadeloupe: A never-ending fight against firearms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260521-gun-violence-in-guadeloupe-a-never-ending-fight-against-firearms",
+      "published_date": "2026-05-21T12:39:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Air France and Airbus guilty of corporate manslaughter for 2009 plane crash",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/may/18/spain-tax-agency-shakira-55m-payout-wrongful-fines",
-      "published_date": "2026-05-18T11:01:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "G7 finance ministers meet in Paris as headwinds mount for global economy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260518-g7-finance-ministers-meet-in-paris-as-headwinds-mount-for-global-economy",
-      "published_date": "2026-05-18T09:52:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bolivian police clash with protesters blocking roads into La Paz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/bolivian-police-clash-with-protesters-blocking-roads-into-la-paz",
-      "published_date": "2026-05-17T16:28:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US lifts sanctions against Francesca Albanese, UN rapporteur on Palestinians",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260520-us-lifts-sanctions-francesca-albanese-un-rapporteur-on-palestinians",
-      "published_date": "2026-05-20T22:41:12+00:00",
+      "url": "https://www.theguardian.com/world/2026/may/21/air-france-airbus-guilty-corporate-manslaughter-2009-plane-crash",
+      "published_date": "2026-05-21T12:38:43+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Police sue to block Jan 6 rioters from payouts via Trump's 'Anti-Weaponization Fund'",
+      "title": "French court finds Air France, Airbus guilty of involuntary manslaughter over 2009 Rio-Paris crash",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260520-police-sue-block-jan-6-rioters-from-payouts-via-trump-anti-weaponization-fund",
-      "published_date": "2026-05-20T19:28:35+00:00",
+      "url": "https://www.france24.com/en/france/20260521-french-court-finds-air-france-airbus-guilty-of-involuntary-manslaughter-over-2009-crash",
+      "published_date": "2026-05-21T12:15:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Norwegian court blocks extradition to Greece of migrant rights activist",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/20/norwegian-court-blocks-extradition-greece-tommy-olsen-migrant-rights-activist",
-      "published_date": "2026-05-20T17:37:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British Council staff in Italy to strike over proposed 80% workforce cut",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/20/british-council-staff-italy-strike-workforce-cut",
-      "published_date": "2026-05-20T16:55:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French star Bruel urged to cancel concerts amid rape claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-french-star-bruel-urged-to-cancel-concerts-amid-rape-claims",
-      "published_date": "2026-05-20T15:14:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivia’s capital under siege as protests and blockades deepen crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-bolivia-s-capital-under-siege-as-protests-and-blockades-deepen-crisis",
-      "published_date": "2026-05-20T15:09:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lithuanian lawmakers shelter, air traffic suspended over drone alert",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-lithuanian-lawmakers-shelter-air-traffic-suspended-over-drone-alert",
-      "published_date": "2026-05-20T15:05:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US small businesses hoping for World Cup bonanza",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-us-small-businesses-hoping-for-world-cup-bonanza",
-      "published_date": "2026-05-20T15:04:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Star Wars spin-off hits screens while French history resurfaces at Cannes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260520-star-wars-spin-off-hits-screens-while-french-history-resurfaces-at-cannes",
-      "published_date": "2026-05-20T14:30:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya transport strike over fuel price hikes called off",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-kenya-transport-strike-over-fuel-price-hikes-called-off",
-      "published_date": "2026-05-20T13:24:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela releases 300 prisoners under amnesty law",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-venezuela-releases-300-prisoners-under-amnesty-law",
-      "published_date": "2026-05-20T13:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "United States to fund Ebola clinics as aid cuts blamed for spread of virus",
+      "title": "Campaigners take French state to court over toxic ‘forever chemicals’",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260520-united-states-to-fund-ebola-clinics-as-aid-cuts-blamed-for-spread-of-virus",
-      "published_date": "2026-05-20T13:19:39+00:00",
+      "url": "https://www.rfi.fr/en/france/20260521-campaigners-take-french-state-to-court-over-toxic-forever-chemicals-pfas",
+      "published_date": "2026-05-21T10:56:45+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The lesson from John Travolta’s dramatic new look: always dress for the job you want | Morwenna Ferrier",
+      "title": "Verdict due in Rio-Paris plane crash appeals case",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260521-verdict-due-in-rio-paris-plane-crash-appeals-case",
+      "published_date": "2026-05-21T10:55:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France marks 25 years since landmark slavery law",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260521-france-marks-25-years-since-landmark-slavery-law",
+      "published_date": "2026-05-21T09:37:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola outbreak: Inside one of DR Congo’s hardest hit villages",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260521-ebola-outbreak-inside-one-of-dr-congo-s-hardest-hit-villages",
+      "published_date": "2026-05-21T09:35:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France ponders failure to protect children as school abuse scandal rocks Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260521-france-failure-protect-children-school-abuse-scandal-rocks-paris-gregoire",
+      "published_date": "2026-05-21T09:34:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SpaceX unveils plans to go public, with $1.75 trillion valuation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260521-spacex-unveils-plans-to-go-public-with-1-75-trillion-valuation",
+      "published_date": "2026-05-21T09:27:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris Mayor promises a 'right to beauty' in all neighbourhoods",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260521/paris-mayor-promises-a-right-to-beauty-in-all-neighbourhoods",
+      "published_date": "2026-05-21T09:25:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'All my hopes and dreams shattered': French château scam victims speak out",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260521/all-my-hopes-and-dreams-shattered-french-chateau-scam-victims-speak-out",
+      "published_date": "2026-05-21T08:27:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court finds Air France, Airbus guilty of involuntary manslaughter over 2009 crash",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260521-french-court-to-rule-on-air-france-and-airbus-appeal-over-2009-rio-paris-crash",
+      "published_date": "2026-05-21T07:11:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dublin gangland figure brings extremist views to Irish mainstream on campaign trail",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/20/john-travolta-cannes-festival-beret-glasses-new-look",
-      "published_date": "2026-05-20T12:15:08+00:00",
+      "url": "https://www.theguardian.com/world/2026/may/21/gerry-hutch-dublin-byelection-campaign-extremist-views-irish-mainstream",
+      "published_date": "2026-05-21T06:00:03+00:00",
       "category": "Local Events"
     },
     {
-      "title": "EXPLAINED: Could an embezzlement probe cost French centrist Philippe the election?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260520/explained-could-an-embezzlement-probe-cost-french-centrist-philippe-the-election",
-      "published_date": "2026-05-20T12:14:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As Palestinians mark Nakba, Israelis celebrate conquest of East Jerusalem",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260520-as-palestinians-mark-nakba-israelis-celebrate-conquest-of-east-jerusalem",
-      "published_date": "2026-05-20T11:49:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French presidential candidate Philippe targeted in embezzlement probe",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260520/french-presidential-candidate-philippe-targeted-in-embezzlement-probe",
-      "published_date": "2026-05-20T11:07:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Los Angeles World Cup workers vow strike if ICE deployed at stadium",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-los-angeles-world-cup-workers-vow-strike-if-ice-deployed-at-stadium",
-      "published_date": "2026-05-20T11:07:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cannes pays tribute to ‘Thelma and Louise’ in festival poster",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-cannes-pays-tribute-to-thelma-and-louise-in-festival-poster",
-      "published_date": "2026-05-20T09:47:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court names Mango tycoon's son as suspect in probe into father's death",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-court-names-mango-tycoon-s-son-as-suspect-in-probe-into-father-s-death",
-      "published_date": "2026-05-20T09:42:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France encourages women to report rape as singer faces allegations",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260520/france-encourages-women-to-report-rape-as-singer-faces-allegations",
-      "published_date": "2026-05-20T07:01:41+00:00",
+      "title": "Pedro Sánchez is loved everywhere – but not so much in Spain. Here’s why | María Ramírez",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/21/pedro-sanchez-loved-everywhere-not-so-much-spain-andalusia-voters-another-comeback",
+      "published_date": "2026-05-21T04:00:00+00:00",
       "category": "Local Events"
     }
   ]
