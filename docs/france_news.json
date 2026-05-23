@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-05-23T00:03:53.760605+00:00",
-  "story_count": 86,
+  "last_updated": "2026-05-23T11:57:29.289022+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/23/uk-eu-european-union-reset-david-miliband-single-market-goods",
+      "published_date": "2026-05-23T10:26:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mexico, EU sign stalled trade deal as they aim to diversify from US",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mexico-eu-sign-stalled-trade-deal-as-they-aim-to-diversify-from-us",
+      "published_date": "2026-05-23T10:02:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK, German and French aid cuts will take ‘devastating toll’ on most vulnerable, says study",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/may/23/uk-german-and-french-aid-cuts-will-take-devastating-toll-on-most-vulnerable-says-study",
+      "published_date": "2026-05-23T10:00:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba: Castro backers rally in front of United States embassy in Havana",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/cuba-castro-backers-rally-in-front-of-united-states-embassy-in-havana",
+      "published_date": "2026-05-23T09:56:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "This is how to defeat Vladimir Putin | Timothy Garton Ash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/23/defeat-vladimir-putin-russia-ukraine-nato-eu",
+      "published_date": "2026-05-23T05:00:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French stars are rightly worried by billionaire Vincent Bolloré. Here’s how to rein him in",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/23/french-stars-are-rightly-worried-by-billionaire-vincent-bollore-heres-how-to-rein-him-in",
+      "published_date": "2026-05-23T04:00:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio begins India visit to bolser ties after Trump's China summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260523-rubio-in-india-to-bolser-ties-after-trump-s-china-visit",
+      "published_date": "2026-05-23T03:09:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Health workers struggle with Ebola outbreak as WHO declares highest risk level in DR Congo",
       "source": "France 24",
@@ -95,53 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Electoral reform and reversing Brexit: they’re more connected than you might think | Tom Baldwin",
+      "title": "Tulsi Gabbard resigns as Trump’s national intelligence director",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tulsi-gabbard-resigns-as-trump-s-national-intelligence-director",
+      "published_date": "2026-05-23T10:14:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in the Middle East: US-Iran talks make headway",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-us-iran-talks-make-headway",
+      "published_date": "2026-05-23T09:49:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: Iran’s armed forces 'rebuilt' during ceasefire with US, says top negotiator",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260523-live-iran-considers-latest-peace-proposal-accuses-us-of-excessive-demands",
+      "published_date": "2026-05-23T05:45:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Putin promises revenge after blaming Kyiv for Luhansk attack he says killed six",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/22/electoral-reform-reverse-brexit-labour-leadership-eu-debate",
-      "published_date": "2026-05-22T10:33:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Greenlanders demonstrate against Trump as US diplomats open new consulate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260522-greenlanders-demonstrate-against-trump-as-us-diplomats-open-new-consulate",
-      "published_date": "2026-05-22T09:56:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron urges caution on reparations as France confronts slavery legacy",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260522/macron-urges-caution-on-reparations-as-france-confronts-slavery-legacy",
-      "published_date": "2026-05-22T06:44:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron opens debate on reparations for France’s role in slave trade",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260522-macron-opens-debate-on-reparations-for-france-s-role-in-slave-trade",
-      "published_date": "2026-05-22T06:25:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NATO ministers seek clarity after Trump’s ‘confusing’ about-face on US troops in Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260522-nato-allies-to-sound-out-us-top-diplomat-after-trump-iran-ire",
-      "published_date": "2026-05-22T02:39:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rubio questions Cuba diplomatic path as Trump raises prospect of military action",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260521-rubio-questions-cuba-diplomatic-path-as-trump-raises-prospect-of-military-action",
-      "published_date": "2026-05-21T23:45:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ben Gvir's flotilla video: Netanyahu has 'lost control of the government'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260521-ben-gvir-netanyahu-has-lost-control-of-the-government",
-      "published_date": "2026-05-21T21:52:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/23/ukraine-war-briefing-putin-promises-revenge-after-blaming-kyiv-for-luhansk-attack-he-says-killed-six",
+      "published_date": "2026-05-23T01:49:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Rubio urges more support from NATO allies to help end Iran war",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Tipping point? The scramble to contain global energy crisis",
+      "title": "China coal mine explosion kills at least 90 people, more missing",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260521-tipping-point",
-      "published_date": "2026-05-21T19:49:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Penélope Cruz and Glenn Close star in Spanish civil war gay drama at Cannes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260521-pen%C3%A9lope-cruz-and-glenn-close-star-in-spanish-civil-war-gay-drama-at-cannes",
-      "published_date": "2026-05-21T18:48:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's Baltic allies unsettled by repeated drone incursions",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp3pzg491ypo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-21T18:39:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Black Ball review – the complicated secrets of gay sexuality in Spain are brilliantly told",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/21/the-black-ball-review-the-complicated-secrets-of-gay-sexuality-in-spain-are-brilliantly-told",
-      "published_date": "2026-05-21T18:35:36+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/asia-pacific/20260523-coal-mine-gas-explosion-in-china-kills-at-least-82-people-reports-state-media",
+      "published_date": "2026-05-23T05:56:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "The Dreamed Adventure review – beautiful but opaque Bulgarian tale of digging up the past",
@@ -324,6 +331,27 @@
       "url": "https://www.france24.com/en/video/20260519-brush-fire-near-los-angeles-forces-thousands-to-evacuate",
       "published_date": "2026-05-19T16:18:35+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Pope meets families whose loved ones’ deaths were linked to mafia toxic waste",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/23/pope-families-children-toxic-waste-italy-land-of-fires-cancer-naples",
+      "published_date": "2026-05-23T10:11:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Can hybrid village stores answer rural Germany’s ‘cry for help’ and fend off far right?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/23/hybrid-village-stores-rural-germany-fend-off-far-right",
+      "published_date": "2026-05-23T05:00:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Senegal's president fires PM Sonko, dissolves government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260523-senegal-s-president-sacks-pm-after-months-of-tensions",
+      "published_date": "2026-05-23T01:25:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
@@ -445,25 +473,32 @@
       "category": "Economy"
     },
     {
-      "title": "Streeting says he resigned because Labour ‘in fight of our lives against nationalism’, and is currently losing – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/20/keir-starmer-wes-streeting-labour-leadership-kemi-badenoch-pmqs-conservatives-reform-uk-politics-latest-news-updates",
-      "published_date": "2026-05-20T16:18:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Germany urged to stop admiring Beijing and wake up to ‘China Shock 2.0’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/20/germany-urged-stop-admiring-beijing-china-deindustrialisation",
-      "published_date": "2026-05-20T09:25:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "IRS will not pursue Trump for back taxes under settlement agreement",
+      "title": "Turkey: Thousands rally after court ousts Turkish opposition leader",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260519-irs-trump-back-taxes-settlement-agreement",
-      "published_date": "2026-05-19T22:29:28+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/turkey-thousands-rally-after-court-ousts-turkish-opposition-leader",
+      "published_date": "2026-05-23T10:10:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French mother of boys abandoned in Portugal returns to court",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260523/french-mother-of-boys-abandoned-in-portugal-returns-to-court",
+      "published_date": "2026-05-23T09:57:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lens beat Nice to win French Cup for first time",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260522-lens-beat-nice-to-win-french-cup-for-first-time",
+      "published_date": "2026-05-22T21:20:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bolivian President Paz targeted by new mass protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260522-police-protesters-clash-in-new-marches-against-bolivian-leader",
+      "published_date": "2026-05-22T20:43:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "From Serena to Coco: How to Coach a Tennis Superstar",
@@ -575,34 +610,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-22T11:34:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carlo Petrini, Slow Food movement founder, dies aged 76",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/22/carlo-petrini-slow-food-movement-founder-dies-aged-76",
-      "published_date": "2026-05-22T11:14:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Guiana court dismisses illegal gold mining lawsuit against state",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260522-french-guiana-court-dismisses-illegal-gold-mining-lawsuit-against-state",
-      "published_date": "2026-05-22T11:08:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris: Far-right blamed as football fans riot",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260522-paris-far-right-blamed-as-football-fans-riot",
-      "published_date": "2026-05-22T10:52:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T10:45:27+00:00",
       "category": "Local Events"
     }
   ]
