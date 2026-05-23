@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-05-23T11:57:29.289022+00:00",
-  "story_count": 87,
+  "last_updated": "2026-05-23T23:54:15.159593+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "EES border system suspended at Dover amid bank holiday chaos",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260523/ees-border-system-suspended-at-dover-amid-bank-holiday-chaos",
+      "published_date": "2026-05-23T14:12:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Extra EU border checks suspended at Dover as travellers face delays in heat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/23/extra-eu-border-checks-ees-suspended-dover-travel-delays-hot-weather",
+      "published_date": "2026-05-23T14:10:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France bars Israeli minister over 'brutalised' Gaza flotilla activists",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260523-france-bars-israeli-minister-itamar-ben-gvir-over-gaza-flotilla-activists",
+      "published_date": "2026-05-23T13:12:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
       "source": "The Guardian",
@@ -43,6 +64,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/may/23/french-stars-are-rightly-worried-by-billionaire-vincent-bollore-heres-how-to-rein-him-in",
       "published_date": "2026-05-23T04:00:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK officials suggested single market for goods with Europe",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr5plpm3g2ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-23T03:47:28+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hantavirus and the lessons of Covid: Screening the EU's public health response",
+      "title": "'Significant movement here in Washington': US and Iran report progress towards deal on ending war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260522-hantavirus-and-the-lessons-of-covid-screening-the-eu-s-public-health-response",
-      "published_date": "2026-05-22T12:53:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/significant-movement-here-in-washington-us-and-iran-report-progress-towards-deal-on-ending-war",
+      "published_date": "2026-05-23T19:27:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump’s ‘disappointment’ with Nato lays groundwork for ‘one of the most important’ summits ever, Rubio says – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/22/nato-mark-rutte-us-donald-trump-troops-poland-summit-russia-baltics-drones-tensions-ukraine-latest-news-updates",
-      "published_date": "2026-05-22T12:51:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France's centrist ex-PM Gabriel Attal, 37, says running for president",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260522/frances-centrist-ex-pm-gabriel-attal-37-says-running-for-president",
-      "published_date": "2026-05-22T11:57:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Full-on summer heat’: western Europe braces for unusually high temperatures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/22/western-europe-braces-first-heat-event-summer",
-      "published_date": "2026-05-22T11:01:08+00:00",
-      "category": "Diplomacy"
+      "title": "Iran, US and Pakistan report progress in talks on ending war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260523-iran-us-and-pakistan-report-progress-in-talks-on-ending-war",
+      "published_date": "2026-05-23T13:03:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Tulsi Gabbard resigns as Trump’s national intelligence director",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US Navy official says Taiwan arm sales on 'pause' over Iran war",
+      "title": "Coal mine explosion in China kills 90 people, state media say",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260522-us-navy-official-says-taiwan-arm-sales-on-pause-over-iran-war",
-      "published_date": "2026-05-22T09:48:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump to deploy 5,000 US troops to Poland after earlier plan was canceled",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260521-trump-to-deploy-5-000-us-troops-to-poland-after-earlier-plan-was-canceled",
-      "published_date": "2026-05-21T21:36:25+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/coal-mine-explosion-in-china-kills-90-people-state-media-say",
+      "published_date": "2026-05-23T14:46:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "China coal mine explosion kills at least 90 people, more missing",
@@ -331,6 +338,13 @@
       "url": "https://www.france24.com/en/video/20260519-brush-fire-near-los-angeles-forces-thousands-to-evacuate",
       "published_date": "2026-05-19T16:18:35+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "From high BMI to the ‘GLP-1 look’: how weight-loss jabs are changing the face of beauty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/may/23/mona-lisa-high-bmi-glp1-beauty",
+      "published_date": "2026-05-23T14:12:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pope meets families whose loved ones’ deaths were linked to mafia toxic waste",
@@ -466,11 +480,74 @@
       "category": "Economy"
     },
     {
-      "title": "‘Give every item a long life’: Vinted boss on how the site is moving beyond fashion",
+      "title": "Ebola epidemic: Ten African countries at risk",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260523-ebola-epidemic-ten-african-countries-at-risk",
+      "published_date": "2026-05-23T21:56:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gisèle Pelicot tells Hay festival she has found love and trust again after rape ordeal",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/21/vinted-boss-adam-jay-fashion-uk-clothes-retail",
-      "published_date": "2026-05-21T05:00:01+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/may/23/gisele-pelicot-hay-festival-fell-in-love-trust-after-ordeal",
+      "published_date": "2026-05-23T18:40:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI, Palantir & the Pushback: AI, Palantir & the Pushback: The London Mayor Vs the Met Police",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260523-ai-palantir-the-pushback-sadiq-khan-s-much-discussed-decision-over-met-police-contract",
+      "published_date": "2026-05-23T18:25:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey courts Libya's rival factions in bid to further Mediterranean ambitions",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260523-turkey-courts-libya-s-rival-factions-in-bid-to-further-mediterranean-ambitions",
+      "published_date": "2026-05-23T16:15:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women's Champions League final: Lyon, Barcelona clash for European crown",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260523-women-s-champions-league-final-lyon-barcelona-clash-for-european-crown",
+      "published_date": "2026-05-23T16:14:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia says 16 killed in strike on student dorm that it blamed on Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-says-16-killed-in-strike-on-student-dorm-that-it-blamed-on-ukraine",
+      "published_date": "2026-05-23T14:40:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police, protesters clash in new marches against Bolivian leader",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/police-protesters-clash-in-new-marches-against-bolivian-leader",
+      "published_date": "2026-05-23T14:35:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uganda confirms three new Ebola cases as Africa CDC warns 10 countries 'at risk'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260523-uganda-confirms-three-new-ebola-cases-as-africa-cdc-warns-10-countries-at-risk",
+      "published_date": "2026-05-23T14:19:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lens clinch first-ever Coupe de France triumph after seeing off Nice",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260523-lens-clinch-first-ever-coupe-de-france-triumph-after-seeing-off-nice",
+      "published_date": "2026-05-23T13:30:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former F1 world champion Alain Prost reportedly injured in robbery at Swiss home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/may/23/f1-world-champion-alain-prost-injured-robbery-switzerland",
+      "published_date": "2026-05-23T12:11:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Turkey: Thousands rally after court ousts Turkish opposition leader",
@@ -484,6 +561,13 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260523/french-mother-of-boys-abandoned-in-portugal-returns-to-court",
       "published_date": "2026-05-23T09:57:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-22T23:07:55+00:00",
       "category": "Local Events"
     },
     {
@@ -533,83 +617,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260522-air-france-flight-to-us-diverted-to-montreal-due-to-ebola-travel-restrictions",
       "published_date": "2026-05-22T15:40:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fashion capital Paris was 'epicentre' of Epstein network, new book claims",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260522-fashion-capital-paris-was-epicentre-of-epstein-network-new-book-claims",
-      "published_date": "2026-05-22T15:34:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sabalenka cuts media short as French Open players protest",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T14:59:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is the #MeToo movement dead?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-51/20260522-is-the-metoo-movement-dead",
-      "published_date": "2026-05-22T14:48:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court keeps low-emission driving bans despite growing backlash",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260522-french-court-keeps-low-emission-driving-bans-despite-growing-backlash",
-      "published_date": "2026-05-22T14:34:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Is this really the 'smallest apartment in Paris'?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260522/video-is-this-really-the-smallest-apartment-in-paris",
-      "published_date": "2026-05-22T13:59:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Congo protesters set fire to Ebola treatment tents in dispute over victim's body",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260522-congo-protesters-set-fire-to-ebola-treatment-tents-in-dispute-over-victim-s-body",
-      "published_date": "2026-05-22T13:15:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Section of Eiffel Tower spiral staircase sells for €450,000 at auction",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260522-section-of-eiffel-tower-spiral-staircase-sells-for-%E2%82%AC450-000-at-auction",
-      "published_date": "2026-05-22T13:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds protest over Ireland's 'George Floyd moment' after death of Congolese-born man – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/may/22/hundreds-protest-over-irelands-george-floyd-moment-after-death-of-congolese-born-man-video",
-      "published_date": "2026-05-22T12:55:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘My parents didn’t talk about the past’: how director Caroline Huppert recovered her family’s wartime secrets",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/may/22/caroline-huppert-une-histoire-cachee-second-world-war-antisemitism-nazi-france",
-      "published_date": "2026-05-22T12:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ireland’s ‘George Floyd moment’ sparks protests demanding justice for Congolese man",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260522-ireland-s-george-floyd-moment-sparks-protests-demanding-justice-for-congolese-man",
-      "published_date": "2026-05-22T11:48:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T11:34:48+00:00",
       "category": "Local Events"
     }
   ]
