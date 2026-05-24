@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-05-23T23:54:15.159593+00:00",
+  "last_updated": "2026-05-24T11:59:02.219358+00:00",
   "story_count": 88,
   "stories": [
+    {
+      "title": "Macron, EU’s Kallas condemn Russian attack on Ukraine with Oreshnik ballistic missile",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260524-russian-ballistic-missile-attack-hits-kyiv-after-moscow-vows-retaliation",
+      "published_date": "2026-05-24T10:30:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How women are paving their own way through Africa's tech sector",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260524-how-women-are-paving-their-own-way-through-africa-s-tech-sector",
+      "published_date": "2026-05-24T06:58:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EES border system suspended at Dover amid bank holiday chaos",
       "source": "The Local France",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cubans gather before US embassy in Havana to protest Raul Castro indictment",
+      "title": "War in Ukraine: Russia launches massive missile strike on Kyiv",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260522-cubans-gather-before-us-embassy-in-havana-to-protest-raul-castro-indictment",
-      "published_date": "2026-05-22T13:55:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/war-in-ukraine-russia-launches-massive-strike-on-kyiv",
+      "published_date": "2026-05-24T11:29:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "NATO ministers sound out US on Trump's 'confusing' troop moves",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-24T10:52:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Iran deal 'largely negotiated', would reopen Strait of Hormuz",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260522-nato-ministers-sound-out-us-on-trump-s-confusing-troop-moves",
-      "published_date": "2026-05-22T13:16:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/trump-says-iran-deal-largely-negotiated-would-reopen-strait-of-hormuz",
+      "published_date": "2026-05-24T10:11:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in the Middle East: Trump says Iran deal 'largely negociated'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-trump-says-iran-deal-largely-negociated",
+      "published_date": "2026-05-24T09:54:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in Ukraine: Russian strikes hit a school killing one person",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-ukraine-russian-strikes-hit-a-school",
+      "published_date": "2026-05-24T09:50:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/24/ukraine-war-briefing-zelenskyy-sounds-warning-after-russia-strikes-kyiv-with-oreshnik-missile",
+      "published_date": "2026-05-24T05:42:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Despite Middle East war, foreign pilgrims flock to Mecca for hajj",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260524-despite-middle-east-war-foreign-pilgrims-flock-to-mecca-for-hajj",
+      "published_date": "2026-05-24T05:39:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘There is profound disappointment in him’: mood in Russia turns against Putin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/24/there-is-profound-disappointment-in-him-mood-in-russia-turns-against-putin",
+      "published_date": "2026-05-24T05:00:47+00:00",
+      "category": "Military"
     },
     {
       "title": "'Significant movement here in Washington': US and Iran report progress towards deal on ending war",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "REPLAY: NATO foreign ministers meet in Sweden",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260522-replay-nato-foreign-ministers-meet-in-sweden",
-      "published_date": "2026-05-22T13:17:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latvia: Standing with Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/reporters/20260522-latvia-standing-with-ukraine",
-      "published_date": "2026-05-22T12:55:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Standard Chartered boss apologises for ‘lower-value human capital’ comments amid job cuts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/22/standard-chartered-boss-apologises-for-lower-value-human-capital-comments-amid-job-cuts",
-      "published_date": "2026-05-22T11:39:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nato chief welcomes US sending 5,000 troops to Poland",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T11:39:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump to send additional 5,000 troops to Poland in apparent U-turn",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260522-trump-to-send-additional-5-000-troops-to-poland-in-apparent-u-turn",
-      "published_date": "2026-05-22T11:06:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says sending 5,000 US troops to Poland",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260522-trump-says-sending-5-000-us-troops-to-poland",
-      "published_date": "2026-05-22T10:24:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine hits Russian oil refinery, Zelensky says, as Kyiv intensifies new tactic",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260522-ukraine-hits-russian-oil-refinery-zelensky-says-as-kyiv-intensifies-new-tactic",
-      "published_date": "2026-05-22T10:13:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanese accuse Israel of wiping their towns off the map",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260522-lebanese-accuse-israel-of-wiping-their-towns-off-the-map",
-      "published_date": "2026-05-22T09:49:42+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Coal mine explosion in China kills 90 people, state media say",
       "source": "France 24",
       "url": "https://www.france24.com/en/coal-mine-explosion-in-china-kills-90-people-state-media-say",
@@ -338,6 +338,34 @@
       "url": "https://www.france24.com/en/video/20260519-brush-fire-near-los-angeles-forces-thousands-to-evacuate",
       "published_date": "2026-05-19T16:18:35+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Senegal football fans return home after royal pardon for Cup of Nations chaos",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260524-senegal-football-fans-return-home-after-royal-pardon-for-cup-of-nations-chaos",
+      "published_date": "2026-05-24T10:13:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Senegal's president sacks PM: Senegalese Parliament dissolved",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/senegal-s-president-sacks-pm-senegalese-parliament-dissolved",
+      "published_date": "2026-05-24T09:47:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Irish gangland figure fails in Dublin byelection bid for seat in parliament",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/24/irish-gangland-figure-hutch-fails-dublin-byelection-bid-for-seat-in-parliament",
+      "published_date": "2026-05-24T09:41:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Property renovation tips, medical specialists and tax traps: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260524/property-renovation-tips-medical-specialists-and-tax-traps-6-essential-articles-for-life-in-france",
+      "published_date": "2026-05-24T08:51:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "From high BMI to the ‘GLP-1 look’: how weight-loss jabs are changing the face of beauty",
@@ -452,32 +480,60 @@
       "category": "Economy"
     },
     {
-      "title": "Girl, two, dies after being left in car as extreme heat sweeps Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/21/girl-dies-car-extreme-heat-spain",
-      "published_date": "2026-05-21T10:39:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Samsung union suspends strike after reaching tentative pay deal",
+      "title": "Roland-Garros 2026: French Open starts amid heat wave in Paris",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260521-samsung-union-suspends-strike-after-reaching-tentative-pay-deal",
-      "published_date": "2026-05-21T10:10:57+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/roland-garros-2026-french-open-starts-amid-heat-wave-in-paris",
+      "published_date": "2026-05-24T10:38:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Embattled Bolivian leader announces cabinet reshuffle in bid to end crisis",
+      "title": "More than 20 people killed in suicide bombing targeting Pakistani passenger train",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260521-embattled-bolivian-leader-announces-cabinet-reshuffle-in-bid-to-end-crisis",
-      "published_date": "2026-05-21T09:34:34+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/asia-pacific/20260524-more-than-20-people-killed-in-suicide-bombing-targeting-pakistani-passenger-train",
+      "published_date": "2026-05-24T10:12:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Chinese investment in Europe hits seven-year high but rebound may be short-lived",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260521-chinese-investment-in-europe-hits-seven-year-high-but-recovery-may-be-short",
-      "published_date": "2026-05-21T06:09:40+00:00",
-      "category": "Economy"
+      "title": "Protesters clash with police after an anti-government rally in Serbia's capital",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/protesters-clash-with-police-after-an-anti-government-rally-in-serbia-s-capital",
+      "published_date": "2026-05-24T10:08:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court hands man 25-year term for torture and rape of ex-partner",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260524/french-court-hands-man-25-year-term-for-torture-rape-of-ex-partner",
+      "published_date": "2026-05-24T10:02:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France bans Israeli minister Itamar Ben-Gvir after 'unspeakable' behavior",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-bans-israeli-minister-itamar-ben-gvir-after-unspeakable-behavior",
+      "published_date": "2026-05-24T09:59:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Premier League: Pep Guardiola set for emotional Manchester City farewell",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260524-premier-league-pep-guardiola-set-for-emotional-manchester-city-farewell",
+      "published_date": "2026-05-24T09:20:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Djokovic headlines opening day at French Open",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260524-djokovic-headlines-opening-day-at-french-open",
+      "published_date": "2026-05-24T05:19:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-23T23:34:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ebola epidemic: Ten African countries at risk",
@@ -561,62 +617,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260523/french-mother-of-boys-abandoned-in-portugal-returns-to-court",
       "published_date": "2026-05-23T09:57:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T23:07:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lens beat Nice to win French Cup for first time",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260522-lens-beat-nice-to-win-french-cup-for-first-time",
-      "published_date": "2026-05-22T21:20:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivian President Paz targeted by new mass protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260522-police-protesters-clash-in-new-marches-against-bolivian-leader",
-      "published_date": "2026-05-22T20:43:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Serena to Coco: How to Coach a Tennis Superstar",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260522-from-serena-to-coco-how-to-coach-a-tennis-superstar",
-      "published_date": "2026-05-22T19:27:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Gaza flotilla activists return to Paris, describe 'violent' detention by Israel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260522-french-gaza-flotilla-activists-return-to-paris-denounce-violent-detention-in-israel",
-      "published_date": "2026-05-22T19:23:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Birthday Party review – grimly compulsive unhappy occasion in deepest France",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/22/the-birthday-party-review-grimly-compulsive-unhappy-occasion-in-deepest-france",
-      "published_date": "2026-05-22T18:34:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cancoillotte’s comeback is no surprise | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/food/2026/may/22/cancoillottes-comeback-is-no-surprise",
-      "published_date": "2026-05-22T16:55:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Air France flight to US diverted to Montreal due to Ebola travel restrictions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260522-air-france-flight-to-us-diverted-to-montreal-due-to-ebola-travel-restrictions",
-      "published_date": "2026-05-22T15:40:32+00:00",
       "category": "Local Events"
     }
   ]
