@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-05-24T23:57:22.616330+00:00",
-  "story_count": 89,
+  "last_updated": "2026-05-25T13:57:06.676752+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "G7 scientists sound alarm as Arctic ice loss hits 50-year low",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260525-g7-scientists-sound-alarm-as-arctic-ice-loss-hits-50-year-low",
+      "published_date": "2026-05-25T12:32:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump Tower in Georgia to be built on land part-owned by son of US sanctions-hit leader",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader",
+      "published_date": "2026-05-25T12:00:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Work in progress': Washington seeks diplomatic exit from Iran war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/work-in-progress-washington-seeks-diplomatic-exit-from-iran-war",
+      "published_date": "2026-05-25T10:11:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France's Macron warns Belarus against involvement in Ukraine war: source",
       "source": "The Local France",
@@ -123,25 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Czech president urges Nato to ‘show its teeth’ over Russia’s provocations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/22/czech-president-petr-pavel-nato-show-teeth-russia-provocations",
-      "published_date": "2026-05-22T19:25:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump disappointed in NATO: Plan B?",
+      "title": "Settler violence in the West Bank intensifies against Palestinians",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260522-trump-disappointed-in-nato-plan-b",
-      "published_date": "2026-05-22T19:15:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/focus/20260525-settler-violence-in-the-west-bank-intensifies-against-palestinians",
+      "published_date": "2026-05-25T13:34:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "How Russia’s shadow fleet keeps slipping through Europe’s net",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260522-how-russia-s-shadow-fleet-keeps-slipping-through-europe-s-net",
-      "published_date": "2026-05-22T16:09:00+00:00",
-      "category": "Diplomacy"
+      "title": "'Our cycling is a form of resistance': Gaza Sunbirds co-founder Karim Ali",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260525-our-cycling-is-a-form-of-resistance-gaza-sunbirds-co-founder-karim-ali",
+      "published_date": "2026-05-25T13:05:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Kyiv residents endure 'worst night of the year' over the weekend",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260525-ukraine-kyiv-residents-endure-worst-night-of-the-year-over-the-weeked",
+      "published_date": "2026-05-25T12:49:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
+      "published_date": "2026-05-25T12:43:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Millions gather in Mecca for Hajj despite security concerns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/millions-gather-in-mecca-for-hajj-despite-security-concerns",
+      "published_date": "2026-05-25T12:20:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East: Deep mistrust clouds US-Iran negotiations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east-deep-mistrust-clouds-us-iran-negotiations",
+      "published_date": "2026-05-25T12:19:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ebola outbreak raises fears of wider spread in Central Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ebola-outbreak-raises-fears-of-wider-spread-in-central-africa",
+      "published_date": "2026-05-25T10:59:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Self-destructive' Putin loses home support as Ukraine war rages on",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260525-self-destructive-putin-loses-home-support-as-ukraine-war-rages-on",
+      "published_date": "2026-05-25T10:36:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil prices ease on renewed hopes of US-Iran peace deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260525-oil-prices-ease-on-renewed-hopes-of-us-iran-peace-deal",
+      "published_date": "2026-05-25T09:07:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Donald Trump slows momentum towards an Iran agreement",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/donald-trump-slows-momentum-towards-an-iran-agreement",
+      "published_date": "2026-05-25T08:53:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘A bridge, not an obstacle’: is Armenia a new crossroads between east and west?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/25/armenia-election-crossroads-between-east-west",
+      "published_date": "2026-05-25T07:40:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anti-Semitism was 'left unchecked’ in Australia after Gaza war, spy chief says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260525-anti-semitism-left-unchecked-australia-after-gaza-war-spy-chief-says",
+      "published_date": "2026-05-25T05:49:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘I had poked the bear right in the eye’: my fight to renounce my Russian citizenship – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/may/25/i-had-poked-the-bear-right-in-the-eye-my-fight-to-renounce-my-russian-citizenship-podcast",
+      "published_date": "2026-05-25T04:00:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Angela Merkel won’t be negotiating with Putin – but the rumour reflects a truth about the Ukraine war | Nathalie Tocci",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/25/angela-merkel-vladimir-putin-ukraine-war-kyiv",
+      "published_date": "2026-05-25T04:00:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: Trump urges Saudi Arabia, Qatar to sign Abraham Accords in Iran peace push",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260525-middle-east-war-live-rubio-says-iran-deal-still-possible-monday",
+      "published_date": "2026-05-25T03:41:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo XIV calls for 'robust' regulation of AI in sweeping manifesto",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260525-pope-leo-xiv-ai-manifesto-ethical-risks-global-impact",
+      "published_date": "2026-05-25T02:51:09+00:00",
+      "category": "Military"
     },
     {
       "title": "GPS jammed on RAF jet carrying UK defence secretary close to Russian border",
@@ -172,116 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/24/russia-hits-kyiv-ukraine-hypersonic-ballistic-missile",
-      "published_date": "2026-05-24T16:02:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European leaders condemn Russia's deadly ballistic missile attack on Ukraine",
+      "title": "Pacific Ocean warming fuels fears of powerful 'super El Nino'",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260524-european-leaders-condemn-russia-s-deadly-ballistic-missile-attack-on-ukraine",
-      "published_date": "2026-05-24T15:21:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia strikes Kyiv with hypersonic Oreshnik ballistic missile – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/may/24/russia-strikes-kyiv-hypersonic-oreshnik-ballistic-missile-video",
-      "published_date": "2026-05-24T12:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Iran closing in on deal to end war: Trump says it could reopen Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-iran-closing-in-on-deal-to-end-war-trump-says-it-could-reopen-hormuz",
-      "published_date": "2026-05-24T12:24:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Wiped out': Ukraine's bird lovers long for peaceful skies",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260524-wiped-out-ukraine-s-bird-lovers-long-for-peaceful-skies",
-      "published_date": "2026-05-24T12:15:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in Ukraine: Russia launches massive missile strike on Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/war-in-ukraine-russia-launches-massive-strike-on-kyiv",
-      "published_date": "2026-05-24T11:29:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-24T10:52:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Iran deal 'largely negotiated', would reopen Strait of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-says-iran-deal-largely-negotiated-would-reopen-strait-of-hormuz",
-      "published_date": "2026-05-24T10:11:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in the Middle East: Trump says Iran deal 'largely negociated'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/war-in-the-middle-east-trump-says-iran-deal-largely-negociated",
-      "published_date": "2026-05-24T09:54:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in Ukraine: Russian strikes hit a school killing one person",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/war-in-ukraine-russian-strikes-hit-a-school",
-      "published_date": "2026-05-24T09:50:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/24/ukraine-war-briefing-zelenskyy-sounds-warning-after-russia-strikes-kyiv-with-oreshnik-missile",
-      "published_date": "2026-05-24T05:42:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Despite Middle East war, foreign pilgrims flock to Mecca for hajj",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260524-despite-middle-east-war-foreign-pilgrims-flock-to-mecca-for-hajj",
-      "published_date": "2026-05-24T05:39:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘There is profound disappointment in him’: mood in Russia turns against Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/24/there-is-profound-disappointment-in-him-mood-in-russia-turns-against-putin",
-      "published_date": "2026-05-24T05:00:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Significant movement here in Washington': US and Iran report progress towards deal on ending war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/significant-movement-here-in-washington-us-and-iran-report-progress-towards-deal-on-ending-war",
-      "published_date": "2026-05-23T19:27:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, US and Pakistan report progress in talks on ending war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260523-iran-us-and-pakistan-report-progress-in-talks-on-ending-war",
-      "published_date": "2026-05-23T13:03:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tulsi Gabbard resigns as Trump’s national intelligence director",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tulsi-gabbard-resigns-as-trump-s-national-intelligence-director",
-      "published_date": "2026-05-23T10:14:31+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/environment/20260525-pacific-ocean-warming-fuels-fears-of-powerful-super-el-nino",
+      "published_date": "2026-05-25T05:56:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Could Alberta really leave Canada?",
@@ -345,6 +352,20 @@
       "url": "https://www.france24.com/en/video/20260519-brush-fire-near-los-angeles-forces-thousands-to-evacuate",
       "published_date": "2026-05-19T16:18:35+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "CGT chief faces defamation probe, warns French union freedom is at risk",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260525-cgt-chief-faces-defamation-probe-warns-french-union-freedom-is-at-risk",
+      "published_date": "2026-05-25T11:46:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Security and social reform dominate Colombia’s presidential race",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/security-and-social-reform-dominate-colombia-s-presidential-race",
+      "published_date": "2026-05-25T10:24:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Monkey business: artist chimps paint in their own style, study shows",
@@ -473,18 +494,81 @@
       "category": "Economy"
     },
     {
-      "title": "Iran war squeezes Europe’s economy as growth slumps, prices surge",
+      "title": "France swelters as first-ever May heatwave alert issued",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260521-iran-war-squeezes-europe-economy-growth-slumps-prices-surge-energy-shock",
-      "published_date": "2026-05-21T15:41:08+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20260525-france-swelters-as-first-ever-may-heatwave-alert-issued",
+      "published_date": "2026-05-25T12:03:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump's popularity plummets as inflation soars",
+      "title": "France braces for more heat after local May records",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260525/france-braces-for-more-heat-after-local-may-records",
+      "published_date": "2026-05-25T11:36:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Runners collapse as temperatures soar across France",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260521-trump-s-popularity-plummets-as-inflation-soars",
-      "published_date": "2026-05-21T14:51:31+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/runners-collapse-as-temperatures-soar-across-france",
+      "published_date": "2026-05-25T10:53:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India’s “Cockroach Janta Party” goes viral as Gen Z movement grows",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/india-s-cockroach-janta-party-goes-viral-as-gen-z-movement-grows",
+      "published_date": "2026-05-25T10:31:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rare Rubens notebook sheet goes on display in artist’s home city of Antwerp",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/25/rare-rubens-notebook-sheet-goes-on-display-in-artists-home-city-of-antwerp",
+      "published_date": "2026-05-25T10:00:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish police storm CHP headquarters amid political crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260525-turkish-police-storm-chp-headquarters-amid-political-crisis",
+      "published_date": "2026-05-25T08:57:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather tracker: flash floods in New York and a heat dome in Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/25/weather-tracker-flash-floods-new-york-heat-dome-europe",
+      "published_date": "2026-05-25T08:08:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Child found dead with towel round neck in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260525/child-found-dead-with-towel-round-neck-in-france",
+      "published_date": "2026-05-25T06:48:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kraken review – fjord-based rampage is monster movie with environmental message",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/25/kraken-review-fjord-based-rampage-is-monster-movie-with-environmental-message",
+      "published_date": "2026-05-25T06:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault",
+      "published_date": "2026-05-25T05:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The real danger of Islamophobia? It rarely announces itself as hatred yet shapes how millions think | Kenneth Mohammed",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/may/25/danger-islamophobia-antisemitism-hatred-anti-muslim-abuse",
+      "published_date": "2026-05-25T05:00:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "California declares state of emergency after toxic leak threatens thousands of residents",
@@ -547,83 +631,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260524-us-president-trump-not-harmed-and-safe-after-white-house-shooting",
       "published_date": "2026-05-24T12:10:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roland-Garros 2026: French Open starts amid heat wave in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/roland-garros-2026-french-open-starts-amid-heat-wave-in-paris",
-      "published_date": "2026-05-24T10:38:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 20 people killed in suicide bombing targeting Pakistani passenger train",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260524-more-than-20-people-killed-in-suicide-bombing-targeting-pakistani-passenger-train",
-      "published_date": "2026-05-24T10:12:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters clash with police after an anti-government rally in Serbia's capital",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/protesters-clash-with-police-after-an-anti-government-rally-in-serbia-s-capital",
-      "published_date": "2026-05-24T10:08:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court hands man 25-year term for torture and rape of ex-partner",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260524/french-court-hands-man-25-year-term-for-torture-rape-of-ex-partner",
-      "published_date": "2026-05-24T10:02:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France bans Israeli minister Itamar Ben-Gvir after 'unspeakable' behavior",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-bans-israeli-minister-itamar-ben-gvir-after-unspeakable-behavior",
-      "published_date": "2026-05-24T09:59:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Premier League: Pep Guardiola set for emotional Manchester City farewell",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260524-premier-league-pep-guardiola-set-for-emotional-manchester-city-farewell",
-      "published_date": "2026-05-24T09:20:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Djokovic headlines opening day at French Open",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260524-djokovic-headlines-opening-day-at-french-open",
-      "published_date": "2026-05-24T05:19:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-23T23:34:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola epidemic: Ten African countries at risk",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260523-ebola-epidemic-ten-african-countries-at-risk",
-      "published_date": "2026-05-23T21:56:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gisèle Pelicot tells Hay festival she has found love and trust again after rape ordeal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/23/gisele-pelicot-hay-festival-fell-in-love-trust-after-ordeal",
-      "published_date": "2026-05-23T18:40:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI, Palantir & the Pushback: AI, Palantir & the Pushback: The London Mayor Vs the Met Police",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260523-ai-palantir-the-pushback-sadiq-khan-s-much-discussed-decision-over-met-police-contract",
-      "published_date": "2026-05-23T18:25:18+00:00",
       "category": "Local Events"
     }
   ]
