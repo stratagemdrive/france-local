@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-05-26T00:02:42.217792+00:00",
-  "story_count": 92,
+  "last_updated": "2026-05-26T13:50:47.047802+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Europe swelters under unusually early heatwave",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe-swelters-under-unusually-early-heatwave",
+      "published_date": "2026-05-26T13:38:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Moscow wants to ‘destabilise’ Europe, EU chief warns, as countries summon Russian ambassadors over Kyiv threats – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/26/europe-ukraine-russia-lithuania-eu-heatwave-hungary-magyar-france-latest-news-updates",
+      "published_date": "2026-05-26T13:34:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Attal hardens migration line, with Macron camp split over 2027 presidential race",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260526-attal-hardens-migration-line-with-macron-camp-split-over-2027-presidential-race",
+      "published_date": "2026-05-26T12:06:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU could deny new member states veto rights as bloc pushes for enlargement",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/eu-could-deny-new-member-states-veto-rights-as-bloc-pushes-for-enlargement",
+      "published_date": "2026-05-26T10:27:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What is a heat dome, causing excessively high temperatures in western Europe?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/what-is-a-heat-dome-causing-excessively-high-temperatures-in-western-europe",
+      "published_date": "2026-05-26T10:05:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Seven deaths in France linked to record-high temperatures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/deaths-france-linked-record-high-temperatures",
+      "published_date": "2026-05-26T09:19:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France warns public after seven deaths linked to May heatwave",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260526/france-reports-seven-deaths-amid-heatwave",
+      "published_date": "2026-05-26T07:17:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: Russia pressures US to clear way for attacks on Kyiv",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/ukraine-war-briefing-russia-pressures-us-embassy-evacuate-attacks-kyiv",
+      "published_date": "2026-05-26T00:53:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Record May highs sweep across France as extreme heat hits western Europe",
       "source": "The Guardian",
@@ -29,6 +85,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/work-in-progress-washington-seeks-diplomatic-exit-from-iran-war",
       "published_date": "2026-05-25T10:11:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit red tape costs hit food firms",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c775mx4rnngo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-25T05:00:41+00:00",
       "category": "Diplomacy"
     },
     {
@@ -81,67 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/23/uk-eu-european-union-reset-david-miliband-single-market-goods",
-      "published_date": "2026-05-23T10:26:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mexico, EU sign stalled trade deal as they aim to diversify from US",
+      "title": "Kyiv braces for renewed attack, European allies condemn Moscow's call to abandon embassies",
       "source": "France 24",
-      "url": "https://www.france24.com/en/mexico-eu-sign-stalled-trade-deal-as-they-aim-to-diversify-from-us",
-      "published_date": "2026-05-23T10:02:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/kyiv-braces-for-renewed-attack-european-allies-condemn-moscow-s-call-to-abandon-embassies",
+      "published_date": "2026-05-26T13:44:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK, German and French aid cuts will take ‘devastating toll’ on most vulnerable, says study",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/may/23/uk-german-and-french-aid-cuts-will-take-devastating-toll-on-most-vulnerable-says-study",
-      "published_date": "2026-05-23T10:00:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cuba: Castro backers rally in front of United States embassy in Havana",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/cuba-castro-backers-rally-in-front-of-united-states-embassy-in-havana",
-      "published_date": "2026-05-23T09:56:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "This is how to defeat Vladimir Putin | Timothy Garton Ash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/23/defeat-vladimir-putin-russia-ukraine-nato-eu",
-      "published_date": "2026-05-23T05:00:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French stars are rightly worried by billionaire Vincent Bolloré. Here’s how to rein him in",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/23/french-stars-are-rightly-worried-by-billionaire-vincent-bollore-heres-how-to-rein-him-in",
-      "published_date": "2026-05-23T04:00:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK officials suggested single market for goods with Europe",
+      "title": "Russia ramps up threats against Ukraine. What does that say about the war?",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr5plpm3g2ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-23T03:47:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/c3v22ylzpqzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T13:30:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rubio begins India visit to bolser ties after Trump's China summit",
+      "title": "US anxious to come to deal with Iran asTehran seeks release of frozen assets",
       "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260523-rubio-in-india-to-bolser-ties-after-trump-s-china-visit",
-      "published_date": "2026-05-23T03:09:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/us-anxious-to-come-to-deal-with-iran-astehran-seeks-release-of-frozen-assets",
+      "published_date": "2026-05-26T12:59:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Health workers struggle with Ebola outbreak as WHO declares highest risk level in DR Congo",
+      "title": "Palestine's Eid dampened by consequences of war on livestock",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260522-health-workers-struggle-with-ebola-outbreak-as-who-declares-highest-risk-level-in-dr-congo",
-      "published_date": "2026-05-22T20:38:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/palestine-s-eid-dampened-by-consequences-of-war-on-livestock",
+      "published_date": "2026-05-26T10:39:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel strikes Lebanese village and calls up more troops in the region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-strikes-lebanese-village-and-calls-up-more-troops-in-the-region",
+      "published_date": "2026-05-26T10:02:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Leonora in the Morning Light review – pioneering British artist who fled convention for the surrealists",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/26/leonora-in-the-morning-light-review-olivia-vinall",
+      "published_date": "2026-05-26T10:00:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK prepares mine-sweeper for Hormuz as part of wider Franco-British coalition",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260526-uk-prepares-mine-sweeper-for-hormuz-as-part-of-wider-franco-british-coalition",
+      "published_date": "2026-05-26T06:04:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Millions gather in Mecca for Hajj despite security concerns",
+      "title": "Pope Leo takes aim at AI in encyclical",
       "source": "France 24",
-      "url": "https://www.france24.com/en/millions-gather-in-mecca-for-hajj-despite-security-concerns",
-      "published_date": "2026-05-25T12:20:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East: Deep mistrust clouds US-Iran negotiations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east-deep-mistrust-clouds-us-iran-negotiations",
-      "published_date": "2026-05-25T12:19:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ebola outbreak raises fears of wider spread in Central Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ebola-outbreak-raises-fears-of-wider-spread-in-central-africa",
-      "published_date": "2026-05-25T10:59:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Self-destructive' Putin loses home support as Ukraine war rages on",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260525-self-destructive-putin-loses-home-support-as-ukraine-war-rages-on",
-      "published_date": "2026-05-25T10:36:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil prices ease on renewed hopes of US-Iran peace deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260525-oil-prices-ease-on-renewed-hopes-of-us-iran-peace-deal",
-      "published_date": "2026-05-25T09:07:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Donald Trump slows momentum towards an Iran agreement",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/donald-trump-slows-momentum-towards-an-iran-agreement",
-      "published_date": "2026-05-25T08:53:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘A bridge, not an obstacle’: is Armenia a new crossroads between east and west?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/25/armenia-election-crossroads-between-east-west",
-      "published_date": "2026-05-25T07:40:46+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260526-pope-leo-takes-aim-at-ai-in-encyclical",
+      "published_date": "2026-05-26T12:42:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fessenheim nuclear plant decommissioning finally set to start",
@@ -366,6 +373,48 @@
       "url": "https://www.france24.com/en/video/20260519-brush-fire-near-los-angeles-forces-thousands-to-evacuate",
       "published_date": "2026-05-19T16:18:35+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Senegal's ex-PM elected National Assembly speaker despite sacking from president",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/senegal-s-ex-pm-elected-national-assembly-speaker-despite-sacking-from-president",
+      "published_date": "2026-05-26T13:02:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bolivian president slashes salary by 50% to calm protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/bolivian-president-slashes-salary-by-50-to-calm-protests",
+      "published_date": "2026-05-26T12:24:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ebola outbreak comes with increasing economic toll for DR Congo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ebola-outbreak-comes-with-increasing-economic-toll-for-dr-congo",
+      "published_date": "2026-05-26T10:07:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Starbucks in South Korea sees 'very significant drop in sales' amid controversy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260526-starbucks-in-south-korea-sees-very-significant-drop-in-sales-amid-controversy",
+      "published_date": "2026-05-26T09:34:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Paris Mint to issue first solid-gold coins in a century",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260526/paris-mint-to-issue-first-solid-gold-coins-in-a-century",
+      "published_date": "2026-05-26T08:12:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tuesday briefing: With unease at home spreading, what next for Russia’s isolated leader?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/tuesday-briefing-with-unease-at-home-spreading-what-next-for-russias-isolated-leader",
+      "published_date": "2026-05-26T05:47:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Marco Rubio visits India as US and India seek to ease trade tensions",
@@ -466,46 +515,109 @@
       "category": "Economy"
     },
     {
-      "title": "Soft power sell-off: anger as British Council announces sale of historic Madrid building",
+      "title": "'Trust has been so eroded': Philosopher Miranda Fricker on epistemic injustice today",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260526-trust-has-been-so-eroded-philosopher-miranda-fricker-on-epistemic-injustice-today",
+      "published_date": "2026-05-26T13:11:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four dead after train and school bus collide in Belgium",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/four-dead-after-train-and-school-bus-collide-in-belgium",
+      "published_date": "2026-05-26T13:06:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Train and school minibus collide in Belgium, killing four",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260526-train-and-school-minibus-collide-belgium-killing-four",
+      "published_date": "2026-05-26T12:48:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four people killed in Belgium in train and school bus collision",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/22/soft-power-sell-off-anger-british-council-sale-historic-madrid-building",
-      "published_date": "2026-05-22T16:25:46+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/may/26/investigation-belgium-train-school-bus-collision-buggenhout-flanders",
+      "published_date": "2026-05-26T12:39:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "In Cape Town, women-led cookies business supplies British Airways",
+      "title": "Four killed as school minibus collides with train in Belgium",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T12:29:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manchester City says goodbye to manager Pep Guardiola",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260522-in-cape-town-women-led-cookies-business-supply-british-airways",
-      "published_date": "2026-05-22T10:21:39+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/manchester-city-says-goodbye-to-manager-pep-guardiola",
+      "published_date": "2026-05-26T12:24:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "France tops European foreign investment ranking despite wider slowdown",
+      "title": "'Curious' dolphin charms French town but experts concerned",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260526/curious-dolphin-charms-french-town-but-experts-concerned",
+      "published_date": "2026-05-26T12:20:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No Place for Football review – battling ice and snow to play the beautiful game in Greenland",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/26/no-place-for-football-review-greenland",
+      "published_date": "2026-05-26T12:00:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chile's Trump-inspired border controls complicate life for migrants",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260526-chile-s-trump-inspired-border-controls-complicate-life-for-migrants",
+      "published_date": "2026-05-26T11:20:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spotlight on Africa: Global jihadism's growing grip on Africa",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260522-france-tops-european-foreign-investment-ranking-despite-wider-slowdown",
-      "published_date": "2026-05-22T05:06:43+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-africa/20260526-spotlight-on-africa-global-jihadism-s-growing-grip-on-africa",
+      "published_date": "2026-05-26T11:11:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ebola treatment centre in DR Congo burnt down as anger grows",
+      "title": "Austrian paraglider unscathed after terrifying mid-air collision with plane",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260521-ebola-treatment-centre-in-dr-congo-burnt-down-as-anger-grows",
-      "published_date": "2026-05-21T20:52:46+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260526-austrian-paraglider-unscathed-after-terrifying-mid-air-collision-with-plane",
+      "published_date": "2026-05-26T10:52:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "France annouonces €710 million in new energy aid",
+      "title": "Tennis legend Gael Monfils says goodbye to French Open ahead of retirement",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260521-france-annouonces-%E2%82%AC710-million-in-new-energy-aid",
-      "published_date": "2026-05-21T20:43:34+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tennis-legend-gael-monfils-says-goodbye-to-french-open-ahead-of-retirement",
+      "published_date": "2026-05-26T10:42:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "France confronts enduring legacy of slavery, 25 years on from Taubira Law",
+      "title": "Iran switches World Cup base camp to Mexico, as Washington closes door on squad",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260521-france-confronts-enduring-legacy-of-slavery-25-years-on-from-taubira-law",
-      "published_date": "2026-05-21T16:22:46+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/sports/20260526-iran-ditches-us-base-camp-for-mexico-as-washington-shuts-the-door-on-world-cup-squad",
+      "published_date": "2026-05-26T10:18:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wave of child abuse cases shakes schools in Paris",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-25T23:01:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ruud overcomes heat struggles to progress in Paris",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/tennis/articles/cvgzz8xlj9do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-25T22:10:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'Posing for cameras': Israel mocks flotilla activists online as torture, rape allegations mount",
@@ -540,111 +652,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20260525-france-swelters-as-first-ever-may-heatwave-alert-issued",
       "published_date": "2026-05-25T12:03:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France braces for more heat after local May records",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260525/france-braces-for-more-heat-after-local-may-records",
-      "published_date": "2026-05-25T11:36:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Runners collapse as temperatures soar across France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/runners-collapse-as-temperatures-soar-across-france",
-      "published_date": "2026-05-25T10:53:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India’s “Cockroach Janta Party” goes viral as Gen Z movement grows",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/india-s-cockroach-janta-party-goes-viral-as-gen-z-movement-grows",
-      "published_date": "2026-05-25T10:31:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rare Rubens notebook sheet goes on display in artist’s home city of Antwerp",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/25/rare-rubens-notebook-sheet-goes-on-display-in-artists-home-city-of-antwerp",
-      "published_date": "2026-05-25T10:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish police storm CHP headquarters amid political crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260525-turkish-police-storm-chp-headquarters-amid-political-crisis",
-      "published_date": "2026-05-25T08:57:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather tracker: flash floods in New York and a heat dome in Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/25/weather-tracker-flash-floods-new-york-heat-dome-europe",
-      "published_date": "2026-05-25T08:08:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Child found dead with towel round neck in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260525/child-found-dead-with-towel-round-neck-in-france",
-      "published_date": "2026-05-25T06:48:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kraken review – fjord-based rampage is monster movie with environmental message",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/25/kraken-review-fjord-based-rampage-is-monster-movie-with-environmental-message",
-      "published_date": "2026-05-25T06:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault",
-      "published_date": "2026-05-25T05:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The real danger of Islamophobia? It rarely announces itself as hatred yet shapes how millions think | Kenneth Mohammed",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/may/25/danger-islamophobia-antisemitism-hatred-anti-muslim-abuse",
-      "published_date": "2026-05-25T05:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "California declares state of emergency after toxic leak threatens thousands of residents",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260524-california-declares-state-of-emergency-toxic-leak-threatens-thousands-of-residents",
-      "published_date": "2026-05-24T23:10:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish riot police storm opposition offices after leaders ousted",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-24T19:49:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspected Ebola cases in eastern DR Congo pass 900 as health workers struggle with aid cuts",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260524-suspected-ebola-cases-in-eastern-dr-congo-pass-900-as-health-workers-struggle-with-aid-cuts",
-      "published_date": "2026-05-24T19:17:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What next for India's Cockroach Party?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260524-cockroaches-in-power-from-a-parody-movement-to-real-political-hopes",
-      "published_date": "2026-05-24T18:11:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Erdoğan’s tightening grip on Turkey: the next election is already being decided | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/24/the-guardian-view-on-erdogans-tightening-grip-on-turkey-the-next-election-is-already-being-decided",
-      "published_date": "2026-05-24T16:30:01+00:00",
       "category": "Local Events"
     }
   ]
