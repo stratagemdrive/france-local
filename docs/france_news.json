@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-05-25T13:57:06.676752+00:00",
-  "story_count": 90,
+  "last_updated": "2026-05-26T00:02:42.217792+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Record May highs sweep across France as extreme heat hits western Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/25/france-highest-ever-may-temperatures-spain-heatwave",
+      "published_date": "2026-05-25T22:06:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "G7 scientists sound alarm as Arctic ice loss hits 50-year low",
       "source": "RFI English",
@@ -137,11 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Putin Xi, To Catch a Castro, Red Carpet Rebellion",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-25T21:24:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia threatens fresh Kyiv strikes, warns foreigners to leave",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260522-putin-xi-to-catch-a-castro-red-carpet-rebellion",
-      "published_date": "2026-05-22T19:49:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260525-russia-threatens-fresh-kyiv-strikes-warns-foreigners-to-leave",
+      "published_date": "2026-05-25T19:43:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel pounds Lebanon with fresh air strikes, vows to 'crush' Hezbollah",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260525-israel-steps-up-lebanon-strikes-as-netanyahu-escalates-offensive",
+      "published_date": "2026-05-25T18:49:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo warns AI must be “disarmed” in landmark encyclical",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/pope-leo-warns-ai-must-be-disarmed-in-landmark-encyclical",
+      "published_date": "2026-05-25T15:54:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia deploys hypersonic missile in latest major strikes on Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-deploys-hypersonic-missile-in-latest-major-strikes-on-ukraine",
+      "published_date": "2026-05-25T15:51:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo takes on Silicon Valley in landmark AI encyclical",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260525-pope-leo-takes-on-silicon-valley-in-landmark-ai-encyclical",
+      "published_date": "2026-05-25T15:48:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo’s first encyclical tackles artificial intelligence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/pope-leo-s-first-encyclical-tackles-artificial-intelligence",
+      "published_date": "2026-05-25T14:54:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WHO puts suspected Ebola deaths at 220, warns outbreak is outpacing response efforts",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260525-who-puts-suspected-ebola-deaths-at-220-warns-outbreak-is-outpacing-rescue-efforts",
+      "published_date": "2026-05-25T14:37:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nuclear issue remains key obstacle in Iran-US deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nuclear-issue-remains-key-obstacle-in-iran-us-deal",
+      "published_date": "2026-05-25T14:10:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Settler violence in the West Bank intensifies against Palestinians",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Anti-Semitism was 'left unchecked’ in Australia after Gaza war, spy chief says",
+      "title": "Fessenheim nuclear plant decommissioning finally set to start",
       "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260525-anti-semitism-left-unchecked-australia-after-gaza-war-spy-chief-says",
-      "published_date": "2026-05-25T05:49:40+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/business/20260525-fessenheim-nuclear-plant-decommissioning-finally-set-to-start",
+      "published_date": "2026-05-25T20:55:28+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘I had poked the bear right in the eye’: my fight to renounce my Russian citizenship – podcast",
+      "title": "UK records its hottest ever day in May as temperature hits 34.8C",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/may/25/i-had-poked-the-bear-right-in-the-eye-my-fight-to-renounce-my-russian-citizenship-podcast",
-      "published_date": "2026-05-25T04:00:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Angela Merkel won’t be negotiating with Putin – but the rumour reflects a truth about the Ukraine war | Nathalie Tocci",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/25/angela-merkel-vladimir-putin-ukraine-war-kyiv",
-      "published_date": "2026-05-25T04:00:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: Trump urges Saudi Arabia, Qatar to sign Abraham Accords in Iran peace push",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260525-middle-east-war-live-rubio-says-iran-deal-still-possible-monday",
-      "published_date": "2026-05-25T03:41:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo XIV calls for 'robust' regulation of AI in sweeping manifesto",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260525-pope-leo-xiv-ai-manifesto-ethical-risks-global-impact",
-      "published_date": "2026-05-25T02:51:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "GPS jammed on RAF jet carrying UK defence secretary close to Russian border",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/24/gps-jammed-on-raf-jet-carrying-uk-defence-secretary-close-to-russian-border",
-      "published_date": "2026-05-24T22:40:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'We don't know what the death toll among military personnel is': Kyiv reels from Russian strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/we-don-t-know-what-the-death-toll-among-military-personnel-is-kyiv-reels-from-russian-strikes",
-      "published_date": "2026-05-24T20:07:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tearful Kostyuk speaks of Ukraine missile attack after 'most difficult' French Open win",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260524-tearful-kostyuk-speaks-of-ukraine-missile-attack-after-most-difficult-french-open-win",
-      "published_date": "2026-05-24T16:43:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Time is on our side': Trump tempers expectations of a peace deal with Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260524-time-is-on-our-side-trump-tempers-expectations-of-a-peace-deal-with-iran",
-      "published_date": "2026-05-24T16:05:15+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/uk-news/2026/may/25/uk-heat-may-temperature-record-weather",
+      "published_date": "2026-05-25T16:31:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pacific Ocean warming fuels fears of powerful 'super El Nino'",
@@ -352,6 +366,13 @@
       "url": "https://www.france24.com/en/video/20260519-brush-fire-near-los-angeles-forces-thousands-to-evacuate",
       "published_date": "2026-05-19T16:18:35+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Marco Rubio visits India as US and India seek to ease trade tensions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/marco-rubio-visits-india-as-us-and-india-seek-to-ease-trade-tensions",
+      "published_date": "2026-05-25T14:59:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "CGT chief faces defamation probe, warns French union freedom is at risk",
@@ -487,11 +508,32 @@
       "category": "Economy"
     },
     {
-      "title": "Starmer says he will campaign for Burnham in Makerfield byelection – as it happened",
+      "title": "'Posing for cameras': Israel mocks flotilla activists online as torture, rape allegations mount",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/posing-for-cameras-israel-mocks-flotilla-activists-online-as-torture-rape-allegations-mount",
+      "published_date": "2026-05-25T19:49:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British Council is a strategic asset in post-Brexit era | Letter",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates",
-      "published_date": "2026-05-21T16:02:24+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/2026/may/25/british-council-is-a-strategic-asset-in-post-brexit-era",
+      "published_date": "2026-05-25T15:23:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DR Congo: Authorities struggle to contain fast-moving Ebola outbreak",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/dr-congo-authorities-struggle-to-contain-fast-moving-ebola-outbreak",
+      "published_date": "2026-05-25T14:53:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wawrinka bids an emotional adieu to Roland Garros in first-round defeat",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260525-wawrinka-bids-adieu-to-roland-garros-with-first-round-loss",
+      "published_date": "2026-05-25T14:39:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France swelters as first-ever May heatwave alert issued",
@@ -603,34 +645,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/may/24/the-guardian-view-on-erdogans-tightening-grip-on-turkey-the-next-election-is-already-being-decided",
       "published_date": "2026-05-24T16:30:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No Alcaraz, no party? Five reasons not to miss this year’s French Open",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260524-no-alcaraz-five-reasons-not-to-miss-french-open-roland-garros-sinner-monfils-wawrinka",
-      "published_date": "2026-05-24T15:49:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey riot police use tear gas to take opposition party HQ in Ankara",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/turkey-riot-police-use-tear-gas-to-take-opposition-party-hq-in-ankara",
-      "published_date": "2026-05-24T14:37:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey riot police use tear gas to drive ousted opposition leader from party HQ",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260524-turkey-riot-police-use-tear-gas-to-drive-ousted-opposition-leader-from-party-hq",
-      "published_date": "2026-05-24T13:39:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: President Trump not harmed and safe after White House shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260524-us-president-trump-not-harmed-and-safe-after-white-house-shooting",
-      "published_date": "2026-05-24T12:10:20+00:00",
       "category": "Local Events"
     }
   ]
