@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-05-26T13:50:47.047802+00:00",
-  "story_count": 93,
+  "last_updated": "2026-05-27T00:01:22.628279+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "'Heat dome': Heatwave conditions hit France and parts of Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260526-heat-dome-heatwave-conditions-hit-france-and-parts-of-europe",
+      "published_date": "2026-05-26T15:34:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe swelters under unusually early heatwave",
       "source": "France 24",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France bars Israeli minister over 'brutalised' Gaza flotilla activists",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260523-france-bars-israeli-minister-itamar-ben-gvir-over-gaza-flotilla-activists",
-      "published_date": "2026-05-23T13:12:07+00:00",
-      "category": "Diplomacy"
+      "title": "Iran says US violated ceasefire with strikes near Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260526-iran-says-us-violated-ceasefire-with-strikes-near-hormuz-war",
+      "published_date": "2026-05-26T22:31:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war threatens Sudan's already fragile agricultural sector",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-war-threatens-sudan-s-already-fragile-agricultural-sector",
+      "published_date": "2026-05-26T16:03:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran partially restores internet access after three-month shutdown",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260526-iran-partially-restores-internet-access-after-88-day-blackout",
+      "published_date": "2026-05-26T15:41:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel issues fresh evacuation orders in south Lebanon despite ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260526-israel-issues-fresh-evacuation-orders-in-south-lebanon-despite-ceasefire",
+      "published_date": "2026-05-26T15:30:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran looking to 'buy time to rebuild its military' amid talks to end war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-looking-to-buy-time-to-rebuild-its-military-amid-talks-to-end-war",
+      "published_date": "2026-05-26T15:29:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'How to shoot down an F-18': Videos show Iran militia members training to use anti-aircraft missiles",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260526-iran-manpads-basij-training-us-israeli-aircraft",
+      "published_date": "2026-05-26T15:22:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starbucks faces South Korean backlash following campaign echoing 1987 massacre",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/starbucks-faces-south-korean-backlash-following-campaign-echoing-1987-massacre",
+      "published_date": "2026-05-26T14:19:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Kyiv braces for renewed attack, European allies condemn Moscow's call to abandon embassies",
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Pope Leo’s first encyclical tackles artificial intelligence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/pope-leo-s-first-encyclical-tackles-artificial-intelligence",
-      "published_date": "2026-05-25T14:54:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WHO puts suspected Ebola deaths at 220, warns outbreak is outpacing response efforts",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260525-who-puts-suspected-ebola-deaths-at-220-warns-outbreak-is-outpacing-rescue-efforts",
-      "published_date": "2026-05-25T14:37:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nuclear issue remains key obstacle in Iran-US deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nuclear-issue-remains-key-obstacle-in-iran-us-deal",
-      "published_date": "2026-05-25T14:10:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Settler violence in the West Bank intensifies against Palestinians",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260525-settler-violence-in-the-west-bank-intensifies-against-palestinians",
-      "published_date": "2026-05-25T13:34:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Our cycling is a form of resistance': Gaza Sunbirds co-founder Karim Ali",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260525-our-cycling-is-a-form-of-resistance-gaza-sunbirds-co-founder-karim-ali",
-      "published_date": "2026-05-25T13:05:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Kyiv residents endure 'worst night of the year' over the weekend",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260525-ukraine-kyiv-residents-endure-worst-night-of-the-year-over-the-weeked",
-      "published_date": "2026-05-25T12:49:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
-      "published_date": "2026-05-25T12:43:34+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Pope Leo takes aim at AI in encyclical",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260526-pope-leo-takes-aim-at-ai-in-encyclical",
@@ -368,11 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "Brush fire near Los Angeles forces thousands to evacuate",
+      "title": "ACROSS AFRICA | Marie Lora-Mungai & the essential business handbook for the continent's creatives",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260519-brush-fire-near-los-angeles-forces-thousands-to-evacuate",
-      "published_date": "2026-05-19T16:18:35+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/across-africa-marie-lora-mungai-the-essential-business-handbook-for-the-continent-s-creatives",
+      "published_date": "2026-05-26T21:29:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ghana introduces free e-visa system for African citizens",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ghana-introduces-free-e-visa-system-for-african-citizens",
+      "published_date": "2026-05-26T16:05:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Senegal's ex-PM elected National Assembly speaker despite sacking from president",
@@ -501,18 +508,81 @@
       "category": "Economy"
     },
     {
-      "title": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/22/uk-pitched-single-market-for-goods-with-eu-as-it-pursues-trade-reintegration",
-      "published_date": "2026-05-22T21:51:48+00:00",
-      "category": "Economy"
+      "title": "Sinner storms into French Open second round with straight-sets win over Tabur",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260526-sinner-storms-into-french-open-second-round-with-straight-sets-win-over-tabur",
+      "published_date": "2026-05-26T20:53:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Belinda Pyke obituary",
+      "title": "Turkish police fire water cannon at protesters after opposition leader ousted – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/22/belinda-pyke-obituary",
-      "published_date": "2026-05-22T16:55:49+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/may/26/turkish-police-fire-water-cannon-at-protesters-after-opposition-leader-ousted-video",
+      "published_date": "2026-05-26T19:56:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Open 2026: Sabalenka shines, Osaka dazzles as Medvedev melts down in Paris heat",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260526-french-open-2026-sabalenka-shines-osaka-dazzles-as-medvedev-melts-down-in-paris-heat",
+      "published_date": "2026-05-26T19:04:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish police fire teargas to break up protest after opposition leader ousted",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/turkish-police-teargas-protest-opposition-leader-ousted",
+      "published_date": "2026-05-26T17:40:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senegalese AFCON supporters return home after royal pardon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/senegalese-afcon-supporters-return-home-after-royal-pardon",
+      "published_date": "2026-05-26T16:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy’s top court rules against tourist refused tap water in Dolomites hotel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/italy-court-tourist-tap-water-dolomites-hotel",
+      "published_date": "2026-05-26T15:36:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup fever brings hope to NYC’s immigrant hubs after Trump crackdown",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260526-world-cup-fever-brings-hope-to-nyc-s-immigrant-hubs-after-trump-crackdown",
+      "published_date": "2026-05-26T15:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tsunami risk in the Mediterranean: Why Nice should prepare an evacuation plan",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260526/tsunami-risk-in-the-mediterranean-why-nice-should-prepare-an-evacuation-plan",
+      "published_date": "2026-05-26T15:16:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris's Notre Dame cathedral in the midst of a battle over its stained glass",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/paris-s-notre-dame-cathedral-in-the-midst-of-a-battle-over-its-stained-glass",
+      "published_date": "2026-05-26T15:15:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Czech police release Russian bishop after ‘white powder’ found in his car",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/26/czech-police-release-russian-bishop-after-white-powder-found-in-his-car",
+      "published_date": "2026-05-26T14:58:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Europe grieves with Belgium' following fatal crash between train and school bus",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe-grieves-with-belgium-following-fatal-crash-between-train-and-school-bus",
+      "published_date": "2026-05-26T14:10:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'Trust has been so eroded': Philosopher Miranda Fricker on epistemic injustice today",
@@ -575,83 +645,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/focus/20260526-chile-s-trump-inspired-border-controls-complicate-life-for-migrants",
       "published_date": "2026-05-26T11:20:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spotlight on Africa: Global jihadism's growing grip on Africa",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-africa/20260526-spotlight-on-africa-global-jihadism-s-growing-grip-on-africa",
-      "published_date": "2026-05-26T11:11:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austrian paraglider unscathed after terrifying mid-air collision with plane",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260526-austrian-paraglider-unscathed-after-terrifying-mid-air-collision-with-plane",
-      "published_date": "2026-05-26T10:52:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tennis legend Gael Monfils says goodbye to French Open ahead of retirement",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tennis-legend-gael-monfils-says-goodbye-to-french-open-ahead-of-retirement",
-      "published_date": "2026-05-26T10:42:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran switches World Cup base camp to Mexico, as Washington closes door on squad",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260526-iran-ditches-us-base-camp-for-mexico-as-washington-shuts-the-door-on-world-cup-squad",
-      "published_date": "2026-05-26T10:18:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wave of child abuse cases shakes schools in Paris",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-25T23:01:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ruud overcomes heat struggles to progress in Paris",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/tennis/articles/cvgzz8xlj9do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-25T22:10:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Posing for cameras': Israel mocks flotilla activists online as torture, rape allegations mount",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/posing-for-cameras-israel-mocks-flotilla-activists-online-as-torture-rape-allegations-mount",
-      "published_date": "2026-05-25T19:49:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British Council is a strategic asset in post-Brexit era | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/25/british-council-is-a-strategic-asset-in-post-brexit-era",
-      "published_date": "2026-05-25T15:23:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DR Congo: Authorities struggle to contain fast-moving Ebola outbreak",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/dr-congo-authorities-struggle-to-contain-fast-moving-ebola-outbreak",
-      "published_date": "2026-05-25T14:53:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wawrinka bids an emotional adieu to Roland Garros in first-round defeat",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260525-wawrinka-bids-adieu-to-roland-garros-with-first-round-loss",
-      "published_date": "2026-05-25T14:39:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France swelters as first-ever May heatwave alert issued",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260525-france-swelters-as-first-ever-may-heatwave-alert-issued",
-      "published_date": "2026-05-25T12:03:15+00:00",
       "category": "Local Events"
     }
   ]
