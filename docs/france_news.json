@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-05-27T14:24:01.413966+00:00",
-  "story_count": 99,
+  "last_updated": "2026-05-27T23:58:44.227570+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Norway becomes ninth country to come under French nuclear deterrence scheme",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260527-norway-becomes-ninth-country-to-come-under-french-nuclear-umbrella",
+      "published_date": "2026-05-27T20:12:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Where does Europe's far-right turn? Populists look to distance themselves from Trump",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/where-does-europe-s-far-right-turn-populists-look-to-distance-themselves-from-trump",
+      "published_date": "2026-05-27T20:04:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK will get no special treatment from EU, European ministers say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/27/uk-will-get-no-special-treatment-eu-european-ministers-say",
+      "published_date": "2026-05-27T16:08:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thirty-five people want to be the next president of France. What could possibly go wrong?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/27/thirty-five-people-want-to-be-the-next-president-of-france-what-could-possibly-go-wrong",
+      "published_date": "2026-05-27T14:30:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hungarian MPs vote to remain member of ICC, overturning decision made by Orbán",
       "source": "The Guardian",
@@ -116,32 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Work in progress': Washington seeks diplomatic exit from Iran war",
+      "title": "Starmer and Tusk sign UK–Poland defence pact amid warnings over Russian threats",
       "source": "France 24",
-      "url": "https://www.france24.com/en/work-in-progress-washington-seeks-diplomatic-exit-from-iran-war",
-      "published_date": "2026-05-25T10:11:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260527-starmer-and-tusk-sign-uk%E2%80%93poland-defence-pact-amid-warnings-over-russian-threats",
+      "published_date": "2026-05-27T22:50:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Brexit red tape costs hit food firms",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c775mx4rnngo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-25T05:00:41+00:00",
-      "category": "Diplomacy"
+      "title": "‘Sleepy Donald’?: Trump accused of dozing off at Memorial Day event, reigniting age concerns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sleepy-donald-trump-accused-of-dozing-off-at-memorial-day-event-reigniting-age-concerns-1",
+      "published_date": "2026-05-27T19:49:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "France's Macron warns Belarus against involvement in Ukraine war: source",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260524/frances-macron-warns-belarus-against-involvement-in-ukraine-war-source",
-      "published_date": "2026-05-24T14:30:55+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war drives India’s cockroaches out, but can Modi crush them?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260527-iran-war-drives-india-cockroaches-out-but-can-modi-crush-them",
+      "published_date": "2026-05-27T19:32:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "David Miliband: Europe and US need ‘separate bedrooms’ but not divorce",
+      "title": "'More than 100,000 people live in this city': Israel urges Tyre residents to leave homes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/more-than-100-000-people-live-in-this-city-israel-urges-tyre-residents-to-leave-homes",
+      "published_date": "2026-05-27T19:25:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uefa drags its heels over action against Russia’s fake Ukrainian clubs",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/24/europe-and-us-need-separate-bedrooms-but-not-divorce-says-david-miliband",
-      "published_date": "2026-05-24T14:25:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/football/2026/may/27/uefa-action-russia-fake-ukrainian-clubs-shakhtar-donetsk",
+      "published_date": "2026-05-27T19:00:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nearly half a million Russians killed in Ukraine war, UK spy chief says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/27/nearly-half-a-million-russians-killed-in-ukraine-war-uk-spy-chief-says",
+      "published_date": "2026-05-27T17:09:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "DRC faces 'catastrophic collision' of conflict and Ebola outbreak, WHO warns",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260527-drc-faces-catastrophic-collision-of-conflict-and-ebola-outbreak-who-warns",
+      "published_date": "2026-05-27T17:09:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "All by himself: Inside the 29 May Guardian Weekly",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/may/27/all-by-himself-inside-the-29-may-guardian-weekly",
+      "published_date": "2026-05-27T17:00:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe: New far-right generation turns away from Putin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260527-europe-new-far-right-generation-turns-away-from-putin",
+      "published_date": "2026-05-27T16:33:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Put an end to this war’: Russian director Andrey Zvyagintsev makes new plea to Putin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/27/russian-director-andrey-zvyagintsev-makes-appeal-to-putin",
+      "published_date": "2026-05-27T16:13:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Djokovic fights through French Open as Rybakina drops out in surprise loss",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260527-world-number-two-rybakina-sent-spinning-out-of-french-open-by-starodubtseva",
+      "published_date": "2026-05-27T16:09:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Film show: French WWII epic 'De Gaulle: Resistance' hits screens",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260527-film-show-french-wwii-epic-de-gaulle-resistance-hits-screens",
+      "published_date": "2026-05-27T15:50:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Witnesses accuse the Israeli army of arbitrary arrests in Syria",
@@ -200,88 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Iran says US violated ceasefire with strikes near Hormuz",
+      "title": "Hotter than July: Can electrification save humanity from soaring heat?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260526-iran-says-us-violated-ceasefire-with-strikes-near-hormuz-war",
-      "published_date": "2026-05-26T22:31:03+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260527-hotter-than-july-can-electrification-save-humanity-from-soaring-heat",
+      "published_date": "2026-05-27T19:49:35+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran war threatens Sudan's already fragile agricultural sector",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-war-threatens-sudan-s-already-fragile-agricultural-sector",
-      "published_date": "2026-05-26T16:03:14+00:00",
-      "category": "Military"
+      "title": "Why is Ferrari facing such a backlash to its first electric car?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/27/why-ferrari-backlash-electric-car-luce",
+      "published_date": "2026-05-27T17:16:30+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran partially restores internet access after three-month shutdown",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260526-iran-partially-restores-internet-access-after-88-day-blackout",
-      "published_date": "2026-05-26T15:41:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel issues fresh evacuation orders in south Lebanon despite ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260526-israel-issues-fresh-evacuation-orders-in-south-lebanon-despite-ceasefire",
-      "published_date": "2026-05-26T15:30:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran looking to 'buy time to rebuild its military' amid talks to end war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-looking-to-buy-time-to-rebuild-its-military-amid-talks-to-end-war",
-      "published_date": "2026-05-26T15:29:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'How to shoot down an F-18': Videos show Iran militia members training to use anti-aircraft missiles",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260526-iran-manpads-basij-training-us-israeli-aircraft",
-      "published_date": "2026-05-26T15:22:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Starbucks faces South Korean backlash following campaign echoing 1987 massacre",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/starbucks-faces-south-korean-backlash-following-campaign-echoing-1987-massacre",
-      "published_date": "2026-05-26T14:19:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv braces for renewed attack, European allies condemn Moscow's call to abandon embassies",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/kyiv-braces-for-renewed-attack-european-allies-condemn-moscow-s-call-to-abandon-embassies",
-      "published_date": "2026-05-26T13:44:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia ramps up threats against Ukraine. What does that say about the war?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3v22ylzpqzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T13:30:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US anxious to come to deal with Iran asTehran seeks release of frozen assets",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-anxious-to-come-to-deal-with-iran-astehran-seeks-release-of-frozen-assets",
-      "published_date": "2026-05-26T12:59:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestine's Eid dampened by consequences of war on livestock",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/palestine-s-eid-dampened-by-consequences-of-war-on-livestock",
-      "published_date": "2026-05-26T10:39:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel strikes Lebanese village and calls up more troops in the region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-strikes-lebanese-village-and-calls-up-more-troops-in-the-region",
-      "published_date": "2026-05-26T10:02:13+00:00",
-      "category": "Military"
+      "title": "Extreme heat in Europe ‘a brutal reminder’ of climate crisis, UN chief says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/27/extreme-heat-in-europe-a-brutal-reminder-of-climate-crisis-un-chief-says",
+      "published_date": "2026-05-27T14:50:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe heatwave a 'brutal reminder' of climate change",
@@ -403,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Record number of dams dismantled in Europe in effort to help wildlife thrive",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/21/record-number-of-dams-dismantled-in-europe-in-effort-to-help-wildlife-thrive",
-      "published_date": "2026-05-21T12:14:22+00:00",
-      "category": "Energy"
+      "title": "French banker Pigasse emerges as key figure in Venezuela debt overhaul",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260527-french-banker-pigasse-emerges-as-key-figure-in-venezuela-debt-overhaul",
+      "published_date": "2026-05-27T22:25:54+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UN General Assembly backs world court climate ruling, US among nations opposing",
+      "title": "Luxury French retailer Galeries Lafayette shuts Beijing flagship store",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260527-luxury-french-retailer-galeries-lafayette-shuts-beijing-flagship-store",
+      "published_date": "2026-05-27T15:30:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "New Zealand sees brain drain to Australia amid stagnating economy",
       "source": "France 24",
-      "url": "https://www.france24.com/en/environment/20260520-un-general-assembly-backs-world-court-climate-ruling-us-opposes",
-      "published_date": "2026-05-20T22:28:45+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/focus/20260527-new-zealand-sees-brain-drain-to-australia-amid-stagnating-economy",
+      "published_date": "2026-05-27T14:46:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Flying Tiger snapped up by Modella Capital amid fears for its future",
@@ -536,25 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "Irish gangland figure fails in Dublin byelection bid for seat in parliament",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/24/irish-gangland-figure-hutch-fails-dublin-byelection-bid-for-seat-in-parliament",
-      "published_date": "2026-05-24T09:41:21+00:00",
-      "category": "Economy"
+      "title": "Ghana begins repatriating citizens from South Africa after xenophobic attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ghana-begins-repatriating-citizens-from-south-africa-after-xenophobic-attacks",
+      "published_date": "2026-05-27T20:44:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Property renovation tips, medical specialists and tax traps: 6 essential articles for life in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260524/property-renovation-tips-medical-specialists-and-tax-traps-6-essential-articles-for-life-in-france",
-      "published_date": "2026-05-24T08:51:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "From high BMI to the ‘GLP-1 look’: how weight-loss jabs are changing the face of beauty",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/may/23/mona-lisa-high-bmi-glp1-beauty",
-      "published_date": "2026-05-23T14:12:41+00:00",
-      "category": "Economy"
+      "title": "Spanish police raid HQ of governing Socialists as corruption probe escalates",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78qy78dlj1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T15:48:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French universities to increase fees for international students",
@@ -641,6 +662,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Four killed as school minibus collides with train in Belgium",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T17:11:24+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Senegalese AFCON supporters return home after royal pardon",
       "source": "France 24",
       "url": "https://www.france24.com/en/senegalese-afcon-supporters-return-home-after-royal-pardon",
@@ -673,27 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/paris-s-notre-dame-cathedral-in-the-midst-of-a-battle-over-its-stained-glass",
       "published_date": "2026-05-26T15:15:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Czech police release Russian bishop after ‘white powder’ found in his car",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/26/czech-police-release-russian-bishop-after-white-powder-found-in-his-car",
-      "published_date": "2026-05-26T14:58:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Europe grieves with Belgium' following fatal crash between train and school bus",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe-grieves-with-belgium-following-fatal-crash-between-train-and-school-bus",
-      "published_date": "2026-05-26T14:10:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Trust has been so eroded': Philosopher Miranda Fricker on epistemic injustice today",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260526-trust-has-been-so-eroded-philosopher-miranda-fricker-on-epistemic-injustice-today",
-      "published_date": "2026-05-26T13:11:33+00:00",
       "category": "Local Events"
     }
   ]
