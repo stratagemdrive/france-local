@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-05-27T00:01:22.628279+00:00",
-  "story_count": 92,
+  "last_updated": "2026-05-27T14:24:01.413966+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Hungarian MPs vote to remain member of ICC, overturning decision made by Orbán",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/27/hungary-mps-vote-remain-member-icc-overturn-decision-viktor-orban-peter-magyar",
+      "published_date": "2026-05-27T13:03:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OPINION: Emmanuel Macron - where did it all go wrong?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260527/opinion-emmanuel-macron-where-did-it-all-go-wrong",
+      "published_date": "2026-05-27T08:10:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iceland’s foreign minister fears ‘Brexit moment’ in EU accession referendum",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/27/iceland-foreign-minister-thorgerthur-katrin-gunnarsdottir-brexit-moment-eu-accession-referendum",
+      "published_date": "2026-05-27T05:00:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How the plastic bottle cap became a parable for the value of EU regulation | Alberto Alemanno",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/27/how-the-plastic-bottle-cap-became-a-parable-for-the-value-of-eu-regulation",
+      "published_date": "2026-05-27T04:00:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'Heat dome': Heatwave conditions hit France and parts of Europe",
       "source": "France 24",
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron, EU’s Kallas condemn Russian attack on Ukraine with Oreshnik ballistic missile",
+      "title": "Witnesses accuse the Israeli army of arbitrary arrests in Syria",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260524-russian-ballistic-missile-attack-hits-kyiv-after-moscow-vows-retaliation",
-      "published_date": "2026-05-24T10:30:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260527-witnesses-accuse-israeli-army-arbitrary-arrests-syria",
+      "published_date": "2026-05-27T14:19:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "How women are paving their own way through Africa's tech sector",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260524-how-women-are-paving-their-own-way-through-africa-s-tech-sector",
-      "published_date": "2026-05-24T06:58:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EES border system suspended at Dover amid bank holiday chaos",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260523/ees-border-system-suspended-at-dover-amid-bank-holiday-chaos",
-      "published_date": "2026-05-23T14:12:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Extra EU border checks suspended at Dover as travellers face delays in heat",
+      "title": "Zelenskyy asks Trump for help with air defences as Russia continues attacks – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/23/extra-eu-border-checks-ees-suspended-dover-travel-delays-hot-weather",
-      "published_date": "2026-05-23T14:10:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/may/27/spain-pedro-sanchez-pope-leo-heatwave-ukraine-latest-updates-europe-live-news",
+      "published_date": "2026-05-27T13:48:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "DR Congo facing 'catastrophic collision' of Ebola and war, WHO chief warns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260527-dr-congo-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns",
+      "published_date": "2026-05-27T12:50:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli defence ministry says it killed new Hamas military leader in Gaza",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260527-israeli-defence-ministry-says-it-killed-new-hamas-military-leader-in-gaza",
+      "published_date": "2026-05-27T12:02:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea tests new lightweight multi-purpose missile launch system",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260527-north-korea-tests-new-lightweight-multi-purpose-missile-launch-system",
+      "published_date": "2026-05-27T02:08:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: Iran Revolutionary Guard official says renewed war with the US unlikely",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260527-middle-east-live-new-strikes-threaten-ceasefires-in-iran-lebanon",
+      "published_date": "2026-05-27T01:48:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T23:42:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T23:15:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran says US violated ceasefire with strikes near Hormuz",
@@ -228,60 +284,60 @@
       "category": "Military"
     },
     {
-      "title": "Leonora in the Morning Light review – pioneering British artist who fled convention for the surrealists",
+      "title": "Europe heatwave a 'brutal reminder' of climate change",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260527/europe-heatwave-a-brutal-reminder-of-climate-change",
+      "published_date": "2026-05-27T13:22:09+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Solar investment surges as Ghana races to hit renewable targets",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260527-solar-investment-surges-as-ghana-races-to-hit-renewable-targets",
+      "published_date": "2026-05-27T12:06:33+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘Mind-bogglingly crazy’: climate experts alarmed by deadly spring heatwaves searing Europe",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/26/leonora-in-the-morning-light-review-olivia-vinall",
-      "published_date": "2026-05-26T10:00:48+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/may/27/mind-bogglingly-crazy-climate-experts-alarmed-by-deadly-spring-heatwaves-searing-europe",
+      "published_date": "2026-05-27T11:00:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UK prepares mine-sweeper for Hormuz as part of wider Franco-British coalition",
+      "title": "Fired BP chair disputes oil company’s claims of poor conduct",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/27/fired-bp-chair-albert-manifold-disputes-oil-companys-claims-of-poor-conduct",
+      "published_date": "2026-05-27T10:41:01+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "TotalEnergies extends €1.99 fuel price cap across France for June",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260527/totalenergies-extends-e1-99-fuel-price-cap-across-france-for-june",
+      "published_date": "2026-05-27T09:30:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How Europe’s rapid warming has fuelled a record May heatwave",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260526-uk-prepares-mine-sweeper-for-hormuz-as-part-of-wider-franco-british-coalition",
-      "published_date": "2026-05-26T06:04:10+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/environment/20260527-how-europe-s-rapid-warming-has-fuelled-a-record-may-heatwave",
+      "published_date": "2026-05-27T07:20:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-25T21:24:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia threatens fresh Kyiv strikes, warns foreigners to leave",
+      "title": "Temperatures soar across Europe as 'heat dome' drives May records",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260525-russia-threatens-fresh-kyiv-strikes-warns-foreigners-to-leave",
-      "published_date": "2026-05-25T19:43:15+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260527-temperatures-soar-across-europe-as-heat-dome-drives-may-records-heatwave-france-uk-italy-spain",
+      "published_date": "2026-05-27T00:30:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel pounds Lebanon with fresh air strikes, vows to 'crush' Hezbollah",
+      "title": "Why is Europe heating up faster than the rest of the world?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260525-israel-steps-up-lebanon-strikes-as-netanyahu-escalates-offensive",
-      "published_date": "2026-05-25T18:49:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo warns AI must be “disarmed” in landmark encyclical",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/pope-leo-warns-ai-must-be-disarmed-in-landmark-encyclical",
-      "published_date": "2026-05-25T15:54:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia deploys hypersonic missile in latest major strikes on Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-deploys-hypersonic-missile-in-latest-major-strikes-on-ukraine",
-      "published_date": "2026-05-25T15:51:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo takes on Silicon Valley in landmark AI encyclical",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260525-pope-leo-takes-on-silicon-valley-in-landmark-ai-encyclical",
-      "published_date": "2026-05-25T15:48:12+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260526-why-is-europe-heating-up-faster-than-the-rest-of-the-world",
+      "published_date": "2026-05-26T18:13:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pope Leo takes aim at AI in encyclical",
@@ -361,11 +417,25 @@
       "category": "Energy"
     },
     {
-      "title": "Xi hails China’s ‘unyielding’ ties with Russia as Putin visits Beijing",
+      "title": "Flying Tiger snapped up by Modella Capital amid fears for its future",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/27/flying-tiger-acquisition-modella-capital-private-equity-tg-jones",
+      "published_date": "2026-05-27T11:19:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Everything that Americans in France need to know about tax",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260527/everything-that-americans-in-france-need-to-know-about-tax",
+      "published_date": "2026-05-27T09:34:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French luxury store Galeries Lafayette shuts Beijing flagship branch after 13 years",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260520-xi-hails-china-s-unyielding-ties-with-russia-as-putin-visits-beijing",
-      "published_date": "2026-05-20T09:27:49+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/economy/20260527-french-luxury-store-shuts-beijing-flagship-13-years-china-spending-weakens",
+      "published_date": "2026-05-27T03:15:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "ACROSS AFRICA | Marie Lora-Mungai & the essential business handbook for the continent's creatives",
@@ -487,25 +557,60 @@
       "category": "Economy"
     },
     {
-      "title": "Pope meets families whose loved ones’ deaths were linked to mafia toxic waste",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/23/pope-families-children-toxic-waste-italy-land-of-fires-cancer-naples",
-      "published_date": "2026-05-23T10:11:13+00:00",
-      "category": "Economy"
+      "title": "French universities to increase fees for international students",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260527/french-universities-to-increase-fees-for-international-students",
+      "published_date": "2026-05-27T14:00:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Can hybrid village stores answer rural Germany’s ‘cry for help’ and fend off far right?",
+      "title": "Young asylum seekers far more likely to be assessed as adults by immigration officers than by social workers",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/23/hybrid-village-stores-rural-germany-fend-off-far-right",
-      "published_date": "2026-05-23T05:00:18+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/may/27/young-asylum-seekers-more-likely-assessed-adults-by-immigration-officers-than-social-workers",
+      "published_date": "2026-05-27T13:17:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Senegal's president fires PM Sonko, dissolves government",
+      "title": "Germany’s most wanted woman jailed after three decades evading police",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/27/daniela-klette-red-army-faction-jailed-armed-robberies-on-the-run",
+      "published_date": "2026-05-27T12:28:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T12:25:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It’s getting hotter and it’s not stopping’: dealing with the heat in five of Europe’s capitals",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/27/its-getting-hotter-and-its-not-stopping-dealing-with-the-heat-in-five-of-europes-capitals",
+      "published_date": "2026-05-27T07:00:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France probes alleged election interference by Israeli company",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260527/france-probes-alleged-election-interference-by-israeli-company",
+      "published_date": "2026-05-27T06:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazilian candidate Flavio Bolsonaro asks Trump to designate crime groups as terrorists",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260523-senegal-s-president-sacks-pm-after-months-of-tensions",
-      "published_date": "2026-05-23T01:25:15+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/americas/20260527-bolsonaro-asks-trump-designate-brazil-crime-groups-terrorists",
+      "published_date": "2026-05-27T02:30:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Samsung workers avert strike, secure bonus deal after AI profit surge",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260526-samsung-workers-avert-strike-secure-bonus-deal-after-ai-profit-surge",
+      "published_date": "2026-05-26T21:13:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Sinner storms into French Open second round with straight-sets win over Tabur",
@@ -589,62 +694,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/perspective/20260526-trust-has-been-so-eroded-philosopher-miranda-fricker-on-epistemic-injustice-today",
       "published_date": "2026-05-26T13:11:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four dead after train and school bus collide in Belgium",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/four-dead-after-train-and-school-bus-collide-in-belgium",
-      "published_date": "2026-05-26T13:06:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Train and school minibus collide in Belgium, killing four",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260526-train-and-school-minibus-collide-belgium-killing-four",
-      "published_date": "2026-05-26T12:48:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four people killed in Belgium in train and school bus collision",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/26/investigation-belgium-train-school-bus-collision-buggenhout-flanders",
-      "published_date": "2026-05-26T12:39:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four killed as school minibus collides with train in Belgium",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T12:29:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester City says goodbye to manager Pep Guardiola",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/manchester-city-says-goodbye-to-manager-pep-guardiola",
-      "published_date": "2026-05-26T12:24:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Curious' dolphin charms French town but experts concerned",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260526/curious-dolphin-charms-french-town-but-experts-concerned",
-      "published_date": "2026-05-26T12:20:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No Place for Football review – battling ice and snow to play the beautiful game in Greenland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/26/no-place-for-football-review-greenland",
-      "published_date": "2026-05-26T12:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chile's Trump-inspired border controls complicate life for migrants",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260526-chile-s-trump-inspired-border-controls-complicate-life-for-migrants",
-      "published_date": "2026-05-26T11:20:45+00:00",
       "category": "Local Events"
     }
   ]
