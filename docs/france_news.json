@@ -1,8 +1,92 @@
 {
   "country": "France",
-  "last_updated": "2026-05-27T23:58:44.227570+00:00",
+  "last_updated": "2026-05-28T14:36:52.909962+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "New food exports deal signals end to Brexit ‘sausage wars’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/28/brexit-red-tape-food-exports-scrapped-uk-eu-reset-deal",
+      "published_date": "2026-05-28T14:18:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Talk to Russia? First, Europe needs to pick an envoy – and know what it wants to say",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260528-talk-to-russia-first-europe-needs-to-pick-an-envoy-%E2%80%93-and-know-what-it-wants-to-say",
+      "published_date": "2026-05-28T13:43:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU fines Temu for failing to stop sale of illegal and dangerous products",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/28/eu-fines-temu-sale-illegal-dangerous-products",
+      "published_date": "2026-05-28T12:27:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France to get 240,000 more electric car charging points by 2030",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260528/france-to-get-240000-more-electric-car-charging-points-by-2030",
+      "published_date": "2026-05-28T11:42:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU fines Temu €200m for allowing sale of illegal products",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-28T11:39:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hungary strikes down another Orban policy with vote to stay in ICC",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260528-hungary-strikes-down-another-orban-policy-with-vote-to-stay-in-icc",
+      "published_date": "2026-05-28T11:23:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU member states sign off on compromise to implement US trade pact",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260528-eu-member-states-sign-off-on-compromise-to-implement-us-trade-pact",
+      "published_date": "2026-05-28T09:12:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron announces big investments at France's 'electrification team' meeting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260528-macron-announces-big-investments-at-france-s-electrification-team-meeting",
+      "published_date": "2026-05-28T09:02:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France tops list of EU countries ‘standing up to social media giants’",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260528/france-tops-list-of-eu-countries-standing-up-to-social-media-giants",
+      "published_date": "2026-05-28T08:32:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PODCAST: How to live without a car in France and are we facing an insufferably hot summer?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260528/podcast-how-to-live-without-a-car-in-france-and-are-we-facing-an-insufferably-hot-summer",
+      "published_date": "2026-05-28T06:02:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France bets on 'desirable' electric future, thanks to major private funding",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260528-france-bets-on-desirable-electric-future-thanks-to-major-private-funding",
+      "published_date": "2026-05-28T04:33:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Temperatures likely to remain at record levels until 2030, UN warns",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260528-temperatures-likely-to-remain-at-record-levels-until-2030-un-warns",
+      "published_date": "2026-05-28T04:10:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Norway becomes ninth country to come under French nuclear deterrence scheme",
       "source": "France 24",
@@ -60,88 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Heat dome': Heatwave conditions hit France and parts of Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260526-heat-dome-heatwave-conditions-hit-france-and-parts-of-europe",
-      "published_date": "2026-05-26T15:34:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe swelters under unusually early heatwave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe-swelters-under-unusually-early-heatwave",
-      "published_date": "2026-05-26T13:38:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Moscow wants to ‘destabilise’ Europe, EU chief warns, as countries summon Russian ambassadors over Kyiv threats – Europe live",
+      "title": "Russia on the back foot with dynamics of war shifting in Ukraine’s favour, EU says – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/26/europe-ukraine-russia-lithuania-eu-heatwave-hungary-magyar-france-latest-news-updates",
-      "published_date": "2026-05-26T13:34:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/may/28/europe-russia-ukraine-talks-heatwave-kaja-kallas-putin-latest-news-updates",
+      "published_date": "2026-05-28T14:11:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Attal hardens migration line, with Macron camp split over 2027 presidential race",
+      "title": "Israel strikes Beirut southern suburb ahead of crucial Washington talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-israel-strikes-beirut-southern-suburb-ahead-of-crucial-washington-talks",
+      "published_date": "2026-05-28T13:43:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine asks Trump for more US air defence help against Russian missile attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-ukraine-asks-trump-for-more-us-air-defence-help-against-russian-missile-attacks",
+      "published_date": "2026-05-28T13:42:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky says Ukraine needs US antiballistic missiles",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-zelensky-says-ukraine-needs-us-antiballistic-missiles",
+      "published_date": "2026-05-28T13:40:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'You see love every day and journalists don't always convey that': Author Sally Hayden",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260528-you-see-love-every-day-and-journalists-don-t-always-convey-that-author-sally-hayden",
+      "published_date": "2026-05-28T12:04:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon: Massive fireball as Israel strikes city of Tyre",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-lebanon-massive-fireball-as-israel-strikes-city-of-tyre",
+      "published_date": "2026-05-28T10:30:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia looks to forced mobilisation after losing 500,000 soldiers in Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260528-russia-looks-to-forced-mobilisation-after-losing-500-000-soldiers-in-ukraine",
+      "published_date": "2026-05-28T10:13:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran and US trade air strikes after Trump dismisses report of Hormuz deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-iran-and-us-trade-air-strikes-after-trump-dismisses-report-of-hormuz-deal",
+      "published_date": "2026-05-28T09:37:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Norway to join France's nuclear umbrella as Europe rethinks defence",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260526-attal-hardens-migration-line-with-macron-camp-split-over-2027-presidential-race",
-      "published_date": "2026-05-26T12:06:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260528-norway-to-join-french-nuclear-deterrence-umbrella",
+      "published_date": "2026-05-28T05:42:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU could deny new member states veto rights as bloc pushes for enlargement",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/26/eu-could-deny-new-member-states-veto-rights-as-bloc-pushes-for-enlargement",
-      "published_date": "2026-05-26T10:27:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What is a heat dome, causing excessively high temperatures in western Europe?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/what-is-a-heat-dome-causing-excessively-high-temperatures-in-western-europe",
-      "published_date": "2026-05-26T10:05:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Seven deaths in France linked to record-high temperatures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/26/deaths-france-linked-record-high-temperatures",
-      "published_date": "2026-05-26T09:19:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France warns public after seven deaths linked to May heatwave",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260526/france-reports-seven-deaths-amid-heatwave",
-      "published_date": "2026-05-26T07:17:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine war briefing: Russia pressures US to clear way for attacks on Kyiv",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/26/ukraine-war-briefing-russia-pressures-us-embassy-evacuate-attacks-kyiv",
-      "published_date": "2026-05-26T00:53:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Record May highs sweep across France as extreme heat hits western Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/25/france-highest-ever-may-temperatures-spain-heatwave",
-      "published_date": "2026-05-25T22:06:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G7 scientists sound alarm as Arctic ice loss hits 50-year low",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260525-g7-scientists-sound-alarm-as-arctic-ice-loss-hits-50-year-low",
-      "published_date": "2026-05-25T12:32:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump Tower in Georgia to be built on land part-owned by son of US sanctions-hit leader",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader",
-      "published_date": "2026-05-25T12:00:27+00:00",
-      "category": "Diplomacy"
+      "title": "Man meets Dutch volunteer caring for father's WW2 grave",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98rr284jdmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-28T05:25:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Starmer and Tusk sign UK–Poland defence pact amid warnings over Russian threats",
@@ -214,74 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "Djokovic fights through French Open as Rybakina drops out in surprise loss",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260527-world-number-two-rybakina-sent-spinning-out-of-french-open-by-starodubtseva",
-      "published_date": "2026-05-27T16:09:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Film show: French WWII epic 'De Gaulle: Resistance' hits screens",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260527-film-show-french-wwii-epic-de-gaulle-resistance-hits-screens",
-      "published_date": "2026-05-27T15:50:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Witnesses accuse the Israeli army of arbitrary arrests in Syria",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260527-witnesses-accuse-israeli-army-arbitrary-arrests-syria",
-      "published_date": "2026-05-27T14:19:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy asks Trump for help with air defences as Russia continues attacks – Europe live",
+      "title": "‘Hidden datacentre tax’ costing Irish households millions, report says",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/27/spain-pedro-sanchez-pope-leo-heatwave-ukraine-latest-updates-europe-live-news",
-      "published_date": "2026-05-27T13:48:07+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity",
+      "published_date": "2026-05-28T13:01:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "DR Congo facing 'catastrophic collision' of Ebola and war, WHO chief warns",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260527-dr-congo-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns",
-      "published_date": "2026-05-27T12:50:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli defence ministry says it killed new Hamas military leader in Gaza",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260527-israeli-defence-ministry-says-it-killed-new-hamas-military-leader-in-gaza",
-      "published_date": "2026-05-27T12:02:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea tests new lightweight multi-purpose missile launch system",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260527-north-korea-tests-new-lightweight-multi-purpose-missile-launch-system",
-      "published_date": "2026-05-27T02:08:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: Iran Revolutionary Guard official says renewed war with the US unlikely",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260527-middle-east-live-new-strikes-threaten-ceasefires-in-iran-lebanon",
-      "published_date": "2026-05-27T01:48:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
+      "title": "Canada signs landmark LNG energy deal with Germany",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T23:42:16+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/cg4pwxwvz1go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-28T12:24:48+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T23:15:47+00:00",
-      "category": "Military"
+      "title": "‘Saaz is our gold’: the Czech scientists breeding hops that can survive a hotter Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/28/saaz-is-our-gold-the-czech-scientists-breeding-hops-that-can-survive-a-hotter-europe",
+      "published_date": "2026-05-28T12:00:20+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Europe heatwave 'brutal reminder' of climate change",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-europe-heatwave-brutal-reminder-of-climate-change",
+      "published_date": "2026-05-28T09:35:18+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil prices on the rise again as US-Iran fighting escalates",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260528-oil-prices-on-the-rise-again-as-us-iran-fighting-escalates",
+      "published_date": "2026-05-28T09:31:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How France is forging ahead with solar power",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260528/how-france-is-forging-ahead-with-solar-power",
+      "published_date": "2026-05-28T06:07:29+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "To reverse the ‘greenlash’, Europe’s Green parties should embrace Polanski’s boldness | Tarik Abou-Chadi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/28/greenlash-green-parties-europe-uk-zack-polanski",
+      "published_date": "2026-05-28T04:00:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Hotter than July: Can electrification save humanity from soaring heat?",
@@ -302,6 +351,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/may/27/extreme-heat-in-europe-a-brutal-reminder-of-climate-crisis-un-chief-says",
       "published_date": "2026-05-27T14:50:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pope Leo inspects Ferrari's first fully electric vehicle",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c8d826nve86o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T14:42:07+00:00",
       "category": "Energy"
     },
     {
@@ -368,60 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Fessenheim nuclear plant decommissioning finally set to start",
+      "title": "I. Coast faces sheep shortage ahead of Tabaski amid Sahel trade disruptions",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260525-fessenheim-nuclear-plant-decommissioning-finally-set-to-start",
-      "published_date": "2026-05-25T20:55:28+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260528-i-coast-faces-sheep-shortage-ahead-of-tabaski-amid-sahel-trade-disruptions",
+      "published_date": "2026-05-28T13:38:39+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UK records its hottest ever day in May as temperature hits 34.8C",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/25/uk-heat-may-temperature-record-weather",
-      "published_date": "2026-05-25T16:31:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pacific Ocean warming fuels fears of powerful 'super El Nino'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260525-pacific-ocean-warming-fuels-fears-of-powerful-super-el-nino",
-      "published_date": "2026-05-25T05:56:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Could Alberta really leave Canada?",
+      "title": "Bolivia at 'breaking point,' president warns protesters",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260524-could-alberta-really-leave-canada",
-      "published_date": "2026-05-24T21:33:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Coal mine explosion in China kills 90 people, state media say",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/coal-mine-explosion-in-china-kills-90-people-state-media-say",
-      "published_date": "2026-05-23T14:46:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "China coal mine explosion kills at least 90 people, more missing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260523-coal-mine-gas-explosion-in-china-kills-at-least-82-people-reports-state-media",
-      "published_date": "2026-05-23T05:56:27+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The Dreamed Adventure review – beautiful but opaque Bulgarian tale of digging up the past",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/22/the-dreamed-adventure-review-beautiful-but-opaque-bulgarian-tale-of-digging-up-the-past",
-      "published_date": "2026-05-22T15:47:02+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "France's beloved Citroen 2CV revived as electric car",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260522/frances-beloved-citroen-2cv-revived-as-electric-car",
-      "published_date": "2026-05-22T06:51:45+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260528-bolivia-at-breaking-point-president-warns-protesters",
+      "published_date": "2026-05-28T09:36:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "French banker Pigasse emerges as key figure in Venezuela debt overhaul",
@@ -550,18 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Senegal football fans return home after royal pardon for Cup of Nations chaos",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260524-senegal-football-fans-return-home-after-royal-pardon-for-cup-of-nations-chaos",
-      "published_date": "2026-05-24T10:13:38+00:00",
-      "category": "Economy"
+      "title": "Iran condemns US ceasefire 'violations' after strikes in south",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-iran-condemns-us-ceasefire-violations-after-strikes-in-south",
+      "published_date": "2026-05-28T13:41:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Senegal's president sacks PM: Senegalese Parliament dissolved",
+      "title": "'Cosmonauts', 'Rivals' and Nicolas Cage's TV debut",
       "source": "France 24",
-      "url": "https://www.france24.com/en/senegal-s-president-sacks-pm-senegalese-parliament-dissolved",
-      "published_date": "2026-05-24T09:47:33+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260528-cosmonauts-rivals-and-nicolas-cage-s-tv-debut",
+      "published_date": "2026-05-28T13:27:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austrian man who admitted plotting attack at Taylor Swift Vienna concert says he is sorry",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/may/28/austrian-man-beran-a-admitted-plotting-attack-taylor-swift-vienna-concert-says-sorry",
+      "published_date": "2026-05-28T12:44:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris neighbourhoods: The underrated 14th arrondissement",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/french-connections/20260528-paris-neighbourhoods-the-underrated-14th-arrondissement",
+      "published_date": "2026-05-28T12:44:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The Arab Spring was something from the people for the people': Singer Emel Mathlouthi",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260528-the-arab-spring-was-something-from-the-people-for-the-people-singer-emel-mathlouthi",
+      "published_date": "2026-05-28T11:39:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Navigo Easy or phone tickets? The best Paris Metro passes for visitors",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260528/navigo-easy-or-phone-tickets-the-best-paris-metro-passes-for-visitors",
+      "published_date": "2026-05-28T11:03:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after three injured in stabbing at Swiss train station",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-28T10:52:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France famous 'Yellow train' is back",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-france-famous-yellow-train-is-back",
+      "published_date": "2026-05-28T09:33:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Threats and control: Ethiopia opposition raises alarm ahead of elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-threats-and-control-ethiopia-opposition-raises-alarm-ahead-of-elections",
+      "published_date": "2026-05-28T09:32:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France to deploy 22,000 police officers for Champions League final",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260528/france-to-deploy-22000-police-officers-for-champions-league-final",
+      "published_date": "2026-05-28T07:21:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris and western France on heatwave alert as temperatures hit 39C",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260528/paris-and-western-france-on-heatwave-alert-as-temperatures-hit-39c",
+      "published_date": "2026-05-28T07:21:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Legal bid to block UK-backed French migrant detention centre",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdxpdqvdyz7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-28T06:10:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ghana begins repatriating citizens from South Africa after xenophobic attacks",
@@ -617,90 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260527/france-probes-alleged-election-interference-by-israeli-company",
       "published_date": "2026-05-27T06:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazilian candidate Flavio Bolsonaro asks Trump to designate crime groups as terrorists",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260527-bolsonaro-asks-trump-designate-brazil-crime-groups-terrorists",
-      "published_date": "2026-05-27T02:30:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Samsung workers avert strike, secure bonus deal after AI profit surge",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260526-samsung-workers-avert-strike-secure-bonus-deal-after-ai-profit-surge",
-      "published_date": "2026-05-26T21:13:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sinner storms into French Open second round with straight-sets win over Tabur",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260526-sinner-storms-into-french-open-second-round-with-straight-sets-win-over-tabur",
-      "published_date": "2026-05-26T20:53:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish police fire water cannon at protesters after opposition leader ousted – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/may/26/turkish-police-fire-water-cannon-at-protesters-after-opposition-leader-ousted-video",
-      "published_date": "2026-05-26T19:56:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Open 2026: Sabalenka shines, Osaka dazzles as Medvedev melts down in Paris heat",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260526-french-open-2026-sabalenka-shines-osaka-dazzles-as-medvedev-melts-down-in-paris-heat",
-      "published_date": "2026-05-26T19:04:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish police fire teargas to break up protest after opposition leader ousted",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/26/turkish-police-teargas-protest-opposition-leader-ousted",
-      "published_date": "2026-05-26T17:40:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four killed as school minibus collides with train in Belgium",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T17:11:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senegalese AFCON supporters return home after royal pardon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/senegalese-afcon-supporters-return-home-after-royal-pardon",
-      "published_date": "2026-05-26T16:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy’s top court rules against tourist refused tap water in Dolomites hotel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/26/italy-court-tourist-tap-water-dolomites-hotel",
-      "published_date": "2026-05-26T15:36:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup fever brings hope to NYC’s immigrant hubs after Trump crackdown",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260526-world-cup-fever-brings-hope-to-nyc-s-immigrant-hubs-after-trump-crackdown",
-      "published_date": "2026-05-26T15:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tsunami risk in the Mediterranean: Why Nice should prepare an evacuation plan",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260526/tsunami-risk-in-the-mediterranean-why-nice-should-prepare-an-evacuation-plan",
-      "published_date": "2026-05-26T15:16:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris's Notre Dame cathedral in the midst of a battle over its stained glass",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/paris-s-notre-dame-cathedral-in-the-midst-of-a-battle-over-its-stained-glass",
-      "published_date": "2026-05-26T15:15:50+00:00",
       "category": "Local Events"
     }
   ]
