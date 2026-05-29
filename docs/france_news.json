@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-05-28T14:36:52.909962+00:00",
+  "last_updated": "2026-05-29T00:08:10.659613+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Temu faces €200m EU fine over toxic, unsafe products",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260528-temu-faces-%E2%82%AC200m-eu-fine-over-toxic-unsafe-products",
+      "published_date": "2026-05-28T20:39:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No love for Arsenal? English fans divided ahead of Champions League final",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260528-no-love-for-arsenal-english-fans-divided-ahead-of-champions-league-final",
+      "published_date": "2026-05-28T18:16:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli entities to be added to UN sexual violence list over alleged Palestinian detainee abuse",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260528-israeli-authorities-to-be-added-to-un-sexual-violence-list-over-alleged-palestinian-detainee-abuse",
+      "published_date": "2026-05-28T17:02:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU probes deal that would give Chinese retailer a stake in France's Fnac Darty",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260528-eu-probes-deal-that-would-give-chinese-retailer-a-stake-in-france-s-fnac-darty",
+      "published_date": "2026-05-28T16:27:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sexual deepfakes used to silence voices of women in politics and media",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260528-sexual-deepfakes-fuel-efforts-to-silence-women-in-politics-and-media",
+      "published_date": "2026-05-28T16:06:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Crackdown on culture: Israel censoring Palestinian voices",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260528-crackdown-on-culture-israel-censoring-palestinian-voices",
+      "published_date": "2026-05-28T15:34:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "New food exports deal signals end to Brexit ‘sausage wars’",
       "source": "The Guardian",
@@ -102,46 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK will get no special treatment from EU, European ministers say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/27/uk-will-get-no-special-treatment-eu-european-ministers-say",
-      "published_date": "2026-05-27T16:08:45+00:00",
-      "category": "Diplomacy"
+      "title": "Anthropic valued at close to a trillion dollars in new funding round",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/technology/20260528-anthropic-valued-at-close-to-a-trillion-dollars-in-new-funding-round",
+      "published_date": "2026-05-28T23:26:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Thirty-five people want to be the next president of France. What could possibly go wrong?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/27/thirty-five-people-want-to-be-the-next-president-of-france-what-could-possibly-go-wrong",
-      "published_date": "2026-05-27T14:30:21+00:00",
-      "category": "Diplomacy"
+      "title": "WHO chief says deadly Ebola outbreak in DR Congo can be stopped",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260528-who-chief-says-deadly-ebola-outbreak-in-dr-congo-can-be-stopped",
+      "published_date": "2026-05-28T23:10:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hungarian MPs vote to remain member of ICC, overturning decision made by Orbán",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/27/hungary-mps-vote-remain-member-icc-overturn-decision-viktor-orban-peter-magyar",
-      "published_date": "2026-05-27T13:03:56+00:00",
-      "category": "Diplomacy"
+      "title": "Israel carries out strike on Beirut suburbs, first near capital in weeks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-israel-carries-out-strike-on-beirut-suburbs-first-near-capital-in-weeks",
+      "published_date": "2026-05-28T15:31:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "OPINION: Emmanuel Macron - where did it all go wrong?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260527/opinion-emmanuel-macron-where-did-it-all-go-wrong",
-      "published_date": "2026-05-27T08:10:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iceland’s foreign minister fears ‘Brexit moment’ in EU accession referendum",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/27/iceland-foreign-minister-thorgerthur-katrin-gunnarsdottir-brexit-moment-eu-accession-referendum",
-      "published_date": "2026-05-27T05:00:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How the plastic bottle cap became a parable for the value of EU regulation | Alberto Alemanno",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/27/how-the-plastic-bottle-cap-became-a-parable-for-the-value-of-eu-regulation",
-      "published_date": "2026-05-27T04:00:18+00:00",
-      "category": "Diplomacy"
+      "title": "Gaza children with Down syndrome are still reckoning with the devastation of the war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-gaza-children-with-down-syndrome-are-still-reckoning-with-the-devastation-of-the-war",
+      "published_date": "2026-05-28T15:27:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia on the back foot with dynamics of war shifting in Ukraine’s favour, EU says – Europe live",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "DRC faces 'catastrophic collision' of conflict and Ebola outbreak, WHO warns",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260527-drc-faces-catastrophic-collision-of-conflict-and-ebola-outbreak-who-warns",
-      "published_date": "2026-05-27T17:09:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "All by himself: Inside the 29 May Guardian Weekly",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/may/27/all-by-himself-inside-the-29-may-guardian-weekly",
-      "published_date": "2026-05-27T17:00:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe: New far-right generation turns away from Putin",
+      "title": "Brazil's Lula backs new oil, gas drilling in western Amazon",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260527-europe-new-far-right-generation-turns-away-from-putin",
-      "published_date": "2026-05-27T16:33:20+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260528-brazil-s-lula-backs-new-oil-gas-drilling-in-western-amazon",
+      "published_date": "2026-05-28T15:29:58+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘Put an end to this war’: Russian director Andrey Zvyagintsev makes new plea to Putin",
+      "title": "Burberry boss could earn up to £12.2m under new bonus scheme as company rolls back climate goals",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/27/russian-director-andrey-zvyagintsev-makes-appeal-to-putin",
-      "published_date": "2026-05-27T16:13:33+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/may/28/burberry-boss-joshua-schulman-could-earn-up-to-122m-new-bonus-scheme",
+      "published_date": "2026-05-28T15:24:20+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "France: 'We must consider the effect climate policies will have on the poorest'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-france-we-must-consider-the-effect-climate-policies-will-have-on-the-poorest",
+      "published_date": "2026-05-28T14:57:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘Hidden datacentre tax’ costing Irish households millions, report says",
@@ -403,25 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Temperatures soar across Europe as 'heat dome' drives May records",
+      "title": "Trump’s face on a $250 bill? US Treasury push for first banknote featuring living president",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260527-temperatures-soar-across-europe-as-heat-dome-drives-may-records-heatwave-france-uk-italy-spain",
-      "published_date": "2026-05-27T00:30:14+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260528-trump-s-face-on-a-250-bill-us-treasury-push-for-first-banknote-featuring-living-president",
+      "published_date": "2026-05-28T20:51:26+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Why is Europe heating up faster than the rest of the world?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260526-why-is-europe-heating-up-faster-than-the-rest-of-the-world",
-      "published_date": "2026-05-26T18:13:10+00:00",
-      "category": "Energy"
+      "title": "Much of what Blair said in essay criticising Labour was wrong, says Starmer – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/may/28/alan-milburn-neets-review-labour-youth-unemployment-uk-politics-live-latest-news",
+      "published_date": "2026-05-28T17:06:33+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Pope Leo takes aim at AI in encyclical",
+      "title": "EU to discuss potential restrictions on Chinese imports amid fears of overreliance",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/28/eu-discuss-restrictions-chinese-imports-fears-overreliance",
+      "published_date": "2026-05-28T16:29:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Senegal's ousted prime minister Sonko elected parliament speaker",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260526-pope-leo-takes-aim-at-ai-in-encyclical",
-      "published_date": "2026-05-26T12:42:51+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260528-senegal-s-ousted-prime-minister-sonko-elected-parliament-speaker",
+      "published_date": "2026-05-28T16:14:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "I. Coast faces sheep shortage ahead of Tabaski amid Sahel trade disruptions",
@@ -536,32 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Marco Rubio visits India as US and India seek to ease trade tensions",
+      "title": "Fire rips through a dormitory at a girls' school in Kenya",
       "source": "France 24",
-      "url": "https://www.france24.com/en/marco-rubio-visits-india-as-us-and-india-seek-to-ease-trade-tensions",
-      "published_date": "2026-05-25T14:59:27+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/fire-rips-through-a-dormitory-at-a-girls-school-in-kenya",
+      "published_date": "2026-05-28T20:15:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "CGT chief faces defamation probe, warns French union freedom is at risk",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260525-cgt-chief-faces-defamation-probe-warns-french-union-freedom-is-at-risk",
-      "published_date": "2026-05-25T11:46:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Security and social reform dominate Colombia’s presidential race",
+      "title": "US, Iran trade blame over fire exchanges",
       "source": "France 24",
-      "url": "https://www.france24.com/en/security-and-social-reform-dominate-colombia-s-presidential-race",
-      "published_date": "2026-05-25T10:24:18+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260528-us-iran-trade-blame-over-fire-exchanges",
+      "published_date": "2026-05-28T18:04:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Monkey business: artist chimps paint in their own style, study shows",
+      "title": "Milan restores bull mosaic’s testicles worn down by pirouetting tourists",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/28/bull-mosaic-testicles-milan-italy-restoration",
+      "published_date": "2026-05-28T17:17:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Top seed Sinner exits French Open as local teen Kouamé roars into third round",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/science-and-technology/20260524-monkey-business-artist-chimps-splash-out-in-their-own-style-study-shows",
-      "published_date": "2026-05-24T14:41:09+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/sports/20260528-top-seed-sinner-exits-french-open-as-home-teen-moise-kouam%C3%A9-roars-into-round-three",
+      "published_date": "2026-05-28T15:26:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran: US base targeted in missile strike",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260528-iran-us-base-targeted-in-missile-strike",
+      "published_date": "2026-05-28T15:25:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-28T14:47:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justice Department launches probe into columnist who accused Trump of sexual assault, source says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260528-justice-department-launches-probe-into-columnist-who-accused-trump-of-sexual-assault-source-says",
+      "published_date": "2026-05-28T14:42:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sinner eliminated from French Open under scorching temperatures",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260528-sinner-eliminated-from-french-open-under-scorching-temperatures",
+      "published_date": "2026-05-28T13:46:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Iran condemns US ceasefire 'violations' after strikes in south",
@@ -645,62 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cdxpdqvdyz7o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-28T06:10:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghana begins repatriating citizens from South Africa after xenophobic attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ghana-begins-repatriating-citizens-from-south-africa-after-xenophobic-attacks",
-      "published_date": "2026-05-27T20:44:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish police raid HQ of governing Socialists as corruption probe escalates",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78qy78dlj1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-27T15:48:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French universities to increase fees for international students",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260527/french-universities-to-increase-fees-for-international-students",
-      "published_date": "2026-05-27T14:00:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young asylum seekers far more likely to be assessed as adults by immigration officers than by social workers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/27/young-asylum-seekers-more-likely-assessed-adults-by-immigration-officers-than-social-workers",
-      "published_date": "2026-05-27T13:17:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany’s most wanted woman jailed after three decades evading police",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/27/daniela-klette-red-army-faction-jailed-armed-robberies-on-the-run",
-      "published_date": "2026-05-27T12:28:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-27T12:25:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’s getting hotter and it’s not stopping’: dealing with the heat in five of Europe’s capitals",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/27/its-getting-hotter-and-its-not-stopping-dealing-with-the-heat-in-five-of-europes-capitals",
-      "published_date": "2026-05-27T07:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France probes alleged election interference by Israeli company",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260527/france-probes-alleged-election-interference-by-israeli-company",
-      "published_date": "2026-05-27T06:45:00+00:00",
       "category": "Local Events"
     }
   ]
