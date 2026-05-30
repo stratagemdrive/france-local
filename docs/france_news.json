@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-05-30T12:02:21.728467+00:00",
+  "last_updated": "2026-05-30T23:58:22.066545+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Biggest EU economies agree on steps for financial integration",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260530/biggest-eu-economies-agree-on-steps-for-financial-integration",
+      "published_date": "2026-05-30T14:00:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France mourns intellectual 'grandfather', sociologist and philosopher Edgar Morin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-mourns-intellectual-grandfather-sociologist-and-philosopher-edgar-morin",
+      "published_date": "2026-05-30T12:36:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "European Union unlocks 16.4 billion euros in funds for Hungary at Magyar's Brussels visit",
       "source": "France 24",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "NATO vows 'absolute solidarity' with Romania over Russian drone",
+      "title": "Defending champion Gauff eliminated from French Open by Potapova",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-nato-vows-absolute-solidarity-with-romania-over-russian-drone",
-      "published_date": "2026-05-29T11:40:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/live-news/20260530-defending-champion-gauff-eliminated-from-french-open-by-potapova",
+      "published_date": "2026-05-30T18:29:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "France to investigate treatment of nationals on Gaza flotilla after reports of abuse",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260529-france-to-investigate-treatment-of-nationals-on-gaza-flotilla-after-reports-of-abuse",
-      "published_date": "2026-05-29T11:36:37+00:00",
-      "category": "Diplomacy"
+      "title": "Returning home to invest: Some entrepreneurs see opportunities in DRC despite instability",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/returning-home-to-invest-some-entrepreneurs-see-opportunities-in-drc-despite-instability",
+      "published_date": "2026-05-30T15:26:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US says 'more than capable' of resuming war, as peace deal remains elusive",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-says-more-than-capable-of-resuming-war-as-peace-deal-remains-elusive",
+      "published_date": "2026-05-30T14:25:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
+      "published_date": "2026-05-30T13:00:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Liverpool FC sack head coach Arne Slot a year after winning Premier League championship",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260530-liverpool-fc-sack-head-coach-arne-slot-after-difficult-season",
+      "published_date": "2026-05-30T11:53:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Look at how Germany defeated the Red Army Faction. The lessons about how to fight terrorism are all there | Jason Burke",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Could Nato be dragged into war with Russia? – The Latest",
+      "title": "Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/may/29/could-nato-join-russia-ukraine-war-after-romania-strike-the-latest",
-      "published_date": "2026-05-29T16:19:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in Lebanon: Cultural heritage at risk",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260529-war-in-lebanon-cultural-heritage-at-risk",
-      "published_date": "2026-05-29T16:14:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces cross key Lebanon river in expanded ground offensive",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-israeli-forces-cross-key-lebanon-river-in-expanded-ground-offensive",
-      "published_date": "2026-05-29T15:48:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says now making 'final determination' on Iran deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-trump-says-now-making-final-determination-on-iran-deal",
-      "published_date": "2026-05-29T15:44:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Iran deal: Tehran demands release of frozen assets",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-us-iran-deal-tehran-demands-release-of-frozen-assets",
-      "published_date": "2026-05-29T15:28:13+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump",
+      "published_date": "2026-05-30T12:00:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "More climate records under threat as spring heatwave bakes western Europe",
@@ -414,13 +421,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20260527-solar-investment-surges-as-ghana-races-to-hit-renewable-targets",
       "published_date": "2026-05-27T12:06:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘Mind-bogglingly crazy’: climate experts alarmed by deadly spring heatwaves searing Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/27/mind-bogglingly-crazy-climate-experts-alarmed-by-deadly-spring-heatwaves-searing-europe",
-      "published_date": "2026-05-27T11:00:18+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,104 @@
       "category": "Economy"
     },
     {
+      "title": "Paris police arrest more than 130 as PSG fans celebrate Champions League win over Arsenal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/30/paris-police-arrest-paris-saint-germain-fans-celebrate-champions-league-win-over-arsenal",
+      "published_date": "2026-05-30T22:37:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG beat Arsenal in a penalty shoot-out to retain Champions League",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260530-psg-beat-arsenal-in-penalty-shoot-out-to-retain-champions-league",
+      "published_date": "2026-05-30T19:48:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luis Enrique hails 'even bigger' win as PSG retain Champions League title",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260530-luis-enrique-hails-even-bigger-win-as-psg-retain-champions-league-title",
+      "published_date": "2026-05-30T19:33:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG go back-to-back and join 'greatest of all time'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T19:31:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG beat Arsenal on penalties to win back-to-back Champions League titles",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260530-psg-beat-arsenal-in-penalty-shootout-to-win-back-to-back-champions-league-titles",
+      "published_date": "2026-05-30T19:03:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kanye West concert in Italy cancelled over ‘public order and safety issues’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/may/30/kanye-west-concert-italy-cancelled-public-order-and-safety-issues",
+      "published_date": "2026-05-30T19:01:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T17:34:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T15:39:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG and Arsenal chase European glory at UEFA Champions League final",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/psg-and-arsenal-chase-european-glory-at-uefa-champions-league-final",
+      "published_date": "2026-05-30T15:24:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heat Wave Grips France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260530-heat-wave-grips-france",
+      "published_date": "2026-05-30T14:36:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inmates in overcrowded French prison say heatwave makes conditions 'inhumane'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260530-inmates-in-overcrowded-french-prison-say-heatwave-makes-conditions-inhumane",
+      "published_date": "2026-05-30T14:23:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG hold on to Champions League title after dramatic shootout win over Arsenal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260530-psg-vs-arsenal-live-follow-champions-league-final",
+      "published_date": "2026-05-30T14:09:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey enters political unknown after police raid opposition party headquarters",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260530-turkey-enters-political-unknown-after-police-raid-opposition-party-headquarters",
+      "published_date": "2026-05-30T13:30:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Festive atmosphere in Budapest as PSG and Arsenal eye Champions League title",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/festive-atmosphere-in-budapest-as-psg-and-arsenal-eye-champions-league-title",
+      "published_date": "2026-05-30T12:33:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UCL final: Raising concerns in Paris that troublemakers will cause unrest",
       "source": "France 24",
       "url": "https://www.france24.com/en/ucl-final-raising-concerns-in-paris-that-troublemakers-will-cause-unrest",
@@ -603,104 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/sport/20260530-decided-on-moments-psg-arsenal-in-knife-edge-champions-league-final",
       "published_date": "2026-05-30T02:07:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain's Sanchez running out of road as corruption probes stack up",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-spain-s-sanchez-running-out-of-road-as-corruption-probes-stack-up",
-      "published_date": "2026-05-29T15:30:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Scamdemic’: Inside Southeast Asia's cyber fraud industry",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20260529-scamdemic-inside-southeast-asia-s-cyber-fraud-industry",
-      "published_date": "2026-05-29T14:57:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians mourn 10 killed in Eid strikes as Netanyahu vows wider control of Gaza",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-palestinians-mourn-10-killed-in-eid-strikes-as-netanyahu-vows-wider-control-of-gaza",
-      "published_date": "2026-05-29T13:33:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WHO chief lands in DR Congo, saying Ebola outbreak 'can be stopped'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-who-chief-lands-in-dr-congo-saying-ebola-outbreak-can-be-stopped",
-      "published_date": "2026-05-29T13:32:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya court suspends opening of US Ebola quarantine centre",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-kenya-court-suspends-opening-of-us-ebola-quarantine-centre",
-      "published_date": "2026-05-29T13:31:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kabwe, Zambia's lead contaminated city",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-kabwe-zambia-s-lead-contaminated-city",
-      "published_date": "2026-05-29T13:05:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexico's Tijuana: From gateway to the American Dream to dead end",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/revisited/20260529-mexico-tijuana-from-gateway-to-the-american-dream-to-dead-end",
-      "published_date": "2026-05-29T12:41:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kabwe, the African city where children carry the burden of lead poisoning",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/reporters/20260529-kabwe-the-african-city-where-children-carry-the-burden-of-lead-poisoning",
-      "published_date": "2026-05-29T12:32:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary police say 'no grounds' to ban Budapest Pride parade",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260529-hungary-police-say-no-grounds-to-ban-budapest-pride-parade",
-      "published_date": "2026-05-29T12:06:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenyan girls' school fire kills 16 students, injures 79",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-kenyan-girls-school-fire-kills-16-students-injures-79",
-      "published_date": "2026-05-29T11:39:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ten years on, Chadian ex-dictator Habre's trial inspires global justice",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-ten-years-on-chadian-ex-dictator-habre-s-trial-inspires-global-justice",
-      "published_date": "2026-05-29T11:38:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can I keep my kids home from school in France during a heatwave?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260529/can-i-keep-my-kids-home-from-school-in-france-during-a-heatwave",
-      "published_date": "2026-05-29T11:05:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'It's unfair you can't do everything here': Education comes with exile in Martinique",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260529-it-s-unfair-you-can-t-do-everything-here-education-comes-with-exile-in-martinique",
-      "published_date": "2026-05-29T10:01:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather tracker: deadly May heatwave shatters records across Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/29/weather-tracker-deadly-may-heatwave-shatters-records-across-europe",
-      "published_date": "2026-05-29T09:47:11+00:00",
       "category": "Local Events"
     }
   ]
