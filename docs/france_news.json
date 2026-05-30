@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-05-30T00:06:13.138056+00:00",
+  "last_updated": "2026-05-30T12:02:21.728467+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "European Union unlocks 16.4 billion euros in funds for Hungary at Magyar's Brussels visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/european-union-unlocks-16-4-billion-euros-in-funds-for-hungary-at-magyar-s-brussels-visit",
+      "published_date": "2026-05-30T10:49:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Romania says Russian drone targeting Ukraine crashes in apartment, killing two",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/romania-says-russian-drone-targeting-ukraine-crashes-in-apartment-killing-two",
+      "published_date": "2026-05-30T10:20:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Putin's warning to Armenia: Russia or the European Union",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260530-putin-s-warning-to-armenia-russia-or-the-european-union",
+      "published_date": "2026-05-30T08:55:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East Live: Iran says Trump 'betraying diplomacy' with blockade, excessive demands",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260530-middle-east-live-pentagon-chief-says-us-more-than-capable-of-restarting-war-with-iran",
+      "published_date": "2026-05-30T05:04:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU hails Hungary's 'wind of change' and unlocks €16.4bn for new PM Magyar",
       "source": "BBC News",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russian drone hits Romania apartment block, drawing NATO, EU outrage",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-russian-drone-hits-romania-apartment-block-drawing-nato-eu-outrage",
-      "published_date": "2026-05-29T10:33:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nato ready to defend ‘every inch’ of territory as Russian drone hits Romania",
+      "title": "Look at how Germany defeated the Red Army Faction. The lessons about how to fight terrorism are all there | Jason Burke",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/29/russian-drone-romanian-apartments-wounding-two-people-and-starting-fire",
-      "published_date": "2026-05-29T09:11:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/may/30/germany-defeat-red-army-faction-lessons-fight-terrorism",
+      "published_date": "2026-05-30T11:00:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "France to investigate treatment of nationals on Gaza flotilla after reports of abuse",
+      "title": "How to to end edemic violence in Colombia? Presidential elections to take place on Sunday",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260529-france-to-investigate-treatment-of-nationals-on-gaza-flotilla-after-reports-of-abuse",
-      "published_date": "2026-05-29T08:27:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/how-to-to-end-edemic-violence-in-colombia-presidential-elections-to-take-place-on-sunday",
+      "published_date": "2026-05-30T10:57:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hungarian PM Peter Magyar seeks release of frozen EU funds in Brussels talks",
+      "title": "Israeli troops push deeper into Lebanon, crossing the Litani river, as talks expected",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israeli-troops-push-deeper-into-lebanon-crossing-the-litani-river-as-talks-expected",
+      "published_date": "2026-05-30T10:14:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French Resistance figure, philosopher Edgar Morin dies at 104",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260529-hungarian-pm-peter-magyar-seeks-release-of-frozen-eu-funds-in-brussels-talks",
-      "published_date": "2026-05-29T05:05:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/france/20260530-french-resistance-figure-philosopher-edgar-morin-dies-at-104",
+      "published_date": "2026-05-30T09:12:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Edgar Morin: France's intellectual 'grandfather' dies at 104",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260530/edgar-morin-frances-intellectual-grandfather-dies-at-104",
+      "published_date": "2026-05-30T08:21:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why does Trump want to transfer Cold War-era plutonium to nuclear start-ups?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260530-why-does-trump-want-to-transfer-cold-war-era-plutonium-to-nuclear-start-ups",
+      "published_date": "2026-05-30T07:40:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French intellectual and inventor of 'cinema verité' Edgar Morin dies at 104",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260530-french-intellectual-and-inventor-of-cinema-verite-edgar-morin-dies-at-104",
+      "published_date": "2026-05-30T07:21:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘We could hear the roof collapsing’: how Russian missiles devastated Kyiv’s cultural sites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/30/russian-missiles-devastated-kyiv-cultural-sites",
+      "published_date": "2026-05-30T06:00:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russia preparing ‘massive new strike’, Zelenskyy says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/30/ukraine-war-briefing-russia-preparing-massive-new-strike-zelenskyy-says",
+      "published_date": "2026-05-30T01:36:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T01:34:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hollywood studios, actors' union find common ground on artificial intelligence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/culture/20260530-hollywood-studios-and-union-find-common-ground-on-use-of-artificial-intelligence",
+      "published_date": "2026-05-30T01:15:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says he’s making final decision on Iran deal as Tehran slams ‘mixture of truth and lies’",
@@ -204,83 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260529-us-iran-deal-tehran-demands-release-of-frozen-assets",
       "published_date": "2026-05-29T15:28:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin's cabal must be brought to trial for crimes in Ukraine. With this plan, the world can do that | Gordon Brown",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/29/vladimir-putin-trial-crimes-russia-ukraine-plan--gordon-brown",
-      "published_date": "2026-05-29T13:33:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-russian-drone-launched-against-ukraine-crashes-in-romania-injuring-2",
-      "published_date": "2026-05-29T11:42:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Closer to war or to peace? US, Iran near deal on 60-day ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-closer-to-war-or-to-peace-us-iran-near-deal-on-60-day-ceasefire",
-      "published_date": "2026-05-29T11:35:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Tightening the grip': Israeli army to take control of 70 percent of Gaza Strip",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-tightening-the-grip-israeli-army-to-take-control-of-70-percent-of-gaza-strip",
-      "published_date": "2026-05-29T10:32:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel launches deadly strike near Beirut, widening Lebanon offensive",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-israel-launches-deadly-strike-near-beirut-widening-lebanon-offensive",
-      "published_date": "2026-05-29T10:29:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How far have the US and Iran got towards ending the Iran war?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-how-far-have-the-us-and-iran-got-towards-ending-the-iran-war",
-      "published_date": "2026-05-29T10:28:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu directs Israeli forces to expand Gaza control to 70 percent",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-netanyahu-directs-israeli-forces-to-expand-gaza-control-to-70-percent",
-      "published_date": "2026-05-29T10:02:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The US wants regime change in Cuba. But Havana’s European friends have deserted it too | Paul Taylor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/29/cuba-us-blockade-europe-spain",
-      "published_date": "2026-05-29T04:00:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Gripen fighter jet deal ramps up after Zelenskyy visit to Sweden",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/29/ukraine-war-briefing-gripen-jet-deal-sweden-zelenskyy",
-      "published_date": "2026-05-29T01:24:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anthropic valued at close to a trillion dollars in new funding round",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20260528-anthropic-valued-at-close-to-a-trillion-dollars-in-new-funding-round",
-      "published_date": "2026-05-28T23:26:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WHO chief says deadly Ebola outbreak in DR Congo can be stopped",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260528-who-chief-says-deadly-ebola-outbreak-in-dr-congo-can-be-stopped",
-      "published_date": "2026-05-28T23:10:57+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "\"Choose France\" summit to kick off as factory closures multiply",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/choose-france-summit-to-kick-off-as-factory-closures-multiply",
+      "published_date": "2026-05-30T10:52:38+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Pakistan: Male contraception still taboo despite looming demographic crisis",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/focus/20260529-pakistan-male-contraception-still-taboo-despite-looming-demographic-crisis",
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Bolivian president slashes salary by 50% to calm protests",
+      "title": "UCL final: Raising concerns in Paris that troublemakers will cause unrest",
       "source": "France 24",
-      "url": "https://www.france24.com/en/bolivian-president-slashes-salary-by-50-to-calm-protests",
-      "published_date": "2026-05-26T12:24:55+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/ucl-final-raising-concerns-in-paris-that-troublemakers-will-cause-unrest",
+      "published_date": "2026-05-30T10:50:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French singer Patrick Bruel cancels slew of concerts over rape allegations",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260530-french-singer-patrick-bruel-cancels-slew-of-concerts-over-rape-allegations",
+      "published_date": "2026-05-30T10:40:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League Final: PSG and Arsenal set for battle of superstars",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260530-champions-league-final-psg-arsenal-battle-of-superstars",
+      "published_date": "2026-05-30T09:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG coach Enrique dismisses favourites tag before Arsenal showdown",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260530-psg-coach-enrique-dismisses-favourites-tag-before-arsenal-showdown-champions-league-football",
+      "published_date": "2026-05-30T07:34:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arsenal fans use ‘trains, planes and automobiles’ in race to Budapest for Champions League final",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/may/30/arsenal-fans-race-budapest-champions-league-final",
+      "published_date": "2026-05-30T05:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'No favourites': PSG, Arsenal set for knife-edge Champions League final",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260530-decided-on-moments-psg-arsenal-in-knife-edge-champions-league-final",
+      "published_date": "2026-05-30T02:07:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spain's Sanchez running out of road as corruption probes stack up",
@@ -659,48 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/may/29/weather-tracker-deadly-may-heatwave-shatters-records-across-europe",
       "published_date": "2026-05-29T09:47:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya high court suspends plan to open US Ebola quarantine centre",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260529-kenya-high-court-suspends-plan-to-open-us-ebola-quarantine-centre",
-      "published_date": "2026-05-29T09:26:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EXPLAINED: France’s rules on family reunification for foreign residents",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260529/explained-frances-rules-on-family-reunification-for-foreign-residents",
-      "published_date": "2026-05-29T09:04:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Believing in peace is not naive' say Israeli and Palestinian 'brothers'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260529-believing-in-peace-is-not-naive-say-israeli-and-palestinian-brothers",
-      "published_date": "2026-05-29T08:17:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris braces for 35C as heatwave eases in western France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260529/france-heatwave-eases-in-west-as-paris-braces-for-35c",
-      "published_date": "2026-05-29T07:08:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Belle Vie: Surviving the heatwave in Paris and living in tiny apartments",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260529/la-belle-vie-surviving-the-heatwave-in-paris-and-living-in-tiny-apartments",
-      "published_date": "2026-05-29T06:55:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: Ukraine ready to support Romania in 'whatever way necessary', Zelensky says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260529-live-nato-condemns-russia-s-recklessness-after-drone-hit-apartment-building-in-romania",
-      "published_date": "2026-05-29T05:42:42+00:00",
       "category": "Local Events"
     }
   ]
