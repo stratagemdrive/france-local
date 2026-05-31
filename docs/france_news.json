@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-05-30T23:58:22.066545+00:00",
+  "last_updated": "2026-05-31T12:07:35.436855+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "When will the EU punch its weight in a perilous world? That’s the question countries eager to join should be asking | Simon Tisdall",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/31/eu-perilous-world-countries-join",
+      "published_date": "2026-05-31T05:00:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Biggest EU economies agree on steps for financial integration",
       "source": "The Local France",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hungarian police approve Budapest Pride in break from Orbán era",
+      "title": "Israel orders new evacuations in Lebanon and pushes further north",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-orders-new-evacuations-in-lebanon-and-pushes-further-north",
+      "published_date": "2026-05-31T10:55:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Colombia votes in presidential election pitting Petro allies against pro-Trump candidates",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-pits-petro-allies-against-pro-trump-candidates",
+      "published_date": "2026-05-31T09:53:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Japan's SoftBank to spend €75bn on AI centres in France",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/business/20260531-japan-s-softbank-to-spend-%E2%82%AC75bn-on-ai-centres-in-france",
+      "published_date": "2026-05-31T09:42:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US will send only used nuclear submarines to Australia under amended AUKUS defence deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260531-us-will-send-only-used-nuclear-submarines-to-australia-under-amended-aukus-defence-deal",
+      "published_date": "2026-05-31T08:00:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East live: Israel captures, plants its flag on medieval castle in southern Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260531-middle-east-live-israel-says-ground-forces-expanding-in-lebanon",
+      "published_date": "2026-05-31T05:15:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv denies its drone ‘deliberately’ hit Zaporizhzhia nuclear plant",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/29/hungarian-police-approve-budapest-pride-despite-previous-ban",
-      "published_date": "2026-05-29T11:56:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/31/ukraine-war-briefing-kyiv-denies-its-drone-deliberately-hit-zaporizhzhia-nuclear-plant",
+      "published_date": "2026-05-31T00:38:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Defending champion Gauff eliminated from French Open by Potapova",
@@ -239,48 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/30/ukraine-war-briefing-russia-preparing-massive-new-strike-zelenskyy-says",
       "published_date": "2026-05-30T01:36:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-30T01:34:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hollywood studios, actors' union find common ground on artificial intelligence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260530-hollywood-studios-and-union-find-common-ground-on-use-of-artificial-intelligence",
-      "published_date": "2026-05-30T01:15:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says he’s making final decision on Iran deal as Tehran slams ‘mixture of truth and lies’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260529-trump-says-he-s-making-final-decision-on-iran-deal-as-tehran-slams-mixture-of-truth-and-lies",
-      "published_date": "2026-05-29T20:55:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: Is Trump “Bored”?, Bolivia at “Breaking point” A Spanish Scandal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260529-iran-is-trump-bored-bolivia-at-breaking-point-a-spanish-scandal",
-      "published_date": "2026-05-29T19:45:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN adds Israel and Russia to blacklist for sexual violence in conflict",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/29/un-israel-russia-blacklist-sexual-violence-conflict",
-      "published_date": "2026-05-29T17:37:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could Nato be dragged into Ukraine-Russia war? – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/may/29/could-nato-be-dragged-into-russia-ukraine-war-the-latest",
-      "published_date": "2026-05-29T16:59:37+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260531/on-the-agenda-whats-happening-in-france-this-week-212",
+      "published_date": "2026-05-31T07:13:30+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "\"Choose France\" summit to kick off as factory closures multiply",
       "source": "France 24",
       "url": "https://www.france24.com/en/choose-france-summit-to-kick-off-as-factory-closures-multiply",
@@ -557,11 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Senegal's ex-PM elected National Assembly speaker despite sacking from president",
+      "title": "PSG fans await celebration in Paris bacto-back UEFA Champions League victory",
       "source": "France 24",
-      "url": "https://www.france24.com/en/senegal-s-ex-pm-elected-national-assembly-speaker-despite-sacking-from-president",
-      "published_date": "2026-05-26T13:02:38+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/psg-fans-await-celebration-in-paris-bacto-back-uefa-champions-league-victory",
+      "published_date": "2026-05-31T11:35:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Fujimori never again!\" Protesters fill streets of Lima ahead of Peru presidential elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/fujimori-never-again-protesters-fill-streets-of-lima-ahead-of-peru-presidential-elections",
+      "published_date": "2026-05-31T11:30:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clashes in Paris after PSG win Champions League final – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/may/31/clashes-in-paris-after-psg-win-champions-league-final-video",
+      "published_date": "2026-05-31T11:26:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-31T11:26:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three months after the strike, Iranian families still mourn Minab's children",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/three-months-after-the-strike-iranian-families-still-mourn-minab-s-children",
+      "published_date": "2026-05-31T10:56:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG win Champions League back-to-back, Paris supporters ecstatic",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/psg-win-champions-league-back-to-back-paris-supporters-ecstatic",
+      "published_date": "2026-05-31T10:54:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League: PSG make history with victory over Arsenal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260531-champions-league-psg-make-history-with-victory-over-arsenal",
+      "published_date": "2026-05-31T10:08:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women gain ground in France as running clubs turn sport into community",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260531-women-gain-ground-or-space-as-running-clubs-boom-in-post-pandemic-paris",
+      "published_date": "2026-05-31T09:08:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds detained after violent clashes on PSG victory night",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260531-hundreds-detained-as-clashes-erupt-on-psg-victory-night-football-paris-france-champions-league",
+      "published_date": "2026-05-31T08:13:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds arrested as clashes erupt in Paris on PSG victory night",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260531/hundreds-arrested-as-clashes-erupt-in-paris-on-psg-victory-night",
+      "published_date": "2026-05-31T08:04:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds detained in Paris as clashes erupt on PSG victory night",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260531-more-than-280-arrested-in-paris-as-clashes-erupt-on-psg-victory-night",
+      "published_date": "2026-05-31T05:38:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NBA: Wembanyama within sight of 'childhood dream' after Spurs stun Thunder",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260531-wembanyama-within-sight-of-childhood-dream-after-spurs-stun-thunder",
+      "published_date": "2026-05-31T04:55:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Paris police arrest more than 130 as PSG fans celebrate Champions League win over Arsenal",
@@ -617,90 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-30T15:39:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG and Arsenal chase European glory at UEFA Champions League final",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/psg-and-arsenal-chase-european-glory-at-uefa-champions-league-final",
-      "published_date": "2026-05-30T15:24:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heat Wave Grips France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260530-heat-wave-grips-france",
-      "published_date": "2026-05-30T14:36:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inmates in overcrowded French prison say heatwave makes conditions 'inhumane'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260530-inmates-in-overcrowded-french-prison-say-heatwave-makes-conditions-inhumane",
-      "published_date": "2026-05-30T14:23:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG hold on to Champions League title after dramatic shootout win over Arsenal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260530-psg-vs-arsenal-live-follow-champions-league-final",
-      "published_date": "2026-05-30T14:09:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey enters political unknown after police raid opposition party headquarters",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260530-turkey-enters-political-unknown-after-police-raid-opposition-party-headquarters",
-      "published_date": "2026-05-30T13:30:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Festive atmosphere in Budapest as PSG and Arsenal eye Champions League title",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/festive-atmosphere-in-budapest-as-psg-and-arsenal-eye-champions-league-title",
-      "published_date": "2026-05-30T12:33:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UCL final: Raising concerns in Paris that troublemakers will cause unrest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ucl-final-raising-concerns-in-paris-that-troublemakers-will-cause-unrest",
-      "published_date": "2026-05-30T10:50:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French singer Patrick Bruel cancels slew of concerts over rape allegations",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260530-french-singer-patrick-bruel-cancels-slew-of-concerts-over-rape-allegations",
-      "published_date": "2026-05-30T10:40:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League Final: PSG and Arsenal set for battle of superstars",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260530-champions-league-final-psg-arsenal-battle-of-superstars",
-      "published_date": "2026-05-30T09:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG coach Enrique dismisses favourites tag before Arsenal showdown",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260530-psg-coach-enrique-dismisses-favourites-tag-before-arsenal-showdown-champions-league-football",
-      "published_date": "2026-05-30T07:34:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arsenal fans use ‘trains, planes and automobiles’ in race to Budapest for Champions League final",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/may/30/arsenal-fans-race-budapest-champions-league-final",
-      "published_date": "2026-05-30T05:00:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'No favourites': PSG, Arsenal set for knife-edge Champions League final",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260530-decided-on-moments-psg-arsenal-in-knife-edge-champions-league-final",
-      "published_date": "2026-05-30T02:07:12+00:00",
       "category": "Local Events"
     }
   ]
