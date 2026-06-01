@@ -1,8 +1,85 @@
 {
   "country": "France",
-  "last_updated": "2026-06-01T00:03:21.770324+00:00",
+  "last_updated": "2026-06-01T16:34:28.188625+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "'Choose France' summit puts AI at heart of Macron’s €93 billion investment drive",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260601-choose-france-summit-puts-ai-at-heart-of-macron-s-%E2%82%AC93-billion-investment-drive",
+      "published_date": "2026-06-01T16:26:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia: 'One of the most rapidly growing economies in Africa, but wealth distribution is terrible'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ethiopia-one-of-the-most-rapidly-growing-economies-in-africa-but-wealth-distribution-is-terrible",
+      "published_date": "2026-06-01T15:27:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France seizes Russia-linked oil tanker",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260601-france-seizes-russia-linked-oil-tanker",
+      "published_date": "2026-06-01T14:47:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Security Council to meet as Israel pushes deeper into Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260601-un-security-council-to-meet-as-israel-pushes-deeper-into-lebanon",
+      "published_date": "2026-06-01T14:32:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Catastrophic for creative industries’: Brexit barriers shut UK actors out of EU jobs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/01/creative-industries-brexit-barriers-uk-actors-eu-jobs",
+      "published_date": "2026-06-01T13:00:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French navy boards Russia-linked oil tanker in Atlantic – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/01/french-navy-boards-russia-linked-oil-tanker-in-atlantic-video",
+      "published_date": "2026-06-01T12:57:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe’s fight to stay in the AI race",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260601-europe-s-fight-to-stay-in-the-ai-race",
+      "published_date": "2026-06-01T12:00:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French navy seizes Russia-linked oil tanker in Atlantic",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/01/macron-french-navy-boarded-russia-linked-oil-tanker-atlantic",
+      "published_date": "2026-06-01T11:34:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian oil tanker intercepted by France and allies in Atlantic",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260601-russian-oil-tanker-intercepted-by-france-and-allies-in-atlantic",
+      "published_date": "2026-06-01T10:21:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron announces €93 billion in 'Choose France' investments",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260601/macron-announces-e93-bn-in-choose-france-investments",
+      "published_date": "2026-06-01T10:09:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France boards fourth Russian oil tanker as crackdown on ‘shadow fleet’ continues",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260601-france-boards-fourth-russian-oil-tanker-as-crackdown-on-shadow-fleet-continues",
+      "published_date": "2026-06-01T07:14:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Football heroes: PSG victory toasted by thousands of fans in Paris",
       "source": "RFI English",
@@ -67,81 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU hails Hungary's 'wind of change' and unlocks €16.4bn for new PM Magyar",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8plenyk6no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-29T19:38:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Romania hit by drone strike: Foreign Minister speaks to FRANCE 24",
+      "title": "Live: Israeli military issues evacuation warning for Beirut's southern suburbs",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260529-romania-hit-by-drone-strike-foreign-minister-speaks-to-france-24",
-      "published_date": "2026-05-29T19:27:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260601-middle-east-live-us-pushes-lebanon-and-israel-on-new-ceasefire-plan-official-says",
+      "published_date": "2026-06-01T14:42:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "'We need Operation Eastern Sentry': NATO's eastern flank 'facing Russian threat every week'",
+      "title": "'Most extreme right-wing fringes of Netanyahu govt call for far greater military action in Lebanon'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260529-we-need-operation-eastern-sentry-nato-s-eastern-flank-facing-russian-threat-every-week",
-      "published_date": "2026-05-29T18:40:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/most-extreme-right-wing-fringes-of-netanyahu-govt-call-for-far-greater-military-action-in-lebanon",
+      "published_date": "2026-06-01T14:18:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Yemen edges closer to collapse after a decade of war and neglect, UN warns",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260529-yemen-edges-closer-to-collapse-after-a-decade-of-war-and-neglect",
-      "published_date": "2026-05-29T16:48:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian regime still standing three months after Khamenei’s death",
+      "title": "'Chaotic scenes' in Beirut after Netanyahu orders strikes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-iranian-regime-still-standing-three-months-after-khamenei-s-death",
-      "published_date": "2026-05-29T16:24:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260601-chaotic-scenes-in-beirut-after-netanyahu-orders-strikes",
+      "published_date": "2026-06-01T13:42:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU unlocks €16bn for Hungary, as new PM Magyar presses on with reforms",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260529-eu-unlocks-%E2%82%AC16bn-for-hungary-as-new-pm-magyar-presses-on-with-reforms",
-      "published_date": "2026-05-29T15:40:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Romania: Russian drone hits apartment building",
+      "title": "Kuwait intercepts drones, missiles as US and Iran trade fire",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-romania-russian-drone-hits-apartment-building",
-      "published_date": "2026-05-29T15:01:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260601-kuwait-intercepts-drones-missiles-as-us-and-iran-trade-fire",
+      "published_date": "2026-06-01T11:21:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK rape ruling sparks nationwide outcry",
+      "title": "Ukraine: How a kamikaze drone partially operated by AI is attacking Russian convoys",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-51/20260529-uk-rape-ruling-sparks-nationwide-outcry",
-      "published_date": "2026-05-29T14:42:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260601-ukraine-kamikaze-drone-partially-operated-ai-attacking-russian-convoys",
+      "published_date": "2026-06-01T11:18:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU to unlock 16 billion euros for Hungary as Magyar pushes ahead with post-Orban reforms",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260529-eu-to-unlock-16-billion-euros-for-hungary-as-magyar-pushes-ahead-with-post-orban-reforms",
-      "published_date": "2026-05-29T14:26:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "€16.4bn in funds unlocked for Hungary as part of deal with EU, Magyar says – Europe live",
+      "title": "Family’s 90-year search for answers after father vanished in Francoist uprising – photo essay",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/29/romania-ukraine-russia-galati-drone-strike-europe-live-breaking-news",
-      "published_date": "2026-05-29T13:45:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/artanddesign/2026/jun/01/spain-family-answers-search-franco-uprising-disappeared-photo-essay",
+      "published_date": "2026-06-01T06:00:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "Europe’s fight to stay in the AI race",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260529-europe-s-fight-to-stay-in-the-ai-race",
-      "published_date": "2026-05-29T13:39:29+00:00",
-      "category": "Diplomacy"
+      "title": "The Guest review – the risks of protecting refugees in the Poland-Belarus danger zone",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jun/01/the-guest-review-the-risks-of-protecting-refugees-in-the-poland-belarus-danger-zone",
+      "published_date": "2026-06-01T06:00:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The drivers risking death on Ukraine's most dangerous bus routes",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87q2eq8r1yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-31T23:40:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Ethiopia election overshadowed by war, instability and muted opposition",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Returning home to invest: Some entrepreneurs see opportunities in DRC despite instability",
+      "title": "Trump's oil blockade on Cuba aggravates Havana's garbage crisis",
       "source": "France 24",
-      "url": "https://www.france24.com/en/returning-home-to-invest-some-entrepreneurs-see-opportunities-in-drc-despite-instability",
-      "published_date": "2026-05-30T15:26:51+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260601-trump-s-oil-blockade-on-cuba-aggravates-havana-s-garbage-crisis",
+      "published_date": "2026-06-01T10:54:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US says 'more than capable' of resuming war, as peace deal remains elusive",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-says-more-than-capable-of-resuming-war-as-peace-deal-remains-elusive",
-      "published_date": "2026-05-30T14:25:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
+      "title": "Typhoon Jangmi threatens Japan as Europe swelters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
-      "published_date": "2026-05-30T13:00:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Liverpool FC sack head coach Arne Slot a year after winning Premier League championship",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260530-liverpool-fc-sack-head-coach-arne-slot-after-difficult-season",
-      "published_date": "2026-05-30T11:53:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Look at how Germany defeated the Red Army Faction. The lessons about how to fight terrorism are all there | Jason Burke",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/30/germany-defeat-red-army-faction-lessons-fight-terrorism",
-      "published_date": "2026-05-30T11:00:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How to to end edemic violence in Colombia? Presidential elections to take place on Sunday",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/how-to-to-end-edemic-violence-in-colombia-presidential-elections-to-take-place-on-sunday",
-      "published_date": "2026-05-30T10:57:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli troops push deeper into Lebanon, crossing the Litani river, as talks expected",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israeli-troops-push-deeper-into-lebanon-crossing-the-litani-river-as-talks-expected",
-      "published_date": "2026-05-30T10:14:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French Resistance figure, philosopher Edgar Morin dies at 104",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260530-french-resistance-figure-philosopher-edgar-morin-dies-at-104",
-      "published_date": "2026-05-30T09:12:38+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia",
+      "published_date": "2026-06-01T07:17:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukraine hits Russian energy targets, denies striking Zaporizhzhia nuclear plant",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Pope Leo inspects Ferrari's first fully electric vehicle",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c8d826nve86o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-27T14:42:07+00:00",
-      "category": "Energy"
+      "title": "French museum reports theft of arty banana",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260601/french-museum-reports-theft-of-arty-banana",
+      "published_date": "2026-06-01T07:07:51+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Europe heatwave a 'brutal reminder' of climate change",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260527/europe-heatwave-a-brutal-reminder-of-climate-change",
-      "published_date": "2026-05-27T13:22:09+00:00",
-      "category": "Energy"
+      "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
+      "published_date": "2026-06-01T06:00:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Malta's Labour party wins historic fourth term in shadow of Middle East crisis",
@@ -550,18 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "French luxury store Galeries Lafayette shuts Beijing flagship branch after 13 years",
+      "title": "Malta: Explosion at a fireworks factory",
       "source": "France 24",
-      "url": "https://www.france24.com/en/economy/20260527-french-luxury-store-shuts-beijing-flagship-13-years-china-spending-weakens",
-      "published_date": "2026-05-27T03:15:26+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260601-malta-explosion-at-a-fireworks-factory",
+      "published_date": "2026-06-01T16:00:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "ACROSS AFRICA | Marie Lora-Mungai & the essential business handbook for the continent's creatives",
+      "title": "Ethiopia votes in elections expected to give Abiy's party a landslide win",
       "source": "France 24",
-      "url": "https://www.france24.com/en/across-africa-marie-lora-mungai-the-essential-business-handbook-for-the-continent-s-creatives",
-      "published_date": "2026-05-26T21:29:38+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/africa/20260601-ethiopia-votes-in-elections-expected-to-give-abiy-s-party-a-landslide-win",
+      "published_date": "2026-06-01T15:14:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court rejects Rwanda €115mn claim against Britain over migrant deal",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260601-court-rejects-rwanda-%E2%82%AC115mn-claim-against-britain-over-migrant-deal",
+      "published_date": "2026-06-01T15:09:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nearly 900 arrested as PSG celebrations blighted by violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260601-nearly-900-arrested-as-psg-celebrations-blighted-by-violence",
+      "published_date": "2026-06-01T14:51:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The school abuse scandals that have triggered France to weigh new law",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260601-the-school-abuse-scandals-that-have-triggered-france-to-weigh-new-law",
+      "published_date": "2026-06-01T13:55:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France debates bill to protect children in wake of school abuse scandal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260601-france-debates-bill-to-protect-children-in-wake-of-school-abuse-scandal",
+      "published_date": "2026-06-01T13:53:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'To start somewhere else is like a rebirth': Franco-American band Fleur bleu·e",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260601-to-start-somewhere-else-is-like-a-rebirth-franco-american-band-fleur-bleu%C2%B7e",
+      "published_date": "2026-06-01T12:09:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cyclist praised for rescuing four people who nearly drowned in Ruhr, Germany",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/01/cyclist-rescue-people-who-nearly-drowned-ruhr-germany",
+      "published_date": "2026-06-01T11:59:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG celebrations marred by violence as French authorities report 890 arrests",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260601-psg-celebrations-marred-by-violence-as-french-authorities-report-890-arrests",
+      "published_date": "2026-06-01T11:23:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League: What Qatar has gained from PSG's success on the pitch",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260601-champions-league-what-qatar-has-gained-from-psg-s-success-on-the-pitch",
+      "published_date": "2026-06-01T11:22:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How France’s former slave ports are confronting their past",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260601/how-frances-former-slave-ports-are-confronting-their-past",
+      "published_date": "2026-06-01T09:09:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France says nearly 900 arrested in Champions League final riots",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260601/france-says-nearly-900-arrested-in-champions-league-final-riots",
+      "published_date": "2026-06-01T06:56:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France weighs tougher safeguards against child abuse in schools",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260601-france-weighs-tougher-safeguards-against-child-abuse-in-schools",
+      "published_date": "2026-06-01T06:06:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yves Sakila’s death has echoes of George Floyd. When will we in Ireland confront our own racism?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/01/yves-sakilas-death-has-echoes-of-george-floyd-when-will-we-in-ireland-confront-our-own-racism",
+      "published_date": "2026-06-01T04:00:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "PSG celebrate Champions League title with 48,000 fans at Parc des Princes stadium",
@@ -599,108 +697,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Huge crowds greet PSG players as they parade Champions League trophy in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260531-european-champions-psg-set-for-heroes-welcome-in-paris-%E2%80%93-under-heavy-security",
-      "published_date": "2026-05-31T16:15:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 700 rioters detained across France after PSG's Champions League victory celebrations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/over-700-rioters-detained-across-france-after-psg-s-champions-league-victory-celebrations",
-      "published_date": "2026-05-31T14:36:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week in pictures: Europe's shock early heatwave, French Open battles and the Blue Origin blast",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260531-the-week-in-pictures-europe-s-shock-early-heatwave-french-open-battles-and-the-blue-origin-blast",
-      "published_date": "2026-05-31T14:32:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG fans await Champions League trophy celebration in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/psg-fans-await-champions-league-trophy-celebration-in-paris",
-      "published_date": "2026-05-31T14:20:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death of Congolese man renews scrutiny of race relations in Ireland",
+      "title": "French police arrest 780 after violent clashes as PSG fans celebrate Champions League win",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
-      "published_date": "2026-05-31T13:59:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "780 arrested, deadly road accident in riotous PSG victory celebrations across France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260531/780-arrested-deadly-road-accident-in-riotous-psg-victory-celebrations-across-france",
-      "published_date": "2026-05-31T13:52:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heatwave makes conditions 'inhumane', say inmates at overcrowded Paris suburb prison",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260531/heatwave-makes-conditions-inhumane-say-inmates-at-overcrowded-paris-suburb-prison",
-      "published_date": "2026-05-31T13:42:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How to handle armed groups? Colombians vote in presidential election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/how-to-handle-armed-groups-colombians-vote-in-presidential-election",
-      "published_date": "2026-05-31T13:24:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG fans await celebration in Paris bacto-back UEFA Champions League victory",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/psg-fans-await-celebration-in-paris-bacto-back-uefa-champions-league-victory",
-      "published_date": "2026-05-31T11:35:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Fujimori never again!\" Protesters fill streets of Lima ahead of Peru presidential elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/fujimori-never-again-protesters-fill-streets-of-lima-ahead-of-peru-presidential-elections",
-      "published_date": "2026-05-31T11:30:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clashes in Paris after PSG win Champions League final – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/may/31/clashes-in-paris-after-psg-win-champions-league-final-video",
-      "published_date": "2026-05-31T11:26:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-31T11:26:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three months after the strike, Iranian families still mourn Minab's children",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/three-months-after-the-strike-iranian-families-still-mourn-minab-s-children",
-      "published_date": "2026-05-31T10:56:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG win Champions League back-to-back, Paris supporters ecstatic",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/psg-win-champions-league-back-to-back-paris-supporters-ecstatic",
-      "published_date": "2026-05-31T10:54:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: PSG make history with victory over Arsenal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260531-champions-league-psg-make-history-with-victory-over-arsenal",
-      "published_date": "2026-05-31T10:08:11+00:00",
+      "url": "https://www.theguardian.com/world/2026/may/30/paris-police-arrest-paris-saint-germain-fans-celebrate-champions-league-win-over-arsenal",
+      "published_date": "2026-05-31T16:31:27+00:00",
       "category": "Local Events"
     }
   ]
