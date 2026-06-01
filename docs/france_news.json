@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-05-31T12:07:35.436855+00:00",
+  "last_updated": "2026-06-01T00:03:21.770324+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Football heroes: PSG victory toasted by thousands of fans in Paris",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260531-football-heroes-psg-victory-toasted-by-thousands-of-fans-in-paris",
+      "published_date": "2026-05-31T18:08:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France requests emergency UN meeting amid Israeli advance in Lebanon",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260531-france-requests-emergency-un-meeting-amid-israeli-advance-in-lebanon",
+      "published_date": "2026-05-31T14:36:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "When will the EU punch its weight in a perilous world? That’s the question countries eager to join should be asking | Simon Tisdall",
       "source": "The Guardian",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Europe's population reckoning: How can the EU avoid falling off a demographic cliff?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260529-europe-s-population-reckoning-how-can-the-eu-avoid-falling-off-a-demographic-cliff",
-      "published_date": "2026-05-29T13:27:26+00:00",
-      "category": "Diplomacy"
+      "title": "Ethiopia election overshadowed by war, instability and muted opposition",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260531-ethiopia-election-overshadowed-by-war-instability-and-muted-opposition",
+      "published_date": "2026-05-31T15:56:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nato condemns Russian 'recklessness' after drone hits Romanian residential block",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-29T12:56:30+00:00",
-      "category": "Diplomacy"
+      "title": "Ethiopia heads to the polls: Elections under the shadow of war and dissent",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ethiopia-heads-to-the-polls-elections-under-the-shadow-of-war-and-dissent",
+      "published_date": "2026-05-31T14:04:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What is Lebanon's Beaufort Castle, and why have Israeli forces captured it?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/what-is-lebanon-s-beaufort-castle-and-why-have-israeli-forces-captured-it",
+      "published_date": "2026-05-31T14:00:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel seizes strategic Beaufort Castle in Lebanon, issues new evacuation orders",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-seizes-strategic-beaufort-castle-in-lebanon-issues-new-evacuation-orders",
+      "published_date": "2026-05-31T13:31:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Swiatek out of French Open as Kostyuk, Svitolina book all-Ukrainian quarter-final",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260531-kostyuk-downs-four-time-winner-swiatek-latest-french-open-upset",
+      "published_date": "2026-05-31T12:59:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel orders new evacuations in Lebanon and pushes further north",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Edgar Morin: France's intellectual 'grandfather' dies at 104",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260530/edgar-morin-frances-intellectual-grandfather-dies-at-104",
-      "published_date": "2026-05-30T08:21:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why does Trump want to transfer Cold War-era plutonium to nuclear start-ups?",
+      "title": "Ukraine hits Russian energy targets, denies striking Zaporizhzhia nuclear plant",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260530-why-does-trump-want-to-transfer-cold-war-era-plutonium-to-nuclear-start-ups",
-      "published_date": "2026-05-30T07:40:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French intellectual and inventor of 'cinema verité' Edgar Morin dies at 104",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260530-french-intellectual-and-inventor-of-cinema-verite-edgar-morin-dies-at-104",
-      "published_date": "2026-05-30T07:21:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘We could hear the roof collapsing’: how Russian missiles devastated Kyiv’s cultural sites",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/30/russian-missiles-devastated-kyiv-cultural-sites",
-      "published_date": "2026-05-30T06:00:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russia preparing ‘massive new strike’, Zelenskyy says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/30/ukraine-war-briefing-russia-preparing-massive-new-strike-zelenskyy-says",
-      "published_date": "2026-05-30T01:36:03+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260531-ukraine-hits-russian-energy-targets-denies-striking-zaporizhzhia-nuclear-plant",
+      "published_date": "2026-05-31T15:46:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Solar investment surges as Ghana races to hit renewable targets",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260527-solar-investment-surges-as-ghana-races-to-hit-renewable-targets",
-      "published_date": "2026-05-27T12:06:33+00:00",
-      "category": "Energy"
+      "title": "Malta's Labour party wins historic fourth term in shadow of Middle East crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260531-malta-s-labour-party-wins-historic-fourth-term-in-shadow-of-middle-east-crisis",
+      "published_date": "2026-05-31T10:03:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "On the Agenda: What’s happening in France this week",
@@ -557,11 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "Ghana introduces free e-visa system for African citizens",
+      "title": "PSG celebrate Champions League title with 48,000 fans at Parc des Princes stadium",
       "source": "France 24",
-      "url": "https://www.france24.com/en/ghana-introduces-free-e-visa-system-for-african-citizens",
-      "published_date": "2026-05-26T16:05:05+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260531-psg-celebrate-champions-league-title-with-48-000-fans-at-parc-des-princes-stadium",
+      "published_date": "2026-05-31T21:14:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Between celebration and confrontation: Paris after PSG victory",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-31T20:38:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia to hold presidential runoff: De la Espriella vs. Cepeda",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-live-follow-the-first-round",
+      "published_date": "2026-05-31T20:25:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jubilant PSG fans celebrate Champions League victory by the Eiffel Tower",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260531-jubilant-psg-fans-celebrate-champions-league-victory-by-the-eiffel-tower",
+      "published_date": "2026-05-31T20:04:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In pictures: Paris hosts PSG victory parade after back-to-back Champions League titles",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260531-in-pictures-paris-hosts-psg-victory-parade-after-back-to-back-champions-league-titles",
+      "published_date": "2026-05-31T18:34:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Huge crowds greet PSG players as they parade Champions League trophy in Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260531-european-champions-psg-set-for-heroes-welcome-in-paris-%E2%80%93-under-heavy-security",
+      "published_date": "2026-05-31T16:15:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 700 rioters detained across France after PSG's Champions League victory celebrations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/over-700-rioters-detained-across-france-after-psg-s-champions-league-victory-celebrations",
+      "published_date": "2026-05-31T14:36:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week in pictures: Europe's shock early heatwave, French Open battles and the Blue Origin blast",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260531-the-week-in-pictures-europe-s-shock-early-heatwave-french-open-battles-and-the-blue-origin-blast",
+      "published_date": "2026-05-31T14:32:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG fans await Champions League trophy celebration in Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/psg-fans-await-champions-league-trophy-celebration-in-paris",
+      "published_date": "2026-05-31T14:20:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death of Congolese man renews scrutiny of race relations in Ireland",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
+      "published_date": "2026-05-31T13:59:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "780 arrested, deadly road accident in riotous PSG victory celebrations across France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260531/780-arrested-deadly-road-accident-in-riotous-psg-victory-celebrations-across-france",
+      "published_date": "2026-05-31T13:52:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heatwave makes conditions 'inhumane', say inmates at overcrowded Paris suburb prison",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260531/heatwave-makes-conditions-inhumane-say-inmates-at-overcrowded-paris-suburb-prison",
+      "published_date": "2026-05-31T13:42:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to handle armed groups? Colombians vote in presidential election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/how-to-handle-armed-groups-colombians-vote-in-presidential-election",
+      "published_date": "2026-05-31T13:24:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "PSG fans await celebration in Paris bacto-back UEFA Champions League victory",
@@ -610,97 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/sports/20260531-champions-league-psg-make-history-with-victory-over-arsenal",
       "published_date": "2026-05-31T10:08:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women gain ground in France as running clubs turn sport into community",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260531-women-gain-ground-or-space-as-running-clubs-boom-in-post-pandemic-paris",
-      "published_date": "2026-05-31T09:08:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds detained after violent clashes on PSG victory night",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260531-hundreds-detained-as-clashes-erupt-on-psg-victory-night-football-paris-france-champions-league",
-      "published_date": "2026-05-31T08:13:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds arrested as clashes erupt in Paris on PSG victory night",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260531/hundreds-arrested-as-clashes-erupt-in-paris-on-psg-victory-night",
-      "published_date": "2026-05-31T08:04:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds detained in Paris as clashes erupt on PSG victory night",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260531-more-than-280-arrested-in-paris-as-clashes-erupt-on-psg-victory-night",
-      "published_date": "2026-05-31T05:38:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NBA: Wembanyama within sight of 'childhood dream' after Spurs stun Thunder",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260531-wembanyama-within-sight-of-childhood-dream-after-spurs-stun-thunder",
-      "published_date": "2026-05-31T04:55:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris police arrest more than 130 as PSG fans celebrate Champions League win over Arsenal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/30/paris-police-arrest-paris-saint-germain-fans-celebrate-champions-league-win-over-arsenal",
-      "published_date": "2026-05-30T22:37:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG beat Arsenal in a penalty shoot-out to retain Champions League",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260530-psg-beat-arsenal-in-penalty-shoot-out-to-retain-champions-league",
-      "published_date": "2026-05-30T19:48:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luis Enrique hails 'even bigger' win as PSG retain Champions League title",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260530-luis-enrique-hails-even-bigger-win-as-psg-retain-champions-league-title",
-      "published_date": "2026-05-30T19:33:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG go back-to-back and join 'greatest of all time'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c8094vem2e2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-30T19:31:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG beat Arsenal on penalties to win back-to-back Champions League titles",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260530-psg-beat-arsenal-in-penalty-shootout-to-win-back-to-back-champions-league-titles",
-      "published_date": "2026-05-30T19:03:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kanye West concert in Italy cancelled over ‘public order and safety issues’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/may/30/kanye-west-concert-italy-cancelled-public-order-and-safety-issues",
-      "published_date": "2026-05-30T19:01:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-30T17:34:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-30T15:39:12+00:00",
       "category": "Local Events"
     }
   ]
