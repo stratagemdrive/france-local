@@ -1,6 +1,6 @@
 {
   "country": "France",
-  "last_updated": "2026-06-01T16:34:28.188625+00:00",
+  "last_updated": "2026-06-02T00:10:52.903529+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -8,6 +8,13 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260601-choose-france-summit-puts-ai-at-heart-of-macron-s-%E2%82%AC93-billion-investment-drive",
       "published_date": "2026-06-01T16:26:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Paris hosts PSG parade after clashes marred Champions League win",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260601-paris-hosts-psg-parade-after-clashes-marred-champions-league-win",
+      "published_date": "2026-06-01T15:30:41+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Middle East Live: Iran says Trump 'betraying diplomacy' with blockade, excessive demands",
+      "title": "'Healthy consensus in Israel' on pursuing Lebanon campaign, expert says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260530-middle-east-live-pentagon-chief-says-us-more-than-capable-of-restarting-war-with-iran",
-      "published_date": "2026-05-30T05:04:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260601-healthy-consensus-in-israel-on-pursuing-lebanon-campaign-expert-says",
+      "published_date": "2026-06-01T21:26:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran rejects reports President Masoud Pezeshkian resigned over power struggle",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-rejects-reports-president-masoud-pezeshkian-resigned-over-power-struggle",
+      "published_date": "2026-06-01T19:30:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Israel and Hezbollah have agreed to dial back fighting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260601-trump-says-israel-and-hezbollah-have-agreed-to-dial-back-fighting",
+      "published_date": "2026-06-01T18:42:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who is Abelardo de la Espriella, the far‑right Trump fan who could lead Colombia?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260601-who-is-abelardo-de-la-espriella-the-far%E2%80%91right-trump-fan-who-could-lead-colombia",
+      "published_date": "2026-06-01T18:24:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Forever at war? US, Iran trade blows as Israel pushes deeper into Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260601-forever-at-war-us-iran-trade-blows-as-israel-pushes-deeper-into-lebanon",
+      "published_date": "2026-06-01T18:18:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France bans Israeli offensive weapons from major defence show",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260601-france-bans-israeli-offensive-weapons-from-major-defence-show",
+      "published_date": "2026-06-01T18:08:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Beaufort Castle: Israel hoists flag over castle in southern Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260601-beaufort-castle-israel-hoists-flag-over-castle-in-southern-lebanon",
+      "published_date": "2026-06-01T16:20:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Live: Israeli military issues evacuation warning for Beirut's southern suburbs",
@@ -232,55 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/sport/20260531-kostyuk-downs-four-time-winner-swiatek-latest-french-open-upset",
       "published_date": "2026-05-31T12:59:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel orders new evacuations in Lebanon and pushes further north",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-orders-new-evacuations-in-lebanon-and-pushes-further-north",
-      "published_date": "2026-05-31T10:55:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Colombia votes in presidential election pitting Petro allies against pro-Trump candidates",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-pits-petro-allies-against-pro-trump-candidates",
-      "published_date": "2026-05-31T09:53:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Japan's SoftBank to spend €75bn on AI centres in France",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/business/20260531-japan-s-softbank-to-spend-%E2%82%AC75bn-on-ai-centres-in-france",
-      "published_date": "2026-05-31T09:42:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US will send only used nuclear submarines to Australia under amended AUKUS defence deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260531-us-will-send-only-used-nuclear-submarines-to-australia-under-amended-aukus-defence-deal",
-      "published_date": "2026-05-31T08:00:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East live: Israel captures, plants its flag on medieval castle in southern Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260531-middle-east-live-israel-says-ground-forces-expanding-in-lebanon",
-      "published_date": "2026-05-31T05:15:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv denies its drone ‘deliberately’ hit Zaporizhzhia nuclear plant",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/31/ukraine-war-briefing-kyiv-denies-its-drone-deliberately-hit-zaporizhzhia-nuclear-plant",
-      "published_date": "2026-05-31T00:38:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defending champion Gauff eliminated from French Open by Potapova",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260530-defending-champion-gauff-eliminated-from-french-open-by-potapova",
-      "published_date": "2026-05-30T18:29:09+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Senegal's ousted prime minister says his party will not participate in new government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260601-senegal-s-ousted-prime-minister-says-his-party-will-not-participate-in-new-government",
+      "published_date": "2026-06-01T20:24:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EasyJet is an obvious takeover target, but US approach may not be a flyer | Nils Pratley",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jun/01/easyjet-takeover-target-castlelake-nils-pratley-may-not-be-a-flyer",
+      "published_date": "2026-06-01T17:27:42+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "French museum reports theft of arty banana",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260601/french-museum-reports-theft-of-arty-banana",
@@ -550,24 +564,45 @@
       "category": "Economy"
     },
     {
-      "title": "Flying Tiger snapped up by Modella Capital amid fears for its future",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/27/flying-tiger-acquisition-modella-capital-private-equity-tg-jones",
-      "published_date": "2026-05-27T11:19:21+00:00",
-      "category": "Economy"
+      "title": "Trump reconsiders $1.8 billion ally compensation fund amid Republican backlash",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260601-trump-reconsiders-1-8-billion-ally-compensation-fund-amid-republican-backlash",
+      "published_date": "2026-06-01T23:13:05+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Everything that Americans in France need to know about tax",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260527/everything-that-americans-in-france-need-to-know-about-tax",
-      "published_date": "2026-05-27T09:34:35+00:00",
-      "category": "Economy"
+      "title": "Protest outside Kenya's Ebola quarantine center for US citizens",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/protest-outside-kenya-s-ebola-quarantine-center-for-us-citizens",
+      "published_date": "2026-06-01T20:44:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pro-Trump candidate lead in Colombia 'part of Donroe doctrine' asserting itself in region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/pro-trump-candidate-lead-in-colombia-part-of-donroe-doctrine-asserting-itself-in-region",
+      "published_date": "2026-06-01T19:45:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explosion at Malta fireworks factory sends plumes of smoke into air – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/01/explosion-malta-fireworks-factory-plumes-smoke-video",
+      "published_date": "2026-06-01T18:02:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Malta: Explosion at a fireworks factory",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260601-malta-explosion-at-a-fireworks-factory",
       "published_date": "2026-06-01T16:00:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu orders new strikes on southern suburbs of Beirut",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260601-netanyahu-orders-new-strikes-on-southern-suburbs-of-beirut",
+      "published_date": "2026-06-01T15:36:19+00:00",
       "category": "Local Events"
     },
     {
@@ -666,41 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260531-psg-celebrate-champions-league-title-with-48-000-fans-at-parc-des-princes-stadium",
       "published_date": "2026-05-31T21:14:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Between celebration and confrontation: Paris after PSG victory",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-31T20:38:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia to hold presidential runoff: De la Espriella vs. Cepeda",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-live-follow-the-first-round",
-      "published_date": "2026-05-31T20:25:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jubilant PSG fans celebrate Champions League victory by the Eiffel Tower",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260531-jubilant-psg-fans-celebrate-champions-league-victory-by-the-eiffel-tower",
-      "published_date": "2026-05-31T20:04:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In pictures: Paris hosts PSG victory parade after back-to-back Champions League titles",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260531-in-pictures-paris-hosts-psg-victory-parade-after-back-to-back-champions-league-titles",
-      "published_date": "2026-05-31T18:34:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police arrest 780 after violent clashes as PSG fans celebrate Champions League win",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/30/paris-police-arrest-paris-saint-germain-fans-celebrate-champions-league-win-over-arsenal",
-      "published_date": "2026-05-31T16:31:27+00:00",
       "category": "Local Events"
     }
   ]
