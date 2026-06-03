@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-06-02T14:48:08.252669+00:00",
+  "last_updated": "2026-06-03T00:25:17.711622+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Russia 'trying to prevent Armenia's diversification of connectivity', expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260602-russia-trying-to-prevent-armenia-s-diversification-of-connectivity-expert-says",
+      "published_date": "2026-06-02T21:27:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU strikes migration deal for more deportations and detention centers abroad",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/eu-strikes-migration-deal-for-more-deportations-and-detention-centers-abroad",
+      "published_date": "2026-06-02T19:51:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron unveils Rwanda genocide memorial in Paris, marking 'quest for truth'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260602-macron-unveils-rwanda-genocide-memorial-in-paris-marking-quest-for-truth",
+      "published_date": "2026-06-02T19:19:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Macron method: How to deal with Putin's Russia?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260602-the-macron-method-how-to-deal-with-putin-s-russia",
+      "published_date": "2026-06-02T18:10:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "1994 Tutsi Genocide: 'French government has never fully come to terms with its involvement'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/1994-tutsi-genocide-french-government-has-never-fully-come-to-terms-with-its-involvement",
+      "published_date": "2026-06-02T17:21:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU tightens migration rules, eyes strategic enlargement in Balkans",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260602-eu-tightens-migration-rules-eyes-strategic-enlargement-in-balkans",
+      "published_date": "2026-06-02T15:31:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Thomas Pesquet set to return to space in 2027",
       "source": "France 24",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Catastrophic for creative industries’: Brexit barriers shut UK actors out of EU jobs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/01/creative-industries-brexit-barriers-uk-actors-eu-jobs",
-      "published_date": "2026-06-01T13:00:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French navy boards Russia-linked oil tanker in Atlantic – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/01/french-navy-boards-russia-linked-oil-tanker-in-atlantic-video",
-      "published_date": "2026-06-01T12:57:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe’s fight to stay in the AI race",
+      "title": "Middle East war live: US military says it intercepted Iranian missile and drone attacks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260601-europe-s-fight-to-stay-in-the-ai-race",
-      "published_date": "2026-06-01T12:00:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260603-middle-east-war-live-us-military-says-it-intercepted-iranian-missile-and-drone-attacks",
+      "published_date": "2026-06-03T00:16:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "French navy seizes Russia-linked oil tanker in Atlantic",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/01/macron-french-navy-boarded-russia-linked-oil-tanker-atlantic",
-      "published_date": "2026-06-01T11:34:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian oil tanker intercepted by France and allies in Atlantic",
+      "title": "Trump's acknowledgment of Hezbollah 'utterly humiliating' for Netanyahu",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260601-russian-oil-tanker-intercepted-by-france-and-allies-in-atlantic",
-      "published_date": "2026-06-01T10:21:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/trump-s-acknowledgment-of-hezbollah-utterly-humiliating-for-netanyahu",
+      "published_date": "2026-06-02T18:29:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron announces €93 billion in 'Choose France' investments",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260601/macron-announces-e93-bn-in-choose-france-investments",
-      "published_date": "2026-06-01T10:09:53+00:00",
-      "category": "Diplomacy"
+      "title": "Kyiv picks up the pieces after another attack by Russia – photo essay",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/jun/02/kyiv-picks-up-the-pieces-after-another-attack-by-russia-photo-essay",
+      "published_date": "2026-06-02T17:48:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Iran: Washington keeps 'chasing the perfect war'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260602-us-iran-washington-keeps-chasing-the-perfect-war",
+      "published_date": "2026-06-02T16:53:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kostyuk dedicates historic win to Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/tennis/articles/clypkqpe3d2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-02T16:10:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "REPLAY: Rubio faces Senate grilling over Trump's foreign policy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260602-replay-rubio-faces-senate-grilling-over-trump-s-foreign-policy",
+      "published_date": "2026-06-02T15:58:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump names inexperienced ally Bill Pulte as intelligence chief",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260602-trump-names-inexperienced-ally-bill-pulte-as-intelligence-chief",
+      "published_date": "2026-06-02T15:43:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia 'bogged down' in Ukraine, suffering net territorial losses for first the time since 2023",
@@ -232,55 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv",
       "published_date": "2026-06-02T10:20:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protests over US Ebola site in Kenya kill two, court keeps block",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260602-protests-over-us-ebola-site-in-kenya-kill-two-court-keeps-block",
-      "published_date": "2026-06-02T10:06:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian attack on Ukraine kills at least 14 and traps others in damaged buildings",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russian-attack-on-ukraine-kills-at-least-14-and-traps-others-in-damaged-buildings",
-      "published_date": "2026-06-02T09:21:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gulf states arrested over 1,000 for Iran war social media posts: Amnesty",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260602-gulf-states-arrested-over-1-000-for-iran-war-social-media-posts-amnesty",
-      "published_date": "2026-06-02T06:34:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Weapons are one thing, but if war breaks out, Europe’s best resource is its people | Elisabeth Braw",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/02/weapons-europe-war-people-scandinavia-baltic-citizens-non-combatants",
-      "published_date": "2026-06-02T04:00:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian attacks kill several people and wound more than 100 across Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260602-russian-attacks-kill-at-least-five-and-injure-dozens-across-ukraine",
-      "published_date": "2026-06-02T02:27:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Healthy consensus in Israel' on pursuing Lebanon campaign, expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260601-healthy-consensus-in-israel-on-pursuing-lebanon-campaign-expert-says",
-      "published_date": "2026-06-01T21:26:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran rejects reports President Masoud Pezeshkian resigned over power struggle",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-rejects-reports-president-masoud-pezeshkian-resigned-over-power-struggle",
-      "published_date": "2026-06-01T19:30:50+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,62 @@
       "category": "Economy"
     },
     {
+      "title": "Zverev reaches French Open semi-finals as Mensik ends Fonseca run",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260602-zverev-reaches-french-open-semi-finals-as-mensik-ends-fonseca-run",
+      "published_date": "2026-06-02T23:16:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump to speak at rescheduled White House correspondents' dinner",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260602-trump-to-speak-at-rescheduled-white-house-correspondents-dinner",
+      "published_date": "2026-06-02T21:42:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Football violence is about 'excitement' and 'proving one's masculinity', expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/football-violence-is-about-excitement-and-proving-one-s-masculinity-expert-says",
+      "published_date": "2026-06-02T19:53:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayor cancels DR Congo friendly over Ebola concern",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-02T19:28:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-02T19:13:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'I can't breathe': Protesters attack police at UK rally over student murder",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260602-i-can-t-breathe-outrage-violence-after-uk-police-handcuff-dying-student",
+      "published_date": "2026-06-02T19:01:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two arrested after four migrant farm workers killed in Italy minivan fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzr2zxedno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-02T18:58:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ADF rebels commit deadly attack in DR Congo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260602-adf-rebels-commit-deadly-attack-in-dr-congo",
+      "published_date": "2026-06-02T15:42:10+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "New York Times chief slams AI companies for 'theft' of intellectual property",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/business/20260602-new-york-times-chief-slams-ai-companies-for-theft-of-intellectual-property",
@@ -645,62 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/protest-outside-kenya-s-ebola-quarantine-center-for-us-citizens",
       "published_date": "2026-06-01T20:44:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Trump candidate lead in Colombia 'part of Donroe doctrine' asserting itself in region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/pro-trump-candidate-lead-in-colombia-part-of-donroe-doctrine-asserting-itself-in-region",
-      "published_date": "2026-06-01T19:45:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosion at Malta fireworks factory sends plumes of smoke into air – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/01/explosion-malta-fireworks-factory-plumes-smoke-video",
-      "published_date": "2026-06-01T18:02:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malta: Explosion at a fireworks factory",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260601-malta-explosion-at-a-fireworks-factory",
-      "published_date": "2026-06-01T16:00:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu orders new strikes on southern suburbs of Beirut",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260601-netanyahu-orders-new-strikes-on-southern-suburbs-of-beirut",
-      "published_date": "2026-06-01T15:36:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopia votes in elections expected to give Abiy's party a landslide win",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260601-ethiopia-votes-in-elections-expected-to-give-abiy-s-party-a-landslide-win",
-      "published_date": "2026-06-01T15:14:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court rejects Rwanda €115mn claim against Britain over migrant deal",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260601-court-rejects-rwanda-%E2%82%AC115mn-claim-against-britain-over-migrant-deal",
-      "published_date": "2026-06-01T15:09:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nearly 900 arrested as PSG celebrations blighted by violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260601-nearly-900-arrested-as-psg-celebrations-blighted-by-violence",
-      "published_date": "2026-06-01T14:51:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The school abuse scandals that have triggered France to weigh new law",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260601-the-school-abuse-scandals-that-have-triggered-france-to-weigh-new-law",
-      "published_date": "2026-06-01T13:55:44+00:00",
       "category": "Local Events"
     }
   ]
