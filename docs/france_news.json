@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-06-03T15:25:46.847836+00:00",
-  "story_count": 100,
+  "last_updated": "2026-06-04T00:28:38.756013+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Iran says no 'tangible progress' in war talks, Trump says deal close",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260603-iran-says-no-tangible-progress-in-war-talks-trump-says-deal-close",
+      "published_date": "2026-06-03T23:15:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU wants to favour European firms for most sensitive cloud, AI contracts",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/eu-wants-to-favour-european-firms-for-most-sensitive-cloud-ai-contracts",
+      "published_date": "2026-06-03T19:49:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can Europe own its digital destiny? EU unveils tech sovereignty roadmap",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260603-can-europe-own-its-digital-destiny-eu-unveils-tech-sovereignty-roadmap",
+      "published_date": "2026-06-03T18:12:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU aims to ensure foreign governments or firms cannot disrupt tech services with ‘kill switch’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/03/eu-commission-foreign-providers-kill-switch-disrupt-tech-europe",
+      "published_date": "2026-06-03T17:04:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Both sides are committed' to US-EU trade deal, US Trade Representative Jamieson Greer says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260603-both-sides-are-committed-to-us-eu-trade-deal-us-trade-representative-jamieson-greer-says",
+      "published_date": "2026-06-03T16:32:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How companies in Europe are struggling to recruit workers from outside the EU",
       "source": "The Local France",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Thomas Pesquet set to return to space in 2027",
+      "title": "Ukraine pushed Russia back in May for second month running, ISW finds",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260602-thomas-pesquet-set-to-return-to-space-in-2027",
-      "published_date": "2026-06-02T14:25:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ukraine-pushed-russia-back-in-may-for-second-month-running-isw-finds",
+      "published_date": "2026-06-03T19:31:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "French astronaut to fly to commercial space station under deal",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260602/french-astronaut-to-fly-to-commercial-space-station-under-deal",
-      "published_date": "2026-06-02T13:40:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French President visits national team ahead of World cup",
+      "title": "Months after the regime crackdown, Iranians search for missing protesters",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260602-french-president-visits-national-team-ahead-of-world-cup",
-      "published_date": "2026-06-02T13:37:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260603-months-after-the-regime-crackdown-iranians-search-for-missing-protesters",
+      "published_date": "2026-06-03T16:11:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "Salary transparency: How much do you earn?",
+      "title": "Japan: Modern-day samurais battle new foe: Climate change",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260602-salary-transparency-how-much-do-you-earn",
-      "published_date": "2026-06-02T13:21:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU calls on nine European countries to scrap internal Schengen border checks",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260602/eu-calls-on-nine-european-countries-to-scrap-internal-schengen-border-checks",
-      "published_date": "2026-06-02T13:10:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260603-japan-modern-day-samurais-battle-new-foe-climate-change",
+      "published_date": "2026-06-03T15:49:04+00:00",
+      "category": "Military"
     },
     {
       "title": "'US war on Iran not about the Iranian people: Europe can put the issue of human rights on the table'",
@@ -260,27 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-02T23:33:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump's acknowledgment of Hezbollah 'utterly humiliating' for Netanyahu",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-s-acknowledgment-of-hezbollah-utterly-humiliating-for-netanyahu",
-      "published_date": "2026-06-02T18:29:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv picks up the pieces after another attack by Russia – photo essay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/jun/02/kyiv-picks-up-the-pieces-after-another-attack-by-russia-photo-essay",
-      "published_date": "2026-06-02T17:48:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, Iran: Washington keeps 'chasing the perfect war'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260602-us-iran-washington-keeps-chasing-the-perfect-war",
-      "published_date": "2026-06-02T16:53:34+00:00",
       "category": "Military"
     },
     {
@@ -417,11 +417,18 @@
       "category": "Energy"
     },
     {
-      "title": "Hotter than July: Can electrification save humanity from soaring heat?",
+      "title": "Oddone hails EU-Mercosur accord's 'civilisational approach' beyond commercial and economic interests",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260527-hotter-than-july-can-electrification-save-humanity-from-soaring-heat",
-      "published_date": "2026-05-27T19:49:35+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260603-oddone-hails-eu-mercosur-accord-s-civilisational-approach-beyond-commercial-and-economic-interests",
+      "published_date": "2026-06-03T21:03:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Africa's finest: The Elephants are back and this time they mean business",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260603-afica-s-finest-the-elephants-are-back-and-this-time-they-mean-business",
+      "published_date": "2026-06-03T18:05:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "France expands tax declaration requirements for second homes",
@@ -550,18 +557,39 @@
       "category": "Economy"
     },
     {
-      "title": "Bolivia at 'breaking point,' president warns protesters",
+      "title": "Middle East war live: Israel and Lebanon agree to implement conditional ceasefire",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260528-bolivia-at-breaking-point-president-warns-protesters",
-      "published_date": "2026-05-28T09:36:24+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/middle-east/20260603-middle-east-war-live-israel-and-lebanon-agree-to-implement-a-ceasefire",
+      "published_date": "2026-06-03T23:10:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French banker Pigasse emerges as key figure in Venezuela debt overhaul",
+      "title": "Kinshasa shuts down in protest against plan to reform constitution",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260527-french-banker-pigasse-emerges-as-key-figure-in-venezuela-debt-overhaul",
-      "published_date": "2026-05-27T22:25:54+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/kinshasa-shuts-down-in-protest-against-plan-to-reform-constitution",
+      "published_date": "2026-06-03T20:24:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump compares White House UFC arena to Eiffel Tower, hints it could stay permanently",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-compares-white-house-ufc-arena-to-eiffel-tower-hints-it-could-stay-permanently",
+      "published_date": "2026-06-03T19:37:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadly attack on migrants highlights issue of labour abuse in Italy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/deadly-attack-on-migrants-highlights-issue-of-labour-abuse-in-italy",
+      "published_date": "2026-06-03T19:04:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK far right exploiting student stabbing attack 'to promote moral panic', expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-far-right-exploiting-student-stabbing-attack-to-promote-moral-panic-expert-says",
+      "published_date": "2026-06-03T19:01:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Algeria court clears way for pardon of jailed French journalist Christophe Gleizes",
@@ -666,41 +694,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260603/opinion-why-french-football-victories-lead-to-riots",
       "published_date": "2026-06-03T07:10:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zverev reaches French Open semi-finals as Mensik ends Fonseca run",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260602-zverev-reaches-french-open-semi-finals-as-mensik-ends-fonseca-run",
-      "published_date": "2026-06-02T23:16:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump to speak at rescheduled White House correspondents' dinner",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260602-trump-to-speak-at-rescheduled-white-house-correspondents-dinner",
-      "published_date": "2026-06-02T21:42:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Football violence is about 'excitement' and 'proving one's masculinity', expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/football-violence-is-about-excitement-and-proving-one-s-masculinity-expert-says",
-      "published_date": "2026-06-02T19:53:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayor cancels DR Congo friendly over Ebola concern",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-02T19:28:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-02T19:13:21+00:00",
       "category": "Local Events"
     }
   ]
