@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-06-05T00:03:18.920889+00:00",
+  "last_updated": "2026-06-05T13:50:28.102671+00:00",
   "story_count": 91,
   "stories": [
+    {
+      "title": "UK-EU ‘reset’ summit may still happen next month despite delay speculation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/05/uk-eu-reset-summit-july-delay-speculation",
+      "published_date": "2026-06-05T13:35:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU should not miss an opportunity on Ukraine diplomacy: Bulgarian FM Velislava Petrova",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260605-eu-should-not-miss-an-opportunity-on-ukraine-diplomacy-bulgarian-fm-velislava-petrova",
+      "published_date": "2026-06-05T12:03:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Negotiations on air passenger rights hit turbulence: EU Parliament takes on airlines",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260605-negotiations-on-air-passenger-rights-hit-turbulence-eu-parliament-takes-on-airlines",
+      "published_date": "2026-06-05T11:55:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zimbabwe elected to UN Security Council",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260605-zimbabwe-elected-to-un-security-council",
+      "published_date": "2026-06-05T10:01:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France probes judicial 'dysfunction' after suspected murder of 11‑year‑old Lyhanna",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260605-france-probes-judicial-dysfunction-after-suspected-murder-of-11%E2%80%91year%E2%80%91old-lyhanna",
+      "published_date": "2026-06-05T09:17:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron targets Russian commentator for French TV",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260605/macron-targets-russian-commentator-for-french-tv",
+      "published_date": "2026-06-05T06:44:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Western Balkan leaders join EU summit amid renewed enlargement drive",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260605-western-balkan-leaders-join-eu-summit-amid-renewed-enlargement-drive",
+      "published_date": "2026-06-05T04:33:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU summit with western Balkan leaders to reaffirm membership prospects",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/05/eu-summit-montenegro-western-balkan-countries-membership-enlargement",
+      "published_date": "2026-06-05T04:00:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US sanctions Cuban president and Castro relatives in latest pressure campaign",
       "source": "France 24",
@@ -88,60 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU aims to ensure foreign governments or firms cannot disrupt tech services with ‘kill switch’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/03/eu-commission-foreign-providers-kill-switch-disrupt-tech-europe",
-      "published_date": "2026-06-03T17:04:48+00:00",
-      "category": "Diplomacy"
+      "title": "UK in most dangerous period I've known, military chief says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m2mryg0k7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-05T12:51:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Both sides are committed' to US-EU trade deal, US Trade Representative Jamieson Greer says",
+      "title": "AI feature film on Iran’s protest movement makes festival history",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260603-both-sides-are-committed-to-us-eu-trade-deal-us-trade-representative-jamieson-greer-says",
-      "published_date": "2026-06-03T16:32:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260605-ai-feature-film-on-iran-s-protest-movement-makes-festival-history",
+      "published_date": "2026-06-05T12:25:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "France and Rwanda unite to honour genocide victims with Paris monument",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260603-france-and-rwanda-unite-to-honour-genocide-victims-with-paris-monument",
-      "published_date": "2026-06-03T14:55:28+00:00",
-      "category": "Diplomacy"
+      "title": "Predicted global hunger crisis becoming a reality as Mideast war drags on, UN warns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260605-feared-global-hunger-crisis-becoming-reality-as-mideast-war-persists-says-un",
+      "published_date": "2026-06-05T12:09:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "How companies in Europe are struggling to recruit workers from outside the EU",
+      "title": "France's data centre ambitions bump up against rural fears",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260603/how-companies-in-europe-are-struggling-to-recruit-workers-from-outside-the-eu",
-      "published_date": "2026-06-03T12:49:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.fr/20260605/frances-data-centre-ambitions-bump-up-against-rural-fears",
+      "published_date": "2026-06-05T11:30:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
-      "published_date": "2026-06-03T10:41:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NATO chief on unannounced visit to Kyiv after deadly Russian attacks",
+      "title": "Nationalism on the rise: Anti-foreign rhetoric gains ground in Japan",
       "source": "France 24",
-      "url": "https://www.france24.com/en/nato-chief-on-unannounced-visit-to-kyiv-after-deadly-russian-attacks",
-      "published_date": "2026-06-03T09:37:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/focus/20260605-nationalism-on-the-rise-anti-foreign-rhetoric-gains-ground-in-japan",
+      "published_date": "2026-06-05T10:39:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "David Cameron offered Boris Johnson senior cabinet role if he agreed not to push for Brexit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/03/david-cameron-boris-johnson-senior-cabinet-role-agreed-not-to-push-brexit",
-      "published_date": "2026-06-03T09:10:49+00:00",
-      "category": "Diplomacy"
+      "title": "Israel army warns of imminent strikes against Hezbollah in Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260605-israel-army-warns-of-imminent-strikes-against-hezbollah-in-lebanon",
+      "published_date": "2026-06-05T10:11:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron to meet Hungary's PM Magyar to discuss Ukraine, European defence",
+      "title": "Somalia capital rocked by gunfire and fighting overnight",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260605-somalia-capital-rocked-by-gunfire-and-fighting-overnight",
+      "published_date": "2026-06-05T10:04:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali junta puts €3m bounty on Sahel al-Qaeda leader Ag Ghali",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260603-macron-to-meet-hungary-s-pm-magyar-to-discuss-ukraine-european-defence",
-      "published_date": "2026-06-03T08:54:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260605-mali-junta-puts-%E2%82%AC3mn-bounty-on-sahel-al-qaeda-leader-ag-ghali",
+      "published_date": "2026-06-05T09:45:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drawing for duty: Inside Thailand's controversial military lottery",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/reporters/20260605-drawing-for-duty-inside-thailand-controversial-military-lottery",
+      "published_date": "2026-06-05T09:34:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-05T08:03:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘You can stop your war’: Zelenskyy’s open letter to Putin – in full",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/05/volodymyr-zelenskyy-open-letter-to-putin-full-text-russia-ukraine-war",
+      "published_date": "2026-06-05T01:53:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Ukrainian men should be turned back from EU to fight, says Swedish minister",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/05/ukraine-war-briefing-ukrainian-men-should-be-turned-back-from-eu-to-fight",
+      "published_date": "2026-06-05T01:49:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Zelenskyy-Putin meeting would be 'great' after Ukraine president's letter - video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/05/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+      "published_date": "2026-06-05T00:39:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Zelenskyy calls for face-to-face Ukraine war negotiations in letter to Putin",
@@ -193,95 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "US House votes to curb Trump on Iran war as talks stall",
+      "title": "Feeling the heat: Women and climate change",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-us-house-votes-to-curb-trump-on-iran-war-as-talks-stall",
-      "published_date": "2026-06-04T12:47:19+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/the-51/20260605-feeling-the-heat-women-and-climate-change",
+      "published_date": "2026-06-05T11:00:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine accused of killing four in occupied Crimea",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T11:55:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Exiled for an anti-war drawing: A Russian family punished for dissent",
+      "title": "Japan steps up efforts on cooking oil in race for sustainable aviation fuel",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260604-exiled-for-an-anti-war-drawing-russian-father-and-daughter-who-opposed-putin",
-      "published_date": "2026-06-04T09:55:05+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260605-japan-steps-up-efforts-on-cooking-oil-in-race-for-sustainable-aviation-fuel",
+      "published_date": "2026-06-05T10:05:40+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel announces continued operations in south Lebanon – hours after renewing ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260604-israel-and-lebanon-agree-to-renew-ceasefire-condition-hezbollah-holds-fire",
-      "published_date": "2026-06-04T05:58:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Ukraine-Russia tension hangs over French Open semi-finals",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/tennis/articles/cq5pvj280eqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T05:12:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian attacks kill several in Crimea after Kyiv targets St. Petersburg energy, military sites",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260604-ukrainian-strike-kills-three-in-crimea-after-kyiv-targets-st-petersburg-energy-military-sites",
-      "published_date": "2026-06-04T04:12:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T01:02:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russia losing on the ground so pivots to air war, say analysts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/04/ukraine-war-briefing-russia-losing-on-the-ground-so-pivots-to-air-war-say-analysts",
-      "published_date": "2026-06-04T01:00:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three dead in Royal Navy helicopter crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-03T20:01:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine pushed Russia back in May for second month running, ISW finds",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-pushed-russia-back-in-may-for-second-month-running-isw-finds",
-      "published_date": "2026-06-03T19:31:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Months after the regime crackdown, Iranians search for missing protesters",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260603-months-after-the-regime-crackdown-iranians-search-for-missing-protesters",
-      "published_date": "2026-06-03T16:11:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Japan: Modern-day samurais battle new foe: Climate change",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260603-japan-modern-day-samurais-battle-new-foe-climate-change",
-      "published_date": "2026-06-03T15:49:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'US war on Iran not about the Iranian people: Europe can put the issue of human rights on the table'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-war-on-iran-not-about-the-iranian-people-europe-can-put-the-issue-of-human-rights-on-the-table",
-      "published_date": "2026-06-03T15:24:15+00:00",
-      "category": "Military"
+      "title": "French Expression of the Day: Il y a de l’eau dans le gaz",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260605/french-expression-of-the-day-il-y-a-de-leau-dans-le-gaz",
+      "published_date": "2026-06-05T10:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "A good life  for the 99% isn’t a pipe dream: it can be done. Here’s how",
@@ -340,25 +361,32 @@
       "category": "Energy"
     },
     {
-      "title": "More climate records under threat as spring heatwave bakes western Europe",
+      "title": "South Africa unrest grows as migrants become ‘scapegoats’",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260605-south-africa-unrest-grows-as-migrants-become-scapegoats",
+      "published_date": "2026-06-05T12:51:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "India: Viral 'Cockroach' party to take message to the streets",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260529-more-climate-records-under-threat-as-spring-heatwave-bakes-western-europe",
-      "published_date": "2026-05-29T13:32:50+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260605-india-viral-cockroach-party-to-take-message-to-the-streets",
+      "published_date": "2026-06-05T11:20:20+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Hajj pilgrimage becoming more dangerous due to global heating, report warns",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260529-hajj-pilgrimage-becoming-more-dangerous-due-to-global-heating-report-warns",
-      "published_date": "2026-05-29T13:27:44+00:00",
-      "category": "Energy"
+      "title": "Thailand: Sexual abuse scandal inside family business empire forces public reckoning",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260605-thailand-sexual-abuse-scandal-inside-family-business-empire-forces-public-reckoning",
+      "published_date": "2026-06-05T11:12:34+00:00",
+      "category": "Economy"
     },
     {
-      "title": "TotalEnergies faces pressure at AGM over war gains and fossil fuel plans",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260529-totalenergies-faces-pressure-at-agm-over-war-gains-and-fossil-fuel-plans",
-      "published_date": "2026-05-29T11:50:52+00:00",
-      "category": "Energy"
+      "title": "Cameroon faces major drinking water shortages despite boosted production",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260605-cameroon-faces-major-drinking-water-shortages-despite-boosted-production",
+      "published_date": "2026-06-05T10:00:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "France stunned by Ivory Coast in World Cup warm-up defeat",
@@ -473,32 +501,46 @@
       "category": "Economy"
     },
     {
-      "title": "EasyJet is an obvious takeover target, but US approach may not be a flyer | Nils Pratley",
+      "title": "Dua Lipa and Callum Turner wedding divides Palermo: ‘I could understand if it was for the pope’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jun/01/easyjet-takeover-target-castlelake-nils-pratley-may-not-be-a-flyer",
-      "published_date": "2026-06-01T17:27:42+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/music/2026/jun/05/dua-lipa-callum-turner-wedding-divides-palermo",
+      "published_date": "2026-06-05T12:15:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French museum reports theft of arty banana",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260601/french-museum-reports-theft-of-arty-banana",
-      "published_date": "2026-06-01T07:07:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
-      "published_date": "2026-06-01T06:00:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Malta's Labour party wins historic fourth term in shadow of Middle East crisis",
+      "title": "India's 'Cockroach Party' chief flies to New Delhi for protest",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260531-malta-s-labour-party-wins-historic-fourth-term-in-shadow-of-middle-east-crisis",
-      "published_date": "2026-05-31T10:03:12+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260605-india-s-cockroach-party-chief-flies-to-new-delhi-for-protest",
+      "published_date": "2026-06-05T10:08:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'A parallel America': Obama's $850m presidential centre offers a vision of hope",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260605-a-parallel-america-obama-s-850m-presidential-centre-offers-a-vision-of-hope",
+      "published_date": "2026-06-05T09:39:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German serial killer found guilty of murder of French schoolboy",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260605/german-serial-killer-found-guilty-of-murder-of-french-schoolboy",
+      "published_date": "2026-06-05T06:51:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French billionaire Stérin reveals far-right agenda in first public hearing",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260605-french-billionaire-st%C3%A9rin-reveals-far-right-agenda-in-first-public-hearing",
+      "published_date": "2026-06-05T06:46:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Diallo gives Cote d'Ivoire shock win over France, just days before World Cup",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260604-diallo-gives-ivory-coast-shock-win-over-france",
+      "published_date": "2026-06-04T21:36:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lebanon health ministry says Israeli strikes in south and east kill eight",
@@ -596,48 +638,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260604/new-paris-amsterdam-train-launches-with-tickets-from-e19",
       "published_date": "2026-06-04T07:53:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France recognises role in pesticide harm across Caribbean islands",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260604-france-recognises-role-in-pesticide-harm-across-caribbean-islands",
-      "published_date": "2026-06-04T05:35:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Middle East war live: Israel and Lebanon agree to implement conditional ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260603-middle-east-war-live-israel-and-lebanon-agree-to-implement-a-ceasefire",
-      "published_date": "2026-06-03T23:10:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kinshasa shuts down in protest against plan to reform constitution",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/kinshasa-shuts-down-in-protest-against-plan-to-reform-constitution",
-      "published_date": "2026-06-03T20:24:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump compares White House UFC arena to Eiffel Tower, hints it could stay permanently",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-compares-white-house-ufc-arena-to-eiffel-tower-hints-it-could-stay-permanently",
-      "published_date": "2026-06-03T19:37:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly attack on migrants highlights issue of labour abuse in Italy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/deadly-attack-on-migrants-highlights-issue-of-labour-abuse-in-italy",
-      "published_date": "2026-06-03T19:04:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK far right exploiting student stabbing attack 'to promote moral panic', expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk-far-right-exploiting-student-stabbing-attack-to-promote-moral-panic-expert-says",
-      "published_date": "2026-06-03T19:01:05+00:00",
       "category": "Local Events"
     }
   ]
