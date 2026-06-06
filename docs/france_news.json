@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-06-05T13:50:28.102671+00:00",
+  "last_updated": "2026-06-06T00:03:34.646871+00:00",
   "story_count": 91,
   "stories": [
+    {
+      "title": "French diplomat in Mali sentenced to 20 years in prison for 'undermining state security'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260605-french-diplomat-in-mali-sentenced-to-20-years-in-prison-for-undermining-state-security",
+      "published_date": "2026-06-05T17:28:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU must prove it is capable and willing to take in new members, leaders say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/05/eu-new-members-bloc-leaders-summit-enlargement",
+      "published_date": "2026-06-05T15:00:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US imposes sanctions on Cuban president, Castro family members",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260605-us-imposes-sanctions-on-cuban-president-castro-family-members",
+      "published_date": "2026-06-05T14:04:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "More than a quarter of UK musicians lost all EU work since 2021, report finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/jun/05/quarter-of-uk-musicians-have-lost-all-eu-work-since-2021-report-finds",
+      "published_date": "2026-06-05T13:52:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK-EU ‘reset’ summit may still happen next month despite delay speculation",
       "source": "The Guardian",
@@ -116,32 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Summer blockbuster: Why the French keep coming back to Charles de Gaulle",
+      "title": "Ukraine: Dear Putin, Lebanon: A Crude Call, Colombia's 'Tiger'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260604-summer-cinema-why-french-keep-coming-back-charles-de-gaulle",
-      "published_date": "2026-06-04T12:40:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260605-ukraine-dear-putin-lebanon-a-crude-call-colombia-s-tiger",
+      "published_date": "2026-06-05T18:26:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran says no 'tangible progress' in war talks, Trump says deal close",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260603-iran-says-no-tangible-progress-in-war-talks-trump-says-deal-close",
-      "published_date": "2026-06-03T23:15:16+00:00",
-      "category": "Diplomacy"
+      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-05T18:16:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU wants to favour European firms for most sensitive cloud, AI contracts",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/eu-wants-to-favour-european-firms-for-most-sensitive-cloud-ai-contracts",
-      "published_date": "2026-06-03T19:49:02+00:00",
-      "category": "Diplomacy"
+      "title": "Putin rejects Zelenskyy’s offer to meet and reaffirms Ukraine war aims",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/05/putin-rejects-zelenskyys-offer-to-meet-and-reaffirms-ukraine-war-aims",
+      "published_date": "2026-06-05T17:59:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can Europe own its digital destiny? EU unveils tech sovereignty roadmap",
+      "title": "Marjane Satrapi captured profound human emotions – and paved the way for a generation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/jun/05/marjane-satrapi-death-graphic-novelist-paved-way-for-a-generation",
+      "published_date": "2026-06-05T15:55:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine strikes cargo ships and admits Romania drone blast",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-05T15:29:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France opens 'war crime' probe over Israel treatment of flotilla activists",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260605/france-opens-war-crime-probe-over-israel-treatment-of-flotilla-activists",
+      "published_date": "2026-06-05T15:22:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian drone explodes in Romanian sea port",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260603-can-europe-own-its-digital-destiny-eu-unveils-tech-sovereignty-roadmap",
-      "published_date": "2026-06-03T18:12:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260605-ukrainian-drone-explodes-in-romanian-sea-port",
+      "published_date": "2026-06-05T15:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France opens torture, 'war crime' probe over Israel's treatment of Gaza flotilla activists",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260605-france-opens-torture-war-crime-probe-over-israel-s-treatment-of-gaza-flotilla-activists",
+      "published_date": "2026-06-05T14:43:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine under heavy drone attack as Zelensky seeks direct meeting with Putin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260605-ukraine-under-heavy-drone-attack-as-zelensky-seeks-direct-meeting-with-putin",
+      "published_date": "2026-06-05T14:08:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anthropic calls for pause of global AI development",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260605-anthropic-calls-for-pause-of-global-ai-development",
+      "published_date": "2026-06-05T14:06:33+00:00",
+      "category": "Military"
     },
     {
       "title": "UK in most dangerous period I've known, military chief says",
@@ -162,6 +232,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260605-feared-global-hunger-crisis-becoming-reality-as-mideast-war-persists-says-un",
       "published_date": "2026-06-05T12:09:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sea drone explodes in the Romanian port of Constanta, raising fear of Ukraine war spillover",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260605-sea-drone-explodes-in-the-romanian-port-of-constanta-no-casualties",
+      "published_date": "2026-06-05T11:43:11+00:00",
       "category": "Military"
     },
     {
@@ -204,83 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/reporters/20260605-drawing-for-duty-inside-thailand-controversial-military-lottery",
       "published_date": "2026-06-05T09:34:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-05T08:03:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘You can stop your war’: Zelenskyy’s open letter to Putin – in full",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/05/volodymyr-zelenskyy-open-letter-to-putin-full-text-russia-ukraine-war",
-      "published_date": "2026-06-05T01:53:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Ukrainian men should be turned back from EU to fight, says Swedish minister",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/05/ukraine-war-briefing-ukrainian-men-should-be-turned-back-from-eu-to-fight",
-      "published_date": "2026-06-05T01:49:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Zelenskyy-Putin meeting would be 'great' after Ukraine president's letter - video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/05/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
-      "published_date": "2026-06-05T00:39:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy calls for face-to-face Ukraine war negotiations in letter to Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/04/zelenskyy-calls-for-face-to-face-negotiations-letter-putin-ukraine-russia-trump",
-      "published_date": "2026-06-04T22:30:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A 'ceasefire war' in Lebanon continues as 'chaotic global leadership' takes its toll",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/a-ceasefire-war-in-lebanon-continues-as-chaotic-global-leadership-takes-its-toll",
-      "published_date": "2026-06-04T18:30:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Artificial Intelligence: Open-source important to 'Europe's tech strength'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-artificial-intelligence-open-source-important-to-europe-s-tech-strength",
-      "published_date": "2026-06-04T16:46:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon war reopens old divisions as fears grow for country's unity",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260604-lebanon-war-reopens-old-divisions-as-fears-grow-for-country-s-unity",
-      "published_date": "2026-06-04T16:08:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump slams 'unpatriotic' US House vote to end Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-trump-slams-unpatriotic-us-house-vote-to-end-iran-war",
-      "published_date": "2026-06-04T15:53:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump slams 'unpatriotic' vote as House orders end to Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260604-trump-slams-unpatriotic-vote-house-orders-end-to-iran-war",
-      "published_date": "2026-06-04T13:03:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian strikes kill three in Crimea, Russian officials say",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-ukrainian-strikes-kill-three-in-crimea-russian-officials-say",
-      "published_date": "2026-06-04T12:51:33+00:00",
       "category": "Military"
     },
     {
@@ -359,6 +359,13 @@
       "url": "https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump",
       "published_date": "2026-05-30T12:00:19+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Misinformation complicates Ebola efforts",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/misinformation-complicates-ebola-efforts",
+      "published_date": "2026-06-05T20:48:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "South Africa unrest grows as migrants become ‘scapegoats’",
@@ -494,11 +501,53 @@
       "category": "Economy"
     },
     {
-      "title": "Senegal's ousted prime minister says his party will not participate in new government",
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jun/05/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-06-05T18:49:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zverev sees off Mensik to reach French Open final",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260605-zverev-sees-off-mensik-to-reach-french-open-final",
+      "published_date": "2026-06-05T16:24:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is Paris's oldest bridge called the 'New Bridge'?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260601-senegal-s-ousted-prime-minister-says-his-party-will-not-participate-in-new-government",
-      "published_date": "2026-06-01T20:24:10+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260605-why-is-paris-s-oldest-bridge-called-the-new-bridge",
+      "published_date": "2026-06-05T16:16:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parisians will be able to swim for a second year in the Seine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260605-parisians-will-be-able-to-swim-for-a-second-year-in-the-seine-france",
+      "published_date": "2026-06-05T16:14:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French sons of slave traders and enslaved unite to seek a path to justice",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260605-french-sons-of-slave-traders-and-enslaved-unite-to-seek-a-path-to-justice",
+      "published_date": "2026-06-05T16:08:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Holocaust remembrance: Newly discovered photos illustrate previously-unknown roundup of French Jews",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260605-holocaust-remembrance-newly-discovered-photos-illustrate-previously-unknown-roundup-of-french-jews",
+      "published_date": "2026-06-05T15:11:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Outcry over judicial missteps linked to missing girl prompts French govt reckoning",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260605-outcry-over-judicial-missteps-linked-to-missing-girl-prompts-french-govt-reckoning",
+      "published_date": "2026-06-05T14:07:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dua Lipa and Callum Turner wedding divides Palermo: ‘I could understand if it was for the pope’",
@@ -589,55 +638,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260604-ni-una-menos-mass-rallies-held-in-argentina-to-protest-killing-of-14-year-old-girl",
       "published_date": "2026-06-04T12:57:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portugal hit by general strike over labour reforms",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-portugal-hit-by-general-strike-over-labour-reforms",
-      "published_date": "2026-06-04T12:52:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Deplorable issues' cloud 2026 FIFA World Cup, deemed 'one of the least anticipated of this era'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-deplorable-issues-cloud-2026-fifa-world-cup-deemed-one-of-the-least-anticipated-of-this-era-1",
-      "published_date": "2026-06-04T12:51:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon reports Israeli strikes after truce announcement",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-lebanon-reports-israeli-strikes-after-truce-announcement",
-      "published_date": "2026-06-04T12:49:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe’s far right exploit Nowak murder with populist rhetoric on race",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/04/polish-far-right-nowak-britain-descent-depths-earth",
-      "published_date": "2026-06-04T11:10:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kuwait releases footage of drone strike on airport",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-kuwait-releases-footage-of-drone-strike-on-airport",
-      "published_date": "2026-06-04T10:16:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man City consider legal action after Haaland claim",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T08:27:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Paris-Amsterdam train launches with tickets from €19",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260604/new-paris-amsterdam-train-launches-with-tickets-from-e19",
-      "published_date": "2026-06-04T07:53:50+00:00",
       "category": "Local Events"
     }
   ]
