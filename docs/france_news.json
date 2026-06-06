@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-06-06T00:03:34.646871+00:00",
-  "story_count": 91,
+  "last_updated": "2026-06-06T12:03:50.586240+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "The Africa exception: the slavery reparations debate was once ‘unthinkable’. Now it is unavoidable",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/jun/06/africa-exception-slavery-reparations-african-union-justice",
+      "published_date": "2026-06-06T11:00:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pope Leo visits Spain with focus on immigration",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/pope-leo-visits-spain-with-focus-on-immigration",
+      "published_date": "2026-06-06T10:26:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Late French president Chirac's widow dies aged 93",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260606/late-french-president-chiracs-widow-dies-aged-93",
+      "published_date": "2026-06-06T09:47:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bernadette Chirac, widow of former French president, dies at 93",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260606-bernadette-chirac-widow-of-former-president-dies-age-93",
+      "published_date": "2026-06-06T09:26:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+      "published_date": "2026-06-06T09:00:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia prepares for vote amid shifting relations with Russia and the West",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/armenia-prepares-for-vote-amid-shifting-relations-with-russia-and-the-west",
+      "published_date": "2026-06-06T08:56:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron blasts 'unacceptable' lapses over girl's suspected murder",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260606/macron-blasts-unacceptable-lapses-over-girls-suspected-murder",
+      "published_date": "2026-06-06T07:14:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US threatens to reconsider role in Bosnia and Herzegovina amid rift with Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/06/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe",
+      "published_date": "2026-06-06T04:00:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "French diplomat in Mali sentenced to 20 years in prison for 'undermining state security'",
       "source": "France 24",
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US sanctions Cuban president and Castro relatives in latest pressure campaign",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260604-us-sanctions-cuban-president-and-castro-relatives-in-latest-pressure-campaign",
-      "published_date": "2026-06-04T22:26:10+00:00",
-      "category": "Diplomacy"
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-06T11:37:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine's Zelensky pledges clear timetable of talks on EU membership",
+      "title": "Parliamentary elections mark 'historical moment' for Armenia, expert says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-s-zelensky-pledges-clear-timetable-of-talks-on-eu-membership",
-      "published_date": "2026-06-04T19:39:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/parliamentary-elections-mark-historical-moment-for-armenia-expert-says",
+      "published_date": "2026-06-06T10:22:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "A 'rogues' gallery' of notorious figures at Russia's biggest economic conference",
+      "title": "Several soldiers killed in Israeli strike on Lebanon",
       "source": "France 24",
-      "url": "https://www.france24.com/en/a-rogues-gallery-of-notorious-figures-at-russia-s-biggest-economic-conference",
-      "published_date": "2026-06-04T18:38:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/several-soldiers-killed-in-israeli-strike-on-lebanon",
+      "published_date": "2026-06-06T08:50:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hungary drops charges against organisers of banned Pride marches",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260604-hungary-drops-charges-against-organisers-of-banned-pride-marches",
-      "published_date": "2026-06-04T14:28:14+00:00",
-      "category": "Diplomacy"
+      "title": "Middle East live: US military says Iran launched seven ballistic missiles at Kuwait, Bahrain",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260606-middle-east-live-us-military-says-iran-launched-seven-ballistic-missiles-at-kuwait-bahrain",
+      "published_date": "2026-06-06T05:02:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "As Armenia heads to the polls, Karabakh refugees face growing marginalisation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-as-armenia-heads-to-the-polls-karabakh-refugees-face-growing-marginalisation",
-      "published_date": "2026-06-04T13:22:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pharmaceutical industry becomes geopolitical battleground as US threatens tariffs",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20260604-pharmaceutical-industry-becomes-geopolitical-battleground-as-us-threatens-tariffs",
-      "published_date": "2026-06-04T13:06:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel, Lebanon agree to conditional ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-israel-lebanon-agree-to-conditional-ceasefire",
-      "published_date": "2026-06-04T12:54:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Protests grow over Trump family-linked resort in Albania",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-protests-grow-over-trump-family-linked-resort-in-albania",
-      "published_date": "2026-06-04T12:48:19+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Putin says ‘no point’ meeting Zelenskyy, insists Russia will win the war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/06/ukraine-war-briefing-putin-says-no-point-meeting-zelenskyy-insists-russia-will-win-the-war",
+      "published_date": "2026-06-06T01:33:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine: Dear Putin, Lebanon: A Crude Call, Colombia's 'Tiger'",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Nationalism on the rise: Anti-foreign rhetoric gains ground in Japan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260605-nationalism-on-the-rise-anti-foreign-rhetoric-gains-ground-in-japan",
-      "published_date": "2026-06-05T10:39:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel army warns of imminent strikes against Hezbollah in Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260605-israel-army-warns-of-imminent-strikes-against-hezbollah-in-lebanon",
-      "published_date": "2026-06-05T10:11:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia capital rocked by gunfire and fighting overnight",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260605-somalia-capital-rocked-by-gunfire-and-fighting-overnight",
-      "published_date": "2026-06-05T10:04:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali junta puts €3m bounty on Sahel al-Qaeda leader Ag Ghali",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260605-mali-junta-puts-%E2%82%AC3mn-bounty-on-sahel-al-qaeda-leader-ag-ghali",
-      "published_date": "2026-06-05T09:45:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drawing for duty: Inside Thailand's controversial military lottery",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/reporters/20260605-drawing-for-duty-inside-thailand-controversial-military-lottery",
-      "published_date": "2026-06-05T09:34:57+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Feeling the heat: Women and climate change",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/the-51/20260605-feeling-the-heat-women-and-climate-change",
@@ -354,11 +354,18 @@
       "category": "Energy"
     },
     {
-      "title": "Why $1bn in Balkans energy contracts are going to an obscure company connected to Donald Trump",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/30/why-1bn-in-balkans-energy-contracts-are-going-to-an-obscure-company-connected-to-donald-trump",
-      "published_date": "2026-05-30T12:00:19+00:00",
-      "category": "Energy"
+      "title": "Supporters of India's Gen Z 'cockroach' party stage first protest in New Delhi",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260606-supporters-of-india-gen-z-cockroach-party-stage-first-protest-new-delhi",
+      "published_date": "2026-06-06T08:57:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Could tackling climate change and levelling inequality go hand in hand?",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260606-could-tackling-climate-change-and-levelling-inequality-go-hand-in-hand",
+      "published_date": "2026-06-06T04:56:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "Misinformation complicates Ebola efforts",
@@ -487,18 +494,25 @@
       "category": "Economy"
     },
     {
-      "title": "France expands tax declaration requirements for second homes",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260603/france-expands-tax-declaration-requirements-for-second-homes",
-      "published_date": "2026-06-03T11:58:05+00:00",
-      "category": "Economy"
+      "title": "Paris celebrates love at the 2026 ‘Nuit Blanche’ all-night art festival",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/culture/20260606-paris-celebrates-love-2026-nuit-blanche-all-night-art-festival",
+      "published_date": "2026-06-06T11:54:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Orbán’s oligarchs on edge as Hungary poised to launch wealth tax",
+      "title": "Inside the adult Swedish prison preparing to house children as young as 13",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar",
-      "published_date": "2026-06-02T05:00:39+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jun/06/sweden-prisons-children-gang-crime",
+      "published_date": "2026-06-06T09:00:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside France: Roundabouts, revolution and train station rivalry",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260606/inside-france-roundabouts-revolution-and-train-station-rivalry",
+      "published_date": "2026-06-06T07:43:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The week around the world in 20 pictures",
@@ -617,27 +631,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260604-dr-congo-opposition-calls-for-protest-against-tshisekedi-running-for-3rd-term",
       "published_date": "2026-06-04T15:51:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charges dropped against Budapest mayor over 2025 Pride march",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T14:10:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer accuses Musk of trying to whip up division over Henry Nowak murder",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1e2ww900zno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T13:54:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Ni una menos': Mass rallies held in Argentina to protest killing of 14-year-old girl",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-ni-una-menos-mass-rallies-held-in-argentina-to-protest-killing-of-14-year-old-girl",
-      "published_date": "2026-06-04T12:57:43+00:00",
       "category": "Local Events"
     }
   ]
