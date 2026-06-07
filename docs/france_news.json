@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-06-06T12:03:50.586240+00:00",
+  "last_updated": "2026-06-07T00:01:47.043764+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "Estonia's former President on lessons learnt in dealing with Putin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260606-estonia-s-former-president-on-lessons-learnt-in-dealing-with-putin",
+      "published_date": "2026-06-06T18:30:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Starmer to host Zelenskyy and EU leaders for Ukraine talks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/06/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
+      "published_date": "2026-06-06T17:54:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pope Leo calls for leaders to reject polarisation as he begins Spanish tour",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/06/pope-leo-xiv-spain-tour-madrid-catholic-church",
+      "published_date": "2026-06-06T15:54:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bernadette Chirac, France's dedicated and discreet first lady",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260606/bernadette-chirac-frances-dedicated-and-discreet-first-lady",
+      "published_date": "2026-06-06T14:03:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Africa exception: the slavery reparations debate was once ‘unthinkable’. Now it is unavoidable",
       "source": "The Guardian",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France probes judicial 'dysfunction' after suspected murder of 11‑year‑old Lyhanna",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260605-france-probes-judicial-dysfunction-after-suspected-murder-of-11%E2%80%91year%E2%80%91old-lyhanna",
-      "published_date": "2026-06-05T09:17:13+00:00",
-      "category": "Diplomacy"
+      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-06T23:52:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron targets Russian commentator for French TV",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260605/macron-targets-russian-commentator-for-french-tv",
-      "published_date": "2026-06-05T06:44:46+00:00",
-      "category": "Diplomacy"
+      "title": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-06T18:34:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Western Balkan leaders join EU summit amid renewed enlargement drive",
+      "title": "Hegseth urges Europe to counter migrant 'invasion' in D-Day anniversary speech",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260605-western-balkan-leaders-join-eu-summit-amid-renewed-enlargement-drive",
-      "published_date": "2026-06-05T04:33:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260606-hegseth-urges-europe-to-counter-migrant-invasion-in-d-day-anniversary-speech",
+      "published_date": "2026-06-06T18:27:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU summit with western Balkan leaders to reaffirm membership prospects",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/05/eu-summit-montenegro-western-balkan-countries-membership-enlargement",
-      "published_date": "2026-06-05T04:00:27+00:00",
-      "category": "Diplomacy"
+      "title": "Turkey expands influence in Africa through military training",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260606-turkey-expands-influence-in-africa-through-military-training",
+      "published_date": "2026-06-06T15:01:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hegseth blasts ‘invasion’ of migrants on Europe’s beaches in D-Day speech in France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260606-hegseth-urges-europe-on-d-day-to-counter-present-day-invasion",
+      "published_date": "2026-06-06T13:53:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
@@ -162,6 +197,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/several-soldiers-killed-in-israeli-strike-on-lebanon",
       "published_date": "2026-06-06T08:50:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran launches ballistic missiles at Bahrain, Kuwait after US hits its radar sites",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260606-iran-targets-bahrain-and-kuwait-after-new-us-strikes",
+      "published_date": "2026-06-06T05:03:10+00:00",
       "category": "Military"
     },
     {
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Anthropic calls for pause of global AI development",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260605-anthropic-calls-for-pause-of-global-ai-development",
-      "published_date": "2026-06-05T14:06:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK in most dangerous period I've known, military chief says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1m2mryg0k7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-05T12:51:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI feature film on Iran’s protest movement makes festival history",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260605-ai-feature-film-on-iran-s-protest-movement-makes-festival-history",
-      "published_date": "2026-06-05T12:25:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Predicted global hunger crisis becoming a reality as Mideast war drags on, UN warns",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260605-feared-global-hunger-crisis-becoming-reality-as-mideast-war-persists-says-un",
-      "published_date": "2026-06-05T12:09:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sea drone explodes in the Romanian port of Constanta, raising fear of Ukraine war spillover",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260605-sea-drone-explodes-in-the-romanian-port-of-constanta-no-casualties",
-      "published_date": "2026-06-05T11:43:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France's data centre ambitions bump up against rural fears",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260605/frances-data-centre-ambitions-bump-up-against-rural-fears",
-      "published_date": "2026-06-05T11:30:17+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Feeling the heat: Women and climate change",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/the-51/20260605-feeling-the-heat-women-and-climate-change",
@@ -352,6 +352,13 @@
       "url": "https://www.france24.com/en/europe/20260531-ukraine-hits-russian-energy-targets-denies-striking-zaporizhzhia-nuclear-plant",
       "published_date": "2026-05-31T15:46:59+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Ukraine launches fresh drone attack on St. Petersburg region on final day of ‘Russian Davos’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260606-ukraine-launches-fresh-drone-attack-st-petersburg-region-final-day-russian-davos",
+      "published_date": "2026-06-06T13:07:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Supporters of India's Gen Z 'cockroach' party stage first protest in New Delhi",
@@ -487,11 +494,53 @@
       "category": "Economy"
     },
     {
-      "title": "Africa's finest: The Elephants are back and this time they mean business",
+      "title": "Bernadette Chirac, formidable former first lady of France, dies aged 93",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/06/bernadette-chirac-former-first-lady-france-dies",
+      "published_date": "2026-06-06T21:55:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albanians protest Jared Kushner-backed resort plan on nature reserve",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260606-albanians-protest-jared-kushner-backed-resort-plan-on-nature-reserve",
+      "published_date": "2026-06-06T13:41:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bernadette Chirac, France’s formidable former first lady, dies aged 93",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260603-afica-s-finest-the-elephants-are-back-and-this-time-they-mean-business",
-      "published_date": "2026-06-03T18:05:01+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/france/20260606-bernadette-chirac-france-s-formidable-former-first-lady-dies-aged-93",
+      "published_date": "2026-06-06T13:25:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bernadette Chirac, former first lady of France, dies aged 93",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260606-bernadette-chirac-former-first-lady-of-france-dies-aged-93",
+      "published_date": "2026-06-06T13:09:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former French first lady dies at 93: Bernadette Chirac, a 'discreet force'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/former-french-first-lady-dies-at-93-bernadette-chirac-a-discreet-force",
+      "published_date": "2026-06-06T12:40:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK PM criticises Vance over comments about teen's stabbing death",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-pm-criticises-vance-over-comments-about-teen-s-stabbing-death",
+      "published_date": "2026-06-06T12:37:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cockroach Janata Party holds first protest in New Delhi",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/cockroach-janata-party-holds-first-protest-in-new-delhi",
+      "published_date": "2026-06-06T12:26:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Paris celebrates love at the 2026 ‘Nuit Blanche’ all-night art festival",
@@ -582,55 +631,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/press-review/20260605-a-parallel-america-obama-s-850m-presidential-centre-offers-a-vision-of-hope",
       "published_date": "2026-06-05T09:39:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German serial killer found guilty of murder of French schoolboy",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260605/german-serial-killer-found-guilty-of-murder-of-french-schoolboy",
-      "published_date": "2026-06-05T06:51:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French billionaire Stérin reveals far-right agenda in first public hearing",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260605-french-billionaire-st%C3%A9rin-reveals-far-right-agenda-in-first-public-hearing",
-      "published_date": "2026-06-05T06:46:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diallo gives Cote d'Ivoire shock win over France, just days before World Cup",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260604-diallo-gives-ivory-coast-shock-win-over-france",
-      "published_date": "2026-06-04T21:36:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon health ministry says Israeli strikes in south and east kill eight",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/lebanon-health-ministry-says-israeli-strikes-in-south-and-east-kill-eight",
-      "published_date": "2026-06-04T20:20:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch police investigate suspected drugging and sexual assault of multiple women",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp8p8e1gnx7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T17:48:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Long awaited South Korean Centre Pompidou branch opens in Seoul",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-long-awaited-south-korean-centre-pompidou-branch-opens-in-seoul",
-      "published_date": "2026-06-04T15:54:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DR Congo opposition calls for protest against Tshisekedi running for 3rd term",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260604-dr-congo-opposition-calls-for-protest-against-tshisekedi-running-for-3rd-term",
-      "published_date": "2026-06-04T15:51:53+00:00",
       "category": "Local Events"
     }
   ]
