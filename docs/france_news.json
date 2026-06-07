@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-06-07T00:01:47.043764+00:00",
+  "last_updated": "2026-06-07T12:17:51.709556+00:00",
   "story_count": 90,
   "stories": [
+    {
+      "title": "More than a million people join Pope Leo for outdoor mass in Madrid",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
+      "published_date": "2026-06-07T10:20:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu",
+      "published_date": "2026-06-07T09:56:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran heads to World Cup in Mexico amid bitter visa standoff with Washington",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-heads-to-world-cup-in-mexico-amid-bitter-visa-standoff-with-washington",
+      "published_date": "2026-06-07T09:52:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Car industry pressing EU for further delay to Brexit EV tariffs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/07/eu-uk-car-industry-lobbying-second-brexit-ev-tariff-delay",
+      "published_date": "2026-06-07T06:00:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenian parliamentary vote will test prime minister's pivot from Russia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260607-armenia-polls-open-in-test-of-prime-minister-s-pivot-away-from-russia",
+      "published_date": "2026-06-07T05:21:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Estonia's former President on lessons learnt in dealing with Putin",
       "source": "France 24",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "More than a quarter of UK musicians lost all EU work since 2021, report finds",
+      "title": "Nigeria: Hundreds of kidnapped women, children freed from Boko Haram jihadists",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260607-nigeria-hundreds-kidnapped-women-children-freed-from-boko-haram-jihadists",
+      "published_date": "2026-06-07T10:09:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Residents of French village say US defense chief Hegseth not welcome for D-Day visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260607-residents-of-french-village-say-us-defense-secretary-hegseth-not-welcome-d-day-visit",
+      "published_date": "2026-06-07T09:49:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Armenians vote in parliamentary elections seen as ‘referendum on independence’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260607-armenians-vote-in-parliamentary-elections-seen-as-referendum-on-independence",
+      "published_date": "2026-06-07T09:43:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Air-raid alerts and frontline memoirs: Kyiv hosts literary festival amid war",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jun/05/quarter-of-uk-musicians-have-lost-all-eu-work-since-2021-report-finds",
-      "published_date": "2026-06-05T13:52:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/07/kyiv-hosts-literary-festival-amid-ukraine-war-book-arsenal",
+      "published_date": "2026-06-07T09:00:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK-EU ‘reset’ summit may still happen next month despite delay speculation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/05/uk-eu-reset-summit-july-delay-speculation",
-      "published_date": "2026-06-05T13:35:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU should not miss an opportunity on Ukraine diplomacy: Bulgarian FM Velislava Petrova",
+      "title": "Israeli troops kill infant, injure parents in West Bank",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260605-eu-should-not-miss-an-opportunity-on-ukraine-diplomacy-bulgarian-fm-velislava-petrova",
-      "published_date": "2026-06-05T12:03:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/israeli-troops-kill-infant-injure-parents-in-west-bank",
+      "published_date": "2026-06-07T08:39:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Negotiations on air passenger rights hit turbulence: EU Parliament takes on airlines",
+      "title": "Middle East live: US downs two Iranian drones targeting Hormuz shipping traffic",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260605-negotiations-on-air-passenger-rights-hit-turbulence-eu-parliament-takes-on-airlines",
-      "published_date": "2026-06-05T11:55:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260607-middle-east-live-us-downs-two-iranian-drones-targeting-hormuz-shipping-traffic",
+      "published_date": "2026-06-07T06:39:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Zimbabwe elected to UN Security Council",
+      "title": "Zelensky ignites fury by honouring Ukrainian WWII fighters who massacred Poles and Jews",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260605-zimbabwe-elected-to-un-security-council",
-      "published_date": "2026-06-05T10:01:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260607-why-zelensky-celebration-of-wwii-era-nationalist-guerrillas-is-causing-tension-with-poland",
+      "published_date": "2026-06-07T05:40:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
@@ -235,55 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Putin rejects Zelenskyy’s offer to meet and reaffirms Ukraine war aims",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/05/putin-rejects-zelenskyys-offer-to-meet-and-reaffirms-ukraine-war-aims",
-      "published_date": "2026-06-05T17:59:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Marjane Satrapi captured profound human emotions – and paved the way for a generation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/jun/05/marjane-satrapi-death-graphic-novelist-paved-way-for-a-generation",
-      "published_date": "2026-06-05T15:55:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine strikes cargo ships and admits Romania drone blast",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-05T15:29:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France opens 'war crime' probe over Israel treatment of flotilla activists",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260605/france-opens-war-crime-probe-over-israel-treatment-of-flotilla-activists",
-      "published_date": "2026-06-05T15:22:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian drone explodes in Romanian sea port",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260605-ukrainian-drone-explodes-in-romanian-sea-port",
-      "published_date": "2026-06-05T15:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France opens torture, 'war crime' probe over Israel's treatment of Gaza flotilla activists",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260605-france-opens-torture-war-crime-probe-over-israel-s-treatment-of-gaza-flotilla-activists",
-      "published_date": "2026-06-05T14:43:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine under heavy drone attack as Zelensky seeks direct meeting with Putin",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260605-ukraine-under-heavy-drone-attack-as-zelensky-seeks-direct-meeting-with-putin",
-      "published_date": "2026-06-05T14:08:23+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Feeling the heat: Women and climate change",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/the-51/20260605-feeling-the-heat-women-and-climate-change",
@@ -352,6 +352,13 @@
       "url": "https://www.france24.com/en/europe/20260531-ukraine-hits-russian-energy-targets-denies-striking-zaporizhzhia-nuclear-plant",
       "published_date": "2026-05-31T15:46:59+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T07:11:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Ukraine launches fresh drone attack on St. Petersburg region on final day of ‘Russian Davos’",
@@ -487,11 +494,88 @@
       "category": "Economy"
     },
     {
-      "title": "Oddone hails EU-Mercosur accord's 'civilisational approach' beyond commercial and economic interests",
+      "title": "More than a million attend Pope Leo's mass in Spain",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260603-oddone-hails-eu-mercosur-accord-s-civilisational-approach-beyond-commercial-and-economic-interests",
-      "published_date": "2026-06-03T21:03:43+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/more-than-a-million-attend-pope-leo-s-mass-in-spain",
+      "published_date": "2026-06-07T11:37:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Görli is our garden’: Berliners fight to stop mayor locking their park at night",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/gorlitzer-park-berlin-fight-germany-mayor",
+      "published_date": "2026-06-07T11:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 1.2 million people attend Pope's mass in Madrid",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260607-more-than-1-2-million-people-attend-pope-s-mass-in-madrid",
+      "published_date": "2026-06-07T10:05:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bolivian police clash with protesters demanding president's resignation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/bolivian-police-clash-with-protesters-demanding-president-s-resignation",
+      "published_date": "2026-06-07T09:49:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dubai luxury hotels court local residents as tourism slumps",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/dubai-luxury-hotels-court-local-residents-as-tourism-slumps",
+      "published_date": "2026-06-07T08:37:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peru votes for its ninth president in 10 years",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/peru-votes-for-its-ninth-president-in-10-years",
+      "published_date": "2026-06-07T08:34:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Racist mindsets’: Congolese in Ireland feel fear in wake of Yves Sakila’s death",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/ireland-yves-sakila-death-africans-fear",
+      "published_date": "2026-06-07T08:00:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup, renovation calculations, and ‘autopartage’: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260607/world-cup-renovation-calculations-and-autopartage-6-essential-articles-for-life-in-france",
+      "published_date": "2026-06-07T06:23:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On the agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260607/on-the-agenda-whats-happening-in-france-this-week-213",
+      "published_date": "2026-06-07T06:21:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris frozen in time in May 1970 – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jun/07/paris-frozen-in-time-in-may-1970-in-pictures",
+      "published_date": "2026-06-07T06:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milo Rau turned tribunals into theatre. Now his own moral judgement is on trial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/stage/2026/jun/07/milo-rau-turned-tribunals-into-theatre-now-his-own-moral-judgement-is-on-trial",
+      "published_date": "2026-06-07T04:00:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting",
+      "published_date": "2026-06-07T01:11:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bernadette Chirac, formidable former first lady of France, dies aged 93",
@@ -547,90 +631,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/culture/20260606-paris-celebrates-love-2026-nuit-blanche-all-night-art-festival",
       "published_date": "2026-06-06T11:54:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside the adult Swedish prison preparing to house children as young as 13",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/sweden-prisons-children-gang-crime",
-      "published_date": "2026-06-06T09:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside France: Roundabouts, revolution and train station rivalry",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260606/inside-france-roundabouts-revolution-and-train-station-rivalry",
-      "published_date": "2026-06-06T07:43:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jun/05/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-06-05T18:49:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zverev sees off Mensik to reach French Open final",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260605-zverev-sees-off-mensik-to-reach-french-open-final",
-      "published_date": "2026-06-05T16:24:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Paris's oldest bridge called the 'New Bridge'?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260605-why-is-paris-s-oldest-bridge-called-the-new-bridge",
-      "published_date": "2026-06-05T16:16:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parisians will be able to swim for a second year in the Seine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260605-parisians-will-be-able-to-swim-for-a-second-year-in-the-seine-france",
-      "published_date": "2026-06-05T16:14:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French sons of slave traders and enslaved unite to seek a path to justice",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260605-french-sons-of-slave-traders-and-enslaved-unite-to-seek-a-path-to-justice",
-      "published_date": "2026-06-05T16:08:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holocaust remembrance: Newly discovered photos illustrate previously-unknown roundup of French Jews",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260605-holocaust-remembrance-newly-discovered-photos-illustrate-previously-unknown-roundup-of-french-jews",
-      "published_date": "2026-06-05T15:11:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Outcry over judicial missteps linked to missing girl prompts French govt reckoning",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260605-outcry-over-judicial-missteps-linked-to-missing-girl-prompts-french-govt-reckoning",
-      "published_date": "2026-06-05T14:07:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dua Lipa and Callum Turner wedding divides Palermo: ‘I could understand if it was for the pope’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jun/05/dua-lipa-callum-turner-wedding-divides-palermo",
-      "published_date": "2026-06-05T12:15:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India's 'Cockroach Party' chief flies to New Delhi for protest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260605-india-s-cockroach-party-chief-flies-to-new-delhi-for-protest",
-      "published_date": "2026-06-05T10:08:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'A parallel America': Obama's $850m presidential centre offers a vision of hope",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260605-a-parallel-america-obama-s-850m-presidential-centre-offers-a-vision-of-hope",
-      "published_date": "2026-06-05T09:39:31+00:00",
       "category": "Local Events"
     }
   ]
