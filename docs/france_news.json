@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-06-07T12:17:51.709556+00:00",
-  "story_count": 90,
+  "last_updated": "2026-06-08T00:03:46.739287+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "title": "European leaders back Zelensky's call for direct Russia talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260607-european-leaders-back-zelensky-call-for-direct-russia-talks",
+      "published_date": "2026-06-07T23:01:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armenia votes in test of PM Pashinyan's pivot away from Russia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/armenia-votes-in-test-of-pm-pashinyan-s-pivot-away-from-russia",
+      "published_date": "2026-06-07T14:21:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "More than a million people join Pope Leo for outdoor mass in Madrid",
       "source": "The Guardian",
@@ -130,18 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU must prove it is capable and willing to take in new members, leaders say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/05/eu-new-members-bloc-leaders-summit-enlargement",
-      "published_date": "2026-06-05T15:00:21+00:00",
-      "category": "Diplomacy"
+      "title": "Nuclear powers increasing deployment of warheads, SIPRI warns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260607-nuclear-powers-increasing-deployment-of-warheads-sipri-warns",
+      "published_date": "2026-06-07T22:42:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "US imposes sanctions on Cuban president, Castro family members",
+      "title": "Zelenskyy discusses ‘urgent need to scale up’ air defences with key allies in London",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london",
+      "published_date": "2026-06-07T21:50:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky's close European allies set out five conditions for peace talks",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T21:39:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran launches missiles at Israel in first bombardment since fragile ceasefire",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260605-us-imposes-sanctions-on-cuban-president-castro-family-members",
-      "published_date": "2026-06-05T14:04:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260607-iran-launches-missiles-at-israel-in-first-bombardment-since-fragile-ceasefire",
+      "published_date": "2026-06-07T21:15:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone hits building storing spent nuclear fuel near Chornobyl",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+      "published_date": "2026-06-07T19:01:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eriksen conscious after collapsing in Denmark game",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T18:31:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war: 100 days on, a costly stalemate",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260607-iran-war-100-days",
+      "published_date": "2026-06-07T15:34:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Armenia's parliamentary election a vote on nation's 'geopolitical future'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/armenia-s-parliamentary-election-a-vote-on-nation-s-geopolitical-future",
+      "published_date": "2026-06-07T15:34:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Washington, Brussels stake their claims on AI as trillion-dollar IPO wave begins",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/washington-brussels-stake-their-claims-on-ai-as-trillion-dollar-ipo-wave-begins",
+      "published_date": "2026-06-07T13:56:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pete Hegseth’s D-day speech on immigration condemned as ‘grotesque stupidity’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/pete-hegseth-d-day-speech-immigration-grotesque-stupidity",
+      "published_date": "2026-06-07T12:22:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Nigeria: Hundreds of kidnapped women, children freed from Boko Haram jihadists",
@@ -214,76 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Turkey expands influence in Africa through military training",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260606-turkey-expands-influence-in-africa-through-military-training",
-      "published_date": "2026-06-06T15:01:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth blasts ‘invasion’ of migrants on Europe’s beaches in D-Day speech in France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260606-hegseth-urges-europe-on-d-day-to-counter-present-day-invasion",
-      "published_date": "2026-06-06T13:53:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-06T11:37:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Parliamentary elections mark 'historical moment' for Armenia, expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/parliamentary-elections-mark-historical-moment-for-armenia-expert-says",
-      "published_date": "2026-06-06T10:22:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Several soldiers killed in Israeli strike on Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/several-soldiers-killed-in-israeli-strike-on-lebanon",
-      "published_date": "2026-06-06T08:50:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran launches ballistic missiles at Bahrain, Kuwait after US hits its radar sites",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260606-iran-targets-bahrain-and-kuwait-after-new-us-strikes",
-      "published_date": "2026-06-06T05:03:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East live: US military says Iran launched seven ballistic missiles at Kuwait, Bahrain",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260606-middle-east-live-us-military-says-iran-launched-seven-ballistic-missiles-at-kuwait-bahrain",
-      "published_date": "2026-06-06T05:02:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Putin says ‘no point’ meeting Zelenskyy, insists Russia will win the war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/ukraine-war-briefing-putin-says-no-point-meeting-zelenskyy-insists-russia-will-win-the-war",
-      "published_date": "2026-06-06T01:33:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Dear Putin, Lebanon: A Crude Call, Colombia's 'Tiger'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260605-ukraine-dear-putin-lebanon-a-crude-call-colombia-s-tiger",
-      "published_date": "2026-06-05T18:26:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-05T18:16:15+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Feeling the heat: Women and climate change",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/the-51/20260605-feeling-the-heat-women-and-climate-change",
@@ -344,13 +344,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia",
       "published_date": "2026-06-01T07:17:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukraine hits Russian energy targets, denies striking Zaporizhzhia nuclear plant",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260531-ukraine-hits-russian-energy-targets-denies-striking-zaporizhzhia-nuclear-plant",
-      "published_date": "2026-05-31T15:46:59+00:00",
       "category": "Energy"
     },
     {
@@ -494,6 +487,69 @@
       "category": "Economy"
     },
     {
+      "title": "Italian rescuers recover 10 bodies after migrant boat capsizes off Malta",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/italian-rescuers-recover-10-bodies-after-migrant-boat-capsizes-off-malta",
+      "published_date": "2026-06-07T21:33:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zverev beats Cobolli in tense Paris final for first Grand Slam",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/tennis/articles/c992081nnpko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T18:19:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on the French presidential election campaign: only the far right will profit from division | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/07/the-guardian-view-on-the-french-presidential-election-campaign-only-the-far-right-will-profit-from-division",
+      "published_date": "2026-06-07T16:30:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hard-left Mélenchon launches 2027 campaign with broadside against National Rally",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260607-hard-left-m%C3%A9lenchon-launches-2027-campaign-with-broadside-against-national-rally",
+      "published_date": "2026-06-07T16:01:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands march for French schoolgirl murdered after police failed to question suspect",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/thousands-march-for-french-schoolgirl-murdered-after-police-failed-to-question-suspect",
+      "published_date": "2026-06-07T15:48:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands gather for march for French girl whose killing sparked outrage over lapses",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260607-march-in-france-for-girl-whose-killing-sparked-outcry-over-lapses",
+      "published_date": "2026-06-07T15:31:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One dead, five wounded after shootings in Israel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/one-dead-five-wounded-after-shootings-in-israel",
+      "published_date": "2026-06-07T14:18:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Missing girl case exposes flaws in judicial system, expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260607-time-of-transition-missing-girl-case-exposes-flaws-in-judicial-system",
+      "published_date": "2026-06-07T12:55:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week in pictures: Paris bridge transformed, French Open finals and Albania protests 'Kushner Island'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260607-the-week-in-pictures-paris-bridge-transformed-french-open-finals-world-cup-preparations",
+      "published_date": "2026-06-07T12:35:19+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "More than a million attend Pope Leo's mass in Spain",
       "source": "France 24",
       "url": "https://www.france24.com/en/more-than-a-million-attend-pope-leo-s-mass-in-spain",
@@ -568,69 +624,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/stage/2026/jun/07/milo-rau-turned-tribunals-into-theatre-now-his-own-moral-judgement-is-on-trial",
       "published_date": "2026-06-07T04:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/07/ukraine-war-briefing-kyiv-unleashes-hundreds-of-drones-on-russia-after-putin-rejected-zelenskyy-meeting",
-      "published_date": "2026-06-07T01:11:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bernadette Chirac, formidable former first lady of France, dies aged 93",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/bernadette-chirac-former-first-lady-france-dies",
-      "published_date": "2026-06-06T21:55:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albanians protest Jared Kushner-backed resort plan on nature reserve",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260606-albanians-protest-jared-kushner-backed-resort-plan-on-nature-reserve",
-      "published_date": "2026-06-06T13:41:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bernadette Chirac, France’s formidable former first lady, dies aged 93",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260606-bernadette-chirac-france-s-formidable-former-first-lady-dies-aged-93",
-      "published_date": "2026-06-06T13:25:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bernadette Chirac, former first lady of France, dies aged 93",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260606-bernadette-chirac-former-first-lady-of-france-dies-aged-93",
-      "published_date": "2026-06-06T13:09:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former French first lady dies at 93: Bernadette Chirac, a 'discreet force'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/former-french-first-lady-dies-at-93-bernadette-chirac-a-discreet-force",
-      "published_date": "2026-06-06T12:40:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK PM criticises Vance over comments about teen's stabbing death",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk-pm-criticises-vance-over-comments-about-teen-s-stabbing-death",
-      "published_date": "2026-06-06T12:37:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cockroach Janata Party holds first protest in New Delhi",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/cockroach-janata-party-holds-first-protest-in-new-delhi",
-      "published_date": "2026-06-06T12:26:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris celebrates love at the 2026 ‘Nuit Blanche’ all-night art festival",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260606-paris-celebrates-love-2026-nuit-blanche-all-night-art-festival",
-      "published_date": "2026-06-06T11:54:35+00:00",
       "category": "Local Events"
     }
   ]
