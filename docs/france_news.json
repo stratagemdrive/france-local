@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-06-08T14:45:02.044391+00:00",
+  "last_updated": "2026-06-09T00:02:48.511131+00:00",
   "story_count": 88,
   "stories": [
+    {
+      "title": "Blow to EU defence cooperation as France, Germany abandon joint fighter jet programme",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260608-france-germany-abandon-fighter-jet-project-due-to-diagreements-between-companies-involved",
+      "published_date": "2026-06-08T18:57:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian interference in Armenia: A nation tested by disinformation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20260608-russian-interference-armenia-nation-tested-disinformation",
+      "published_date": "2026-06-08T18:13:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and Germany abandon joint project to build European fighter jet",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/08/france-and-germany-abandon-joint-project-to-build-european-fighter-jet",
+      "published_date": "2026-06-08T17:32:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Merz, Macron agree to halt FCAS fighter jet plan: Berlin",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260608-merz-macron-agree-to-halt-fcas-fighter-jet-plan-berlin",
+      "published_date": "2026-06-08T16:09:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Once Trump accepted Iranian 14-point proposal as basis of talks, he gave Iran political initiative'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/once-trump-accepted-iranian-14-point-proposal-as-basis-of-talks-he-gave-iran-political-initiative",
+      "published_date": "2026-06-08T15:35:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "French government 'under pressure' amid public outcry over children protection failures",
       "source": "France 24",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Estonia's former President on lessons learnt in dealing with Putin",
+      "title": "Israel and Iran step back from further strikes after renewed clashes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260606-estonia-s-former-president-on-lessons-learnt-in-dealing-with-putin",
-      "published_date": "2026-06-06T18:30:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260608-israel-and-iran-step-back-from-further-strikes-after-renewed-clashes",
+      "published_date": "2026-06-08T22:36:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Starmer to host Zelenskyy and EU leaders for Ukraine talks",
+      "title": "Zelensky says he had 'positive' talks with Trump envoys on Ukraine war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260608-zelensky-says-he-had-positive-talks-with-trump-envoys-on-ukraine-war",
+      "published_date": "2026-06-08T22:09:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ebola cases reach more than 500",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260608-ebola-cases-reach-to-more-than-500",
+      "published_date": "2026-06-08T21:02:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump storms out of NBC interview after denying his own “No War” promises",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-storms-out-of-nbc-interview-after-denying-his-own-no-war-promises",
+      "published_date": "2026-06-08T19:51:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy: Ukraine and UK need each other in the battle against Russia – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
-      "published_date": "2026-06-06T17:54:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/video/2026/jun/08/zelenskyy-ukraine-uk-need-each-other-battle-against-russia-video",
+      "published_date": "2026-06-08T19:00:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pope Leo calls for leaders to reject polarisation as he begins Spanish tour",
+      "title": "Who calls the shots? Trump tries to rein in Netanyahu, salvage Iran deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260608-who-calls-the-shots-trump-tries-to-rein-in-netanyahu-salvage-iran-deal",
+      "published_date": "2026-06-08T18:10:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo receives standing ovation in rare papal address to Spain’s parliament – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/pope-leo-xiv-spain-tour-madrid-catholic-church",
-      "published_date": "2026-06-06T15:54:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/video/2026/jun/08/pope-leo-standing-ovation-spain-parliament-video",
+      "published_date": "2026-06-08T17:29:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bernadette Chirac, France's dedicated and discreet first lady",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260606/bernadette-chirac-frances-dedicated-and-discreet-first-lady",
-      "published_date": "2026-06-06T14:03:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Africa exception: the slavery reparations debate was once ‘unthinkable’. Now it is unavoidable",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/jun/06/africa-exception-slavery-reparations-african-union-justice",
-      "published_date": "2026-06-06T11:00:04+00:00",
-      "category": "Diplomacy"
+      "title": "Israel shuts down following war flare-up with Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-shuts-down-following-war-flare-up-with-iran",
+      "published_date": "2026-06-08T14:46:45+00:00",
+      "category": "Military"
     },
     {
       "title": "French NATO jets destroy mystery drone over Latvia as Ukraine war intensifies",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Nuclear powers increasing deployment of warheads, SIPRI warns",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260607-nuclear-powers-increasing-deployment-of-warheads-sipri-warns",
-      "published_date": "2026-06-07T22:42:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy discusses ‘urgent need to scale up’ air defences with key allies in London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london",
-      "published_date": "2026-06-07T21:50:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky's close European allies set out five conditions for peace talks",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T21:39:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran launches missiles at Israel in first bombardment since fragile ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260607-iran-launches-missiles-at-israel-in-first-bombardment-since-fragile-ceasefire",
-      "published_date": "2026-06-07T21:15:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone hits building storing spent nuclear fuel near Chornobyl",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
-      "published_date": "2026-06-07T19:01:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eriksen conscious after collapsing in Denmark game",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T18:31:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war: 100 days on, a costly stalemate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260607-iran-war-100-days",
-      "published_date": "2026-06-07T15:34:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Armenia's parliamentary election a vote on nation's 'geopolitical future'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/armenia-s-parliamentary-election-a-vote-on-nation-s-geopolitical-future",
-      "published_date": "2026-06-07T15:34:21+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Time and Water review – Iceland’s doomed glacier tells its own story of climate disaster",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/jun/08/time-and-water-review-iceland-glacier-documentary-author-andri-snaer-magnason",
@@ -338,6 +338,20 @@
       "url": "https://www.thelocal.fr/20260602/french-wine-growers-plant-trees-to-protect-vines-from-climate",
       "published_date": "2026-06-02T06:12:32+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "‘A special sense of closeness’: China’s Xi vows stronger ties with North Korea in rare visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260608-a-special-sense-of-closeness-china-s-xi-vows-stronger-ties-with-north-korea-in-rare-visit",
+      "published_date": "2026-06-08T16:17:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What American parents in France need to know about their child’s US tax obligations",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260608/what-american-parents-in-france-need-to-know-about-their-childs-us-tax-obligations",
+      "published_date": "2026-06-08T15:33:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Inflation and FIFA price hikes dampen hope of World Cup boost to US economy",
@@ -466,18 +480,53 @@
       "category": "Economy"
     },
     {
-      "title": "UK to challenge EU over ‘devastating’ plans to almost halve tariff-free steel import quotas",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/04/uk-challenge-eu--new-tariff-free-steel-import-quotas",
-      "published_date": "2026-06-04T08:27:42+00:00",
-      "category": "Economy"
+      "title": "EU Taliban invite 'the wrong signal to anyone that is using power as a means of suppression'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/eu-taliban-invite-the-wrong-signal-to-anyone-that-is-using-power-as-a-means-of-suppression",
+      "published_date": "2026-06-08T21:31:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Russia ramps up pressure on Armenia ahead of Sunday's crucial election",
+      "title": "French justice system on trial as nation rages at failure to prevent schoolgirl’s murder",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260604-russia-ramps-pressure-on-armenia-ahead-of-sunday-s-crucial-election",
-      "published_date": "2026-06-04T08:16:08+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20260608-french-justice-system-on-trial-as-nation-rages-at-failure-to-prevent-schoolgirl-lyhanna-murder",
+      "published_date": "2026-06-08T18:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Expect disruption' - France rail strike to impact services on June 10th",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260608/expect-disruption-france-rail-strike-to-impact-services-on-june-10th",
+      "published_date": "2026-06-08T16:15:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French star Patrick Bruel placed in police custody over rape, sex assault allegations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260608-french-star-patrick-bruel-placed-in-police-custody-over-rape-sex-assault-allegations",
+      "published_date": "2026-06-08T15:41:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Schoolgirl’s murder sparks outrage over judicial failings",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260608-france-schoolgirl-s-murder-sparks-outrage-over-judicial-failings",
+      "published_date": "2026-06-08T15:36:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup venues: Estadio Azteca, Mexico City",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260608-world-cup-2026-world-cup-venues-estadio-azteca-mexico-city-football",
+      "published_date": "2026-06-08T15:27:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French justice system 'overwhelmed': 'Systemic' failures tackling violence against women & children",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-justice-system-overwhelmed-understaffed-sexual-assault-victims-endure-systemic-failures",
+      "published_date": "2026-06-08T14:47:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Senior Kinahan gang crime figure jailed for 24 years by Dublin court",
@@ -568,55 +617,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cvgerxnq0kgo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-08T03:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The jailing of Germany’s most wanted woman – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jun/08/jailing-germany-most-wanted-woman-daniela-klette-podcast",
-      "published_date": "2026-06-08T02:00:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian rescuers recover 10 bodies after migrant boat capsizes off Malta",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/07/italian-rescuers-recover-10-bodies-after-migrant-boat-capsizes-off-malta",
-      "published_date": "2026-06-07T21:33:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zverev beats Cobolli in tense Paris final for first Grand Slam",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/tennis/articles/c992081nnpko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T18:19:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on the French presidential election campaign: only the far right will profit from division | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/07/the-guardian-view-on-the-french-presidential-election-campaign-only-the-far-right-will-profit-from-division",
-      "published_date": "2026-06-07T16:30:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hard-left Mélenchon launches 2027 campaign with broadside against National Rally",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260607-hard-left-m%C3%A9lenchon-launches-2027-campaign-with-broadside-against-national-rally",
-      "published_date": "2026-06-07T16:01:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands march for French schoolgirl murdered after police failed to question suspect",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/07/thousands-march-for-french-schoolgirl-murdered-after-police-failed-to-question-suspect",
-      "published_date": "2026-06-07T15:48:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands gather for march for French girl whose killing sparked outrage over lapses",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260607-march-in-france-for-girl-whose-killing-sparked-outcry-over-lapses",
-      "published_date": "2026-06-07T15:31:14+00:00",
       "category": "Local Events"
     }
   ]
