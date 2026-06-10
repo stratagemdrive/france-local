@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-06-09T13:41:30.399050+00:00",
-  "story_count": 87,
+  "last_updated": "2026-06-10T00:09:44.415722+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Did Emmanuel Macron ban the Russian flag from the French open? No",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260609-did-emmanuel-macron-ban-the-russian-flag-from-the-french-open-no",
+      "published_date": "2026-06-09T21:12:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Xi meeting 'was a success for Kim Jong Un', experts says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260609-xi-meeting-was-a-success-for-kim-jong-un-experts-says",
+      "published_date": "2026-06-09T20:58:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU orders Meta to reopen WhatsApp to rival AI assistants",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260609-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-assistants",
+      "published_date": "2026-06-09T20:48:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France bans Israeli minister Smotrich in coordinated sanctions push",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-bans-israeli-minister-smotrich-in-coordinated-sanctions-push",
+      "published_date": "2026-06-09T18:36:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Faced with growing outrage, French government presents new measures for child protection",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/faced-with-growing-outrage-french-government-presents-new-measures-for-child-protection",
+      "published_date": "2026-06-09T15:16:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow",
+      "published_date": "2026-06-09T15:12:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-09T14:27:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France bans Israel’s finance minister, slams him for promoting ‘recolonisation’ of Gaza",
       "source": "France 24",
@@ -95,53 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran's World Cup team arrives in Mexico amid US visa row",
+      "title": "US military launches new strikes on Iran after Apache downing",
       "source": "France 24",
-      "url": "https://www.france24.com/en/iran-s-world-cup-team-arrives-in-mexico-amid-us-visa-row",
-      "published_date": "2026-06-08T13:08:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/live-news/20260609-us-military-launches-new-strikes-on-iran-after-apache-downing",
+      "published_date": "2026-06-09T21:40:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Democratic backsliding': Armenia's 'extreme polarisation, hate speech, stigmatization' mar election",
+      "title": "Trump vows response after Iran shoots down US helicopter",
       "source": "France 24",
-      "url": "https://www.france24.com/en/democratic-backsliding-armenia-s-extreme-polarisation-hate-speech-stigmatization-mar-election",
-      "published_date": "2026-06-08T12:10:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/trump-vows-response-after-iran-shoots-down-us-helicopter",
+      "published_date": "2026-06-09T20:28:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "China's Xi Jinping lands in North Korea for rare, high-stakes visit",
+      "title": "FCAS project failure: 'France, Germany characterised by totally different strategic cultures'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/china-s-xi-jinping-lands-in-north-korea-for-rare-high-stakes-visit",
-      "published_date": "2026-06-08T10:35:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/fcas-project-failure-france-germany-characterised-by-totally-different-strategic-cultures",
+      "published_date": "2026-06-09T19:28:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Armenia's PM secures win in election 'with highest turnout in a decade'",
+      "title": "Lebanon says 8 dead in strike on Tyre as Israel keeps up attacks on south",
       "source": "France 24",
-      "url": "https://www.france24.com/en/armenia-s-pm-secures-win-in-election-with-highest-turnout-in-a-decade",
-      "published_date": "2026-06-08T09:29:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/lebanon-says-8-dead-in-strike-on-tyre-as-israel-keeps-up-attacks-on-south",
+      "published_date": "2026-06-09T19:19:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Armenia’s pro-Europe party wins election and cements shift away from Russia",
+      "title": "Unbreakable Kim? China's Xi visits Russia-backed North Korean leader",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260609-unbreakable-kim-china-s-xi-visits-russia-backed-north-korean-leader",
+      "published_date": "2026-06-09T18:16:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Marjane Satrapi obituary",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/08/armenia-europe-party-wins-election-russia-nikol-pashinyan",
-      "published_date": "2026-06-08T07:20:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/09/marjane-satrapi-obituary",
+      "published_date": "2026-06-09T16:41:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Scientists sound alarm on World Oceans Day as Trump axes deep-sea monitoring",
+      "title": "Zelenskyy: Putin is ‘playing games’ with Trump – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/audio/2026/jun/09/zelenskyy-putin-is-playing-games-with-trump-podcast",
+      "published_date": "2026-06-09T15:50:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French PM announces measures to combat child abuse amid Lyhanna protests",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260608-scientists-sound-alarm-on-world-oceans-day-as-trump-axes-deep-sea-monitoring",
-      "published_date": "2026-06-08T04:44:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/france/20260609-french-pm-announces-initial-measures-to-combat-child-abuse-amid-lyhanna-uproar",
+      "published_date": "2026-06-09T15:23:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "European leaders back Zelensky's call for direct Russia talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260607-european-leaders-back-zelensky-call-for-direct-russia-talks",
-      "published_date": "2026-06-07T23:01:08+00:00",
-      "category": "Diplomacy"
+      "title": "Scrapping of Franco-German fighter jet leaves allies at odds on defence future",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg02541ykpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-09T14:54:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Why Zelensky asked Russian oligarch Abramovich to test Putin’s appetite for talks",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "‘We want to see him in Ukraine’: Zelenskyy hopes to invite King Charles on state visit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/09/zelenskyy-hopes-to-invite-king-charles-state-visit-ukraine",
-      "published_date": "2026-06-09T05:00:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russia’s Peskov admits ‘certain problems’ with fuel supplies after energy sites targeted",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/09/ukraine-war-briefing-russias-peskov-admits-certain-problems-with-fuel-supplies-after-energy-sites-targeted",
-      "published_date": "2026-06-09T01:02:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-08T23:23:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky thanks UK for 'ironclad' support after meeting King",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy8d9jdvvpyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-08T22:41:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel and Iran step back from further strikes after renewed clashes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260608-israel-and-iran-step-back-from-further-strikes-after-renewed-clashes",
-      "published_date": "2026-06-08T22:36:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky says he had 'positive' talks with Trump envoys on Ukraine war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260608-zelensky-says-he-had-positive-talks-with-trump-envoys-on-ukraine-war",
-      "published_date": "2026-06-08T22:09:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ebola cases reach more than 500",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260608-ebola-cases-reach-to-more-than-500",
-      "published_date": "2026-06-08T21:02:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump storms out of NBC interview after denying his own “No War” promises",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-storms-out-of-nbc-interview-after-denying-his-own-no-war-promises",
-      "published_date": "2026-06-08T19:51:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy: Ukraine and UK need each other in the battle against Russia – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/08/zelenskyy-ukraine-uk-need-each-other-battle-against-russia-video",
-      "published_date": "2026-06-08T19:00:33+00:00",
-      "category": "Military"
+      "title": "Oxfam warns Europe’s corporate giants are fuelling inequality",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260609-oxfam-warns-europe-s-corporate-giants-are-fuelling-inequality",
+      "published_date": "2026-06-09T17:03:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "Time and Water review – Iceland’s doomed glacier tells its own story of climate disaster",
@@ -473,6 +480,83 @@
       "category": "Economy"
     },
     {
+      "title": "Pope warns of growing mental health crisis, domestic violence at Barcelona Vigil",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260609-pope-warns-growing-mental-health-crisis-domestic-violence-barcelona-vigil",
+      "published_date": "2026-06-09T23:10:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Striking teachers bring Mexico City to a standstill ahead of World Cup",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260609-striking-teachers-bring-mexico-city-to-a-standstill-ahead-of-world-cup",
+      "published_date": "2026-06-09T22:22:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenya: one dead at protest anti US Ebola quarantine center",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260609-violence-flares-in-kenya-over-the-us-ebola-quarantine-centre",
+      "published_date": "2026-06-09T21:15:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump immigration stance 'clashes against reality of what is needed to stage a truly global event'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-immigration-stance-clashes-against-reality-of-what-is-needed-to-stage-a-truly-global-event",
+      "published_date": "2026-06-09T20:01:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lawyer for murdered French girl’s family calls for more justice system funding",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/09/lyhanna-lawyer-france-justice-system-funding",
+      "published_date": "2026-06-09T18:40:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is the pope a Real Madrid fan? Leo’s admission upsets Barcelona faithful",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/09/pope-leo-real-madrid-barcelona-fans-spain",
+      "published_date": "2026-06-09T15:55:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bear captured in Japan after multi-day search as attacks rise",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/bear-captured-in-japan-after-multi-day-search-as-attacks-rise",
+      "published_date": "2026-06-09T15:34:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belfast protesters set vehicles on fire, block roads over brutal street stabbing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260609-uk-leaders-urge-calm-as-far-right-figures-call-for-anti-migrant-protests-over-belfast-stabbing",
+      "published_date": "2026-06-09T15:05:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel continues strikes on Beirut suburb",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260609-israel-continues-strikes-on-beirut-suburb",
+      "published_date": "2026-06-09T15:03:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens of Afghan men protest govt crackdown on women, police accused of ‘firing shots’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260609-dozens-of-afghan-men-protest-govt-crackdown-on-women-police-accused-of-firing-shots",
+      "published_date": "2026-06-09T14:53:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jersey teenage politician congratulated by Trump says he is not a fan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/09/student-elected-jersey-parliament-congratulated-by-trump",
+      "published_date": "2026-06-09T14:00:52+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Mother sues French state over daughter's neglected rape case as public anger grows",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260609-mother-sues-french-state-over-daughter-s-neglected-rape-case-lyhanna-murder",
@@ -533,83 +617,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260609-democratic-socialist-candidate-beats-trump-backed-republican-to-advance-to-la-mayor-runoff",
       "published_date": "2026-06-09T08:43:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We are cheering on five teams’: how Rotterdam will turn more than orange for World Cup",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/09/rotterdam-world-cup-curacao-cape-verde-morocco-turkey-fans-dutch-city",
-      "published_date": "2026-06-09T07:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French star Bruel held by police on sexual assault allegations",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260609/french-star-bruel-held-by-police-on-sexual-assault-allegations",
-      "published_date": "2026-06-09T06:19:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court tries seven Georgians over theft of rare Russian books",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260609-french-court-tries-seven-georgians-over-theft-of-rare-russian-books",
-      "published_date": "2026-06-09T05:57:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French star Patrick Bruel held by police investigating new sexual assault allegations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/jun/09/patrick-bruel-french-singer-actor-sexual-assault-allegations-ntwnfb",
-      "published_date": "2026-06-09T01:02:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian strikes kill four, wound 10 in Ukraine’s Kharkiv region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260609-russian-strikes-kill-four-in-ukraine-kharkiv-region",
-      "published_date": "2026-06-09T00:56:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU Taliban invite 'the wrong signal to anyone that is using power as a means of suppression'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/eu-taliban-invite-the-wrong-signal-to-anyone-that-is-using-power-as-a-means-of-suppression",
-      "published_date": "2026-06-08T21:31:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French justice system on trial as nation rages at failure to prevent schoolgirl’s murder",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260608-french-justice-system-on-trial-as-nation-rages-at-failure-to-prevent-schoolgirl-lyhanna-murder",
-      "published_date": "2026-06-08T18:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Expect disruption' - France rail strike to impact services on June 10th",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260608/expect-disruption-france-rail-strike-to-impact-services-on-june-10th",
-      "published_date": "2026-06-08T16:15:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French star Patrick Bruel placed in police custody over rape, sex assault allegations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260608-french-star-patrick-bruel-placed-in-police-custody-over-rape-sex-assault-allegations",
-      "published_date": "2026-06-08T15:41:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Schoolgirl’s murder sparks outrage over judicial failings",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260608-france-schoolgirl-s-murder-sparks-outrage-over-judicial-failings",
-      "published_date": "2026-06-08T15:36:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup venues: Estadio Azteca, Mexico City",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260608-world-cup-2026-world-cup-venues-estadio-azteca-mexico-city-football",
-      "published_date": "2026-06-08T15:27:26+00:00",
       "category": "Local Events"
     }
   ]
