@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-06-11T00:12:20.223037+00:00",
+  "last_updated": "2026-06-11T14:33:04.418808+00:00",
   "story_count": 88,
   "stories": [
+    {
+      "title": "FIFA World Cup: Politics and business threaten football ‘spirit’, expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260611-fifa-world-cup-politics-and-business-threaten-football-spirit-expert-says-1",
+      "published_date": "2026-06-11T12:58:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FIFA World Cup: Politics and business threaten football ‘spirit’, expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260611-fifa-world-cup-politics-and-business-threaten-football-spirit-expert-says",
+      "published_date": "2026-06-11T12:46:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Children in danger 'not heard' in France, rights lawyer warns after Lyhanna death",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260611-thurs-8am-children-in-danger-not-heard-in-france-rights-lawyer-warns-after-lyhanna-death",
+      "published_date": "2026-06-11T03:22:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN snub to Germany may well prove costly | Letters",
       "source": "The Guardian",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU set to discuss deportation of Afghan refugees with Taliban",
+      "title": "Israel denies entry to French reporter, broadcaster slams ‘obstacle to press freedom’",
       "source": "France 24",
-      "url": "https://www.france24.com/en/eu-set-to-discuss-deportation-of-afghan-refugees-with-taliban",
-      "published_date": "2026-06-09T10:45:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/france/20260611-israel-denies-entry-to-french-reporter-broadcaster-slams-obstacle-to-press-freedom",
+      "published_date": "2026-06-11T13:17:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump remains optimistic peace deal can be reached despite Middle East flare-up",
+      "title": "Why Russian trucks in Ukraine are covered in ‘zebra’ camouflage",
       "source": "France 24",
-      "url": "https://www.france24.com/en/trump-remains-optimistic-peace-deal-can-be-reached-despite-middle-east-flare-up",
-      "published_date": "2026-06-09T10:25:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260611-russian-trucks-covered-zebra-camouflage-ukraine-war-dazzle",
+      "published_date": "2026-06-11T12:34:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kim Jong-Un 'at the top of his game' as North Korea to boost ties with China",
+      "title": "ECB raises eurozone interest rates as Iran war stokes inflation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation",
+      "published_date": "2026-06-11T12:18:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in the Middle East: Three Indian sailors dead after US hit ship off Oman",
       "source": "France 24",
-      "url": "https://www.france24.com/en/kim-jong-un-at-the-top-of-his-game-as-north-korea-to-boost-ties-with-china",
-      "published_date": "2026-06-09T10:13:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260611-war-in-the-middle-east-three-indian-sailors-dead-after-us-hit-ship-off-oman",
+      "published_date": "2026-06-11T09:19:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in Ukraine now longer than WWI: Russia's full scale invasion reached 1,569 days",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260611-war-in-ukraine-now-longer-than-wwi-russia-s-full-scale-invasion-reached-1-569-days",
+      "published_date": "2026-06-11T09:18:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Iran hit each other again as hopes for quick peace deal fade",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260611-us-iran-hit-each-other-again-as-hopes-for-quick-peace-deal-fade",
+      "published_date": "2026-06-11T09:12:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland prepares to stand its ground with massive new civil defence programme",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260611-poland-prepares-stand-ground-against-potential-threats",
+      "published_date": "2026-06-11T08:53:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Highway of death’: the Ukrainian drone campaign menacing Russian logistics",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/11/highway-of-death-the-ukrainian-drone-campaign-menacing-russian-logistics",
+      "published_date": "2026-06-11T04:00:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Flamingo missiles hit more far-flung Russian targets",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/11/ukraine-war-briefing-flamingo-missiles-hit-more-far-flung-russian-targets",
+      "published_date": "2026-06-11T01:11:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Middle East live: Iran says will target any vessel traffic in Strait of Hormuz",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Putin and Trump are both trapped in losing battles against reality | Rafael Behr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/putin-trump-ukraine-iran-wars-authoritarian",
-      "published_date": "2026-06-10T05:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A drone alert blasted on my phone – we had to take shelter. This is the new reality on Nato’s eastern flank | Linas Kojala",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/drone-alert-blasted-phone-take-shelter-new-reality-nato",
-      "published_date": "2026-06-10T04:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tears and catharsis as Kyiv premieres opera about Ukrainian children abducted by Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/10/mothers-of-kherson-opera-kyiv-premiere-russian-abductions-children-ukraine",
-      "published_date": "2026-06-10T04:00:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Grandpa in a bunker’: is Putin losing control? - podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jun/10/grandpa-in-a-bunker-putin-losing-control-podcast",
-      "published_date": "2026-06-10T02:00:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Moscow car bomb kills Russian ammunition chief – reports",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/10/ukraine-war-briefing-moscow-car-bomb-kills-russian-ammunition-chief-reports",
-      "published_date": "2026-06-10T01:01:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military launches new strikes on Iran after Apache downing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260609-us-military-launches-new-strikes-on-iran-after-apache-downing",
-      "published_date": "2026-06-09T21:40:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump vows response after Iran shoots down US helicopter",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-vows-response-after-iran-shoots-down-us-helicopter",
-      "published_date": "2026-06-09T20:28:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FCAS project failure: 'France, Germany characterised by totally different strategic cultures'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/fcas-project-failure-france-germany-characterised-by-totally-different-strategic-cultures",
-      "published_date": "2026-06-09T19:28:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon says 8 dead in strike on Tyre as Israel keeps up attacks on south",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/lebanon-says-8-dead-in-strike-on-tyre-as-israel-keeps-up-attacks-on-south",
-      "published_date": "2026-06-09T19:19:37+00:00",
-      "category": "Military"
+      "title": "Climate report shows 1.5C limit on global warming will be breached by 2030",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260611-climate-report-shows-1-5c-limit-on-global-warming-will-be-breached-by-2030",
+      "published_date": "2026-06-11T14:03:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "They pay 30% less for electricity. Their secret? Solar panels",
@@ -333,11 +340,18 @@
       "category": "Energy"
     },
     {
-      "title": "A good life  for the 99% isn’t a pipe dream: it can be done. Here’s how",
+      "title": "2026 World Cup set to generate nearly $41bn in economic output",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260611-2026-world-cup-set-to-generate-nearly-41bn-in-economic-output",
+      "published_date": "2026-06-11T08:58:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ryanair investigated over charging parents to sit with their children",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/04/a-good-life-for-the-99-isnt-a-pipe-dream-it-can-be-done-heres-how",
-      "published_date": "2026-06-04T06:00:27+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/jun/11/ryanair-investigated-over-charging-parents-children-uk-cma",
+      "published_date": "2026-06-11T06:59:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "OPINION: The French pension crisis could be a landmine for Jordan Bardella",
@@ -466,18 +480,81 @@
       "category": "Economy"
     },
     {
-      "title": "Cameroon faces major drinking water shortages despite boosted production",
+      "title": "UEFA picks Somali referee banned by US for European Super Cup",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260605-cameroon-faces-major-drinking-water-shortages-despite-boosted-production",
-      "published_date": "2026-06-05T10:00:01+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/sport/20260611-somali-referee-banned-by-us-to-officiate-european-super-cup-uefa",
+      "published_date": "2026-06-11T13:35:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "France stunned by Ivory Coast in World Cup warm-up defeat",
+      "title": "Mélissa Laveaux on music, mortality and identity",
       "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260604-france-stunned-by-ivory-coast-in-world-cup-warm-up-defeat",
-      "published_date": "2026-06-04T21:35:37+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260611-m%C3%A9lissa-laveaux-on-music-mortality-and-identity",
+      "published_date": "2026-06-11T12:35:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup opens with Mexico-South Africa rematch on pitch that shaped Pelé, Maradona legends",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260611-world-cup-opener-mexico-south-africa-azteca-stadium-shaped-legends-pele-maradona",
+      "published_date": "2026-06-11T12:23:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France’s villages: Life beyond the postcard",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/french-connections/20260611-france-s-villages-life-beyond-the-postcard",
+      "published_date": "2026-06-11T12:20:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crans-Montana fire bereaved ask for murder charges against bar owners",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/11/crans-montana-fire-murder-charges-request-bar-owners",
+      "published_date": "2026-06-11T11:22:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexico and South Africa kick off first 48-team football World Cup",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260611-mexico-and-south-africa-launch-first-48-team-football-world-cup-2026",
+      "published_date": "2026-06-11T11:05:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026: Immigrant fans, workers face ICE fears",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260611-world-cup-2026-immigrant-fans-workers-face-ice-fears",
+      "published_date": "2026-06-11T09:22:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US and Iran exchange fire for a second day, undermining shaky ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260611-us-and-iran-exchange-fire-for-a-second-day-undermining-shaky-ceasefire",
+      "published_date": "2026-06-11T09:19:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police blast water cannons at Belfast protesters as unrest flares again",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260611-police-blast-water-cannons-at-belfast-protesters-as-unrest-flares-again",
+      "published_date": "2026-06-11T09:17:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The EU is inviting the Taliban to Brussels. Europe’s credibility lies in tatters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/the-eu-is-inviting-the-taliban-to-brussels-europes-credibility-lies-in-tatters",
+      "published_date": "2026-06-11T04:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French man on trial accused of raping partner after contact with Dominique Pelicot",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/11/french-man-on-trial-accused-of-raping-partner-after-contact-with-dominique-pelicot",
+      "published_date": "2026-06-11T02:00:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "What Albania teaches us about Kushner's real estate tactics",
@@ -540,83 +617,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-10T15:00:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Letter from Kyiv: The messed-up day-to-day of living under Putin’s cruel air war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/10/years-on-i-still-marvel-at-the-resilience-of-day-to-day-life-under-putins-cruel-air-war",
-      "published_date": "2026-06-10T14:46:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenyan protester killed at demonstration against US Ebola facility",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260610-another-kenyan-protester-killed-at-demonstration-against-us-ebola-facility",
-      "published_date": "2026-06-10T14:40:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Demonized, called hysterical’: the rise of witchcraft retreats where US women go to defy man and church",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/10/witchcraft-retreat-ireland",
-      "published_date": "2026-06-10T14:28:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Short-term rentals under fire as Cape Town grapples with overtourism",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260610-short-term-rentals-under-fire-as-cape-town-grapples-with-overtourism",
-      "published_date": "2026-06-10T14:04:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US strikes Iran after blaming Tehran for helicopter crash",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260610-us-strikes-iran-after-blaming-tehran-for-helicopter-crash",
-      "published_date": "2026-06-10T14:03:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anti-immigration protesters torch buildings and vehicles, block roads over Belfast stabbing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260610-anti-immigration-protesters-torch-buildings-and-vehicles-block-roads-over-belfast-stabbing",
-      "published_date": "2026-06-10T14:02:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French government seeks to defuse crisis after girl's killing exposes judicial failings",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260610-french-government-seeks-to-defuse-crisis-after-girl-s-killing-exposes-judicial-failings",
-      "published_date": "2026-06-10T14:01:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belfast stabbing suspect due in court after night of anti-immigration violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260610-belfast-stabbing-suspect-due-in-court-after-night-of-anti-immigration-violence",
-      "published_date": "2026-06-10T13:56:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We're always in danger': In DRC, Ebola health workers under attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260610-we-re-always-in-danger-in-drc-ebola-health-workers-under-attack",
-      "published_date": "2026-06-10T13:55:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A love coach's tips on finding 'amour' in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260610-a-love-coach-s-tips-on-finding-amour-in-paris",
-      "published_date": "2026-06-10T13:24:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French sculptor Béatrice Bizot on being part of Sagrada Familia blessing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260610-french-sculptor-b%C3%A9atrice-bizot-on-being-part-of-sagrada-familia-blessing",
-      "published_date": "2026-06-10T12:45:52+00:00",
       "category": "Local Events"
     }
   ]
