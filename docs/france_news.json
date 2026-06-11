@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-06-10T14:19:57.476777+00:00",
+  "last_updated": "2026-06-11T00:12:20.223037+00:00",
   "story_count": 88,
   "stories": [
+    {
+      "title": "UN snub to Germany may well prove costly | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/10/un-snub-to-germany-may-well-prove-costly",
+      "published_date": "2026-06-10T16:01:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World Cup '26: 'FIFA could never have envisaged how complicated, sensitive this tournament would be'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260610-world-cup-26-fifa-could-never-have-envisaged-how-complicated-sensitive-this-tournament-would-be",
+      "published_date": "2026-06-10T15:18:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "European heatwave drives world's second-hottest May on record",
       "source": "RFI English",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany and France abandon joint fighter jet project",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260609/germany-and-france-abandon-joint-fighter-jet-project",
-      "published_date": "2026-06-09T08:03:57+00:00",
-      "category": "Diplomacy"
+      "title": "Middle East live: Iran says will target any vessel traffic in Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260610-middle-east-live-iran-announces-closure-of-strait-of-hormuz-after-us-attacks",
+      "published_date": "2026-06-10T23:38:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "France moves closer to ocean goals with three new marine protection zones",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260609-france-moves-closer-to-ocean-goals-with-three-new-marine-protection-zones",
-      "published_date": "2026-06-09T06:32:58+00:00",
-      "category": "Diplomacy"
+      "title": "Wall Street counts down to SpaceX IPO",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/wall-street-counts-down-to-spacex-ipo",
+      "published_date": "2026-06-10T20:41:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three Indian crew missing as US says fired on tanker off Oman",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/three-indian-crew-missing-as-us-says-fired-on-tanker-off-oman",
+      "published_date": "2026-06-10T18:25:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Has Russia given up on Kinburn Spit, its westernmost foothold in Ukraine?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260610-has-russia-given-up-on-kinburn-spit-its-westernmost-foothold-in-ukraine",
+      "published_date": "2026-06-10T17:35:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New York: French air force soars over Statue of Liberty",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260610-new-york-french-air-force-soars-over-statue-of-liberty",
+      "published_date": "2026-06-10T15:33:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How does the Iran war end? US and Israeli leaders at odds over priorities",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260610-how-does-the-iran-war-end-us-and-israeli-leaders-at-odds-over-priorities",
+      "published_date": "2026-06-10T15:03:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine says missiles hit military plant deep inside Russia",
@@ -239,48 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/lebanon-says-8-dead-in-strike-on-tyre-as-israel-keeps-up-attacks-on-south",
       "published_date": "2026-06-09T19:19:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Unbreakable Kim? China's Xi visits Russia-backed North Korean leader",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260609-unbreakable-kim-china-s-xi-visits-russia-backed-north-korean-leader",
-      "published_date": "2026-06-09T18:16:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Marjane Satrapi obituary",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/09/marjane-satrapi-obituary",
-      "published_date": "2026-06-09T16:41:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy: Putin is ‘playing games’ with Trump – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/audio/2026/jun/09/zelenskyy-putin-is-playing-games-with-trump-podcast",
-      "published_date": "2026-06-09T15:50:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French PM announces measures to combat child abuse amid Lyhanna protests",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260609-french-pm-announces-initial-measures-to-combat-child-abuse-amid-lyhanna-uproar",
-      "published_date": "2026-06-09T15:23:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Scrapping of Franco-German fighter jet leaves allies at odds on defence future",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckg02541ykpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T14:54:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Zelensky asked Russian oligarch Abramovich to test Putin’s appetite for talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260609-why-zelensky-asked-russian-oligarch-roman-abramovich-to-test-putin-appetite-for-talks",
-      "published_date": "2026-06-09T12:33:02+00:00",
       "category": "Military"
     },
     {
@@ -480,6 +480,90 @@
       "category": "Economy"
     },
     {
+      "title": "What Albania teaches us about Kushner's real estate tactics",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/10/jared-kushner-albania-sazan-island-real-estate-deal",
+      "published_date": "2026-06-10T22:32:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "M23 fighters detaining, abusing thousands in DRC",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/m23-fighters-detaining-abusing-thousands-in-drc",
+      "published_date": "2026-06-10T20:26:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexico says \"the ball comes home\" as it prepares to host 2026 FIFA World Cup",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mexico-says-the-ball-comes-home-as-it-prepares-to-host-2026-fifa-world-cup",
+      "published_date": "2026-06-10T19:52:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK watchdog warns online platforms as Belfast riots go viral",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-watchdog-warns-online-platforms-as-belfast-riots-go-viral",
+      "published_date": "2026-06-10T19:47:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli airstrikes kill 13 in south Lebanon, Lebanese sources say",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israeli-airstrikes-kill-13-in-south-lebanon-lebanese-sources-say",
+      "published_date": "2026-06-10T18:18:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Has France failed its children? Outrage over murder of 11-year old Lyhanna",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260610-has-france-failed-its-children-outrage-over-murder-of-11-year-old-lyhanna",
+      "published_date": "2026-06-10T18:15:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France prosecutors want singer Bruel charged over alleged sexual abuse",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260610-france-prosecutors-want-singer-bruel-charged-over-alleged-sexual-abuse",
+      "published_date": "2026-06-10T15:28:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump says Iran has taken too long to negotiate, will 'pay the price'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260610-trump-says-iran-has-taken-too-long-to-negotiate-will-pay-the-price",
+      "published_date": "2026-06-10T15:26:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T15:00:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Letter from Kyiv: The messed-up day-to-day of living under Putin’s cruel air war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/10/years-on-i-still-marvel-at-the-resilience-of-day-to-day-life-under-putins-cruel-air-war",
+      "published_date": "2026-06-10T14:46:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenyan protester killed at demonstration against US Ebola facility",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260610-another-kenyan-protester-killed-at-demonstration-against-us-ebola-facility",
+      "published_date": "2026-06-10T14:40:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Demonized, called hysterical’: the rise of witchcraft retreats where US women go to defy man and church",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/witchcraft-retreat-ireland",
+      "published_date": "2026-06-10T14:28:25+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Short-term rentals under fire as Cape Town grapples with overtourism",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260610-short-term-rentals-under-fire-as-cape-town-grapples-with-overtourism",
@@ -533,90 +617,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/perspective/20260610-french-sculptor-b%C3%A9atrice-bizot-on-being-part-of-sagrada-familia-blessing",
       "published_date": "2026-06-10T12:45:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belfast: Anti-immigrant violence erupts after knife attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260610-belfast-anti-immigrant-violence-erupts-after-knife-attack",
-      "published_date": "2026-06-10T11:32:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As British town councils face budget cuts, local residents lend a helping hand",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260610-as-british-town-councils-face-budget-cuts-local-residents-lend-a-helping-hand",
-      "published_date": "2026-06-10T11:11:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan city relieved as bear caught after roaming streets for days",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260610-japan-city-relieved-as-bear-caught-after-roaming-streets-for-days",
-      "published_date": "2026-06-10T09:59:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anti-immigrant violence erupts across Belfast after knife attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260610-anti-immigrant-violence-erupts-across-belfast-after-knife-attack",
-      "published_date": "2026-06-10T09:58:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is the far right exploiting the 'sickening' attack by a refugee in Belfast?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260610-is-the-far-right-exploiting-the-sickening-attack-by-a-refugee-in-belfast",
-      "published_date": "2026-06-10T09:42:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pet’s name ‘banned’ from gravestone in eastern France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260610/pets-name-banned-from-gravestone-in-eastern-france",
-      "published_date": "2026-06-10T08:30:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Appeals launched for British woman, 28, missing in Paris",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260610/appeals-launched-for-british-woman-28-missing-in-paris",
-      "published_date": "2026-06-10T07:36:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belfast unrest erupts after stabbing linked to Sudanese refugee",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260610-belfast-unrest-erupts-after-stabbing-linked-to-sudanese-refugee",
-      "published_date": "2026-06-10T07:23:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo to celebrate mass at Barcelona's unfinished Sagrada Familia",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260610-pope-leo-xiv-to-celebrate-mass-at-barcelona-s-sagrada-familia",
-      "published_date": "2026-06-10T06:08:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope to bless Barcelona's Sagrada Familia on death centenary of designer Gaudí",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260610-pope-to-bless-barcelona-s-sagrada-familia-on-death-centenary-of-designer-gaud%C3%AD",
-      "published_date": "2026-06-10T01:49:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope warns of growing mental health crisis, domestic violence at Barcelona Vigil",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260609-pope-warns-growing-mental-health-crisis-domestic-violence-barcelona-vigil",
-      "published_date": "2026-06-09T23:10:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Striking teachers bring Mexico City to a standstill ahead of World Cup",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260609-striking-teachers-bring-mexico-city-to-a-standstill-ahead-of-world-cup",
-      "published_date": "2026-06-09T22:22:37+00:00",
       "category": "Local Events"
     }
   ]
