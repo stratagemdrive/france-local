@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-06-14T00:03:04.616246+00:00",
-  "story_count": 89,
+  "last_updated": "2026-06-14T12:58:30.123344+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "EU says to resume membership talks with Ukraine on Monday",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260614-eu-says-to-resume-membership-talks-with-ukraine-on-monday",
+      "published_date": "2026-06-14T11:02:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7 meeting begins in France this Monday",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260614-g7-meeting-begins-in-france-this-monday",
+      "published_date": "2026-06-14T10:57:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine and Moldova to enter first phase of EU membership negotiations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/14/ukraine-and-moldova-start-first-phase-of-eu-membership-negotiations",
+      "published_date": "2026-06-14T09:33:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Protests set to grip Geneva ahead of G7 summit",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260614-protests-set-to-grip-geneva-ahead-of-g7-summit",
+      "published_date": "2026-06-14T06:32:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy not on Trump’s G7 bilateral meeting list, official says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/14/ukraine-war-briefing-trump-g7-zelenskyy",
+      "published_date": "2026-06-14T01:29:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron to meet Trump at the Palace of Versailles after G7 summit in France",
       "source": "France 24",
@@ -109,39 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU's new rules on migration and asylum come into effect",
+      "title": "Switzerland: After rapid population growth, right-wing party supports cap vote",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260612-eu-s-new-rules-on-migration-and-asylum-come-into-effect",
-      "published_date": "2026-06-12T10:27:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260614-switzerland-after-rapid-population-growth-right-wing-party-supports-cap-vote",
+      "published_date": "2026-06-14T10:56:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Which airlines are banned in the European Union and why?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260612/which-airlines-are-banned-in-the-european-union-and-why",
-      "published_date": "2026-06-12T10:20:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What's in the landmark EU migration reform hardening border protections?",
+      "title": "UK intercepts Russian shadow fleet vessel in Channel: ministry",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260612-the-migration-pact-what-s-in-the-eu-s-landmark-asylum-reform",
-      "published_date": "2026-06-12T06:40:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260614-uk-intercepts-russian-shadow-fleet-vessel-in-channel-ministry",
+      "published_date": "2026-06-14T10:21:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "What's in the landmark EU migration reform hardening border protections?",
+      "title": "UK intercepts oil tanker from Russia's shadow fleet in English Channel",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260612-eu-adopts-major-landmark-asylum-reform-hardening-border-procedures",
-      "published_date": "2026-06-12T06:01:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260614-uk-intercepts-oil-tanker-from-russia-s-shadow-fleet-in-english-channel",
+      "published_date": "2026-06-14T08:39:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK defence funding crisis has been a long time coming",
+      "title": "Russia is losing the war in Ukraine, and Putin is desperate. But that’s when he’s at his most dangerous | Simon Tisdall",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/11/uk-defence-funding-john-healey-keir-starmer-offer",
-      "published_date": "2026-06-11T19:14:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/14/vladimir-putin-ukraine-war-borders-russian-president",
+      "published_date": "2026-06-14T07:00:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war live: Israel military hits southern Beirut with air strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260614-middle-east-war-live-trump-says-iran-deal-to-be-signed-sunday",
+      "published_date": "2026-06-14T05:12:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘A point of resistance’: the Normandy village that said ‘non’ to Pete Hegseth",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/14/normandy-village-legrune-sur-mer-protest-d-day-pete-hegseth",
+      "published_date": "2026-06-14T05:00:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "World Cup 2026: Scotland edge past Haiti with McGinn's opener",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260614-world-cup-2026-scotland-edge-past-haiti-with-mcginn-s-opener",
+      "published_date": "2026-06-14T03:02:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Despite regular strikes on Ukraine, Russia's offensive seems to be losing steam",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260614-despite-regular-strikes-on-ukraine-russian-offensive-loses-steam",
+      "published_date": "2026-06-14T01:23:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-13T23:19:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Lebanon reports Israeli strikes in south and east amid broad evacuation warnings",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Combating foreign digital interference: ‘France is among the top three in Europe’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260612-combating-foreign-digital-interference-france-among-top-three-europe-cybersecurity-elections",
-      "published_date": "2026-06-12T18:58:43+00:00",
-      "category": "Military"
+      "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T12:56:15+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Former Tory MP and military officer on Keir Starmer's 'rope-a-dope' week",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260612-former-tory-mp-and-military-officer-on-keir-starmer-s-rope-a-dope-week",
-      "published_date": "2026-06-12T18:45:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, Ukraine, Belfast & Albania’s ‘Flamingo Revolution’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260612-iran-ukraine-belfast-albania-s-flamingo-revolution",
-      "published_date": "2026-06-12T18:20:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "All of us are migrants, says pope as he rounds off tour of Spain in Tenerife",
+      "title": "Amoc collapse could change Europe’s climate 10x faster than expected. We aren’t ready",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/12/all-of-us-are-migrants-says-pope-as-he-arrives-in-tenerife",
-      "published_date": "2026-06-12T15:05:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US plans to slash fighter jets, warships to NATO in Europe, NY Times reports",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260612-us-plans-to-slash-fighter-jets-warships-to-nato-in-europe-ny-times-reports",
-      "published_date": "2026-06-12T14:04:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Deep mistrust' in Tehran as Iran plays down Trump's deal claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260612-deep-mistrust-in-tehran-as-iran-plays-down-trump-s-deal-claims",
-      "published_date": "2026-06-12T13:24:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Viral video of Iran downing US helicopter was generated by AI",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260612-viral-video-iran-downing-us-helicopter-ai-generated",
-      "published_date": "2026-06-12T11:48:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will fully autonomous killer drones be the next step in modern warfare?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260612-will-fully-autonomous-killer-drones-be-the-next-step-in-modern-warfare",
-      "published_date": "2026-06-12T11:11:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘All of us are migrants’, says pope on final day of Spain visit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260612-pope-urges-migrants-to-integrate-during-canary-islands-visit",
-      "published_date": "2026-06-12T09:43:23+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/14/amoc-collapse-europe-climate",
+      "published_date": "2026-06-14T10:00:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "'We need more clean, homegrown, cheap European energy': EU Climate Commissioner",
@@ -345,6 +359,27 @@
       "url": "https://www.theguardian.com/film/2026/jun/08/time-and-water-review-iceland-glacier-documentary-author-andri-snaer-magnason",
       "published_date": "2026-06-08T10:00:52+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Wildfire rules, tax residency and World Cup vocab: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260614/wildfire-rules-tax-residency-and-world-cup-vocab-6-essential-articles-for-life-in-france",
+      "published_date": "2026-06-14T07:37:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How Brexit has made Britain poorer – in charts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
+      "published_date": "2026-06-14T05:00:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "World Cup 2026: Brazil and Morocco draw in heavyweight Group C opener",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260614-world-cup-2026-brazil-and-morocco-draw-in-heavyweight-group-c-opener",
+      "published_date": "2026-06-14T00:05:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "How visa applications became big business across Africa",
@@ -466,25 +501,60 @@
       "category": "Economy"
     },
     {
-      "title": "What American parents in France need to know about their child’s US tax obligations",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260608/what-american-parents-in-france-need-to-know-about-their-childs-us-tax-obligations",
-      "published_date": "2026-06-08T15:33:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Inflation and FIFA price hikes dampen hope of World Cup boost to US economy",
+      "title": "'Must-see event', rare sumo tournament kicks off in Paris",
       "source": "France 24",
-      "url": "https://www.france24.com/en/inflation-and-fifa-price-hikes-dampen-hope-of-world-cup-boost-to-us-economy",
-      "published_date": "2026-06-08T13:26:31+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260614-must-see-event-rare-sumo-tournament-kicks-off-in-paris",
+      "published_date": "2026-06-14T11:03:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T23:03:23+00:00",
-      "category": "Economy"
+      "title": "Thousands of protesters expected in Geneva ahead of nearby G7 summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260614-thousands-of-protesters-expected-in-geneva-ahead-of-g7-summit",
+      "published_date": "2026-06-14T09:17:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands rally in Belfast to condemn anti-immigrant rioting that followed stabbing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260614-thousands-rally-in-belfast-to-condemn-anti-immigrant-rioting-that-followed-stabbing",
+      "published_date": "2026-06-14T09:10:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260614/on-the-agenda-whats-happening-in-france-this-week-214",
+      "published_date": "2026-06-14T07:36:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "History's first influencer? Marie Antoinette still receives letters",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/culture/20260614-was-queen-marie-antoinette-history-first-influencer-still-receives-letters",
+      "published_date": "2026-06-14T05:43:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The project nurturing West Africa's new generation of women filmmakers",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20260614-the-project-nurturing-west-africa-s-new-generation-of-women-filmmakers",
+      "published_date": "2026-06-14T05:28:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New York Knicks beat Spurs to claim first NBA title in 53 years",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260614-new-york-knicks-beat-spurs-to-claim-first-nba-title-in-53-years",
+      "published_date": "2026-06-14T03:38:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swiss voters set to reject proposed 10 million population cap in referendum",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260614-switzerland-holds-brexit-style-referendum-on-10-million-population-cap",
+      "published_date": "2026-06-14T00:24:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Middle East Live:  Dozens protest peace deal outside Iran foreign ministry",
@@ -568,62 +638,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260612-israeli-and-palestinian-groups-urge-world-not-to-abandon-two-state-solution",
       "published_date": "2026-06-12T23:58:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palantir loses legal challenge to force Swiss magazine to publish responses",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jun/13/palantir-loses-legal-challenge-to-force-swiss-magazine-to-publish-rejoinders",
-      "published_date": "2026-06-12T23:12:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris des Arts: Special edition in Prague",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/paris-des-arts/20260612-paris-des-arts-special-edition-in-prague",
-      "published_date": "2026-06-12T17:34:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds gather for funeral of French schoolgirl whose killing sparked national outrage",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260612-hundreds-gather-for-funeral-of-french-schoolgirl-whose-killing-sparked-national-outrage",
-      "published_date": "2026-06-12T16:34:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "€3,300 for a dress! The Paris Flea Market, where vintage meets luxury",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20260612-%E2%82%AC3-300-for-a-dress-the-paris-flea-market-where-vintage-meets-luxury",
-      "published_date": "2026-06-12T16:29:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan's love-hate relationship with bears",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20260612-japan-s-love-hate-relationship-with-bears",
-      "published_date": "2026-06-12T15:52:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris no longer carries the load as audit backs asylum redistribution plan",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260612-paris-no-longer-carries-the-load-as-audit-backs-asylum-redistribution-plan",
-      "published_date": "2026-06-12T15:08:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris Metro to allow passengers to use bank cards at entry gates",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260612/paris-metro-to-begin-using-bank-card-entry-payments",
-      "published_date": "2026-06-12T14:24:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First group of Nigerians returns home after anti-immigration protests in South Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260612-first-group-of-nigerians-returns-home-after-anti-immigration-protests-in-south-africa",
-      "published_date": "2026-06-12T13:47:43+00:00",
       "category": "Local Events"
     }
   ]
