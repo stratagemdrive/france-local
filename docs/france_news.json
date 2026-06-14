@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-06-13T12:21:40.287675+00:00",
+  "last_updated": "2026-06-14T00:03:04.616246+00:00",
   "story_count": 89,
   "stories": [
+    {
+      "title": "Macron to meet Trump at the Palace of Versailles after G7 summit in France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260613-macron-to-meet-trump-at-the-palace-of-versailles-after-g7-summit-in-france",
+      "published_date": "2026-06-13T17:24:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Modi-Macron: \"For the past three decades, France has been one of India's strategic partners\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260613-modi-macron-for-the-past-three-decades-france-has-been-one-of-india-s-strategic-partners",
+      "published_date": "2026-06-13T15:32:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Indian PM Modi in France to attend G7 summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260613-indian-pm-modi-in-france-to-attend-g7-summit",
+      "published_date": "2026-06-13T12:58:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU to ban airlines from charging parents to sit with children",
       "source": "The Local France",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The UK defence minister's shock resignation is a warning for all of Europe | Paul Taylor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/uk-defence-minister-shock-resignation-warning-europe",
-      "published_date": "2026-06-11T17:20:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French PM holds summit to counter foreign interference in elections",
+      "title": "Lebanon reports Israeli strikes in south and east amid broad evacuation warnings",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260611-french-pm-holds-summit-to-counter-foreign-interference-in-elections",
-      "published_date": "2026-06-11T14:58:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260613-lebanon-reports-israeli-strikes-in-south-and-east-amid-broad-evacuation-warnings",
+      "published_date": "2026-06-13T20:53:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "France and Switzerland impose tight security around Lake Geneva for G7 summit",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260611/france-and-switzerland-impose-tight-security-around-lake-geneva-for-g7-summit",
-      "published_date": "2026-06-11T13:13:09+00:00",
-      "category": "Diplomacy"
+      "title": "UK Defence spending under scrutiny as former minister warns \"Putin will be watching this carefully\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260613-uk-defence-spending-under-scrutiny-as-former-minister-warns-putin-will-be-watching-this-carefully",
+      "published_date": "2026-06-13T19:00:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran: Will a peace deal with the US be reached soon?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260613-iran-will-a-peace-deal-with-the-us-be-reached-soon",
+      "published_date": "2026-06-13T16:23:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260613-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-warnings",
+      "published_date": "2026-06-13T16:21:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran peace agreement: A reason to be optimistic?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260613-us-iran-peace-agreement-a-reason-to-be-optimistic",
+      "published_date": "2026-06-13T16:19:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO weighs options to defend Europe as the US plans for conflict elsewhere",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260613-nato-weighs-options-to-defend-europe-as-the-us-plans-for-conflict-elsewhere",
+      "published_date": "2026-06-13T13:34:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran peace deal: \"Lebanon is the one to chart its own path forward\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260613-iran-peace-deal-lebanon-is-the-one-to-chart-its-own-path-forward",
+      "published_date": "2026-06-13T13:11:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260613-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-warnings",
+      "published_date": "2026-06-13T12:49:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Three Indian sailors died in US strike off Oman",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Dzeko's last dance could be Bosnia's new beginning",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c9d3vexqg2do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-12T07:09:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: France, Germany and UK make push in Moscow for peace talks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/12/ukraine-war-briefing-france-germany-and-uk-make-push-in-moscow-for-peace-talks",
-      "published_date": "2026-06-12T01:04:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Iran peace deal is near after threatening new strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260611-trump-says-iran-peace-deal-is-near-after-threatening-new-strikes",
-      "published_date": "2026-06-11T21:47:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Civilians will be put in harm's way' expert warns as first autonomous drone kills revealed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260611-civilians-will-be-put-in-harm-s-way-expert-warns-as-first-autonomous-drone-kill-revealed",
-      "published_date": "2026-06-11T21:09:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK defence chief steps down, accuses Starmer of making Britain 'less safe'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260611-uk-defence-chief-steps-down-accuses-starmer-of-making-britain-less-safe",
-      "published_date": "2026-06-11T20:28:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump touts Iran deal: \"some people's response to this will be 'the boy who cried wolf'\"",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-touts-iran-deal-some-people-s-response-to-this-will-be-the-boy-who-cried-wolf",
-      "published_date": "2026-06-11T20:27:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump calls off latest threats to strike Iran, citing progress in negotiations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-calls-off-latest-threats-to-strike-iran-citing-progress-in-negotiations",
-      "published_date": "2026-06-11T19:22:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "World Cup: Excitement mounts in Mexico City ahead of opening game",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260611-world-cup-excitement-mounts-in-mexico-city-ahead-of-opening-game",
-      "published_date": "2026-06-11T18:26:04+00:00",
-      "category": "Military"
-    },
-    {
       "title": "'We need more clean, homegrown, cheap European energy': EU Climate Commissioner",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/talking-europe/20260612-we-need-more-clean-homegrown-cheap-european-energy-eu-climate-commissioner",
@@ -345,6 +345,20 @@
       "url": "https://www.theguardian.com/film/2026/jun/08/time-and-water-review-iceland-glacier-documentary-author-andri-snaer-magnason",
       "published_date": "2026-06-08T10:00:52+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "How visa applications became big business across Africa",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260613-how-visa-applications-became-big-business-across-africa",
+      "published_date": "2026-06-13T15:11:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cuba: Díaz-Canel announces economic reforms to attract investment",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260613-cuba-d%C3%ADaz-canel-announces-economic-reforms-to-attract-investment",
+      "published_date": "2026-06-13T13:03:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Swiss wait to hear result of ballot on capping population at 10 million",
@@ -473,18 +487,39 @@
       "category": "Economy"
     },
     {
-      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T07:11:18+00:00",
-      "category": "Economy"
+      "title": "Middle East Live:  Dozens protest peace deal outside Iran foreign ministry",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260613-middle-east-live-dozens-protest-peace-deal-outside-iran-foreign-ministry",
+      "published_date": "2026-06-13T21:44:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ukraine launches fresh drone attack on St. Petersburg region on final day of ‘Russian Davos’",
+      "title": "Thousands turn out for anti-racism rally after Belfast unrest",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260606-ukraine-launches-fresh-drone-attack-st-petersburg-region-final-day-russian-davos",
-      "published_date": "2026-06-06T13:07:17+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260613-thousands-turn-out-for-anti-racism-rally-after-belfast-unrest",
+      "published_date": "2026-06-13T16:25:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ghana lodges protest over Canada's refusal to admit rape case suspect Partey",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260613-ghana-lodges-protest-over-canada-s-refusal-to-admit-rape-case-suspect-partey",
+      "published_date": "2026-06-13T15:06:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albanians protest against another luxury development on Adriatic coast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/13/albania-protest-luxury-development-adriatic-coast",
+      "published_date": "2026-06-13T14:34:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup: Mexico beat South Africa 2-0",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260613-world-cup-mexico-beat-south-africa-2-0",
+      "published_date": "2026-06-13T12:59:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pelicot 'follower' gets 15 years in France for drug rapes",
@@ -589,41 +624,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260612-first-group-of-nigerians-returns-home-after-anti-immigration-protests-in-south-africa",
       "published_date": "2026-06-12T13:47:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sudan rights groups blame RSF paramilitary for drone strikes that hit civilians",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260612-sudan-rights-groups-blame-rsf-paramilitary-for-drone-strikes-that-hit-civilians",
-      "published_date": "2026-06-12T13:46:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris airport cancels or reroutes 3,000 flights for runway works",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260612/paris-airport-cancels-or-reroutes-3000-flights-for-runway-works",
-      "published_date": "2026-06-12T13:42:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two French cities impose curfews for under-16s during World Cup",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260612-french-cities-toulouse-and-clermont-ferrand-impose-curfews-for-under-16s-during-football-world-cup",
-      "published_date": "2026-06-12T12:17:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup Debrief - Day 1 : Mexico wins whilst South Africa sees red",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260612-world-cup-debrief-day-1-mexico-wins-whilst-south-africa-sees-red",
-      "published_date": "2026-06-12T11:57:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France followed to World Cup by home politics after Mbappé’s swipe at far right",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/jun/12/france-followed-to-world-cup-by-home-politics-after-mbappes-swipe-at-far-right",
-      "published_date": "2026-06-12T11:00:45+00:00",
       "category": "Local Events"
     }
   ]
