@@ -1,8 +1,71 @@
 {
   "country": "France",
-  "last_updated": "2026-06-15T00:05:48.965301+00:00",
+  "last_updated": "2026-06-15T16:13:28.948046+00:00",
   "story_count": 91,
   "stories": [
+    {
+      "title": "Ukraine: Kyiv's historic cathedral set ablaze in Russian attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260615-ukraine-kyiv-s-historic-cathedral-set-ablaze-in-russian-attack",
+      "published_date": "2026-06-15T15:41:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7 summit: 'Pressure will be on leaders to show support for Ukraine'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260615-g7-summit-pressure-will-be-on-leaders-to-show-support-for-ukraine",
+      "published_date": "2026-06-15T14:07:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Macron warns Iran against imposing Hormuz tolls",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260615-france-s-macron-warns-iran-against-imposing-hormuz-tolls",
+      "published_date": "2026-06-15T12:40:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'For sure': Macron to preach stronger Europe vision at G7 swansong",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260615/for-sure-macron-to-preach-stronger-europe-vision-at-g7-swansong",
+      "published_date": "2026-06-15T07:35:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron leads effort to bridge divides with Trump at France's G7 summit",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260615-macron-leads-effort-to-bridge-divides-with-trump-at-france-s-g7-summit",
+      "published_date": "2026-06-15T05:06:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe is starting to break up with US big tech. But it’s still abiding by the Silicon Valley rulebook | Max von Thun",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/15/europe-us-big-tech-silicon-valley-european-commission",
+      "published_date": "2026-06-15T04:00:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron frames Évian G7 agenda in hope Trump will stay for whole summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump",
+      "published_date": "2026-06-15T04:00:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Live : Trump and Macron address the press at G7 summit in France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260615-trump-to",
+      "published_date": "2026-06-15T03:47:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine enters first phase of EU membership negotiations – but the process will be long",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260615-ukraine-enters-first-phase-of-eu-membership-negotiations-long-road-ahead",
+      "published_date": "2026-06-15T02:43:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Clashes as thousands protest in Geneva ahead of G7 summit in France",
       "source": "RFI English",
@@ -81,67 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France lays to rest widow of late French president Chirac",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260613/france-lays-to-rest-widow-of-late-french-president-chirac",
-      "published_date": "2026-06-13T07:41:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Middle East live: Iran says US war deal could be signed remotely in 'coming days'",
+      "title": "Confusion in Lebanon over US-Iran deal",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260612-middle-east-live-iran-says-us-war-deal-could-be-signed-remotely-in-coming-days",
-      "published_date": "2026-06-12T21:33:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260615-confusion-in-lebanon-over-us-iran-deal",
+      "published_date": "2026-06-15T15:17:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine's EU accession bid gains traction as Hungary lifts veto",
+      "title": "Israel 'has had its hands forced' by US-Iran deal",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260612-ukraine-s-eu-accession-bid-gains-traction-as-hungary-lifts-veto",
-      "published_date": "2026-06-12T20:01:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260615-israel-has-had-its-hands-forced-by-us-iran-deal",
+      "published_date": "2026-06-15T15:16:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kosovo's 'Groundhog Day' politics",
+      "title": "What we know about the US-Iran memorandum of understanding",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260612-kosovo-s-groundhog-day-politics",
-      "published_date": "2026-06-12T18:37:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260615-what-we-know-us-iran-memorandum-understanding",
+      "published_date": "2026-06-15T14:20:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "LGBTQ rights in Hungary: 'We are very hopeful that changes will be made'",
+      "title": "Mixed reactions in Lebanon and Israel over Iran-US ceasefire",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260612-lgbtq-rights-in-hungary-we-are-very-hopeful-that-changes-will-be-made",
-      "published_date": "2026-06-12T17:13:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260615-mixed-reactions-in-lebanon-and-israel-over-iran-us-ceasefire",
+      "published_date": "2026-06-15T14:14:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Palestinian and Israeli civil society groups urge G7 to take action on Gaza",
+      "title": "Franco-German group unveils new battle tank at Eurosatory defence fair",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260615-franco-german-defence-group-unveils-new-battle-tank-eurosatory-exhibition",
+      "published_date": "2026-06-15T13:51:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mixed emotions among diaspora as Iran begins World Cup campaign",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260615-mixed-emotions-among-diaspora-as-iran-begins-world-cup-campaign",
+      "published_date": "2026-06-15T13:21:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cathedral burns at Unesco-listed Kyiv Pechersk Lavra after Russian attack",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/12/palestinian-israeli-civil-society-groups-g7-summit-gaza",
-      "published_date": "2026-06-12T16:00:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/video/2026/jun/15/dormiton-cathedral-burns-unesco-kyiv-pechersk-lavra-russian-attack",
+      "published_date": "2026-06-15T11:55:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU reaches provisional deal on migrant returns: An effective and fair system?",
+      "title": "'Sudanese people have been fighting for freedom for decades': Director Hind Meddeb",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260612-eu-reaches-provisional-deal-on-migrant-returns-an-effective-and-fair-system",
-      "published_date": "2026-06-12T15:13:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260615-sudanese-people-have-been-fighting-for-freedom-for-decades-director-hind-meddeb",
+      "published_date": "2026-06-15T11:26:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Brexit: 10 years of regret?",
+      "title": "#Trump celebrates 80th birthday with #UFC fight at #WhiteHouse",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/revisited/20260612-brexit-10-years-of-chaos-and-regret",
-      "published_date": "2026-06-12T14:13:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260615-trump-celebrates-80th-birthday-with-ufc-fight-at-whitehouse",
+      "published_date": "2026-06-15T11:17:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Wrapped in paradox: Most inclusive tournament in terms of countries participating yet many excluded",
+      "title": "Vast Eurosatory weapons showcase gets underway",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260612-wrapped-in-paradox-most-inclusive-tournament-in-terms-of-countries-participating-yet-many-excluded",
-      "published_date": "2026-06-12T13:45:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260615-vast-eurosatory-weapons-showcase-gets-underway",
+      "published_date": "2026-06-15T10:53:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Relief from world leaders as US-Iran deal announced",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260615-relief-from-world-leaders-as-us-iran-deal-announced",
+      "published_date": "2026-06-15T10:51:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AI, drones and Ukrainian tech on show at Eurosatory defence fair",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260615-ai-drones-and-ukrainian-tech-on-show-at-eurosatory-defense-fair",
+      "published_date": "2026-06-15T10:45:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv monastery set on fire in night of Russian attacks across Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine",
+      "published_date": "2026-06-15T08:49:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian attacks across Ukraine kill several, set renowned Kyiv monastery ablaze",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260615-kyiv-monastery-damaged-in-russian-air-attack-as-strikes-intensify-across-ukraine",
+      "published_date": "2026-06-15T02:25:36+00:00",
+      "category": "Military"
     },
     {
       "title": "US, Iran reach deal to end war",
@@ -186,102 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Switzerland: After rapid population growth, right-wing party supports cap vote",
+      "title": "2026 World Cup set to be 'most polluting' sporting event in history",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260614-switzerland-after-rapid-population-growth-right-wing-party-supports-cap-vote",
-      "published_date": "2026-06-14T10:56:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK intercepts Russian shadow fleet vessel in Channel: ministry",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260614-uk-intercepts-russian-shadow-fleet-vessel-in-channel-ministry",
-      "published_date": "2026-06-14T10:21:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK intercepts oil tanker from Russia's shadow fleet in English Channel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260614-uk-intercepts-oil-tanker-from-russia-s-shadow-fleet-in-english-channel",
-      "published_date": "2026-06-14T08:39:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia is losing the war in Ukraine, and Putin is desperate. But that’s when he’s at his most dangerous | Simon Tisdall",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/14/vladimir-putin-ukraine-war-borders-russian-president",
-      "published_date": "2026-06-14T07:00:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war live: Israel military hits southern Beirut with air strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260614-middle-east-war-live-trump-says-iran-deal-to-be-signed-sunday",
-      "published_date": "2026-06-14T05:12:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘A point of resistance’: the Normandy village that said ‘non’ to Pete Hegseth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/14/normandy-village-legrune-sur-mer-protest-d-day-pete-hegseth",
-      "published_date": "2026-06-14T05:00:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "World Cup 2026: Scotland edge past Haiti with McGinn's opener",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260614-world-cup-2026-scotland-edge-past-haiti-with-mcginn-s-opener",
-      "published_date": "2026-06-14T03:02:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Despite regular strikes on Ukraine, Russia's offensive seems to be losing steam",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260614-despite-regular-strikes-on-ukraine-russian-offensive-loses-steam",
-      "published_date": "2026-06-14T01:23:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-13T23:19:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon reports Israeli strikes in south and east amid broad evacuation warnings",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260613-lebanon-reports-israeli-strikes-in-south-and-east-amid-broad-evacuation-warnings",
-      "published_date": "2026-06-13T20:53:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK Defence spending under scrutiny as former minister warns \"Putin will be watching this carefully\"",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260613-uk-defence-spending-under-scrutiny-as-former-minister-warns-putin-will-be-watching-this-carefully",
-      "published_date": "2026-06-13T19:00:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran: Will a peace deal with the US be reached soon?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260613-iran-will-a-peace-deal-with-the-us-be-reached-soon",
-      "published_date": "2026-06-13T16:23:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260613-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-warnings",
-      "published_date": "2026-06-13T16:21:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Iran peace agreement: A reason to be optimistic?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260613-us-iran-peace-agreement-a-reason-to-be-optimistic",
-      "published_date": "2026-06-13T16:19:26+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260615-2026-world-cup-set-to-be-most-polluting-sporting-event-in-history",
+      "published_date": "2026-06-15T14:23:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
@@ -354,11 +361,39 @@
       "category": "Energy"
     },
     {
-      "title": "Time and Water review – Iceland’s doomed glacier tells its own story of climate disaster",
+      "title": "If the UK wants to rejoin the European Union, it first needs to understand it | Timothy Garton Ash",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/08/time-and-water-review-iceland-glacier-documentary-author-andri-snaer-magnason",
-      "published_date": "2026-06-08T10:00:52+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/15/britain-rejoin-european-union-needs-to-understand-it-uk",
+      "published_date": "2026-06-15T15:00:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU trade deficit with China reaches record €1bn a day, data shows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/15/eu-trade-deficit-with-china-record-1bn-a-day",
+      "published_date": "2026-06-15T14:51:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘No blank cheque' for president or government says Senegal’s Sonko",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260615-no-blank-cheque-for-president-or-government-says-senegal-parliamentary-speaker-ousmane-sonko",
+      "published_date": "2026-06-15T14:34:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Settler products from occupied Palestine sold to Europe as Israeli, investigation finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/settler-products-from-occupied-palestine-sold-to-europe-as-israeli-investigation-finds",
+      "published_date": "2026-06-15T13:17:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump threatens 100% tariff on French wine over tax on US tech giants Apple, Amazon, Facebook",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260615-french-wine-at-risk-trump-threatens-100-tariff-over-digital-tax",
+      "published_date": "2026-06-15T10:45:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tech 24 takes to the skies as VivaTech takes over the Champs-Elysées",
@@ -466,39 +501,74 @@
       "category": "Economy"
     },
     {
-      "title": "Reader question: What should I do if I have never declared my foreign bank accounts in France?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260609/reader-question-what-should-i-do-if-i-have-never-declared-my-foreign-bank-accounts-in-france",
-      "published_date": "2026-06-09T11:41:38+00:00",
-      "category": "Economy"
+      "title": "Wheels of justice turn (very) slowly: moped stolen in 1984 returned to owner",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/stolen-moped-returned-to-owner-italy",
+      "published_date": "2026-06-15T15:39:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "West Ham owner David Sullivan accused of preying on women for sex",
+      "title": "Journalists disappear as intimidation grips Mozambique's Cabo Delgado region",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260615-journalists-disappear-as-fear-and-intimidation-grip-mozambique-s-cabo-delgado",
+      "published_date": "2026-06-15T15:35:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zelenskyy says Russia ‘deliberately’ targeted Unesco site, as 11 people confirmed dead – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jun/15/eu-g7-ukraine-kyiv-russia-war-iran-zelenskyy-macron-trump-europe-latest-news-updates",
+      "published_date": "2026-06-15T15:01:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Local France's reader photos of the week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260615/the-local-frances-reader-photos-of-the-week",
+      "published_date": "2026-06-15T14:03:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Son of Norway’s crown princess convicted of rape and sentenced to four years in prison",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/son-norway-crown-princess-convicted-rape-marius-borg-hoiby",
+      "published_date": "2026-06-15T13:31:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swiss reject proposal to cap population at 10 million",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260609-west-ham-owner-david-sullivan-accused-of-preying-on-women-for-sex",
-      "published_date": "2026-06-09T10:53:06+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260615-swiss-reject-proposal-to-cap-population-at-10-million",
+      "published_date": "2026-06-15T12:57:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FBAR: What Americans in France need to know about declaring bank accounts",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260609/fbar-what-americans-in-france-need-to-know-about-declaring-bank-accounts",
-      "published_date": "2026-06-09T08:20:18+00:00",
-      "category": "Economy"
+      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-15T12:07:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EU quota system ‘could kill Ukrainian steel industry’, boss says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/09/eu-quota-ukrainian-steel-industry-metinvest",
-      "published_date": "2026-06-09T06:00:47+00:00",
-      "category": "Economy"
+      "title": "Son of Norway's crown princess sentenced to four years in prison for rape",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260615-son-of-norway-s-crown-princess-sentenced-to-four-years-in-prison-for-rape",
+      "published_date": "2026-06-15T12:04:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Is Switzerland tired of prosperity? I can think of no other reason for our next foolish referendum | Joseph de Weck",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/09/switzerland-tired-prosperity-foolish-referendum-population-cap",
-      "published_date": "2026-06-09T04:00:44+00:00",
-      "category": "Economy"
+      "title": "French fans flood New York ahead of world Cup opener",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260615-french-fans-flood-new-york-ahead-of-world-cup-opener",
+      "published_date": "2026-06-15T10:42:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cameroon opposition figure files complaint in France against President Biya",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260615-cameroon-opposition-figure-tchiroma-files-complaint-in-france-against-president-paul-biya",
+      "published_date": "2026-06-15T08:59:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump at 80: \"Harry Houdini\" & A Cage Fight",
@@ -536,6 +606,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T12:04:54+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "'Must-see event', rare sumo tournament kicks off in Paris",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260614-must-see-event-rare-sumo-tournament-kicks-off-in-paris",
@@ -561,83 +638,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260614/on-the-agenda-whats-happening-in-france-this-week-214",
       "published_date": "2026-06-14T07:36:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "History's first influencer? Marie Antoinette still receives letters",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260614-was-queen-marie-antoinette-history-first-influencer-still-receives-letters",
-      "published_date": "2026-06-14T05:43:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The project nurturing West Africa's new generation of women filmmakers",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260614-the-project-nurturing-west-africa-s-new-generation-of-women-filmmakers",
-      "published_date": "2026-06-14T05:28:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New York Knicks beat Spurs to claim first NBA title in 53 years",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260614-new-york-knicks-beat-spurs-to-claim-first-nba-title-in-53-years",
-      "published_date": "2026-06-14T03:38:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swiss voters set to reject proposed 10 million population cap in referendum",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260614-switzerland-holds-brexit-style-referendum-on-10-million-population-cap",
-      "published_date": "2026-06-14T00:24:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Middle East Live:  Dozens protest peace deal outside Iran foreign ministry",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260613-middle-east-live-dozens-protest-peace-deal-outside-iran-foreign-ministry",
-      "published_date": "2026-06-13T21:44:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands turn out for anti-racism rally after Belfast unrest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260613-thousands-turn-out-for-anti-racism-rally-after-belfast-unrest",
-      "published_date": "2026-06-13T16:25:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghana lodges protest over Canada's refusal to admit rape case suspect Partey",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260613-ghana-lodges-protest-over-canada-s-refusal-to-admit-rape-case-suspect-partey",
-      "published_date": "2026-06-13T15:06:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albanians protest against another luxury development on Adriatic coast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/albania-protest-luxury-development-adriatic-coast",
-      "published_date": "2026-06-13T14:34:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup: Mexico beat South Africa 2-0",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260613-world-cup-mexico-beat-south-africa-2-0",
-      "published_date": "2026-06-13T12:59:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pelicot 'follower' gets 15 years in France for drug rapes",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260613/pelicot-follower-gets-15-years-in-france-for-drug-rapes",
-      "published_date": "2026-06-13T12:15:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa accused of failing to crack down on anti-immigrant violence",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260613-south-africa-accused-of-failing-to-crack-down-on-anti-immigrant-violence",
-      "published_date": "2026-06-13T10:58:57+00:00",
       "category": "Local Events"
     }
   ]
