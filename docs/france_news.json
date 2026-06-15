@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-06-14T12:58:30.123344+00:00",
+  "last_updated": "2026-06-15T00:05:48.965301+00:00",
   "story_count": 91,
   "stories": [
+    {
+      "title": "Clashes as thousands protest in Geneva ahead of G7 summit in France",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260614-clashes-as-thousands-protest-in-geneva-ahead-of-g7-summit-in-france",
+      "published_date": "2026-06-14T21:24:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Swiss police fire tear gas as anti-G7 protesters target UN buildings",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260614-switzerland-police-tear-gas-as-anti-g7-protesters-target-un-buildings-geneva-united-nations",
+      "published_date": "2026-06-14T17:03:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU says to resume membership talks with Ukraine on Monday",
       "source": "France 24",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Extremely complex legislation: Can they agree on common rules to manage migration together?\"",
+      "title": "US, Iran reach deal to end war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/extremely-complex-legislation-can-they-agree-on-common-rules-to-manage-migration-together",
-      "published_date": "2026-06-12T12:50:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/us-iran-reach-deal-to-end-war",
+      "published_date": "2026-06-14T23:29:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lyhanna case triggers calls for law change in France",
+      "title": "Iran’s World Cup team arrive in United States",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260612-lyhanna-case-triggers-calls-for-law-change-in-france",
-      "published_date": "2026-06-12T11:00:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/sport/20260614-iran-world-cup-team-arrive-united-states-los-angeles-warusa",
+      "published_date": "2026-06-14T20:34:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump reportedly tells Putin he is prepared to help end war in Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/14/trump-putin-call-ukraine-russia-iran-war",
+      "published_date": "2026-06-14T19:30:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin and Zelensky hold separate calls with Trump on his birthday",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260614-putin-zelensky-separate-phonecalls-trump-birthday-ukraine-war-russia-president",
+      "published_date": "2026-06-14T18:03:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK intercepts Russian shadow fleet vessel in Channel: ministry",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260614-uk-intercepts-russian-shadow-fleet-vessel-in-channel-ministry",
+      "published_date": "2026-06-14T16:00:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli military strikes Beirut suburbs in the lead-up to anticipated US-Iran deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260614-israeli-military-strikes-beirut-suburbs-in-the-lead-up-to-anticipated-us-iran-deal",
+      "published_date": "2026-06-14T13:47:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Switzerland: After rapid population growth, right-wing party supports cap vote",
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "NATO weighs options to defend Europe as the US plans for conflict elsewhere",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260613-nato-weighs-options-to-defend-europe-as-the-us-plans-for-conflict-elsewhere",
-      "published_date": "2026-06-13T13:34:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran peace deal: \"Lebanon is the one to chart its own path forward\"",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260613-iran-peace-deal-lebanon-is-the-one-to-chart-its-own-path-forward",
-      "published_date": "2026-06-13T13:11:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260613-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-warnings",
-      "published_date": "2026-06-13T12:49:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three Indian sailors died in US strike off Oman",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260613-three-indian-sailors-died-in-us-strike-off-oman",
-      "published_date": "2026-06-13T10:24:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran peace deal looms while new military action flares near Strait of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260613-iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz",
-      "published_date": "2026-06-13T09:57:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says downed multiple Iran drones as both insist deal closer",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260613-us-says-downed-multiple-iran-drones-as-both-insist-deal-closer",
-      "published_date": "2026-06-13T05:57:54+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
@@ -359,6 +359,13 @@
       "url": "https://www.theguardian.com/film/2026/jun/08/time-and-water-review-iceland-glacier-documentary-author-andri-snaer-magnason",
       "published_date": "2026-06-08T10:00:52+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Tech 24 takes to the skies as VivaTech takes over the Champs-Elysées",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/tech-24/20260614-tech-24-takes-to-the-skies-as-vivatech-takes-over-the-champs-elys%C3%A9es",
+      "published_date": "2026-06-14T17:04:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Wildfire rules, tax residency and World Cup vocab: 6 essential articles for life in France",
@@ -494,11 +501,39 @@
       "category": "Economy"
     },
     {
-      "title": "‘A special sense of closeness’: China’s Xi vows stronger ties with North Korea in rare visit",
+      "title": "Trump at 80: \"Harry Houdini\" & A Cage Fight",
       "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260608-a-special-sense-of-closeness-china-s-xi-vows-stronger-ties-with-north-korea-in-rare-visit",
-      "published_date": "2026-06-08T16:17:47+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260614-trump-at-80-houndi-a-cage-fight",
+      "published_date": "2026-06-14T18:14:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police stop Tommy Robinson on his way back to London from Russian trip",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/14/police-stop-tommy-robinson-way-back-london-from-russia",
+      "published_date": "2026-06-14T17:24:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "American musician Oliver Tree killed in helicopter crash in Brazil",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260614-american-musician-oliver-tree-killed-in-helicopter-crash-in-brazil",
+      "published_date": "2026-06-14T16:21:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week in pictures: World Cup 2026 kicks off, the Pope visits Spain and the White House prepares for a cage fight showdown",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/culture/20260614-the-week-in-pictures-world-cup-2026-kicks-off-the-pope-visits-spain-and-the-white-house-prepares-for-a-cage-fight-showdown",
+      "published_date": "2026-06-14T14:44:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump hosts White House cage fights amid war and political scrutiny",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260614-trump-hosts-white-house-cage-fights-amid-war-and-political-scrutiny",
+      "published_date": "2026-06-14T13:49:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'Must-see event', rare sumo tournament kicks off in Paris",
@@ -603,41 +638,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20260613-south-africa-accused-of-failing-to-crack-down-on-anti-immigrant-violence",
       "published_date": "2026-06-13T10:58:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris: How to avoid summer travel chaos ahead of RER, metro and tram line disruptions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260613-paris-how-to-avoid-summer-travel-chaos-ahead-of-rer-metro-and-tram-line-disruptions-alternative-routes",
-      "published_date": "2026-06-13T10:42:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belfast anti-immigrant riots show long legacy of sectarian violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk/20260613-belfast-anti-immigration-riots-show-legacy-of-sectarian-unrest",
-      "published_date": "2026-06-13T10:29:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Looks like Chornobyl’: life in Kyiv’s most bombed neighbourhood as Ukraine braced for new mass strike",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/lukianivska-square-kyiv-most-bombed-neighbourhood-ukraine",
-      "published_date": "2026-06-13T04:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch far-right party pays damages to court artist after changing image with AI",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai",
-      "published_date": "2026-06-13T04:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli and Palestinian groups urge world not to abandon two-state solution",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260612-israeli-and-palestinian-groups-urge-world-not-to-abandon-two-state-solution",
-      "published_date": "2026-06-12T23:58:44+00:00",
       "category": "Local Events"
     }
   ]
