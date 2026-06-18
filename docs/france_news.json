@@ -1,8 +1,85 @@
 {
   "country": "France",
-  "last_updated": "2026-06-17T14:24:32.607608+00:00",
+  "last_updated": "2026-06-18T00:13:47.238706+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Middle East live: Trump, Iran's president sign deal to end Mideast war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260617-middle-east-live-trump-iran-s-president-sign-deal-to-end-mideast-war",
+      "published_date": "2026-06-17T23:45:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thomas Partey denied entry into Canada and sidelined for sexual abuse allegation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260617-thomas-partey-denied-entry-into-canada-and-sidelined-for-sexual-abuse-allegation",
+      "published_date": "2026-06-17T21:22:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diluting uranium, oil sales: What's in the draft US-Iran deal?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260617-diluting-uranium-oil-sales-what-draft-us-iran-deal",
+      "published_date": "2026-06-17T19:05:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US, allies to make plan for $300 billion Iran reconstruction fund",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-allies-to-make-plan-for-300-bn-iran-reconstruction-fund",
+      "published_date": "2026-06-17T18:47:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Golden ticket: why Versailles invite is the ‘real deal’ for Trump",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/17/versailles-dinner-trump-macron-g7",
+      "published_date": "2026-06-17T17:48:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron hails US alignment with G7’s ‘shared commitment’ on Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/17/macron-hails-us-alignment-with-g7s-shared-commitment-on-ukraine",
+      "published_date": "2026-06-17T17:26:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Starmer warns against ‘looking backwards’ to Brexit after rivals back UK’s return to EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/17/starmer-brexit-return-to-eu-g7-summit-labour-manifesto",
+      "published_date": "2026-06-17T16:00:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7 summit hailed a success by Macron thanks to developments on Ukraine and Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/g7-summit-hailed-a-success-by-macron-thanks-to-developments-on-ukraine-and-iran",
+      "published_date": "2026-06-17T15:55:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Replay: Macron holds press conference as G7 summit comes to an end",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/replay-macron-holds-press-conference-as-g7-summit-comes-to-an-end",
+      "published_date": "2026-06-17T15:50:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Not all skinny: The French do get fat",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260617-not-all-skinny-the-french-do-get-fat",
+      "published_date": "2026-06-17T15:21:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7 focuses on AI's contentious future and US industry dominance",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/g7-focuses-on-ai-s-contentious-future-and-us-industry-dominance",
+      "published_date": "2026-06-17T15:08:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says ‘I am the boss’ at G7 summit as leaders agree ‘new steps to put pressure’ on Russia – Europe live",
       "source": "The Guardian",
@@ -67,81 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Donald Trump jokes 'I'm the boss' before meeting on final day of G7 summit – video",
+      "title": "A World Cup of exclusion? US immigration policies weigh on FIFA tournament",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260617-a-world-cup-of-exclusion-us-immigration-policies-weigh-on-fifa-tournament",
+      "published_date": "2026-06-17T21:30:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Misleading images turn Iran’s World Cup debut into a political flashpoint",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/misleading-images-turn-iran-s-world-cup-debut-into-a-political-flashpoint",
+      "published_date": "2026-06-17T20:12:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mozambique police accused of using spy networks to pursue government critics",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260617-mozambique-police-accused-of-using-spy-networks-to-pursue-government-critics-forbidden-stories",
+      "published_date": "2026-06-17T19:59:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UNHCR campaign to defend fundamental human right to asylum ahead of World Refugee Day",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260617-unchr-campaign-to-defend-fundamental-human-right-to-asylum-ahead-of-world-refugee-day",
+      "published_date": "2026-06-17T19:48:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel's special relationship with US 'seems to have melted into a pretty bad break-up'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-s-special-relationship-with-us-seems-to-have-melted-into-a-pretty-bad-break-up",
+      "published_date": "2026-06-17T18:52:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK officials expect Russia to retaliate for seizure of shadow fleet oil tanker",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/17/trump-joke-boss-g7-summit-video",
-      "published_date": "2026-06-17T11:13:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/jun/17/uk-expect-russia-retaliate-seizure-shadow-fleet-oil-tanker-smyrtos",
+      "published_date": "2026-06-17T18:47:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump heads to Versailles as Macron faces row over lavish reception",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260617-trump-heads-to-versailles-as-macron-faces-row-over-lavish-reception",
-      "published_date": "2026-06-17T10:57:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brazil Supreme Court sentences Bolsonaro's son over US lobbying",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/brazil-supreme-court-sentences-bolsonaro-s-son-over-us-lobbying",
-      "published_date": "2026-06-17T10:12:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US signals to return of sanctions on Russia as G7 unites around Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-signals-to-return-of-sanctions-on-russia-as-g7-unites-around-ukraine",
-      "published_date": "2026-06-17T10:00:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AI and tech sovereignty top last day of G7 summit in Evian",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ai-and-tech-sovereignty-top-last-day-of-g7-summit-in-evian",
-      "published_date": "2026-06-17T09:47:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Labour came to power with no big idea for relations with EU, says former top diplomat",
+      "title": "Why did Russian warship fire warning shots in the Channel? – The Latest",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/17/labour-came-to-power-with-no-big-idea-for-relations-with-eu-says-former-top-diplomat",
-      "published_date": "2026-06-17T09:27:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/news/video/2026/jun/17/why-did-russia-warship-fire-warning-shots-in-the-channel-the-latest",
+      "published_date": "2026-06-17T16:47:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU steps up Channel migrant crackdown with more staff and surveillance",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260617-eu-steps-up-channel-crackdown-with-more-staff-and-surveillance",
-      "published_date": "2026-06-17T04:41:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G7 leaders discuss AI risks before Macron hosts Trump at Versailles",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260617-macron-winds-up-g7-with-ai-trump-dinner",
-      "published_date": "2026-06-17T01:36:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Can Hormuz be bypassed? Past shows commercial viability may simply not be there, analyst says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260616-can-hormuz-be-bypassed-past-shows-commercial-viability-may-simply-not-be-there-analyst-says",
-      "published_date": "2026-06-16T21:09:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Did Macron ‘snub’ Trump at the G7 summit? Viral video lacks context",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/did-macron-snub-trump-at-the-g7-summit-viral-video-lacks-context",
-      "published_date": "2026-06-16T21:08:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump suggests US can swiftly reimpose sanctions on Russian oil",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260616-trump-suggests-us-can-swiftly-reimpose-sanctions-on-russian-oil",
-      "published_date": "2026-06-16T20:33:41+00:00",
-      "category": "Diplomacy"
+      "title": "Russia warship fires warning shot at British couple – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/jun/17/russia-warship-fires-warning-shot-british-couple-the-latest",
+      "published_date": "2026-06-17T16:11:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Labour MP pushes Burnham to launch leadership bid ‘really quickly’ after Makerfield byelection result – UK politics live",
@@ -225,62 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/news/video/2026/jun/16/can-trump-be-convinced-to-back-ukraine-the-latest",
       "published_date": "2026-06-16T17:12:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France to ditch Palantir’s AI data tools in favour of domestic provider",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
-      "published_date": "2026-06-16T17:08:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The scramble to convince Trump to back Ukraine – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/audio/2026/jun/16/the-scramble-to-convince-trump-to-back-ukraine-the-latest",
-      "published_date": "2026-06-16T16:28:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone-making workshops take off in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260616-drone-making-workshops-take-off-in-paris",
-      "published_date": "2026-06-16T15:08:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Now is the moment':  G7 powers push Russia to end Ukraine war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260616-now-is-the-moment-g7-powers-push-russia-to-end-ukraine-war",
-      "published_date": "2026-06-16T14:39:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France shuts down dozen Israeli stands at defence trade show",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260616-france-shuts-down-dozen-israeli-stands-at-defence-trade-show",
-      "published_date": "2026-06-16T14:29:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French spies break with data-analysis giant Palantir, wary of relying on US tech",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260616-french-spies-break-with-data-analysis-giant-palantir-wary-of-relying-on-us-tech",
-      "published_date": "2026-06-16T13:51:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who are the winners and losers of the US-Iran deal?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260616-who-are-the-winners-and-losers-of-the-us-iran-deal",
-      "published_date": "2026-06-16T13:41:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German chancellor Merz gives Trump football shirt gift at G7 – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/video/2026/jun/16/german-chancellor-merz-gifts-trump-football-shirt-at-g7-video",
-      "published_date": "2026-06-16T12:18:58+00:00",
       "category": "Military"
     },
     {
@@ -380,6 +380,27 @@
       "url": "https://www.rfi.fr/en/international/20260611-climate-report-shows-1-5c-limit-on-global-warming-will-be-breached-by-2030",
       "published_date": "2026-06-11T14:03:19+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Raul Castro backs sweeping Cuba reforms to revive struggling economy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260618-raul-castro-backs-sweeping-cuba-reforms-to-revive-struggling-economy",
+      "published_date": "2026-06-18T00:10:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "VIVATECH 2026: Rebuilding business models with AI",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260617-vivatech-2026-rebuilding-business-models-with-ai",
+      "published_date": "2026-06-17T20:50:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France examines bill to rein in ultra-fast-fashion's expansion",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-examines-bill-to-rein-in-ultra-fast-fashion-s-expansion",
+      "published_date": "2026-06-17T15:14:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fashion tycoon Bernard Arnault accused of stranglehold over French business press",
@@ -501,25 +522,32 @@
       "category": "Economy"
     },
     {
-      "title": "Will the stars align for SpaceX IPO?",
+      "title": "World Cup 2026: Kane, Bellingham and Rashford fire England past Croatia",
       "source": "France 24",
-      "url": "https://www.france24.com/en/will-the-stars-align-for-spacex-ipo-igor-pejic",
-      "published_date": "2026-06-11T20:34:11+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/sport/20260617-world-cup-2026-kane-bellingham-and-rashford-fire-england-past-croatia",
+      "published_date": "2026-06-17T22:01:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "2026 World Cup set to generate nearly $41bn in economic output",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260611-2026-world-cup-set-to-generate-nearly-41bn-in-economic-output",
-      "published_date": "2026-06-11T08:58:45+00:00",
-      "category": "Economy"
+      "title": "French police authorised to use water cannon on asylum seekers in £660m deal with UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/17/french-police-in-660m-deal-with-uk-authorised-to-use-water-cannon-on-asylum-seekers",
+      "published_date": "2026-06-17T18:27:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "183 day rule: How France calculates tax residency",
+      "title": "South Africa commemorates 50 year-old anniversary of Soweto uprising",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/south-africa-commemorates-50-year-old-anniversary-of-soweto-uprising",
+      "published_date": "2026-06-17T15:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather warning: Paris and central France placed on heatwave alert",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260611/183-day-rule-how-france-calculates-tax-residency",
-      "published_date": "2026-06-11T08:57:01+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20260617/paris-and-central-france-placed-on-heatwave-alert",
+      "published_date": "2026-06-17T14:35:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The tiny pony on the fourth floor of a Croatian flat – video",
@@ -631,34 +659,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260617/opinion-russia-is-stepping-up-its-propaganda-helped-by-a-french-billionaire",
       "published_date": "2026-06-17T07:19:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris store to part ways with Shein after ownership change",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260617/paris-store-to-part-ways-with-shein-after-ownership-change",
-      "published_date": "2026-06-17T06:43:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France to try 14 over deadliest Channel migrant disaster",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260617/france-to-try-14-over-deadliest-channel-migrant-disaster",
-      "published_date": "2026-06-17T06:36:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: France supporters celebrate victory over Senegal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260616-world-cup-2026-france-supporters-celebrate-victory-over-senegal",
-      "published_date": "2026-06-16T23:47:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: Ghana's Partey loses bid to overturn Canadian visa refusal over rape charges",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260616-world-cup-2026-ghana-partey-loses-bid-overturn-canadian-visa-refusal-rape-charges",
-      "published_date": "2026-06-16T22:36:47+00:00",
       "category": "Local Events"
     }
   ]
