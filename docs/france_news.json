@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-06-18T14:07:24.032747+00:00",
-  "story_count": 94,
+  "last_updated": "2026-06-19T00:23:24.195662+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "'We cleared the plates': Versailles dinner becomes stage for Trump's surprise signature of Iran deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/we-cleared-the-plates-versailles-dinner-becomes-stage-trump-surprise-signature-iran-deal",
+      "published_date": "2026-06-18T20:56:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Cynical to get power’: Michel Barnier on Boris Johnson, Brexit and the EU’s future",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/18/michel-barnier-reflects-on-boris-brexit-and-the-eu-future",
+      "published_date": "2026-06-18T18:00:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK could keep special pre-Brexit terms if it rejoined EU, Michel Barnier says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/18/uk-could-keep-special-pre-brexit-terms-if-it-rejoined-eu-michel-barnier-says",
+      "published_date": "2026-06-18T18:00:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Anger at ‘send them back’ chants by rightwing MEPs after EU migration law vote",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/18/anger-send-them-back-chants-rightwing-meps-eu-migration-law-vote",
+      "published_date": "2026-06-18T14:41:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "VivaTech 2026: Bringing quantum computing from innovation to commercialisation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/people-profit/20260618-vivatech-2026-bringing-quantum-computing-from-innovation-to-commercialisation",
+      "published_date": "2026-06-18T14:30:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The startup betting on a European-made smartphone",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260618-the-startup-betting-on-a-european-made-smartphone",
+      "published_date": "2026-06-18T14:10:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron's 'Versailles diplomacy' yields mixed results after a decade in power",
       "source": "France 24",
@@ -88,6 +130,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Rejoining customs union would not fix damage caused by Brexit, research finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/18/brexit-customs-union-exports-single-market-research",
+      "published_date": "2026-06-18T04:00:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Middle East live: Trump, Iran's president sign deal to end Mideast war",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260617-middle-east-live-trump-iran-s-president-sign-deal-to-end-mideast-war",
@@ -95,53 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Thomas Partey denied entry into Canada and sidelined for sexual abuse allegation",
+      "title": "Obama opens Chicago presidential center, urges Americans to defend democracy",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260617-thomas-partey-denied-entry-into-canada-and-sidelined-for-sexual-abuse-allegation",
-      "published_date": "2026-06-17T21:22:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20260618-barack-obama-opens-presidential-center-chicago-democracy",
+      "published_date": "2026-06-18T21:12:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Diluting uranium, oil sales: What's in the draft US-Iran deal?",
+      "title": "VivaTech 2026: Can AI become the next beauty adviser? L'Oréal thinks so",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260617-diluting-uranium-oil-sales-what-draft-us-iran-deal",
-      "published_date": "2026-06-17T19:05:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/business/20260618-vivatech-2026-can-ai-become-the-next-beauty-advisor-l-or%C3%A9al-thinks-so",
+      "published_date": "2026-06-18T20:17:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "US, allies to make plan for $300 billion Iran reconstruction fund",
+      "title": "US forces lift Iran ports blockade as uncertainty clouds planned Switzerland talks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-allies-to-make-plan-for-300-bn-iran-reconstruction-fund",
-      "published_date": "2026-06-17T18:47:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260618-us-forces-lift-iran-ports-blockade-as-uncertainty-clouds-planned-switzerland-talks",
+      "published_date": "2026-06-18T19:51:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Golden ticket: why Versailles invite is the ‘real deal’ for Trump",
+      "title": "Pete Hegseth accuses Nato countries of ‘free riding’ in combative address",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/17/versailles-dinner-trump-macron-g7",
-      "published_date": "2026-06-17T17:48:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/pete-hegseth-accuses-nato-countries-free-riding-europe",
+      "published_date": "2026-06-18T18:23:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron hails US alignment with G7’s ‘shared commitment’ on Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/17/macron-hails-us-alignment-with-g7s-shared-commitment-on-ukraine",
-      "published_date": "2026-06-17T17:26:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Starmer warns against ‘looking backwards’ to Brexit after rivals back UK’s return to EU",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/17/starmer-brexit-return-to-eu-g7-summit-labour-manifesto",
-      "published_date": "2026-06-17T16:00:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G7 summit hailed a success by Macron thanks to developments on Ukraine and Iran",
+      "title": "Signing off? Trump rushes to turn page on Iran war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/g7-summit-hailed-a-success-by-macron-thanks-to-developments-on-ukraine-and-iran",
-      "published_date": "2026-06-17T15:55:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260618-signing-off-trump-rushes-to-turn-page-on-iran-war",
+      "published_date": "2026-06-18T18:11:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "VivaTech 2026: From startup to French unicorn, Pigment harnesses AI potential",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260618-vivatech-2026-from-startup-to-french-unicorn-pigment-harnesses-ai-potential",
+      "published_date": "2026-06-18T17:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What did Ukraine target in Moscow and how significant was the drone attack?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/18/what-did-ukraine-target-in-moscow-and-how-significant-was-the-drone-attack",
+      "published_date": "2026-06-18T16:34:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran deal is 'a major setback for the United States', ex-adviser to State Department says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260618-iran-deal-is-a-major-setback-for-the-united-states-eadviser-to-state-department-says",
+      "published_date": "2026-06-18T16:33:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine hits Moscow with ‘large-scale’ attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260618-ukraine-hits-moscow-with-large-scale-attack",
+      "published_date": "2026-06-18T14:29:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine launches large drone attack on Moscow ahead of NATO meeting",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "A World Cup of exclusion? US immigration policies weigh on FIFA tournament",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260617-a-world-cup-of-exclusion-us-immigration-policies-weigh-on-fifa-tournament",
-      "published_date": "2026-06-17T21:30:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Misleading images turn Iran’s World Cup debut into a political flashpoint",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/misleading-images-turn-iran-s-world-cup-debut-into-a-political-flashpoint",
-      "published_date": "2026-06-17T20:12:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mozambique police accused of using spy networks to pursue government critics",
+      "title": "Mozambique journalists face killings and silence as repression deepens",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260617-mozambique-police-accused-of-using-spy-networks-to-pursue-government-critics-forbidden-stories",
-      "published_date": "2026-06-17T19:59:59+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/africa/20260618-mozambique-journalists-face-killings-and-silence-as-repression-deepens-forbidden-stories",
+      "published_date": "2026-06-18T16:05:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UNHCR campaign to defend fundamental human right to asylum ahead of World Refugee Day",
+      "title": "Vance says 60-day negotiating period under draft deal with Iran begins Thursday",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260617-unchr-campaign-to-defend-fundamental-human-right-to-asylum-ahead-of-world-refugee-day",
-      "published_date": "2026-06-17T19:48:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel's special relationship with US 'seems to have melted into a pretty bad break-up'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-s-special-relationship-with-us-seems-to-have-melted-into-a-pretty-bad-break-up",
-      "published_date": "2026-06-17T18:52:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK officials expect Russia to retaliate for seizure of shadow fleet oil tanker",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/17/uk-expect-russia-retaliate-seizure-shadow-fleet-oil-tanker-smyrtos",
-      "published_date": "2026-06-17T18:47:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why did Russian warship fire warning shots in the Channel? – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/jun/17/why-did-russia-warship-fire-warning-shots-in-the-channel-the-latest",
-      "published_date": "2026-06-17T16:47:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia warship fires warning shot at British couple – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/jun/17/russia-warship-fires-warning-shot-british-couple-the-latest",
-      "published_date": "2026-06-17T16:11:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Labour MP pushes Burnham to launch leadership bid ‘really quickly’ after Makerfield byelection result – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/17/keir-starmer-labour-leadership-contest-andy-burnham-makerfield-byelection-wes-streeting-latest-news-updates",
-      "published_date": "2026-06-17T14:02:19+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/americas/20260618-live-us-vice-president-jd-vance-speaks-after-the-us-and-iran-sign-a-draft-deal",
+      "published_date": "2026-06-18T15:32:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "Climate-change driven heatwave brings uncertainty to French farmers",
@@ -375,11 +389,11 @@
       "category": "Energy"
     },
     {
-      "title": "How Cabo Delgado's riches became fuel for the Islamist insurgency in Mozambique",
+      "title": "EU leaders weigh new trade defences to counter China's export dominance",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260611-how-cabo-delgado-s-riches-became-fuel-for-the-islamist-insurgency-in-mozambique",
-      "published_date": "2026-06-11T16:38:11+00:00",
-      "category": "Energy"
+      "url": "https://www.rfi.fr/en/international/20260618-eu-leaders-weigh-new-trade-defences-to-counter-china-s-export-dominance",
+      "published_date": "2026-06-18T14:58:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "EY's Jad Shimaly on how AI is reshaping business and the workplace",
@@ -515,11 +529,46 @@
       "category": "Economy"
     },
     {
-      "title": "Swiss wait to hear result of ballot on capping population at 10 million",
+      "title": "Knicks fans flood New York for massive NBA Finals championship parade",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260618-knicks-fans-flood-new-york-for-massive-nba-finals-championship-parade",
+      "published_date": "2026-06-18T23:16:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026: Manzambi's brace powers Switzerland past Bosnia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260618-world-cup-2026-manzambi-s-brace-powers-switzerland-past-bosnia",
+      "published_date": "2026-06-18T21:14:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mighty is the paintbrush: Semyon Skrepetsky, the Russian dissident artist shot and killed in Poland",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260618-mighty-the-paintbrush-semyon-skrepetsky-the-russian-dissident-artist-shot-and-killed-poland",
+      "published_date": "2026-06-18T18:02:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deaths in ICE detention more than double under Trump, analysis finds",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260618-deaths-in-ice-detention-more-than-double-under-trump-analysis-finds",
+      "published_date": "2026-06-18T15:38:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Collecting urine near Paris",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/video/20260618-collecting-urine-near-paris-farming",
+      "published_date": "2026-06-18T15:08:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rightwing MEPs chant 'send them back' after controversial deportation plans are passed – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/swiss-wait-to-hear-result-of-ballot-on-capping-population-at-10-million",
-      "published_date": "2026-06-13T05:00:07+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/jun/18/rightwing-meps-chant-send-them-back-deportation-plans-passed-video",
+      "published_date": "2026-06-18T14:33:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Moscow oil refinery struck in Ukraine’s biggest air raid on city since start of war",
@@ -617,48 +666,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/international/20260618-starmer-rival-seeks-win-in-uk-by-election-pivotal-to-pm-s-fate",
       "published_date": "2026-06-18T06:34:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Western Europeans believe crime is rising despite fall in overall rates, poll finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/18/western-europeans-crime-rising-despite-fall-overall-rates-poll-finds",
-      "published_date": "2026-06-18T04:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: Kane, Bellingham and Rashford fire England past Croatia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260617-world-cup-2026-kane-bellingham-and-rashford-fire-england-past-croatia",
-      "published_date": "2026-06-17T22:01:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police authorised to use water cannon on asylum seekers in £660m deal with UK",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/17/french-police-in-660m-deal-with-uk-authorised-to-use-water-cannon-on-asylum-seekers",
-      "published_date": "2026-06-17T18:27:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa commemorates 50 year-old anniversary of Soweto uprising",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/south-africa-commemorates-50-year-old-anniversary-of-soweto-uprising",
-      "published_date": "2026-06-17T15:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Record-breaking heatwave develops across Europe",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cg4w1g4eydno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-17T14:59:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather warning: Paris and central France placed on heatwave alert",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260617/paris-and-central-france-placed-on-heatwave-alert",
-      "published_date": "2026-06-17T14:35:23+00:00",
       "category": "Local Events"
     }
   ]
