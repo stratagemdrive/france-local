@@ -1,8 +1,99 @@
 {
   "country": "France",
-  "last_updated": "2026-06-20T00:06:09.785892+00:00",
-  "story_count": 94,
+  "last_updated": "2026-06-20T12:24:58.687705+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "UN rights chief troubled by new EU migrant return rules",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260620/un-rights-chief-troubled-by-new-eu-migrant-return-rules",
+      "published_date": "2026-06-20T11:42:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Drone use expands in Sudan – and kills at least 1,000 civilians in 2026",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260620-drone-use-expands-in-sudan-%E2%80%93-and-kills-at-least-1-000-civilians-in-2026",
+      "published_date": "2026-06-20T11:14:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ten years on, has the Brexit vote helped or hindered the EU?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/20/ten-years-later-has-brexit-benefited-europe-more-than-uk",
+      "published_date": "2026-06-20T11:00:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'United front' on slavery reparations after historic summit in Ghana",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260620-united-front-on-slavery-reparations-after-historic-summit-in-ghana",
+      "published_date": "2026-06-20T10:19:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Iran ceasefire negociations underway in Switzerland",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-iran-ceasefire-negociations-underway-in-switzerland",
+      "published_date": "2026-06-20T10:12:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
+      "published_date": "2026-06-20T09:59:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Would the EU take Britain back?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260620/would-the-eu-take-britain-back",
+      "published_date": "2026-06-20T09:07:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Neither I nor Italy ever beg': Meloni hits back at Trump claim that she begged for a photo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/neither-i-nor-italy-ever-beg-meloni-hits-back-at-trump-claim-that-she-begged-for-a-photo",
+      "published_date": "2026-06-20T08:59:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Inside France: Versailles Treaty II, heatwaves and pop-up art",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260620/inside-france-versailles-treaty-ii-heatwaves-and-pop-up-art",
+      "published_date": "2026-06-20T07:21:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions",
+      "published_date": "2026-06-20T06:00:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East live: At least 16 killed in southern Lebanon as Israel, Hezbollah trade blame",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260620-israeli-strike-in-southern-lebanon-kills-five-hours-after-ceasefire-agreement",
+      "published_date": "2026-06-20T05:24:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Boats, bankers and borders: five symbols that sum up Brexit a decade on",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/20/boats-bankers-and-borders-five-symbols-that-sum-up-brexit-a-decade-on",
+      "published_date": "2026-06-20T04:00:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can we electrify the world? Ambition moves from nerdish backwater to centre stage",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/20/electrification-takes-centre-stage-bonn-climate-talks",
+      "published_date": "2026-06-20T04:00:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "G7 & Co: Who rules the new world ?",
       "source": "France 24",
@@ -53,95 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+      "title": "Could Israel lose Donald Trump’s support by continuing to drop bombs in Lebanon?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/could-israel-lose-donald-trump-s-support-by-continuing-to-drop-bombs-in-lebanon",
+      "published_date": "2026-06-20T10:46:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T13:42:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T10:19:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Italian PM Meloni says she was ‘astonished’ by Trump claims that she ‘begged’ him for a photo - Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/19/eu-leaders-ukraine-russia-ukraine-magyar-von-der-leyen-latest-news-updates",
-      "published_date": "2026-06-19T13:37:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delayed US-Iran talks casts shadow over EU summit",
+      "title": "This small kamikaze helicopter defends Ukraine from Shahed drones",
       "source": "France 24",
-      "url": "https://www.france24.com/en/delayed-us-iran-talks-casts-shadow-over-eu-summit",
-      "published_date": "2026-06-19T13:29:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/this-small-kamikaze-helicopter-defends-ukraine-from-shahed-drones",
+      "published_date": "2026-06-20T09:37:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU-UK relations, 10 years after the referendum: Brexit or Regrexit?",
+      "title": "Trump unveils new Air Force One converted from luxury jet gifted by Qatar",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260619-eu-uk-relations-10-years-after-the-referendum-brexit-or-regrexit",
-      "published_date": "2026-06-19T13:16:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20260620-trump-unveils-new-air-force-one-converted-from-luxury-jet-gifted-by-qatar",
+      "published_date": "2026-06-20T09:31:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "What France's 'clarification' of inheritance law means for foreign residents",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260619/what-frances-clarification-of-inheritance-law-means-for-foreign-residents",
-      "published_date": "2026-06-19T13:12:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Midwives on frontline of childbirth deaths crisis denied visas for key summit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jun/19/midwives-africa-asia-mother-baby-childbirth-deaths-crisis-denied-visas-summit-portugal",
-      "published_date": "2026-06-19T12:30:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron calls for vigilance as western Europe faces second heatwave of year",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/19/macron-calls-for-vigilance-as-western-europe-faces-second-heatwave-of-year",
-      "published_date": "2026-06-19T11:39:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Stunned': Italy cancels planned US visit after Trump says Meloni 'begged' for photo",
+      "title": "Bolivia declares state of emergency, escalating a 50-day blockade crisis",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260619-meloni-frankly-stunned-by-trump-s-claim-she-begged-for-a-photo-with-him",
-      "published_date": "2026-06-19T11:19:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/bolivia-declares-state-of-emergency-escalating-a-50-day-blockade-crisis",
+      "published_date": "2026-06-20T09:17:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU leaders discuss Ukraine membership and next multi-billion euro budget",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/eu-leaders-discuss-ukraine-membership-and-next-multi-billion-euro-budget",
-      "published_date": "2026-06-19T10:52:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "No lifting of UN sanctions on Iran without France's approval, FM says",
+      "title": "Paris arms fair showcases weapons of future amid Europe's push to rearm",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260619-no-lifting-of-un-sanctions-on-iran-without-france-s-approval-foreign-minister-jean-noel-barrot-says",
-      "published_date": "2026-06-19T10:15:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260620-paris-arms-fair-turns-to-drones-and-ai-as-critics-denounce-rearmament",
+      "published_date": "2026-06-20T08:55:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "'We cleared the plates': Versailles dinner becomes stage for Trump's surprise signature of Iran deal",
+      "title": "Bolivian President Paz declares state of emergency over anti-government blockades",
       "source": "France 24",
-      "url": "https://www.france24.com/en/we-cleared-the-plates-versailles-dinner-becomes-stage-trump-surprise-signature-iran-deal",
-      "published_date": "2026-06-18T20:56:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20260620-bolivia-declares-state-of-emergency-as-protests-bring-economy-to-a-halt",
+      "published_date": "2026-06-20T06:44:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Cynical to get power’: Michel Barnier on Boris Johnson, Brexit and the EU’s future",
+      "title": "Even in this age of what Mark Carney calls global rupture, do not despair: there is still hope for international law | Nathalie Tocci",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/18/michel-barnier-reflects-on-boris-brexit-and-the-eu-future",
-      "published_date": "2026-06-18T18:00:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK could keep special pre-Brexit terms if it rejoined EU, Michel Barnier says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/18/uk-could-keep-special-pre-brexit-terms-if-it-rejoined-eu-michel-barnier-says",
-      "published_date": "2026-06-18T18:00:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/20/global-rupture-international-law-ukraine-middle-east-military-superpowers",
+      "published_date": "2026-06-20T04:00:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
@@ -228,60 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Israel steps up attacks in Lebanon amid fallout with US over Iran deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-steps-up-attacks-in-lebanon-amid-fallout-with-us-over-iran-deal",
-      "published_date": "2026-06-19T09:27:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'No Scotland, no party': Tartan army take over Boston for first world cup since 1998",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/no-scotland-no-party-tartan-army-take-over-boston-for-first-world-cup-since-1998",
-      "published_date": "2026-06-19T09:13:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Qaeda-linked JNIM militants claim deadly attack on Niger airport",
+      "title": "'We need more athletes to speak out': the future of sport in a warming world",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260619-al-qaeda-linked-militants-claim-deadly-attack-on-niamey-airport-niger",
-      "published_date": "2026-06-19T06:50:36+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/environment/20260620-we-need-more-athletes-to-speak-out-the-future-of-sport-in-a-warming-world",
+      "published_date": "2026-06-20T11:45:55+00:00",
+      "category": "Energy"
     },
     {
-      "title": "'Trump is an aberration in US politics', former security adviser tells RFI",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260619-trump-is-an-aberration-in-us-politics-former-security-advisor-tells-rfi-john-bolton",
-      "published_date": "2026-06-19T03:57:52+00:00",
-      "category": "Military"
+      "title": "Trans-Saharan Gas Pipeline: an African dream that could reshape world energy markets",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260620-trans-saharan-gas-pipeline-african-dream-that-could-reshape-world-energy-markets",
+      "published_date": "2026-06-20T07:29:54+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine war briefing: Suspect arrested in killing of Putin critic may have Russian intelligence links",
+      "title": "Beyond the beach: Spain pushes offbeat regions as tourist numbers nudge 100m",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/19/ukraine-war-briefing-suspect-arrested-putin-critic-killing-robert-kuzokov-",
-      "published_date": "2026-06-19T00:49:45+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jun/20/spain-offbeat-regions-tourist-numbers-overtourism",
+      "published_date": "2026-06-20T07:00:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Obama opens Chicago presidential center, urges Americans to defend democracy",
+      "title": "Europe: How energy crises are accelerating the shift to renewables",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260618-barack-obama-opens-presidential-center-chicago-democracy",
-      "published_date": "2026-06-18T21:12:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "VivaTech 2026: Can AI become the next beauty adviser? L'Oréal thinks so",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260618-vivatech-2026-can-ai-become-the-next-beauty-advisor-l-or%C3%A9al-thinks-so",
-      "published_date": "2026-06-18T20:17:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US forces lift Iran ports blockade as uncertainty clouds planned Switzerland talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260618-us-forces-lift-iran-ports-blockade-as-uncertainty-clouds-planned-switzerland-talks",
-      "published_date": "2026-06-18T19:51:35+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260619-europe-how-energy-crises-are-accelerating-the-shift-to-renewables",
+      "published_date": "2026-06-19T15:23:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Kenya faces growing consequences of climate change-driven coastal erosion",
@@ -522,6 +550,48 @@
       "category": "Economy"
     },
     {
+      "title": "French police detain 20 at banned Iran opposition rally",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260620/french-police-detain-20-at-banned-iran-opposition-rally",
+      "published_date": "2026-06-20T11:51:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why are so many Brits in Paris for Fête de la Musique?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260620-why-are-so-many-brits-in-paris-for-f%C3%AAte-de-la-musique",
+      "published_date": "2026-06-20T11:05:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hezbollah-Israel flare-up in Lebanon despite ceasefire announced by the USA",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/hezbollah-israel-flare-up-in-lebanon-despite-ceasefire-announced-by-the-usa",
+      "published_date": "2026-06-20T10:43:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Labour leadership battle? Ministers reportedly urge Keir Starmer to step down",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-labour-leadership-battle-ministers-reportedly-urge-keir-starmer-to-step-down",
+      "published_date": "2026-06-20T09:36:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘A kind of massive rave’: Paris braces for 2m revellers as Fête de la Musique returns amid heatwave warnings",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/20/paris-braces-tourist-influx-street-festival-fete-de-la-musique",
+      "published_date": "2026-06-20T07:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vinícius and Cunha fire Brazil past Haiti and into World Cup contention",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260620-vin%C3%ADcius-and-cunha-fire-brazil-past-haiti-and-into-world-cup-contention",
+      "published_date": "2026-06-20T02:50:55+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "'Major discovery': France's National Library brings forgotten Mozart manuscript back to life",
       "source": "France 24",
       "url": "https://www.france24.com/en/culture/20260619-major-discovery-france-national-library-brings-forgotten-mozart-manuscript-life",
@@ -617,48 +687,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260619/paris-awards-honorary-citizenship-to-palestinian-civilians-and-journalists",
       "published_date": "2026-06-19T06:52:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer rival Burnham wins Makerfield as Labour leadership speculation grows",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260619-starmer-rival-burnham-wins-makerfield-as-labour-leadership-speculation-grows",
-      "published_date": "2026-06-19T02:27:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Knicks fans flood New York for massive NBA Finals championship parade",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260618-knicks-fans-flood-new-york-for-massive-nba-finals-championship-parade",
-      "published_date": "2026-06-18T23:16:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: Manzambi's brace powers Switzerland past Bosnia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260618-world-cup-2026-manzambi-s-brace-powers-switzerland-past-bosnia",
-      "published_date": "2026-06-18T21:14:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c14ykj2nr8lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-18T18:36:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mighty is the paintbrush: Semyon Skrepetsky, the Russian dissident artist shot and killed in Poland",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260618-mighty-the-paintbrush-semyon-skrepetsky-the-russian-dissident-artist-shot-and-killed-poland",
-      "published_date": "2026-06-18T18:02:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deaths in ICE detention more than double under Trump, analysis finds",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260618-deaths-in-ice-detention-more-than-double-under-trump-analysis-finds",
-      "published_date": "2026-06-18T15:38:52+00:00",
       "category": "Local Events"
     }
   ]
