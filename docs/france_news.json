@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-06-21T00:03:06.899185+00:00",
-  "story_count": 98,
+  "last_updated": "2026-06-21T13:02:55.125081+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "‘This changes everything’: how Brexit altered Scotland’s political landscape",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/this-changes-everything-how-brexit-altered-scotland-political-landscape",
+      "published_date": "2026-06-21T11:00:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "10 years after Brexit, could the UK rejoin the European Union?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/10-years-after-brexit-could-the-uk-rejoin-the-european-union",
+      "published_date": "2026-06-21T09:14:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
+      "published_date": "2026-06-21T05:00:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
       "source": "The Guardian",
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "G7 & Co: Who rules the new world ?",
+      "title": "Zelensky stripped of Poland's top award amid diplomatic spat",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260619-g7-co-who-rules-the-new-world",
-      "published_date": "2026-06-19T18:29:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/zelensky-stripped-of-poland-s-top-award-amid-diplomatic-spat",
+      "published_date": "2026-06-21T10:08:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jun/19/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-06-19T17:06:26+00:00",
-      "category": "Diplomacy"
+      "title": "Israel and Hezbollah trade fire, as US-Iran talks begin in Switzerland",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-and-hezbollah-trade-fire-as-us-iran-talks-begin-in-switzerland",
+      "published_date": "2026-06-21T10:08:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron calls for vigilance as western Europe faces second heatwave of year",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/19/macron-calls-for-vigilance-as-western-europe-faces-second-heatwave-of-year",
-      "published_date": "2026-06-19T16:30:27+00:00",
-      "category": "Diplomacy"
+      "title": "Iran claims Lebanon 'main topic' at peace talks with US",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-claims-lebanon-main-topic-at-peace-talks-with-us",
+      "published_date": "2026-06-21T09:33:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia pauses fuel sales as Ukrainian strikes kill several, wound dozens in Crimea",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260621-russia-pauses-fuel-sales-as-ukrainian-strikes-kill-four-in-crimea",
+      "published_date": "2026-06-21T09:25:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war drives up bitumen costs for African road builders",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260621-middle-east-war-drives-up-bitumen-costs-for-african-road-builders",
+      "published_date": "2026-06-21T09:15:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bolivia deploys army to halt protests after declaration of state of emergency",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/bolivia-deploys-army-to-halt-protests-after-declaration-of-state-of-emergency",
+      "published_date": "2026-06-21T09:12:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran peace talks to begin, after Tehran closed Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-iran-peace-talks-to-begin-after-tehran-closed-strait-of-hormuz",
+      "published_date": "2026-06-21T09:10:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al Jazeera roundly rejects Israeli accusations against journalist killed in Gaza strike",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260621-israeli-drone-strike-kills-al-jazeera-journalist-in-gaza",
+      "published_date": "2026-06-21T08:57:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fête de la musique: France restricts public alcohol consumption as heat wave bakes parts of Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260621-f%C3%AAte-de-la-musique-france-restricts-public-alcohol-consumption-as-heat-wave-bakes-parts-of-europe",
+      "published_date": "2026-06-21T08:43:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East live: Iran says it will not enter into US peace talks if war in Lebanon carries on",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260621-middle-east-live-us-vice-president-jd-vance-arrives-in-switzerland-for-iran-peace-talks",
+      "published_date": "2026-06-21T05:06:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Farewell, Scotland: Boston won’t forget the Tartan Army",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Bolivia declares state of emergency, escalating a 50-day blockade crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/bolivia-declares-state-of-emergency-escalating-a-50-day-blockade-crisis",
-      "published_date": "2026-06-20T09:17:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Paris arms fair showcases weapons of future amid Europe's push to rearm",
+      "title": "World Cup's carbon footprint under scrutiny as Fifa boss racks up air miles",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260620-paris-arms-fair-turns-to-drones-and-ai-as-critics-denounce-rearmament",
-      "published_date": "2026-06-20T08:55:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivian President Paz declares state of emergency over anti-government blockades",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260620-bolivia-declares-state-of-emergency-as-protests-bring-economy-to-a-halt",
-      "published_date": "2026-06-20T06:44:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Even in this age of what Mark Carney calls global rupture, do not despair: there is still hope for international law | Nathalie Tocci",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/20/global-rupture-international-law-ukraine-middle-east-military-superpowers",
-      "published_date": "2026-06-20T04:00:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T21:46:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland strips Zelensky of country's highest honour, escalating World War II-era row",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260619-poland-strips-zelensky-of-highest-honour-escalating-world-war-ii-era-row",
-      "published_date": "2026-06-19T20:20:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How armed groups in Colombia are using TikTok to recruit young people",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260619-armed-groups-colombia-tiktok-recruit-young-people",
-      "published_date": "2026-06-19T17:36:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sexual violence surges in Mozambique's Cabo Delgado as war grinds on",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260619-sexual-violence-surges-in-mozambique-s-cabo-delgado-as-war-grinds-on-forbidden-stories",
-      "published_date": "2026-06-19T16:08:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Podcast: Justice for children, De Gaulle on screen, France’s animal welfare gap",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-france/20260619-podcast-justice-children-abuse-lyhanna-charles-de-gaulle-animal-welfare-article-l214",
-      "published_date": "2026-06-19T15:21:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France tries to cope with second premature heatwave in less than a month",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-tries-to-cope-with-second-premature-heatwave-in-less-than-a-month",
-      "published_date": "2026-06-19T15:21:24+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/sports/20260621-fifa-draws-criticism-as-infantino-clocks-up-air-miles-at-world-cup",
+      "published_date": "2026-06-21T06:20:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "'We need more athletes to speak out': the future of sport in a warming world",
@@ -396,18 +403,11 @@
       "category": "Energy"
     },
     {
-      "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-14T12:56:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Amoc collapse could change Europe’s climate 10x faster than expected. We aren’t ready",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/14/amoc-collapse-europe-climate",
-      "published_date": "2026-06-14T10:00:40+00:00",
-      "category": "Energy"
+      "title": "King Charles III to reveal personal tax bill in historic first for UK monarch",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260621-britain-s-king-charles-iii-to-reveal-personal-tax-bill-to-improve-transparency",
+      "published_date": "2026-06-21T01:57:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show",
@@ -543,11 +543,60 @@
       "category": "Economy"
     },
     {
-      "title": "EU trade deficit with China reaches record €1bn a day, data shows",
+      "title": "France's street music festivals go ahead despite extreme heat and alcohol ban",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260621-france-s-street-music-festivals-go-ahead-despite-extreme-heat-and-alcohol-ban",
+      "published_date": "2026-06-21T12:31:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain PM's wife Begoña Gomez to stand trial for corruption",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260621-spain-pm-s-wife-bego%C3%B1a-gomez-to-stand-trial-for-corruption",
+      "published_date": "2026-06-21T09:15:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260621/on-the-agenda-whats-happening-in-france-this-week-215",
+      "published_date": "2026-06-21T06:42:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/15/eu-trade-deficit-with-china-record-1bn-a-day",
-      "published_date": "2026-06-15T14:51:39+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy",
+      "published_date": "2026-06-21T06:37:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘There’s no jobs’: struggle and regret in a Welsh town that backed Brexit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/ebbw-vale-wales-struggle-regret-brexit",
+      "published_date": "2026-06-21T05:00:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Europe’s EV makers shrank their product to challenge the bloated SUVs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/21/europe-ev-shrank-challenge-suv-smaller-china",
+      "published_date": "2026-06-21T04:00:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Curaçao frustrate Ecuador to keep debut World Cup campaign alive",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260621-cura%C3%A7ao-frustrate-wasteful-ecuador-to-keep-world-cup-campaign-alive-world-cup-2026",
+      "published_date": "2026-06-21T03:33:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup debutants Curaçao clinch historic first point after holding Ecuador to draw",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260621-world-cup-debutants-curacao-clinch-historic-point-after-holding-ecuador-to-draw",
+      "published_date": "2026-06-21T01:57:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France swelters under record-breaking temperatures",
@@ -631,62 +680,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/barack-obama-s-presidential-centre-opens-in-chicago",
       "published_date": "2026-06-19T15:09:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morocco and PSG player Hakimi to stand trial in France on rape charge",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/morocco-and-psg-player-hakimi-to-stand-trial-in-frace-on-rape-charge",
-      "published_date": "2026-06-19T14:46:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moroccan star footballer Hakimi to stand trial on rape charge",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260619-moroccan-star-footballer-hakimi-to-stand-trial-on-rape-charge",
-      "published_date": "2026-06-19T13:49:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France detains man on charges of spying on drone factory for Russia: prosecutor",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260619/france-detains-man-on-charges-of-spying-on-drone-factory-for-russia-prosecutor",
-      "published_date": "2026-06-19T13:47:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High temperatures, storms, and cancellations: What’s in store in France this weekend?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260619/high-temperatures-storms-and-cancellations-whats-in-store-in-france-this-weekend",
-      "published_date": "2026-06-19T13:31:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gun violence soars in Canada as illegal weapons from the US flow in",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260619-gun-violence-soars-in-canada-as-illegal-weapons-from-the-us-flow-in",
-      "published_date": "2026-06-19T12:01:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bologna’s niche festival of forgotten films captures the streaming generation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/19/bologna-italy-festival-forgotten-films-il-cinema-ritrovato",
-      "published_date": "2026-06-19T12:00:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venice’s new mayor seeks to raise day-tripper fee to up to €50",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/19/venice-entry-fee-rise-day-trippers-new-mayor-simone-venturini",
-      "published_date": "2026-06-19T11:36:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South African president impeachment inquiry comes back to haunt him",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/south-african-president-impeachment-inquiry-comes-back-to-haunt-him",
-      "published_date": "2026-06-19T10:41:18+00:00",
       "category": "Local Events"
     }
   ]
