@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-06-20T12:24:58.687705+00:00",
+  "last_updated": "2026-06-21T00:03:06.899185+00:00",
   "story_count": 98,
   "stories": [
+    {
+      "title": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/20/leave-voting-areas-foreign-workers-decade-since-brexit-referendum",
+      "published_date": "2026-06-20T16:00:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T15:31:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Italy's Meloni asked 'over and over' for a photo with him as diplomatic spat escalates",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260620-trump-says-italy-s-meloni-asked-over-and-over-for-a-photo-with-him-as-diplomatic-spat-escalates",
+      "published_date": "2026-06-20T14:13:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Macron slams migrant 'return-hubs', EU funding push",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260620/frances-macron-slams-migrant-return-hubs-eu-funding-push",
+      "published_date": "2026-06-20T13:40:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN rights chief troubled by new EU migrant return rules",
       "source": "The Local France",
@@ -109,39 +137,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Neither I nor Italy ever beg': Giorgia Meloni rejects Trump's claim she begged for a photo – video",
+      "title": "Macron calls for vigilance as western Europe faces second heatwave of year",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/19/giorgia-meloni-rejects-donald-trump-claim-begged-photo-video",
-      "published_date": "2026-06-19T16:26:02+00:00",
+      "url": "https://www.theguardian.com/world/2026/jun/19/macron-calls-for-vigilance-as-western-europe-faces-second-heatwave-of-year",
+      "published_date": "2026-06-19T16:30:27+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "Italy: Meloni says Trump 'made up' story that she 'begged' him for photo",
+      "title": "Farewell, Scotland: Boston won’t forget the Tartan Army",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260619-italy-meloni-says-trump-made-up-story-that-she-begged-him-for-photo",
-      "published_date": "2026-06-19T15:58:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/farewell-scotland-boston-won-t-forget-the-tartan-army",
+      "published_date": "2026-06-20T21:20:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ghana summit charts path from 'recognition to action' on slavery reparations",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260619-ghana-summit-charts-path-from-recognition-to-action-on-slavery-reparations",
-      "published_date": "2026-06-19T15:54:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New timetables, longer holidays: How can French schools adapt to heatwaves?",
+      "title": "Iran says closed Strait of Hormuz as US deal hits obstacle ahead of Swiss talks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260619-new-timetables-longer-holidays-how-french-schools-adapt-heatwaves",
-      "published_date": "2026-06-19T15:15:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260620-iran-says-closed-strait-of-hormuz-as-us-deal-hits-obstacle-ahead-of-swiss-talks",
+      "published_date": "2026-06-20T21:05:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Italy PM Meloni ‘stunned’ by Trump’s claims she begged him for a photo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo",
-      "published_date": "2026-06-19T14:10:19+00:00",
-      "category": "Diplomacy"
+      "title": "Zelensky returns highest Polish honour after award stripped",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T16:34:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky returns Polish award as WWII row strains alliance",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260620-ukraine-s-zelensky-top-officials-return-polish-awards-in-wwii-row",
+      "published_date": "2026-06-20T15:27:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NGOs in Lebanon denounce Israeli attacks on medics amid ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ngos-in-lebanon-denounce-israeli-attacks-on-medics-amid-ceasefire",
+      "published_date": "2026-06-20T12:57:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland strips Zelensky of top state honour over WWII dispute",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/poland-strips-zelensky-of-top-state-honour-over-wwii-dispute",
+      "published_date": "2026-06-20T12:44:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Could Israel lose Donald Trump’s support by continuing to drop bombs in Lebanon?",
@@ -239,48 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france-tries-to-cope-with-second-premature-heatwave-in-less-than-a-month",
       "published_date": "2026-06-19T15:21:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Treating energy crisis with fossil fuels is like giving a diabetic sugar: EU Commissioner Jorgensen",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260619-treating-energy-crisis-with-fossil-fuels-is-like-giving-a-diabetic-sugar-eu-commissioner-jorgensen",
-      "published_date": "2026-06-19T14:56:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel and Hezbollah say they agree to truce despite renewed attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-and-hezbollah-say-they-agree-to-truce-despite-renewed-attacks",
-      "published_date": "2026-06-19T14:43:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uncertainty remains amid postponed US-Iran talks and continued fighting in Lebanon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uncertainty-remains-amid-postponed-us-iran-talks-and-continued-fighting-in-lebanon",
-      "published_date": "2026-06-19T13:04:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ivory Coast-Burkina Faso: A border under tension",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260619-ivory-coast-burkina-faso-a-border-under-tension",
-      "published_date": "2026-06-19T12:21:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tensions rise at Ivory Coast-Burkina Faso border",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/reporters/20260619-tensions-rise-at-ivory-coast-burkina-faso-border",
-      "published_date": "2026-06-19T11:19:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military strikes southern Lebanon as US-Iran talks are postponed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260619-israeli-military-strikes-southern-lebanon-as-us-iran-talks-are-postponed",
-      "published_date": "2026-06-19T10:55:23+00:00",
       "category": "Military"
     },
     {
@@ -410,6 +410,20 @@
       "category": "Energy"
     },
     {
+      "title": "Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show",
+      "published_date": "2026-06-20T18:55:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US treasury chief urged Trump not to host ‘Mr Bean on crack’ Zelenskyy, book says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/scott-bessent-volodymyr-zelenskyy-trump",
+      "published_date": "2026-06-20T13:00:02+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "With EU budget battle underway, Commission proposes to increase own resources",
       "source": "France 24",
       "url": "https://www.france24.com/en/with-eu-budget-battle-underway-commission-proposes-to-increase-own-resources",
@@ -536,18 +550,25 @@
       "category": "Economy"
     },
     {
-      "title": "‘No blank cheque' for president or government says Senegal’s Sonko",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260615-no-blank-cheque-for-president-or-government-says-senegal-parliamentary-speaker-ousmane-sonko",
-      "published_date": "2026-06-15T14:34:36+00:00",
-      "category": "Economy"
+      "title": "France swelters under record-breaking temperatures",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260620-france-swelters-under-record-breaking-temperatures",
+      "published_date": "2026-06-20T15:50:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Settler products from occupied Palestine sold to Europe as Israeli, investigation finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/15/settler-products-from-occupied-palestine-sold-to-europe-as-israeli-investigation-finds",
-      "published_date": "2026-06-15T13:17:38+00:00",
-      "category": "Economy"
+      "title": "France issues unprecedented weather warning as heatwave intensifies",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260620-france-braces-for-hottest-days-ever-recorded-in-second-heatwave-of-2026",
+      "published_date": "2026-06-20T13:49:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "African fashion takes centre stage at France's Galerie Lafayette",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/african-fashion-takes-centre-stage-at-france-s-galerie-lafayette",
+      "published_date": "2026-06-20T12:42:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French police detain 20 at banned Iran opposition rally",
@@ -666,27 +687,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/south-african-president-impeachment-inquiry-comes-back-to-haunt-him",
       "published_date": "2026-06-19T10:41:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court confirms Moroccan footballer Hakimi to stand trial on rape charge",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260619-french-court-confirms-moroccan-footballer-hakimi-to-stand-trial-on-rape-charge",
-      "published_date": "2026-06-19T10:04:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather tracker: Severe thunderstorms sweep Europe and east Asia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/19/weather-tracker-severe-thunderstorms-europe-east-asia-heatwave-france",
-      "published_date": "2026-06-19T08:34:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris awards honorary citizenship to Palestinian civilians and journalists",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260619/paris-awards-honorary-citizenship-to-palestinian-civilians-and-journalists",
-      "published_date": "2026-06-19T06:52:23+00:00",
       "category": "Local Events"
     }
   ]
