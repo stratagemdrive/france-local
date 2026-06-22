@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-06-21T13:02:55.125081+00:00",
+  "last_updated": "2026-06-22T00:08:10.529235+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "The last hours of Starmer?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260621-the-last-hours-of-starmer",
+      "published_date": "2026-06-21T19:36:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Poland and Germany renew historic ties to defend Europe's eastern flank",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260621-poland-and-germany-renew-historic-ties-to-defend-europe-s-eastern-flank",
+      "published_date": "2026-06-21T13:09:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘This changes everything’: how Brexit altered Scotland’s political landscape",
       "source": "The Guardian",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Boats, bankers and borders: five symbols that sum up Brexit a decade on",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/20/boats-bankers-and-borders-five-symbols-that-sum-up-brexit-a-decade-on",
-      "published_date": "2026-06-20T04:00:52+00:00",
-      "category": "Diplomacy"
+      "title": "What's the state of the Strait?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260621-what-s-the-state-of-the-strait",
+      "published_date": "2026-06-21T19:50:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can we electrify the world? Ambition moves from nerdish backwater to centre stage",
+      "title": "Trump threatens to strike Iran over support for Hezbollah as fighting continues in Lebanon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-threatens-to-strike-iran-over-support-for-hezbollah-as-fighting-continues-in-lebanon",
+      "published_date": "2026-06-21T16:10:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dutch PM apologises for Moluccan soldiers’ mistreatment after Indonesian independence",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/20/electrification-takes-centre-stage-bonn-climate-talks",
-      "published_date": "2026-06-20T04:00:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/21/dutch-pm-apologises-moluccan-soldiers-indonesia-independence",
+      "published_date": "2026-06-21T15:18:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump-backed de la Espriella or leftist Cepeda? Colombians elect a new president",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-backed-de-la-espriella-or-leftist-cepeda-colombians-elect-a-new-president",
+      "published_date": "2026-06-21T13:27:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sailors trapped in Hormuz strait, dodging drones and rationing food",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sailors-trapped-in-hormuz-strait-dodging-drones-and-rationing-food",
+      "published_date": "2026-06-21T13:17:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-21T10:55:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Zelensky stripped of Poland's top award amid diplomatic spat",
@@ -239,48 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260620-ukraine-s-zelensky-top-officials-return-polish-awards-in-wwii-row",
       "published_date": "2026-06-20T15:27:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NGOs in Lebanon denounce Israeli attacks on medics amid ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ngos-in-lebanon-denounce-israeli-attacks-on-medics-amid-ceasefire",
-      "published_date": "2026-06-20T12:57:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland strips Zelensky of top state honour over WWII dispute",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/poland-strips-zelensky-of-top-state-honour-over-wwii-dispute",
-      "published_date": "2026-06-20T12:44:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Could Israel lose Donald Trump’s support by continuing to drop bombs in Lebanon?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/could-israel-lose-donald-trump-s-support-by-continuing-to-drop-bombs-in-lebanon",
-      "published_date": "2026-06-20T10:46:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T10:19:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "This small kamikaze helicopter defends Ukraine from Shahed drones",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/this-small-kamikaze-helicopter-defends-ukraine-from-shahed-drones",
-      "published_date": "2026-06-20T09:37:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump unveils new Air Force One converted from luxury jet gifted by Qatar",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260620-trump-unveils-new-air-force-one-converted-from-luxury-jet-gifted-by-qatar",
-      "published_date": "2026-06-20T09:31:01+00:00",
       "category": "Military"
     },
     {
@@ -401,6 +401,13 @@
       "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260615-2026-world-cup-set-to-be-most-polluting-sporting-event-in-history",
       "published_date": "2026-06-15T14:23:22+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Love, loneliness and robots: AI prompts new questions around human connection",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/tech-24/20260621-love-loneliness-and-robots-ai-prompts-new-questions-around-human-connection",
+      "published_date": "2026-06-21T15:32:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "King Charles III to reveal personal tax bill in historic first for UK monarch",
@@ -536,11 +543,32 @@
       "category": "Economy"
     },
     {
-      "title": "If the UK wants to rejoin the European Union, it first needs to understand it | Timothy Garton Ash",
+      "title": "🔴 Live | Colombia Runoff: Colombia: Cepeda says preliminary result \"has no binding value\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260621-colombia-presidential-election-live-cepeda-de-la-espriella-face-off-in-second-round",
+      "published_date": "2026-06-21T20:23:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli strikes start again in Lebanon after several-hour lull, amid US-Iran talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israeli-strikes-start-again-in-lebanon-after-several-hour-lull-amid-us-iran-talks",
+      "published_date": "2026-06-21T15:08:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Ukrainian family built a community in Cleveland. Now, they face deportation",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/15/britain-rejoin-european-union-needs-to-understand-it-uk",
-      "published_date": "2026-06-15T15:00:28+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/us-news/2026/jun/21/ohio-ukrainian-family-deportation",
+      "published_date": "2026-06-21T14:45:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week in pictures: World Cup celebrations, Obama's legacy and wild swimming in Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/culture/20260621-the-week-in-pictures-world-cup-celebrations-obama-s-legacy-and-wild-swimming-in-paris",
+      "published_date": "2026-06-21T13:49:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France's street music festivals go ahead despite extreme heat and alcohol ban",
@@ -652,34 +680,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/20/paris-braces-tourist-influx-street-festival-fete-de-la-musique",
       "published_date": "2026-06-20T07:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vinícius and Cunha fire Brazil past Haiti and into World Cup contention",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260620-vin%C3%ADcius-and-cunha-fire-brazil-past-haiti-and-into-world-cup-contention",
-      "published_date": "2026-06-20T02:50:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Major discovery': France's National Library brings forgotten Mozart manuscript back to life",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260619-major-discovery-france-national-library-brings-forgotten-mozart-manuscript-life",
-      "published_date": "2026-06-19T15:51:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris police ban Iranian opposition rally, cite 'tense international context'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260619-paris-police-ban-iranian-opposition-rally-citing-tense-international-context",
-      "published_date": "2026-06-19T15:34:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Obama's presidential centre opens in Chicago with call to defend democracy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/barack-obama-s-presidential-centre-opens-in-chicago",
-      "published_date": "2026-06-19T15:09:28+00:00",
       "category": "Local Events"
     }
   ]
