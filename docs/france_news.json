@@ -1,8 +1,92 @@
 {
   "country": "France",
-  "last_updated": "2026-06-22T00:08:10.529235+00:00",
-  "story_count": 97,
+  "last_updated": "2026-06-22T15:48:34.194558+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "European leaders pay tribute to Starmer as EU-UK summit is postponed",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/22/european-leaders-pay-tribute-keir-starmer-eu-uk-summit-postponed",
+      "published_date": "2026-06-22T15:07:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France, Germany reach deal on arms maker KNDS, opening door to stock market",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260622-france-germany-reach-deal-on-arms-maker-knds-opening-door-to-stock-market",
+      "published_date": "2026-06-22T13:38:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe under red alert amid exceptional early heatwave",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe-under-red-alert-amid-exceptional-early-heatwave",
+      "published_date": "2026-06-22T13:24:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French government holds crisis meeting over sweltering heatwave",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-government-holds-crisis-meeting-over-sweltering-heatwave",
+      "published_date": "2026-06-22T13:09:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Anatomy of a fall: Keir Starmer, from election landslide to precipitous descent",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260622-anatomy-of-a-fall-keir-starmer-from-election-landslide-to-precipitous-descent",
+      "published_date": "2026-06-22T11:28:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Absolute nightmare’: Brexit bellwether constituencies revisited 10 years on",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/22/brexit-bellwether-constituencies-revisited-10-years-eu-referendum",
+      "published_date": "2026-06-22T11:06:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why the EU should be moving heaven and earth to get Iceland into the club | Valérie Hayer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/22/iceland-eu-brussels-rigid-rules",
+      "published_date": "2026-06-22T11:00:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine intensifies attacks on Crimea to raise cost of Russian occupation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/22/ukraine-intensifies-attacks-on-crimea-to-raise-cost-of-russia-occupation",
+      "published_date": "2026-06-22T10:22:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK and France rewrite ‘one in one out’ treaty to stop removed migrants returning",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/22/uk-and-france-rewrite-one-in-one-out-treaty-to-stop-removed-migrants-returning",
+      "published_date": "2026-06-22T09:17:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China sanctions US tech giants weeks after Pentagon blacklisted Chinese firms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/business/20260622-china-sanctions-us-tech-giants-weeks-after-pentagon-blacklisted-chinese-firms",
+      "published_date": "2026-06-22T06:57:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit: how it has hit your wallet at the supermarket and on holiday",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jun/22/brexit-supermarket-holiday-travel-prices-costs-eu-passports",
+      "published_date": "2026-06-22T06:00:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Scorching heatwave forces school closures, train cancellations across Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260622-european-countries-close-schools-cancel-trains-as-heatwave-set-to-intensify",
+      "published_date": "2026-06-22T03:01:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The last hours of Starmer?",
       "source": "France 24",
@@ -60,88 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France's Macron slams migrant 'return-hubs', EU funding push",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260620/frances-macron-slams-migrant-return-hubs-eu-funding-push",
-      "published_date": "2026-06-20T13:40:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN rights chief troubled by new EU migrant return rules",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260620/un-rights-chief-troubled-by-new-eu-migrant-return-rules",
-      "published_date": "2026-06-20T11:42:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Drone use expands in Sudan – and kills at least 1,000 civilians in 2026",
+      "title": "US hails 'good progress' with Iran after first round of talks concludes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260620-drone-use-expands-in-sudan-%E2%80%93-and-kills-at-least-1-000-civilians-in-2026",
-      "published_date": "2026-06-20T11:14:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/us-hails-good-progress-with-iran-after-first-round-of-talks-concludes",
+      "published_date": "2026-06-22T15:20:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ten years on, has the Brexit vote helped or hindered the EU?",
+      "title": "Zelenskyy pledges to ‘bring war back to Russia’ after drones swarm toward Moscow – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/20/ten-years-later-has-brexit-benefited-europe-more-than-uk",
-      "published_date": "2026-06-20T11:00:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/jun/22/zelenskyy-ukraine-russia-drones-europe-heatwave-trump-meloni-latest-news-updates",
+      "published_date": "2026-06-22T15:15:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "'United front' on slavery reparations after historic summit in Ghana",
+      "title": "Why General Charles de Gaulle still resonates",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260620-united-front-on-slavery-reparations-after-historic-summit-in-ghana",
-      "published_date": "2026-06-20T10:19:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/video/20260622-why-france-general-charles-de-gaulle-still-resonates",
+      "published_date": "2026-06-22T14:20:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "US-Iran ceasefire negociations underway in Switzerland",
+      "title": "'JD Vance put lipstick on a pig: Iranians have the upper hand ' in peace negotiations",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-iran-ceasefire-negociations-underway-in-switzerland",
-      "published_date": "2026-06-20T10:12:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/jd-vance-put-lipstick-on-a-pig-iranians-have-the-upper-hand-in-the-peace-negotiations",
+      "published_date": "2026-06-22T13:05:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
-      "published_date": "2026-06-20T09:59:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Would the EU take Britain back?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260620/would-the-eu-take-britain-back",
-      "published_date": "2026-06-20T09:07:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Neither I nor Italy ever beg': Meloni hits back at Trump claim that she begged for a photo",
+      "title": "What do Iranians think of the Iran-US deal?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/neither-i-nor-italy-ever-beg-meloni-hits-back-at-trump-claim-that-she-begged-for-a-photo",
-      "published_date": "2026-06-20T08:59:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/what-do-iranians-think-of-the-iran-us-deal",
+      "published_date": "2026-06-22T13:02:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Inside France: Versailles Treaty II, heatwaves and pop-up art",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260620/inside-france-versailles-treaty-ii-heatwaves-and-pop-up-art",
-      "published_date": "2026-06-20T07:21:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘It’s Russian roulette’: alarm as Europe backs critical minerals mines in water-stressed regions",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions",
-      "published_date": "2026-06-20T06:00:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Middle East live: At least 16 killed in southern Lebanon as Israel, Hezbollah trade blame",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260620-israeli-strike-in-southern-lebanon-kills-five-hours-after-ceasefire-agreement",
-      "published_date": "2026-06-20T05:24:03+00:00",
-      "category": "Diplomacy"
+      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-21T23:57:59+00:00",
+      "category": "Military"
     },
     {
       "title": "What's the state of the Strait?",
@@ -242,46 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Fête de la musique: France restricts public alcohol consumption as heat wave bakes parts of Europe",
+      "title": "French heatwave drives up demand for AC, despite concerns",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260621-f%C3%AAte-de-la-musique-france-restricts-public-alcohol-consumption-as-heat-wave-bakes-parts-of-europe",
-      "published_date": "2026-06-21T08:43:47+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/french-heatwave-drives-up-demand-for-ac-despite-concerns",
+      "published_date": "2026-06-22T13:20:27+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Middle East live: Iran says it will not enter into US peace talks if war in Lebanon carries on",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260621-middle-east-live-us-vice-president-jd-vance-arrives-in-switzerland-for-iran-peace-talks",
-      "published_date": "2026-06-21T05:06:34+00:00",
-      "category": "Military"
+      "title": "Weather tracker: Extreme heat in Europe as typhoon strengthens off Philippines",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/22/weather-tracker-extreme-heat-in-europe-as-typhoon-strengthens-off-philippines",
+      "published_date": "2026-06-22T10:17:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Farewell, Scotland: Boston won’t forget the Tartan Army",
+      "title": "Energy crisis: Time for the EU's Independence Day?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/farewell-scotland-boston-won-t-forget-the-tartan-army",
-      "published_date": "2026-06-20T21:20:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says closed Strait of Hormuz as US deal hits obstacle ahead of Swiss talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260620-iran-says-closed-strait-of-hormuz-as-us-deal-hits-obstacle-ahead-of-swiss-talks",
-      "published_date": "2026-06-20T21:05:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky returns highest Polish honour after award stripped",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T16:34:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky returns Polish award as WWII row strains alliance",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260620-ukraine-s-zelensky-top-officials-return-polish-awards-in-wwii-row",
-      "published_date": "2026-06-20T15:27:09+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260622-energy-crisis-time-for-the-eu-s-independence-day",
+      "published_date": "2026-06-22T09:17:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "World Cup's carbon footprint under scrutiny as Fifa boss racks up air miles",
@@ -396,11 +417,18 @@
       "category": "Energy"
     },
     {
-      "title": "2026 World Cup set to be 'most polluting' sporting event in history",
+      "title": "Former US Federal Reserve chairman Alan Greenspan dies at 100",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260615-2026-world-cup-set-to-be-most-polluting-sporting-event-in-history",
-      "published_date": "2026-06-15T14:23:22+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/americas/20260622-former-us-federal-reserve-chairman-alan-greenspan-dies-at-100",
+      "published_date": "2026-06-22T12:27:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK: PM Keir Starmer announces resignation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260622-uk-pm-keir-starmer-announces-resignation",
+      "published_date": "2026-06-22T09:33:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Love, loneliness and robots: AI prompts new questions around human connection",
@@ -529,18 +557,116 @@
       "category": "Economy"
     },
     {
-      "title": "Fashion tycoon Bernard Arnault accused of stranglehold over French business press",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/17/fashion-tycoon-bernard-arnault-accused-of-stranglehold-over-french-business-press",
-      "published_date": "2026-06-17T05:00:23+00:00",
-      "category": "Economy"
+      "title": "French court refuses trial on use of toxic insecticide in French West Indies",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-court-refuses-trial-on-use-of-toxic-insecticide-in-french-west-indies",
+      "published_date": "2026-06-22T15:43:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran deal allows Tehran to charge maritime service fees on Hormuz Strait transit, ministry days",
+      "title": "Two children found dead in family car in France as Europe suffers under extreme heatwave",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c",
+      "published_date": "2026-06-22T15:22:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Repeated errors in handling of rape case linked to French girl's death: report",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260622-repeated-errors-in-handling-of-rape-case-linked-to-french-girl-s-death-lyhanna-lecornu",
+      "published_date": "2026-06-22T14:59:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How can France adapt to recurrent heatwaves?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/iran-deal-allows-tehran-to-charge-maritime-service-fees-on-hormuz-strait-transit-ministry-days",
-      "published_date": "2026-06-15T18:46:20+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260622-how-can-france-adapt-to-recurrent-heatwaves",
+      "published_date": "2026-06-22T14:58:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A look back at Starmer's two years in power following his resignation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/a-look-back-at-starmer-s-two-years-in-power-following-his-resignation",
+      "published_date": "2026-06-22T14:52:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris court rejects bid to reopen probe into Caribbean chlordecone contamination",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260622-paris-court-rejects-bid-to-reopen-probe-into-caribbean-chlordecone-contamination",
+      "published_date": "2026-06-22T14:39:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France tries to cope with exceptionally high temperatures",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-tries-to-cope-with-exceptionally-high-temperatures",
+      "published_date": "2026-06-22T14:34:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN warns of an 'imminent risk of mass atrocities' in Sudan's Kordofan",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260622-un-warns-of-an-imminent-risk-of-mass-atrocities-in-sudan-s-kordofan",
+      "published_date": "2026-06-22T14:32:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is Andy Burnham's, the UK's likely next prime minister?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/who-is-andy-burnham-s-the-uk-s-likely-next-prime-minister",
+      "published_date": "2026-06-22T13:16:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Ballet brings me so much joy and I want to spread it': Kadeem En Pointe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260622-ballet-brings-me-so-much-joy-and-i-want-to-spread-it-kadeem-en-pointe",
+      "published_date": "2026-06-22T13:14:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maternity leave in India offers progress, with mixed results",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260622-maternity-leave-in-india-offers-progress-with-mixed-results",
+      "published_date": "2026-06-22T13:01:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marius Borg Høiby rape conviction renews focus in Norway on consent in digital age",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/22/marius-borg-hiby-rape-conviction-case-norway-consent-digital-age-sexual-violence",
+      "published_date": "2026-06-22T10:39:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Race starts to replace Keir Starmer as UK PM, with Burnham as favourite",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/race-starts-to-replace-keir-starmer-as-uk-pm-with-burnham-as-favourite",
+      "published_date": "2026-06-22T10:23:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French towns are fining men for going topless. Quel dommage!",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/22/french-towns-are-fining-men-for-going-topless",
+      "published_date": "2026-06-22T10:00:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andy Burnham, ‘King of the North’ and frontrunner to replace Starmer as PM",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260622-andy-burnham-king-of-the-north-and-frontrunner-to-replace-starmer-as-pm",
+      "published_date": "2026-06-22T09:03:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris taxi scam cost £493 but Monzo won’t help me",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jun/22/paris-taxi-scam-monzo-bank-money-chargeback",
+      "published_date": "2026-06-22T07:00:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "🔴 Live | Colombia Runoff: Colombia: Cepeda says preliminary result \"has no binding value\"",
@@ -568,118 +694,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/culture/20260621-the-week-in-pictures-world-cup-celebrations-obama-s-legacy-and-wild-swimming-in-paris",
       "published_date": "2026-06-21T13:49:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's street music festivals go ahead despite extreme heat and alcohol ban",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260621-france-s-street-music-festivals-go-ahead-despite-extreme-heat-and-alcohol-ban",
-      "published_date": "2026-06-21T12:31:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain PM's wife Begoña Gomez to stand trial for corruption",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260621-spain-pm-s-wife-bego%C3%B1a-gomez-to-stand-trial-for-corruption",
-      "published_date": "2026-06-21T09:15:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On the Agenda: What’s happening in France this week",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260621/on-the-agenda-whats-happening-in-france-this-week-215",
-      "published_date": "2026-06-21T06:42:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/21/ukraine-war-briefing-drones-strike-russia-tyumen-oil-refinery-2000km-away-says-zelenskyy",
-      "published_date": "2026-06-21T06:37:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘There’s no jobs’: struggle and regret in a Welsh town that backed Brexit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/21/ebbw-vale-wales-struggle-regret-brexit",
-      "published_date": "2026-06-21T05:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Europe’s EV makers shrank their product to challenge the bloated SUVs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/21/europe-ev-shrank-challenge-suv-smaller-china",
-      "published_date": "2026-06-21T04:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Curaçao frustrate Ecuador to keep debut World Cup campaign alive",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260621-cura%C3%A7ao-frustrate-wasteful-ecuador-to-keep-world-cup-campaign-alive-world-cup-2026",
-      "published_date": "2026-06-21T03:33:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup debutants Curaçao clinch historic first point after holding Ecuador to draw",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260621-world-cup-debutants-curacao-clinch-historic-point-after-holding-ecuador-to-draw",
-      "published_date": "2026-06-21T01:57:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France swelters under record-breaking temperatures",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260620-france-swelters-under-record-breaking-temperatures",
-      "published_date": "2026-06-20T15:50:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France issues unprecedented weather warning as heatwave intensifies",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260620-france-braces-for-hottest-days-ever-recorded-in-second-heatwave-of-2026",
-      "published_date": "2026-06-20T13:49:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "African fashion takes centre stage at France's Galerie Lafayette",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/african-fashion-takes-centre-stage-at-france-s-galerie-lafayette",
-      "published_date": "2026-06-20T12:42:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police detain 20 at banned Iran opposition rally",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260620/french-police-detain-20-at-banned-iran-opposition-rally",
-      "published_date": "2026-06-20T11:51:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why are so many Brits in Paris for Fête de la Musique?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260620-why-are-so-many-brits-in-paris-for-f%C3%AAte-de-la-musique",
-      "published_date": "2026-06-20T11:05:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hezbollah-Israel flare-up in Lebanon despite ceasefire announced by the USA",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/hezbollah-israel-flare-up-in-lebanon-despite-ceasefire-announced-by-the-usa",
-      "published_date": "2026-06-20T10:43:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK: Labour leadership battle? Ministers reportedly urge Keir Starmer to step down",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk-labour-leadership-battle-ministers-reportedly-urge-keir-starmer-to-step-down",
-      "published_date": "2026-06-20T09:36:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘A kind of massive rave’: Paris braces for 2m revellers as Fête de la Musique returns amid heatwave warnings",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/20/paris-braces-tourist-influx-street-festival-fete-de-la-musique",
-      "published_date": "2026-06-20T07:00:02+00:00",
       "category": "Local Events"
     }
   ]
