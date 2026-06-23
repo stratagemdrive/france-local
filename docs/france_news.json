@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-06-22T15:48:34.194558+00:00",
-  "story_count": 99,
+  "last_updated": "2026-06-23T00:02:13.874468+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Romania parliament rejects liberal PM-designate Adrian Vestea",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260622-romania-parliament-rejects-liberal-pm-designate-adrian-vestea",
+      "published_date": "2026-06-22T22:52:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vance says UN nuclear inspectors will return to Iran as US suspends sanctions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260622-vance-says-un-nuclear-inspectors-will-return-to-iran-as-us-suspends-sanctions",
+      "published_date": "2026-06-22T21:49:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Forget closer EU ties if Tories can’t face up to Brexit truth | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/22/forget-closer-eu-ties-if-tories-cant-face-up-to-brexit-truth",
+      "published_date": "2026-06-22T16:16:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit at 10: the promises, the costs and the search for accountability",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260622-brexit-at-10-the-promises-the-costs-and-the-search-for-accountability",
+      "published_date": "2026-06-22T16:05:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tell us: 10 years on, how has Brexit affected your life in France?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260622/tell-us-10-years-on-how-has-brexit-affected-your-life-in-france",
+      "published_date": "2026-06-22T15:11:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "European leaders pay tribute to Starmer as EU-UK summit is postponed",
       "source": "The Guardian",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "10 years after Brexit, could the UK rejoin the European Union?",
+      "title": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies",
       "source": "France 24",
-      "url": "https://www.france24.com/en/10-years-after-brexit-could-the-uk-rejoin-the-european-union",
-      "published_date": "2026-06-21T09:14:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/rubio-heads-to-uae-kuwait-bahrain-to-discuss-iran-deal-with-gulf-allies",
+      "published_date": "2026-06-22T21:35:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
-      "published_date": "2026-06-21T05:00:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/20/leave-voting-areas-foreign-workers-decade-since-brexit-referendum",
-      "published_date": "2026-06-20T16:00:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T15:31:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says Italy's Meloni asked 'over and over' for a photo with him as diplomatic spat escalates",
+      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260620-trump-says-italy-s-meloni-asked-over-and-over-for-a-photo-with-him-as-diplomatic-spat-escalates",
-      "published_date": "2026-06-20T14:13:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ukrainian-attacks-prompt-russian-held-crimea-to-halt-civilian-gasoline-sales",
+      "published_date": "2026-06-22T18:42:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran peace deal 'won't even come close to the expansive detailed Obama agreement'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-iran-peace-deal-won-t-even-come-close-to-the-expansive-detailed-obama-agreement",
+      "published_date": "2026-06-22T17:30:11+00:00",
+      "category": "Military"
     },
     {
       "title": "US hails 'good progress' with Iran after first round of talks concludes",
@@ -176,6 +197,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/what-do-iranians-think-of-the-iran-us-deal",
       "published_date": "2026-06-22T13:02:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IN PICTURES: French town hosts medieval combat cage fights",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260622/in-pictures-french-town-hosts-medieval-combat-cage-fights",
+      "published_date": "2026-06-22T08:23:12+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Middle East war drives up bitumen costs for African road builders",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260621-middle-east-war-drives-up-bitumen-costs-for-african-road-builders",
-      "published_date": "2026-06-21T09:15:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivia deploys army to halt protests after declaration of state of emergency",
+      "title": "As Cuba's power crisis deepens, Havana residents speak out",
       "source": "France 24",
-      "url": "https://www.france24.com/en/bolivia-deploys-army-to-halt-protests-after-declaration-of-state-of-emergency",
-      "published_date": "2026-06-21T09:12:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Iran peace talks to begin, after Tehran closed Strait of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-iran-peace-talks-to-begin-after-tehran-closed-strait-of-hormuz",
-      "published_date": "2026-06-21T09:10:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera roundly rejects Israeli accusations against journalist killed in Gaza strike",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260621-israeli-drone-strike-kills-al-jazeera-journalist-in-gaza",
-      "published_date": "2026-06-21T08:57:21+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/americas/20260622-cuba-power-crisis-deepens-havana-residents-speak-out",
+      "published_date": "2026-06-22T16:14:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "French heatwave drives up demand for AC, despite concerns",
@@ -417,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Ethiopian PM's party secures win in national election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ethiopian-pm-s-party-secures-win-in-national-election",
+      "published_date": "2026-06-22T20:31:09+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Former US Federal Reserve chairman Alan Greenspan dies at 100",
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260622-former-us-federal-reserve-chairman-alan-greenspan-dies-at-100",
@@ -550,11 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "France examines bill to rein in ultra-fast-fashion's expansion",
+      "title": "‘Messi is the enemy of Allah’: World Cup hoax falsely blames Algerian fans for chant",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-examines-bill-to-rein-in-ultra-fast-fashion-s-expansion",
-      "published_date": "2026-06-17T15:14:44+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/fact-checking-claims-algerian-fans-branded-messi-an-enemy-of-allah",
+      "published_date": "2026-06-22T20:03:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shooting in Montreal Jewish neighbourhood leaves three dead, including suspect",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260622-shooting-montreal-jewish-neighbourhood-leaves-three-dead-including-suspect",
+      "published_date": "2026-06-22T19:00:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on the death of Carlo Ginzburg: a historian who taught us to think about outsiders | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/22/the-guardian-view-on-the-death-of-carlo-ginzburg-a-historian-who-taught-us-to-think-about-outsiders",
+      "published_date": "2026-06-22T17:40:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish PM’s former right-hand man jailed for 24 years for corruption",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/22/spanish-pm-pedro-sanchez-former-right-hand-man-jailed-24-years-corruption",
+      "published_date": "2026-06-22T15:51:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French court refuses trial on use of toxic insecticide in French West Indies",
@@ -613,6 +648,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Breaking: Two children found dead in car during France heatwave",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260622/breaking-two-children-found-dead-in-car-during-france-heatwave",
+      "published_date": "2026-06-22T14:07:19+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Who is Andy Burnham's, the UK's likely next prime minister?",
       "source": "France 24",
       "url": "https://www.france24.com/en/who-is-andy-burnham-s-the-uk-s-likely-next-prime-minister",
@@ -655,45 +697,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Andy Burnham, ‘King of the North’ and frontrunner to replace Starmer as PM",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260622-andy-burnham-king-of-the-north-and-frontrunner-to-replace-starmer-as-pm",
-      "published_date": "2026-06-22T09:03:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris taxi scam cost £493 but Monzo won’t help me",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jun/22/paris-taxi-scam-monzo-bank-money-chargeback",
-      "published_date": "2026-06-22T07:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "🔴 Live | Colombia Runoff: Colombia: Cepeda says preliminary result \"has no binding value\"",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260621-colombia-presidential-election-live-cepeda-de-la-espriella-face-off-in-second-round",
-      "published_date": "2026-06-21T20:23:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strikes start again in Lebanon after several-hour lull, amid US-Iran talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israeli-strikes-start-again-in-lebanon-after-several-hour-lull-amid-us-iran-talks",
-      "published_date": "2026-06-21T15:08:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Ukrainian family built a community in Cleveland. Now, they face deportation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/21/ohio-ukrainian-family-deportation",
-      "published_date": "2026-06-21T14:45:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week in pictures: World Cup celebrations, Obama's legacy and wild swimming in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260621-the-week-in-pictures-world-cup-celebrations-obama-s-legacy-and-wild-swimming-in-paris",
-      "published_date": "2026-06-21T13:49:44+00:00",
+      "title": "Strikes, heatwaves and maintenance - What to expect from travel in France this summer",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260622/strikes-heatwaves-and-maintenance-what-to-expect-from-travel-in-france-this-summer",
+      "published_date": "2026-06-22T09:28:37+00:00",
       "category": "Local Events"
     }
   ]
