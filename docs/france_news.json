@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-06-23T23:53:29.720706+00:00",
+  "last_updated": "2026-06-24T13:17:04.568994+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Europe heatwave live: estimated 94 million people to experience temperatures above 35C today",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert",
+      "published_date": "2026-06-24T12:52:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU hosts Taliban officials for migrant talks amid protests from rights groups",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260624-eu-hosts-taliban-officials-for-migrant-talks-amid-protests-from-rights-groups",
+      "published_date": "2026-06-24T09:30:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN maritime body to begin evacuating sailors as Hormuz toll dispute continues",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260624-un-maritime-body-to-begin-evacuating-sailors-as-hormuz-toll-dispute-continues",
+      "published_date": "2026-06-24T09:22:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit at 10: 'The average British citizen has lost over £3,000 a year'",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260624-brexit-at-10-the-average-british-citizen-has-lost-over-%C2%A33-000-a-year",
+      "published_date": "2026-06-24T06:04:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO's Rutte aims to soothe Trump on White House visit ahead of July summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260624-nato-rutte-soothe-trump-white-house-visit-july-summit-western-alliance-hegseth",
+      "published_date": "2026-06-24T05:43:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Keir Starmer couldn’t beat the curse of Brexit – a politics poisoned by nationalism | Rafael Behr",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/keir-starmer-brexit-nationalism-andy-burnham",
+      "published_date": "2026-06-24T05:00:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Britain is still stuck on its ex – but after 10 long, lonely years, does the EU feel the same way? | Katy Lee",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/britain-brexit-eu-referendum",
+      "published_date": "2026-06-24T04:00:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron pays tribute to Marc Bloch and 'his teachings against the spirit of defeatism'",
       "source": "France 24",
@@ -81,6 +130,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Americans in France: Estate planning, culture shocks and French surprises",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260623/americans-in-france-estate-planning-culture-shocks-and-french-surprises",
+      "published_date": "2026-06-23T10:05:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Iran set to return to mainstream oil market as US temporarily waives sanctions",
       "source": "France 24",
       "url": "https://www.france24.com/en/iran-set-to-return-to-mainstream-oil-market-as-us-temporarily-waives-sanctions",
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK facing 'pivotal moment' as it prepares for 7th PM since Brexit vote",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk-facing-pivotal-moment-as-it-prepares-for-7th-pm-since-brexit-vote",
-      "published_date": "2026-06-23T09:50:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US, Iran agree on Lebanon ceasefire and lifting sanctions on Iranian oil, but much remains",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-iran-agree-on-lebanon-ceasefire-and-lifting-sanctions-on-iranian-oil-but-much-remains",
-      "published_date": "2026-06-23T09:45:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Resistance fighter and historian Marc Bloch enters Paris's Pantheon",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260623-resistance-fighter-and-historian-marc-bloch-enters-paris-s-pantheon",
-      "published_date": "2026-06-23T09:40:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Geldof started flicking Vs at Farage’: the story of the Brexit campaign, told by those with a front-row seat",
+      "title": "‘Battle hardened’ Ukraine has role to play in defending Europe, says ex-Nato chief",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat",
-      "published_date": "2026-06-23T07:52:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/24/battle-hardened-ukraine-role-defending-europe-ex-nato-chief-anders-fogh-rasmussen",
+      "published_date": "2026-06-24T10:58:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Afghan Taliban set for EU migration talks slammed by rights groups",
+      "title": "Biggest city in Crimea without power after Ukraine strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-24T09:48:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Senate passes symbolic rebuke to Trump over Iran war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260623-afghan-taliban-set-for-eu-migration-talks-slammed-by-rights-groups",
-      "published_date": "2026-06-23T07:28:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260624-us-senate-passes-symbolic-rebuke-to-trump-over-iran-war",
+      "published_date": "2026-06-24T09:44:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Europeans are fully awake': Why the EU is pushing for a new 'digital euro'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260623/europeans-are-fully-awake-why-the-eu-is-pushing-for-a-new-digital-euro",
-      "published_date": "2026-06-23T07:28:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brexit at 10: 'Export trade has increased since exiting the EU, it's been a win'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260623-brexit-hasn-t-gone-wrong-an-advocate-s-view-of-leaving-the-eu-10-years-on",
-      "published_date": "2026-06-23T05:45:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Significant damage': How Brexit is still draining the UK economy 10 years later",
+      "title": "World risks 'losing control of technology' without AI governance, warns Chinese PM",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260623-do-not-publish-significant-damage-how-brexit-still-draining-uk-economy-10-years-later",
-      "published_date": "2026-06-23T05:21:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/business/20260624-world-risks-losing-control-of-technology-without-ai-governance-warns-chinese-pm",
+      "published_date": "2026-06-24T09:23:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel and Lebanon discuss plan to transfer some southern territory to Lebanese army",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260624-israel-and-lebanon-discuss-plan-to-transfer-some-southern-territory-to-lebanese-army",
+      "published_date": "2026-06-24T08:20:58+00:00",
+      "category": "Military"
     },
     {
       "title": "More protests over Makoko evictions",
@@ -249,39 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "IN PICTURES: French town hosts medieval combat cage fights",
+      "title": "Power outages hit France as record heatwave set to peak",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-24T11:20:58+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Massive AI spending and higher interest rates: What's behind the tech sell-off?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260624-massive-ai-spending-and-higher-interest-rates-what-s-behind-the-tech-sell-off",
+      "published_date": "2026-06-24T09:58:25+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Rubio kicks off Gulf 'charm offensive' amid allies' fears over US - Iran deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260624-rubio-kicks-off-gulf-charm-offensive-amid-allies-fears-over-us-iran-deal",
+      "published_date": "2026-06-24T09:24:23+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Heatwave pushes Great Britain’s grid operator to call for extra electricity from power plants",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/24/heatwave-great-britain-grid-operator-extra-electricity-power-plants",
+      "published_date": "2026-06-24T08:23:46+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "France heatwave’s first major outage leaves 68,000 homes without power",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260622/in-pictures-french-town-hosts-medieval-combat-cage-fights",
-      "published_date": "2026-06-22T08:23:12+00:00",
-      "category": "Military"
+      "url": "https://www.thelocal.fr/20260624/france-heatwaves-first-major-outage-leaves-68000-homes-without-power",
+      "published_date": "2026-06-24T06:43:42+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-21T23:57:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-21T23:57:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What's the state of the Strait?",
+      "title": "France outage leaves 68,000 homes without power as record heatwave spreads north",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260621-what-s-the-state-of-the-strait",
-      "published_date": "2026-06-21T19:50:21+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260624-france-outage-leaves-68000-homes-without-power-record-heatwave-spreads-north-brittany",
+      "published_date": "2026-06-24T06:32:06+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump threatens to strike Iran over support for Hezbollah as fighting continues in Lebanon",
+      "title": "France’s latest heatwave: ‘Temperatures will fall, and we won’t talk about it anymore’",
       "source": "France 24",
-      "url": "https://www.france24.com/en/trump-threatens-to-strike-iran-over-support-for-hezbollah-as-fighting-continues-in-lebanon",
-      "published_date": "2026-06-21T16:10:36+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/france/20260624-france-latest-heatwave-temperatures-will-fall-and-we-talk-about-anymore-gemmene-un-climate-change",
+      "published_date": "2026-06-24T04:40:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "UN chief calls on AI firms to 'come clean' on environmental costs",
@@ -372,55 +421,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/africa/20260620-trans-saharan-gas-pipeline-african-dream-that-could-reshape-world-energy-markets",
       "published_date": "2026-06-20T07:29:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Beyond the beach: Spain pushes offbeat regions as tourist numbers nudge 100m",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/20/spain-offbeat-regions-tourist-numbers-overtourism",
-      "published_date": "2026-06-20T07:00:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Europe: How energy crises are accelerating the shift to renewables",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260619-europe-how-energy-crises-are-accelerating-the-shift-to-renewables",
-      "published_date": "2026-06-19T15:23:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Kenya faces growing consequences of climate change-driven coastal erosion",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/kenya-faces-growing-consequences-of-climate-change-driven-coastal-erosion",
-      "published_date": "2026-06-19T10:44:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Mozambique journalists face killings and silence as repression deepens",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260618-mozambique-journalists-face-killings-and-silence-as-repression-deepens-forbidden-stories",
-      "published_date": "2026-06-18T16:05:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-18T15:46:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-18T15:46:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Vance says 60-day negotiating period under draft deal with Iran begins Thursday",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260618-live-us-vice-president-jd-vance-speaks-after-the-us-and-iran-sign-a-draft-deal",
-      "published_date": "2026-06-18T15:32:57+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,76 @@
       "category": "Economy"
     },
     {
+      "title": "Louis Vuitton brings the beach to Paris in near 40C heat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/fashion/2026/jun/24/louis-vuitton-beach-paris-40c-heat",
+      "published_date": "2026-06-24T13:12:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MAPS: Where in France have records been broken during the historic heatwave?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260624/maps-where-in-france-have-records-been-broken-during-the-historic-heatwave",
+      "published_date": "2026-06-24T12:39:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France confirms first Ebola case in doctor who had worked in DRC",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+      "published_date": "2026-06-24T12:11:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "#Parisians flock to #canal to escape suffocating #heat",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260624-parisians-flock-to-canal-to-escape-suffocating-heat",
+      "published_date": "2026-06-24T11:18:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hospitals on red alert as France sees hottest day ever",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260624-hospitals-on-red-alert-as-france-sees-hottest-day-ever",
+      "published_date": "2026-06-24T09:20:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: Crowded field in France's 2027 election won't necessarily hand victory to the far-right",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260624/opinion-crowded-field-in-frances-2027-election-wont-necessarily-hand-victory-to-the-far-right",
+      "published_date": "2026-06-24T09:04:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Seven European countries urge ‘immediate halt’ to Sudan violence",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260624-seven-european-countries-urge-immediate-halt-to-sudan-violence-el-obeid",
+      "published_date": "2026-06-24T07:28:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Paris in this heat is awful’: Tourists change plans as sites close early",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260624/paris-in-this-heat-is-awful-tourists-change-plans-as-sites-close-early",
+      "published_date": "2026-06-24T07:04:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "24-hour parks and alcohol bans: what cities could learn from Paris’s ‘heatwave mode’ | Helen Massy-Beresford",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/paris-heatwave-alcohol-public-events-cities-extreme-temperatures",
+      "published_date": "2026-06-24T07:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Like a phoenix rising from its ashes’: queer Muslim life in France – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jun/24/queer-muslim-life-in-france-in-pictures-camille-farrah-lenain-made-of-smokeless-fire",
+      "published_date": "2026-06-24T06:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "France record heatwave sees 'hairdryer effect' threaten crops",
       "source": "France 24",
       "url": "https://www.france24.com/en/france-record-heatwave-sees-hairdryer-effect-threaten-crops",
@@ -620,87 +690,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Kenya halts US Ebola facility, health minister apologises for disobeying orders",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260623-kenya-halts-us-ebola-facility-health-minister-apologises-for-disobeying-orders",
+      "published_date": "2026-06-23T13:41:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Paris suffocates as deadly heatwave takes hold of the country",
       "source": "France 24",
       "url": "https://www.france24.com/en/paris-suffocates-as-deadly-heatwave-takes-hold-of-the-country",
       "published_date": "2026-06-23T13:20:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France issues red alert as heatwave breaks records and death toll mounts",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260623-france-issues-red-alert-as-heatwave-breaks-records-and-death-toll-mounts",
-      "published_date": "2026-06-23T11:55:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blood minerals and memory: the Great Lakes in focus",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-africa/20260623-blood-minerals-and-memory-the-great-lakes-in-focus",
-      "published_date": "2026-06-23T10:43:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France faces historically hot temperatures as heatwave carries on",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-faces-historically-hot-temperatures-as-heatwave-carries-on",
-      "published_date": "2026-06-23T09:52:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Messi is the enemy of Allah’: World Cup hoax falsely blames Algerian fans for chant",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/fact-checking-claims-algerian-fans-branded-messi-an-enemy-of-allah",
-      "published_date": "2026-06-22T20:03:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shooting in Montreal Jewish neighbourhood leaves three dead, including suspect",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260622-shooting-montreal-jewish-neighbourhood-leaves-three-dead-including-suspect",
-      "published_date": "2026-06-22T19:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on the death of Carlo Ginzburg: a historian who taught us to think about outsiders | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/22/the-guardian-view-on-the-death-of-carlo-ginzburg-a-historian-who-taught-us-to-think-about-outsiders",
-      "published_date": "2026-06-22T17:40:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish PM’s former right-hand man jailed for 24 years for corruption",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/22/spanish-pm-pedro-sanchez-former-right-hand-man-jailed-24-years-corruption",
-      "published_date": "2026-06-22T15:51:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court refuses trial on use of toxic insecticide in French West Indies",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-court-refuses-trial-on-use-of-toxic-insecticide-in-french-west-indies",
-      "published_date": "2026-06-22T15:43:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two children found dead in family car in France as Europe suffers under extreme heatwave",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c",
-      "published_date": "2026-06-22T15:22:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Repeated errors in handling of rape case linked to French girl's death: report",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260622-repeated-errors-in-handling-of-rape-case-linked-to-french-girl-s-death-lyhanna-lecornu",
-      "published_date": "2026-06-22T14:59:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How can France adapt to recurrent heatwaves?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260622-how-can-france-adapt-to-recurrent-heatwaves",
-      "published_date": "2026-06-22T14:58:38+00:00",
       "category": "Local Events"
     }
   ]
