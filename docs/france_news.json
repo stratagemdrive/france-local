@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-06-26T13:07:11.033973+00:00",
+  "last_updated": "2026-06-27T00:02:58.127675+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Burkina Faso ruling junta cuts diplomatic ties with ex-ruler France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260626-burkina-faso-ruling-junta-cuts-diplomatic-ties-with-ex-ruler-france",
+      "published_date": "2026-06-26T21:28:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World Cup 2026: Senegal crush 10-man Iraq to remain in hunt for knockout spot",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260626-world-cup-2026-senegal-crush-10-man-iraq-remain-in-hunt-for-knockout-round",
+      "published_date": "2026-06-26T21:17:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "To heal itself, the UK must face up to why it voted to leave the EU | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/26/to-heal-itself-the-uk-must-face-up-to-why-it-voted-to-leave-the-eu",
+      "published_date": "2026-06-26T16:11:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel's targeting of Gaza's children proves genocidal intent, UN inquiry finds",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260626-israel-s-targeting-of-gaza-children-proves-genocidal-intent-un-inquiry-says",
+      "published_date": "2026-06-26T15:01:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe heatwave live: UK June heat record broken for third day in a row; France and Belgium cancel events",
       "source": "The Guardian",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron to host Meloni in Antibes as France and Italy seek closer ties",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260625-macron-to-host-meloni-in-antibes-as-france-and-italy-seek-warmer-ties",
-      "published_date": "2026-06-25T07:06:14+00:00",
-      "category": "Diplomacy"
+      "title": "Middle East War:  US and Iran trade strikes putting new strain on Mideast ceasefire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260626-middle-east-war-us-strikes-iran-trump-ceasefire-violated",
+      "published_date": "2026-06-26T21:39:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Brexit at 10: 'Without the UK on board, the EU has integrated more'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260624-brexit-at-10-without-the-uk-on-board-the-eu-has-integrated-more",
-      "published_date": "2026-06-24T20:15:03+00:00",
-      "category": "Diplomacy"
+      "title": "Togo's parliamentary reforms: unconstitutional",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/togo-s-reforms-unconstitutional",
+      "published_date": "2026-06-26T20:25:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Digital euro wins key EU backing as lawmakers approve draft rules",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260624-digital-euro-wins-key-eu-backing-as-lawmakers-approve-draft-rules",
-      "published_date": "2026-06-24T20:11:37+00:00",
-      "category": "Diplomacy"
+      "title": "Middle East War: Lebanon, Israel and US sign framework agreement in Washington",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260626-lebanon-israel-us-sign-framework-agreement-in-washington",
+      "published_date": "2026-06-26T18:55:13+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Guardian view on priorities for a new prime minister: foreign policy cannot be an afterthought | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/the-guardian-view-on-priorities-for-a-new-prime-minister-foreign-policy-cannot-be-an-afterthought",
-      "published_date": "2026-06-24T17:37:30+00:00",
-      "category": "Diplomacy"
+      "title": "Punishing heatwave exposes cracks in France's nuclear power fleet",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260626-punishing-heatwave-exposes-cracks-in-france-s-nuclear-power-fleet-reactor",
+      "published_date": "2026-06-26T16:00:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former Trump national security adviser Bolton pleads guilty in classified files case",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260626-former-trump-national-security-adviser-bolton-pleads-guilty-in-classified-files-case",
+      "published_date": "2026-06-26T15:06:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Spain's military firefighters battle wildfire in Huesca province – video",
@@ -249,39 +284,46 @@
       "category": "Military"
     },
     {
-      "title": "Poland's Tusk calls for 'mutual respect' during row with Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyrkze46p0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-25T12:25:14+00:00",
-      "category": "Military"
+      "title": "Europeans voice concerns amid sweltering heatwave - video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jun/26/europeans-voice-concerns-amid-sweltering-heatwave-video",
+      "published_date": "2026-06-26T19:18:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Evacuation of sailors stuck in Gulf likely to take weeks",
+      "title": "Fourth toddler dies in France as Europe’s brutal heatwave forecast to shift east",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress",
+      "published_date": "2026-06-26T17:04:30+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "'Living in a warming world requires practical solutions that save lives, don't harm our environment'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260625-evacuation-of-sailors-stuck-in-gulf-likely-to-take-weeks",
-      "published_date": "2026-06-25T12:11:57+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/living-in-a-warming-world-requires-practical-solutions-that-save-lives-don-t-harm-our-environment",
+      "published_date": "2026-06-26T16:49:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ethiopian journalists win US’ democracy award for courage",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260625-ethiopian-journalists-win-us-democracy-award-for-courage",
-      "published_date": "2026-06-25T12:05:53+00:00",
-      "category": "Military"
+      "title": "‘We feel like the peasants’: women and low-income families bear brunt of heatwave",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/women-low-income-families-bear-brunt-climate-crisis-heatwave",
+      "published_date": "2026-06-26T15:00:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Rubio seeks to reassure Gulf states over Iran deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260625-rubio-seeks-to-reassure-gulf-states-over-iran-deal",
-      "published_date": "2026-06-25T09:21:12+00:00",
-      "category": "Military"
+      "title": "Adapting to the heat: four ideas from European cities",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/adapting-heat-ideas-from-european-cities",
+      "published_date": "2026-06-26T14:35:28+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Zelensky to miss Poland summit as Second World War row escalates",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260625-zelensky-to-miss-poland-summit-as-second-world-war-row-escalates",
-      "published_date": "2026-06-25T06:15:09+00:00",
-      "category": "Military"
+      "title": "‘Fork in the road’: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/26/ceo-amazon-backed-rivian-carmakers-evs",
+      "published_date": "2026-06-26T14:00:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "France pledges €130m to cool schools",
@@ -382,46 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Maritime traffic picks up in Strait of Hormuz, but uncertainty lingers",
+      "title": "Trump threatens 100% tariffs on Europe if countries impose tax on US digital services",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260625-maritime-traffic-picks-up-in-strait-of-hormuz-but-uncertainty-lingers",
-      "published_date": "2026-06-25T08:50:47+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/europe/20260626-trump-threatens-100-tariffs-on-europe-if-countries-impose-tax-on-us-digital-services",
+      "published_date": "2026-06-26T20:27:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Power outages and melting roads: Heatwave strains French infrastructure",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/power-outages-and-melting-roads-heatwave-strains-french-infrastructure",
-      "published_date": "2026-06-24T20:55:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "'Unfortunately in the coming years this will be remembered as a cool period', climate expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/unfortunately-in-the-coming-years-this-will-be-remembered-as-a-cool-period-climate-expert-says",
-      "published_date": "2026-06-24T19:26:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "France 'best prepared' in Europe for heatwaves, while UK views heat as 'occasional inconvenience'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260624-france-best-prepared-in-europe-for-heatwaves-while-uk-views-heat-as-occasional-inconvenience-1",
-      "published_date": "2026-06-24T18:20:02+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Exploit last North Sea oil and gas or risk mass job losses, Andy Burnham urged",
+      "title": "Brexit Britain and the roots of its discontent | Letters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/24/exploit-last-north-sea-oil-gas-or-risk-mass-job-losses-andy-burham-urged",
-      "published_date": "2026-06-24T18:00:52+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/2026/jun/26/brexit-britain-and-the-roots-of-its-discontent",
+      "published_date": "2026-06-26T16:11:27+00:00",
+      "category": "Economy"
     },
     {
-      "title": "'Climate adaptation increasingly means redesigning infrastructure for a hotter climate'",
+      "title": "VivaTech 2026: Space race hits new heights with reusable technology",
       "source": "France 24",
-      "url": "https://www.france24.com/en/climate-adaptation-increasingly-means-redesigning-infrastructure-for-a-hotter-climate",
-      "published_date": "2026-06-24T16:32:29+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/vivatech-2026-space-race-hits-new-heights-with-reusable-technology",
+      "published_date": "2026-06-26T13:51:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Kushner-backed luxury resort sparks outrage, dividing Albanian population",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260626-kushner-backed-luxury-resort-sparks-outrage-dividing-albanian-population",
+      "published_date": "2026-06-26T13:17:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "VW plans to cut up to 10,000 jobs and shut plants, report says",
@@ -536,32 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Love, loneliness and robots: AI prompts new questions around human connection",
+      "title": "Venezuelans search for missing as earthquake death toll climbs",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/tech-24/20260621-love-loneliness-and-robots-ai-prompts-new-questions-around-human-connection",
-      "published_date": "2026-06-21T15:32:19+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/americas/20260626-venezuelans-search-for-missing-as-earthquake-death-toll-climbs",
+      "published_date": "2026-06-26T19:52:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "King Charles III to reveal personal tax bill in historic first for UK monarch",
+      "title": "Morocco footballer Hakimi to appeal rape trial order",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260621-britain-s-king-charles-iii-to-reveal-personal-tax-bill-to-improve-transparency",
-      "published_date": "2026-06-21T01:57:12+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/sport/20260626-morocco-footballer-hakimi-to-appeal-rape-trial-order",
+      "published_date": "2026-06-26T19:08:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Nothing succeeds like excess at Dolce & Gabbana’s Milan menswear show",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/fashion/2026/jun/20/nothing-succeeds-like-excess-at-dolce-gabbanas-milan-menswear-show",
-      "published_date": "2026-06-20T18:55:57+00:00",
-      "category": "Economy"
+      "title": "In some Mexican regions, endemic violence dampens World Cup excitement",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260626-in-some-mexican-regions-endemic-violence-dampens-world-cup-excitement",
+      "published_date": "2026-06-26T16:11:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US treasury chief urged Trump not to host ‘Mr Bean on crack’ Zelenskyy, book says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/20/scott-bessent-volodymyr-zelenskyy-trump",
-      "published_date": "2026-06-20T13:00:02+00:00",
-      "category": "Economy"
+      "title": "Over a million immigrants risk deportation from US after landmark decision",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/over-a-million-immigrants-risk-deportation-from-us-after-landmark-decision",
+      "published_date": "2026-06-26T16:08:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France introduces measures to limit the heatwave's impact on health services",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-introduces-measures-to-limit-the-heatwave-s-impact-on-health-services",
+      "published_date": "2026-06-26T16:05:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Historic heatwave catches Europe's fashion industry unprepared",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260626-historic-heat-wave-catches-europe-s-fashion-industry-unprepared",
+      "published_date": "2026-06-26T13:55:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "European heatwave's unlikely accomplice is an ocean 'cold blob'",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260626/european-heatwaves-unlikely-accomplice-is-an-ocean-cold-blob",
+      "published_date": "2026-06-26T13:20:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Increased health risks, limited resources: French hospitals overwhelmed by heatwave",
@@ -652,55 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/26/wolfgang-porsche-salzburg-villa-up-for-sale-tunnel-austria",
       "published_date": "2026-06-26T05:00:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Calls for child protection reforms in wake of schoolgirl Lyhanna's death",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260626-calls-for-child-protection-reforms-in-wake-of-schoolgirl-lyhanna-s-death",
-      "published_date": "2026-06-26T04:14:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Kind of miracle solution’: How Paris is harnessing the Seine to replace air-con",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat",
-      "published_date": "2026-06-26T04:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pépé stars as Cote d'Ivoire beat Curaçao to reach knockout stages for first time",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260626-p%C3%A9pe-stars-as-cote-d-ivoire-beat-cura%C3%A7ao-to-reach-knockout-stages-for-first-time-world-cup-2026",
-      "published_date": "2026-06-26T00:36:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-26T00:06:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court sides with Bayer, blocking thousands of Roundup cancer lawsuits",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260625-supreme-court-bayer-roundup-cancer-lawsuits",
-      "published_date": "2026-06-25T22:07:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump's 'Alligator Alcatraz' detention center closes after a year of controversy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260625-florida-s-alligator-alcatraz-detention-center-shuts-down-says-official",
-      "published_date": "2026-06-25T21:52:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 'Pride Match': FIFA refuses to ban rainbow flags despite Iran, Egypt objections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/world-cup-pride-match-fifa-refuses-to-ban-rainbow-flags-despite-iran-egypt-objections",
-      "published_date": "2026-06-25T20:39:13+00:00",
       "category": "Local Events"
     }
   ]
