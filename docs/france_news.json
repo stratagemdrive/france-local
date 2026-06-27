@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-06-27T00:02:58.127675+00:00",
+  "last_updated": "2026-06-27T12:05:53.501052+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU worries jet fuel supply situation to worsen",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260627/eu-worries-jet-fuel-supply-situation-to-worsen",
+      "published_date": "2026-06-27T08:14:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burkina Faso junta cuts diplomatic ties with former colonial ruler France",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260627-burkina-faso-junta-cuts-diplomatic-ties-with-former-colonial-ruler-france",
+      "published_date": "2026-06-27T07:59:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "All quiet on the eastern flank? Nato leaders fear they can no longer rely on US help if Russia attacks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jun/27/nato-leaders-fear-they-can-no-longer-rely-on-us-help-if-russia-attacks-trump-eastern-europe",
+      "published_date": "2026-06-27T07:01:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Burkina Faso ruling junta cuts diplomatic ties with ex-ruler France",
       "source": "France 24",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rome airports threaten to suspend new EU passport system to avoid summer ‘disaster’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/25/rome-airports-threaten-to-suspend-new-eu-passport-system-to-avoid-summer-disaster",
-      "published_date": "2026-06-25T10:53:29+00:00",
-      "category": "Diplomacy"
+      "title": "New US-Lebanon-Israel agreement signed",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/new-us-lebanon-israel-agreement-signed",
+      "published_date": "2026-06-27T08:46:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Venezuela earthquakes live: Death toll jumps to at least 164, nearly 1,000 injured",
+      "title": "A cargo ship in the Strait of Hormuz targeted by Iran",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260625-venezuela-earthquakes-live-caracas-us-immediately-deploying-rescuers-marco-rubio",
-      "published_date": "2026-06-25T07:46:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron hosts Meloni for Riviera talks after Italian leader's fallout with Trump",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260625-macron-hosts-meloni-for-riviera-talks-after-italian-leader-s-fallout-with-trump",
-      "published_date": "2026-06-25T07:07:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/a-cargo-ship-in-the-strait-of-hormuz-targeted-by-iran",
+      "published_date": "2026-06-27T08:44:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Middle East War:  US and Iran trade strikes putting new strain on Mideast ceasefire",
@@ -270,18 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Fear of mines alone could disrupt Strait of Hormuz shipping, warns French admiral",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260625-fear-of-mines-alone-can-disrupt-strait-of-hormuz-shipping-warns-french-admiral-iran",
-      "published_date": "2026-06-25T15:42:03+00:00",
-      "category": "Military"
+      "title": "Europe heatwave live: Germany braced for temperatures ‘well over 40C’; extreme heat warnings for England",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
+      "published_date": "2026-06-27T11:39:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Poland, Ukraine hold annual reconstruction conference without Zelensky",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260625-poland-ukraine-strike-conciliatory-tone-at-reconstruction-conference",
-      "published_date": "2026-06-25T14:36:32+00:00",
-      "category": "Military"
+      "title": "‘A sad inevitability’: after decades of climate warnings, why is Europe so unprepared for rising heat?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat",
+      "published_date": "2026-06-27T11:00:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europeans voice concerns amid sweltering heatwave - video",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Why is Europe the fastest-warming continent?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260625-why-is-europe-the-fastest-warming-continent",
-      "published_date": "2026-06-25T12:10:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK swelters in hottest June day on record",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260625-uk-swelters-in-hottest-june-day-on-record",
-      "published_date": "2026-06-25T12:09:13+00:00",
-      "category": "Energy"
+      "title": "Trump threatens 100% tariff on European countries that impose digital tax",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
+      "published_date": "2026-06-27T10:20:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump threatens 100% tariffs on Europe if countries impose tax on US digital services",
@@ -557,11 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "UK: PM Keir Starmer announces resignation",
+      "title": "Did the French government prepare for this or not?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260622-uk-pm-keir-starmer-announces-resignation",
-      "published_date": "2026-06-22T09:33:35+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/deadly-heatwave-choking-france",
+      "published_date": "2026-06-27T08:50:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany braces for record temperatures as heatwave moves east",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260627-germany-braces-for-record-temperatures-as-heatwave-moves-east",
+      "published_date": "2026-06-27T07:56:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where Copenhagen leads, the food world still follows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/food/2026/jun/27/where-copenhagen-leads-the-food-world-still-follows",
+      "published_date": "2026-06-27T06:00:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venice protest planned for US ambassador’s superyacht visit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/27/venice-protest-planned-us-ambassador-superyacht-tour-tilman-fertitta",
+      "published_date": "2026-06-27T05:00:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "People in Britain used to agree to disagree. Since Brexit, they no longer dare to talk about difficult things | Elif Shafak",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/27/people-britain-disagree-brexit-divided",
+      "published_date": "2026-06-27T05:00:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Do you really need to speak German to take a cooling dip? This row in Halle raises all manner of red flags | Fatma Aydemir",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/27/german-speakers-swimming-pool-halle-heatwave-far-right",
+      "published_date": "2026-06-27T04:00:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Many are still afraid’: hope and caution in Budapest before first Pride since Orbán",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/27/hope-and-caution-in-budapest-before-first-pride-since-viktor-orban",
+      "published_date": "2026-06-27T04:00:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Venezuelans search for missing as earthquake death toll climbs",
@@ -652,55 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/nigeria-s-major-police-reform-edges-forward-after-senate-approval",
       "published_date": "2026-06-26T10:21:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris police asks major festivals be cancelled due to relentless heatwave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/paris-police-asks-major-festivals-be-cancelled-due-to-relentless-heatwave",
-      "published_date": "2026-06-26T09:44:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: Paris Pride postponed, drowning death toll rises as Europe swelters in record heatwave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260626-live-paris-pride-europe-record-heatwave",
-      "published_date": "2026-06-26T09:33:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris bans public alcohol consumption as heatwave overwhelms emergency services",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/paris-bans-public-alcohol-consumption-as-heatwave-overwhelms-emergency-services",
-      "published_date": "2026-06-26T09:32:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Why Paris' zinc rooftops are hot enough to cook a crêpe",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260626/video-why-paris-zinc-rooftops-are-hot-enough-to-cook-a-crepe",
-      "published_date": "2026-06-26T09:20:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "#Paris tourists struggle amid historical #heatwave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260626-paris-tourists-struggle-in-historical-heatwave",
-      "published_date": "2026-06-26T08:36:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather tracker: Heatwave expected to bring Germany and Poland to 40C",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/weather-tracker-heatwave-germany-poland-40c-temperatures",
-      "published_date": "2026-06-26T08:22:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Porsche magnate puts historic Salzburg villa up for sale after row over private ‘tunnel for one’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/26/wolfgang-porsche-salzburg-villa-up-for-sale-tunnel-austria",
-      "published_date": "2026-06-26T05:00:10+00:00",
       "category": "Local Events"
     }
   ]
