@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-06-28T12:14:18.810548+00:00",
+  "last_updated": "2026-06-29T00:04:55.077304+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "French government under fire as hospitals face excess heatwave deaths",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260628-french-government-under-fire-as-hospitals-face-excess-heatwave-deaths",
+      "published_date": "2026-06-28T14:16:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘British food will disappear’: trade deal after Brexit is hitting UK farmers hard",
       "source": "The Guardian",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Would farmers and fishermen back Brexit today?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c621zrjl8z5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-26T05:13:01+00:00",
-      "category": "Diplomacy"
+      "title": "Iran attacks Bahrain and Kuwait, threatens to halt talks after fresh US strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260628-iran-threatens-to-halt-talks-after-fresh-us-strikes-attacks-bahrain-and-kuwait",
+      "published_date": "2026-06-28T22:47:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Armed conflict threatens Ethiopia’s ancient monasteries",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/armed-conflict-threatens-ethiopia-s-ancient-monasteries",
+      "published_date": "2026-06-28T22:00:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
+      "published_date": "2026-06-28T21:52:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian strike ignites Russian oil refinery, as Putin acknowledges 'difficult period'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260628-ukraine-drone-assault-ignites-russian-oil-refinery-as-putin-acknowledges-difficult-period",
+      "published_date": "2026-06-28T16:59:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine’s targets in Russia are fully justified | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/28/ukraines-targets-in-russia-are-fully-justified",
+      "published_date": "2026-06-28T16:58:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tehran targets Bahrain and Kuwait after US attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260628-tehran-targets-bahrain-and-kuwait-after-us-attacks",
+      "published_date": "2026-06-28T15:39:59+00:00",
+      "category": "Military"
     },
     {
       "title": "New US-Iran exchange of attacks threatens ceasefire",
@@ -239,48 +281,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260626-punishing-heatwave-exposes-cracks-in-france-s-nuclear-power-fleet-reactor",
       "published_date": "2026-06-26T16:00:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former Trump national security adviser Bolton pleads guilty in classified files case",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260626-former-trump-national-security-adviser-bolton-pleads-guilty-in-classified-files-case",
-      "published_date": "2026-06-26T15:06:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain's military firefighters battle wildfire in Huesca province – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/26/spain-military-firefighters-battle-wildfire-huesca-province-video",
-      "published_date": "2026-06-26T12:13:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah claims hits on Israel’s Iron Dome but videos show strikes on decoys",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260626-hezbollah-fpv-drones-iron-dome-decoy-launchers",
-      "published_date": "2026-06-26T11:45:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia preparing possible ‘provocation’ in Baltic states or Poland, sources say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/26/russia-provocation-baltic-states-poland",
-      "published_date": "2026-06-26T11:45:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea bets on personal drones to shore up defensive capability",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/south-korea-bets-on-personal-drones-to-shore-up-defensive-capability",
-      "published_date": "2026-06-26T10:53:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-26T10:38:37+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,62 @@
       "category": "Economy"
     },
     {
+      "title": "Ukraine war briefing: Putin expects US negotiators in Moscow; fuel rationing in Siberia as crisis bites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/29/ukraine-war-briefing-putin-expects-us-negotiators-moscow-fuel-rationing-siberia",
+      "published_date": "2026-06-28T23:52:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey police detain dozens at LGBTQ+ Pride event in Istanbul",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260628-turkey-police-detain-dozens-at-lgbtq-pride-event-in-istanbul",
+      "published_date": "2026-06-28T19:43:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Caledonia votes: High stakes in France's Pacific territory",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260628-new-caledonia-votes-high-stakes-in-france-s-pacific-territory",
+      "published_date": "2026-06-28T19:36:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Skydiving plane crashes in France, killing all 11 people on board",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260628-skydiving-plane-crashes-in-france-killing-all-11-people-on-board",
+      "published_date": "2026-06-28T18:39:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T18:34:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French skydiving plane crashes near Nancy, killing all 11 onboard",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/28/french-skydiving-plane-crashes-near-nancy-killing-all-11-on-board-says-prefect",
+      "published_date": "2026-06-28T15:58:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Key poll in New Caledonia: First major vote on French Pacific islands since 2024 riots",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/key-poll-in-new-caledonia-first-major-vote-on-french-pacific-islands-since-2024-riots",
+      "published_date": "2026-06-28T14:26:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Remains of people exhibited in ‘human zoos’ to be returned to French Guiana",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260628-remains-of-people-exhibited-in-human-zoos-to-be-returned-to-french-guiana",
+      "published_date": "2026-06-28T12:24:14+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "New Caledonia polls close in French territory's first provincial elections since 2019",
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20260628-new-caledonia-polls-close-in-french-territory-s-first-provincial-elections-since-2019",
@@ -645,62 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/jun/27/people-britain-disagree-brexit-divided",
       "published_date": "2026-06-27T05:00:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Do you really need to speak German to take a cooling dip? This row in Halle raises all manner of red flags | Fatma Aydemir",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/27/german-speakers-swimming-pool-halle-heatwave-far-right",
-      "published_date": "2026-06-27T04:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Many are still afraid’: hope and caution in Budapest before first Pride since Orbán",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/27/hope-and-caution-in-budapest-before-first-pride-since-viktor-orban",
-      "published_date": "2026-06-27T04:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuelans search for missing as earthquake death toll climbs",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260626-venezuelans-search-for-missing-as-earthquake-death-toll-climbs",
-      "published_date": "2026-06-26T19:52:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morocco footballer Hakimi to appeal rape trial order",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260626-morocco-footballer-hakimi-to-appeal-rape-trial-order",
-      "published_date": "2026-06-26T19:08:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In some Mexican regions, endemic violence dampens World Cup excitement",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260626-in-some-mexican-regions-endemic-violence-dampens-world-cup-excitement",
-      "published_date": "2026-06-26T16:11:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over a million immigrants risk deportation from US after landmark decision",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/over-a-million-immigrants-risk-deportation-from-us-after-landmark-decision",
-      "published_date": "2026-06-26T16:08:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France introduces measures to limit the heatwave's impact on health services",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-introduces-measures-to-limit-the-heatwave-s-impact-on-health-services",
-      "published_date": "2026-06-26T16:05:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Historic heatwave catches Europe's fashion industry unprepared",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260626-historic-heat-wave-catches-europe-s-fashion-industry-unprepared",
-      "published_date": "2026-06-26T13:55:57+00:00",
       "category": "Local Events"
     }
   ]
