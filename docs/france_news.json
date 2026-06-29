@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-06-29T00:04:55.077304+00:00",
+  "last_updated": "2026-06-29T14:43:59.817521+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Why Oman has become a key diplomatic player in Mideast war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260629-why-oman-has-become-a-key-diplomatic-player-in-mideast-war",
+      "published_date": "2026-06-29T14:02:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "DR Congo conflict: Rwandan FM 'disappointed by increasingly biased US mediation'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260629-dr-congo-conflict-rwandan-fm-disappointed-by-increasingly-biased-us-mediation",
+      "published_date": "2026-06-29T13:31:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron hosts Oman sultan for talks on toll-free reopening of Strait of Hormuz",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260629-macron-hosts-oman-sultan-for-talks-on-toll-free-reopening-of-strait-of-hormuz",
+      "published_date": "2026-06-29T06:04:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "French government under fire as hospitals face excess heatwave deaths",
       "source": "RFI English",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France and Norway to fight for top spot in final World Cup group game",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-and-norway-to-fight-for-top-spot-in-final-world-cup-group-game",
-      "published_date": "2026-06-26T12:48:13+00:00",
-      "category": "Diplomacy"
+      "title": "Five people killed in shooting in northern Germany, police say – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates",
+      "published_date": "2026-06-29T14:28:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Venezuela hunts for survivors of twin quakes as it waits for foreign aid",
+      "title": "All warring parties in Mali committed 'grave abuses' against civilians, report says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/venezuela-hunts-for-survivors-of-twin-quakes-as-it-waits-for-foreign-aid",
-      "published_date": "2026-06-26T09:38:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/africa/20260629-all-warring-parties-in-mali-committed-grave-abuses-against-civilians-report-says",
+      "published_date": "2026-06-29T14:16:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK breaks hottest June day record for third day in a row, France and Belgium cancel events",
+      "title": "Israel formally recognises Armenian genocide in rebuke to Turkey",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260629-israel-formally-recognises-armenian-genocide-in-rebuke-to-turkey",
+      "published_date": "2026-06-29T13:58:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria slams new Israeli incursion in southern Daraa province",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260626-live-paris-pride-europe-record-heatwave",
-      "published_date": "2026-06-26T09:33:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260629-syria-slams-new-israeli-incursion-in-southern-daraa-province",
+      "published_date": "2026-06-29T13:48:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine strikes another Russian oil refinery as Putin admits fuel shortages",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260629-ukraine-strikes-another-russian-oil-refinery-as-putin-admits-fuel-shortages",
+      "published_date": "2026-06-29T12:10:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A Ukrainian military school graduation ceremony – photo essay",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/29/ukraine-military-school-graduation-ceremony-photo-essay",
+      "published_date": "2026-06-29T06:00:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fragments of Ice review – fascinating chronicle of Soviet collapse through the lens of a Ukrainian ice skater",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jun/29/fragments-of-ice-review-fascinating-chronicle-of-soviet-collapse-through-the-lens-of-a-ukrainian-ice-skater",
+      "published_date": "2026-06-29T06:00:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran attacks Bahrain and Kuwait, threatens to halt talks after fresh US strikes",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "‘Vespa is a way of life’: Thousands ride through Rome as Italy’s iconic scooter turns 80",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260627-vespa-is-a-way-of-life-thousands-ride-through-rome-as-italy-s-iconic-scooter-turns-80",
-      "published_date": "2026-06-27T14:25:05+00:00",
-      "category": "Military"
+      "title": "Europe heatwave shows need to reject climate denial ‘lies’, says EU green chief",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/29/europe-heatwave-shows-need-to-reject-climate-denial-lies-says-eu-green-chief",
+      "published_date": "2026-06-29T14:00:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "New US-Lebanon-Israel agreement signed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/new-us-lebanon-israel-agreement-signed",
-      "published_date": "2026-06-27T08:46:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A cargo ship in the Strait of Hormuz targeted by Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/a-cargo-ship-in-the-strait-of-hormuz-targeted-by-iran",
-      "published_date": "2026-06-27T08:44:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East War:  US and Iran trade strikes putting new strain on Mideast ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260626-middle-east-war-us-strikes-iran-trump-ceasefire-violated",
-      "published_date": "2026-06-26T21:39:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Togo's parliamentary reforms: unconstitutional",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/togo-s-reforms-unconstitutional",
-      "published_date": "2026-06-26T20:25:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East War: Lebanon, Israel and US sign framework agreement in Washington",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260626-lebanon-israel-us-sign-framework-agreement-in-washington",
-      "published_date": "2026-06-26T18:55:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Punishing heatwave exposes cracks in France's nuclear power fleet",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260626-punishing-heatwave-exposes-cracks-in-france-s-nuclear-power-fleet-reactor",
-      "published_date": "2026-06-26T16:00:29+00:00",
-      "category": "Military"
+      "title": "OPINION: France's air conditioning debate threatens to drown out climate action",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260629/opinion-frances-air-conditioning-debate-threatens-to-drown-out-climate-action",
+      "published_date": "2026-06-29T07:18:58+00:00",
+      "category": "Energy"
     },
     {
       "title": "Temperature records tumble across Europe as heatwave moves east",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Current Europe heatwave 'impossible' without human-induced climate change",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/science-and-technology/20260626-europe-heatwave-virtually-impossible-without-human-caused-climate-change",
-      "published_date": "2026-06-26T07:06:02+00:00",
-      "category": "Energy"
+      "title": "'Pre-existing vulnerabilities: Venezuela already experiencing economic turmoil, displacement crisis'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260629-pre-existing-vulnerabilities-venezuela-already-experiencing-economic-turmoil-displacement-crisis",
+      "published_date": "2026-06-29T12:45:50+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Europe’s severe June heatwave ‘virtually impossible’ 50 years ago, climate scientists say",
+      "title": "EU introduces €3 customs charge on small parcels to curb cheap Chinese imports",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/29/eu-introduces-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports",
+      "published_date": "2026-06-29T11:40:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "China, EU commerce ministers meet amid widening trade imbalance",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260626-europe-severe-june-heatwave-virtually-impossible-50-years-go-climate-scientists-say",
-      "published_date": "2026-06-26T05:42:19+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/business/20260629-china-eu-commerce-ministers-meet-amid-widening-trade-imbalance",
+      "published_date": "2026-06-29T10:36:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "British historian defends artistic licence in controversial de Gaulle biopic",
@@ -543,25 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Ten years on, the UK's workers take stock of Brexit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ten-years-on-the-uk-takes-stock-of-brexit",
-      "published_date": "2026-06-23T12:29:22+00:00",
-      "category": "Economy"
+      "title": "Five dead in shooting at youth welfare centre in northern Germany",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-29T14:39:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French tax authorities increase audit period for second-home owners",
+      "title": "Paris deputy mayor says second-homes are 'the enemy' and calls for new property tax laws",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260623/french-tax-authorities-increase-audit-period-for-second-home-owners",
-      "published_date": "2026-06-23T12:26:12+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20260629/paris-deputy-mayor-says-second-homes-the-enemy-and-calls-for-new-property-tax-laws",
+      "published_date": "2026-06-29T14:32:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "I stand by what I said 10 years ago. We were right to leave the European Union | Larry Elliott",
+      "title": "At least five killed in shooting in Stade in northern Germany, police say",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260629-several-people-killed-shooting-in-northern-germany-police-say",
+      "published_date": "2026-06-29T12:08:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of foreign nationals leave South Africa ahead of June 30 'deadline'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260629-thousands-foreign-nationals-leave-south-africa-ahead-june-30-deadline",
+      "published_date": "2026-06-29T11:44:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's 2027 presidential election: Can the far-right National Rally win without Le Pen?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260629-french-2027-presidential-election-can-the-rn-win-without-le-pen-bardella",
+      "published_date": "2026-06-29T11:19:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lightning bolts strike Eiffel Tower during Paris thunderstorm – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/leave-eu-european-union-brexit-10-years",
-      "published_date": "2026-06-23T10:00:26+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/jun/29/lightning-bolts-strike-eiffel-tower-paris-thunderstorm-video",
+      "published_date": "2026-06-29T08:54:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ukraine war briefing: Putin expects US negotiators in Moscow; fuel rationing in Siberia as crisis bites",
@@ -613,6 +655,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Skydiving plane crash kills 11 in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260628/civilian-plane-crash-kills-11-in-france-local-authorities",
+      "published_date": "2026-06-28T13:15:39+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Remains of people exhibited in ‘human zoos’ to be returned to French Guiana",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260628-remains-of-people-exhibited-in-human-zoos-to-be-returned-to-french-guiana",
@@ -652,55 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france-current-heatwave-recalls-2003-casualties",
       "published_date": "2026-06-27T15:40:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toddler dies after being rescued from hot car in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260627/toddler-dies-after-being-rescued-from-hot-car-in-france",
-      "published_date": "2026-06-27T14:22:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK to introduce new legal routes for asylum seekers, refugees",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260627-uk-to-introduce-new-legal-routes-for-asylum-seekers-refugees",
-      "published_date": "2026-06-27T14:16:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Did the French government prepare for this or not?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/deadly-heatwave-choking-france",
-      "published_date": "2026-06-27T08:50:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany braces for record temperatures as heatwave moves east",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260627-germany-braces-for-record-temperatures-as-heatwave-moves-east",
-      "published_date": "2026-06-27T07:56:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where Copenhagen leads, the food world still follows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/food/2026/jun/27/where-copenhagen-leads-the-food-world-still-follows",
-      "published_date": "2026-06-27T06:00:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venice protest planned for US ambassador’s superyacht visit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/27/venice-protest-planned-us-ambassador-superyacht-tour-tilman-fertitta",
-      "published_date": "2026-06-27T05:00:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "People in Britain used to agree to disagree. Since Brexit, they no longer dare to talk about difficult things | Elif Shafak",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/27/people-britain-disagree-brexit-divided",
-      "published_date": "2026-06-27T05:00:33+00:00",
       "category": "Local Events"
     }
   ]
