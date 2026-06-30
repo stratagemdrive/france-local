@@ -1,8 +1,78 @@
 {
   "country": "France",
-  "last_updated": "2026-06-30T00:00:33.333963+00:00",
+  "last_updated": "2026-06-30T13:07:50.904225+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Poland recognises same-sex marriages, sees rush for weddings organised abroad",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260630-poland-recognises-same-sex-marriages-sees-rush-weddings-organised-abroad",
+      "published_date": "2026-06-30T12:25:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU halves duty-free steel quota but UK and other partners given better rate",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/30/eu-duty-free-steel-quota-uk-rate-brexit",
+      "published_date": "2026-06-30T11:11:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Meet your MEP! Behind the scenes of the European Parliament",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260630-meet-your-mep-behind-the-scenes-of-the-european-parliament",
+      "published_date": "2026-06-30T10:14:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Discover the winners of FRANCE 24's video competition on EU cohesion policy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260630-discover-the-winners-of-france-24-s-video-competition-on-eu-cohesion-policy",
+      "published_date": "2026-06-30T09:45:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What's on the agenda at the next EU-UK summit... if it takes place?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260630/whats-on-the-agenda-at-the-next-eu-uk-summit-if-it-takes-place",
+      "published_date": "2026-06-30T09:33:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Discover the winners of FRANCE 24's video competition on fighting fake news",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260630-discover-the-winners-of-france-24-s-video-competition-on-fighting-fake-news",
+      "published_date": "2026-06-30T09:26:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe and US on collision course over next high representative for Bosnia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/30/europe-us-high-representative-for-bosnia",
+      "published_date": "2026-06-30T08:13:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What you should expect when the EU's small parcel fee kicks in on July 1st",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260630/what-you-should-expect-when-eu-small-parcel-fee-kicks-in-on-july-1st",
+      "published_date": "2026-06-30T07:02:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron reappears wearing viral aviator sunglasses",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260630/macron-reappears-wearing-viral-aviator-sunglasses",
+      "published_date": "2026-06-30T06:12:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ireland is big tech’s lapdog – and that compromises its EU presidency | Johnny Ryan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/ireland-big-tech-lapdog-eu-presidency-digital-sovereignty",
+      "published_date": "2026-06-30T04:00:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says Iran requested Doha meeting as Tehran denies direct US talks",
       "source": "France 24",
@@ -74,74 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'A wake up call': Municipal misery hangs over upcoming South African elections",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260628-municipal-misery-weighs-on-looming-south-african-elections-november-anc-da-black-townships",
-      "published_date": "2026-06-28T08:57:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US strikes Iran again as Tehran hits Bahrain and Kuwait",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260628-us-strikes-more-targets-in-iran-as-fragile-ceasefire-comes-under-renewed-strain",
-      "published_date": "2026-06-28T02:57:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, US trade attacks in the Strait of Hormuz: Navigating the 'Guardian Angel' route",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260627-iran-us-trade-attacks-in-the-strait-of-hormuz-navigating-the-guardian-angel-route",
-      "published_date": "2026-06-27T19:25:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Understanding the 'point men': Iran-US peace talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260627-understanding-the-point-men-iran-us-peace-talks",
-      "published_date": "2026-06-27T18:50:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela: Survivors say rescue effort too slow",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/venezuela-survivors-say-rescue-effort-too-slow",
-      "published_date": "2026-06-27T15:38:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Burkina Faso severs diplomatic ties with France",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T14:21:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nearly 6.8 mn people may be affected by Venezuela quakes, UN says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260627-nearly-6-8-mn-people-may-be-affected-by-venezuela-quakes-un-says",
-      "published_date": "2026-06-27T14:05:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU worries jet fuel supply situation to worsen",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260627/eu-worries-jet-fuel-supply-situation-to-worsen",
-      "published_date": "2026-06-27T08:14:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Burkina Faso junta cuts diplomatic ties with former colonial ruler France",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260627-burkina-faso-junta-cuts-diplomatic-ties-with-former-colonial-ruler-france",
-      "published_date": "2026-06-27T07:59:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "All quiet on the eastern flank? Nato leaders fear they can no longer rely on US help if Russia attacks",
+      "title": "Monaco bombing was ‘attempted assassination’, not terror attack, say prosecutors – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/jun/27/nato-leaders-fear-they-can-no-longer-rely-on-us-help-if-russia-attacks-trump-eastern-europe",
-      "published_date": "2026-06-27T07:01:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/jun/30/monaco-bombing-ukraine-gerany-hungary-poland-baltics-heat-latest-news-updates",
+      "published_date": "2026-06-30T12:44:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T11:36:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uganda dissidents on trial as president’s son tightens control",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260630-uganda-dissidents-on-trial-as-president-s-son-increases-his-grip-on-freedoms",
+      "published_date": "2026-06-30T11:18:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Iran meeting set in Qatar despite Tehran's denials",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260630-trump-says-iran-meeting-set-in-qatar-despite-tehran-s-denials",
+      "published_date": "2026-06-30T10:43:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Monaco in shock after parcel bomb injures Ukrainian-born business leader",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/30/monaco-parcel-bomb-blast-ukrainian-oligarch",
+      "published_date": "2026-06-30T09:39:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Amid war in Ukraine, the fleeting moments of despair and salvation I witness are what truly tell the story | Charlotte Higgins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/wartime-ukraine-reporting-front-line",
+      "published_date": "2026-06-30T07:00:41+00:00",
+      "category": "Military"
     },
     {
       "title": "Monaco explosion injures three and triggers police hunt",
@@ -214,6 +256,13 @@
       "category": "Military"
     },
     {
+      "title": "Europe’s heatwave forces Ukraine power cuts, sets Slovakia record as it moves east",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260629-europe-s-deadly-heatwave-scorches-east-slovakia-hits-record",
+      "published_date": "2026-06-29T10:29:24+00:00",
+      "category": "Military"
+    },
+    {
       "title": "A Ukrainian military school graduation ceremony – photo essay",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/29/ukraine-military-school-graduation-ceremony-photo-essay",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Armed conflict threatens Ethiopia’s ancient monasteries",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/armed-conflict-threatens-ethiopia-s-ancient-monasteries",
-      "published_date": "2026-06-28T22:00:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
+      "title": "Reader Q&A live: we answer your questions about Europe’s hellish week of heat",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
-      "published_date": "2026-06-28T21:52:52+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/community/live/2026/jun/30/reader-qa-ask-ajit-niranjan-anything-about-europes-hellish-week-of-heat",
+      "published_date": "2026-06-30T13:02:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukrainian strike ignites Russian oil refinery, as Putin acknowledges 'difficult period'",
+      "title": "Ukraine's war-damaged power grid struggles as heatwave moves east",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260628-ukraine-drone-assault-ignites-russian-oil-refinery-as-putin-acknowledges-difficult-period",
-      "published_date": "2026-06-28T16:59:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s targets in Russia are fully justified | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/28/ukraines-targets-in-russia-are-fully-justified",
-      "published_date": "2026-06-28T16:58:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran targets Bahrain and Kuwait after US attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260628-tehran-targets-bahrain-and-kuwait-after-us-attacks",
-      "published_date": "2026-06-28T15:39:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New US-Iran exchange of attacks threatens ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/new-us-iran-exchange-of-attacks-threatens-ceasefire",
-      "published_date": "2026-06-28T11:27:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uganda army chief shuts down media group amid widespread curb on free speech",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260628-uganda-army-chief-shuts-down-media-group-amid-widespread-curb-on-free-speech",
-      "published_date": "2026-06-28T09:34:59+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260630-ukraine-s-war-damaged-power-grid-struggles-under-soaring-heat",
+      "published_date": "2026-06-30T10:19:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe heatwave shows need to reject climate denial ‘lies’, says EU green chief",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Scorching record-breaking heatwave 'unequivocally' due to climate change",
+      "title": "French heatwave threatens food inflation as agriculture sector suffers",
       "source": "France 24",
-      "url": "https://www.france24.com/en/scorching-record-breaking-heatwave-unequivocally-due-to-climate-change",
-      "published_date": "2026-06-26T09:36:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Greenhouse effect to climate leave - Navigating a heatwave in French",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260626/greenhouse-effect-to-climate-leave-navigating-a-heatwave-in-french",
-      "published_date": "2026-06-26T07:49:58+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/business/20260630-french-heatwave-threatens-food-inflation-as-agriculture-sector-suffers",
+      "published_date": "2026-06-30T10:14:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "South Korea bets big on AI with nearly a trillion dollars in investment",
@@ -557,11 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "Merz backs plans to raise Germany’s retirement age to 70 in pension changes",
+      "title": "One million migrants in Spain apply to regularise status in new scheme",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/23/merz-plans-germany-retirement-age-pension-reforms",
-      "published_date": "2026-06-23T15:48:01+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jun/30/million-migrants-spain-apply-regularise-status-new-scheme",
+      "published_date": "2026-06-30T12:43:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explained: Would Le Pen legal loss make a far-right victory in France less likely?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260630/explained-would-le-pen-legal-loss-make-a-far-right-victory-in-france-less-likely",
+      "published_date": "2026-06-30T12:41:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elon Musk promotes ‘anti-migrant’ Armie Hammer film with free download on X",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jun/30/elon-musk-anti-migrant-armie-hammer-film-free-download-citizen-vigilante",
+      "published_date": "2026-06-30T11:41:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Monaco bombing suspect flees to France as police probe attempted murder",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260630-monaco-bomb-suspect-flees-to-france-as-police-probe-attempted-murder",
+      "published_date": "2026-06-30T10:53:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Monaco blast wounds several with Ukrainian oligarch the believed target",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260630-monaco-blast-wounds-several-with-ukrainian-oligarch-the-believed-target",
+      "published_date": "2026-06-30T10:27:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain's undocumented migrant amnesty scheme draws more than a million applicants",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260630-spain-more-than-one-million-undocumented-migrants-apply-for-amnesty-scheme",
+      "published_date": "2026-06-30T10:21:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Supreme Court to rule on Trump's bid to roll back birthright citizenship",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260630-supreme-court-to-rule-on-trump-s-bid-to-roll-back-birthright-citizenship",
+      "published_date": "2026-06-30T10:18:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French justice system to re-examine 88,000 child abuse claims",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260630-french-justice-system-to-re-examine-88-000-child-abuse-claims",
+      "published_date": "2026-06-30T10:02:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa deploys police, foreigners brace for violence as anti-immigrant protests begin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260630-south-africa-deploys-police-foreigners-brace-for-violence-as-anti-immigrant-protests-begin",
+      "published_date": "2026-06-30T09:47:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Final dash for documents as Spain triggers largest migrant amnesty in European history",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260630-final-dash-for-documents-as-spain-triggers-largest-migrant-amnesty-in-european-history",
+      "published_date": "2026-06-30T09:46:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden face France's attacking firepower at the World Cup",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260630-sweden-face-france-s-attacking-firepower-at-the-world-cup",
+      "published_date": "2026-06-30T07:18:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How I survived the record Paris heatwave while seven months pregnant",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/30/how-i-survived-record-paris-heatwave-while-seven-months-pregnant",
+      "published_date": "2026-06-30T07:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why a surge in sexually transmitted infections in Europe should worry everybody | Peter Beyer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/jun/30/sexually-transmitted-infections-europe-world-drug-resistant-bacteria-amr",
+      "published_date": "2026-06-30T06:00:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Volvic to appeal after French court rules green claims were misleading",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260630-volvic-to-appeal-after-french-court-rules-green-claims-were-misleading",
+      "published_date": "2026-06-30T05:57:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Peru president-elect Fujimori vows 'order and hope' after narrow election victory",
@@ -603,104 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260629-south-africa-thousands-of-foreigners-flee-ahead-of-anti-immigration-deadline",
       "published_date": "2026-06-29T16:27:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French parliament adopts bill to regulate fast fashion",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260629/french-parliament-adopts-bill-to-regulate-fast-fashion",
-      "published_date": "2026-06-29T15:53:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French hospitals 'better prepared': 'Important lessons learned from deadly 2003 heatwave'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260629-french-hospitals-better-prepared-important-lessons-learned-from-deadly-2003-heatwave-1",
-      "published_date": "2026-06-29T14:47:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five dead in shooting at youth welfare centre in northern Germany",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-29T14:39:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris deputy mayor says second-homes are 'the enemy' and calls for new property tax laws",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260629/paris-deputy-mayor-says-second-homes-the-enemy-and-calls-for-new-property-tax-laws",
-      "published_date": "2026-06-29T14:32:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least five killed in shooting in Stade in northern Germany, police say",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260629-several-people-killed-shooting-in-northern-germany-police-say",
-      "published_date": "2026-06-29T12:08:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of foreign nationals leave South Africa ahead of June 30 'deadline'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260629-thousands-foreign-nationals-leave-south-africa-ahead-june-30-deadline",
-      "published_date": "2026-06-29T11:44:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's 2027 presidential election: Can the far-right National Rally win without Le Pen?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260629-french-2027-presidential-election-can-the-rn-win-without-le-pen-bardella",
-      "published_date": "2026-06-29T11:19:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lightning bolts strike Eiffel Tower during Paris thunderstorm – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/29/lightning-bolts-strike-eiffel-tower-paris-thunderstorm-video",
-      "published_date": "2026-06-29T08:54:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Putin expects US negotiators in Moscow; fuel rationing in Siberia as crisis bites",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/29/ukraine-war-briefing-putin-expects-us-negotiators-moscow-fuel-rationing-siberia",
-      "published_date": "2026-06-28T23:52:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey police detain dozens at LGBTQ+ Pride event in Istanbul",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260628-turkey-police-detain-dozens-at-lgbtq-pride-event-in-istanbul",
-      "published_date": "2026-06-28T19:43:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Caledonia votes: High stakes in France's Pacific territory",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260628-new-caledonia-votes-high-stakes-in-france-s-pacific-territory",
-      "published_date": "2026-06-28T19:36:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Skydiving plane crashes in France, killing all 11 people on board",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260628-skydiving-plane-crashes-in-france-killing-all-11-people-on-board",
-      "published_date": "2026-06-28T18:39:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-28T18:34:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French skydiving plane crashes near Nancy, killing all 11 onboard",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/28/french-skydiving-plane-crashes-near-nancy-killing-all-11-on-board-says-prefect",
-      "published_date": "2026-06-28T15:58:53+00:00",
       "category": "Local Events"
     }
   ]
