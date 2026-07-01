@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-06-30T13:07:50.904225+00:00",
+  "last_updated": "2026-07-01T00:03:01.385800+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "France sets presidential election date as Macron finishes final term",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260630-france-sets-presidential-election-date-as-macron-finishes-final-term",
+      "published_date": "2026-06-30T22:09:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US and European diplomats continue standoff over top Bosnia and Herzegovina post",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/30/eu-diplomats-clash-with-trump-administration-over-top-bosnia-and-herzegovina-post",
+      "published_date": "2026-06-30T21:26:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "S. Africa anti-migrant wave: UN's Türk urges people 'not to dehumanize, see in other a human being'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260630-un-s-volker-t%C3%BCrk-we-must-see-in-the-other-a-human-being-and-not-dehumanize-migrants-and-refugees",
+      "published_date": "2026-06-30T19:16:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Police raid EU far-right offices, including's France's National Rally, over allegations of misuse of EU funds",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260630-police-raid-eu-far-right-offices-including-s-france-s-national-rally-over-allegations-of-misuse-of-eu-funds",
+      "published_date": "2026-06-30T17:54:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italian MEP suggests government wants to ‘hide truth’ about Albania migrant centre",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/30/italy-mep-government-truth-migrant-detention-centre-albania",
+      "published_date": "2026-06-30T15:30:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Poland recognises same-sex marriages, sees rush for weddings organised abroad",
       "source": "France 24",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why Oman has become a key diplomatic player in Mideast war",
+      "title": "US envoys met with mediators in Qatar, talks with Iran up in the air",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260629-why-oman-has-become-a-key-diplomatic-player-in-mideast-war",
-      "published_date": "2026-06-29T14:02:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260630-us-envoys-met-with-mediators-in-qatar-talks-with-iran-up-in-the-air",
+      "published_date": "2026-06-30T23:18:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "DR Congo conflict: Rwandan FM 'disappointed by increasingly biased US mediation'",
+      "title": "Manhunt launched after Monaco blast targets Ukrainian-born oligarch",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260629-dr-congo-conflict-rwandan-fm-disappointed-by-increasingly-biased-us-mediation",
-      "published_date": "2026-06-29T13:31:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/manhunt-launched-after-monaco-blast-targets-ukrainian-born-oligarch",
+      "published_date": "2026-06-30T18:36:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron hosts Oman sultan for talks on toll-free reopening of Strait of Hormuz",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260629-macron-hosts-oman-sultan-for-talks-on-toll-free-reopening-of-strait-of-hormuz",
-      "published_date": "2026-06-29T06:04:05+00:00",
-      "category": "Diplomacy"
+      "title": "Crimea back in play? Russia feels pain of Ukraine long-range strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260630-crimea-back-in-play-russia-feels-pain-of-ukraine-long-range-strikes",
+      "published_date": "2026-06-30T18:12:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "French government under fire as hospitals face excess heatwave deaths",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260628-french-government-under-fire-as-hospitals-face-excess-heatwave-deaths",
-      "published_date": "2026-06-28T14:16:28+00:00",
-      "category": "Diplomacy"
+      "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T16:12:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘British food will disappear’: trade deal after Brexit is hitting UK farmers hard",
+      "title": "‘He isn’t political’: the Ukrainian-born oligarch targeted by a Monaco bomber",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/28/british-food-trade-deal-brexit-hitting-uk-farmers-hard",
-      "published_date": "2026-06-28T11:00:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jun/30/vadym-iermolaiev-ukrainian-born-oligarch-monaco-bomber",
+      "published_date": "2026-06-30T15:00:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Monaco bombing was ‘attempted assassination’, not terror attack, say prosecutors – Europe live",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine strikes another Russian oil refinery as Putin admits fuel shortages",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260629-ukraine-strikes-another-russian-oil-refinery-as-putin-admits-fuel-shortages",
-      "published_date": "2026-06-29T12:10:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe’s heatwave forces Ukraine power cuts, sets Slovakia record as it moves east",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260629-europe-s-deadly-heatwave-scorches-east-slovakia-hits-record",
-      "published_date": "2026-06-29T10:29:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A Ukrainian military school graduation ceremony – photo essay",
+      "title": "‘But we’re just 1% of emissions’: do smaller countries’ climate efforts matter?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/29/ukraine-military-school-graduation-ceremony-photo-essay",
-      "published_date": "2026-06-29T06:00:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fragments of Ice review – fascinating chronicle of Soviet collapse through the lens of a Ukrainian ice skater",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/29/fragments-of-ice-review-fascinating-chronicle-of-soviet-collapse-through-the-lens-of-a-ukrainian-ice-skater",
-      "published_date": "2026-06-29T06:00:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran attacks Bahrain and Kuwait, threatens to halt talks after fresh US strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260628-iran-threatens-to-halt-talks-after-fresh-us-strikes-attacks-bahrain-and-kuwait",
-      "published_date": "2026-06-28T22:47:20+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jun/30/emissions-do-smaller-countries-climate-efforts-matter",
+      "published_date": "2026-06-30T15:53:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Reader Q&A live: we answer your questions about Europe’s hellish week of heat",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "France heatwave overwhelms hospitals and forces Pride march delay",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260626-france-heatwave-overwhelms-hospitals-and-forces-pride-march-delay",
-      "published_date": "2026-06-26T10:11:37+00:00",
-      "category": "Energy"
+      "title": "'Putin doesn't care about Russians' quality of life', expert says as pessimism reaches 20-yr high",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/putin-doesn-t-care-about-russians-quality-of-life-expert-says-as-pessimism-reaches-20-yr-high",
+      "published_date": "2026-06-30T19:59:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK government likely to challenge Paramount takeover of Warner Bros. Discovery",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260630-uk-government-likely-to-challenge-paramount-takeover-of-warner-bros-discovery",
+      "published_date": "2026-06-30T19:53:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'Very likely for an African team to be in this World Cup final', expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/very-likely-for-an-african-team-to-be-in-this-world-cup-final-expert-says",
+      "published_date": "2026-06-30T19:01:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US Supreme Court lifts campaign spending restrictions ahead of midterms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-supreme-court-lifts-campaign-spending-restrictions-ahead-of-midterms",
+      "published_date": "2026-06-30T18:21:23+00:00",
+      "category": "Economy"
     },
     {
       "title": "French heatwave threatens food inflation as agriculture sector suffers",
@@ -536,32 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "#Kenya marks second anniversary of deadly 2024 #protests",
+      "title": "South Africa's anti-migrant protesters march nationwide, after thousands flee violence",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260625-kenya-marks-second-anniversary-of-deadly-2024-protests",
-      "published_date": "2026-06-25T16:19:30+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/south-africa-s-anti-migrant-protesters-march-nationwide-after-thousands-flee-violence-1",
+      "published_date": "2026-06-30T21:19:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bouge Ta Pref: The campaigners fighting préfecture delays for foreigners in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260625/bouge-ta-pref-the-campaigners-fighting-prefecture-delays-for-foreigners-in-france",
-      "published_date": "2026-06-25T14:30:26+00:00",
-      "category": "Economy"
+      "title": "Firefighters struggle to contain deadly Greek wildfire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T20:25:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Is rejoining the EU inevitable?’ - Rafael Behr answered your questions on Brexit and more",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/community/live/2026/jun/23/reader-qa-ask-rafael-behr-your-questions-now",
-      "published_date": "2026-06-23T18:02:23+00:00",
-      "category": "Economy"
+      "title": "Thousands march in South Africa demanding departure of undocumented foreigners",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/thousands-march-in-south-africa-demanding-departure-of-undocumented-foreigners",
+      "published_date": "2026-06-30T20:20:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Assault on facts and truth led to Brexit | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/assault-on-facts-and-truth-led-to-brexit",
-      "published_date": "2026-06-23T16:05:02+00:00",
-      "category": "Economy"
+      "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T19:19:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026: Haaland's late winner sends Norway past resilient Ivory Coast",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260630-world-cup-2026-haaland-s-late-winner-sends-norway-past-resilient-ivory-coast-1",
+      "published_date": "2026-06-30T19:06:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 1 million migrants apply for Spain's mass regularisation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/more-than-1-million-migrants-apply-for-spain-s-mass-regularisation",
+      "published_date": "2026-06-30T18:28:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court rejects Trump bid to limit birthright citizenship",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-supreme-court-rejects-trump-bid-to-limit-birthright-citizenship",
+      "published_date": "2026-06-30T18:11:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa braces for violence as anti-migrant marches reach boiling point",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260630-south-africa-braces-for-voilence-as-anti-migrant-marches-reach-boiling-point",
+      "published_date": "2026-06-30T14:20:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "One million migrants in Spain apply to regularise status in new scheme",
@@ -645,62 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/jun/30/how-i-survived-record-paris-heatwave-while-seven-months-pregnant",
       "published_date": "2026-06-30T07:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why a surge in sexually transmitted infections in Europe should worry everybody | Peter Beyer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jun/30/sexually-transmitted-infections-europe-world-drug-resistant-bacteria-amr",
-      "published_date": "2026-06-30T06:00:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Volvic to appeal after French court rules green claims were misleading",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260630-volvic-to-appeal-after-french-court-rules-green-claims-were-misleading",
-      "published_date": "2026-06-30T05:57:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru president-elect Fujimori vows 'order and hope' after narrow election victory",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260629-peru-keiko-fujimori-election-victory",
-      "published_date": "2026-06-29T22:04:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa's anti-migrant deadline looms",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/south-africa-s-anti-migrant-deadline-looms",
-      "published_date": "2026-06-29T20:23:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six adults killed in shooting at youth welfare facility in Stade, Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/29/shooter-kills-adults-stade-youth-welfare-facility-germany",
-      "published_date": "2026-06-29T18:03:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French govt under fire over heatwave response",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260629-french-govt-under-fire-over-heatwave-response",
-      "published_date": "2026-06-29T17:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court expands Trump's power to fire officials, but protects Fed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260629-us-supreme-court-expands-trump-s-power-to-fire-officials-but-protects-fed",
-      "published_date": "2026-06-29T16:42:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa: Thousands of foreigners flee ahead of anti-immigration 'deadline'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260629-south-africa-thousands-of-foreigners-flee-ahead-of-anti-immigration-deadline",
-      "published_date": "2026-06-29T16:27:08+00:00",
       "category": "Local Events"
     }
   ]
