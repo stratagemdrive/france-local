@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-07-01T00:03:01.385800+00:00",
+  "last_updated": "2026-07-01T13:31:48.607007+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ireland set to take presidency of EU in Dublin opening ceremony – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live",
+      "published_date": "2026-07-01T13:24:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Myriad of French presidential candidates to face off in late April election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/myriad-of-french-presidential-candidates-to-face-off-in-late-april-election",
+      "published_date": "2026-07-01T12:50:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Most spectacular own goal in history’: new EU rules threaten to shut out UK car manufacturers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry",
+      "published_date": "2026-07-01T12:50:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fears of Catholic schism as defiant sect ordains ultra-conservative bishops",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/01/fears-catholic-schism-sect-ordains-ultra-conservative-bishops-pope-leo",
+      "published_date": "2026-07-01T12:08:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World's oceans break June heat record, says EU monitor",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/world-s-oceans-break-june-heat-record-says-eu-monitor",
+      "published_date": "2026-07-01T10:01:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues",
+      "published_date": "2026-07-01T08:08:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ireland takes over EU presidency with French naval help on security",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260701-ireland-takes-over-eu-presidency-with-french-naval-help-on-security",
+      "published_date": "2026-07-01T06:09:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Meloni has hit back hard against Trump and his ‘made up’ photo claim | Riccardo Alcaro",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/01/why-meloni-has-hit-back-hard-against-trump-and-his-made-up-photo-claim",
+      "published_date": "2026-07-01T04:00:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France sets presidential election date as Macron finishes final term",
       "source": "France 24",
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What you should expect when the EU's small parcel fee kicks in on July 1st",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260630/what-you-should-expect-when-eu-small-parcel-fee-kicks-in-on-july-1st",
-      "published_date": "2026-06-30T07:02:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron reappears wearing viral aviator sunglasses",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260630/macron-reappears-wearing-viral-aviator-sunglasses",
-      "published_date": "2026-06-30T06:12:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ireland is big tech’s lapdog – and that compromises its EU presidency | Johnny Ryan",
+      "title": "Businessman accused of ordering Daphne Caruana Galizia murder stands trial in Malta",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/ireland-big-tech-lapdog-eu-presidency-digital-sovereignty",
-      "published_date": "2026-06-30T04:00:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/01/daphne-caruana-galizia-murder-yorgen-fenech-trial-malta",
+      "published_date": "2026-07-01T13:18:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says Iran requested Doha meeting as Tehran denies direct US talks",
+      "title": "Trump accused of conflict of interest between his personal wealth and national security",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260629-trump-iran-doha-tehran-us-talks-hormuz-lebanon",
-      "published_date": "2026-06-29T23:46:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/trump-accused-of-conflict-of-interest-between-his-personal-wealth-and-national-security",
+      "published_date": "2026-07-01T13:13:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU sets up three months of talks with China over €360bn trade deficit",
+      "title": "How has US President Donald Trump made over $1 billion in 2025?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/how-has-us-president-donald-trump-made-over-1-billion-in-2025",
+      "published_date": "2026-07-01T13:00:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Despite agreement with Israel, situation in Lebanon remains unchanged",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/despite-agreement-with-israel-situation-in-lebanon-remains-unchanged",
+      "published_date": "2026-07-01T12:46:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Andy Burnham is about to have a crash course in hardcore geopolitics | Rafael Behr",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
-      "published_date": "2026-06-29T18:33:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What aftermath for Venezuela? Earthquake relief hampered by political crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260629-what-aftermath-for-venezuela-earthquake-relief-hampered-by-political-crisis",
-      "published_date": "2026-06-29T18:14:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pragmatic diplomacy: Dawud Al Ansari says 'Oman is committed to de-escalation & peace in the region'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260629-dawud-al-ansari-says-oman-committed-to-de-escalation-and-peace-in-the-region-at-any-cost",
-      "published_date": "2026-06-29T17:21:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU refuses to take side for or against air conditioning amid record-breaking heatwave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260629-eu-refuses-to-take-side-for-or-against-air-conditioning-amid-record-breaking-heatwave",
-      "published_date": "2026-06-29T14:46:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/01/andy-burnham-crash-course-hardcore-geopolitics-foreign-policy",
+      "published_date": "2026-07-01T08:00:30+00:00",
+      "category": "Military"
     },
     {
       "title": "US envoys met with mediators in Qatar, talks with Iran up in the air",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Uganda's army chief orders shutdown of country's biggest media group",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260629-uganda-s-army-chief-orders-shutdown-of-country-s-biggest-media-group",
-      "published_date": "2026-06-29T15:54:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five people killed in shooting in northern Germany, police say – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates",
-      "published_date": "2026-06-29T14:28:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "All warring parties in Mali committed 'grave abuses' against civilians, report says",
+      "title": "Climate change 'hitting the world with a vengeance: Higher temperatures for longer periods of time'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260629-all-warring-parties-in-mali-committed-grave-abuses-against-civilians-report-says",
-      "published_date": "2026-06-29T14:16:34+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260701-climate-change-hitting-the-world-with-a-vengeance-higher-temperatures-for-longer-periods-of-time",
+      "published_date": "2026-07-01T13:15:28+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel formally recognises Armenian genocide in rebuke to Turkey",
+      "title": "World's oceans record hottest June ever as new El Nino takes hold",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260629-israel-formally-recognises-armenian-genocide-in-rebuke-to-turkey",
-      "published_date": "2026-06-29T13:58:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria slams new Israeli incursion in southern Daraa province",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260629-syria-slams-new-israeli-incursion-in-southern-daraa-province",
-      "published_date": "2026-06-29T13:48:20+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/environment/20260701-world-s-oceans-record-hottest-june-ever-as-new-el-nino-takes-hold",
+      "published_date": "2026-07-01T07:31:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘But we’re just 1% of emissions’: do smaller countries’ climate efforts matter?",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "France pledges €130m to cool schools",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260626/france-pledges-e130m-to-cool-schools",
-      "published_date": "2026-06-26T12:40:22+00:00",
-      "category": "Energy"
+      "title": "‘There will have to be a reckoning’: Venezuela’s natural disaster meets a collapsing infrastructure",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260701-there-will-have-to-be-a-reckoning-venezuela-s-natural-disaster-meets-a-collapsing-infrastructure",
+      "published_date": "2026-07-01T11:37:51+00:00",
+      "category": "Economy"
     },
     {
-      "title": "TotalEnergies ordered to account for client emissions in landmark climate ruling",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260626-totalenergies-ordered-to-account-for-client-emissions-in-landmark-climate-ruling",
-      "published_date": "2026-06-26T10:25:54+00:00",
-      "category": "Energy"
+      "title": "Moving to France: Digital nomads, inheritance tax and air conditioning",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260701/moving-to-france-digital-nomads-inheritance-tax-and-air-conditioning",
+      "published_date": "2026-07-01T06:41:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "'Putin doesn't care about Russians' quality of life', expert says as pessimism reaches 20-yr high",
@@ -550,18 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Climate change to blame as heatwave hits Europe's economies",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260626/climate-change-to-blame-as-heatwave-hits-europes-economies",
-      "published_date": "2026-06-26T08:44:21+00:00",
-      "category": "Economy"
+      "title": "FRANCE 24 meets families desperately searching for Venezuela earthquake missing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260701-france-24-meets-families-desperately-searching-for-venezuela-earthquake-missing",
+      "published_date": "2026-07-01T13:27:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
+      "title": "The world's top cities to live in, according to Monocle magazine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/the-world-s-top-cities-to-live-in-according-to-monocle-magazine",
+      "published_date": "2026-07-01T13:16:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Paris became a nexus for Black culture",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth",
-      "published_date": "2026-06-26T05:00:08+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/news/2026/jul/01/paris-nexus-black-culture-diaspora-the-long-wave",
+      "published_date": "2026-07-01T13:13:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire at Antwerp apartment block kills at least six",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-01T13:10:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salzburg bans tourists from driving into historic centre over summer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/01/salzburg-bans-tourists-driving-old-town-austria-traffic",
+      "published_date": "2026-07-01T12:26:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tour de France 1966: ‘No longer a jaunt in knickerbockers from Paris to Nice’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/jul/01/tour-de-france-1966-no-longer-jaunt-in-knickerbockers",
+      "published_date": "2026-07-01T11:00:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How barbers help Kenya's largest mental health hospital, one haircut at a time",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/how-barbers-help-kenya-s-largest-mental-health-hospital-one-haircut-at-a-time",
+      "published_date": "2026-07-01T10:54:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands march in South Africa demanding illegal migrants leave",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/thousands-march-in-south-africa-demanding-illegal-migrants-leave",
+      "published_date": "2026-07-01T10:51:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We’ve lost so many’: Venezuelans search for loved ones under quake rubble",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260701-we-lost-so-many-venezuelans-search-for-loved-ones-under-quake-rubble-la-guaira",
+      "published_date": "2026-07-01T10:19:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mbappe 'unstoppable' against Sweden as he becomes tournament's joint top-scorer",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mbappe-unstoppable-against-sweden-as-he-becomes-tournament-s-joint-top-scorer",
+      "published_date": "2026-07-01T10:12:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump made over $1 billion thanks to crypto in 2025",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260701-trump-made-over-1-billion-thanks-to-crypto-in-2025",
+      "published_date": "2026-07-01T09:34:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa protesters confront migrant homes during nationwide marches",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260701-south-africa-protesters-confront-migrant-homes-during-nationwide-marches",
+      "published_date": "2026-07-01T08:56:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "South Africa's anti-migrant protesters march nationwide, after thousands flee violence",
@@ -617,90 +701,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20260630-south-africa-braces-for-voilence-as-anti-migrant-marches-reach-boiling-point",
       "published_date": "2026-06-30T14:20:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One million migrants in Spain apply to regularise status in new scheme",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/30/million-migrants-spain-apply-regularise-status-new-scheme",
-      "published_date": "2026-06-30T12:43:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explained: Would Le Pen legal loss make a far-right victory in France less likely?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260630/explained-would-le-pen-legal-loss-make-a-far-right-victory-in-france-less-likely",
-      "published_date": "2026-06-30T12:41:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elon Musk promotes ‘anti-migrant’ Armie Hammer film with free download on X",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/30/elon-musk-anti-migrant-armie-hammer-film-free-download-citizen-vigilante",
-      "published_date": "2026-06-30T11:41:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Monaco bombing suspect flees to France as police probe attempted murder",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260630-monaco-bomb-suspect-flees-to-france-as-police-probe-attempted-murder",
-      "published_date": "2026-06-30T10:53:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Monaco blast wounds several with Ukrainian oligarch the believed target",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260630-monaco-blast-wounds-several-with-ukrainian-oligarch-the-believed-target",
-      "published_date": "2026-06-30T10:27:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain's undocumented migrant amnesty scheme draws more than a million applicants",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260630-spain-more-than-one-million-undocumented-migrants-apply-for-amnesty-scheme",
-      "published_date": "2026-06-30T10:21:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court to rule on Trump's bid to roll back birthright citizenship",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260630-supreme-court-to-rule-on-trump-s-bid-to-roll-back-birthright-citizenship",
-      "published_date": "2026-06-30T10:18:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French justice system to re-examine 88,000 child abuse claims",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260630-french-justice-system-to-re-examine-88-000-child-abuse-claims",
-      "published_date": "2026-06-30T10:02:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa deploys police, foreigners brace for violence as anti-immigrant protests begin",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260630-south-africa-deploys-police-foreigners-brace-for-violence-as-anti-immigrant-protests-begin",
-      "published_date": "2026-06-30T09:47:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Final dash for documents as Spain triggers largest migrant amnesty in European history",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260630-final-dash-for-documents-as-spain-triggers-largest-migrant-amnesty-in-european-history",
-      "published_date": "2026-06-30T09:46:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden face France's attacking firepower at the World Cup",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260630-sweden-face-france-s-attacking-firepower-at-the-world-cup",
-      "published_date": "2026-06-30T07:18:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How I survived the record Paris heatwave while seven months pregnant",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/30/how-i-survived-record-paris-heatwave-while-seven-months-pregnant",
-      "published_date": "2026-06-30T07:00:42+00:00",
       "category": "Local Events"
     }
   ]
