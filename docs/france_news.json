@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-07-01T13:31:48.607007+00:00",
+  "last_updated": "2026-07-02T00:03:59.988257+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US-Iran Qatar talks show progress, Trump says, as both sides set up hotline",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260701-us-iran-doha-talks-end-without-breakthrough-strait-of-hormuz",
+      "published_date": "2026-07-01T21:33:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Raids in Europe over alleged far-right embezzlement: EU prosecutors",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/raids-in-europe-over-alleged-far-right-embezzlement-eu-prosecutors",
+      "published_date": "2026-07-01T19:16:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Albania warned EU accession at risk over Jared Kushner-backed resort plans",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/01/albania-warned-eu-accession-at-risk-jared-kushner-resort-plans",
+      "published_date": "2026-07-01T18:19:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is France betting on Oman amid the Hormuz crisis?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260701-why-france-betting-oman-amid-hormuz-crisis-iran",
+      "published_date": "2026-07-01T17:06:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ireland set to take presidency of EU in Dublin opening ceremony – Europe live",
       "source": "The Guardian",
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Discover the winners of FRANCE 24's video competition on EU cohesion policy",
+      "title": "Fire breaks out in central Kyiv after explosion during air raid",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260630-discover-the-winners-of-france-24-s-video-competition-on-eu-cohesion-policy",
-      "published_date": "2026-06-30T09:45:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert",
+      "published_date": "2026-07-01T21:41:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "What's on the agenda at the next EU-UK summit... if it takes place?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260630/whats-on-the-agenda-at-the-next-eu-uk-summit-if-it-takes-place",
-      "published_date": "2026-06-30T09:33:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Discover the winners of FRANCE 24's video competition on fighting fake news",
+      "title": "'Everybody's profiting': Trump defends $1.4 bn crypto earnings",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260630-discover-the-winners-of-france-24-s-video-competition-on-fighting-fake-news",
-      "published_date": "2026-06-30T09:26:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/everybody-s-profiting-trump-defends-1-4-bn-crypto-earnings",
+      "published_date": "2026-07-01T18:47:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Europe and US on collision course over next high representative for Bosnia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/30/europe-us-high-representative-for-bosnia",
-      "published_date": "2026-06-30T08:13:02+00:00",
-      "category": "Diplomacy"
+      "title": "Iran after Khamenei: What direction after Supreme Leader's funeral?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260701-iran-after-khamenei-what-direction-after-supreme-leader-s-funeral",
+      "published_date": "2026-07-01T18:22:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian charged in Germany over Nord Stream blasts",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-01T18:19:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PM Pashinyan warned Armenia does not wish to engage with 'weaponization' of the 1915 genocide",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260701-pm-pashinyas-warned-armenia-does-not-wish-to-engage-with-weaponization-of-the-1915-genocide",
+      "published_date": "2026-07-01T15:58:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Amid war on Ukraine, 'over half of Russians expressing pessimism for the first time in 20 years'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/amid-war-on-ukraine-over-half-of-russians-expressing-pessimism-for-the-first-time-in-20-years",
+      "published_date": "2026-07-01T15:26:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Businessman goes on trial for murder of Maltese anti-corruption journalist Daphne Caruana Galizia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260701-businessman-goes-on-trial-for-ordering-murder-of-maltese-anti-corruption-journalist",
+      "published_date": "2026-07-01T15:07:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Businessman accused of ordering Daphne Caruana Galizia murder stands trial in Malta",
@@ -162,6 +211,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/how-has-us-president-donald-trump-made-over-1-billion-in-2025",
       "published_date": "2026-07-01T13:00:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali's war on civilians deepens as alliances shift, HRW says",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260701-human-rights-watch-reports-grave-abuses-from-all-sides-in-mali-since-april-attacks",
+      "published_date": "2026-07-01T12:58:36+00:00",
       "category": "Military"
     },
     {
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Uganda dissidents on trial as president’s son tightens control",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260630-uganda-dissidents-on-trial-as-president-s-son-increases-his-grip-on-freedoms",
-      "published_date": "2026-06-30T11:18:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Iran meeting set in Qatar despite Tehran's denials",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260630-trump-says-iran-meeting-set-in-qatar-despite-tehran-s-denials",
-      "published_date": "2026-06-30T10:43:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Monaco in shock after parcel bomb injures Ukrainian-born business leader",
+      "title": "How extreme heat is exposing extreme inequality",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/30/monaco-parcel-bomb-blast-ukrainian-oligarch",
-      "published_date": "2026-06-30T09:39:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Amid war in Ukraine, the fleeting moments of despair and salvation I witness are what truly tell the story | Charlotte Higgins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/wartime-ukraine-reporting-front-line",
-      "published_date": "2026-06-30T07:00:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Monaco explosion injures three and triggers police hunt",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/29/monaco-explosion-injuries-triggers-police-hunt",
-      "published_date": "2026-06-29T22:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Architecture, city design a frontline of defense' against heatwaves, expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260629-architecture-city-design-a-frontline-of-defense-against-heatwaves-expert-says",
-      "published_date": "2026-06-29T21:32:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Strait of Hormuz: 'Iran has made it very clear that there are new rules', analyst says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/strait-of-hormuz-iran-has-made-it-very-clear-that-there-are-new-rules-analyst-says",
-      "published_date": "2026-06-29T19:23:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-29T17:28:59+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/01/how-extreme-heat-is-exposing-extreme-inequality",
+      "published_date": "2026-07-01T16:30:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "Climate change 'hitting the world with a vengeance: Higher temperatures for longer periods of time'",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "‘Fork in the road’: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs",
+      "title": "World Cup 2026: Belgium stun Senegal with dramatic comeback and penalty heartbreak",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260701-world-cup-2026-belgium-stun-senegal-with-dramatic-comeback-and-penalty-heartbreak",
+      "published_date": "2026-07-01T22:56:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why Anthropic's most powerful AI models are back online",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/why-anthropic-s-most-powerful-ai-models-are-back-online",
+      "published_date": "2026-07-01T17:20:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "At least 3.3m people were victims of Dutch enslavement, research claims",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/26/ceo-amazon-backed-rivian-carmakers-evs",
-      "published_date": "2026-06-26T14:00:14+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/news/2026/jul/01/dutch-enslavement-slavery-figure-research",
+      "published_date": "2026-07-01T15:34:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Who is Ukrainian oligarch Vadym Yermolaiev, the suspected target of the Monaco bombing?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260701-who-is-ukrainian-oligarch-vadym-yermolaiev-the-suspected-target-of-the-monaco-bombing",
+      "published_date": "2026-07-01T14:19:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "‘There will have to be a reckoning’: Venezuela’s natural disaster meets a collapsing infrastructure",
@@ -536,32 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Brexit Britain and the roots of its discontent | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/26/brexit-britain-and-the-roots-of-its-discontent",
-      "published_date": "2026-06-26T16:11:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "VivaTech 2026: Space race hits new heights with reusable technology",
+      "title": "Fact-checking Donald Trump's birthright citizenship claims",
       "source": "France 24",
-      "url": "https://www.france24.com/en/vivatech-2026-space-race-hits-new-heights-with-reusable-technology",
-      "published_date": "2026-06-26T13:51:51+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/fact-checking-donald-trump-s-birthright-citizenship-claims",
+      "published_date": "2026-07-01T19:53:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Kushner-backed luxury resort sparks outrage, dividing Albanian population",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260626-kushner-backed-luxury-resort-sparks-outrage-dividing-albanian-population",
-      "published_date": "2026-06-26T13:17:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "VW plans to cut up to 10,000 jobs and shut plants, report says",
+      "title": "Man guilty of attempting to murder three children in attack that triggered Dublin riot",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/26/vw-cut-jobs-shut-plants-volkswagen-china",
-      "published_date": "2026-06-26T10:47:16+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jul/01/man-who-stabbed-three-children-that-triggered-riots-in-dublin-found-guilty-of-attempted",
+      "published_date": "2026-07-01T18:27:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kane strikes twice to break DRC and fire England into last-16 against Mexico",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260701-kane-strikes-twice-to-break-drc-and-fire-england-into-last-16-against-mexico-world-cup-2026",
+      "published_date": "2026-07-01T18:15:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "FRANCE 24 meets families desperately searching for Venezuela earthquake missing",
@@ -680,27 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/sport/20260630-world-cup-2026-haaland-s-late-winner-sends-norway-past-resilient-ivory-coast-1",
       "published_date": "2026-06-30T19:06:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 1 million migrants apply for Spain's mass regularisation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/more-than-1-million-migrants-apply-for-spain-s-mass-regularisation",
-      "published_date": "2026-06-30T18:28:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court rejects Trump bid to limit birthright citizenship",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-supreme-court-rejects-trump-bid-to-limit-birthright-citizenship",
-      "published_date": "2026-06-30T18:11:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa braces for violence as anti-migrant marches reach boiling point",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260630-south-africa-braces-for-voilence-as-anti-migrant-marches-reach-boiling-point",
-      "published_date": "2026-06-30T14:20:56+00:00",
       "category": "Local Events"
     }
   ]
