@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-07-02T12:54:08.209171+00:00",
+  "last_updated": "2026-07-03T00:03:00.563283+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US shows ‘increasingly blatant’ bias over DRC peace deal, says Rwandan minister",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260702-us-shows-increasingly-blatant-bias-over-drc-peace-deal-says-rwandan-fm-olivier-nduhungirehe",
+      "published_date": "2026-07-02T15:58:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France issues water safety alert after more than 90 drowning deaths",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260702-france-issues-water-safety-alert-after-more-than-90-drowning-deaths-heatwave",
+      "published_date": "2026-07-02T15:03:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Podcast: Adapting to heat, France's fitness boom, Paris Mosque at 100",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-france/20260702-podcast-climate-adaptation-heatwave-fitness-paris-mosque-algeria-france",
+      "published_date": "2026-07-02T14:30:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Google loses final appeal against EU’s record €4.1bn anti-trust fine",
       "source": "RFI English",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why Meloni has hit back hard against Trump and his ‘made up’ photo claim | Riccardo Alcaro",
+      "title": "Suspect identified in Monaco parcel bombing that wounded sanctioned Ukrainian-born oligarch",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/01/why-meloni-has-hit-back-hard-against-trump-and-his-made-up-photo-claim",
-      "published_date": "2026-07-01T04:00:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch",
+      "published_date": "2026-07-02T23:52:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "France sets presidential election date as Macron finishes final term",
+      "title": "'Iranians succeeded in making Strait of Hormuz primary issue rather than their nuclear programme'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260630-france-sets-presidential-election-date-as-macron-finishes-final-term",
-      "published_date": "2026-06-30T22:09:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/iranians-have-succeeded-in-making-the-strait-of-hormuz-the-primary-issue-rather-than-their-nuclear-programme",
+      "published_date": "2026-07-02T23:19:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "US and European diplomats continue standoff over top Bosnia and Herzegovina post",
+      "title": "Israelis join protests and memorials to mark 1,000 days since October 7 Hamas attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260702-israelis-join-protests-and-memorials-to-mark-1-000-days-since-october-7-hamas-attack",
+      "published_date": "2026-07-02T19:31:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia massive attack: 'West simply doesn't have enough interceptors', military expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-massive-attack-west-simply-doesn-t-have-enough-interceptors-military-expert-says",
+      "published_date": "2026-07-02T19:30:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'A clear sense in Israel that Israel hasn't won anything'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/a-clear-sense-in-israel-that-israel-hasn-t-won-anything",
+      "published_date": "2026-07-02T18:41:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine will retaliate for Russian attack on Kyiv: Zelensky",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-will-retaliate-for-russian-attack-on-kyiv-zelensky",
+      "published_date": "2026-07-02T18:12:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Unprecedented images show how Russia is using drones from the war in Ukraine in Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260702-unprecedented-images-russia-using-drones-war-ukraine-africa",
+      "published_date": "2026-07-02T16:17:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gazans take stock of the war 1,000 days after its start",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/gazans-take-stock-of-the-war-1-000-days-after-its-start",
+      "published_date": "2026-07-02T15:02:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German prosecutors accuse Kyiv of ordering 2022 Nord Stream sabotage",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/30/eu-diplomats-clash-with-trump-administration-over-top-bosnia-and-herzegovina-post",
-      "published_date": "2026-06-30T21:26:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/02/german-prosecutors-accuse-kyiv-of-ordering-2022-nord-stream-sabotage",
+      "published_date": "2026-07-02T14:15:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine's attacks forcing 'Russians to realise the war is really happening'",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "🔴 Ukraine live: Russian missiles, drones kill residents, rip buildings in massive attack on Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260702-ukraine-live-russian-missiles-drones-kill-massive-attack-kyiv-war",
-      "published_date": "2026-07-02T07:59:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: More than 2 million military casualties caused by Russia’s invasion, study finds",
+      "title": "Donald Trump is the accidental hero of a real-life feelgood climate tale even as a creeping horror story plays alongside | Clear Air",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/02/ukraine-war-briefing-more-than-2-million-military-casualties-caused-by-russias-invasion-study-finds",
-      "published_date": "2026-07-02T03:12:47+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/03/donald-trump-strait-of-hormuz-climate-crisis-europe-heatwave",
+      "published_date": "2026-07-02T15:00:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Fire breaks out in central Kyiv after explosion during air raid",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert",
-      "published_date": "2026-07-01T21:41:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Everybody's profiting': Trump defends $1.4 bn crypto earnings",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/everybody-s-profiting-trump-defends-1-4-bn-crypto-earnings",
-      "published_date": "2026-07-01T18:47:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran after Khamenei: What direction after Supreme Leader's funeral?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260701-iran-after-khamenei-what-direction-after-supreme-leader-s-funeral",
-      "published_date": "2026-07-01T18:22:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian charged in Germany over Nord Stream blasts",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T18:19:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PM Pashinyan warned Armenia does not wish to engage with 'weaponization' of the 1915 genocide",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260701-pm-pashinyas-warned-armenia-does-not-wish-to-engage-with-weaponization-of-the-1915-genocide",
-      "published_date": "2026-07-01T15:58:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Amid war on Ukraine, 'over half of Russians expressing pessimism for the first time in 20 years'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/amid-war-on-ukraine-over-half-of-russians-expressing-pessimism-for-the-first-time-in-20-years",
-      "published_date": "2026-07-01T15:26:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Businessman goes on trial for murder of Maltese anti-corruption journalist Daphne Caruana Galizia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260701-businessman-goes-on-trial-for-ordering-murder-of-maltese-anti-corruption-journalist",
-      "published_date": "2026-07-01T15:07:52+00:00",
-      "category": "Military"
+      "title": "Wildfires spread across southern France, as heatwave reignites forest concerns",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260702-wildfires-spread-across-southern-france-as-heatwave-reignites-forest-concerns",
+      "published_date": "2026-07-02T13:36:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Voyage to the end of the world: floating lab to explore life in Arctic adrift in ice",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Fourth toddler dies in France as Europe’s brutal heatwave forecast to shift east",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress",
-      "published_date": "2026-06-26T17:04:30+00:00",
-      "category": "Energy"
+      "title": "German reforms, Google's final defeat, and a $20M Swift wedding?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260702-german-reforms-google-s-final-defeat-and-a-20m-swift-wedding",
+      "published_date": "2026-07-02T21:38:17+00:00",
+      "category": "Economy"
     },
     {
-      "title": "'Living in a warming world requires practical solutions that save lives, don't harm our environment'",
+      "title": "Andy Burnham outlines his vision for UK economy with promise to raise living standards",
       "source": "France 24",
-      "url": "https://www.france24.com/en/living-in-a-warming-world-requires-practical-solutions-that-save-lives-don-t-harm-our-environment",
-      "published_date": "2026-06-26T16:49:56+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/people-profit/20260702-andy-burnham-outlines-his-vision-for-uk-economy-with-promise-to-raise-living-standards",
+      "published_date": "2026-07-02T15:17:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘I don’t just watch climate change happening’: the young Swedes being paid to make a difference",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/02/climate-change-yps-sweden-young-planetary-stewards-green-project-jobs",
+      "published_date": "2026-07-02T15:14:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "World Cup rewind: Kane carries England to round of 16 in match against DR Congo",
@@ -508,6 +529,13 @@
       "category": "Economy"
     },
     {
+      "title": "EU halves duty-free steel quota but UK and other partners given better rate",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/30/eu-duty-free-steel-quota-uk-rate-brexit",
+      "published_date": "2026-06-30T14:46:43+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "French heatwave threatens food inflation as agriculture sector suffers",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/business/20260630-french-heatwave-threatens-food-inflation-as-agriculture-sector-suffers",
@@ -536,32 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "EU introduces €3 customs charge on small parcels to curb cheap Chinese imports",
+      "title": "DR Congo Ebola outbreak tops 400 deaths as virus reaches major city",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260702-dr-congo-ebola-outbreak-tops-400-deaths-as-virus-reaches-major-city",
+      "published_date": "2026-07-02T21:51:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Algerians vote in parliamentary elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/algerians-vote-in-parliamentary-elections",
+      "published_date": "2026-07-02T20:23:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austria-Algeria draw sparks World Cup match fixing allegations online",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/austria-algeria-draw-sparks-world-cup-match-fixing-allegations-online",
+      "published_date": "2026-07-02T19:54:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds besiege French supermarkets in scramble to find air conditioners before next heatwave",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/hundreds-besiege-french-supermarkets-in-scramble-to-find-air-conditioners-before-next-heatwave",
+      "published_date": "2026-07-02T19:32:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man accused of ordering Daphne Caruana Galizia murder paid hitmen’s legal fees, court hears",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/29/eu-introduces-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports",
-      "published_date": "2026-06-29T11:40:09+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jul/02/man-accused-of-ordering-daphne-caruana-galizia-murder-paid-hitmens-legal-fees-court-hears",
+      "published_date": "2026-07-02T17:21:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "China, EU commerce ministers meet amid widening trade imbalance",
+      "title": "‘Truly international’ network of drug-facilitated rape uncovered by UK crime agency",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jul/02/international-network-drug-facilitated-rape-uncovered-by-uk-crime-agency",
+      "published_date": "2026-07-02T17:05:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris des Arts: Special edition in Fez, Morocco",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260629-china-eu-commerce-ministers-meet-amid-widening-trade-imbalance",
-      "published_date": "2026-06-29T10:36:38+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/paris-des-arts/20260702-paris-des-arts-special-edition-in-fez-morocco",
+      "published_date": "2026-07-02T16:04:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "British historian defends artistic licence in controversial de Gaulle biopic",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260627-british-historian-defends-artistic-licence-in-controversial-de-gaulle-biopic",
-      "published_date": "2026-06-27T13:12:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "French hospitals struggle in heatwave: Emergency services strained by increased call volume",
+      "title": "New York City buzzes with expectation of Taylor Swift's rumoured July 3 wedding",
       "source": "France 24",
-      "url": "https://www.france24.com/en/french-hospitals-struggle-in-heatwave-emergency-services-strained-by-increased-call-volume",
-      "published_date": "2026-06-27T12:28:00+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/new-york-city-buzzes-with-expectation-of-taylor-swift-s-rumoured-july-3-wedding",
+      "published_date": "2026-07-02T15:09:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain and France face more heat after scorching June caused 2,000 deaths",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/02/spain-france-new-heatwave-warning",
+      "published_date": "2026-07-02T13:49:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "New York: Marriage proposal atop the Empire State Building ends in arrest",
@@ -638,69 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-01T22:13:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact-checking Donald Trump's birthright citizenship claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/fact-checking-donald-trump-s-birthright-citizenship-claims",
-      "published_date": "2026-07-01T19:53:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man guilty of attempting to murder three children in attack that triggered Dublin riot",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/01/man-who-stabbed-three-children-that-triggered-riots-in-dublin-found-guilty-of-attempted",
-      "published_date": "2026-07-01T18:27:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kane strikes twice to break DRC and fire England into last-16 against Mexico",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260701-kane-strikes-twice-to-break-drc-and-fire-england-into-last-16-against-mexico-world-cup-2026",
-      "published_date": "2026-07-01T18:15:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rosé, sparkling and non-alcoholic: The best French wines to enjoy this summer",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260701/rose-sparkling-and-non-alcoholic-the-best-french-wines-to-enjoy-this-summer",
-      "published_date": "2026-07-01T13:50:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FRANCE 24 meets families desperately searching for Venezuela earthquake missing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260701-france-24-meets-families-desperately-searching-for-venezuela-earthquake-missing",
-      "published_date": "2026-07-01T13:27:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The world's top cities to live in, according to Monocle magazine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/the-world-s-top-cities-to-live-in-according-to-monocle-magazine",
-      "published_date": "2026-07-01T13:16:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Paris became a nexus for Black culture",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/jul/01/paris-nexus-black-culture-diaspora-the-long-wave",
-      "published_date": "2026-07-01T13:13:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire at Antwerp apartment block kills at least six",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T13:10:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salzburg bans tourists from driving into historic centre over summer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/01/salzburg-bans-tourists-driving-old-town-austria-traffic",
-      "published_date": "2026-07-01T12:26:52+00:00",
       "category": "Local Events"
     }
   ]
