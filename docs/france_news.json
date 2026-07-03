@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-07-03T00:03:00.563283+00:00",
+  "last_updated": "2026-07-03T12:53:23.230689+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK-France travel: Port of Dover warns of 'repeated severe congestion' this summer",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260703/uk-france-travel-port-of-dover-warns-of-repeated-severe-congestion-this-summer",
+      "published_date": "2026-07-03T12:14:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wildfires rage in parts of France and Spain after record heatwave – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jul/03/wildfires-parts-france-spain-record-heatwave-video",
+      "published_date": "2026-07-03T11:36:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Meloni effect: Has Italy's prime minister delivered on her promises?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/reporters/20260703-the-meloni-effect-has-italy-s-prime-minister-delivered-on-her-promises",
+      "published_date": "2026-07-03T09:33:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "250 years of US independence: Why France supported American Revolutionaries",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260703-250-years-of-us-independence-why-france-chose-to-support-the-american-revolutionaries",
+      "published_date": "2026-07-03T07:08:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit",
+      "published_date": "2026-07-03T05:19:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US shows ‘increasingly blatant’ bias over DRC peace deal, says Rwandan minister",
       "source": "RFI English",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Most spectacular own goal in history’: new EU rules threaten to shut out UK car manufacturers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry",
-      "published_date": "2026-07-01T12:50:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fears of Catholic schism as defiant sect ordains ultra-conservative bishops",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/01/fears-catholic-schism-sect-ordains-ultra-conservative-bishops-pope-leo",
-      "published_date": "2026-07-01T12:08:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "World's oceans break June heat record, says EU monitor",
+      "title": "Human rights catastrophe unfolding in Sudan's al-Obeid, says UN",
       "source": "France 24",
-      "url": "https://www.france24.com/en/world-s-oceans-break-june-heat-record-says-eu-monitor",
-      "published_date": "2026-07-01T10:01:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260703-human-rights-catastrophe-unfolding-in-sudan-s-al-obeid-says-un",
+      "published_date": "2026-07-03T12:43:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues",
-      "published_date": "2026-07-01T08:08:19+00:00",
-      "category": "Diplomacy"
+      "title": "Russia faces challenges trying to jam Starlink in Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260703-ukraine-russia-faces-challenge-jamming-starlink",
+      "published_date": "2026-07-03T12:09:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ireland takes over EU presidency with French naval help on security",
+      "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T11:59:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hunt for Ukrainian woman after Monaco bomb attack targeting sanctioned tycoon",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260701-ireland-takes-over-eu-presidency-with-french-naval-help-on-security",
-      "published_date": "2026-07-01T06:09:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260703-hunt-for-ukrainian-woman-after-monaco-bomb-attack-targeting-sanctioned-tycoon",
+      "published_date": "2026-07-03T11:07:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv mourns 30 killed in Russian attack as rescuers continue search",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260703-kyiv-mourns-30-killed-in-russian-attack-as-rescuers-continue-search",
+      "published_date": "2026-07-03T09:15:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kill zones and drone nets: a journey through Ukraine’s fortress belt",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/kill-zones-drone-nets-journey-ukraine-fortress-belt",
+      "published_date": "2026-07-03T06:00:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Both sides vow to escalate fighting after Russia’s deadly Kyiv barrage",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/03/ukraine-war-briefing-both-sides-vow-to-escalate-fighting-after-russias-deadly-kyiv-barrage",
+      "published_date": "2026-07-03T05:05:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
+      "published_date": "2026-07-03T05:00:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'If Ukraine falls, this will be the end of the European Union and the end of Europe's future'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260703-if-ukraine-falls-this-will-be-the-end-of-the-european-union-and-the-end-of-europe-s-future",
+      "published_date": "2026-07-03T01:49:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Prosecutors identify suspect in Monaco parcel bombing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260703-monaco-identifies-suspect-in-parcel-bombing-prosecutors",
+      "published_date": "2026-07-03T01:43:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Suspect identified in Monaco parcel bombing that wounded sanctioned Ukrainian-born oligarch",
@@ -211,76 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/ukraine-s-attacks-forcing-russians-to-realise-the-war-is-really-happening",
       "published_date": "2026-07-02T12:52:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T12:37:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv attacks death toll rises to 20 as Russia warns it will ‘continue to increase pressure’ on Ukrainian capital – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
-      "published_date": "2026-07-02T12:31:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Most massive' Russian attack on Kyiv kills at least 18",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T11:53:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 18 dead as Russia launches massive drone and missile attack on Kyiv",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
-      "published_date": "2026-07-02T11:44:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Russia pounds Kyiv in massive drone, missile strike",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260702-ukraine-russia-pounds-kyiv-in-massive-drone-missile-strike",
-      "published_date": "2026-07-02T10:53:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv residents reel after largest Russian attack on city kills at least 13",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/kyiv-residents-reel-after-largest-russian-attack-on-city-kills-at-least-13",
-      "published_date": "2026-07-02T09:43:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Hungary to Ukraine, Europe's scorching heatwave hits east",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/from-hungary-to-ukraine-europe-s-scorching-heatwave-hits-east",
-      "published_date": "2026-07-02T09:33:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's strikes on Russian refineries highlight Kyiv's growing drone industry",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-s-strikes-on-russian-refineries-highlight-kyiv-s-growing-drone-industry",
-      "published_date": "2026-07-02T09:29:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Moscow starts feeling bite of fuel shortages as Ukraine ramps up attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/moscow-starts-feeling-bite-of-fuel-shortages-as-ukraine-ramps-up-attacks",
-      "published_date": "2026-07-02T09:24:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia ‘mounted drone surveillance of European nuclear sites over 18 months’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/02/russia-mounted-drone-surveillance-of-european-nuclear-sites-over-18-months",
-      "published_date": "2026-07-02T08:30:08+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,55 @@
       "category": "Economy"
     },
     {
+      "title": "Spain’s conservatives and far-right Vox increase ties with Andalucía coalition",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/03/spain-conservatives-pp-far-right-vox-party-andalucia-coalition-deal",
+      "published_date": "2026-07-03T11:34:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fans flock to New York ahead of rumoured Taylor Swift wedding",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260703-fans-flock-to-new-york-ahead-of-rumoured-taylor-swift-wedding",
+      "published_date": "2026-07-03T10:16:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bad Bunny mania comes to France!",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260703-bad-bunny-mania-comes-to-france",
+      "published_date": "2026-07-03T09:36:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France records 2,025 excess deaths in June heatwave",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260703-france-records-2-025-excess-deaths-in-june-heatwave",
+      "published_date": "2026-07-03T07:02:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How many more Lyhannas must there be before France takes child sexual assault seriously? | Rokhaya Diallo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/03/lyhanna-france-child-sexual-assault",
+      "published_date": "2026-07-03T04:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Race to control wildfires in southern France – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/gallery/2026/jul/03/wildfires-sweep-across-france-in-pictures",
+      "published_date": "2026-07-03T01:55:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moment huge waterspout twirls over lake in Germany",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckg8eld7pj7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T00:54:46+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "DR Congo Ebola outbreak tops 400 deaths as virus reaches major city",
       "source": "France 24",
       "url": "https://www.france24.com/en/africa/20260702-dr-congo-ebola-outbreak-tops-400-deaths-as-virus-reaches-major-city",
@@ -613,6 +662,13 @@
       "category": "Local Events"
     },
     {
+      "title": "La Belle Vie: Biting the bullet on swimming in the Seine and July activities in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260702/la-belle-vie-biting-the-bullet-on-swimming-in-the-seine-and-july-activities-in-france",
+      "published_date": "2026-07-02T15:45:08+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "New York City buzzes with expectation of Taylor Swift's rumoured July 3 wedding",
       "source": "France 24",
       "url": "https://www.france24.com/en/new-york-city-buzzes-with-expectation-of-taylor-swift-s-rumoured-july-3-wedding",
@@ -645,62 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/37-students-missing-in-nigeria-after-yet-another-jihadist-kidnapping",
       "published_date": "2026-07-02T10:58:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Important for the nation': Algerians come out to vote for new parliament",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/important-for-the-nation-algerians-come-out-to-vote-for-new-parliament",
-      "published_date": "2026-07-02T10:55:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right French mayor causes outrage after cancelling play about migrant",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/02/far-right-french-mayor-florian-azema-bans-staging-of-passeport-play-about-migrant",
-      "published_date": "2026-07-02T10:28:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French race to get hold of air conditioning as yet another heatwave looms",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260702-france-race-get-hold-of-air-conditioning-ac-third-heatwave-looms",
-      "published_date": "2026-07-02T10:25:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands return to Malawi to escape South Africa's xenophobic violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/thousands-return-to-malawi-to-escape-south-africa-s-xenophobic-violence",
-      "published_date": "2026-07-02T09:41:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "United States brace for unrelenting heatwave, with calls to stay safe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/united-states-brace-for-unrelenting-heatwave-with-calls-to-stay-safe",
-      "published_date": "2026-07-02T09:37:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Americans in France plan Independence Day events",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260702/americans-in-france-plan-independence-day-events",
-      "published_date": "2026-07-02T09:30:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Techno in a monastery – are you ready?’ The Greek priest whose doom metal album is the year’s hippest record",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jul/02/father-tabakis-greek-priest-doom-paradise-metal",
-      "published_date": "2026-07-02T04:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T22:13:03+00:00",
       "category": "Local Events"
     }
   ]
