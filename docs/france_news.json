@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-07-04T00:01:56.844672+00:00",
-  "story_count": 99,
+  "last_updated": "2026-07-04T12:03:07.574302+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Pope defends migrants on symbolic visit to key immigration hub Lampedusa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260704-pope-defends-migrants-at-mediterranean-island-frontier",
+      "published_date": "2026-07-04T06:25:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit rule change means British teens in EU face soaring student fees for UK degrees",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jul/04/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
+      "published_date": "2026-07-04T06:00:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU ‘tech sovereignty’: Uncoupling from the US and China?",
       "source": "France 24",
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Raids in Europe over alleged far-right embezzlement: EU prosecutors",
+      "title": "Zelensky denies Russian capture of key eastern city",
       "source": "France 24",
-      "url": "https://www.france24.com/en/raids-in-europe-over-alleged-far-right-embezzlement-eu-prosecutors",
-      "published_date": "2026-07-01T19:16:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/zelensky-denies-russian-capture-of-key-eastern-city",
+      "published_date": "2026-07-04T11:53:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Albania warned EU accession at risk over Jared Kushner-backed resort plans",
+      "title": "Firefighters combat blazes in northern Spain, Portugal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260704-firefighters-combat-blazes-in-northern-spain-portugal",
+      "published_date": "2026-07-04T10:32:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Insurgents attack multiple towns in northern and central Mali, army says",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260704-insurgents-attack-multiple-towns-in-northern-and-central-mali-army-says",
+      "published_date": "2026-07-04T09:34:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali insurgents attack multiple towns and a prison, army says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260704-mali-insurgents-attack-prison-and-multiple-towns-army-says",
+      "published_date": "2026-07-04T08:50:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "United States at 250: Looking beyond the founding fathers to unsung revolutionaries",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260704-united-states-at-250-looks-beyond-founding-fathers-to-hidden-revolutionaries",
+      "published_date": "2026-07-04T08:50:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "250 years of US independence: How France helped turn the tide of the Revolutionary War",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260704-250-years-of-us-independence-how-france-helped-turn-the-tide-of-the-revolutionary-war",
+      "published_date": "2026-07-04T07:26:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Germany calls reports Russian soldiers are being trained in China ‘deeply disturbing’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/01/albania-warned-eu-accession-at-risk-jared-kushner-resort-plans",
-      "published_date": "2026-07-01T18:19:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/04/ukraine-war-briefing-germany-calls-reports-russian-soldiers-are-being-trained-in-china-deeply-disturbing",
+      "published_date": "2026-07-04T02:17:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia looks to students to make up for mounting losses in Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T23:24:20+00:00",
+      "category": "Military"
     },
     {
       "title": "'Not a proxy war': Sudan civil war 'would not go on like this' without role of international players",
@@ -225,62 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260703-if-ukraine-falls-this-will-be-the-end-of-the-european-union-and-the-end-of-europe-s-future",
       "published_date": "2026-07-03T01:49:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prosecutors identify suspect in Monaco parcel bombing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260703-monaco-identifies-suspect-in-parcel-bombing-prosecutors",
-      "published_date": "2026-07-03T01:43:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suspect identified in Monaco parcel bombing that wounded sanctioned Ukrainian-born oligarch",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch",
-      "published_date": "2026-07-02T23:52:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Iranians succeeded in making Strait of Hormuz primary issue rather than their nuclear programme'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iranians-have-succeeded-in-making-the-strait-of-hormuz-the-primary-issue-rather-than-their-nuclear-programme",
-      "published_date": "2026-07-02T23:19:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israelis join protests and memorials to mark 1,000 days since October 7 Hamas attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260702-israelis-join-protests-and-memorials-to-mark-1-000-days-since-october-7-hamas-attack",
-      "published_date": "2026-07-02T19:31:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia massive attack: 'West simply doesn't have enough interceptors', military expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-massive-attack-west-simply-doesn-t-have-enough-interceptors-military-expert-says",
-      "published_date": "2026-07-02T19:30:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'A clear sense in Israel that Israel hasn't won anything'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/a-clear-sense-in-israel-that-israel-hasn-t-won-anything",
-      "published_date": "2026-07-02T18:41:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine will retaliate for Russian attack on Kyiv: Zelensky",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-will-retaliate-for-russian-attack-on-kyiv-zelensky",
-      "published_date": "2026-07-02T18:12:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Unprecedented images show how Russia is using drones from the war in Ukraine in Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260702-unprecedented-images-russia-using-drones-war-ukraine-africa",
-      "published_date": "2026-07-02T16:17:50+00:00",
       "category": "Military"
     },
     {
@@ -403,18 +403,18 @@
       "category": "Energy"
     },
     {
-      "title": "Europe heatwave live: Germany braced for temperatures ‘well over 40C’; extreme heat warnings for England",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-      "published_date": "2026-06-27T11:39:22+00:00",
-      "category": "Energy"
+      "title": "Trump hails American exceptionalism, evokes 'communist menace' at 250th celebration",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260704-trump-hails-american-exceptionalism-before-railing-at-communism-in-us-250th-celebration",
+      "published_date": "2026-07-04T06:00:15+00:00",
+      "category": "Economy"
     },
     {
-      "title": "‘A sad inevitability’: after decades of climate warnings, why is Europe so unprepared for rising heat?",
+      "title": "Fight them for the beaches: the real villain of Europe’s overtourism is big business | Adam Almeida",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat",
-      "published_date": "2026-06-27T11:00:03+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/04/fight-beaches-real-villain-europe-overtourism-big-business",
+      "published_date": "2026-07-04T04:00:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "German reforms, Google's final defeat, and a $20M Swift wedding?",
@@ -543,18 +543,53 @@
       "category": "Economy"
     },
     {
-      "title": "Paris funeral homes overwhelmed after record heatwave",
+      "title": "LATEST: Red alert for wildfires extended to six départements in France",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260629/paris-funeral-homes-overwhelmed-after-record-heatwave",
-      "published_date": "2026-06-29T15:49:51+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20260704/latest-six-departements-still-on-red-alert-for-wildfires-in-france",
+      "published_date": "2026-07-04T09:29:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'Pre-existing vulnerabilities: Venezuela already experiencing economic turmoil, displacement crisis'",
+      "title": "Pope Leo's visits to Lampedusa on July 4 'symbolic'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260629-pre-existing-vulnerabilities-venezuela-already-experiencing-economic-turmoil-displacement-crisis",
-      "published_date": "2026-06-29T12:45:50+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/pope-leo-s-visits-to-lampedusa-on-july-4-symbolic",
+      "published_date": "2026-07-04T08:43:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Foreign rescue workers help with recovering Venezuela's quake victims",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/foreign-rescue-workers-help-with-recovering-venezuela-s-quake-victims",
+      "published_date": "2026-07-04T08:41:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside France: Air conditioning and the moment of truth for Le Pen",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260704/inside-france-air-conditioning-and-the-moment-of-truth-for-le-pen",
+      "published_date": "2026-07-04T07:14:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026: Colombia secure last 16 spot with narrow victory over Ghana",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260704-world-cup-2026-colombia-secure-last-16-spot-with-narrow-victory-over-ghana",
+      "published_date": "2026-07-04T03:31:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands protest against Germany's far right as AfD party meets",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260704-thousands-protest-against-the-far-right-in-germany-as-afd-party-meets",
+      "published_date": "2026-07-04T01:37:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia–Ghana: Arias fires Cafeteros past Black Stars to reach World Cup last 16",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260704-colombia-ghana-live-last-round-of-16-spot-up-for-grabs",
+      "published_date": "2026-07-04T01:15:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "More than 400 dead in DR Congo's Ebola outbreak",
@@ -645,55 +680,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260703-fans-flock-to-new-york-ahead-of-rumoured-taylor-swift-wedding",
       "published_date": "2026-07-03T10:16:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bad Bunny mania comes to France!",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260703-bad-bunny-mania-comes-to-france",
-      "published_date": "2026-07-03T09:36:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France records 2,025 excess deaths in June heatwave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260703-france-records-2-025-excess-deaths-in-june-heatwave",
-      "published_date": "2026-07-03T07:02:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How many more Lyhannas must there be before France takes child sexual assault seriously? | Rokhaya Diallo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/03/lyhanna-france-child-sexual-assault",
-      "published_date": "2026-07-03T04:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Race to control wildfires in southern France – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/gallery/2026/jul/03/wildfires-sweep-across-france-in-pictures",
-      "published_date": "2026-07-03T01:55:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moment huge waterspout twirls over lake in Germany",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ckg8eld7pj7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-03T00:54:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DR Congo Ebola outbreak tops 400 deaths as virus reaches major city",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260702-dr-congo-ebola-outbreak-tops-400-deaths-as-virus-reaches-major-city",
-      "published_date": "2026-07-02T21:51:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Algerians vote in parliamentary elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/algerians-vote-in-parliamentary-elections",
-      "published_date": "2026-07-02T20:23:06+00:00",
       "category": "Local Events"
     }
   ]
