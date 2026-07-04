@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-07-04T12:03:07.574302+00:00",
-  "story_count": 97,
+  "last_updated": "2026-07-04T23:59:11.437419+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "‘International law is our compass’ in global conflict, UN rights chief tells RFI",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260704-international-law-is-our-compass-in-global-conflict-united-nations-rights-chief-tells-rfi-volker-turk",
+      "published_date": "2026-07-04T18:57:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pope defends migrants on symbolic visit to key immigration hub Lampedusa",
       "source": "France 24",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US-Iran Qatar talks show progress, Trump says, as both sides set up hotline",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-04T18:41:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rebel attacks in northern Mali: Some targets meant as 'diversions', expert says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260701-us-iran-doha-talks-end-without-breakthrough-strait-of-hormuz",
-      "published_date": "2026-07-01T21:33:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-says",
+      "published_date": "2026-07-04T15:44:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New wave of coordinated rebel attacks hits Mali",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali",
+      "published_date": "2026-07-04T14:39:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali government says rebels attacking northern towns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns",
+      "published_date": "2026-07-04T13:18:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo urges US and Europe to do more for migrants on 4th July anniversary",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260704-pope-leo-urges-us-and-europe-to-do-more-for-migrants-on-4th-july-anniversary",
+      "published_date": "2026-07-04T12:10:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Zelensky denies Russian capture of key eastern city",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Kill zones and drone nets: a journey through Ukraine’s fortress belt",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/kill-zones-drone-nets-journey-ukraine-fortress-belt",
-      "published_date": "2026-07-03T06:00:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Both sides vow to escalate fighting after Russia’s deadly Kyiv barrage",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/03/ukraine-war-briefing-both-sides-vow-to-escalate-fighting-after-russias-deadly-kyiv-barrage",
-      "published_date": "2026-07-03T05:05:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Bigger than football’: Norway fans’ Viking row makes waves at World Cup",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/03/norway-fans-viking-row-world-cup",
-      "published_date": "2026-07-03T05:00:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Most massive' Russian attack on Kyiv kills at least 30",
+      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-03T04:41:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'If Ukraine falls, this will be the end of the European Union and the end of Europe's future'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260703-if-ukraine-falls-this-will-be-the-end-of-the-european-union-and-the-end-of-europe-s-future",
-      "published_date": "2026-07-03T01:49:41+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-04T00:57:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "Donald Trump is the accidental hero of a real-life feelgood climate tale even as a creeping horror story plays alongside | Clear Air",
@@ -386,20 +393,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/can-solar-power-help-cuba-survive-the-us-oil-blockade",
       "published_date": "2026-06-28T08:59:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Heatwave shatters records across Europe, disrupts transport and strains hospitals",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260627-heatwave-shatters-records-across-europe-disrupts-transport-and-strains-hospitals",
-      "published_date": "2026-06-27T17:16:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "France: Drowning deaths climb amid record-breaking heatwave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-drowning-deaths-climb-amid-record-breaking-heatwave",
-      "published_date": "2026-06-27T14:12:45+00:00",
       "category": "Energy"
     },
     {
@@ -543,6 +536,69 @@
       "category": "Economy"
     },
     {
+      "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
+      "published_date": "2026-07-04T19:09:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia’s defiant drag scene braves pushback",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260704-armenia-s-defiant-drag-scene-braves-pushback",
+      "published_date": "2026-07-04T17:44:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tens of thousands rally in France for a comprehensive law to fight sexual violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260704-tens-of-thousands-rally-in-france-for-a-comprehensive-law-to-fight-sexual-violence",
+      "published_date": "2026-07-04T17:03:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's first detected Ebola patient recovers, leaves hospital",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260704-france-first-detected-ebola-patient-recovers-leaves-hospital",
+      "published_date": "2026-07-04T15:24:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's anti-immigration AfD elects new leaders amid mass protests",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260704-germany-anti-immigration-far-right-afd-elects-new-leaders-amid-mass-protests",
+      "published_date": "2026-07-04T15:13:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 'other kick-off': NGOs warn of domestic violence spike during World Cup",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260704-the-other-kick-off-ngos-warn-of-domestic-violence-spike-during-world-cup",
+      "published_date": "2026-07-04T14:25:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German riot police clash with protesters hoping to block far-right AfD conference",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
+      "published_date": "2026-07-04T13:17:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German riot police clash with protesters attempting to block far-right AfD conference – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jul/04/german-riot-police-far-right-afd-conference-protest-video",
+      "published_date": "2026-07-04T13:17:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'They've inflicted yet another assault,' parents say after judges mock mother",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260704-france-parents-say-another-assault-inflicted-when-justice-system-mocks-victims",
+      "published_date": "2026-07-04T12:31:16+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "LATEST: Red alert for wildfires extended to six départements in France",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260704/latest-six-departements-still-on-red-alert-for-wildfires-in-france",
@@ -617,69 +673,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260703-iran-gets-ready-for-khamenei-s-funeral-1",
       "published_date": "2026-07-03T16:31:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "REPLAY: Mamdani gives speech as US marks 250th birthday",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260703-replay-mamdani-gives-speech-as-us-marks-250th-birthday",
-      "published_date": "2026-07-03T15:23:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madonna takes over Paris as Bad Bunny arrives for his French concerts",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260703-madonna-takes-over-paris-as-bad-bunny-arrives-for-his-french-concerts",
-      "published_date": "2026-07-03T15:20:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "USA at 250: 'Zohran Mamdani 'represents the new emerging wing of the Democratic Party'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/usa-at-250-zohran-mamdani-represents-the-new-emerging-wing-of-the-democratic-party",
-      "published_date": "2026-07-03T15:03:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victims of sexual assault in Belgium find support in a pioneering, centralized initiative",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260703-victims-of-sexual-assault-in-belgium-find-support-in-a-pioneering-centralized-initiative",
-      "published_date": "2026-07-03T14:22:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five 2026 Tour de France key stages to watch out for",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260703-five-2026-tour-de-france-key-stages-to-watch-out-for",
-      "published_date": "2026-07-03T14:06:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN issues 'red alert' over human rights catastrophe in Sudan's El-Obeid",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260703-un-issues-red-alert-over-human-rights-catastrophe-in-sudan-s-el-obeid",
-      "published_date": "2026-07-03T13:59:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LATEST: Thousands evacuated as three wildfires rage in south of France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260703/big-wildfires-hit-southern-france",
-      "published_date": "2026-07-03T13:10:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain’s conservatives and far-right Vox increase ties with Andalucía coalition",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/03/spain-conservatives-pp-far-right-vox-party-andalucia-coalition-deal",
-      "published_date": "2026-07-03T11:34:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fans flock to New York ahead of rumoured Taylor Swift wedding",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260703-fans-flock-to-new-york-ahead-of-rumoured-taylor-swift-wedding",
-      "published_date": "2026-07-03T10:16:48+00:00",
       "category": "Local Events"
     }
   ]
