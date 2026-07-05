@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-07-04T23:59:11.437419+00:00",
-  "story_count": 96,
+  "last_updated": "2026-07-05T12:12:03.359955+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Infernos devastate forests in France and Spain as Europe's temperatures rise again",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260705/infernos-devastate-forests-in-france-and-spain-as-europes-temperatures-rise-again",
+      "published_date": "2026-07-05T11:43:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Attack on civil society’: why Viktor Orbán’s favourite thinktank is in crisis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/05/why-viktor-orban-favourite-thinktank-is-in-crisis",
+      "published_date": "2026-07-05T08:20:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-04T23:17:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘International law is our compass’ in global conflict, UN rights chief tells RFI",
       "source": "RFI English",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What are the new EU border checks and how will they affect your summer holiday?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/02/what-is-the-ess-and-how-is-it-affecting-visitors-to-eu-nations-this-summer",
-      "published_date": "2026-07-02T06:17:20+00:00",
-      "category": "Diplomacy"
+      "title": "Hunger in northern Nigeria reaches worst levels in nearly a decade, WFP says",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260705-hunger-in-northern-nigeria-reaches-worst-levels-in-nearly-decade-united-nations-world-food-programme-says",
+      "published_date": "2026-07-05T09:31:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU-approved pesticide found to have potential effects on brain development",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/02/eu-approved-pesticide-found-to-have-potential-effects-on-brain-development",
-      "published_date": "2026-07-02T05:00:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU top court rejects Google's appeal against record €4.1 billion antitrust fine",
+      "title": "France to face Morocco in quarter-final showdown",
       "source": "France 24",
-      "url": "https://www.france24.com/en/business/20260702-eu-top-court-rejects-google-s-appeal-against-record-%E2%82%AC4-1-billion-antitrust-fine",
-      "published_date": "2026-07-02T01:57:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/france-to-face-morocco-in-quarter-final-showdown",
+      "published_date": "2026-07-05T08:45:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France beat Paraguay to reach World Cup quarter-finals",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-beat-paraguay-to-reach-world-cup-quarter-finals",
+      "published_date": "2026-07-05T08:43:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Live: Putin and Zelensky speak to Trump ahead of NATO summit in Turkey",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260705-live-putin-and-zelensky-speak-to-trump-ahead-of-nato-summit-in-turkey",
+      "published_date": "2026-07-05T07:56:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Trump repositions himself as peacemaker in long call with Putin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/05/ukraine-war-briefing-trump-repositions-himself-as-peacemaker-in-long-call-with-putin",
+      "published_date": "2026-07-05T02:06:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Human rights catastrophe unfolding in Sudan's al-Obeid, says UN",
+      "title": "Rescue teams wind down operations as death toll nears 3,000",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260703-human-rights-catastrophe-unfolding-in-sudan-s-al-obeid-says-un",
-      "published_date": "2026-07-03T12:43:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia faces challenges trying to jam Starlink in Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260703-ukraine-russia-faces-challenge-jamming-starlink",
-      "published_date": "2026-07-03T12:09:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-03T11:59:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hunt for Ukrainian woman after Monaco bomb attack targeting sanctioned tycoon",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260703-hunt-for-ukrainian-woman-after-monaco-bomb-attack-targeting-sanctioned-tycoon",
-      "published_date": "2026-07-03T11:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv mourns 30 killed in Russian attack as rescuers continue search",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260703-kyiv-mourns-30-killed-in-russian-attack-as-rescuers-continue-search",
-      "published_date": "2026-07-03T09:15:01+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/rescue-teams-wind-down-operations-as-death-toll-nears-3-000",
+      "published_date": "2026-07-05T10:17:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
@@ -375,25 +382,11 @@
       "category": "Energy"
     },
     {
-      "title": "Temperature records tumble across Europe as heatwave moves east",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
-      "published_date": "2026-06-28T11:24:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why Germany is turning to Algeria for Europe's hydrogen future",
+      "title": "From memes to political movement, India's 'Cockroach' party leads youth revolt",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260628-why-germany-is-turning-to-algeria-for-europe-s-hydrogen-future",
-      "published_date": "2026-06-28T10:25:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Can solar power help Cuba survive the US oil blockade?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/can-solar-power-help-cuba-survive-the-us-oil-blockade",
-      "published_date": "2026-06-28T08:59:55+00:00",
-      "category": "Energy"
+      "url": "https://www.rfi.fr/en/international/20260705-india-cockroach-party-transforms-online-satire-into-youth-revolt-cjp-dipke-protest",
+      "published_date": "2026-07-05T07:30:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump hails American exceptionalism, evokes 'communist menace' at 250th celebration",
@@ -529,11 +522,67 @@
       "category": "Economy"
     },
     {
-      "title": "South Korea bets big on AI with nearly a trillion dollars in investment",
+      "title": "The Afghan women farmers keeping their village alive",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260705-the-afghan-women-farmers-keeping-their-village-alive",
+      "published_date": "2026-07-05T11:50:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris appeals court ruling could upend Marine Le Pen’s 2027 presidential bid",
       "source": "France 24",
-      "url": "https://www.france24.com/en/south-korea-bets-big-on-ai-with-nearly-a-trillion-dollars-of-investment",
-      "published_date": "2026-06-29T19:54:57+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/paris-appeals-court-ruling-could-upend-marine-le-pen-s-2027-presidential-bid",
+      "published_date": "2026-07-05T11:15:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marine Le Pen appeal verdict: Will the far-right leader be barred from the French presidency?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260705-marine-le-pen-appeal-will-she-be-barred-from-running-for-french-presidency",
+      "published_date": "2026-07-05T09:53:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LATEST: New heatwave and wildfire warnings issued for south of France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260705/latest-new-heatwave-and-wildfire-warnings-issued-for-south-of-france",
+      "published_date": "2026-07-05T09:49:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man climbs Eiffel Tower and hangs US flag on America's big birthday",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260705/man-climbs-eiffel-tower-and-hangs-us-flag-on-americas-big-birthday",
+      "published_date": "2026-07-05T08:01:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France Ebola patient recovers: minister",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260705/france-ebola-patient-recovers-minister",
+      "published_date": "2026-07-05T08:00:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tens of thousands rally in France against sexual violence",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260705/tens-of-thousands-rally-in-france-against-sexual-violence",
+      "published_date": "2026-07-05T07:58:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Splish-splash! Parisians and tourists soak in the Seine",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260705/splish-splash-parisians-and-tourists-soak-in-the-seine",
+      "published_date": "2026-07-05T07:52:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260705/on-the-agenda-whats-happening-in-france-this-week-217",
+      "published_date": "2026-07-05T07:05:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
@@ -610,69 +659,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/pope-leo-s-visits-to-lampedusa-on-july-4-symbolic",
       "published_date": "2026-07-04T08:43:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foreign rescue workers help with recovering Venezuela's quake victims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/foreign-rescue-workers-help-with-recovering-venezuela-s-quake-victims",
-      "published_date": "2026-07-04T08:41:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside France: Air conditioning and the moment of truth for Le Pen",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260704/inside-france-air-conditioning-and-the-moment-of-truth-for-le-pen",
-      "published_date": "2026-07-04T07:14:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: Colombia secure last 16 spot with narrow victory over Ghana",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260704-world-cup-2026-colombia-secure-last-16-spot-with-narrow-victory-over-ghana",
-      "published_date": "2026-07-04T03:31:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands protest against Germany's far right as AfD party meets",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260704-thousands-protest-against-the-far-right-in-germany-as-afd-party-meets",
-      "published_date": "2026-07-04T01:37:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia–Ghana: Arias fires Cafeteros past Black Stars to reach World Cup last 16",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260704-colombia-ghana-live-last-round-of-16-spot-up-for-grabs",
-      "published_date": "2026-07-04T01:15:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 400 dead in DR Congo's Ebola outbreak",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/more-than-400-dead-in-dr-congo-s-ebola-outbreak",
-      "published_date": "2026-07-03T21:39:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England-Mexico World Cup match could be moved earlier due to storm risk",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260703-england-mexico-world-cup-match-could-be-moved-earlier-due-to-storm-risk",
-      "published_date": "2026-07-03T19:48:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Putin & The ‘Drowning Man Syndrome’ Sudan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260703-putin-the-drowning-man-syndrome-sudan",
-      "published_date": "2026-07-03T18:18:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran gets ready for Khamenei's funeral",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260703-iran-gets-ready-for-khamenei-s-funeral-1",
-      "published_date": "2026-07-03T16:31:05+00:00",
       "category": "Local Events"
     }
   ]
