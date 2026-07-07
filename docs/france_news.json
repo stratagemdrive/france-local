@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-07-06T14:21:41.357005+00:00",
+  "last_updated": "2026-07-07T00:04:28.828988+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Starmer to rally European allies at Nato summit amid concerns over US stance",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/06/keir-starmer-european-nato-us-ankara-summit",
+      "published_date": "2026-07-06T21:30:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Restraining order needed’: Trump shares doctored Meloni meme to reignite feud",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/restraining-order-needed-trump-shares-doctored-meloni-meme-to-reignite-feud-1",
+      "published_date": "2026-07-06T20:49:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Macron in first post-Assad visit to Damascus : why the Syria stopover ?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260706-france-s-macron-in-first-post-assad-visit-to-damascus-why-the-syria-stopover",
+      "published_date": "2026-07-06T18:18:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO summit in Ankara tests unity as Ukraine war and Trump tensions loom",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260706-nato-summit-in-ankara-tests-unity-as-ukraine-war-and-trump-tensions-loom",
+      "published_date": "2026-07-06T16:32:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Zelenskyy calls for ‘strong decisions’ at Nato summit as Russia kills 19 in overnight strikes on Kyiv – Europe live",
       "source": "The Guardian",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Infernos devastate forests in France and Spain as Europe's temperatures rise again",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260705/infernos-devastate-forests-in-france-and-spain-as-europes-temperatures-rise-again",
-      "published_date": "2026-07-05T11:43:39+00:00",
-      "category": "Diplomacy"
+      "title": "Russian missile and drone strikes kill 24 in Kyiv ahead of NATO summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260706-russian-missile-and-drone-strikes-kill-24-in-kyiv-ahead-of-nato-summit",
+      "published_date": "2026-07-06T22:45:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Attack on civil society’: why Viktor Orbán’s favourite thinktank is in crisis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/05/why-viktor-orban-favourite-thinktank-is-in-crisis",
-      "published_date": "2026-07-05T08:20:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-04T23:17:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-06T17:22:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘International law is our compass’ in global conflict, UN rights chief tells RFI",
+      "title": "Rebels seize key-town of Anéfis as rebels tighten grip on northern Mali",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260704-international-law-is-our-compass-in-global-conflict-united-nations-rights-chief-tells-rfi-volker-turk",
-      "published_date": "2026-07-04T18:57:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260706-rebels-seize-key-town-of-an%C3%A9fis-as-rebels-tighten-grip-on-northern-mali",
+      "published_date": "2026-07-06T17:16:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+      "published_date": "2026-07-06T16:41:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Britain’s defence spending plans need greater scrutiny | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/06/britains-defence-spending-plans-need-greater-scrutiny",
+      "published_date": "2026-07-06T16:17:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine must 'get the support it needs': allies prepare for NATO summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-must-get-the-support-it-needs-allies-prepare-for-nato-summit",
+      "published_date": "2026-07-06T15:25:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Russian strikes on Kyiv expose widening air defence gaps on eve of Nato summit",
@@ -155,6 +197,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-06T13:41:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian attack leaves gaping hole in Kyiv residential building",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-06T13:07:23+00:00",
       "category": "Military"
     },
     {
@@ -232,55 +281,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20260705-hunger-in-northern-nigeria-reaches-worst-levels-in-nearly-decade-united-nations-world-food-programme-says",
       "published_date": "2026-07-05T09:31:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France to face Morocco in quarter-final showdown",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-to-face-morocco-in-quarter-final-showdown",
-      "published_date": "2026-07-05T08:45:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France beat Paraguay to reach World Cup quarter-finals",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-beat-paraguay-to-reach-world-cup-quarter-finals",
-      "published_date": "2026-07-05T08:43:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: Putin and Zelensky speak to Trump ahead of NATO summit in Turkey",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260705-live-putin-and-zelensky-speak-to-trump-ahead-of-nato-summit-in-turkey",
-      "published_date": "2026-07-05T07:56:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Trump repositions himself as peacemaker in long call with Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/05/ukraine-war-briefing-trump-repositions-himself-as-peacemaker-in-long-call-with-putin",
-      "published_date": "2026-07-05T02:06:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-04T18:41:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rebel attacks in northern Mali: Some targets meant as 'diversions', expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-says",
-      "published_date": "2026-07-04T15:44:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New wave of coordinated rebel attacks hits Mali",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali",
-      "published_date": "2026-07-04T14:39:22+00:00",
       "category": "Military"
     },
     {
@@ -373,6 +373,13 @@
       "url": "https://www.france24.com/en/video/20260630-ukraine-s-war-damaged-power-grid-struggles-under-soaring-heat",
       "published_date": "2026-06-30T10:19:23+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Earthquake damage threatens Venezuela's beach tourism centers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260706-earthquake-damage-threatens-venezuela-s-beach-tourism-centers",
+      "published_date": "2026-07-06T14:25:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Netflix, Disney+, Amazon appeal new French rules over investment",
@@ -508,17 +515,108 @@
       "category": "Economy"
     },
     {
-      "title": "'Very likely for an African team to be in this World Cup final', expert says",
+      "title": "Merino's late strike takes Spain past Portugal into World Cup quarter-finals",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260706-merino-s-late-strike-takes-spain-past-portugal-into-world-cup-quarter-finals",
+      "published_date": "2026-07-06T22:15:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's Marine Le Pen, who brought hard-right National Rally to cusp of electoral success",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdejj03j9ejo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-06T20:57:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jordan Bardella: The 'blank canvas' who could be France's youngest president",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-06T20:57:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Love, deception and the real lives of Nigeria's romance fraudsters",
       "source": "France 24",
-      "url": "https://www.france24.com/en/very-likely-for-an-african-team-to-be-in-this-world-cup-final-expert-says",
-      "published_date": "2026-06-30T19:01:33+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/love-deception-and-the-real-lives-of-nigeria-s-romance-fraudsters",
+      "published_date": "2026-07-06T20:28:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPEC+ raises output but cartel's future hangs in balance",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260706-opec-raises-output-but-cartel-s-future-hangs-in-balance",
+      "published_date": "2026-07-06T20:04:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026 : Watching Mexico-England in one Boston's Hispanic outskirts",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/world-cup-2026-watching-mexico-england-in-one-boston-s-hispanic-outskirts",
+      "published_date": "2026-07-06T19:35:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260706-death-toll-from-dr-congo-ebola-outbreak-passes-500-as-healthcare-workers-threaten-strike",
+      "published_date": "2026-07-06T16:20:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's first diagnosed Ebola patient recovers after treatment",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260706-france-s-first-diagnosed-ebola-patient-recovers-after-treatment",
+      "published_date": "2026-07-06T15:31:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boston: The cradle of the American Revolution",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260706-boston-the-cradle-of-the-american-revolution",
+      "published_date": "2026-07-06T15:31:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy ordered to compensate woman after allegations of rape by partner dismissed as ‘normal’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/06/italy-ordered-compensate-woman-rape-allegations-echr",
+      "published_date": "2026-07-06T15:25:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France at 'turning point' on how to prevent and deal with sexual violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-at-turning-point-on-how-to-prevent-and-deal-with-sexual-violence",
+      "published_date": "2026-07-06T15:17:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Avignon turns 80: Wagner Moura, Isabelle Huppert attend France's oldest theatre festival",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260706-avignon-turns-80-wagner-moura-isabelle-huppert-attend-france-s-oldest-theatre-festival",
+      "published_date": "2026-07-06T14:39:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tanzania protesters face heavy security, fear repeat of deadly election violence",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260706-tanzania-protesters-face-heavy-security-fear-repeat-of-deadly-election-violence",
+      "published_date": "2026-07-06T14:04:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Does the French right have a chance of defeating the far right in the election?",
       "source": "France 24",
       "url": "https://www.france24.com/en/does-the-french-right-have-a-chance-of-defeating-the-far-right-in-the-election",
       "published_date": "2026-07-06T13:48:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire in southern France forces evacuation of 10,000 people",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-06T13:08:23+00:00",
       "category": "Local Events"
     },
     {
@@ -554,104 +652,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260706-kyiv-struck-by-second-deadly-russian-attack-in-less-than-a-week",
       "published_date": "2026-07-06T09:48:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Science should be developed away from being 'exclusive club' - Nobel prize winner to F24",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/science-should-be-developed-away-from-being-exclusive-club-nobel-prize-winner-to-f24",
-      "published_date": "2026-07-06T09:44:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protecting Corsican Scandola Nature Reserve amid tourism boom",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260706-protecting-corsican-scandola-national-reserve-amid-tourism-boom",
-      "published_date": "2026-07-06T09:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewellery worth millions stolen in French museum burglary",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260706/jewellery-worth-millions-stolen-in-french-museum-burglary",
-      "published_date": "2026-07-06T06:20:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey blocks cruise ship carrying 2,000 LGBTQ+ passengers and a ‘furious’ Patti LuPone, citing ‘moral values’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/06/turkey-blocks-lgbtq-cruise-ship-citing-moral-values-ntwnfb",
-      "published_date": "2026-07-06T06:13:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside the Telegram ‘drug rape’ chat group that shocked Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jul/06/telegram-chinese-men-germany-drugged-women-filmed-rape-court-chinese-diaspora-europe",
-      "published_date": "2026-07-06T05:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tour de France bans spectators from third stage as fire burns in French Pyrenees",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260706-tour-de-france-bans-spectators-from-third-stage-as-fire-burns-in-french-pyrenees",
-      "published_date": "2026-07-06T04:46:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England survive Azteca thriller to set up last eight showdown with Norway",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260706-england-survive-azteca-thriller-to-set-up-last-eight-showdown-with-norway",
-      "published_date": "2026-07-06T03:52:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-05T23:31:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexico vs England live: World Cup blockbuster delayed by an hour due to weather",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260705-mexico-vs-england-live-azteca-fortress-hosts-three-lions-world-cup-last-16",
-      "published_date": "2026-07-05T22:59:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen faces key appeal ruling over 2027 presidential bid",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/marine-le-pen-faces-key-appeal-ruling-over-2027-presidential-bid",
-      "published_date": "2026-07-05T15:52:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dead body found in Paris canal popular with bathers: police",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260705/dead-body-found-in-paris-canal-popular-with-bathers-police",
-      "published_date": "2026-07-05T15:41:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tour de France stage under threat due to forest fires: official",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260705/tour-de-france-stage-under-threat-due-to-forest-fires-official",
-      "published_date": "2026-07-05T15:36:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran's new Supreme Leader Mojtaba Khamenei absent from mass funeral for father",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260705-iran-new-supreme-leader-mojtaba-khamenei-absent-from-mass-funeral-for-father",
-      "published_date": "2026-07-05T14:52:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's richest man Bernard Arnault ordered to pay €22.5m in back taxes",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260705-france-s-richest-man-bernard-arnault-ordered-to-pay-%E2%82%AC22-5m-in-back-taxes",
-      "published_date": "2026-07-05T13:06:07+00:00",
       "category": "Local Events"
     }
   ]
