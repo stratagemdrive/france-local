@@ -1,8 +1,78 @@
 {
   "country": "France",
-  "last_updated": "2026-07-08T12:16:29.404699+00:00",
-  "story_count": 96,
+  "last_updated": "2026-07-09T00:05:39.830466+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Trump switches back to flying on older Air Force One for England trip instead of new Qatari jet",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip",
+      "published_date": "2026-07-08T22:49:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato chief tells BBC that Trump comments are like 'family argument'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-08T20:58:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Greenlanders reject Trump's renewed push for control of island",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/greenlanders-reject-trump-s-renewed-push-for-control-of-island",
+      "published_date": "2026-07-08T19:52:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sabre-rattling to ‘tremendous love’: erratic Trump dominates final hours of Nato summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/08/erratic-trump-dominates-final-hours-nato-summit",
+      "published_date": "2026-07-08T19:00:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "REPLAY: Trump meets with Syria's al-Sharaa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260708-replay-trump-meets-with-syria-s-al-sharaa",
+      "published_date": "2026-07-08T15:36:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran talks in doubts as Trump says ceasefire 'over'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260708-iran-talks-in-doubts-as-trump-says-ceasefire-over",
+      "published_date": "2026-07-08T15:14:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why the Damascus blasts during Macron’s visit are a blow to al-Sharaa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260708-why-the-damascus-blasts-during-macron-visit-are-a-blow-to-al-sharaa",
+      "published_date": "2026-07-08T15:03:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump lashes out at NATO allies over Greenland and Iran, targeting Spain",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260708-trump-lashes-out-at-allies-as-key-nato-summit-begins-targeting-cease-fire-spain-and-greenland",
+      "published_date": "2026-07-08T14:55:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump takes aim at 'wasted cause' Spain and revives Greenland claim at Nato summit",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gywkd17pxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-08T14:41:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe's EES border checks won't be suspended, EU insists",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260708/europes-ees-border-checks-wont-be-suspended-eu-insists",
+      "published_date": "2026-07-08T12:42:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "From Spain trade to Greenland threats: Key points from Trump's NATO comments",
       "source": "France 24",
@@ -11,10 +81,24 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Bayeux tapestry to arrive in London in secret high-stakes operation",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260708/bayeux-tapestry-to-arrive-in-london-in-secret-high-stakes-operation",
+      "published_date": "2026-07-08T10:53:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Photograph linking SA's Zuma with fugitive Indian businessman sparks outrage",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260708-photograph-linking-sa-s-zuma-with-fugitive-indian-businessman-sparks-outrage",
       "published_date": "2026-07-08T10:37:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bayeux Tapestry to make secret overnight journey to London for landmark exhibition",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260708-bayeux-tapestry-to-arrive-in-london-in-secret-high-stakes-operation",
+      "published_date": "2026-07-08T10:21:12+00:00",
       "category": "Diplomacy"
     },
     {
@@ -60,88 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria's reconstruction and economic policy will rely on Europe and Turkey",
+      "title": "Trump moves to remove Syria from US list of state sponsors of terrorism",
       "source": "France 24",
-      "url": "https://www.france24.com/en/syria-s-reconstruction-and-economic-policy-will-rely-on-europe-and-turkey",
-      "published_date": "2026-07-07T16:06:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20260708-trump-moves-to-remove-syria-from-us-list-of-state-sponsors-of-terrorism",
+      "published_date": "2026-07-08T23:07:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "At Nato summit, Trump berates European allies while pleasing Turkish host",
+      "title": "US says it's carrying out more strikes after Iran’s attacks in Strait of Hormuz",
       "source": "France 24",
-      "url": "https://www.france24.com/en/at-nato-summit-trump-berates-european-allies-while-pleasing-turkish-host",
-      "published_date": "2026-07-07T15:36:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260708-us-says-it-s-carrying-out-more-strikes-after-iran-s-attacks-in-strait-of-hormuz",
+      "published_date": "2026-07-08T21:08:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Record wildfires in Europe show failure to adapt carries a mounting cost",
+      "title": "Trump says the U.S. will give license to Ukraine to produce Patriot defense systems",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-says-the-u-s-will-give-license-to-ukraine-to-produce-patriot-defense-systems",
+      "published_date": "2026-07-08T18:57:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says will 'cut off all trade with Spain' over NATO contribution row",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-says-will-cut-off-all-trade-with-spain-over-nato-contribution-row",
+      "published_date": "2026-07-08T18:55:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can NATO survive Trump's changes of heart?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260708-can-nato-survive-trump-s-changes-of-heart",
+      "published_date": "2026-07-08T18:10:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pierpaolo Piccioli’s couture debut reimagines Balenciaga in his own colourful image",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/record-wildfires-europe-failure-to-adapt-mounting-cost-climate-crisis",
-      "published_date": "2026-07-07T14:57:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/fashion/2026/jul/08/pierpaolo-picciolis-couture-debut-reimagines-balenciaga-in-his-own-colourful-image",
+      "published_date": "2026-07-08T17:50:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Maia Sandu and the European Union: the shadow of Russian disinformation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/fact-or-fake/20260707-maia-sandu-and-the-european-union-the-shadow-of-russian-disinformation",
-      "published_date": "2026-07-07T13:58:38+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-08T17:18:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU rejects suspending biometric border controls despite 20 ‘difficult spots’",
+      "title": "Trump on rampage at Nato summit: what does it mean for Ukraine? – The Latest",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/eu-ees-border-controls-airport-queues-delays-brexit",
-      "published_date": "2026-07-07T11:36:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/news/audio/2026/jul/08/trump-on-rampage-at-nato-summit-what-does-it-mean-for-ukraine-the-latest",
+      "published_date": "2026-07-08T17:05:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Syria: Macron ‘safe’ after blasts near French president’s hotel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260707-syria-macron-safe-after-blasts-near-french-president-s-hotel",
-      "published_date": "2026-07-07T11:01:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What to know about Macron's landmark visit to Syria",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/what-to-know-about-macron-s-landmark-visit-to-syria",
-      "published_date": "2026-07-07T10:53:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bombs explode near Damascus hotel housing Macron on Syria visit",
+      "title": "Trump gives Zelenskyy vague promise of licence to manufacture Patriot missiles",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/explosions-rock-damascus-near-hotel-where-french-president-was-staying",
-      "published_date": "2026-07-07T10:37:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/08/trump-zelenskyy-vague-promise-licence-manufacture-patriot-missiles",
+      "published_date": "2026-07-08T16:30:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Paraguayan senator's racist Mbappé slurs spark diplomatic row",
+      "title": "Trump says he will allow Ukraine to make its own Patriot missiles",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260708-trump-says-he-will-allow-ukraine-to-make-its-own-patriot-missiles",
+      "published_date": "2026-07-08T16:05:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Submarine missile test puts China's Pacific ambitions on display",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260707-mbapp%C3%A9-hits-back-at-racist-remarks-by-paraguayan-senator-who-demands-apology-football",
-      "published_date": "2026-07-07T10:29:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260708-submarine-missile-test-puts-china-s-pacific-ambitions-on-display",
+      "published_date": "2026-07-08T12:56:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "'France stands by Syria's side': Macron 'most enthusiastic in Europe' to repair ties",
+      "title": "Trump tempers fury at NATO summit after lashing out at key allies in Ankara",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-stands-by-syria-s-side-macron-most-enthusiastic-in-europe-to-repair-ties",
-      "published_date": "2026-07-07T10:26:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Replay: French President Emmanuel Macron speaks after Damascus blasts",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/replay-french-president-emmanuel-macron-speaks-after-damascus-blasts",
-      "published_date": "2026-07-07T10:19:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al-Sharaa's capacity to bring security to Syria and the region under scrutiny",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/al-sharaa-s-capacity-to-bring-security-to-syria-and-the-region-under-scrutiny",
-      "published_date": "2026-07-07T10:11:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260708-trump-lashes-nato-allies-during-key-summit-ankara",
+      "published_date": "2026-07-08T12:17:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump makes fresh Greenland demand and threatens trade with Spain at Nato meeting – Europe live",
@@ -200,88 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Middle East live: US launches strikes on Iran after ships attacked in Strait of Hormuz",
+      "title": "Nigeria probes fictitious 'presidential' agency",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260707-middle-east-live-us-launches-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz",
-      "published_date": "2026-07-07T21:46:41+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/nigeria-probes-fictitious-presidential-agency",
+      "published_date": "2026-07-08T20:34:35+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Woman suspected of Monaco bombing is found dead in Ukraine, authorities say",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/woman-suspected-of-monaco-bombing-is-found-dead-in-ukraine-authorities-say",
-      "published_date": "2026-07-07T19:27:39+00:00",
-      "category": "Military"
+      "title": "Ugandan farmers take TotalEnergies' pipeline to UK court",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260708-ugandan-farmers-launch-uk-case-against-pipeline-oil-project-led-by-totalenergies",
+      "published_date": "2026-07-08T20:06:57+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Nato should let Ukraine join to ‘make all of us stronger’, says Zelenskyy",
+      "title": "Oil prices rise sharply after Iran launches attacks on tankers near strait of Hormuz",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/zelenskyy-nato-let-ukraine-join-make-stronger",
-      "published_date": "2026-07-07T17:05:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe doesn’t need to worry about Andy Burnham. He has the makings of a great ally | Jessica Berlin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/07/europe-andy-burnham-ally-defence-nato",
-      "published_date": "2026-07-07T14:54:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-07T11:42:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Woman suspected of Monaco bombing found shot dead near Kyiv",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/woman-suspected-monaco-bombing-shot-dead-kyiv",
-      "published_date": "2026-07-07T11:17:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Woman suspected in Monaco bombing found shot dead near Kyiv, prosecutors say",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260707-woman-suspected-in-monaco-bombing-found-shot-dead-near-kyiv-prosecutors-say",
-      "published_date": "2026-07-07T11:12:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Samsung Electronics profits surge 1,800% annually amid artificial intelligence spending boom",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260707-samsung-electronics-profits-surge-1-800-annually-amid-artificial-intelligence-spending-boom",
-      "published_date": "2026-07-07T09:30:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Judgement day for Marine Le Pen",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260707-judgement-day-for-marine-le-pen",
-      "published_date": "2026-07-07T08:20:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-07T04:18:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe faces up to prospect US may be unable to arm Nato allies",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/europe-faces-up-to-prospect-us-may-be-unable-to-arm-nato-allies",
-      "published_date": "2026-07-07T04:00:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine signs 'drone deals' with three European countries",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260707-live-nato-allies-to-unveil-billions-in-defence-deals-ahead-of-summit",
-      "published_date": "2026-07-07T02:51:48+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/08/oil-prices-rise-iran-attack-tankers-strait-of-hormuz",
+      "published_date": "2026-07-08T15:45:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Unions in Europe press for new worker protections to counter heat stress",
@@ -382,18 +403,18 @@
       "category": "Energy"
     },
     {
-      "title": "How extreme heat is exposing extreme inequality",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/01/how-extreme-heat-is-exposing-extreme-inequality",
-      "published_date": "2026-07-01T16:30:40+00:00",
-      "category": "Energy"
+      "title": "IMF lowers 2026 global growth forecast to 3% but projects rebound in 2027",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260708-imf-lowers-2026-global-growth-forecast-to-3-but-projects-rebound-in-2027",
+      "published_date": "2026-07-08T20:38:27+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Climate change 'hitting the world with a vengeance: Higher temperatures for longer periods of time'",
+      "title": "The fight to save Bosnia's wild rivers: Scientists and locals oppose mega dam project",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260701-climate-change-hitting-the-world-with-a-vengeance-higher-temperatures-for-longer-periods-of-time",
-      "published_date": "2026-07-01T13:15:28+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/focus/20260708-the-fight-to-save-bosnia-s-wild-rivers-scientists-and-locals-oppose-a-hydroelectric-dam",
+      "published_date": "2026-07-08T12:23:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "'A crushing defeat': Egypt lose to Argentina as Africa's World Cup dream fades",
@@ -522,18 +543,81 @@
       "category": "Economy"
     },
     {
-      "title": "World Cup 2026: Belgium stun Senegal with dramatic comeback and penalty heartbreak",
+      "title": "In Bordeaux's brand new eco-district of Brazza, homes turn into ovens during the heatwave",
       "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260701-world-cup-2026-belgium-stun-senegal-with-dramatic-comeback-and-penalty-heartbreak",
-      "published_date": "2026-07-01T22:56:18+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/in-bordeaux-s-brand-new-eco-district-of-brazza-homes-turn-into-ovens-during-the-heatwave",
+      "published_date": "2026-07-08T19:04:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why Anthropic's most powerful AI models are back online",
+      "title": "Marine Le Pen ‘wants to talk politics’, but can she drown out the legal noise?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-french-presidential-campaign-elections-embezzlement",
+      "published_date": "2026-07-08T18:40:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Marine Le Pen’s candidacy: a dangerous gamble | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/08/the-guardian-view-on-marine-le-pen-candidacy-a-dangerous-gamble",
+      "published_date": "2026-07-08T17:30:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
+      "published_date": "2026-07-08T17:22:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France 2027 Elections: A clash of two extremes could lead to 'easy' Le Pen win",
       "source": "France 24",
-      "url": "https://www.france24.com/en/why-anthropic-s-most-powerful-ai-models-are-back-online",
-      "published_date": "2026-07-01T17:20:20+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260708-france-2027-elections-a-clash-of-two-extremes-could-lead-to-easy-le-pen-win",
+      "published_date": "2026-07-08T16:29:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What does Le Pen's presidential bid mean for relationship with Bardella?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260708-what-does-le-pen-s-presidential-bid-mean-for-relationship-with-bardella",
+      "published_date": "2026-07-08T15:42:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Regime supporters and opposition share AI-generated images of Khamenei’s funeral",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260708-regime-supporters-opposition-share-ai-generated-images-khamenei-funeral",
+      "published_date": "2026-07-08T15:32:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-08T15:09:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marine Le Pen launches France presidential campaign after ban reduced",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-launches-france-presidential-campaign-court-decision-ban-electronic-tag",
+      "published_date": "2026-07-08T12:57:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris hosts the Esports World Cup with eight weeks' notice",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cr7xkded893o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-08T12:40:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'You have to take risks': Marine Le Pen hits campaign trail after announcing run",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260708/le-pen-hits-campaign-trail-morning-after-announcing-run",
+      "published_date": "2026-07-08T12:09:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Through the teargas, I saw something missing from German politics for too long: hope | Scott Roxborough",
@@ -571,6 +655,13 @@
       "category": "Local Events"
     },
     {
+      "title": "OPINION: Le Pen has not 'defeated the system', but she may yet win French presidency",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260708/opinion-le-pen-has-not-defeated-the-system-but-she-may-yet-win-french-presidency",
+      "published_date": "2026-07-08T08:12:57+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
@@ -589,90 +680,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cdejj03j9ejo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-07T21:22:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Viral AI fakes flood social media as Iran mourns Khamenei",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/viral-ai-fakes-flood-social-media-as-iran-mourns-khamenei-1",
-      "published_date": "2026-07-07T21:09:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: Marine Le Pen confirms run for French presidency",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/clyexverp0lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-07T20:21:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presidency bid while continuing court fight a gamble for Le Pen",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevlm2rlgwmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-07T20:13:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'It seems like the politics are starting to drown out some of the excellent football'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/it-seems-like-the-politics-are-starting-to-drown-out-some-of-the-excellent-football",
-      "published_date": "2026-07-07T20:09:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right leader Marine Le Pen says she will run for president in 2027 – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/07/french-far-right-leader-marine-le-pen-says-she-will-run-for-president-in-2027-video",
-      "published_date": "2026-07-07T19:57:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-07T19:55:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's Le Pen says still running for president, despite embezzlement conviction confirmed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-s-le-pen-says-still-running-for-president-despite-embezzlement-conviction-confirmed",
-      "published_date": "2026-07-07T19:20:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Marine Le Pen running for French presidency after court confirmed conviction?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/what-court-ruling-mean-marine-le-pen-presidential-chances",
-      "published_date": "2026-07-07T19:13:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No stopping Le Pen? French appeals court clears way for 2027 presidential run",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260707-no-stopping-le-pen-french-appeals-court-clears-way-for-2027-presidential-run",
-      "published_date": "2026-07-07T18:15:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What to know about the electronic monitor Marine Le Pen must wear",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260707-what-to-know-about-the-electronic-monitor-a-french-court-says-marine-le-pen-must-wear",
-      "published_date": "2026-07-07T17:36:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Behind the scenes: Marine Le Pen's appeal verdict",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260707-marine-le-pen-convicted-in-appeal-trial-eligible-to-run-in-2027",
-      "published_date": "2026-07-07T16:12:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen found guilty, but court clears way for presidential run if she wears tag",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-07T15:46:05+00:00",
       "category": "Local Events"
     }
   ]
