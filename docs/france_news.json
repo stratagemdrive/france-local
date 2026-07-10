@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-07-09T13:44:57.321306+00:00",
-  "story_count": 97,
+  "last_updated": "2026-07-10T00:01:02.701157+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Syria arrests ISIS-linked suspects over Damascus bombings during Macron visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260709-syria-arrests-isis-suspects-damascus-bombings-macron-visit",
+      "published_date": "2026-07-09T23:00:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN 'deeply concerned' by ongoing drone attack in Sudan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/un-deeply-concerned-by-ongoing-drone-attack-in-sudan",
+      "published_date": "2026-07-09T20:29:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato leaders surprised by Turkish president’s gift of guns after summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/09/turkish-president-gives-nato-leaders-engraved-guns-and-bullets-at-summit",
+      "published_date": "2026-07-09T16:32:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkey: Erdogan gives NATO leaders pistols with ammunition after summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260709-turkey-erdogan-gives-nato-leaders-pistols-with-ammunition-after-summit",
+      "published_date": "2026-07-09T15:48:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why are Macron's aviator glasses in the spotlight again?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260709-why-are-macron-s-aviator-glasses-in-the-spotlight-again",
+      "published_date": "2026-07-09T15:24:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "World Cup 2026: France and Morocco prepare for quarter-final clash",
       "source": "France 24",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran talks in doubts as Trump says ceasefire 'over'",
+      "title": "Live: Iran buries Khamenei after new fighting with US erupts",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260708-iran-talks-in-doubts-as-trump-says-ceasefire-over",
-      "published_date": "2026-07-08T15:14:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260709-live-iran-buries-khamenei-after-new-fighting-with-us-erupts",
+      "published_date": "2026-07-09T23:59:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why the Damascus blasts during Macron’s visit are a blow to al-Sharaa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260708-why-the-damascus-blasts-during-macron-visit-are-a-blow-to-al-sharaa",
-      "published_date": "2026-07-08T15:03:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump lashes out at NATO allies over Greenland and Iran, targeting Spain",
+      "title": "Fifteen years of independence for South Sudan, but still little to celebrate",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260708-trump-lashes-out-at-allies-as-key-nato-summit-begins-targeting-cease-fire-spain-and-greenland",
-      "published_date": "2026-07-08T14:55:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260709-fifteen-years-of-independence-for-south-sudan-but-still-little-to-celebrate",
+      "published_date": "2026-07-09T21:06:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump takes aim at 'wasted cause' Spain and revives Greenland claim at Nato summit",
+      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gywkd17pxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-08T14:41:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T20:47:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Europe's EES border checks won't be suspended, EU insists",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260708/europes-ees-border-checks-wont-be-suspended-eu-insists",
-      "published_date": "2026-07-08T12:42:33+00:00",
-      "category": "Diplomacy"
+      "title": "Technical details need to be agreed before Ukraine can produce Patriot missiles, Zelensky says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260709-technical-details-need-to-be-agreed-before-ukraine-can-produce-patriot-missiles-zelensky-says",
+      "published_date": "2026-07-09T19:58:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Daphne Caruana Galizia screamed in panic before explosion that killed her, court hears",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/09/daphne-caruana-galizia-explosion-killed-her-witness-court",
+      "published_date": "2026-07-09T18:03:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali rebels attack convoy of Russian reinforcements headed to besieged military camp",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260709-tuareg-separatists-attack-convoy-of-russian-mercenaries-and-malian-troops",
+      "published_date": "2026-07-09T16:09:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran claims US strike hit near nuclear powerplant",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-claims-us-strike-hit-near-nuclear-powerplant",
+      "published_date": "2026-07-09T15:48:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T15:21:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says US will give Ukraine licence to build Patriot missiles",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260709-trump-at-nato-summit-says-us-will-let-ukraine-build-patriot-missiles",
+      "published_date": "2026-07-09T14:27:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As Iran buries Khamenei, it shifts from 'a theocracy to a nationalistic military leadership'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/as-iran-buries-khamenei-it-shifts-from-a-theocracy-to-a-nationalistic-military-leadership",
+      "published_date": "2026-07-09T14:03:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Barcelona registers highest temperature in 112 years as French nuclear reactor shuts down due to extreme heat – Europe live",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Trump says the U.S. will give license to Ukraine to produce Patriot defense systems",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-says-the-u-s-will-give-license-to-ukraine-to-produce-patriot-defense-systems",
-      "published_date": "2026-07-08T18:57:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says will 'cut off all trade with Spain' over NATO contribution row",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-says-will-cut-off-all-trade-with-spain-over-nato-contribution-row",
-      "published_date": "2026-07-08T18:55:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can NATO survive Trump's changes of heart?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260708-can-nato-survive-trump-s-changes-of-heart",
-      "published_date": "2026-07-08T18:10:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pierpaolo Piccioli’s couture debut reimagines Balenciaga in his own colourful image",
+      "title": "UK swelters in third heatwave of the year as western Europe counts cost of hottest-ever June",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/fashion/2026/jul/08/pierpaolo-picciolis-couture-debut-reimagines-balenciaga-in-his-own-colourful-image",
-      "published_date": "2026-07-08T17:50:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-08T17:18:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump on rampage at Nato summit: what does it mean for Ukraine? – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jul/08/trump-on-rampage-at-nato-summit-what-does-it-mean-for-ukraine-the-latest",
-      "published_date": "2026-07-08T17:05:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump gives Zelenskyy vague promise of licence to manufacture Patriot missiles",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/08/trump-zelenskyy-vague-promise-licence-manufacture-patriot-missiles",
-      "published_date": "2026-07-08T16:30:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says he will allow Ukraine to make its own Patriot missiles",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260708-trump-says-he-will-allow-ukraine-to-make-its-own-patriot-missiles",
-      "published_date": "2026-07-08T16:05:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Submarine missile test puts China's Pacific ambitions on display",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260708-submarine-missile-test-puts-china-s-pacific-ambitions-on-display",
-      "published_date": "2026-07-08T12:56:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump tempers fury at NATO summit after lashing out at key allies in Ankara",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260708-trump-lashes-nato-allies-during-key-summit-ankara",
-      "published_date": "2026-07-08T12:17:28+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/09/uk-swelters-third-heatwave-western-europe-counts-cost-hottest-ever-june",
+      "published_date": "2026-07-09T17:39:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "Mauritania's fishing heritage threatened by climate change and overfishing",
@@ -393,13 +400,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-04T00:57:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Donald Trump is the accidental hero of a real-life feelgood climate tale even as a creeping horror story plays alongside | Clear Air",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/03/donald-trump-strait-of-hormuz-climate-crisis-europe-heatwave",
-      "published_date": "2026-07-02T15:00:02+00:00",
       "category": "Energy"
     },
     {
@@ -536,11 +536,18 @@
       "category": "Economy"
     },
     {
-      "title": "German reforms, Google's final defeat, and a $20M Swift wedding?",
+      "title": "Gazans mourn aid worker killed by Israel who organised public World Cup screenings",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260702-german-reforms-google-s-final-defeat-and-a-20m-swift-wedding",
-      "published_date": "2026-07-02T21:38:17+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/middle-east/20260709-gazans-mourn-aid-worker-killed-by-israel-who-organised-public-world-cup-screenings",
+      "published_date": "2026-07-09T19:46:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Total Eclipse of the Heart' singer and 80s power ballad queen Bonnie Tyler dies aged 75",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/total-eclipse-singer-and-80s-power-ballad-queen-bonnie-tyler-dies-aged-75",
+      "published_date": "2026-07-09T14:46:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'Kylian, forgive us': How the World Cup turned Mbappé's reputation around",
@@ -666,20 +673,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-launches-france-presidential-campaign-court-decision-ban-electronic-tag",
       "published_date": "2026-07-08T12:57:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris hosts the Esports World Cup with eight weeks' notice",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cr7xkded893o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-08T12:40:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'You have to take risks': Marine Le Pen hits campaign trail after announcing run",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260708/le-pen-hits-campaign-trail-morning-after-announcing-run",
-      "published_date": "2026-07-08T12:09:36+00:00",
       "category": "Local Events"
     }
   ]
