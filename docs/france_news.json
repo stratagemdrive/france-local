@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-07-10T13:08:36.815324+00:00",
-  "story_count": 98,
+  "last_updated": "2026-07-10T23:54:47.187634+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Iran: Forewarnings and a Funeral, NATO, Le Pen",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260710-iran-forewarnings-and-a-funeral-nato-le-pen",
+      "published_date": "2026-07-10T21:13:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU lawmakers give digital euro the green light, but rollout still years away",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260710-eu-lawmakers-give-digital-euro-the-green-light-but-rollout-still-years-away",
+      "published_date": "2026-07-10T19:40:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Notes from a NATO Summit: An Estonian Perspective",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260710-notes-from-a-nato-summit-an-estonian-perspective",
+      "published_date": "2026-07-10T19:11:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO Summit: Europe must 'project decency, credibility' to 'earn respect, attract partners'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260710-nato-summit-europe-must-project-decency-credibility-to-earn-respect-attract-partners",
+      "published_date": "2026-07-10T16:09:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Behind Khamenei’s funeral, Iran’s bid to show strength",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/behind-khamenei-s-funeral-iran-s-bid-to-show-strength",
+      "published_date": "2026-07-10T13:37:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "President Erdogan’s unusual gift to NATO leaders sparks surprise",
       "source": "France 24",
@@ -15,6 +50,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260710-how-top-syrian-diplomat-asaad-al-shaibani-road-damascus-shaking-mideast",
       "published_date": "2026-07-10T12:17:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-10T12:02:40+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why are Macron's aviator glasses in the spotlight again?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260709-why-are-macron-s-aviator-glasses-in-the-spotlight-again",
-      "published_date": "2026-07-09T15:24:50+00:00",
-      "category": "Diplomacy"
+      "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-10T18:04:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Heat domes test Europe's climate resilience: Is the EU ready for a hotter future?",
+      "title": "Israel warns US of alleged Iran plot to assassinate Trump",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260709-heat-domes-expose-cracks-in-europe-s-climate-resilience-is-the-eu-planning-for-a-hotter-future",
-      "published_date": "2026-07-09T12:45:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/israel-warns-us-of-alleged-iran-plot-to-assassinate-trump",
+      "published_date": "2026-07-10T13:57:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sustainable transport key to Europe's 'strategic independence', EU Commissioner Tzitzikostas",
+      "title": "Ukrainian spy accused of killing Monaco bombing suspect retracts confession",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260709-sustainable-transport-is-about-our-strategic-independence-eu-commissioner-apostolos-tzitzikostas",
-      "published_date": "2026-07-09T12:45:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "World Cup 2026: France and Morocco prepare for quarter-final clash",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260709-world-cup-2026-france-and-morocco-prepare-for-quarter-final-clash",
-      "published_date": "2026-07-09T12:37:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Epic rematch' expected as Les Bleus face down The Atlas Lions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/epic-rematch-expected-as-les-bleus-face-down-the-atlas-lions",
-      "published_date": "2026-07-09T11:11:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU’s ‘unpleasant and dangerous’ border checks need overhaul, says Greek airports boss",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/09/eu-unpleasant-and-dangerous-border-checks-need-overhaul-says-greek-airports-boss",
-      "published_date": "2026-07-09T11:02:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260710-ukrainian-spy-accused-of-killing-monaco-bombing-suspect-retracts-confession",
+      "published_date": "2026-07-10T13:31:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Can Ukraine really build its own Patriots?",
@@ -263,31 +284,24 @@
       "category": "Military"
     },
     {
-      "title": "As Iran buries Khamenei, it shifts from 'a theocracy to a nationalistic military leadership'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/as-iran-buries-khamenei-it-shifts-from-a-theocracy-to-a-nationalistic-military-leadership",
-      "published_date": "2026-07-09T14:03:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Barcelona registers highest temperature in 112 years as French nuclear reactor shuts down due to extreme heat – Europe live",
+      "title": "‘The worst possible combination’: what has caused Spain’s deadly wildfires?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/09/europe-heatwave-uk-spain-barcelona-france-italy-hungary-france-macron-orban-latest-news-updates",
-      "published_date": "2026-07-09T13:29:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Khamenei successor has yet to be seen as late ruler's funeral comes to a close",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/khamenei-successor-has-yet-to-be-seen-as-ex-ayatollah-s-funeral-comes-to-a-close",
-      "published_date": "2026-07-09T11:34:35+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/10/unprecedented-deadly-wildfire-southern-spain-almeria-analysis",
+      "published_date": "2026-07-10T16:20:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "France must speed up climate action, as watchdog warns current efforts fall short",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260710-france-must-speed-up-climate-action-as-watchdog-warns-current-efforts-fall-short",
       "published_date": "2026-07-10T05:24:13+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pressure builds on Europe's biggest port to be greener",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T23:00:51+00:00",
       "category": "Energy"
     },
     {
@@ -408,6 +422,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-04T00:57:05+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "The bulging in-tray of challenges Andy Burnham faces upon entering No 10",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/10/in-tray-of-challenges-andy-burnham-faces-as-prime-minister",
+      "published_date": "2026-07-10T14:27:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "French billionaire becomes Vodafone’s largest shareholder with £4.4bn stake",
@@ -543,11 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Fight them for the beaches: the real villain of Europe’s overtourism is big business | Adam Almeida",
+      "title": "Police arrest suspect in killing of former UK minister Ann Widdecombe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260710-police-arrest-suspect-in-killing-of-former-uk-minister-ann-widdecombe",
+      "published_date": "2026-07-10T20:25:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "European Parliament calls for terrorist listing of Rapid Support Forces in Sudan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260710-european-parliament-calls-for-terrorist-listing-of-rapid-support-forces-in-sudan",
+      "published_date": "2026-07-10T20:16:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "High court rejects most of ‘dieselgate’ claims brought by 1.6m UK car owners",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/04/fight-beaches-real-villain-europe-overtourism-big-business",
-      "published_date": "2026-07-04T04:00:02+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/business/2026/jul/10/high-court-rejects-most-of-dieselgate-claims-brought-by-16m-uk-car-owners",
+      "published_date": "2026-07-10T16:54:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris court hands monitor 18-month suspended sentence for assaulting preschooler in abuse scandal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260710-paris-court-hands-monitor-18-month-suspended-sentence-for-assaulting-preschooler-in-abuse-scandal",
+      "published_date": "2026-07-10T16:46:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin’s mayor abandons reelection campaign after ‘tennis-gate’ outcry",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/10/berlin-mayor-abandons-reelection-campaign-after-tennis-gate-outcry",
+      "published_date": "2026-07-10T16:10:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain wildfires: Deadliest blaze in 20 years",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/spain-wildfires-deadliest-blaze-in-20-years",
+      "published_date": "2026-07-10T15:54:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belgian Tim Merlier wins Tour de France 7th stage as Pogacar holds onto yellow jersey",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/live-news/20260710-merlier-wins-tour-de-france-seventh-stage-in-sprint-finish",
+      "published_date": "2026-07-10T15:51:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I had an incredible escape’: British woman tells of close encounter with Spanish wildfire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/10/i-had-an-incredible-escape-british-woman-tells-of-close-encounter-with-spanish-wildfire",
+      "published_date": "2026-07-10T14:25:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France into World Cup semi-finals : 'When it gets a bit difficult, they can hang in there'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-into-world-cup-semi-finals-when-it-gets-a-bit-difficult-they-can-hang-in-there",
+      "published_date": "2026-07-10T13:14:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spain faces deadly wildfires, at least 12 killed, 19 missing in Andalusia",
@@ -624,69 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/the-51/20260710-the-dark-side-of-the-world-cup-a-rise-in-domestic-violence",
       "published_date": "2026-07-10T10:05:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beatles mentor Lord Woodbine to feature in new BBC drama",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jul/10/lord-woodbine-beatles-bbc-drama-harold-phillips",
-      "published_date": "2026-07-10T06:00:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-10T05:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gazans mourn aid worker killed by Israel who organised public World Cup screenings",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260709-gazans-mourn-aid-worker-killed-by-israel-who-organised-public-world-cup-screenings",
-      "published_date": "2026-07-09T19:46:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Total Eclipse of the Heart' singer and 80s power ballad queen Bonnie Tyler dies aged 75",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/total-eclipse-singer-and-80s-power-ballad-queen-bonnie-tyler-dies-aged-75",
-      "published_date": "2026-07-09T14:46:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Kylian, forgive us': How the World Cup turned Mbappé's reputation around",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260709-kylian-forgive-us-how-the-world-cup-turned-mbapp%C3%A9-s-reputation-around",
-      "published_date": "2026-07-09T13:30:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Militia-like movements appear in Chad amid surge in intercommunal violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/militia-like-movements-appear-in-chad-amid-surge-in-intercommunal-violence",
-      "published_date": "2026-07-09T13:24:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigerian police under pressure to reform force amid public distrust",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nigerian-police-under-pressure-to-reform-force-amid-public-distrust",
-      "published_date": "2026-07-09T13:15:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Lucky', 'Ted Lasso' and 'Little House on the Prairie': TV series to watch this summer",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260709-lucky-ted-lasso-and-little-house-on-the-prairie-tv-series-to-watch-this-summer",
-      "published_date": "2026-07-09T12:46:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Secrecy surrounds Bayeux Tapestry's imminent Channel crossing",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260709-bayeux-tapestry-s-norman-conquest-story-crosses-the-channel-for-the-first-time",
-      "published_date": "2026-07-09T11:17:55+00:00",
       "category": "Local Events"
     }
   ]
