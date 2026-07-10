@@ -1,8 +1,71 @@
 {
   "country": "France",
-  "last_updated": "2026-07-10T00:01:02.701157+00:00",
-  "story_count": 96,
+  "last_updated": "2026-07-10T13:08:36.815324+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "President Erdogan’s unusual gift to NATO leaders sparks surprise",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/president-erdogan-s-unusual-gift-to-nato-leaders-sparks-surprise",
+      "published_date": "2026-07-10T12:44:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How top Syrian diplomat Asaad al-Shaibani’s road to Damascus is shaking the Mideast",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260710-how-top-syrian-diplomat-asaad-al-shaibani-road-damascus-shaking-mideast",
+      "published_date": "2026-07-10T12:17:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Surprise alliance gives non-independence bloc control of New Caledonia Congress",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260710-surprise-alliance-gives-non-independence-bloc-control-of-new-caledonia-congress",
+      "published_date": "2026-07-10T11:52:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU accuses Meta of failing to tackle mental health risks of ‘addictive design’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
+      "published_date": "2026-07-10T11:38:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Once again Trump brought his wrecking ball to the Nato summit, and once again the alliance survived. But for how long? | Paul Taylor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/10/trump-wrecking-ball-nato-summit-alliance-survived",
+      "published_date": "2026-07-10T10:51:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and Morocco set for blockbuster World Cup showdown",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-and-morocco-set-for-blockbuster-world-cup-showdown",
+      "published_date": "2026-07-10T10:42:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Facebook and Instagram must stop ‘addictive’ features like infinite scroll, EU tells Meta",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260710-facebook-and-instagram-must-stop-addictive-features-causing-infinite-scrolling-eu-tells-meta",
+      "published_date": "2026-07-10T10:15:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran had 'specific' plan to kill Trump, US media report citing Israeli intel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260710-iran-had-specific-plan-kill-trump-us-media-israeli-intel",
+      "published_date": "2026-07-10T07:33:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Heatwave across western Europe – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/gallery/2026/jul/10/heatwave-across-western-europe-in-pictures",
+      "published_date": "2026-07-10T05:00:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria arrests ISIS-linked suspects over Damascus bombings during Macron visit",
       "source": "France 24",
@@ -25,6 +88,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "La Belle Vie: Navigating the heatwave in France and the rise of non-alcoholic drinks",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260709/la-belle-vie-navigating-the-heatwave-in-france-and-the-rise-of-non-alcoholic-drinks",
+      "published_date": "2026-07-09T15:50:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Turkey: Erdogan gives NATO leaders pistols with ammunition after summit",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260709-turkey-erdogan-gives-nato-leaders-pistols-with-ammunition-after-summit",
@@ -36,6 +106,20 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/entre-nous/20260709-why-are-macron-s-aviator-glasses-in-the-spotlight-again",
       "published_date": "2026-07-09T15:24:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Heat domes test Europe's climate resilience: Is the EU ready for a hotter future?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260709-heat-domes-expose-cracks-in-europe-s-climate-resilience-is-the-eu-planning-for-a-hotter-future",
+      "published_date": "2026-07-09T12:45:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sustainable transport key to Europe's 'strategic independence', EU Commissioner Tzitzikostas",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260709-sustainable-transport-is-about-our-strategic-independence-eu-commissioner-apostolos-tzitzikostas",
+      "published_date": "2026-07-09T12:45:27+00:00",
       "category": "Diplomacy"
     },
     {
@@ -60,88 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Les Bleus and the Atlas Lions kick off blockbuster World Cup quarter-finals",
+      "title": "Can Ukraine really build its own Patriots?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/les-bleus-and-the-atlas-lions-kick-off-blockbuster-world-cup-quarter-finals",
-      "published_date": "2026-07-09T10:35:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/can-ukraine-really-build-its-own-patriots",
+      "published_date": "2026-07-10T11:59:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "'The US and Iran don't want a return to full-scale warfare, but neither can appear to be the loser'",
+      "title": "Iran ramps up regional pressure after renewed US strikes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/the-us-and-iran-don-t-want-a-return-to-full-scale-warfare-but-neither-can-appear-to-be-the-loser",
-      "published_date": "2026-07-09T10:21:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/iran-ramps-up-regional-pressure-after-renewed-us-strikes",
+      "published_date": "2026-07-10T11:07:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU set to delay roll out of €20 ETIAS travel authorisation scheme until 2027",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260709/eu-set-to-delay-roll-out-of-e20-etias-travel-authorisation-scheme-until-2027",
-      "published_date": "2026-07-09T09:25:53+00:00",
-      "category": "Diplomacy"
+      "title": "Defence spending, Erdogan-style: Guns for NATO leaders",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260710-defence-spending-erdogan-style-guns-for-nato-leaders",
+      "published_date": "2026-07-10T09:34:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘A lot of art in Ireland was made by one type of man’: Richard Malone on taking his colourful fabric creations to the EU Council",
+      "title": "What future for Gaza after Hamas dissolves governing body?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260710-what-future-for-gaza-after-hamas-dissolves-governing-body",
+      "published_date": "2026-07-10T09:24:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US private equity firm Apollo enters bidding war for easyJet with £5.7bn offer",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/jul/09/richard-malone-ireland-eu-presidency-council",
-      "published_date": "2026-07-09T09:15:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/jul/10/us-private-equity-firm-apollo-enters-bidding-war-for-easyjet",
+      "published_date": "2026-07-10T06:38:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Western Europe records hottest ever June as climate change drives heatwaves",
+      "title": "Spain's unbeaten defence to meet Belgium's late surge in LA quarter-final",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260709-western-europe-records-hottest-ever-june-as-climate-change-drives-heatwaves",
-      "published_date": "2026-07-09T06:06:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/sports/20260710-spain-aim-for-world-cup-date-with-france-by-beating-belgium",
+      "published_date": "2026-07-10T06:26:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Western Europe records hottest-ever June as heatwaves intensify",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/09/western-europe-records-hottest-ever-june-as-heatwaves-intensify",
-      "published_date": "2026-07-09T04:00:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Western Europe records its hottest June after searing heatwave",
+      "title": "France book World Cup semi-final place with win over Morocco thanks to Mbappé, Dembélé",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260709-western-europe-records-its-hottest-june-on-record-says-eu-climate-monitor",
-      "published_date": "2026-07-09T03:47:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/sports/20260710-france-book-world-cup-semi-final-place-with-win-over-morocco-thanks-to-mbapp%C3%A9-demb%C3%A9l%C3%A9",
+      "published_date": "2026-07-10T05:57:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump switches back to flying on older Air Force One for England trip instead of new Qatari jet",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip",
-      "published_date": "2026-07-08T22:49:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nato chief tells BBC that Trump comments are like 'family argument'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-08T20:58:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Greenlanders reject Trump's renewed push for control of island",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/greenlanders-reject-trump-s-renewed-push-for-control-of-island",
-      "published_date": "2026-07-08T19:52:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sabre-rattling to ‘tremendous love’: erratic Trump dominates final hours of Nato summit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/08/erratic-trump-dominates-final-hours-nato-summit",
-      "published_date": "2026-07-08T19:00:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "REPLAY: Trump meets with Syria's al-Sharaa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260708-replay-trump-meets-with-syria-s-al-sharaa",
-      "published_date": "2026-07-08T15:36:09+00:00",
-      "category": "Diplomacy"
+      "title": "Mbappé plays down injury fears after France beat Morocco to reach World Cup semis",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260710-mbapp%C3%A9-plays-down-injury-fear-after-france-beat-morocco-to-reach-world-cup-semis-world-cup-2026",
+      "published_date": "2026-07-10T05:19:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Live: Iran buries Khamenei after new fighting with US erupts",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran betting Trump 'doesn't have the stomach to go back to full-scale war'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-betting-trump-doesn-t-have-the-stomach-to-go-back-to-full-scale-war",
-      "published_date": "2026-07-09T10:49:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US gives Ukraine licence to build Patriot missiles for its air defence system",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-gives-ukraine-licence-to-build-patriot-missiles-for-its-air-defence-system",
-      "published_date": "2026-07-09T10:29:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia bans oil exports as Ukraine strikes cause fuel shortages",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-bans-oil-exports-as-ukraine-strikes-cause-fuel-shortages",
-      "published_date": "2026-07-09T10:23:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK to lead European initiative to fund next generation of long-range missiles",
+      "title": "France must speed up climate action, as watchdog warns current efforts fall short",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260709-uk-to-lead-european-initiative-to-fund-next-generation-of-long-range-missiles",
-      "published_date": "2026-07-09T10:12:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran to bury slain Ayatollah Ali Khamenei as week-long funeral ceremonies draw to a close",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-bury-slain-leader-ali-khamenei-culmination-funeral-procession",
-      "published_date": "2026-07-09T09:54:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "July 14th: What’s happening during France’s Fête nationale this year",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260709/july-14th-whats-happening-during-frances-fete-nationale-this-year-2",
-      "published_date": "2026-07-09T07:41:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump moves to remove Syria from US list of state sponsors of terrorism",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260708-trump-moves-to-remove-syria-from-us-list-of-state-sponsors-of-terrorism",
-      "published_date": "2026-07-08T23:07:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says it's carrying out more strikes after Iran’s attacks in Strait of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260708-us-says-it-s-carrying-out-more-strikes-after-iran-s-attacks-in-strait-of-hormuz",
-      "published_date": "2026-07-08T21:08:07+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/france/20260710-france-must-speed-up-climate-action-as-watchdog-warns-current-efforts-fall-short",
+      "published_date": "2026-07-10T05:24:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK swelters in third heatwave of the year as western Europe counts cost of hottest-ever June",
@@ -401,6 +408,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-04T00:57:05+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "French billionaire becomes Vodafone’s largest shareholder with £4.4bn stake",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/10/french-billionaire-becomes-vodafone-largest-shareholder-xavier-niel",
+      "published_date": "2026-07-10T11:05:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Nigeria probes made-up 'presidential' agency that secured thousands in public funds",
@@ -536,6 +550,97 @@
       "category": "Economy"
     },
     {
+      "title": "Spain faces deadly wildfires, at least 12 killed, 19 missing in Andalusia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/spain-faces-deadly-wildfires-at-least-12-killed-19-missing-in-andalusia",
+      "published_date": "2026-07-10T12:56:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ryanair passenger almost sucked out of shattered window during flight",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/10/ryanair-passenger-almost-sucked-out-of-shattered-window-during-flight",
+      "published_date": "2026-07-10T12:54:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 12 dead and 23 missing in wildfire in southern Spain",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-10T12:25:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mahmood’s cutting of protections to enable ‘one in, one out’ asylum deal with France ruled unlawful",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/10/home-office-policy-protections-trafficking-victims-ruled-unlawful",
+      "published_date": "2026-07-10T12:13:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bayeux Tapestry’s extraordinary journey back to Britain",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/the-bayeux-tapestry-s-extraordinary-journey-back-to-britain",
+      "published_date": "2026-07-10T12:01:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Foreign workers feel the heat as Japan hardens nationalist stance",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/access-asia/20260710-foreign-workers-feel-the-heat-as-japan-hardens-nationalist-stance",
+      "published_date": "2026-07-10T11:57:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfires in southern Spain kill at least 12 amid soaring temperatures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar",
+      "published_date": "2026-07-10T11:52:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil: Sao Paulo's AI surveillance system accused of racial profiling",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260710-brazil-sao-paulo-s-ai-surveillance-system-accused-of-racial-profiling",
+      "published_date": "2026-07-10T10:24:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026: Paris celebrates France's win against Morocco",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260710-world-cup-2026-paris-celebrates-france-s-win-against-morocco",
+      "published_date": "2026-07-10T10:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A cultural stroll through Paris with Kalash and Manon Lisa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/paris-des-arts/20260710-a-cultural-stroll-through-paris-with-kalash-and-manon-lisa",
+      "published_date": "2026-07-10T10:14:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The dark side of the World Cup: A rise in domestic violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-51/20260710-the-dark-side-of-the-world-cup-a-rise-in-domestic-violence",
+      "published_date": "2026-07-10T10:05:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beatles mentor Lord Woodbine to feature in new BBC drama",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/jul/10/lord-woodbine-beatles-bbc-drama-harold-phillips",
+      "published_date": "2026-07-10T06:00:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-10T05:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Gazans mourn aid worker killed by Israel who organised public World Cup screenings",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260709-gazans-mourn-aid-worker-killed-by-israel-who-organised-public-world-cup-screenings",
@@ -582,97 +687,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260709-bayeux-tapestry-s-norman-conquest-story-crosses-the-channel-for-the-first-time",
       "published_date": "2026-07-09T11:17:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nice 2016 terror attack: A decade of grief",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20260709-nice-2016-terror-attack-a-decade-of-grief",
-      "published_date": "2026-07-09T10:36:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What's next for France's presidential race after Le Pen legal gamble?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260709/whats-next-for-frances-presidential-race-after-le-pen-legal-gamble",
-      "published_date": "2026-07-09T06:47:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How appeal court verdict against Le Pen puts her back in the running for 2027",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260709-how-appeal-court-verdict-against-le-pen-puts-her-back-in-the-running-for-2027",
-      "published_date": "2026-07-09T05:09:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Populism unites Le Pen and Farage. But she is a step closer to power",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/09/populism-unites-le-pen-and-farage-but-she-is-a-step-closer-to-power",
-      "published_date": "2026-07-09T04:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Bordeaux's brand new eco-district of Brazza, homes turn into ovens during the heatwave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/in-bordeaux-s-brand-new-eco-district-of-brazza-homes-turn-into-ovens-during-the-heatwave",
-      "published_date": "2026-07-08T19:04:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen ‘wants to talk politics’, but can she drown out the legal noise?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-french-presidential-campaign-elections-embezzlement",
-      "published_date": "2026-07-08T18:40:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Marine Le Pen’s candidacy: a dangerous gamble | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/08/the-guardian-view-on-marine-le-pen-candidacy-a-dangerous-gamble",
-      "published_date": "2026-07-08T17:30:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen will run for election in 2027. Will she have to wear an electronic tag?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-election-2027",
-      "published_date": "2026-07-08T17:22:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France 2027 Elections: A clash of two extremes could lead to 'easy' Le Pen win",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260708-france-2027-elections-a-clash-of-two-extremes-could-lead-to-easy-le-pen-win",
-      "published_date": "2026-07-08T16:29:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What does Le Pen's presidential bid mean for relationship with Bardella?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260708-what-does-le-pen-s-presidential-bid-mean-for-relationship-with-bardella",
-      "published_date": "2026-07-08T15:42:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regime supporters and opposition share AI-generated images of Khamenei’s funeral",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260708-regime-supporters-opposition-share-ai-generated-images-khamenei-funeral",
-      "published_date": "2026-07-08T15:32:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-08T15:09:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen launches France presidential campaign after ban reduced",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/08/marine-le-pen-launches-france-presidential-campaign-court-decision-ban-electronic-tag",
-      "published_date": "2026-07-08T12:57:50+00:00",
       "category": "Local Events"
     }
   ]
