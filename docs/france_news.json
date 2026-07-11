@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-07-10T23:54:47.187634+00:00",
+  "last_updated": "2026-07-11T11:49:02.010787+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Sudan: EU calls for terrorist listing of RSF",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260711-sudan-eu-calls-for-terrorist-listing-of-rsf",
+      "published_date": "2026-07-11T09:23:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran: Forewarnings and a Funeral, NATO, Le Pen",
       "source": "France 24",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Turkey: Erdogan gives NATO leaders pistols with ammunition after summit",
+      "title": "11 injured in overnight Russian missile and drone strikes on Kyiv",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260709-turkey-erdogan-gives-nato-leaders-pistols-with-ammunition-after-summit",
-      "published_date": "2026-07-09T15:48:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260711-11-injured-in-overnight-russian-missile-and-drone-strikes-on-kyiv",
+      "published_date": "2026-07-11T09:08:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Alfred Dreyfus statue to finally receive permanent home in central Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/11/alfred-dreyfus-statue-permanent-spot-central-paris-france",
+      "published_date": "2026-07-11T09:00:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Patriot missile license a 'long-term' investment for Ukraine – but can it afford the wait?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260711-patriot-missile-license-ukraine-can-it-afford-the-wait-trump",
+      "published_date": "2026-07-11T05:11:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy creates ‘long-range impact’ command to strike Russian energy sector",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/11/ukraine-war-briefing-zelenskyy-long-range-impact-command-russian-energy-strikes",
+      "published_date": "2026-07-11T03:02:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Mali rebels attack convoy of Russian reinforcements headed to besieged military camp",
+      "title": "EACOP: Ugandan farmers sue UK company in London",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260709-tuareg-separatists-attack-convoy-of-russian-mercenaries-and-malian-troops",
-      "published_date": "2026-07-09T16:09:41+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260711-eacop-ugandan-farmers-sue-uk-company-in-london",
+      "published_date": "2026-07-11T09:26:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran claims US strike hit near nuclear powerplant",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-claims-us-strike-hit-near-nuclear-powerplant",
-      "published_date": "2026-07-09T15:48:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T15:21:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US will give Ukraine licence to build Patriot missiles",
+      "title": "French farmers race to adapt as repeated heatwaves hit crops and livestock",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260709-trump-at-nato-summit-says-us-will-let-ukraine-build-patriot-missiles",
-      "published_date": "2026-07-09T14:27:49+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/france/20260711-french-farmers-race-to-adapt-as-repeated-heatwaves-hit-crops-and-livestock",
+      "published_date": "2026-07-11T07:04:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘The worst possible combination’: what has caused Spain’s deadly wildfires?",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Rescue teams wind down operations as death toll nears 3,000",
+      "title": "France roar back with 30 straight points to beat Australia in Nations Championship",
       "source": "France 24",
-      "url": "https://www.france24.com/en/rescue-teams-wind-down-operations-as-death-toll-nears-3-000",
-      "published_date": "2026-07-05T10:17:43+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/sport/20260711-france-roar-back-with-30-straight-points-to-beat-australia-in-nations-championship",
+      "published_date": "2026-07-11T09:51:10+00:00",
+      "category": "Economy"
     },
     {
-      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-04T00:57:05+00:00",
-      "category": "Energy"
+      "title": "Ryanair has axed its family seating policy – but kids’ fees still add up",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/travel/2026/jul/11/ryanair-family-seating-policy-kids-fees-airfare-flight-airline-charges",
+      "published_date": "2026-07-11T05:00:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "The bulging in-tray of challenges Andy Burnham faces upon entering No 10",
@@ -550,18 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "From memes to political movement, India's 'Cockroach' party leads youth revolt",
+      "title": "Capital punishment in Pakistan: 'Islam does not promote the death penalty'",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260705-india-cockroach-party-transforms-online-satire-into-youth-revolt-cjp-dipke-protest",
-      "published_date": "2026-07-05T07:30:37+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/international/20260711-capital-punishment-in-pakistan-islam-does-not-promote-the-death-penalty",
+      "published_date": "2026-07-11T10:57:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump hails American exceptionalism, evokes 'communist menace' at 250th celebration",
+      "title": "Kenya court to rule on Rastafarians' cannabis petition",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260704-trump-hails-american-exceptionalism-before-railing-at-communism-in-us-250th-celebration",
-      "published_date": "2026-07-04T06:00:15+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260711-kenya-court-to-rule-on-rastafarians-cannabis-petition",
+      "published_date": "2026-07-11T09:28:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain into World Cup semi-final with France after late strike against Belgium",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260711-spain-into-world-cup-semi-final-with-france-after-late-strike-against-belgium",
+      "published_date": "2026-07-11T09:21:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "China evacuates over one million as Typhoon Bavi nears",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260711-china-evacuates-over-one-million-as-typhoon-bavi-nears",
+      "published_date": "2026-07-11T09:18:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Politicians have always been schemers’: upheld conviction fails to dent Le Pen’s popularity",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/11/upheld-conviction-le-pen-popularity-france",
+      "published_date": "2026-07-11T08:00:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Panino police: packed lunch bans enrage Italians at pricey beach clubs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/11/ban-on-packed-lunches-at-italian-beach-enrages-customers",
+      "published_date": "2026-07-11T06:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haaland’s hometown hails ‘little boy who grew into a huge Viking’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans",
+      "published_date": "2026-07-11T04:00:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Police arrest suspect in killing of former UK minister Ann Widdecombe",
@@ -652,55 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jul/10/home-office-policy-protections-trafficking-victims-ruled-unlawful",
       "published_date": "2026-07-10T12:13:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Bayeux Tapestry’s extraordinary journey back to Britain",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/the-bayeux-tapestry-s-extraordinary-journey-back-to-britain",
-      "published_date": "2026-07-10T12:01:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foreign workers feel the heat as Japan hardens nationalist stance",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20260710-foreign-workers-feel-the-heat-as-japan-hardens-nationalist-stance",
-      "published_date": "2026-07-10T11:57:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires in southern Spain kill at least 12 amid soaring temperatures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar",
-      "published_date": "2026-07-10T11:52:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil: Sao Paulo's AI surveillance system accused of racial profiling",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260710-brazil-sao-paulo-s-ai-surveillance-system-accused-of-racial-profiling",
-      "published_date": "2026-07-10T10:24:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: Paris celebrates France's win against Morocco",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260710-world-cup-2026-paris-celebrates-france-s-win-against-morocco",
-      "published_date": "2026-07-10T10:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A cultural stroll through Paris with Kalash and Manon Lisa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/paris-des-arts/20260710-a-cultural-stroll-through-paris-with-kalash-and-manon-lisa",
-      "published_date": "2026-07-10T10:14:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The dark side of the World Cup: A rise in domestic violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-51/20260710-the-dark-side-of-the-world-cup-a-rise-in-domestic-violence",
-      "published_date": "2026-07-10T10:05:44+00:00",
       "category": "Local Events"
     }
   ]
