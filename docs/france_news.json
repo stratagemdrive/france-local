@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-07-11T11:49:02.010787+00:00",
+  "last_updated": "2026-07-11T23:51:32.778470+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Global population at 8.3 billion: What does that mean for anyone under 30?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260711-global-population-at-8-3-billion-what-does-that-mean-for-anyone-under-30",
+      "published_date": "2026-07-11T21:48:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What makes the Sultanate of Oman the Gulf's geopolitical exception?",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260711-what-makes-the-sultanate-of-oman-the-gulf-s-geopolitical-exception",
+      "published_date": "2026-07-11T15:15:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudan: EU calls for terrorist listing of RSF",
       "source": "France 24",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nato leaders surprised by Turkish president’s gift of guns after summit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/09/turkish-president-gives-nato-leaders-engraved-guns-and-bullets-at-summit",
-      "published_date": "2026-07-09T16:32:50+00:00",
-      "category": "Diplomacy"
+      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-11T21:56:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "La Belle Vie: Navigating the heatwave in France and the rise of non-alcoholic drinks",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260709/la-belle-vie-navigating-the-heatwave-in-france-and-the-rise-of-non-alcoholic-drinks",
-      "published_date": "2026-07-09T15:50:42+00:00",
-      "category": "Diplomacy"
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One story",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260711-trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story",
+      "published_date": "2026-07-11T19:25:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Overnight Russian missile and drone strikes on Ukraine kill eight, officials say",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260711-overnight-russian-missile-and-drone-strikes-on-ukraine-kill-six-officials-say",
+      "published_date": "2026-07-11T15:44:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "11 wounded in overnight Russian missile and drone strikes on Kyiv",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260711-11-wounded-in-overnight-russian-missile-and-drone-strikes-on-kyiv",
+      "published_date": "2026-07-11T14:54:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump and Iran's supreme leader trade threats as mediators try to save deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260711-trump-and-iran-s-supreme-leader-trade-threats-as-mediators-try-to-save-deal",
+      "published_date": "2026-07-11T10:05:13+00:00",
+      "category": "Military"
     },
     {
       "title": "11 injured in overnight Russian missile and drone strikes on Kyiv",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Live: Iran buries Khamenei after new fighting with US erupts",
+      "title": "Cuba suffers second nationwide blackout in five days",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260709-live-iran-buries-khamenei-after-new-fighting-with-us-erupts",
-      "published_date": "2026-07-09T23:59:26+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260711-cuba-suffers-second-nationwide-blackout-in-five-days",
+      "published_date": "2026-07-11T16:24:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Fifteen years of independence for South Sudan, but still little to celebrate",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260709-fifteen-years-of-independence-for-south-sudan-but-still-little-to-celebrate",
-      "published_date": "2026-07-09T21:06:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T20:47:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Technical details need to be agreed before Ukraine can produce Patriot missiles, Zelensky says",
+      "title": "An islandwide blackout strikes Cuba for the second time this week",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260709-technical-details-need-to-be-agreed-before-ukraine-can-produce-patriot-missiles-zelensky-says",
-      "published_date": "2026-07-09T19:58:56+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260711-an-islandwide-blackout-strikes-cuba-for-the-second-time-this-week",
+      "published_date": "2026-07-11T16:06:27+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Daphne Caruana Galizia screamed in panic before explosion that killed her, court hears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/09/daphne-caruana-galizia-explosion-killed-her-witness-court",
-      "published_date": "2026-07-09T18:03:14+00:00",
-      "category": "Military"
+      "title": "Climate change: Women paying the price of a hotter planet",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260711-climate-change-the-gender-cost-of-a-hotter-planet",
+      "published_date": "2026-07-11T14:33:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "EACOP: Ugandan farmers sue UK company in London",
@@ -403,31 +424,24 @@
       "category": "Energy"
     },
     {
-      "title": "Remember water power in the renewables mix | Brief letters",
+      "title": "Elon Musk’s family foundation took Tommy Robinson to Russia, says Musk’s father",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/07/remember-water-power-in-the-renewables-mix",
-      "published_date": "2026-07-07T15:32:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Climate justice in Africa: floods, fossil fuels and the fightback",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-africa/20260707-climate-justice-in-africa-floods-fossil-fuels-and-the-fightback",
-      "published_date": "2026-07-07T12:27:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘Better safe than sorry’: Greece installs floating barrier to ward off toxic fish",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/06/greece-floating-barrier-pufferfish-warming-waters",
-      "published_date": "2026-07-06T09:00:02+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/uk-news/2026/jul/11/elon-musk-family-foundation-took-tommy-robinson-to-russia-says-musks-father",
+      "published_date": "2026-07-11T16:04:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "France roar back with 30 straight points to beat Australia in Nations Championship",
       "source": "France 24",
       "url": "https://www.france24.com/en/sport/20260711-france-roar-back-with-30-straight-points-to-beat-australia-in-nations-championship",
       "published_date": "2026-07-11T09:51:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Belgium to introduce road tax for transiting drivers",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260711/belgium-to-introduce-road-tax-for-transiting-drivers",
+      "published_date": "2026-07-11T08:21:29+00:00",
       "category": "Economy"
     },
     {
@@ -550,24 +564,66 @@
       "category": "Economy"
     },
     {
-      "title": "As a new heatwave looms, Europe falls for Chinese air conditioners",
+      "title": "The Rise and Pause of Jordan Bardella",
       "source": "France 24",
-      "url": "https://www.france24.com/en/as-a-new-heatwave-looms-europe-falls-for-chinese-air-conditioners",
-      "published_date": "2026-07-06T10:32:44+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260711-the-rise-and-pause-of-jordan-bardella",
+      "published_date": "2026-07-11T18:05:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The EU that the UK left no longer exists | Mujtaba Rahman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/06/eu-uk-andy-burnham-britain-rejoin",
-      "published_date": "2026-07-06T04:00:01+00:00",
-      "category": "Economy"
+      "title": "Famous Paris tourist sites close early as France swelters under heatwave",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260711/famous-paris-tourist-sites-close-early-as-france-swelters-under-heatwave",
+      "published_date": "2026-07-11T18:03:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Noskova survives tearful meltdown to win first Wimbledon title",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260711-noskova-survives-tearful-meltdown-to-win-first-wimbledon-title",
+      "published_date": "2026-07-11T17:49:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa 2026 World Cup midfielder Jayden Adams dies at 25",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260711-south-africa-2026-world-cup-midfielder-jayden-adams-dies-at-25",
+      "published_date": "2026-07-11T15:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eiffel Tower, Louvre close early as France faces third heatwave in three months",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260711-eiffel-tower-louvre-close-early-as-france-faces-third-heatwave-in-three-months",
+      "published_date": "2026-07-11T13:52:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris landmarks close early as France swelters under third heatwave since May",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260711-paris-landmarks-to-close-early-as-france-swelters-under-third-heatwave-since-may",
+      "published_date": "2026-07-11T12:37:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026 : Spain set for blockbuster semi final against France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260711-world-cup-2026-spain-set-for-blockbuster-semi-final-against-france",
+      "published_date": "2026-07-11T11:56:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Capital punishment in Pakistan: 'Islam does not promote the death penalty'",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/international/20260711-capital-punishment-in-pakistan-islam-does-not-promote-the-death-penalty",
       "published_date": "2026-07-11T10:57:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firefighters gain upper hand on 'horrific' Spain wildfires that killed at least 12",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260711-firefighters-gain-upper-hand-on-horrific-spain-wildfire-that-killed-at-least-12",
+      "published_date": "2026-07-11T10:39:12+00:00",
       "category": "Local Events"
     },
     {
@@ -599,6 +655,13 @@
       "category": "Local Events"
     },
     {
+      "title": "France jails murderer who scattered wife's remains in Paris park",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260711/france-jails-murderer-who-scattered-wifes-remains-in-paris-park",
+      "published_date": "2026-07-11T07:50:47+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Panino police: packed lunch bans enrage Italians at pricey beach clubs",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/11/ban-on-packed-lunches-at-italian-beach-enrages-customers",
@@ -610,6 +673,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans",
       "published_date": "2026-07-11T04:00:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-10T23:02:35+00:00",
       "category": "Local Events"
     },
     {
@@ -627,80 +697,10 @@
       "category": "Local Events"
     },
     {
-      "title": "High court rejects most of ‘dieselgate’ claims brought by 1.6m UK car owners",
+      "title": "Fast-spreading wildfire kills at least 12 in southern Spain",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/10/high-court-rejects-most-of-dieselgate-claims-brought-by-16m-uk-car-owners",
-      "published_date": "2026-07-10T16:54:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris court hands monitor 18-month suspended sentence for assaulting preschooler in abuse scandal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260710-paris-court-hands-monitor-18-month-suspended-sentence-for-assaulting-preschooler-in-abuse-scandal",
-      "published_date": "2026-07-10T16:46:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berlin’s mayor abandons reelection campaign after ‘tennis-gate’ outcry",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/berlin-mayor-abandons-reelection-campaign-after-tennis-gate-outcry",
-      "published_date": "2026-07-10T16:10:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain wildfires: Deadliest blaze in 20 years",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/spain-wildfires-deadliest-blaze-in-20-years",
-      "published_date": "2026-07-10T15:54:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belgian Tim Merlier wins Tour de France 7th stage as Pogacar holds onto yellow jersey",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260710-merlier-wins-tour-de-france-seventh-stage-in-sprint-finish",
-      "published_date": "2026-07-10T15:51:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I had an incredible escape’: British woman tells of close encounter with Spanish wildfire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/i-had-an-incredible-escape-british-woman-tells-of-close-encounter-with-spanish-wildfire",
-      "published_date": "2026-07-10T14:25:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France into World Cup semi-finals : 'When it gets a bit difficult, they can hang in there'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-into-world-cup-semi-finals-when-it-gets-a-bit-difficult-they-can-hang-in-there",
-      "published_date": "2026-07-10T13:14:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain faces deadly wildfires, at least 12 killed, 19 missing in Andalusia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/spain-faces-deadly-wildfires-at-least-12-killed-19-missing-in-andalusia",
-      "published_date": "2026-07-10T12:56:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ryanair passenger almost sucked out of shattered window during flight",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/10/ryanair-passenger-almost-sucked-out-of-shattered-window-during-flight",
-      "published_date": "2026-07-10T12:54:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 12 dead and 23 missing in wildfire in southern Spain",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-10T12:25:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mahmood’s cutting of protections to enable ‘one in, one out’ asylum deal with France ruled unlawful",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/10/home-office-policy-protections-trafficking-victims-ruled-unlawful",
-      "published_date": "2026-07-10T12:13:34+00:00",
+      "url": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar",
+      "published_date": "2026-07-10T17:06:09+00:00",
       "category": "Local Events"
     }
   ]
