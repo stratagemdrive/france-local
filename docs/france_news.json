@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-07-11T23:51:32.778470+00:00",
+  "last_updated": "2026-07-12T11:54:56.875668+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "When the heatwave will end, airline rules and safe swimming: essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260712/when-the-heatwave-will-end-airline-rules-and-safe-swimming-essential-articles-for-life-in-france",
+      "published_date": "2026-07-12T08:48:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "As Germany cuts a deal on US missiles, Europe weighs up dependence on Washington",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260712-as-germany-cuts-a-deal-on-us-missiles-europe-weighs-up-dependence-on-washington-tomahawk",
+      "published_date": "2026-07-12T07:04:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Global population at 8.3 billion: What does that mean for anyone under 30?",
       "source": "France 24",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria arrests ISIS-linked suspects over Damascus bombings during Macron visit",
+      "title": "US strikes Iran, Tehran hits Gulf states, says Strait of Hormuz closed",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260709-syria-arrests-isis-suspects-damascus-bombings-macron-visit",
-      "published_date": "2026-07-09T23:00:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260712-us-strikes-iran-tehran-hits-gulf-states-says-strait-of-hormuz-closed",
+      "published_date": "2026-07-12T09:11:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN 'deeply concerned' by ongoing drone attack in Sudan",
+      "title": "Russian strikes kill eight in Ukraine, officials say",
       "source": "France 24",
-      "url": "https://www.france24.com/en/un-deeply-concerned-by-ongoing-drone-attack-in-sudan",
-      "published_date": "2026-07-09T20:29:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260712-russian-strikes-kill-eight-in-ukraine-officials-say",
+      "published_date": "2026-07-12T09:09:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "People flee as Russian strike hits near Ukraine coffee shop",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T09:03:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "To make wine is to believe in the future: the Ukrainians growing grapes on the frontline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/12/ukrainians-winemakers-russian-invasion-frontline",
+      "published_date": "2026-07-12T06:00:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Live: US launches strikes after Iran fires on ship in Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
+      "published_date": "2026-07-12T05:05:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy decries housing of weapons in civilian area after Russian strike kills 10",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/12/ukraine-war-briefing-zelenskyy-decries-housing-of-weapons-in-civilian-area-kyiv-russian-strike-deaths",
+      "published_date": "2026-07-12T02:13:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
@@ -239,48 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/iran-ramps-up-regional-pressure-after-renewed-us-strikes",
       "published_date": "2026-07-10T11:07:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defence spending, Erdogan-style: Guns for NATO leaders",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260710-defence-spending-erdogan-style-guns-for-nato-leaders",
-      "published_date": "2026-07-10T09:34:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What future for Gaza after Hamas dissolves governing body?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260710-what-future-for-gaza-after-hamas-dissolves-governing-body",
-      "published_date": "2026-07-10T09:24:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US private equity firm Apollo enters bidding war for easyJet with £5.7bn offer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/10/us-private-equity-firm-apollo-enters-bidding-war-for-easyjet",
-      "published_date": "2026-07-10T06:38:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain's unbeaten defence to meet Belgium's late surge in LA quarter-final",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260710-spain-aim-for-world-cup-date-with-france-by-beating-belgium",
-      "published_date": "2026-07-10T06:26:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France book World Cup semi-final place with win over Morocco thanks to Mbappé, Dembélé",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260710-france-book-world-cup-semi-final-place-with-win-over-morocco-thanks-to-mbapp%C3%A9-demb%C3%A9l%C3%A9",
-      "published_date": "2026-07-10T05:57:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mbappé plays down injury fears after France beat Morocco to reach World Cup semis",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260710-mbapp%C3%A9-plays-down-injury-fear-after-france-beat-morocco-to-reach-world-cup-semis-world-cup-2026",
-      "published_date": "2026-07-10T05:19:08+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "EU accused of dragging its feet over ban on trade with illegal Israeli settlements",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements",
+      "published_date": "2026-07-12T05:00:09+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Elon Musk’s family foundation took Tommy Robinson to Russia, says Musk’s father",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jul/11/elon-musk-family-foundation-took-tommy-robinson-to-russia-says-musks-father",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Netflix, Disney+, Amazon appeal new French rules over investment",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260706/netflix-disney-amazon-appeal-new-french-rules-over-investment",
-      "published_date": "2026-07-06T13:08:44+00:00",
-      "category": "Economy"
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T11:23:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week in pictures: Le Pen's comeback, Khamenei's funeral and Mbappé's wondergoal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260712-the-week-in-pictures-le-pen-s-comeback-khamenei-s-funeral-and-mbapp%C3%A9-s-wondergoal",
+      "published_date": "2026-07-12T10:53:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eiffel Tower to close early as heatwave hits France: operator",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260712-eiffel-tower-to-close-early-as-heatwave-hits-france-operator",
+      "published_date": "2026-07-12T10:42:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Typhoon slams into eastern China after forcing nearly two million people to flee",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260712-typhoon-slams-into-eastern-china-as-more-than-2-million-people-evacuated",
+      "published_date": "2026-07-12T06:30:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bellingham upstages Kane and Haaland to fire England into World Cup semi-finals",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260711-bellingham-upstages-kane-and-haaland-to-fire-england-into-world-cup-semi-finals-world-cup-2026",
+      "published_date": "2026-07-11T23:52:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Rise and Pause of Jordan Bardella",
@@ -666,41 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/11/ban-on-packed-lunches-at-italian-beach-enrages-customers",
       "published_date": "2026-07-11T06:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haaland’s hometown hails ‘little boy who grew into a huge Viking’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans",
-      "published_date": "2026-07-11T04:00:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-10T23:02:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police arrest suspect in killing of former UK minister Ann Widdecombe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260710-police-arrest-suspect-in-killing-of-former-uk-minister-ann-widdecombe",
-      "published_date": "2026-07-10T20:25:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "European Parliament calls for terrorist listing of Rapid Support Forces in Sudan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260710-european-parliament-calls-for-terrorist-listing-of-rapid-support-forces-in-sudan",
-      "published_date": "2026-07-10T20:16:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fast-spreading wildfire kills at least 12 in southern Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar",
-      "published_date": "2026-07-10T17:06:09+00:00",
       "category": "Local Events"
     }
   ]
