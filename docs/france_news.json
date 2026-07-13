@@ -1,8 +1,85 @@
 {
   "country": "France",
-  "last_updated": "2026-07-12T23:49:59.817166+00:00",
+  "last_updated": "2026-07-13T13:17:05.086984+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ursula von der Leyen pledges EU-wide social media ban for children",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/13/eu-social-media-ban-children-under-13-ursula-von-der-leyen",
+      "published_date": "2026-07-13T12:52:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine to present its anti-ballistic programme at Paris meeting today, Zelenskyy says – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates",
+      "published_date": "2026-07-13T12:49:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump’s Nato remarks rang hollow – but he recognizes something real | Christopher S Chivvis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/13/trump-nato-international-alliances",
+      "published_date": "2026-07-13T12:00:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Replay: Emmanuel Macron addresses armed forces for the last time",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/replay-emmanuel-macron-addresses-armed-forces-for-the-last-time",
+      "published_date": "2026-07-13T11:00:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump lifts Turkey sanctions, eyes F-35 sale",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260713-trump-lifts-turkey-sanctions-eyes-f-35-sale",
+      "published_date": "2026-07-13T10:19:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU to limit children's access to social media",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260713/eu-to-limit-childrens-access-to-social-media",
+      "published_date": "2026-07-13T10:02:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron says France has fulfilled 'commitment to rearm' in annual speech to military",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260713-watch-live-macron-addresses-french-military-on-eve-of-bastille-day",
+      "published_date": "2026-07-13T09:56:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How heatwaves are changing France's real-estate market",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260713-how-heatwaves-are-changing-france-s-real-estate-market",
+      "published_date": "2026-07-13T09:04:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Paris to summon Russia envoy over 'cyber campaign' in Europe",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260713/paris-to-summon-russia-envoy-over-cyber-campaign-in-europe",
+      "published_date": "2026-07-13T08:36:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Which European countries are already using the EES pre-registration app?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260713/which-european-countries-are-already-using-the-ees-pre-registration-app",
+      "published_date": "2026-07-13T08:23:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Experts to deliver verdict on EU social media controls for children",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260713-experts-to-deliver-verdict-on-eu-social-media-controls-for-children",
+      "published_date": "2026-07-13T05:35:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lindsey Graham likely died from aortic rupture, medical examiner says",
       "source": "France 24",
@@ -67,81 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Global population at 8.3 billion: What does that mean for anyone under 30?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260711-global-population-at-8-3-billion-what-does-that-mean-for-anyone-under-30",
-      "published_date": "2026-07-11T21:48:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What makes the Sultanate of Oman the Gulf's geopolitical exception?",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260711-what-makes-the-sultanate-of-oman-the-gulf-s-geopolitical-exception",
-      "published_date": "2026-07-11T15:15:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sudan: EU calls for terrorist listing of RSF",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260711-sudan-eu-calls-for-terrorist-listing-of-rsf",
-      "published_date": "2026-07-11T09:23:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran: Forewarnings and a Funeral, NATO, Le Pen",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260710-iran-forewarnings-and-a-funeral-nato-le-pen",
-      "published_date": "2026-07-10T21:13:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU lawmakers give digital euro the green light, but rollout still years away",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260710-eu-lawmakers-give-digital-euro-the-green-light-but-rollout-still-years-away",
-      "published_date": "2026-07-10T19:40:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Notes from a NATO Summit: An Estonian Perspective",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260710-notes-from-a-nato-summit-an-estonian-perspective",
-      "published_date": "2026-07-10T19:11:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NATO Summit: Europe must 'project decency, credibility' to 'earn respect, attract partners'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260710-nato-summit-europe-must-project-decency-credibility-to-earn-respect-attract-partners",
-      "published_date": "2026-07-10T16:09:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Behind Khamenei’s funeral, Iran’s bid to show strength",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/behind-khamenei-s-funeral-iran-s-bid-to-show-strength",
-      "published_date": "2026-07-10T13:37:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Erdogan’s unusual gift to NATO leaders sparks surprise",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/president-erdogan-s-unusual-gift-to-nato-leaders-sparks-surprise",
-      "published_date": "2026-07-10T12:44:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How top Syrian diplomat Asaad al-Shaibani’s road to Damascus is shaking the Mideast",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260710-how-top-syrian-diplomat-asaad-al-shaibani-road-damascus-shaking-mideast",
-      "published_date": "2026-07-10T12:17:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+      "title": "Russian anti-war politician Boris Nadezhdin detained by police",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-10T12:02:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cly7epp3jdlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-13T13:10:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East War: Iran claims strikes on US bases in multiple countries",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260713-middle-east-war-iran-claims-strikes-on-us-bases-in-multiple-countries",
+      "published_date": "2026-07-13T12:58:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran launches drone, missile attacks on dissident bases in Iraqi Kurdistan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260713-iran-launches-drone-missile-attacks-kurdish-dissident-bases-iraq",
+      "published_date": "2026-07-13T12:56:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France's combat helicopters train ahead of Bastille day parade",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-s-combat-helicopters-train-ahead-of-bastille-day-parade",
+      "published_date": "2026-07-13T12:49:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In final speech to armed forces, Macron urges European defence porjects",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/in-final-speech-to-armed-forces-macron-urges-european-defence-porjects",
+      "published_date": "2026-07-13T12:45:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine to get new prime minister amid major government reshuffle",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-to-get-new-prime-minister-amid-major-government-reshuffle",
+      "published_date": "2026-07-13T10:33:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Coalition of the willing' meets in Paris to bolster war support to Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260713-coalition-of-the-willing-meets-in-paris-to-bolster-war-support-to-ukraine",
+      "published_date": "2026-07-13T09:32:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran talks to end war on the line amid renewed strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-iran-talks-to-end-war-on-the-line-amid-renewed-strikes",
+      "published_date": "2026-07-13T08:49:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China's missile test overshadowed by Iran war, but Pacific nations are watching",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260713-china-s-missile-test-overshadowed-by-iran-war-but-pacific-nations-are-watching",
+      "published_date": "2026-07-13T08:05:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine allies gather in Paris to step up defence aid, heighten pressure on Russia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260713-ukraine-allies-gather-paris-step-defence-aid-heighten-pressure-russia",
+      "published_date": "2026-07-13T06:30:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian drone strikes kill at least 3, wound 5 in Moscow region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260713-ukrainian-drone-strikes-kill-at-least-3-wound-5-moscow-region",
+      "published_date": "2026-07-13T05:23:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy replaces PM and flags law enforcement overhaul",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/13/ukraine-war-briefing-zelenskyy-replaces-pm-and-flags-law-enforcement-overhaul",
+      "published_date": "2026-07-13T00:42:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Middle East live: US strikes Iran as Gulf states targeted in flareup over Hormuz",
@@ -200,88 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "People flee as Russian strike hits near Ukraine coffee shop",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-12T09:03:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "To make wine is to believe in the future: the Ukrainians growing grapes on the frontline",
+      "title": "Weather tracker: Unusually warm rivers affect French nuclear power plants",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/12/ukrainians-winemakers-russian-invasion-frontline",
-      "published_date": "2026-07-12T06:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: US launches strikes after Iran fires on ship in Strait of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
-      "published_date": "2026-07-12T05:05:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy decries housing of weapons in civilian area after Russian strike kills 10",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/12/ukraine-war-briefing-zelenskyy-decries-housing-of-weapons-in-civilian-area-kyiv-russian-strike-deaths",
-      "published_date": "2026-07-12T02:13:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-11T21:56:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One story",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260711-trump-administration-subpoenas-new-york-times-journalists-over-air-force-one-story",
-      "published_date": "2026-07-11T19:25:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Overnight Russian missile and drone strikes on Ukraine kill eight, officials say",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260711-overnight-russian-missile-and-drone-strikes-on-ukraine-kill-six-officials-say",
-      "published_date": "2026-07-11T15:44:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "11 wounded in overnight Russian missile and drone strikes on Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260711-11-wounded-in-overnight-russian-missile-and-drone-strikes-on-kyiv",
-      "published_date": "2026-07-11T14:54:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump and Iran's supreme leader trade threats as mediators try to save deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260711-trump-and-iran-s-supreme-leader-trade-threats-as-mediators-try-to-save-deal",
-      "published_date": "2026-07-11T10:05:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "11 injured in overnight Russian missile and drone strikes on Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260711-11-injured-in-overnight-russian-missile-and-drone-strikes-on-kyiv",
-      "published_date": "2026-07-11T09:08:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Alfred Dreyfus statue to finally receive permanent home in central Paris",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/11/alfred-dreyfus-statue-permanent-spot-central-paris-france",
-      "published_date": "2026-07-11T09:00:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Patriot missile license a 'long-term' investment for Ukraine – but can it afford the wait?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260711-patriot-missile-license-ukraine-can-it-afford-the-wait-trump",
-      "published_date": "2026-07-11T05:11:04+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/13/weather-tracker-unusually-warm-rivers-affect-french-nuclear-power-plants",
+      "published_date": "2026-07-13T10:53:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran expands attacks on Gulf states after intense US strikes",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Unions in Europe press for new worker protections to counter heat stress",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
-      "published_date": "2026-07-08T11:00:52+00:00",
-      "category": "Energy"
+      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T23:29:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "Britain’s cars and SUVs are growing bigger – but there is a way to stop this deadly ‘carspreading’  | Christian Wolmar",
@@ -557,11 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "German Gen Z joins the Bundeswehr: The military becomes a plan B",
+      "title": "Probe into intentional start of Fontainebleau fire underway",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260707-german-gen-z-joins-the-bundeswehr-the-military-becomes-a-plan-b",
-      "published_date": "2026-07-07T10:55:51+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/probe-into-intentional-start-of-fontainebleau-fire-underway",
+      "published_date": "2026-07-13T12:41:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firefighting planes scrambled from south of France to tackle huge wildfire near Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/13/france-fires-wildfires-fointaineblue-forest-paris",
+      "published_date": "2026-07-13T12:30:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-13T11:36:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-13T10:29:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ten people missing amid Spanish wildfires",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ten-people-missing-amid-spanish-wildfires",
+      "published_date": "2026-07-13T09:36:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Blaze burns through 'lungs of greater Paris' Fontainebleau forest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/blaze-burns-through-lungs-of-greater-paris-fontainebleau-forest",
+      "published_date": "2026-07-13T08:59:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strait of Hormuz 'back to square one' as US-Iran flare-up brings uncertainty",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/strait-of-hormuz-back-to-square-one-as-us-iran-flare-up-brings-uncertainty",
+      "published_date": "2026-07-13T08:56:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 27 people killed in fire at Bangkok pub",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/at-least-27-people-killed-in-fire-at-bangkok-pub",
+      "published_date": "2026-07-13T08:54:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Korea court sentences ex-president Yoon to two years in illegal polling case",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260713-south-korea-court-sentences-ex-president-yoon-to-two-years-illegal-polling-case",
+      "published_date": "2026-07-13T07:58:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Massive fire burns in Fontainebleau near Paris",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260713-massive-fire-burns-in-fontainebleau-near-paris",
+      "published_date": "2026-07-13T06:35:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Latest: Planes battle huge wildfire in Fontainebleau forest near Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260713/huge-fire-rages-in-fontainebleau-forest-near-paris",
+      "published_date": "2026-07-13T06:33:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mastermind of €88m Louvre heist thought they ‘could have taken more’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/13/mastermind-of-88m-louvre-heist-thought-they-could-have-taken-more",
+      "published_date": "2026-07-13T04:00:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Forget being French president; Marine Le Pen is lucky not to be in prison. Why is she in public life at all? | Rokhaya Diallo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/13/france-president-marine-le-pen-prison-public-life",
+      "published_date": "2026-07-13T04:00:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedish MEP files police complaint accusing Danish colleague of racist hate speech",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/13/swedish-mep-abir-al-sahlani-files-police-complaint-accusing-danish-mep-of-racist-hate-speech",
+      "published_date": "2026-07-13T04:00:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Massive Bangkok pub fire kills at least 27 people, Thai officials say",
@@ -603,104 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260712-uk-police-says-no-evidence-of-political-motive-in-murder-of-former-minister-widdecombe",
       "published_date": "2026-07-12T14:12:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-12T11:23:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week in pictures: Le Pen's comeback, Khamenei's funeral and Mbappé's wondergoal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260712-the-week-in-pictures-le-pen-s-comeback-khamenei-s-funeral-and-mbapp%C3%A9-s-wondergoal",
-      "published_date": "2026-07-12T10:53:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eiffel Tower to close early as heatwave hits France: operator",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260712-eiffel-tower-to-close-early-as-heatwave-hits-france-operator",
-      "published_date": "2026-07-12T10:42:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Typhoon slams into eastern China after forcing nearly two million people to flee",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260712-typhoon-slams-into-eastern-china-as-more-than-2-million-people-evacuated",
-      "published_date": "2026-07-12T06:30:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bellingham upstages Kane and Haaland to fire England into World Cup semi-finals",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260711-bellingham-upstages-kane-and-haaland-to-fire-england-into-world-cup-semi-finals-world-cup-2026",
-      "published_date": "2026-07-11T23:52:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Rise and Pause of Jordan Bardella",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260711-the-rise-and-pause-of-jordan-bardella",
-      "published_date": "2026-07-11T18:05:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Famous Paris tourist sites close early as France swelters under heatwave",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260711/famous-paris-tourist-sites-close-early-as-france-swelters-under-heatwave",
-      "published_date": "2026-07-11T18:03:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Noskova survives tearful meltdown to win first Wimbledon title",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260711-noskova-survives-tearful-meltdown-to-win-first-wimbledon-title",
-      "published_date": "2026-07-11T17:49:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa 2026 World Cup midfielder Jayden Adams dies at 25",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260711-south-africa-2026-world-cup-midfielder-jayden-adams-dies-at-25",
-      "published_date": "2026-07-11T15:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eiffel Tower, Louvre close early as France faces third heatwave in three months",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260711-eiffel-tower-louvre-close-early-as-france-faces-third-heatwave-in-three-months",
-      "published_date": "2026-07-11T13:52:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris landmarks close early as France swelters under third heatwave since May",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260711-paris-landmarks-to-close-early-as-france-swelters-under-third-heatwave-since-may",
-      "published_date": "2026-07-11T12:37:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026 : Spain set for blockbuster semi final against France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260711-world-cup-2026-spain-set-for-blockbuster-semi-final-against-france",
-      "published_date": "2026-07-11T11:56:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Capital punishment in Pakistan: 'Islam does not promote the death penalty'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260711-capital-punishment-in-pakistan-islam-does-not-promote-the-death-penalty",
-      "published_date": "2026-07-11T10:57:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters gain upper hand on 'horrific' Spain wildfires that killed at least 12",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260711-firefighters-gain-upper-hand-on-horrific-spain-wildfire-that-killed-at-least-12",
-      "published_date": "2026-07-11T10:39:12+00:00",
       "category": "Local Events"
     }
   ]
