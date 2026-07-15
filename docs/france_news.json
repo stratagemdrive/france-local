@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-07-15T12:10:46.675933+00:00",
+  "last_updated": "2026-07-15T23:55:48.810776+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "France's parliament adopts assisted dying law",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-s-parliament-adopts-assisted-dying-law",
+      "published_date": "2026-07-15T19:41:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU and Ukraine seal drone deal to pair industry with battlefield expertise",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260715-eu-ukraine-agree-drone-deal-to-pair-industry-with-battlefield-expertise",
+      "published_date": "2026-07-15T18:19:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "🇦🇲🇷🇺Armenia - Russia: Armenian apricots caught in a geopolitical battle",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260715-%F0%9F%87%A6%F0%9F%87%B2%F0%9F%87%B7%F0%9F%87%BAarmenia-russia-armenian-apricots-caught-in-a-geopolitical-battle",
+      "published_date": "2026-07-15T16:42:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Meet the millionaires investing in nature conservation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260715-meet-the-millionaires-investing-in-nature-conservation",
+      "published_date": "2026-07-15T15:52:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU seeks Trump tariff exemptions on wine and cheese",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260715/eu-seeks-trump-tariff-exemptions-on-wine-and-cheese",
+      "published_date": "2026-07-15T13:43:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spain and Gibraltar celebrate as border fence falls after signing of ‘historic deal’",
       "source": "The Guardian",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Keir Starmer becomes first UK PM to receive France’s Légion d’honneur",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/14/keir-starmer-legion-dhonneur-france-macron",
-      "published_date": "2026-07-14T15:37:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ethiopia 'closely engaged' over citizens facing execution in Saudi Arabia",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260714-ethiopia-closely-engaged-over-citizens-facing-execution-in-saudi-arabia",
-      "published_date": "2026-07-14T13:43:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU, UK sign Gibraltar status treaty easing border checks",
+      "title": "Ukraine defence minister resigns as part of Zelensky's cabinet reshuffle",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260714-eu-uk-sign-gibraltar-status-treaty-easing-border-checks",
-      "published_date": "2026-07-14T13:24:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260715-ukraine-defence-minister-resigns-zelensky-cabinet-reshuffle",
+      "published_date": "2026-07-15T21:49:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "France deploys 70,000 security personnel across country for Bastille Day, World Cup semifinal events – Europe live",
+      "title": "Volodymyr Zelenskyy dismisses Ukraine’s popular defence minister",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/14/france-bastille-day-emmanuel-macron-volodymyr-zelenskyy-germany-brussels-eu-albania-moldova-montenegro-latest-news-updates",
-      "published_date": "2026-07-14T11:50:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/15/volodymyr-zelenskyy-dismisses-ukraines-popular-defence-minister",
+      "published_date": "2026-07-15T20:47:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU population to peak in 2029 before long-term decline",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260714/eu-population-to-peak-in-2029-before-long-term-decline",
-      "published_date": "2026-07-14T10:57:48+00:00",
-      "category": "Diplomacy"
+      "title": "EU, Ukraine seal 'drone deal' to boost production, establish joint ventures",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/eu-ukraine-seal-drone-deal-to-boost-production-establish-joint-ventures",
+      "published_date": "2026-07-15T19:34:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US launches ‘wave of strikes’ on Iran, Tehran threatens to halt regional energy exports",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260715-us-launches-wave-of-strikes-on-iran-tehran-threatens-to-halt-regional-energy-exports",
+      "published_date": "2026-07-15T19:07:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran: Why the cycle of war, talks, repeat?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260715-us-iran-why-the-cycle-of-war-talks-repeat",
+      "published_date": "2026-07-15T16:37:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe: National elections may bring \"very different Coalition of the Willing next year\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260715-europe-national-elections-may-bring-very-different-coalition-of-the-willing-next-year",
+      "published_date": "2026-07-15T16:30:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why the US is launching naval drones at Iran’s port city of Bandar Abbas",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260715-why-the-us-is-launching-naval-drones-at-iran-s-port-city-of-bandar-abbas",
+      "published_date": "2026-07-15T16:24:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As Russia’s assault continues, Ukraine’s politics shift and an old alliance begins to fray",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/15/as-russias-assault-continues-ukraines-politics-shift-and-an-old-alliance-begins-to-fray",
+      "published_date": "2026-07-15T14:30:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Lithuania warns Russia could be planning ‘targeted’ attacks on critical infrastructure – Europe live",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "June was deadliest month for Ukrainian civilians in four years, UN says",
+      "title": "Following years of wildfires, Europe must 'diversify' landscapes and strengthen land management",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260714-june-was-deadliest-month-ukrainian-civilians-four-years-un-says",
-      "published_date": "2026-07-14T13:01:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France holds annual Bastille Day parade in Paris – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/14/france-bastille-day-parade-paris-video",
-      "published_date": "2026-07-14T12:44:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What the Lviv draft riot tells us about Ukraine’s struggle to send men to fight",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260714-what-the-lviv-draft-riot-tells-us-about-ukraine-struggle-send-men-fight",
-      "published_date": "2026-07-14T12:24:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European troops and planes join Bastille Day parade in show of unity for Ukraine",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260714-european-troops-and-warplanes-join-paris-military-bastille-day-parade-in-show-of-unity-for-ukraine",
-      "published_date": "2026-07-14T11:28:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's allies pledge jets, missiles and anti-ballistic shield at Paris summit",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260714-ukraine-s-allies-pledge-jets-missiles-and-anti-ballistic-shield-at-paris-summit",
-      "published_date": "2026-07-14T09:40:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bastille Day: France celebrates Ukraine and its allies with military parade",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/bastille-day-france-celebrates-ukraine-and-its-allies-with-military-parade",
-      "published_date": "2026-07-14T08:23:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Polish-Ukrainian solidarity over Russian threat undermined by bitter historical dispute",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/14/poland-ukraine-upa-second-world-war-massacre-dispute",
-      "published_date": "2026-07-14T08:19:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France's Bastille Day parade showcases European support for Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260714-france-bastille-day-parade-showcase-european-support-ukraine",
-      "published_date": "2026-07-14T06:16:49+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260715-following-years-of-wildfires-europe-must-diversify-landscapes-develop-land-management-strategies",
+      "published_date": "2026-07-15T18:08:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "Surviving extreme heat increasingly boils down to this: access to air conditioning | Mark Wolfe",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Licence to drill? How a Trump-linked Texas oil company is elbowing its way into Greenland",
+      "title": "Maltese politicians ‘involved’ in plot to kill Daphne Caruana Galizia, court hears",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/09/licence-to-drill-trump-linked-texas-oil-company-elbowing-into-greenland",
-      "published_date": "2026-07-09T13:00:01+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/world/2026/jul/15/malta-politicians-plot-to-kill-daphne-caruana-galizia-court-hears",
+      "published_date": "2026-07-15T19:58:23+00:00",
+      "category": "Economy"
     },
     {
       "title": "Chinese growth in second quarter weakest since Covid-19 era",
@@ -557,11 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "IMF lowers 2026 global growth forecast to 3% but projects rebound in 2027",
+      "title": "Kenya denies Rastafarians the right to smoke marijuana",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260708-imf-lowers-2026-global-growth-forecast-to-3-but-projects-rebound-in-2027",
-      "published_date": "2026-07-08T20:38:27+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/kenya-denies-rastafarians-the-right-to-smoke-marijuana",
+      "published_date": "2026-07-15T20:19:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firefighters battle 'contained' Fontainebleau forest fire near Paris amid arson probe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/firefighters-battle-contained-fontainebleau-forest-fire-near-paris-amid-arson-probe",
+      "published_date": "2026-07-15T19:31:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman speaks out on husband being pulled from Ryanair plane – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/video/2026/jul/15/woman-speaks-out-on-husband-being-pulled-from-ryanair-plane-video",
+      "published_date": "2026-07-15T19:25:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany warns US against election interference after it announces grants scheme",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/germany-warns-against-election-interference-as-us-offers-funding-to-maga-aligned-causes-in-europe",
+      "published_date": "2026-07-15T18:45:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fast food nation? French chicken chain row gets political",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260715-fast-food-nation-french-chicken-chain-row-gets-political",
+      "published_date": "2026-07-15T18:15:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Berlin man charged with 22 counts of raping unconscious women and filming the assaults",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/15/berlin-man-charged-with-22-counts-of-raping-unconscious-women-and-filming-the-assaults",
+      "published_date": "2026-07-15T15:11:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Expert warns 'European temperatures are warming the fastest'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260715-expert-warns-european-temperatures-are-warming-the-fastest",
+      "published_date": "2026-07-15T13:44:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Heatwave prompts Italy's delivery riders to strike for extra rights",
@@ -652,55 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/fontainebleau-forest-fires-blazes-south-of-paris-contained-but-not-extinguished-prefect-says",
       "published_date": "2026-07-14T18:14:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mahmoud Khalil files lawsuit accusing Trump officials, pro-Israel groups of conspiracy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260714-mahmoud-khalil-files-lawsuit-accusing-trump-officials-pro-israel-groups-of-conspiracy",
-      "published_date": "2026-07-14T17:41:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dua Lipa calls Albanian protests against Jared Kushner-backed resort ‘inspiring’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jul/14/dua-lipa-calls-albanian-protests-against-jared-kushner-backed-resort-inspiring",
-      "published_date": "2026-07-14T17:39:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘My heart is on fire’: Fontainebleau forest blaze leaves community reeling",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/environment/20260714-my-heart-is-on-fire-fontainebleau-forest-blaze-leaves-community-reeling",
-      "published_date": "2026-07-14T17:22:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters battle flames in Fontainebleau historic forest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/firefighters-battle-flames-in-fontainebleau-historic-forest",
-      "published_date": "2026-07-14T16:04:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France marks tenth anniversary of deadly Nice terror attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260714-france-marks-tenth-anniversary-of-deadly-nice-terror-attack",
-      "published_date": "2026-07-14T15:50:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Wildfires tear though historic forest of Fontainebleau near Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-wildfires-tear-though-historic-forest-of-fontainebleau-near-paris",
-      "published_date": "2026-07-14T15:38:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six people found dead in lift shaft after fire in central Brussels building",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9323knejyzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-14T15:16:07+00:00",
       "category": "Local Events"
     }
   ]
