@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-07-15T23:55:48.810776+00:00",
+  "last_updated": "2026-07-16T12:17:17.309838+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Zelenskyy thanks Starmer and UK for ‘unwavering respect’ on his final visit to Ukraine as PM – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
+      "published_date": "2026-07-16T12:12:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron vows to replant Fontainebleau forest after devastating wildfires",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260716-macron-vows-to-replant-fontainebleau-forest-after-devastating-wildfires",
+      "published_date": "2026-07-16T12:05:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cameroonian students protest new French visa financial rules",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260716-cameroonian-students-protest-new-french-visa-financial-rules",
+      "published_date": "2026-07-16T11:56:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Revealed: how Europe’s most powerful farming lobby killed EU’s pesticide law",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/16/how-europe-most-powerful-farming-lobby-copa-cogeca-killed-eu-pesticide-law",
+      "published_date": "2026-07-16T11:00:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's parliament adopts assisted dying law",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260716/frances-parliament-adopts-assisted-dying-law",
+      "published_date": "2026-07-16T06:05:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France's parliament adopts assisted dying law",
       "source": "France 24",
@@ -29,6 +64,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260715-meet-the-millionaires-investing-in-nature-conservation",
       "published_date": "2026-07-15T15:52:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Americans in France: Remote work rules and visiting France this summer",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260715/americans-in-france-remote-work-rules-and-visiting-france-this-summer",
+      "published_date": "2026-07-15T15:37:33+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,52 +144,80 @@
       "category": "Diplomacy"
     },
     {
-      "title": "World Cup 2026: Spain deliver masterclass to knock out favourites France and reach final",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260714-spain-deliver-masterclass-to-sink-french-armada-and-reach-world-cup-final",
-      "published_date": "2026-07-14T21:02:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gianni Infantino under fire as viral claims drag European Parliament into FIFA row",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/infantino-under-fire-as-viral-claims-drag-european-parliament-into-fifa-row-1",
-      "published_date": "2026-07-14T20:55:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Starmer becomes first UK PM to receive top French honour",
+      "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c33y3rxezxdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-14T19:27:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-16T11:31:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "'An open wound': Nice commemorates 10 years since terror attack",
+      "title": "Ukrainians protest the dismissal of Kyiv's 'most successful defence minister'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/an-open-wound-nice-commemorates-10-years-since-terror-attack",
-      "published_date": "2026-07-14T19:17:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ukrainians-protest-the-dismissal-of-kyiv-s-most-successful-defence-minister",
+      "published_date": "2026-07-16T10:33:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bastille Day celebrations in France tempered by fear of more wildfires",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/14/bastille-day-celebrations-france-tempered-fear-wildfires",
-      "published_date": "2026-07-14T16:28:31+00:00",
-      "category": "Diplomacy"
+      "title": "Ahead of French PM's visit, Rabat faces allegations of spying on Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ahead-of-french-pm-s-visit-rabat-faces-allegations-of-spying-on-paris",
+      "published_date": "2026-07-16T10:04:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU rejects Trump administration claims that ICC threatens US sovereignty",
+      "title": "🔴 Ukraine approves Sergiy Koretsky as new PM amid protests over cabinet reshuffle",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260716-protests-against-removal-of-popular-defence-minister-erupt-across-ukraine",
+      "published_date": "2026-07-16T09:42:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Protests erupt in Ukraine as Zelensky removes 'his most popular' minister",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/protests-erupt-in-ukraine-as-zelensky-removes-defence-minister-his-most-popular",
+      "published_date": "2026-07-16T08:55:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer pledges 'cast-iron support' for Ukraine on final visit as PM",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-16T08:20:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fire at orphanage in Algeria kills 11 and wounds 19",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260716-fire-at-orphanage-in-algeria-kills-11-and-wounds-19",
+      "published_date": "2026-07-16T07:48:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "🔴 Middle East live: Iran says it targeted US military sites in Jordan, Kuwait and Bahrain",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-launches-fresh-strikes-on-iran-as-hormuz-remains-paralyzed",
+      "published_date": "2026-07-16T05:55:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/14/eu-rejects-trump-administration-claims-icc-threatens-us-sovereignty",
-      "published_date": "2026-07-14T15:41:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences",
+      "published_date": "2026-07-16T04:00:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine defence minister resigns as part of Zelensky's cabinet reshuffle",
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260715-ukraine-defence-minister-resigns-zelensky-cabinet-reshuffle",
       "published_date": "2026-07-15T21:49:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T21:21:19+00:00",
       "category": "Military"
     },
     {
@@ -211,76 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/trump-threatens-to-hit-iranian-infrastructure-if-no-deal",
       "published_date": "2026-07-15T11:47:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "🔴 Middle East live: US military launches fresh 'wave of strikes' on Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes",
-      "published_date": "2026-07-15T10:50:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU extends right to stay for Ukrainians but excludes military-age men",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260715/eu-extends-right-to-stay-for-ukrainians-but-excludes-military-age-men",
-      "published_date": "2026-07-15T10:29:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's PM Svyrydenko resigns in Zelenskiy's latest reshuffle",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260715-ukraine-s-pm-svyrydenko-resigns-in-zelenskiy-s-latest-reshuffle",
-      "published_date": "2026-07-15T09:52:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran 'still has the military capability to create chaos in the region'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260715-iran-still-has-the-military-capability-to-create-chaos-in-the-region",
-      "published_date": "2026-07-15T09:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Spotlight on ‘hundreds’ of alleged PoW executions by Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/15/ukraine-war-briefing-spotlight-on-hundreds-of-alleged-pow-executions-by-russia",
-      "published_date": "2026-07-15T00:51:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military reimposes naval blockade on Iranian ports, launches new strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260714-us-military-reimposes-naval-blockade-on-iranian-ports-launches-new-strikes",
-      "published_date": "2026-07-14T20:45:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War, talks, repeat: How to break the cycle between US and Iran?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260714-war-talks-repeat-how-to-break-the-cycle-between-us-and-iran",
-      "published_date": "2026-07-14T18:27:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How jihadist groups like Boko Haram use AI for acts of terror",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260714-how-jihadist-groups-like-boko-haram-use-ai-for-acts-of-terror",
-      "published_date": "2026-07-14T16:36:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Young Germans opting out of military service as Berlin strives to boost army",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/14/young-germans-military-service-opt-out",
-      "published_date": "2026-07-14T15:08:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France holds largest military parade ever in large show of unity for Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-holds-largest-military-parade-ever-in-large-show-of-unity-for-ukraine",
-      "published_date": "2026-07-14T14:48:54+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "US imposes a 25 percent tariff on some Brazilian imports, citing unfair trade practices",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260716-us-imposes-a-25-percent-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
+      "published_date": "2026-07-16T10:37:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Uber to buy Germany’s Delivery Hero in $14.8bn global deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jul/16/uber-buy-germany-delivery-hero-148bn-global-deal",
+      "published_date": "2026-07-16T10:01:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Demise of Timmy the whale inspires satirical play exploring German identity",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/16/timmy-the-whale-germany-new-satirical-play",
+      "published_date": "2026-07-16T09:40:27+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Maltese politicians ‘involved’ in plot to kill Daphne Caruana Galizia, court hears",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/15/malta-politicians-plot-to-kill-daphne-caruana-galizia-court-hears",
@@ -543,25 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "VW faces protests in Germany over proposed job cuts and factory closures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/09/vw-protests-germany-proposed-job-cuts-factory-closures",
-      "published_date": "2026-07-09T09:19:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'We have our own local identity’: Morocco's Jazzablanca festival founder",
+      "title": "Elon Musk's backing of Le Pen presidential bid raises foreign influence concerns in France",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260709-we-have-our-own-local-identity-morocco-s-jazzablanca-festival-founder",
-      "published_date": "2026-07-09T08:41:13+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/france/20260716-elon-musk-s-backing-of-le-pen-presidential-bid-raises-foreign-influence-concerns-in-france",
+      "published_date": "2026-07-16T11:35:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Teatime in Tbilisi: Georgia’s Soviet-era plantations brew up a renaissance",
+      "title": "Toronto: Air ranked among world's worst as wildfire smoke chokes city",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260716-toronto-air-ranked-among-world-s-worst-as-wildfire-smoke-chokes-city",
+      "published_date": "2026-07-16T11:27:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lawyers vow to fight on after Kenya court rejects Rastafarians' cannabis bid",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260716-lawyers-vow-to-fight-on-after-kenya-court-rejects-rastafarians-cannabis-bid",
+      "published_date": "2026-07-16T10:12:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A week of strikes shatters hope of a lasting US-Iran peace deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/a-week-of-strikes-shatters-hope-of-a-lasting-us-iran-peace-deal",
+      "published_date": "2026-07-16T09:58:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Occupied West Bank school protests planned demolition by Israeli forces",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/occupied-west-bank-school-protests-planned-demolition-by-israeli-forces",
+      "published_date": "2026-07-16T09:44:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French police investigate suspected pyromaniacs thought to have started Fontainebleau fire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-police-investigate-suspected-pyromaniacs-thought-to-have-started-fontainebleau-fire",
+      "published_date": "2026-07-16T09:36:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US's ICE faces fresh backlash over anti-immigration operations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-s-ice-faces-fresh-backlash-over-anti-immigration-operations",
+      "published_date": "2026-07-16T09:31:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toronto suffocates as wildfire smoke and heatwave choke city",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/toronto-suffocates-as-wildfire-smoke-chokes-city",
+      "published_date": "2026-07-16T09:16:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explained: France's new law on assisted dying",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260716/explained-frances-new-law-on-assisted-dying",
+      "published_date": "2026-07-16T09:12:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French forest fire suspect arrested as wildfire risk remains high",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260716/french-forest-fire-suspect-taken-into-custody-as-departements-remain-on-high-alert-for-wildfires",
+      "published_date": "2026-07-16T07:20:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French man charged with rape and murder of schoolgirl Lyhanna",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260716-french-man-charged-with-rape-murder-of-schoolgirl-lyhanna",
+      "published_date": "2026-07-16T06:58:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French parliament passes assisted dying law after years of wrangling",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260716-france-passes-assisted-dying-law-after-years-of-wrangling",
+      "published_date": "2026-07-16T06:10:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The most beautiful act of resistance I’ve seen: Madrid tenants fighting landlords with art | Leah Pattem",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/09/teatime-in-tbilisi-georgias-soviet-era-plantations-brew-up-a-renaissance",
-      "published_date": "2026-07-09T04:00:50+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/16/madrid-landlords-art-investment-fund-creativity",
+      "published_date": "2026-07-16T04:00:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kenya denies Rastafarians the right to smoke marijuana",
@@ -610,97 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/perspective/20260715-expert-warns-european-temperatures-are-warming-the-fastest",
       "published_date": "2026-07-15T13:44:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heatwave prompts Italy's delivery riders to strike for extra rights",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-15T11:38:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "#ICE suspends traffic stop operations after second fatal #shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260715-ice-suspends-traffic-stop-operations-after-second-fatal-shooting",
-      "published_date": "2026-07-15T11:12:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haiti trapped by violence: Humanitarian aid deliveries struggle to reach local population",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260715-haiti-trapped-by-violence-humanitarian-aid-deliveries-struggle-to-reach-local-population",
-      "published_date": "2026-07-15T11:02:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters continue to battle 'contained' Fontainebleau fire near Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260715-firefighters-continue-to-battle-contained-fontainebleau-fire-near-paris",
-      "published_date": "2026-07-15T10:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More health workers strike as confirmed Ebola cases in DR Congo top 2,000",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260715-more-health-workers-strike-as-confirmed-ebola-cases-in-dr-congo-top-2-000",
-      "published_date": "2026-07-15T10:37:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrest of American who has given $1m in aid to Palestine prompts fears of ‘growing repression from Trump’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/15/james-fergie-chambers-arrest-palestine-aid-trump",
-      "published_date": "2026-07-15T10:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fontainebleau 'contained' but not out as two arrested",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260715-fontainebleau-contained-but-not-out-as-two-arrested",
-      "published_date": "2026-07-15T09:24:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires that ravaged historic forest outside Paris contained",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260715/wildfires-that-ravaged-historic-forest-outside-paris-contained",
-      "published_date": "2026-07-15T07:01:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires",
-      "published_date": "2026-07-14T22:38:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Volunteer firefighter admits to starting a fire in the Fontainebleau forest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/volunteer-firefighter-admits-to-starting-a-fire-in-the-fontainebleau-forest",
-      "published_date": "2026-07-14T20:26:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump administration orders ICE to halt traffic stops after Maine shooting, US media reports",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260714-trump-administration-orders-ice-to-halt-traffic-stops-after-maine-shooting-us-media-reports",
-      "published_date": "2026-07-14T19:57:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain's 'Formidable Opponent': Rajoy credits France's football success to having 'no French players'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260714-spain-s-formidable-opponent-rajoy-credits-france-s-football-success-to-having-no-french-players-1",
-      "published_date": "2026-07-14T18:18:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fontainebleau forest fires: blazes south of Paris 'contained' but not extinguished, prefect says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/fontainebleau-forest-fires-blazes-south-of-paris-contained-but-not-extinguished-prefect-says",
-      "published_date": "2026-07-14T18:14:25+00:00",
       "category": "Local Events"
     }
   ]
