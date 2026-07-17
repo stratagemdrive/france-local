@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-07-16T23:55:18.810670+00:00",
-  "story_count": 97,
+  "last_updated": "2026-07-17T12:04:37.161242+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "EU-based British students to pay international fees in UK from 2028",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260717/eu-based-british-students-to-pay-international-fees-in-uk-from-2028",
+      "published_date": "2026-07-17T11:21:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fire reignites in Fontainebleau forest as investigation continues",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/fire-reignites-in-fontainebleau-forest-as-investigation-continues",
+      "published_date": "2026-07-17T10:01:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New defence dynamic for Europe at the heart of Franco-German summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/new-defence-dynamic-for-europe-at-the-heart-of-franco-german-summit",
+      "published_date": "2026-07-17T09:57:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US tightens grip on Iran while insisting diplomacy still possible",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-tightens-grip-on-iran-while-insisting-diplomacy-still-possible",
+      "published_date": "2026-07-17T09:30:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU launches legal action against 17 member states over new single permit rules",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260717/eu-launches-legal-action-against-17-member-states-over-new-single-permit-rules",
+      "published_date": "2026-07-17T08:11:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and England prepare for gloomy World Cup send-off",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260717/france-and-england-prepare-for-gloomy-world-cup-send-off",
+      "published_date": "2026-07-17T07:20:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tour de France: Merlier speeds toward another win, Pogacar still in yellow",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260717-tour-de-france-merlier-the-fastest-again-pogacar-still-in-yellow",
+      "published_date": "2026-07-17T05:45:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU border chaos feared at Dover crossing as busiest summer weekend looms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/17/eu-border-chaos-feared-dover-crossing-busiest-summer-weekend-looms",
+      "published_date": "2026-07-17T05:00:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'Zero tolerance' for forest arsonists, Macron promises firefighters",
       "source": "France 24",
@@ -46,6 +102,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-16T12:44:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Zelenskyy thanks Starmer and UK for ‘unwavering respect’ on his final visit to Ukraine as PM – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
@@ -81,67 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France's parliament adopts assisted dying law",
+      "title": "Who are Russia's 3,000 African army recruits fighting in Ukraine?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/who-are-russia-s-3-000-african-army-recruits-fighting-in-ukraine",
+      "published_date": "2026-07-17T10:33:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump reviving election fraud claims to contest midterm results, say Democrats",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-reviving-election-fraud-claims-to-contest-midterm-results-say-democrats",
+      "published_date": "2026-07-17T10:29:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's top general is splitting country, says ousted defence minister",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-s-defence-minister-is-splitting-country-says-ousted-defence-minister",
+      "published_date": "2026-07-17T09:27:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany and France seek 'new dynamic' on defence after fighter jet failure",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260716/frances-parliament-adopts-assisted-dying-law",
-      "published_date": "2026-07-16T06:05:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.fr/20260717/germany-and-france-seek-new-dynamic-on-defence-after-fighter-jet-failure",
+      "published_date": "2026-07-17T07:11:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "France's parliament adopts assisted dying law",
+      "title": "China's Xi urges global cooperation on AI, warns against single-country dominance",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-s-parliament-adopts-assisted-dying-law",
-      "published_date": "2026-07-15T19:41:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/asia-pacific/20260717-china-s-xi-urges-global-cooperation-on-ai-warns-against-single-country-dominance",
+      "published_date": "2026-07-17T03:19:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU and Ukraine seal drone deal to pair industry with battlefield expertise",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260715-eu-ukraine-agree-drone-deal-to-pair-industry-with-battlefield-expertise",
-      "published_date": "2026-07-15T18:19:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "🇦🇲🇷🇺Armenia - Russia: Armenian apricots caught in a geopolitical battle",
+      "title": "In speech to nation, Trump declassifies intelligence claiming Chinese interference in 2020 elections",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260715-%F0%9F%87%A6%F0%9F%87%B2%F0%9F%87%B7%F0%9F%87%BAarmenia-russia-armenian-apricots-caught-in-a-geopolitical-battle",
-      "published_date": "2026-07-15T16:42:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meet the millionaires investing in nature conservation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260715-meet-the-millionaires-investing-in-nature-conservation",
-      "published_date": "2026-07-15T15:52:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Americans in France: Remote work rules and visiting France this summer",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260715/americans-in-france-remote-work-rules-and-visiting-france-this-summer",
-      "published_date": "2026-07-15T15:37:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU seeks Trump tariff exemptions on wine and cheese",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260715/eu-seeks-trump-tariff-exemptions-on-wine-and-cheese",
-      "published_date": "2026-07-15T13:43:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain and Gibraltar celebrate as border fence falls after signing of ‘historic deal’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/15/spain-gibraltar-celebrate-deal-signed-border-controls-uk-territory",
-      "published_date": "2026-07-15T12:03:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "🔴 EU chief Von der Leyen announces 'drone deal' with Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260715-deadly-russian-strike-hits-odesa-as-von-der-leyen-arrives-in-ukraine-with-defence-plans",
-      "published_date": "2026-07-15T11:19:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20260717-trump-china-largest-compromise-us-election-data-declassify-intelligence",
+      "published_date": "2026-07-17T02:22:15+00:00",
+      "category": "Military"
     },
     {
       "title": "US Defense Secretary Pete Hegseth announces testosterone screening for US troops",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukrainians protest the dismissal of Kyiv's 'most successful defence minister'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukrainians-protest-the-dismissal-of-kyiv-s-most-successful-defence-minister",
-      "published_date": "2026-07-16T10:33:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ahead of French PM's visit, Rabat faces allegations of spying on Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ahead-of-french-pm-s-visit-rabat-faces-allegations-of-spying-on-paris",
-      "published_date": "2026-07-16T10:04:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "🔴 Ukraine approves Sergiy Koretsky as new PM amid protests over cabinet reshuffle",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260716-protests-against-removal-of-popular-defence-minister-erupt-across-ukraine",
-      "published_date": "2026-07-16T09:42:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protests erupt in Ukraine as Zelensky removes 'his most popular' minister",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/protests-erupt-in-ukraine-as-zelensky-removes-defence-minister-his-most-popular",
-      "published_date": "2026-07-16T08:55:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Starmer pledges 'cast-iron support' for Ukraine on final visit as PM",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T08:20:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fire at orphanage in Algeria kills 11 and wounds 19",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260716-fire-at-orphanage-in-algeria-kills-11-and-wounds-19",
-      "published_date": "2026-07-16T07:48:11+00:00",
-      "category": "Military"
+      "title": "Climate refuge: Can you really escape the French heatwaves in Brittany?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260717/climate-refuge-can-you-really-escape-the-french-heatwaves-in-brittany",
+      "published_date": "2026-07-17T11:32:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Canadian wildfire sends hazardous smoke spewing into US",
@@ -400,13 +407,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/10/unprecedented-deadly-wildfire-southern-spain-almeria-analysis",
       "published_date": "2026-07-10T16:20:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "France must speed up climate action, as watchdog warns current efforts fall short",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260710-france-must-speed-up-climate-action-as-watchdog-warns-current-efforts-fall-short",
-      "published_date": "2026-07-10T05:24:13+00:00",
       "category": "Energy"
     },
     {
@@ -536,17 +536,45 @@
       "category": "Economy"
     },
     {
-      "title": "French billionaire becomes Vodafone’s largest shareholder with £4.4bn stake",
+      "title": "Factcheck: Is it really illegal to put on make-up on a French train?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260717/factcheck-is-it-really-illegal-to-put-on-make-up-on-a-french-train",
+      "published_date": "2026-07-17T09:40:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French teen sentenced to 18 years for fatal stabbing of school supervisor",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260717-french-teen-sentenced-to-18-years-for-fatal-stabbing-of-school-supervisor",
+      "published_date": "2026-07-17T09:26:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather tracker: Thunderstorms strike across Europe amid record heatwave",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/10/french-billionaire-becomes-vodafone-largest-shareholder-xavier-niel",
-      "published_date": "2026-07-10T11:05:43+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave",
+      "published_date": "2026-07-17T08:35:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN campaign trail takes former president Macky Sall back to Senegal",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260717-un-campaign-trail-takes-former-president-macky-sall-back-to-senegal",
+      "published_date": "2026-07-17T05:05:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump tightens US visa rules, limits stay for foreign students and journalists",
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260716-trump-tightens-us-visa-rules-foreign-students-journalists",
       "published_date": "2026-07-16T22:31:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As heatwaves strike, Europeans turn to Chinese air-conditioners",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c86262j7j75o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-16T22:01:29+00:00",
       "category": "Local Events"
     },
     {
@@ -568,6 +596,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/16/italy-mafia-law-families-break-free-crime-new-identities",
       "published_date": "2026-07-16T16:08:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Belle Vie: France's north-south divide and Paris movie locations",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260716/la-belle-vie-frances-north-south-divide-and-paris-movie-locations",
+      "published_date": "2026-07-16T15:58:01+00:00",
       "category": "Local Events"
     },
     {
@@ -638,48 +673,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20260716-lawyers-vow-to-fight-on-after-kenya-court-rejects-rastafarians-cannabis-bid",
       "published_date": "2026-07-16T10:12:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A week of strikes shatters hope of a lasting US-Iran peace deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/a-week-of-strikes-shatters-hope-of-a-lasting-us-iran-peace-deal",
-      "published_date": "2026-07-16T09:58:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Occupied West Bank school protests planned demolition by Israeli forces",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/occupied-west-bank-school-protests-planned-demolition-by-israeli-forces",
-      "published_date": "2026-07-16T09:44:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police investigate suspected pyromaniacs thought to have started Fontainebleau fire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-police-investigate-suspected-pyromaniacs-thought-to-have-started-fontainebleau-fire",
-      "published_date": "2026-07-16T09:36:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US's ICE faces fresh backlash over anti-immigration operations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-s-ice-faces-fresh-backlash-over-anti-immigration-operations",
-      "published_date": "2026-07-16T09:31:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto suffocates as wildfire smoke and heatwave choke city",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/toronto-suffocates-as-wildfire-smoke-chokes-city",
-      "published_date": "2026-07-16T09:16:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explained: France's new law on assisted dying",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260716/explained-frances-new-law-on-assisted-dying",
-      "published_date": "2026-07-16T09:12:01+00:00",
       "category": "Local Events"
     }
   ]
