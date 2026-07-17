@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-07-17T12:04:37.161242+00:00",
-  "story_count": 96,
+  "last_updated": "2026-07-17T23:48:43.677372+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "'Inclusive' World Cup fell short as Trump administration shut out fans, rights groups say",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260717-inclusive-world-cup-fell-short-trump-administration-shut-out-fans-rights-groups-say",
+      "published_date": "2026-07-17T20:33:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From colonial symbol to sanctuary: Paris's Grand Mosque turns 100",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260717-from-colonial-symbol-sanctuary-paris-grand-mosque-turns-100",
+      "published_date": "2026-07-17T15:57:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A new entente? Bayeux tapestry’s UK arrival ‘closes loop’ on Brexit tensions",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/17/new-entente-bayeux-tapestry-london-arrival-mending-post-brexit-relations",
+      "published_date": "2026-07-17T15:15:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany to join French nuclear exercise in bid to boost defence cooperation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260717-germany-join-french-military-nuclear-exercise-bid-boost-defence-cooperation",
+      "published_date": "2026-07-17T14:51:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Family of detained US scientist breaks silence after quiet diplomacy stalls",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/access-asia/20260717-family-of-detained-us-scientist-breaks-silence-after-quiet-diplomacy-stalls",
+      "published_date": "2026-07-17T13:55:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU-based British students to pay international fees in UK from 2028",
       "source": "The Local France",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Zelenskyy thanks Starmer and UK for ‘unwavering respect’ on his final visit to Ukraine as PM – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
-      "published_date": "2026-07-16T12:12:45+00:00",
-      "category": "Diplomacy"
+      "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T20:00:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron vows to replant Fontainebleau forest after devastating wildfires",
+      "title": "Thousands protest in Kyiv for second day over ouster of popular defence minister Fedorov",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260716-macron-vows-to-replant-fontainebleau-forest-after-devastating-wildfires",
-      "published_date": "2026-07-16T12:05:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260717-thousands-protest-for-second-day-in-kyiv-over-ouster-of-popular-defence-minister",
+      "published_date": "2026-07-17T19:35:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU orders Google to share search data and open Android system to AI rivals",
+      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T19:04:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Trouble at the Top? Adieu Keir, Alright Andy",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260716-eu-orders-google-to-share-search-data-and-open-android-system-to-ai-rivals",
-      "published_date": "2026-07-16T12:05:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260717-ukraine-trouble-at-the-top-adieu-keir-alright-andy",
+      "published_date": "2026-07-17T18:31:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cameroonian students protest new French visa financial rules",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260716-cameroonian-students-protest-new-french-visa-financial-rules",
-      "published_date": "2026-07-16T11:56:25+00:00",
-      "category": "Diplomacy"
+      "title": "Trump targets China and Russia with baseless claims of election interference",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-targets-china-and-russia-with-baseless-claims-of-election-interference",
+      "published_date": "2026-07-17T14:38:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Revealed: how Europe’s most powerful farming lobby killed EU’s pesticide law",
+      "title": "Dismissal of Ukraine’s defence minister highlights wider issues for Zelenskyy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/16/how-europe-most-powerful-farming-lobby-copa-cogeca-killed-eu-pesticide-law",
-      "published_date": "2026-07-16T11:00:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy",
+      "published_date": "2026-07-17T13:42:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainians 'disillusioned, outraged': Zelensky 'reshuffled entire govt' to dismiss defence minister",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260717-ukrainians-disillusioned-outraged-zelensky-reshuffled-entire-govt-to-dismiss-defence-minister",
+      "published_date": "2026-07-17T13:25:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Who are Russia's 3,000 African army recruits fighting in Ukraine?",
@@ -200,6 +249,13 @@
       "category": "Military"
     },
     {
+      "title": "Starmer pledges 'unwavering support' for Ukraine on final visit as PM",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-16T19:50:54+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Bitter row splits Ukraine's military leadership after defence minister ousted",
       "source": "France 24",
       "url": "https://www.france24.com/en/bitter-row-splits-ukraine-s-military-leadership-after-defence-minister-ousted",
@@ -228,60 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Target of Monaco bomb blames attack on Ukrainian spy agency",
+      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T18:34:04+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/16/target-of-monaco-bomb-blames-attack-on-ukrainian-spy-agency",
-      "published_date": "2026-07-16T14:51:34+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/17/europe-emissions-trading-system-greenhouse-gas-risks-weakened",
+      "published_date": "2026-07-17T16:01:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "As the war rekindles, what options are left to the US and Iran?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/as-the-war-rekindles-what-options-are-left-to-the-us-and-iran",
-      "published_date": "2026-07-16T14:48:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Protests erupt after defence minister sacked",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260716-ukraine-protests-erupt-after-defence-minister-sacked",
-      "published_date": "2026-07-16T14:42:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mykhailo Fedorov: Ousted defence chief's reforms riled Ukrainian army bosses",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260716-ousted-defence-chief-mykhailo-fedorov-whose-reforms-riled-ukraine-s-army-bosses",
-      "published_date": "2026-07-16T14:15:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Both UK and Ukraine say goodbye to Keir Starmer",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260716-both-uk-and-ukraine-say-goodbye-to-keir-starmer",
-      "published_date": "2026-07-16T14:02:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T13:08:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Thousands of people are still dying over a few meters of ground' in Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260716-thousands-of-people-are-still-dying-over-a-few-meters-of-ground-in-ukraine",
-      "published_date": "2026-07-16T12:35:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T11:31:11+00:00",
-      "category": "Military"
+      "title": "IEA report flags critical minerals risks as France steps up its strategy",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260717-iea-report-flags-critical-minerals-risks-as-france-steps-up-its-strategy",
+      "published_date": "2026-07-17T13:06:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "Climate refuge: Can you really escape the French heatwaves in Brittany?",
@@ -403,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "‘The worst possible combination’: what has caused Spain’s deadly wildfires?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/unprecedented-deadly-wildfire-southern-spain-almeria-analysis",
-      "published_date": "2026-07-10T16:20:40+00:00",
-      "category": "Energy"
+      "title": "Jon Culshaw on the art of imitation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260717-jon-culshaw-on-the-art-of-imitation",
+      "published_date": "2026-07-17T17:22:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "US imposes a 25 percent tariff on some Brazilian imports, citing unfair trade practices",
@@ -529,11 +550,74 @@
       "category": "Economy"
     },
     {
-      "title": "The bulging in-tray of challenges Andy Burnham faces upon entering No 10",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/10/in-tray-of-challenges-andy-burnham-faces-as-prime-minister",
-      "published_date": "2026-07-10T14:27:42+00:00",
-      "category": "Economy"
+      "title": "Trump administration's border barrier project sparks environmental concerns in Texas national park",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260717-border-barrier-project-sparks-environmental-concerns-texas-national-park",
+      "published_date": "2026-07-17T17:21:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris region's record June heatwave more than doubled normal mortality rate to reach 3,000",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260717-deaths-paris-region-more-than-doubled-during-june-heatwave-report-france",
+      "published_date": "2026-07-17T16:15:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfires in France - 'The smoke was all around our houses, it was scary. Then the fire exploded'",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260717/wildfires-in-france-the-smoke-was-all-around-our-houses-it-was-scary-then-the-fire-exploded",
+      "published_date": "2026-07-17T15:06:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is Paris so dangerous during a heatwave?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260717/why-is-paris-so-dangerous-during-a-heatwave",
+      "published_date": "2026-07-17T14:39:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New approach for survivors of sexual violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-51/20260717-new-approach-for-survivors-of-sexual-violence",
+      "published_date": "2026-07-17T14:18:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris region mortality rates more than doubled during June heatwave: health authorities",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260717/paris-region-mortality-rates-more-than-doubled-during-june-heatwave-health-authorities",
+      "published_date": "2026-07-17T13:57:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Not a big deal’: New Venice mayor on US ambassador’s superyacht visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260717-europe-bought-gas-oil-from-russia-venice-mayor-sees-contradiction-in-biennale-funding-freeze",
+      "published_date": "2026-07-17T13:49:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What challenges await the UK's incoming Prime Minister Andy Burnham?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/what-challenges-await-the-uk-s-incoming-prime-minister-andy-burnham",
+      "published_date": "2026-07-17T13:34:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BTS storms Paris: K-pop phenomenon plays stade de France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260717-bts-storms-paris-k-pop-phenomenon-plays-stade-de-france",
+      "published_date": "2026-07-17T13:33:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 20 children and one adult killed in school bus crash in Uganda",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260717-at-least-20-children-and-one-adult-killed-in-school-bus-crash-in-uganda",
+      "published_date": "2026-07-17T12:52:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Factcheck: Is it really illegal to put on make-up on a French train?",
@@ -603,76 +687,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260716/la-belle-vie-frances-north-south-divide-and-paris-movie-locations",
       "published_date": "2026-07-16T15:58:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Genoa bridge collapse trial highlights Italy's ageing infrastructure issue",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/genoa-bridge-collapse-trial-highlights-italy-s-ageing-infrastructure-issue",
-      "published_date": "2026-07-16T14:45:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DR Congo's healthcare workers go on strike as Ebola epidemic spreads",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/dr-congo-s-healthcare-workers-go-on-strike-as-ebola-epidemic-spreads",
-      "published_date": "2026-07-16T14:20:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya's Rastafari Society loses case to decriminalise cannabis use",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/kenya-s-rastafari-society-loses-case-to-decriminalise-cannabis-use",
-      "published_date": "2026-07-16T14:16:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian court convicts 32 over deadly 2018 Genoa Bridge collapse",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260716-italian-court-convicts-32-genoa-bridge-collapse-killed-43-people-2018",
-      "published_date": "2026-07-16T14:15:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "An individually curated tour of the City of Lights",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260716-an-individually-curated-tour-of-the-city-of-lights",
-      "published_date": "2026-07-16T14:14:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A ride through Paris and time",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260716-a-ride-through-paris-and-time",
-      "published_date": "2026-07-16T13:07:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France adopts bill legalising assisted dying for adults",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-adopts-bill-legalising-assisted-dying-for-adults",
-      "published_date": "2026-07-16T12:39:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elon Musk's backing of Le Pen presidential bid raises foreign influence concerns in France",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260716-elon-musk-s-backing-of-le-pen-presidential-bid-raises-foreign-influence-concerns-in-france",
-      "published_date": "2026-07-16T11:35:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toronto: Air ranked among world's worst as wildfire smoke chokes city",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260716-toronto-air-ranked-among-world-s-worst-as-wildfire-smoke-chokes-city",
-      "published_date": "2026-07-16T11:27:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lawyers vow to fight on after Kenya court rejects Rastafarians' cannabis bid",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260716-lawyers-vow-to-fight-on-after-kenya-court-rejects-rastafarians-cannabis-bid",
-      "published_date": "2026-07-16T10:12:12+00:00",
       "category": "Local Events"
     }
   ]
