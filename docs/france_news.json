@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-07-18T11:50:18.736219+00:00",
-  "story_count": 97,
+  "last_updated": "2026-07-18T23:50:26.491189+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "What's at stake for the EU's carbon market blueprint",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260718-what-s-at-stake-for-the-eu-s-carbon-market-blueprint",
+      "published_date": "2026-07-18T17:23:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French MPs approve assisted-dying law",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260718-french-mps-approve-assisted-dying-law",
+      "published_date": "2026-07-18T15:38:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France-Morocco rapprochement overshadowed by fresh Pegasus spying claims",
       "source": "RFI English",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "French PM Lecornu seeks deeper ties, energy cooperation on Morocco visit",
+      "title": "Khamenei threatens ‘unforgettable lessons’, two US troops killed in Iranian attack",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260716-french-pm-lecornu-seeks-deeper-ties-energy-cooperation-on-morocco-visit",
-      "published_date": "2026-07-16T15:17:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260718-khamenei-threatens-unforgettable-lessons-two-us-troops-killed-in-iranian-attack",
+      "published_date": "2026-07-18T20:10:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Google accuses EU of undermining privacy of 'millions of Europeans'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260716/google-accuses-eu-of-undermining-privacy-of-millions-of-europeans",
-      "published_date": "2026-07-16T14:10:36+00:00",
-      "category": "Diplomacy"
+      "title": "Gulf council blasts \"war crimes\" by Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/gulf-council-blasts-war-crimes-by-iran",
+      "published_date": "2026-07-18T16:23:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Power, desalination plants hit in Kuwait",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/power-desalination-plants-hit-in-kuwait",
+      "published_date": "2026-07-18T16:21:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Malian army convoy ambushed by rebels north of Gao",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260718-malian-army-convoy-ambushed-by-rebels-north-of-gao",
+      "published_date": "2026-07-18T15:10:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New footage shows assassination attempt on Ukrainian businessman in Monaco – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jul/18/footage-assassination-attempt-ukrainian-businessman-monaco-video",
+      "published_date": "2026-07-18T14:54:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-18T13:06:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fight or Flight: Trump administration subpoenas journalists over Air Force One reporting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/scoop/20260718-fight-or-flight-trump-administration-subpoenas-journalists-over-air-force-one-reporting",
+      "published_date": "2026-07-18T12:22:35+00:00",
+      "category": "Military"
     },
     {
       "title": "US Democrats divided over support for Israel ahead of midterm elections",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Who are Russia's 3,000 African army recruits fighting in Ukraine?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/who-are-russia-s-3-000-african-army-recruits-fighting-in-ukraine",
-      "published_date": "2026-07-17T10:33:27+00:00",
-      "category": "Military"
+      "title": "Zimbabwe’s gold rush adds fuel to a deadly surge in malaria",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260718-zimbabwe-s-gold-rush-adds-fuel-to-a-deadly-surge-in-malaria",
+      "published_date": "2026-07-18T14:28:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump reviving election fraud claims to contest midterm results, say Democrats",
+      "title": "Canada wildfires affect air quality before World Cup final",
       "source": "France 24",
-      "url": "https://www.france24.com/en/trump-reviving-election-fraud-claims-to-contest-midterm-results-say-democrats",
-      "published_date": "2026-07-17T10:29:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's top general is splitting country, says ousted defence minister",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-s-defence-minister-is-splitting-country-says-ousted-defence-minister",
-      "published_date": "2026-07-17T09:27:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany and France seek 'new dynamic' on defence after fighter jet failure",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260717/germany-and-france-seek-new-dynamic-on-defence-after-fighter-jet-failure",
-      "published_date": "2026-07-17T07:11:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China's Xi urges global cooperation on AI, warns against single-country dominance",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260717-china-s-xi-urges-global-cooperation-on-ai-warns-against-single-country-dominance",
-      "published_date": "2026-07-17T03:19:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In speech to nation, Trump declassifies intelligence claiming Chinese interference in 2020 elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260717-trump-china-largest-compromise-us-election-data-declassify-intelligence",
-      "published_date": "2026-07-17T02:22:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Defense Secretary Pete Hegseth announces testosterone screening for US troops",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-defense-secretary-pete-hegseth-announces-testosterone-screening-for-us-troops",
-      "published_date": "2026-07-16T20:24:37+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/canada-wildfires-affect-air-quality-before-world-cup-final",
+      "published_date": "2026-07-18T11:57:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Donald Trump blames Canada for smoke pollution",
@@ -403,25 +417,11 @@
       "category": "Energy"
     },
     {
-      "title": "Cuba suffers second nationwide blackout in five days",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260711-cuba-suffers-second-nationwide-blackout-in-five-days",
-      "published_date": "2026-07-11T16:24:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "An islandwide blackout strikes Cuba for the second time this week",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260711-an-islandwide-blackout-strikes-cuba-for-the-second-time-this-week",
-      "published_date": "2026-07-11T16:06:27+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Climate change: Women paying the price of a hotter planet",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260711-climate-change-the-gender-cost-of-a-hotter-planet",
-      "published_date": "2026-07-11T14:33:47+00:00",
-      "category": "Energy"
+      "title": "The Blue Ridge Mountain mine powering the world’s digital economy",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260718-the-blue-ridge-mountain-mine-powering-the-world-s-digital-economy",
+      "published_date": "2026-07-18T16:02:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "Ethiopian Drill explodes on the streets of Addis Ababa",
@@ -536,11 +536,32 @@
       "category": "Economy"
     },
     {
-      "title": "Elon Musk’s family foundation took Tommy Robinson to Russia, says Musk’s father",
+      "title": "World Cup 2026: France escape humiliation but fall to England in Deschamps' final match",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260718-world-cup-2026-england-s-late-surge-ends-france-s-comeback-hopes-in-third-place-thriller",
+      "published_date": "2026-07-18T23:08:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian police shift Cockroach Party activist on hunger strike to hospital against his wish",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260718-indian-police-shift-cockroach-party-activist-on-hunger-strike-to-hospital-against-his-wish",
+      "published_date": "2026-07-18T13:00:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026 : Deschamps last dance",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260718-world-cup-2026-the-match-no-one-wants-to-play-england-france-in-third-place-game",
+      "published_date": "2026-07-18T12:18:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It becomes inevitable’: the toxic mix fuelling deadly political violence around world",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/11/elon-musk-family-foundation-took-tommy-robinson-to-russia-says-musks-father",
-      "published_date": "2026-07-11T16:04:53+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/2026/jul/18/inevitable-toxic-mix-fuelling-deadly-political-violence-world",
+      "published_date": "2026-07-18T12:00:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wife of US heir and activist donor on fighting his extradition to US: ‘It’s incredible that this can happen’",
@@ -652,34 +673,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260717/wildfires-in-france-the-smoke-was-all-around-our-houses-it-was-scary-then-the-fire-exploded",
       "published_date": "2026-07-17T15:06:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Paris so dangerous during a heatwave?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260717/why-is-paris-so-dangerous-during-a-heatwave",
-      "published_date": "2026-07-17T14:39:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New approach for survivors of sexual violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-51/20260717-new-approach-for-survivors-of-sexual-violence",
-      "published_date": "2026-07-17T14:18:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris region mortality rates more than doubled during June heatwave: health authorities",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260717/paris-region-mortality-rates-more-than-doubled-during-june-heatwave-health-authorities",
-      "published_date": "2026-07-17T13:57:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Not a big deal’: New Venice mayor on US ambassador’s superyacht visit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260717-europe-bought-gas-oil-from-russia-venice-mayor-sees-contradiction-in-biennale-funding-freeze",
-      "published_date": "2026-07-17T13:49:02+00:00",
       "category": "Local Events"
     }
   ]
