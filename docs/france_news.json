@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-07-18T23:50:26.491189+00:00",
-  "story_count": 96,
+  "last_updated": "2026-07-19T11:52:34.336904+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T01:47:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What's at stake for the EU's carbon market blueprint",
       "source": "France 24",
@@ -109,6 +116,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "G7 and EU call for halt to attacks in Sudan's El-Obeid and wider arms embargo",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260717-g7-and-eu-call-for-halt-to-attacks-in-sudan-s-el-obeid-and-wider-arms-embargo",
+      "published_date": "2026-07-17T08:54:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "EU launches legal action against 17 member states over new single permit rules",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260717/eu-launches-legal-action-against-17-member-states-over-new-single-permit-rules",
@@ -130,18 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU border chaos feared at Dover crossing as busiest summer weekend looms",
+      "title": "‘Liberate the lidos!’ Who will win the war over Italy’s private beaches?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/17/eu-border-chaos-feared-dover-crossing-busiest-summer-weekend-looms",
-      "published_date": "2026-07-17T05:00:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/19/italy-private-free-beaches-campaigners-mafia-military",
+      "published_date": "2026-07-19T11:00:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Zero tolerance' for forest arsonists, Macron promises firefighters",
+      "title": "The Grand Mosque of Paris, 'part of the French Republic' for 100 years",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260719-the-grand-mosque-of-paris-part-of-the-french-republic-for-100-years",
+      "published_date": "2026-07-19T10:50:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Thousands take to the streets to protest against Fedorov removal",
       "source": "France 24",
-      "url": "https://www.france24.com/en/zero-tolerance-for-forest-arsonists-macron-promises-firefighters",
-      "published_date": "2026-07-16T15:19:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ukraine-thousands-take-to-the-streets-to-protest-against-fedorov-removal",
+      "published_date": "2026-07-19T10:31:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US launches strikes to 'punish' Iran after troops killed",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260719-us-launches-strikes-to-punish-iran-after-troops-killed",
+      "published_date": "2026-07-19T09:10:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "First US soldiers killed in Jordan, Trump vows to shift action",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/first-us-soldiers-killed-in-jordan-trump-vows-to-shift-action",
+      "published_date": "2026-07-19T08:52:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia pounds Kyiv for five hours in one of its biggest ballistic missile attacks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
+      "published_date": "2026-07-19T08:35:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US launches new airstrikes on Iran after confirming troop deaths",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260719-us-launches-new-airstrikes-on-iran-after-confirming-troop-deaths-1",
+      "published_date": "2026-07-19T07:15:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Strikes devastate Russian warehouses ‘used for drones’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/19/ukraine-war-briefing-strikes-devastate-russian-warehouses-used-for-drones",
+      "published_date": "2026-07-19T04:45:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-18T23:59:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Khamenei threatens ‘unforgettable lessons’, two US troops killed in Iranian attack",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Middle East live: Kuwait accuses Iran of targeting civilian sites, vital infrastructure",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks",
-      "published_date": "2026-07-18T05:02:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump, not Iran, is the world’s greatest danger. He’s a one-man weapon of mass destruction | Simon Tisdall",
+      "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/18/donald-trump-iran-world-danger-bombing-us",
-      "published_date": "2026-07-18T05:00:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-17T20:00:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands protest in Kyiv for second day over ouster of popular defence minister Fedorov",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260717-thousands-protest-for-second-day-in-kyiv-over-ouster-of-popular-defence-minister",
-      "published_date": "2026-07-17T19:35:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-17T19:04:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Trouble at the Top? Adieu Keir, Alright Andy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260717-ukraine-trouble-at-the-top-adieu-keir-alright-andy",
-      "published_date": "2026-07-17T18:31:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump targets China and Russia with baseless claims of election interference",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-targets-china-and-russia-with-baseless-claims-of-election-interference",
-      "published_date": "2026-07-17T14:38:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dismissal of Ukraine’s defence minister highlights wider issues for Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy",
-      "published_date": "2026-07-17T13:42:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainians 'disillusioned, outraged': Zelensky 'reshuffled entire govt' to dismiss defence minister",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260717-ukrainians-disillusioned-outraged-zelensky-reshuffled-entire-govt-to-dismiss-defence-minister",
-      "published_date": "2026-07-17T13:25:54+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy",
+      "published_date": "2026-07-19T11:00:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "Zimbabwe’s gold rush adds fuel to a deadly surge in malaria",
@@ -417,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Radical misogynist influencer Andrew Tate and brother arrested in Miami",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260719-radical-misogynist-influencer-andrew-tate-and-brother-arrested-in-miami",
+      "published_date": "2026-07-19T01:33:11+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "The Blue Ridge Mountain mine powering the world’s digital economy",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/international/20260718-the-blue-ridge-mountain-mine-powering-the-world-s-digital-economy",
@@ -529,11 +543,53 @@
       "category": "Economy"
     },
     {
-      "title": "EU accused of dragging its feet over ban on trade with illegal Israeli settlements",
+      "title": "The Bayeux tapestry arrives in London for display at British Museum",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/the-bayeux-tapestry-arrives-in-london-for-display-at-british-museum",
+      "published_date": "2026-07-19T10:33:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 50 Malian soldiers killed in rebel-jihadist attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack",
+      "published_date": "2026-07-19T09:44:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire scorches 12,000 hectares in central Spain's Guadalajara province",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260719-wildfire-scorches-12-000-hectares-in-central-spain-s-guadalajara-province",
+      "published_date": "2026-07-19T09:39:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French journalist warns of press freedom crackdown as court revives source hunt",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260719-french-journalist-lavrilleux-disclose-warns-of-judicial-crackdown-as-court-revives-source-hunt",
+      "published_date": "2026-07-19T08:32:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Millions in Kyiv 'didn't have time to seek shelter' ahead of Russian attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/millions-in-kyiv-didn-t-have-time-to-seek-shelter-ahead-of-russian-attack",
+      "published_date": "2026-07-19T07:12:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lashes, langers, bozzers and belly bachelors: a new book decodes Cork’s local slang",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements",
-      "published_date": "2026-07-12T05:00:09+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jul/19/lashes-langers-bozzers-and-belly-bachelors-a-new-book-decodes-corks-local-slang",
+      "published_date": "2026-07-19T04:00:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026: Argentinian fans have taken over Times Square",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/world-cup-2026-argentinian-fans-have-taken-over-times-square",
+      "published_date": "2026-07-19T00:28:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "World Cup 2026: France escape humiliation but fall to England in Deschamps' final match",
@@ -624,55 +680,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/international/20260718-as-gang-violence-expands-haiti-s-humanitarian-crisis-worsens",
       "published_date": "2026-07-18T05:29:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The hill I will die on: Parisian waiters are not rude – they’re just badly misunderstood | Helen Massy-Beresford",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/18/the-hill-i-will-die-on-paris-waiters-misunderstood-stereotype",
-      "published_date": "2026-07-18T04:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Protests of Fedorov’s dismissal continue as Zelenskyy tries to repair rift with Poland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/18/ukraine-war-briefing-protests-of-fedorovs-dismissal-continue-as-zelenskyy-tries-to-repair-rift-with-poland",
-      "published_date": "2026-07-18T03:55:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No fuel, no patience: Russians endure fuel shortages",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260718-no-fuel-no-patience-russians-endure-fuel-shortages",
-      "published_date": "2026-07-18T02:09:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN launches new refugee hub in Ethiopia offering legal aid and protection",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260717-un-launches-new-refugee-hub-in-ethiopia-offering-legal-aid-and-protection",
-      "published_date": "2026-07-17T21:40:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump administration's border barrier project sparks environmental concerns in Texas national park",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260717-border-barrier-project-sparks-environmental-concerns-texas-national-park",
-      "published_date": "2026-07-17T17:21:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris region's record June heatwave more than doubled normal mortality rate to reach 3,000",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260717-deaths-paris-region-more-than-doubled-during-june-heatwave-report-france",
-      "published_date": "2026-07-17T16:15:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires in France - 'The smoke was all around our houses, it was scary. Then the fire exploded'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260717/wildfires-in-france-the-smoke-was-all-around-our-houses-it-was-scary-then-the-fire-exploded",
-      "published_date": "2026-07-17T15:06:05+00:00",
       "category": "Local Events"
     }
   ]
