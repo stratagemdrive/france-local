@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-07-19T11:52:34.336904+00:00",
-  "story_count": 97,
+  "last_updated": "2026-07-19T23:53:35.415952+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Some people want to break up the EU. Why don’t they want to break up the US?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/19/eu-us-federal-question-european-union",
+      "published_date": "2026-07-19T13:00:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Readers reply: Why is there no rugby culture in Germany?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/19/readers-reply-why-is-there-no-rugby-culture-in-germany",
+      "published_date": "2026-07-19T13:00:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "New EU border system tripling time at passport control, airport boss says",
       "source": "BBC News",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France and England prepare for gloomy World Cup send-off",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260717/france-and-england-prepare-for-gloomy-world-cup-send-off",
-      "published_date": "2026-07-17T07:20:47+00:00",
-      "category": "Diplomacy"
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T18:25:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tour de France: Merlier speeds toward another win, Pogacar still in yellow",
+      "title": "Russia launches deadly strikes on Kyiv after attack on Moscow warehouses",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260717-tour-de-france-merlier-the-fastest-again-pogacar-still-in-yellow",
-      "published_date": "2026-07-17T05:45:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/russia-launches-deadly-strikes-on-kyiv-after-attack-on-moscow-warehouses",
+      "published_date": "2026-07-19T11:54:09+00:00",
+      "category": "Military"
     },
     {
       "title": "‘Liberate the lidos!’ Who will win the war over Italy’s private beaches?",
@@ -242,6 +256,13 @@
       "category": "Military"
     },
     {
+      "title": "Dismissal of Ukraine’s defence minister highlights wider issues for Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy",
+      "published_date": "2026-07-18T14:26:22+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine: Protests over Fedorov's removal continue for a second day",
+      "title": "Europe: Extreme weather fuels climate concerns",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260718-ukraine-protests-over-fedorov-s-removal-continue-for-a-second-day",
-      "published_date": "2026-07-18T08:37:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes hit Iran for seventh night",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-strikes-hit-iran-for-seventh-night",
-      "published_date": "2026-07-18T08:35:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany and France close ranks on defence after jet project collapse",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260718/germany-and-france-close-ranks-on-defence-after-jet-project-collapse",
-      "published_date": "2026-07-18T07:39:01+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe-extreme-weather-fuels-climate-concerns",
+      "published_date": "2026-07-19T11:55:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
@@ -396,32 +403,11 @@
       "category": "Energy"
     },
     {
-      "title": "Iran expands attacks on Gulf states after intense US strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260712-iran-expands-attacks-on-gulf-states-after-intense-us-strikes",
-      "published_date": "2026-07-12T20:49:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Champagne, Comté and croissants in the crossfire of climate change, experts warn",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260712-champagne-comt%C3%A9-and-croissants-in-the-crossfire-of-climate-change-experts-warn",
-      "published_date": "2026-07-12T15:52:34+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukrainian drone strikes force Russia to suspend shipping in Sea of Azov",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/12/ukrainian-drone-strikes-force-russia-to-suspend-shipping-in-sea-of-azov",
-      "published_date": "2026-07-12T14:19:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "In Zimbabwe, community seed banks are reviving indigenous crops",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260712-in-zimbabwe-community-seed-banks-are-reviving-indigenous-crops",
-      "published_date": "2026-07-12T13:57:55+00:00",
-      "category": "Energy"
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260719/on-the-agenda-whats-happening-in-france-this-week-219",
+      "published_date": "2026-07-19T07:21:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Radical misogynist influencer Andrew Tate and brother arrested in Miami",
@@ -529,18 +515,18 @@
       "category": "Economy"
     },
     {
-      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-12T23:29:06+00:00",
-      "category": "Economy"
+      "title": "Wildfire scorches 12,000 hectares north of Madrid, say Spanish authorities",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260719-wildfire-scorches-12-000-hectares-north-of-madrid-say-spanish-authorities",
+      "published_date": "2026-07-19T15:50:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Britain’s cars and SUVs are growing bigger – but there is a way to stop this deadly ‘carspreading’  | Christian Wolmar",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/12/britain-car-suv-big-large-vehicle-road-pedestrians",
-      "published_date": "2026-07-12T15:30:12+00:00",
-      "category": "Economy"
+      "title": "African designer Imane Ayissi redefines luxury on Paris haute couture stage",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260719-african-designer-imane-ayissi-redefines-luxury-on-paris-haute-couture-stage",
+      "published_date": "2026-07-19T13:21:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Bayeux tapestry arrives in London for display at British Museum",
@@ -568,6 +554,13 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260719-french-journalist-lavrilleux-disclose-warns-of-judicial-crackdown-as-court-revives-source-hunt",
       "published_date": "2026-07-19T08:32:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested over fire in Paris park",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260719/man-arrested-over-fire-in-paris-park",
+      "published_date": "2026-07-19T07:33:12+00:00",
       "category": "Local Events"
     },
     {
@@ -659,27 +652,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260718/ex-spy-jailed-after-french-masonic-lodge-murder-trial",
       "published_date": "2026-07-18T07:27:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Helicopters dump water as huge Norway fire destroys homes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-18T07:13:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia says Ukrainian drone attack killed several in Moscow logistics centre",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260718-russia-says-ukrainian-drone-attack-killed-several-in-moscow-logistics-centre",
-      "published_date": "2026-07-18T05:32:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As gang violence expands, Haiti's humanitarian crisis worsens",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260718-as-gang-violence-expands-haiti-s-humanitarian-crisis-worsens",
-      "published_date": "2026-07-18T05:29:14+00:00",
       "category": "Local Events"
     }
   ]
