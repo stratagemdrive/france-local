@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-07-20T13:02:04.105875+00:00",
-  "story_count": 95,
+  "last_updated": "2026-07-20T23:54:25.918182+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Spain PM Sanchez visits Algeria for first time in four years as ties thaw",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260720-spain-pm-sanchez-visits-algeria-first-time-four-years-ties-thaw",
+      "published_date": "2026-07-20T19:49:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two French diplomats subjected to ‘extremely serious act of intimidation’ in Iran, FM Barrot says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says",
+      "published_date": "2026-07-20T16:14:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Airport bosses warn EU's new border checks triple waiting times for Brits",
       "source": "The Local France",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU-based British students to pay international fees in UK from 2028",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260717/eu-based-british-students-to-pay-international-fees-in-uk-from-2028",
-      "published_date": "2026-07-17T11:21:38+00:00",
-      "category": "Diplomacy"
+      "title": "Lebanese army deploys to three southern pilot zones under US-backed security framework",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260720-lebanese-army-south-lebanon-pilot-zones-israel-withdrawal",
+      "published_date": "2026-07-20T21:44:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Fire reignites in Fontainebleau forest as investigation continues",
+      "title": "Ukraine’s army chief expected to lose job after week of protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/20/ukraine-army-chief-oleksandr-syrskyi-expected-lose-job-week-protests",
+      "published_date": "2026-07-20T18:01:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian attack on Odesa kills three after Ukraine targets Moscow with drones overnight – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/20/ukraine-russia-drones-missiles-hungary-germany-latest-news-updates",
+      "published_date": "2026-07-20T15:08:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US slaps new sanctions on Sudan after chlorine gas deployment claims",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260720-us-slaps-new-sanctions-on-sudan-after-chlorine-gas-deployment-claims",
+      "published_date": "2026-07-20T14:58:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine fires 400 missiles at Moscow after deadly Russian attacks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/fire-reignites-in-fontainebleau-forest-as-investigation-continues",
-      "published_date": "2026-07-17T10:01:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ukraine-fires-400-missiles-on-moscow-after-deadly-russian-attacks",
+      "published_date": "2026-07-20T14:31:50+00:00",
+      "category": "Military"
     },
     {
       "title": "France welcomes Gabon's Oligui as mineral and military ties defy wider rift in Africa",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "US launches new airstrikes on Iran after confirming troop deaths",
+      "title": "Trump signs order imposing new 50% tariffs on certain Canadian goods",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260719-us-launches-new-airstrikes-on-iran-after-confirming-troop-deaths-1",
-      "published_date": "2026-07-19T07:15:46+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/economy/20260720-trump-signs-order-imposing-new-50-tariffs-on-certain-canadian-goods",
+      "published_date": "2026-07-20T21:46:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine war briefing: Strikes devastate Russian warehouses ‘used for drones’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/19/ukraine-war-briefing-strikes-devastate-russian-warehouses-used-for-drones",
-      "published_date": "2026-07-19T04:45:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-18T23:59:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Khamenei threatens ‘unforgettable lessons’, two US troops killed in Iranian attack",
+      "title": "Fears over Gulf shipping and water rise as US-Iran trade strikes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260718-khamenei-threatens-unforgettable-lessons-two-us-troops-killed-in-iranian-attack",
-      "published_date": "2026-07-18T20:10:02+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260720-fears-over-gulf-shipping-and-water-rise-as-us-iran-trade-strikes",
+      "published_date": "2026-07-20T15:36:40+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Gulf council blasts \"war crimes\" by Iran",
+      "title": "How state actors are exploiting climate crises to spread disinformation",
       "source": "France 24",
-      "url": "https://www.france24.com/en/gulf-council-blasts-war-crimes-by-iran",
-      "published_date": "2026-07-18T16:23:09+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260720-foreign-state-actors-exploiting-climate-crises-spread-disinformation",
+      "published_date": "2026-07-20T14:04:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Flavours of Iraq review – vivid childhood memories of 80s Baghdad from writer in Paris exile",
@@ -403,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Mary Honeyball praises forward-looking PM 'prepared to inject some optimism' into United Kingdom",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mary-honeyball-praises-forward-looking-pm-prepared-to-inject-some-optimism-into-united-kingdom",
+      "published_date": "2026-07-20T17:26:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The top scorer for World Cup coverage | Brief letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/jul/20/the-top-scorer-for-world-cup-coverage",
+      "published_date": "2026-07-20T16:24:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham Advocates Closer EU Relationship: Big Gains Will Only Come from Rejoining the Single Market",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/burnham-advocates-closer-eu-relationship-big-gains-will-only-come-from-rejoining-the-single-market",
+      "published_date": "2026-07-20T14:31:42+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Andy Burnham's promise to deliver tangible improvements to Britons' lives put to the test",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/business/20260720-andy-burnham-s-promise-to-deliver-tangible-improvements-to-britons-lives-put-to-the-test",
@@ -494,39 +536,67 @@
       "category": "Economy"
     },
     {
-      "title": "US judge voids Donald Trump 'improper' $1.8 billion settlement with IRS",
+      "title": "Guyana ferry capsizes, leaving at least 27 dead, 83 missing",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260713-us-judge-voids-trump-irs-settlement-taxes",
-      "published_date": "2026-07-13T21:58:19+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/americas/20260720-guyana-ferry-capsize-27-dead-83-missing",
+      "published_date": "2026-07-20T23:44:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ukraine strikes halt shipping on key wheat route as Russian fuel crisis deepens",
+      "title": "Senegalese president assumes ECOWAS leadership",
       "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-strikes-halt-shipping-on-key-wheat-route-as-russian-fuel-crisis-deepens",
-      "published_date": "2026-07-13T21:00:50+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/senegalese-president-assumes-ecowas-leadership",
+      "published_date": "2026-07-20T20:17:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-13T16:05:13+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-20T16:10:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Britons to use e-gates in Switzerland as Starmer seals £5.2bn trade deal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/13/brits-e-gates-switzerland-keir-starmer-seals-trade-deal",
-      "published_date": "2026-07-13T14:00:48+00:00",
-      "category": "Economy"
+      "title": "Andy Burnham: Who is the new UK prime minister?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/andy-burnham-who-is-the-new-uk-prime-minister",
+      "published_date": "2026-07-20T15:41:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "VW chief confirms plan to cut 50,000 jobs as board rejects plant closures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/13/vw-cut-jobs-board-rejects-plant-closures-staff-restructuring",
-      "published_date": "2026-07-13T13:42:21+00:00",
-      "category": "Economy"
+      "title": "Residents evacuated as the south of France burns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260720-residents-evacuated-as-the-south-of-france-burns",
+      "published_date": "2026-07-20T14:14:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After getting a new PM, the UK waits for his government and first policies",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/after-getting-a-new-pm-the-uk-waits-for-his-government-and-first-policies",
+      "published_date": "2026-07-20T13:55:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris doubles tax on vacant homes to bring properties back onto rental market",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260720/paris-doubles-tax-on-vacant-homes-to-bring-properties-back-onto-rental-market",
+      "published_date": "2026-07-20T13:39:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What to know about Andy Burnham's first speech as prime minister",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/what-to-know-about-andy-burnham-s-first-speech-as-prime-minister",
+      "published_date": "2026-07-20T13:20:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is outgoing Prime Minister Keir Starmer's legacy?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260720-what-is-outgoing-prime-minister-keir-starmer-s-legacy",
+      "published_date": "2026-07-20T13:08:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Andy Burnham wants to lead the UK 'differently': how different can he be?",
@@ -603,69 +673,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260719-wildfire-scorches-12-000-hectares-in-central-spain-s-guadalajara-province",
       "published_date": "2026-07-19T09:39:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French journalist warns of press freedom crackdown as court revives source hunt",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260719-french-journalist-lavrilleux-disclose-warns-of-judicial-crackdown-as-court-revives-source-hunt",
-      "published_date": "2026-07-19T08:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested over fire in Paris park",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260719/man-arrested-over-fire-in-paris-park",
-      "published_date": "2026-07-19T07:33:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Millions in Kyiv 'didn't have time to seek shelter' ahead of Russian attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/millions-in-kyiv-didn-t-have-time-to-seek-shelter-ahead-of-russian-attack",
-      "published_date": "2026-07-19T07:12:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lashes, langers, bozzers and belly bachelors: a new book decodes Cork’s local slang",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/19/lashes-langers-bozzers-and-belly-bachelors-a-new-book-decodes-corks-local-slang",
-      "published_date": "2026-07-19T04:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: Argentinian fans have taken over Times Square",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/world-cup-2026-argentinian-fans-have-taken-over-times-square",
-      "published_date": "2026-07-19T00:28:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026: France escape humiliation but fall to England in Deschamps' final match",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260718-world-cup-2026-england-s-late-surge-ends-france-s-comeback-hopes-in-third-place-thriller",
-      "published_date": "2026-07-18T23:08:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian police shift Cockroach Party activist on hunger strike to hospital against his wish",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260718-indian-police-shift-cockroach-party-activist-on-hunger-strike-to-hospital-against-his-wish",
-      "published_date": "2026-07-18T13:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026 : Deschamps last dance",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260718-world-cup-2026-the-match-no-one-wants-to-play-england-france-in-third-place-game",
-      "published_date": "2026-07-18T12:18:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It becomes inevitable’: the toxic mix fuelling deadly political violence around world",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/18/inevitable-toxic-mix-fuelling-deadly-political-violence-world",
-      "published_date": "2026-07-18T12:00:03+00:00",
       "category": "Local Events"
     }
   ]
