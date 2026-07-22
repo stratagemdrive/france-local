@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-07-22T12:22:59.160097+00:00",
+  "last_updated": "2026-07-22T23:58:40.863200+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "EXPLAINED: Why are some medication not reimbursed in France and what you can do about it",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260722/explained-why-are-some-medication-not-reimbursed-in-france-and-what-you-can-do-about-it",
+      "published_date": "2026-07-22T15:36:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "​Andy Burnham’s ​domestic ​revolution ​could ​unobtrusively pull Britain ​closer to Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/22/andy-burnhams-domestic-revolution-could-unobtrusively-pull-britain-closer-to-europe",
+      "published_date": "2026-07-22T14:40:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron talks environment minister out of quitting over pesticide U-turn",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260722-france-environment-minister-barbut-quits-then-stays-to-act-on-climate",
+      "published_date": "2026-07-22T13:18:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
       "source": "The Guardian",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK Prime Minister Andy Burnham unveils new government, replacing Starmer era",
+      "title": "Ukrainians welcome new army chief but seek return of fired defence minister",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260721-uk-prime-minister-andy-burnham-unveils-new-government-replacing-starmer-era",
-      "published_date": "2026-07-21T03:21:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260722-ukrainians-welcome-new-army-chief-but-seek-return-of-fired-defence-minister",
+      "published_date": "2026-07-22T22:27:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spain PM Sanchez visits Algeria for first time in four years as ties thaw",
+      "title": "'Mykhailo Fedorov was fired for his successes in fighting corruption in the defense sector'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260720-spain-pm-sanchez-visits-algeria-first-time-four-years-ties-thaw",
-      "published_date": "2026-07-20T19:49:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260722-mykhailo-fedorov-was-fired-for-his-successes-in-fighting-corruption-in-the-defense-sector-1",
+      "published_date": "2026-07-22T19:45:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Two French diplomats subjected to ‘extremely serious act of intimidation’ in Iran, FM Barrot says",
+      "title": "Zelenskyy under growing pressure to reinstate sacked defence minister",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/22/volodymyr-zelenskyy-pressure-reinstate-sacked-defence-minister-mykhailo-fedorov",
+      "published_date": "2026-07-22T18:31:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mykhailo Drapatyi: Ukrainians hope new commander will end army’s ‘Soviet culture’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/22/mykhailo-drapatyi-ukrainians-hope-new-commander-will-end-armys-soviet-culture",
+      "published_date": "2026-07-22T17:48:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy ousts Ukraine army chief after protests - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/jul/22/volodymyr-zelenskyy-ousts-top-ukraine-general-oleksandr-syrskyi-after-protests-the-latest",
+      "published_date": "2026-07-22T15:50:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who is Mikhailo Drapaty, Ukraine's new commander-in-chief?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says",
-      "published_date": "2026-07-20T16:14:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/who-is-mikhailo-drapaty-ukraine-s-new-commander-in-chief",
+      "published_date": "2026-07-22T15:21:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-22T15:19:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany greenlights controversial joint French-Russian nuclear project",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260722-germany-greenlights-controversial-joint-french-russian-nuclear-project",
+      "published_date": "2026-07-22T12:54:49+00:00",
+      "category": "Military"
     },
     {
       "title": "#Ukraine's controversial top general replaced amid mass #protests",
@@ -225,62 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/zelensky-fires-army-chief-oleksandr-syrsky-a-victory-for-protestors",
       "published_date": "2026-07-21T20:22:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's Zelensky fires military chief after protests and names a replacement",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-s-zelensky-fires-military-chief-after-protests-and-names-a-replacement",
-      "published_date": "2026-07-21T20:12:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky sacks Ukraine army chief Syrsky after protests over rival minister's dismissal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260721-zelensky-fires-ukraine-army-chief-oleksandr-syrsky",
-      "published_date": "2026-07-21T19:59:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-21T19:57:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky faces deepening political crisis as protests dig in",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/zelensky-faces-deepening-political-crisis-as-protests-dig-in",
-      "published_date": "2026-07-21T18:38:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine plunges into political crisis as anger over defence minister's dismissal grows",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-plunges-into-political-crisis-as-anger-over-defence-minister-s-dismissal-grows",
-      "published_date": "2026-07-21T13:23:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia attacks Ukraine’s gas facilities as Zelenskyy faces further protests – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/21/ukraine-russia-zelenskyy-greece-italy-spain-france-social-media-latest-news-updates",
-      "published_date": "2026-07-21T12:19:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia-Ukraine war: First half of 2026 sees sharp rise in civilian casualties",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260721-russia-ukraine-war-first-half-of-2026-sees-sharp-rise-in-civilian-casualties",
-      "published_date": "2026-07-21T09:57:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war stuck in 'cycle of enhanced risk' as US and Iran exchange strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east-war-stuck-in-cycle-of-enhanced-risk-as-us-and-iran-exchange-strikes",
-      "published_date": "2026-07-21T09:22:17+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Food price fears after Europe’s heatwave destroys estimated €2bn of crops",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/22/europe-heatwave-june-farming-lost-revenue-crop-damage",
+      "published_date": "2026-07-22T14:12:47+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "What changes in France in August 2026",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260722/what-changes-in-france-in-august-2026",
@@ -550,11 +557,53 @@
       "category": "Economy"
     },
     {
-      "title": "Maltese politicians ‘involved’ in plot to kill Daphne Caruana Galizia, court hears",
+      "title": "Sex trafficking in fashion: 'Outrageous that French legal system hasn't done anything by now'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260722-sex-trafficking-in-fashion-outrageous-that-french-legal-system-hasn-t-done-anything-by-now-1",
+      "published_date": "2026-07-22T19:33:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman, 70, charged with murder of British expat Karen Carter in France",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/15/malta-politicians-plot-to-kill-daphne-caruana-galizia-court-hears",
-      "published_date": "2026-07-15T19:58:23+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/jul/22/woman-70-charged-with-of-british-expat-karen-carter-in-france",
+      "published_date": "2026-07-22T18:28:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Geoffrey King obituary",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/22/geoffrey-king-obituary",
+      "published_date": "2026-07-22T17:14:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French model recruiter with links to Epstein found dead near Paris",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260722-french-model-recruiter-with-links-to-epstein-found-dead-near-paris",
+      "published_date": "2026-07-22T14:44:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explained: How will France’s social media ban for under-15s actually work?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260722/explained-how-will-frances-social-media-ban-for-under-15s-actually-work",
+      "published_date": "2026-07-22T14:33:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Model scout for Jeffrey Epstein found dead at his home near Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/22/daniel-siad-model-scout-jeffrey-epstein-found-dead-home-paris",
+      "published_date": "2026-07-22T13:38:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two trams collide on bridge in Rotterdam, injuring at least 15 people  - video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jul/22/two-trams-collide-bridge-rotterdam-injuring-at-least-15-people-video",
+      "published_date": "2026-07-22T13:29:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
@@ -645,55 +694,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20260722-louvre-gallery-where-jewellery-heist-took-place-to-reopen-to-public",
       "published_date": "2026-07-22T06:58:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfire in southern France 'contained' after hundreds evacuated from homes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260722-fast-moving-wildfire-forces-hundreds-of-evacuations-in-southern-france",
-      "published_date": "2026-07-22T02:25:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French tourist town bans 'love locks' on bridges",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260721/french-tourist-town-bans-love-locks-on-bridges",
-      "published_date": "2026-07-21T15:37:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two French firefighters die while battling blaze near Bordeaux airport",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260721/two-french-firefighters-died-while-battling-blaze-near-bordeaux-airport",
-      "published_date": "2026-07-21T15:02:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-21T12:48:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bologna's protesters call for accountability after man dies during police arrest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/bologna-s-protesters-call-for-accountability-after-man-dies-during-police-arrest",
-      "published_date": "2026-07-21T11:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘No electricity, no water, no fuel’: Ukrainian drone strikes bring darkness to Crimea’s summer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/21/no-electricity-no-water-no-fuel-ukrainian-drone-strikes-bring-darkness-to-crimeas-summer",
-      "published_date": "2026-07-21T11:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests in Italy after death of Moroccan man under police restraint",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/21/protests-italy-bologna-abderrahim-fakir-police",
-      "published_date": "2026-07-21T10:09:06+00:00",
       "category": "Local Events"
     }
   ]
