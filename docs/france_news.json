@@ -1,13 +1,34 @@
 {
   "country": "France",
-  "last_updated": "2026-07-23T12:20:33.713879+00:00",
-  "story_count": 98,
+  "last_updated": "2026-07-23T23:56:37.691445+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "The Bayeux Tapestry in London: 'A diplomatic operation that almost never happened'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/the-bayeux-tapestry-in-london-a-diplomatic-operation-that-almost-never-happened",
+      "published_date": "2026-07-23T14:54:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU fines Google €890 million and risks US fury",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260723/eu-fines-google-e890-million-and-risks-us-fury",
+      "published_date": "2026-07-23T12:50:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "New EU sanctions will ‘hit Putin where it hurts most’, says foreign policy chief Kallas – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
       "published_date": "2026-07-23T12:01:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU fines Google €890 million for competition breaches, risking Trump ire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260723-eu-fines-google-890-mn-euros-risking-us-fury",
+      "published_date": "2026-07-23T10:13:09+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France approves social media ban for children under 15, in EU first",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260722-france-approves-social-media-ban-for-children-under-15-in-eu-first",
-      "published_date": "2026-07-22T05:56:56+00:00",
-      "category": "Diplomacy"
+      "title": "Fields medal honours four mathematicians as AI reshapes the profession",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260723-fields-medal-honours-four-mathematicians-as-ai-reshapes-the-profession",
+      "published_date": "2026-07-23T23:11:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "France becomes first EU country to ban social media access for under-15s",
+      "title": "Trump stuns Saudis by pinning nuclear deal to Israel ties",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties",
+      "published_date": "2026-07-23T18:24:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Reinstating Fedorov 'only right decision Zelensky can make', MP says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/reinstating-fedorov-only-right-decision-zelensky-can-make-mp-says",
+      "published_date": "2026-07-23T18:20:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's ousted defence minister insists on being reinstated",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-23T17:37:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Iran is targeting Kuwait's desalination plants as part of its war strategy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260723-why-iran-targeting-kuwaits-desalination-plants",
+      "published_date": "2026-07-23T16:53:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Saudi nuclear deal contingent on Riyadh normalising relations with Israel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260723-trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties",
+      "published_date": "2026-07-23T16:31:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Murdoch and Musk in the crosshairs at Venice film festival",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/21/france-ban-social-media-access-under-15s",
-      "published_date": "2026-07-21T19:14:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/film/2026/jul/23/venice-film-festival-lineup-2026-danny-boyle",
+      "published_date": "2026-07-23T14:58:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "France’s emergency agriculture bill passed, amid divisions over pesticides",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260721-france-s-emergency-agriculture-bill-passed-amid-divisions-over-pesticides",
-      "published_date": "2026-07-21T19:07:02+00:00",
-      "category": "Diplomacy"
+      "title": "After meeting with Moscow, Washington reiterates wish to mediate Ukraine war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/after-meeting-with-moscow-washington-reiterates-wish-to-mediate-ukraine-war",
+      "published_date": "2026-07-23T14:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East war's economic impact 'could get worse' if Houthis join in",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east-war-s-economic-impact-could-get-worse-if-houthis-join-in",
+      "published_date": "2026-07-23T14:23:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Open AI models go rogue, ecape and and hack online AI sharing hub",
@@ -218,69 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-22T15:19:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany greenlights controversial joint French-Russian nuclear project",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260722-germany-greenlights-controversial-joint-french-russian-nuclear-project",
-      "published_date": "2026-07-22T12:54:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "United States announces landmark civilian nuclear deal with Saudi Arabia",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260722-saudi-nuclear-deal-set-to-bypass-iaea-s-toughest-inspections-regime",
-      "published_date": "2026-07-22T12:46:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "#Ukraine's controversial top general replaced amid mass #protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260722-ukraine-s-controversial-top-general-replaced-amid-mass-protests",
-      "published_date": "2026-07-22T11:28:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pete Hegseth asks US Senate for 'urgent' Iran war funding increase",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/pete-hegseth-asks-us-senate-for-urgent-iran-war-funding-increase",
-      "published_date": "2026-07-22T09:57:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky dimisses military chief, accused of wasting lives by demonstrators",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/zelensky-dimisses-military-chief-accused-of-wasting-lives-by-demonstrators",
-      "published_date": "2026-07-22T09:21:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky sacks army chief Oleksandr Syrsky after protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/zelensky-sacks-army-chief-oleksandr-syrsky-after-protests",
-      "published_date": "2026-07-22T09:13:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Norway’s national oil company profits double to $11.5bn amid war on Iran",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/22/norway-national-oil-company-equinor-profits-double-115bn-war-iran",
-      "published_date": "2026-07-22T08:39:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-22T05:37:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "My friends left Ukraine after the Russian invasion. Now I wonder if we live in the same world | Diana Berg",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/22/my-friends-left-ukraine-after-the-russian-invasion-now-i-wonder-if-we-live-in-the-same-world",
-      "published_date": "2026-07-22T04:00:05+00:00",
       "category": "Military"
     },
     {
@@ -403,6 +403,13 @@
       "category": "Energy"
     },
     {
+      "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
+      "published_date": "2026-07-18T15:24:42+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Zimbabwe’s gold rush adds fuel to a deadly surge in malaria",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20260718-zimbabwe-s-gold-rush-adds-fuel-to-a-deadly-surge-in-malaria",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Donald Trump blames Canada for smoke pollution",
+      "title": "New PM cuts business rates for UK pubs in latest cost-of-living measure",
       "source": "France 24",
-      "url": "https://www.france24.com/en/donald-trump-blames-canada-for-smoke-pollution",
-      "published_date": "2026-07-18T08:40:49+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/europe/20260723-new-pm-cuts-business-rates-for-uk-pubs-in-latest-cost-of-living-measure",
+      "published_date": "2026-07-23T23:26:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump announces double digit tariffs on 60 countries over forced labour concerns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260723-trump-announces-double-digit-tariffs-on-60-countries-over-forced-labour-concerns",
+      "published_date": "2026-07-23T21:27:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Crucial salt trade revives as Pink Lake slowly recovers from floods",
@@ -550,6 +564,48 @@
       "category": "Economy"
     },
     {
+      "title": "Indian activist ends 26-day hunger strike, though student protests continue",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260723-indian-activist-ends-26-day-hunger-strike-though-student-protests-continue",
+      "published_date": "2026-07-23T22:44:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Virginia Governor Abigail Spanberger in Paris: 'There's no single blueprint for Democratic Party'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260723-virginia-governor-abigail-spanberger-in-paris-there-s-no-single-blueprint-for-democratic-party",
+      "published_date": "2026-07-23T19:07:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Virginia Governor Abigail Spanberger in Paris: 'There's no single blueprint for Democratic Party'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/virginia-governor-abigail-spanberger-in-paris-there-s-no-single-blueprint-for-democratic-party",
+      "published_date": "2026-07-23T19:01:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands evacuated in south of France as wildfire rages across pine forest – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jul/23/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video",
+      "published_date": "2026-07-23T18:34:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'A recipe for disaster': France's dry southwest struggles to contain wildfire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/a-recipe-for-disaster-france-s-dry-southwest-struggles-to-contain-wildfire",
+      "published_date": "2026-07-23T15:22:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands evacuated due to wildfire in France's southwest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/thousands-evacuated-due-to-wildfire-in-france-s-southwest",
+      "published_date": "2026-07-23T14:03:47+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "France evacuates 20,000 as wildfires spread in south-west",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
@@ -645,48 +701,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260723-wildfire-in-france-at-least-12-000-evacuated-in-the-south-west",
       "published_date": "2026-07-23T05:31:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sex trafficking in fashion: 'Outrageous that French legal system hasn't done anything by now'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260722-sex-trafficking-in-fashion-outrageous-that-french-legal-system-hasn-t-done-anything-by-now-1",
-      "published_date": "2026-07-22T19:33:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police formally investigate woman after Brit stabbed to death in French village",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-22T19:03:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 70, charged with murder of British expat Karen Carter in France",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/22/woman-70-charged-with-of-british-expat-karen-carter-in-france",
-      "published_date": "2026-07-22T18:28:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Geoffrey King obituary",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/22/geoffrey-king-obituary",
-      "published_date": "2026-07-22T17:14:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French model recruiter with links to Epstein found dead near Paris",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260722-french-model-recruiter-with-links-to-epstein-found-dead-near-paris",
-      "published_date": "2026-07-22T14:44:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explained: How will France’s social media ban for under-15s actually work?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260722/explained-how-will-frances-social-media-ban-for-under-15s-actually-work",
-      "published_date": "2026-07-22T14:33:38+00:00",
       "category": "Local Events"
     }
   ]
