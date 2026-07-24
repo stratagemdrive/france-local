@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-07-24T12:16:26.065664+00:00",
+  "last_updated": "2026-07-24T23:59:52.781098+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
+      "published_date": "2026-07-24T21:22:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron calls for EU reinforcements as France battles spreading wildfires",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260724-macron-calls-for-eu-reinforcements-as-france-battles-spreading-wildfires",
+      "published_date": "2026-07-24T21:09:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-24T20:23:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World chess chief faces endgame after EU announces Russia war sanctions",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-24T16:08:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham urged to lobby EU leaders directly to waive EES border controls",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/24/burnham-urged-to-lobby-eu-leaders-directly-to-waive-ees-border-controls",
+      "published_date": "2026-07-24T15:03:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maga influencer Laura Loomer reverses course on Ukraine after Kyiv visit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/maga-influencer-laura-loomer-reverses-course-on-ukraine-after-kyiv-visit",
+      "published_date": "2026-07-24T13:00:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Giorgia Meloni's Italy: An authoritarian drift? (Part 2)",
       "source": "France 24",
@@ -74,6 +116,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
+      "published_date": "2026-07-24T00:16:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "The Bayeux Tapestry in London: 'A diplomatic operation that almost never happened'",
       "source": "France 24",
       "url": "https://www.france24.com/en/the-bayeux-tapestry-in-london-a-diplomatic-operation-that-almost-never-happened",
@@ -95,53 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU fines Google €890 million for competition breaches, risking Trump ire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260723-eu-fines-google-890-mn-euros-risking-us-fury",
-      "published_date": "2026-07-23T10:13:09+00:00",
-      "category": "Diplomacy"
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-24T23:58:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU fines Google €890m for competition breaches over search and apps",
+      "title": "Law student charged after military-grade bomb intercepted near Irish border",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-      "published_date": "2026-07-23T10:00:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/24/woman-man-arrested-ireland-police-intercept-highly-sophisticated-bomb",
+      "published_date": "2026-07-24T22:18:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "US 'not willing to put pressure on Russia' despite wanting progress in Ukraine",
+      "title": "US pummels Iran as Tehran targets regional bases stationing US forces",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-not-willing-to-put-pressure-on-russia-despite-wanting-progress-in-ukraine",
-      "published_date": "2026-07-23T09:29:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260724-us-pummels-iranian-sites-tehran-targets-regional-bases-stationing-us-forces",
+      "published_date": "2026-07-24T20:48:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "US and Saudi Arabia reach a multi-billion dollar civilian nuclear deal",
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jul/24/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-07-24T18:02:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Arrests, denials and missing images: Gulf states’ response to Iranian strikes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-and-saudi-arabia-reach-a-multi-billion-dollar-civilian-nuclear-deal",
-      "published_date": "2026-07-23T09:04:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260724-iranian-strikes-gulf-states-arrests-denials-satellite-investigation",
+      "published_date": "2026-07-24T17:26:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Replay: Marco Rubio addresses Middle East and Ukraine conflicts",
+      "title": "Deadly clashes in the occupied West Bank",
       "source": "France 24",
-      "url": "https://www.france24.com/en/replay-marco-rubio-addresses-middle-east-and-ukraine-conflicts",
-      "published_date": "2026-07-23T08:59:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/deadly-clashes-in-the-occupied-west-bank",
+      "published_date": "2026-07-24T15:57:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "🔴 War in Ukraine: EU agrees 21st round of sanctions on Russia",
+      "title": "Russian strikes kill 10 in Kyiv region",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260723-eu-ambassadors-agree-21st-sanctions-package-against-russia",
-      "published_date": "2026-07-23T07:34:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/russian-strikes-kill-10-in-kyiv-region",
+      "published_date": "2026-07-24T15:08:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Deadly wildfires force thousands from homes in Europe",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260723/deadly-wildfires-force-thousands-from-homes-in-europe",
-      "published_date": "2026-07-23T06:40:41+00:00",
-      "category": "Diplomacy"
+      "title": "#Ukraine targets Russian #ecommerce giant's warehouses in fourth #attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260724-ukraine-targets-russian-ecommerce-giant-s-warehouses-in-fourth-attack",
+      "published_date": "2026-07-24T14:52:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Spain declares wildfire emergency, 10,000 evacuated near Madrid",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Open AI models go rogue, ecape and and hack online AI sharing hub",
+      "title": "Iran warns countries aiding US attack",
       "source": "France 24",
-      "url": "https://www.france24.com/en/open-ai-models-go-rogue-ecape-and-and-hack-online-ai-sharing-hub",
-      "published_date": "2026-07-23T10:52:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T06:15:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany approves factory use for controversial French-Russian nuclear project",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260723-germany-approves-factory-use-for-controversial-french-russian-nuclear-project",
-      "published_date": "2026-07-23T05:08:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: War on Wildberries burns two more warehouses",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/23/ukraine-war-briefing-wildberries-more-warehouses-attacked",
-      "published_date": "2026-07-23T01:07:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainians welcome new army chief but seek return of fired defence minister",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260722-ukrainians-welcome-new-army-chief-but-seek-return-of-fired-defence-minister",
-      "published_date": "2026-07-22T22:27:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Mykhailo Fedorov was fired for his successes in fighting corruption in the defense sector'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260722-mykhailo-fedorov-was-fired-for-his-successes-in-fighting-corruption-in-the-defense-sector-1",
-      "published_date": "2026-07-22T19:45:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy under growing pressure to reinstate sacked defence minister",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/22/volodymyr-zelenskyy-pressure-reinstate-sacked-defence-minister-mykhailo-fedorov",
-      "published_date": "2026-07-22T18:31:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mykhailo Drapatyi: Ukrainians hope new commander will end army’s ‘Soviet culture’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/22/mykhailo-drapatyi-ukrainians-hope-new-commander-will-end-armys-soviet-culture",
-      "published_date": "2026-07-22T17:48:02+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/iran-warns-countries-aiding-us-attack",
+      "published_date": "2026-07-24T15:03:35+00:00",
+      "category": "Energy"
     },
     {
       "title": "France evacuates Cap Ferret peninsula as Spanish wildfires merge near Madrid – Europe live",
@@ -414,13 +421,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/jul/20/flavours-of-iraq-review-animation",
       "published_date": "2026-07-20T06:00:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Europe: Extreme weather fuels climate concerns",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe-extreme-weather-fuels-climate-concerns",
-      "published_date": "2026-07-19T11:55:08+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-24T21:47:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICC asked to look into xenophobic violence in South Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/icc-asked-to-look-into-xenophobic-violence-in-south-africa",
+      "published_date": "2026-07-24T20:33:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICC dismisses chief prosecutor Karim Khan over sexual misconduct allegations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260724-icc-chief-prosecutor-karim-khan-dismissed-over-sexual-misconduct-allegations-sources-say",
+      "published_date": "2026-07-24T18:12:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French vocabulary to understand wildfire warnings and evacuations",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260724/french-vocabulary-to-understand-wildfire-warnings-and-evacuations",
+      "published_date": "2026-07-24T14:06:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
@@ -673,34 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/video/2026/jul/23/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video",
       "published_date": "2026-07-23T18:34:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'A recipe for disaster': France's dry southwest struggles to contain wildfire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/a-recipe-for-disaster-france-s-dry-southwest-struggles-to-contain-wildfire",
-      "published_date": "2026-07-23T15:22:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands evacuated due to wildfire in France's southwest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/thousands-evacuated-due-to-wildfire-in-france-s-southwest",
-      "published_date": "2026-07-23T14:03:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France evacuates 20,000 as wildfires spread in south-west",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T12:17:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India's 'Cockroach' movement spreads to Mumbai after violence in New Delhi",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260723-india-s-cockroach-movement-spreads-to-mumbai-after-violence-in-new-delhi",
-      "published_date": "2026-07-23T12:08:12+00:00",
       "category": "Local Events"
     }
   ]
