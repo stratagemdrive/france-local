@@ -1,7 +1,7 @@
 {
   "country": "France",
-  "last_updated": "2026-07-25T11:59:10.412628+00:00",
-  "story_count": 100,
+  "last_updated": "2026-07-25T23:56:56.981608+00:00",
+  "story_count": 99,
   "stories": [
     {
       "title": "Israel's move to recognise Armenian genocide stalls under regional pressure",
@@ -22,6 +22,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/unesco-adds-sebastia-site-to-world-heritage-list-despite-israeli-objections",
       "published_date": "2026-07-25T08:12:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wildfires force nearly 260,000 people to evacuate in France and Spain",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260725-wildfires-send-nearly-260-000-fleeing-in-france-and-spain",
+      "published_date": "2026-07-25T07:31:23+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukraine war briefing: EU sanctions oust Russian president of world chess",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/24/ukraine-war-briefing-eu-sanctions-oust-russian-president-of-world-chess",
-      "published_date": "2026-07-24T01:32:34+00:00",
-      "category": "Diplomacy"
+      "title": "War in the Middle East: Deadly violence mounts in the West Bank",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-deadly-violence-mounts-in-west-bank",
+      "published_date": "2026-07-25T17:37:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kazakh leader tells Putin war should end, Ukrainian drones target Siberian oil facility",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260725-kazakh-leader-tells-putin-war-should-end-ukraine-launches-fresh-strikes",
+      "published_date": "2026-07-25T14:55:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Kyiv protests continue after Zelensky fires defense minister",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-kyiv-protests-continue-after-zelensky-fires-defense-minister",
+      "published_date": "2026-07-25T12:31:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainians back ousted defence minister as political crisis brews",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukrainians-back-ousted-defence-minister-as-political-crisis-brews",
+      "published_date": "2026-07-25T12:28:17+00:00",
+      "category": "Military"
     },
     {
       "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
@@ -253,34 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/russian-strikes-kill-10-in-kyiv-region",
       "published_date": "2026-07-24T15:08:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "#Ukraine targets Russian #ecommerce giant's warehouses in fourth #attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260724-ukraine-targets-russian-ecommerce-giant-s-warehouses-in-fourth-attack",
-      "published_date": "2026-07-24T14:52:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain declares wildfire emergency, 10,000 evacuated near Madrid",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/spain-declares-wildfire-emergency-10-000-evacuated-near-madrid",
-      "published_date": "2026-07-24T09:27:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four Palestinians and one Israeli killed in occupied West Bank shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260724-four-palestinians-and-one-israeli-killed-in-occupied-west-bank-shooting",
-      "published_date": "2026-07-24T08:47:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than a dozen people dead across Russia and Ukraine as Kyiv and Moscow trade air strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260724-ukraine-drone-attack-sparks-fire-at-russian-e-commerce-giant-s-warehouse-near-saint-petersburg",
-      "published_date": "2026-07-24T06:04:36+00:00",
       "category": "Military"
     },
     {
@@ -557,11 +557,102 @@
       "category": "Economy"
     },
     {
-      "title": "The Blue Ridge Mountain mine powering the world’s digital economy",
+      "title": "One killed and 16 injured after van mows into crowd at Berlin Pride",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+      "published_date": "2026-07-25T23:51:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Van rams into Berlin Pride crowd, killing one and injuring 15",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260725-van-rams-berlin-pride-crowd-killing-one-and-injuring-15",
+      "published_date": "2026-07-25T23:19:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Live: Bordeaux evacuates 55,000 more as fires worsen in France and Spain",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260725-france-evacuates-55-000-more-as-bordeaux-fires-worsen",
+      "published_date": "2026-07-25T22:57:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several people are injured at Berlin's LGBTQ+ march after a car drives into the crowd",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260718-the-blue-ridge-mountain-mine-powering-the-world-s-digital-economy",
-      "published_date": "2026-07-18T16:02:25+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/international/20260725-several-people-are-injured-at-berlin-s-lgbtq-march-after-a-car-drives-into-the-crowd",
+      "published_date": "2026-07-25T21:42:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It felt like the end of the world’: Spanish wildfire evacuees tell of their narrow escapes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/25/wildfire-evacuees-spanish-sports-centre",
+      "published_date": "2026-07-25T16:49:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India's 'cockroach' party says ending protest after minister resigns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/india-s-cockroach-party-says-ending-protest-after-minister-resigns",
+      "published_date": "2026-07-25T16:37:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain: Wildfires force 70,000 people to evacuate in Madrid region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/spain-wildfires-force-70-000-people-to-evacuate-in-madrid-region",
+      "published_date": "2026-07-25T16:34:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 250,000 people flee wildfires in France and Spain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
+      "published_date": "2026-07-25T16:23:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nearly 98,000 hectares burned in France, a 'historic record' says government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nearly-98-000-hectares-burned-in-france-a-historic-record-says-government",
+      "published_date": "2026-07-25T16:20:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNESCO adds West Bank site, Lebanese castles to World Heritage List despite Israeli opposition",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260725-unesco-adds-west-bank-site-lebanese-castles-to-world-heritage-list-despite-israeli-opposition",
+      "published_date": "2026-07-25T14:29:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More health workers strike as Ebola cases in Congo near 3,000, including over 1,300 deaths",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260725-more-health-workers-strike-as-ebola-cases-in-congo-near-3-000-including-over-1-300-deaths",
+      "published_date": "2026-07-25T14:21:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firefighters in Spain and France battle raging wildfires – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/jul/25/firefighters-in-spain-and-france-battle-raging-wildfires-video",
+      "published_date": "2026-07-25T14:11:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfires in Spain: Record temparatures accelerate spread of blazes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/wildfires-in-spain-record-temparatures-accelerate-spread-of-blazes",
+      "published_date": "2026-07-25T12:50:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands sheltered in Bordeaux as France wildfires trigger exodus",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260725/thousands-sheltered-in-bordeaux-as-france-wildfires-trigger-exodus",
+      "published_date": "2026-07-25T12:47:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Palestinians bury four people killed in occupied West Bank clash with Israeli settlers",
@@ -603,104 +694,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/icc-asked-to-look-into-xenophobic-violence-in-south-africa",
       "published_date": "2026-07-24T20:33:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICC dismisses chief prosecutor Karim Khan over sexual misconduct allegations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260724-icc-chief-prosecutor-karim-khan-dismissed-over-sexual-misconduct-allegations-sources-say",
-      "published_date": "2026-07-24T18:12:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French vocabulary to understand wildfire warnings and evacuations",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260724/french-vocabulary-to-understand-wildfire-warnings-and-evacuations",
-      "published_date": "2026-07-24T14:06:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T11:50:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni's Italy: Fortress Europe?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/fact-or-fake/20260724-meloni-s-italy-fortress-europe",
-      "published_date": "2026-07-24T10:54:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Why is the Southwest so vulnerable to wildfires?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-why-is-the-southwest-so-vulnerable-to-wildfires",
-      "published_date": "2026-07-24T10:26:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires hound Tunisia, Algeria and Morocco",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/wildfires-hound-tunisia-algeria-and-morocco",
-      "published_date": "2026-07-24T10:14:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Notre-Dame's disputed new windows 'on schedule' for December reveal",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260724-notre-dame-s-disputed-new-windows-on-schedule-for-december-reveal",
-      "published_date": "2026-07-24T10:04:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India extends internet shutdown amid youth protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/india-extends-internet-shutdown-amid-youth-protests",
-      "published_date": "2026-07-24T09:57:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guardiola turns down Italy manager job",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd7len4lvy9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T09:47:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India youth movement agrees to talk but insists protests will continue",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/india-youth-movement-agrees-to-talk-but-insists-protests-will-continue",
-      "published_date": "2026-07-24T09:29:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghanaians ask ICC to investigate xenophobic violence in South Africa",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260724-ghanaians-ask-icc-to-investigate-xenophobic-violence-in-south-africa",
-      "published_date": "2026-07-24T08:58:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Caledonia: A deeply divided territory",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/reporters/20260724-new-caledonia-a-deeply-divided-territory",
-      "published_date": "2026-07-24T08:32:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: More than 40,000 evacuated in southwestern France as wildfire remains out of control",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain",
-      "published_date": "2026-07-24T07:35:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France orders total evacuation of Cap Ferret peninsula as wildfires sweep western Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260724-spain-declares-state-of-emergency-and-france-seeks-eu-help-as-wildfires-rage",
-      "published_date": "2026-07-24T02:33:06+00:00",
       "category": "Local Events"
     }
   ]
