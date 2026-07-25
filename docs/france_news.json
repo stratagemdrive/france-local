@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-07-24T23:59:52.781098+00:00",
+  "last_updated": "2026-07-25T11:59:10.412628+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Israel's move to recognise Armenian genocide stalls under regional pressure",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260725-israel-s-move-to-recognise-armenian-genocide-stalls-under-regional-pressure",
+      "published_date": "2026-07-25T11:44:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France : Firefighters face fatigue after days of relentless fighting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-firefighters-face-fatigue-after-days-of-relentless-fighting",
+      "published_date": "2026-07-25T08:26:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UNESCO adds Sebastia site to World Heritage List despite Israeli objections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/unesco-adds-sebastia-site-to-world-heritage-list-despite-israeli-objections",
+      "published_date": "2026-07-25T08:12:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NGOs take France to court over companies’ links to Israeli settlements",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260725-ngos-take-france-to-court-over-companies-links-to-israeli-settlements",
+      "published_date": "2026-07-25T05:17:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
       "source": "The Guardian",
@@ -116,38 +144,73 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
+      "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
-      "published_date": "2026-07-24T00:16:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
+      "published_date": "2026-07-25T11:52:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Bayeux Tapestry in London: 'A diplomatic operation that almost never happened'",
+      "title": "🔴 Live: France deploys military plane as wildfires spread towards Bordeaux",
       "source": "France 24",
-      "url": "https://www.france24.com/en/the-bayeux-tapestry-in-london-a-diplomatic-operation-that-almost-never-happened",
-      "published_date": "2026-07-23T14:54:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260725-live-france-orders-evacuations-near-bordeaux-as-wildfires-sweep-through-southwest",
+      "published_date": "2026-07-25T10:45:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU fines Google €890 million and risks US fury",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260723/eu-fines-google-e890-million-and-risks-us-fury",
-      "published_date": "2026-07-23T12:50:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New EU sanctions will ‘hit Putin where it hurts most’, says foreign policy chief Kallas – Europe live",
+      "title": "What’s behind Maga influencer Laura Loomer’s about-face on Ukraine?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
-      "published_date": "2026-07-23T12:01:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
+      "published_date": "2026-07-25T10:00:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "No, this video does not show Iran downing a US B-52 bomber",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260725-video-iran-downing-us-b-52-bomber-debunked",
+      "published_date": "2026-07-25T09:27:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French PM orders deployment of A400M military transport plane to help battle fires",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260725-french-pm-orders-deployment-of-a400m-military-transport-plane-to-help-battle-fires",
+      "published_date": "2026-07-25T08:54:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East: Red Sea tensions grow as Saudi-Houthi clashes open new front",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east-red-sea-tensions-grow-as-saudi-houthi-clashes-open-new-front",
+      "published_date": "2026-07-25T08:30:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Guterres arrives in Syria for first UN secretary-general visit since before civil war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260725-guterres-arrives-in-syria-for-first-un-secretary-general-visit-since-before-civil-war",
+      "published_date": "2026-07-25T06:08:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russia launches deadly attack on weapons exhibition near Kyiv",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv",
+      "published_date": "2026-07-25T01:33:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-24T23:58:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen's Houthis say they hit Saudi Arabia as Trump weighs harder Iran strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes",
+      "published_date": "2026-07-24T22:31:12+00:00",
       "category": "Military"
     },
     {
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Fields medal honours four mathematicians as AI reshapes the profession",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260723-fields-medal-honours-four-mathematicians-as-ai-reshapes-the-profession",
-      "published_date": "2026-07-23T23:11:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump stuns Saudis by pinning nuclear deal to Israel ties",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties",
-      "published_date": "2026-07-23T18:24:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Reinstating Fedorov 'only right decision Zelensky can make', MP says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/reinstating-fedorov-only-right-decision-zelensky-can-make-mp-says",
-      "published_date": "2026-07-23T18:20:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's ousted defence minister insists on being reinstated",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T17:37:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Iran is targeting Kuwait's desalination plants as part of its war strategy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260723-why-iran-targeting-kuwaits-desalination-plants",
-      "published_date": "2026-07-23T16:53:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Saudi nuclear deal contingent on Riyadh normalising relations with Israel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260723-trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties",
-      "published_date": "2026-07-23T16:31:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Murdoch and Musk in the crosshairs at Venice film festival",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jul/23/venice-film-festival-lineup-2026-danny-boyle",
-      "published_date": "2026-07-23T14:58:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "After meeting with Moscow, Washington reiterates wish to mediate Ukraine war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/after-meeting-with-moscow-washington-reiterates-wish-to-mediate-ukraine-war",
-      "published_date": "2026-07-23T14:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East war's economic impact 'could get worse' if Houthis join in",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east-war-s-economic-impact-could-get-worse-if-houthis-join-in",
-      "published_date": "2026-07-23T14:23:50+00:00",
-      "category": "Military"
+      "title": "Climate change 'exacerbating' drought across Europe, scientists say",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260725-climate-change-exacerbating-drought-across-europe-scientists-say",
+      "published_date": "2026-07-25T08:58:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran warns countries aiding US attack",
@@ -414,13 +421,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260720-foreign-state-actors-exploiting-climate-crises-spread-disinformation",
       "published_date": "2026-07-20T14:04:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Flavours of Iraq review – vivid childhood memories of 80s Baghdad from writer in Paris exile",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jul/20/flavours-of-iraq-review-animation",
-      "published_date": "2026-07-20T06:00:48+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "Palestinians bury four people killed in occupied West Bank clash with Israeli settlers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260725-palestinians-bury-four-people-killed-in-occupied-west-bank-clash-with-israeli-settlers",
+      "published_date": "2026-07-25T08:42:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside France: Cathars, Paris waiters and other misunderstood Frenchmen",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260725/inside-france-cathars-paris-waiters-and-other-misunderstood-frenchmen",
+      "published_date": "2026-07-25T07:02:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfires in the southwest France: 'The problem has been extremely high winds'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/the-problem-has-been-extremely-high-winds-wildfires-sweep-through-southwest-france",
+      "published_date": "2026-07-25T06:36:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘No time to waste’: Greece bids for Mount Olympus to be included on Unesco list of world heritage sites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/25/no-time-to-waste-greece-bids-for-mount-olympus-to-be-included-on-unesco-list-of-world-heritage-sites",
+      "published_date": "2026-07-25T04:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
@@ -673,34 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260724-spain-declares-state-of-emergency-and-france-seeks-eu-help-as-wildfires-rage",
       "published_date": "2026-07-24T02:33:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian activist ends 26-day hunger strike, though student protests continue",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260723-indian-activist-ends-26-day-hunger-strike-though-student-protests-continue",
-      "published_date": "2026-07-23T22:44:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Virginia Governor Abigail Spanberger in Paris: 'There's no single blueprint for Democratic Party'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260723-virginia-governor-abigail-spanberger-in-paris-there-s-no-single-blueprint-for-democratic-party",
-      "published_date": "2026-07-23T19:07:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Virginia Governor Abigail Spanberger in Paris: 'There's no single blueprint for Democratic Party'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/virginia-governor-abigail-spanberger-in-paris-there-s-no-single-blueprint-for-democratic-party",
-      "published_date": "2026-07-23T19:01:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands evacuated in south of France as wildfire rages across pine forest – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/23/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video",
-      "published_date": "2026-07-23T18:34:36+00:00",
       "category": "Local Events"
     }
   ]
