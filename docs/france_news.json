@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-07-25T23:56:56.981608+00:00",
-  "story_count": 99,
+  "last_updated": "2026-07-26T11:58:42.500603+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
+      "published_date": "2026-07-26T11:52:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-26T11:29:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "As wildfires grip France and Spain, what are the health risks from smoke?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260726/as-wildfires-grip-france-and-spain-what-are-the-health-risks-from-smoke",
+      "published_date": "2026-07-26T07:31:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel's move to recognise Armenian genocide stalls under regional pressure",
       "source": "RFI English",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU breathes sigh of relief over new Trump tariffs",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260724/eu-breathes-sigh-of-relief-over-new-trump-tariffs",
-      "published_date": "2026-07-24T08:33:46+00:00",
-      "category": "Diplomacy"
+      "title": "‘Bullied, beaten up, killed’: Armenia's drag queens risk it all for the stage",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260726-bullied-beaten-killed-armenia-drag-queens-risk-all-for-the-stage",
+      "published_date": "2026-07-26T10:39:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macky Sall pledges to restore trust in UN as leadership race gathers pace",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260724-macky-sall-pledges-to-restore-trust-in-un-as-leadership-race-gathers-pace",
-      "published_date": "2026-07-24T07:05:42+00:00",
-      "category": "Diplomacy"
+      "title": "Romanian jet shoots down drone entering country's airspace for third day in a row",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260726-romanian-jet-shoots-down-drone-entering-country-airspace-for-third-day-in-a-row",
+      "published_date": "2026-07-26T10:11:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "European Union slams 'inflammatory' Houthi Red Sea tanker attack",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260724-european-union-slams-inflammatory-houthi-red-sea-tanker-attack",
-      "published_date": "2026-07-24T06:08:06+00:00",
-      "category": "Diplomacy"
+      "title": "UNESCO adds Normandy's D-Day landing beaches to World Heritage List",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260726-unesco-adds-normandy-d-day-landing-beaches-to-world-heritage-list",
+      "published_date": "2026-07-26T08:26:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US holds fire against Iran as media reports say Washington's stockpiles are dwindling",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260726-us-holds-fire-against-iran-as-media-reports-say-washington-s-stockpiles-are-dwindling",
+      "published_date": "2026-07-26T05:47:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Scandalous, irrational and irresponsible’: French beekeepers’ fury at lifting of pesticides ban",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/french-beekeepers-fury-lifting-of-pesticides-ban",
+      "published_date": "2026-07-26T05:00:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Iran accuses Kyiv of deadly attack on Iranian vessel in Caspian Sea",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/ukraine-war-briefing-iran-accuses-kyiv-vessel-caspian-sea",
+      "published_date": "2026-07-26T02:08:07+00:00",
+      "category": "Military"
     },
     {
       "title": "War in the Middle East: Deadly violence mounts in the West Bank",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Law student charged after military-grade bomb intercepted near Irish border",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/24/woman-man-arrested-ireland-police-intercept-highly-sophisticated-bomb",
-      "published_date": "2026-07-24T22:18:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US pummels Iran as Tehran targets regional bases stationing US forces",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260724-us-pummels-iranian-sites-tehran-targets-regional-bases-stationing-us-forces",
-      "published_date": "2026-07-24T20:48:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jul/24/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-07-24T18:02:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Arrests, denials and missing images: Gulf states’ response to Iranian strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260724-iranian-strikes-gulf-states-arrests-denials-satellite-investigation",
-      "published_date": "2026-07-24T17:26:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly clashes in the occupied West Bank",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/deadly-clashes-in-the-occupied-west-bank",
-      "published_date": "2026-07-24T15:57:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes kill 10 in Kyiv region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russian-strikes-kill-10-in-kyiv-region",
-      "published_date": "2026-07-24T15:08:31+00:00",
-      "category": "Military"
+      "title": "Ecowas greenlights $25bn Nigeria-Morocco mega gas pipeline",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260726-ecowas-greenlights-25bn-mega-gas-pipeline-nigeria-morocco",
+      "published_date": "2026-07-26T08:54:28+00:00",
+      "category": "Energy"
     },
     {
       "title": "Climate change 'exacerbating' drought across Europe, scientists say",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "How state actors are exploiting climate crises to spread disinformation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260720-foreign-state-actors-exploiting-climate-crises-spread-disinformation",
-      "published_date": "2026-07-20T14:04:09+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Mass job cuts loom at VW as profits fall steeply on China sales slump",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/jul/24/vw-profits-plunge-and-deep-job-cuts-loom-amid-tough-chinese-competition",
@@ -543,18 +543,67 @@
       "category": "Economy"
     },
     {
-      "title": "On the Agenda: What’s happening in France this week",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260719/on-the-agenda-whats-happening-in-france-this-week-219",
-      "published_date": "2026-07-19T07:21:53+00:00",
-      "category": "Economy"
+      "title": "Deadly attack on holiday camp in Russian-held part of Ukraine, officials say",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/zelensky-says-russia-seeks-30-000-extra-n-korea-troops-for-ukraine-war",
+      "published_date": "2026-07-26T10:32:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Radical misogynist influencer Andrew Tate and brother arrested in Miami",
+      "title": "Wildfires ravage southwest France: Thousands face devastation after evacuation",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260719-radical-misogynist-influencer-andrew-tate-and-brother-arrested-in-miami",
-      "published_date": "2026-07-19T01:33:11+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/wildfires-ravage-southwest-france-thousands-face-devastation-after-evacuation",
+      "published_date": "2026-07-26T10:29:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France fire situation 'remains very unfavourable' says interior minister",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-fire-situation-remains-very-unfavourable-says-interior-minister",
+      "published_date": "2026-07-26T09:57:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German police hunt suspect in Berlin Pride attack: 1 dead and 16 injured",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/german-police-hunt-suspect-in-berlin-pride-attack-1-dead-and-16-injured",
+      "published_date": "2026-07-26T09:53:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel detains over 70 suspects following deadly violence in the West Bank",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-detains-over-70-suspects-following-deadly-violence-in-the-west-bank",
+      "published_date": "2026-07-26T09:49:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-26T08:14:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'We see a longer fire season nearly everywhere': Insight on Europe's wildfires",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/we-see-a-longer-fire-season-nearly-everywhere-why-are-europe-s-wildfires-getting-more-extreme",
+      "published_date": "2026-07-26T08:05:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Am I a chicken-shop lefty? Here's what a French fast food row taught me about politics | Coco Khan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/26/chicken-shop-left-french-fast-food-row-politics",
+      "published_date": "2026-07-26T07:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manhunt continues after man drives vehicle into Berlin Pride event",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/he-may-be-armed-and-dangerous-manhunt-continues-after-man-drives-vehicle-into-berlin-pride-event",
+      "published_date": "2026-07-26T06:43:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "One killed and 16 injured after van mows into crowd at Berlin Pride",
@@ -631,69 +680,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20260725-more-health-workers-strike-as-ebola-cases-in-congo-near-3-000-including-over-1-300-deaths",
       "published_date": "2026-07-25T14:21:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters in Spain and France battle raging wildfires – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/25/firefighters-in-spain-and-france-battle-raging-wildfires-video",
-      "published_date": "2026-07-25T14:11:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires in Spain: Record temparatures accelerate spread of blazes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/wildfires-in-spain-record-temparatures-accelerate-spread-of-blazes",
-      "published_date": "2026-07-25T12:50:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands sheltered in Bordeaux as France wildfires trigger exodus",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260725/thousands-sheltered-in-bordeaux-as-france-wildfires-trigger-exodus",
-      "published_date": "2026-07-25T12:47:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians bury four people killed in occupied West Bank clash with Israeli settlers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260725-palestinians-bury-four-people-killed-in-occupied-west-bank-clash-with-israeli-settlers",
-      "published_date": "2026-07-25T08:42:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside France: Cathars, Paris waiters and other misunderstood Frenchmen",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260725/inside-france-cathars-paris-waiters-and-other-misunderstood-frenchmen",
-      "published_date": "2026-07-25T07:02:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires in the southwest France: 'The problem has been extremely high winds'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/the-problem-has-been-extremely-high-winds-wildfires-sweep-through-southwest-france",
-      "published_date": "2026-07-25T06:36:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘No time to waste’: Greece bids for Mount Olympus to be included on Unesco list of world heritage sites",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/25/no-time-to-waste-greece-bids-for-mount-olympus-to-be-included-on-unesco-list-of-world-heritage-sites",
-      "published_date": "2026-07-25T04:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T21:47:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICC asked to look into xenophobic violence in South Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/icc-asked-to-look-into-xenophobic-violence-in-south-africa",
-      "published_date": "2026-07-24T20:33:48+00:00",
       "category": "Local Events"
     }
   ]
