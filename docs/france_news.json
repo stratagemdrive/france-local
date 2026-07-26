@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-07-26T11:58:42.500603+00:00",
-  "story_count": 97,
+  "last_updated": "2026-07-26T23:56:58.091461+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Ella Baron on the wildfires in France and Spain – cartoon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/jul/26/ella-baron-wildfires-france-spain-cartoon",
+      "published_date": "2026-07-26T17:51:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Joy in Greece as Mount Olympus joins Unesco list of world heritage sites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/greece-mount-olympus-unesco-world-heritage-site",
+      "published_date": "2026-07-26T15:39:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The week in pictures: Wildfires rage in Europe, youth protests rock India and UK names new PM",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260726-the-week-in-pictures-wildfires-rage-in-europe-youth-protests-rock-india-and-uk-names-new-pm",
+      "published_date": "2026-07-26T14:49:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
       "source": "The Guardian",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Watch: Wildfires rage across France and Spain",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T10:02:51+00:00",
-      "category": "Diplomacy"
+      "title": "Burnham to meet Zelenskyy at UK naval base in show of ‘unwavering’ support",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/andy-burnham-to-meet-volodymyr-zelenskyy-uk-ukraine",
+      "published_date": "2026-07-26T21:30:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Six candidates vying to become the next UN secretary after Guterres",
+      "title": "Sea drones to defend the sky in Ukraine as the war continues",
       "source": "France 24",
-      "url": "https://www.france24.com/en/six-candidates-vying-to-become-the-next-un-secretary-after-guterres",
-      "published_date": "2026-07-24T09:37:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/sea-drones-to-defend-the-sky-as-the-war-continues-in-ukraine",
+      "published_date": "2026-07-26T14:51:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "France: Two major wildfires hit the southwest forcing tourists to evacuate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-two-major-wildfires-hit-the-southwest-forcing-tourists-to-evacuate",
-      "published_date": "2026-07-24T09:09:14+00:00",
-      "category": "Diplomacy"
+      "title": "Romania summons Russia’s ambassador after downing third drone since Friday",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/romania-summons-russia-ambassador-third-drone-shot-down",
+      "published_date": "2026-07-26T14:44:25+00:00",
+      "category": "Military"
     },
     {
       "title": "‘Bullied, beaten up, killed’: Armenia's drag queens risk it all for the stage",
@@ -260,27 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260725-guterres-arrives-in-syria-for-first-un-secretary-general-visit-since-before-civil-war",
       "published_date": "2026-07-25T06:08:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russia launches deadly attack on weapons exhibition near Kyiv",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/25/ukraine-war-briefing-ten-killed-russian-attack-weapons-exhibition-near-kyiv",
-      "published_date": "2026-07-25T01:33:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T23:58:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen's Houthis say they hit Saudi Arabia as Trump weighs harder Iran strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes",
-      "published_date": "2026-07-24T22:31:12+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "How slavery money built the Élysée, France’s presidential residence",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260726-how-slavery-money-built-the-%C3%A9lys%C3%A9e-france-s-presidential-residence",
+      "published_date": "2026-07-26T16:50:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trauma and taboos: how Portugal takes care of migrants' mental health",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260726-trauma-and-taboos-how-portugal-takes-care-of-migrants-mental-health",
+      "published_date": "2026-07-26T12:59:38+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Mass job cuts loom at VW as profits fall steeply on China sales slump",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/jul/24/vw-profits-plunge-and-deep-job-cuts-loom-amid-tough-chinese-competition",
@@ -543,6 +557,41 @@
       "category": "Economy"
     },
     {
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-26T19:21:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tadej Pogacar wins a record-equaling fifth Tour de France title",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260726-pogacar-wins-record-equalling-fifth-tour-de-france-2",
+      "published_date": "2026-07-26T19:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police shoot dead Berlin Pride van and knife rampage suspect, officials say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/berlin-pride-van-knife-rampage-islamist-terrorist-attack-germany",
+      "published_date": "2026-07-26T17:53:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pedro Sánchez says Spain is suffering effects of climate crisis as firefighters battle wildfires in France",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
+      "published_date": "2026-07-26T12:56:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Main suspect in Berlin Pride attack shot dead by German police forces",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260726-deadly-berlin-pride-ramming-was-islamist-terror-attack-says-german-interior-minister",
+      "published_date": "2026-07-26T11:41:10+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Deadly attack on holiday camp in Russian-held part of Ukraine, officials say",
       "source": "France 24",
       "url": "https://www.france24.com/en/zelensky-says-russia-seeks-30-000-extra-n-korea-troops-for-ukraine-war",
@@ -645,41 +694,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/india-s-cockroach-party-says-ending-protest-after-minister-resigns",
       "published_date": "2026-07-25T16:37:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain: Wildfires force 70,000 people to evacuate in Madrid region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/spain-wildfires-force-70-000-people-to-evacuate-in-madrid-region",
-      "published_date": "2026-07-25T16:34:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 250,000 people flee wildfires in France and Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
-      "published_date": "2026-07-25T16:23:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nearly 98,000 hectares burned in France, a 'historic record' says government",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nearly-98-000-hectares-burned-in-france-a-historic-record-says-government",
-      "published_date": "2026-07-25T16:20:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNESCO adds West Bank site, Lebanese castles to World Heritage List despite Israeli opposition",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260725-unesco-adds-west-bank-site-lebanese-castles-to-world-heritage-list-despite-israeli-opposition",
-      "published_date": "2026-07-25T14:29:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More health workers strike as Ebola cases in Congo near 3,000, including over 1,300 deaths",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260725-more-health-workers-strike-as-ebola-cases-in-congo-near-3-000-including-over-1-300-deaths",
-      "published_date": "2026-07-25T14:21:03+00:00",
       "category": "Local Events"
     }
   ]
