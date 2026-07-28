@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-07-28T12:50:40.584738+00:00",
-  "story_count": 93,
+  "last_updated": "2026-07-28T23:55:17.694372+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Rift deepens as US delegation walks out of UN over French criticism of Trump",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260728-rift-deepens-as-us-delegation-walks-out-of-un-over-french-criticism-of-trump",
+      "published_date": "2026-07-28T19:54:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Building a 'different kind of forest' after devastating wildfires",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260728-building-a-different-kind-of-forest-after-devastating-wildfires",
+      "published_date": "2026-07-28T19:03:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Almost 4,000 people evacuated from tourist sites near Bordeaux as wildfires rage in France and Spain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain",
+      "published_date": "2026-07-28T16:42:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – Europe live",
       "source": "The Guardian",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran summons French ambassador over 'interference' in internal affairs",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-summons-french-ambassador-over-interference-internal-affairs",
-      "published_date": "2026-07-27T08:47:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brazil recalls Argentina ambassador after Milei insults Lula at Flavio Bolsonaro campaign launch",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260727-brazil-recalls-argentina-ambassador-after-milei-insults-lula-flavio-bolsonaro-campaign-launch",
-      "published_date": "2026-07-27T07:49:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Weather tracker: Why Europe’s wildfires are proving so fierce and difficult to stop",
+      "title": "US diplomats stage UN walkout after France criticizes human rights record under Trump",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/27/weather-tracker-europe-wildfires-difficult-stop-france-spain",
-      "published_date": "2026-07-27T07:21:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/diplomats-un-walkout-france-human-rights-trump-record",
+      "published_date": "2026-07-28T21:39:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Peru's Fujimori vows military-led crackdown on crime after taking office",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260728-peru-s-fujimori-vows-military-led-crackdown-on-crime-after-taking-office",
+      "published_date": "2026-07-28T21:16:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oman presents Iran with Gulf-backed plan to ease Strait of Hormuz tensions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260728-oman-presents-iran-with-gulf-backed-plan-to-ease-strait-of-hormuz-tensions",
+      "published_date": "2026-07-28T20:07:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Wildfires in France: Volunteers put smiles back on evacuees' faces in Bordeaux",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260728-wildfires-in-france-volunteers-put-smiles-back-on-evacuees-faces-in-bordeaux",
+      "published_date": "2026-07-28T17:41:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK politics: Tories’ Philp rejects French claim that shots fired from naval boat near him were training exercise – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/jul/28/andy-burnham-education-tories-ai-localism-devolution-latest-news-updates",
+      "published_date": "2026-07-28T17:01:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tory MP accuses French navy of firing ‘warning’ shots near him in Channel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/28/tory-mp-chris-philp-accuses-french-navy-of-firing-shots-in-channel-incident",
+      "published_date": "2026-07-28T16:26:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French Navy carries out 'shooting drill' mid interview",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-28T16:12:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky visit White House in test to Maga's 'significant shift towards' Kyiv",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/zelensky-visit-white-house-in-test-to-maga-s-significant-shift-towards-kyiv",
+      "published_date": "2026-07-28T14:33:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US reviews troop presence in Europe as Washington pushes NATO burden sharing",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260728-us-reviews-troop-presence-in-europe-as-washington-pushes-nato-burden-sharing",
+      "published_date": "2026-07-28T13:20:53+00:00",
+      "category": "Military"
     },
     {
       "title": "UK's Burnham pledges new drone tech to Ukraine in Zelensky meeting",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Who has the momentum in the Russia-Ukraine war? – video explainer",
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/27/who-has-the-momentum-in-the-russia-ukraine-war-video-explainer",
-      "published_date": "2026-07-27T18:38:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel-Lebanon Conflict: Amid displacement, Lebanese cling to 'hope of returning home to rebuild'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260727-israel-lebanon-conflict-amid-displacement-lebanese-cling-to-hope-of-returning-home-to-rebuild",
-      "published_date": "2026-07-27T15:50:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘I knew what he had done to those boys’: murderer to stay in jail after journalist’s fight for justice",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/27/murderer-stay-jail-journalist-fight-justice-allan-grimson",
-      "published_date": "2026-07-27T14:34:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "D-Day beaches inscribed on UNESCO World Heritage List",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260727-d-day-beaches-inscribed-on-unesco-world-heritage-list",
-      "published_date": "2026-07-27T13:30:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Ukraine and Sudan to Gaza: why have hospitals become a target of war?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jul/27/ambulance-midwife-attacked-international-law-military-ukraine",
-      "published_date": "2026-07-27T10:00:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wildfire threatens French defence sites ArianeGroup, Dassault and Thales",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260727-wildfire-threatens-french-defence-sites-arianegroup-dassault-and-thales",
-      "published_date": "2026-07-27T09:41:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Ukrainian startup taking the missile fight deep into Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/27/fire-point-ukraine-cruise-missiles-russia",
-      "published_date": "2026-07-27T06:30:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Britain's new PM Burnham, Zelensky discuss drone projects and missile defence for Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260727-burnham-to-welcome-zelensky-on-first-foreign-leader-visit-to-london-since-taking-office",
-      "published_date": "2026-07-27T03:15:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli ex-army chief emerges as main rival to Netanyahu ahead of general election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260727-ex-army-chief-emerges-as-main-rival-to-netanyahu-in-upcoming-israel-general-election",
-      "published_date": "2026-07-27T01:41:10+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "published_date": "2026-07-28T13:00:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "'Unprecedented but unsurprising': Climate change & lack of prevention behind wildfires, extreme heat",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Airbus to test folding wings for next generation of bestselling planes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/21/airbus-to-test-folding-wings-for-next-generation-of-bestselling-planes",
-      "published_date": "2026-07-21T17:50:50+00:00",
-      "category": "Energy"
+      "title": "Uefa and PM criticise Infantino World Cup plan",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-28T15:36:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "What you need to know if you're travelling to France or Spain",
@@ -515,6 +522,69 @@
       "category": "Economy"
     },
     {
+      "title": "France braces for fresh evacuations as Spain eases wildfire restrictions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260728-france-braces-for-fresh-evacuations-as-spain-eases-wildfire-restrictions",
+      "published_date": "2026-07-28T23:41:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chad to withdraw from the International Criminal Court",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/chad-to-withdraw-from-the-international-criminal-court",
+      "published_date": "2026-07-28T20:14:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bad news for Bordeaux: France's celebrated wine industry faces wake-up call over wildfires",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260728-bad-news-for-bordeaux-france-s-celebrated-wine-industry-faces-wake-up-call-over-wildfires",
+      "published_date": "2026-07-28T20:05:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-28T16:14:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How French solidarity grew in the face of monster fires",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/how-french-solidarity-grew-in-the-face-of-monster-fires",
+      "published_date": "2026-07-28T15:23:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heatwave threatens firefighting mission in France's southwest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/heatwave-threatens-firefighting-mission-in-france-s-southwest",
+      "published_date": "2026-07-28T14:29:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qantas plane flies for more than 24 hours in record-breaking flight",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/28/qantas-plane-flies-for-more-than-24-hours-in-record-breaking-flight",
+      "published_date": "2026-07-28T14:02:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French police discover remains of five babies in a home in southeastern France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260728-french-police-discover-remains-of-five-babies-in-a-home-in-southeastern-france",
+      "published_date": "2026-07-28T13:48:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "For the first time since Iran war, Trump and Netanyahu meet amid fraying ties",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/for-the-first-time-since-iran-war-trump-and-netanyahu-meet-amid-fraying-ties",
+      "published_date": "2026-07-28T12:51:59+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
@@ -589,69 +659,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/football/2026/jul/28/france-zinedine-zidane-head-coach-long-awaited-homecoming",
       "published_date": "2026-07-28T09:45:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As it braces for a new heatwave, Spain races to contain wildfires",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/as-it-braces-for-a-new-heatwave-spain-races-to-contain-wildfires",
-      "published_date": "2026-07-28T09:03:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Bordeaux locals are volunteer to help firefighters battle monster blazes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/how-bordeaux-locals-are-volunteer-to-help-firefighters-battle-monster-blazes",
-      "published_date": "2026-07-28T08:56:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chad becomes fifth nation to quit ICC amid US pressure campaign",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260728-chad-becomes-fifth-state-to-leave-the-icc-after-us-pressure",
-      "published_date": "2026-07-28T08:46:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Impressionist works to be auctioned in Paris",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260728/impressionist-works-to-be-auctioned-in-paris",
-      "published_date": "2026-07-28T06:18:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: French authorities order nearly 4,000 more people to evacuate tourist sites on Atlantic coast",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260728-live-massive-wildfires-near-bordeaux-still-under-control-after-calm-night-local-authorities-say",
-      "published_date": "2026-07-28T05:47:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France races to contain fires before new heatwave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260728-france-races-to-contain-fires-before-new-heatwave",
-      "published_date": "2026-07-28T01:35:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-27T20:34:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haiti schedules December presidential election despite security concerns",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260727-haiti-sets-december-presidential-election-despite-security-concerns",
-      "published_date": "2026-07-27T19:36:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Europe’s wildfires: politics must catch up with the new reality | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/27/the-guardian-view-on-europes-wildfires-politics-must-catch-up-new-reality",
-      "published_date": "2026-07-27T17:30:15+00:00",
       "category": "Local Events"
     }
   ]
