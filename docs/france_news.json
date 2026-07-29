@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-07-28T23:55:17.694372+00:00",
-  "story_count": 94,
+  "last_updated": "2026-07-29T12:57:20.302718+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "As fires still blaze, France thinks about how to rebuild its forests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/as-fires-still-blaze-france-thinks-about-how-to-rebuild-its-forests",
+      "published_date": "2026-07-29T12:42:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pedro Sánchez says next 12 hours will be ‘decisive’ in battle to contain wildfires – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+      "published_date": "2026-07-29T12:31:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK looks to build naval coalition to secure shipping in Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-looks-to-build-naval-coalition-to-secure-shipping-in-strait-of-hormuz",
+      "published_date": "2026-07-29T10:41:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wildfires are raging – and the world has junked 45 climate pledges. Disaster looms, and little wonder | Bill McGuire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/29/wildfires-rage-world-climate-action-scientists-fossil-fuels",
+      "published_date": "2026-07-29T09:00:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU condemns Iranian 'aggression' against French diplomats",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260729-eu-condemns-iran-aggression-against-french-diplomats",
+      "published_date": "2026-07-29T06:06:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wednesday briefing: Will Zelenskyy’s domestic struggles harm his reputation on the global stage?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/29/wednesday-briefing-will-zelenskyys-domestic-struggles-harm-his-reputation-on-the-global-stage",
+      "published_date": "2026-07-29T05:46:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rift deepens as US delegation walks out of UN over French criticism of Trump",
       "source": "RFI English",
@@ -102,46 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France’s interior minister says monster wildfire has stopped growing",
+      "title": "Netanyahu praises 'excellent' meeting with Trump in first since Iran war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260727-france-s-interior-minister-says-monster-wildfire-has-stopped-growing",
-      "published_date": "2026-07-27T13:36:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/netanyahu-praises-excellent-meeting-with-trump-in-first-since-iran-war",
+      "published_date": "2026-07-29T09:04:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Europe live: French firefighters warn it could take ‘weeks or months’ to extinguish wildfires",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/27/europe-wildfires-france-spain-emmanuel-macron-crisis-meeting-pedro-sanchez-castillon-latest-news-updates",
-      "published_date": "2026-07-27T13:26:42+00:00",
-      "category": "Diplomacy"
+      "title": "US says Iran trying to 'derail ongoing ceasefire talks' as strikes resume",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-says-iran-trying-to-derail-ongoing-ceasefire-talks-as-strikes-resume",
+      "published_date": "2026-07-29T08:59:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Explained: Changes to costs for healthcare in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260727/explained-changes-to-costs-for-healthcare-in-france",
-      "published_date": "2026-07-27T09:55:24+00:00",
-      "category": "Diplomacy"
+      "title": "Russia issues international wanted notice against Telegram founder Pavel Durov for aiding terrorism",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260729-russia-issues-international-wanted-notice-against-telegram-founder-pavel-durov-for-aiding-terrorism",
+      "published_date": "2026-07-29T08:45:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Explained: The EU's new rules on AI, deepfakes and chatbots",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260727/explained-eus-new-rules-on-ai-deepfakes-and-chatbots",
-      "published_date": "2026-07-27T09:38:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran halts retaliatory strikes as US gives diplomacy 'more room'",
+      "title": "Zelensky hails ‘good meeting’ with Trump as Ukraine seeks Patriot missile deal",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260727-iran-halts-retaliatory-strikes-as-us-gives-diplomacy-more-room",
-      "published_date": "2026-07-27T09:24:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron calls crisis meeting as monster wildfires drive 250,000 from their homes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260727-macron-calls-crisis-meeting-as-monster-wildfires-drive-250-000-from-their-homes",
-      "published_date": "2026-07-27T08:57:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260729-zelensky-hails-good-meeting-with-trump-as-ukraine-seeks-patriot-missile-deal",
+      "published_date": "2026-07-29T07:04:09+00:00",
+      "category": "Military"
     },
     {
       "title": "US diplomats stage UN walkout after France criticizes human rights record under Trump",
@@ -256,32 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Disastrous drone expo’s organiser appears in Kyiv court",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/28/ukraine-war-briefing-disastrous-drone-expos-organiser-appears-in-kyiv-court",
-      "published_date": "2026-07-28T01:51:11+00:00",
-      "category": "Military"
+      "title": "'Climate change is really here: We should seize this crisis moment to create a new momentum'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/climate-change-is-really-here-we-should-seize-this-crisis-moment-to-create-a-new-momentum",
+      "published_date": "2026-07-29T10:38:50+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Yemen says ready for Houthi escalation after rebels target Saudi Arabia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260727-yemen-says-ready-for-houthi-escalation-after-rebels-target-saudi-arabia",
-      "published_date": "2026-07-27T22:19:10+00:00",
-      "category": "Military"
+      "title": "Renault to face criminal trial in France over 'dieselgate' emissions scandal",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260729-renault-to-face-criminal-trial-in-france-over-dieselgate",
+      "published_date": "2026-07-29T10:31:57+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US walks out of UN Security Council meeting as France condemns rights vote",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260727-us-walks-out-of-un-security-council-meeting-as-france-condemns-rights-vote",
-      "published_date": "2026-07-27T20:41:09+00:00",
-      "category": "Military"
+      "title": "MAP: How and when to see this month’s solar eclipse in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260729/map-how-and-when-to-see-this-months-solar-eclipse-in-france",
+      "published_date": "2026-07-29T10:13:10+00:00",
+      "category": "Energy"
     },
     {
-      "title": "2026 Women's Africa Cup of Nations is underway",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/2026-women-s-africa-cup-of-nations-is-underway",
-      "published_date": "2026-07-27T20:12:09+00:00",
-      "category": "Military"
+      "title": "OPINION: French politicians are failing their trial by wildfire",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260729/opinion-french-politicians-are-failing-their-trial-by-wildfire",
+      "published_date": "2026-07-29T07:26:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
@@ -396,32 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "French environment minister to stay in post amid 'urgency' to act on climate",
+      "title": "FIFA private investor plans spark backlash, UEFA fury",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260722-french-environment-minister-announces-plan-to-resign-over-approved-pesticide-bill",
-      "published_date": "2026-07-22T08:22:44+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260729-fifa-private-investor-plans-spark-backlash-uefa-fury",
+      "published_date": "2026-07-29T12:43:40+00:00",
+      "category": "Economy"
     },
     {
-      "title": "​World’s largest meat company faces legal challenge over green credentials of $6bn global expansion",
+      "title": "BMW to cut ‘as many as 8,000 jobs’ under pressure from Chinese rivals",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/22/meat-multinational-faces-legal-challenge-over-green-credentials-of-6bn-global-expansion-plan",
-      "published_date": "2026-07-22T06:00:09+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals",
+      "published_date": "2026-07-29T12:02:20+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Germany looks to Azerbaijan as Armenia ties shift regional relationships",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260722-germany-looks-to-azerbaijan-as-armenia-ties-shift-the-regional-map",
-      "published_date": "2026-07-22T05:08:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘Risking blackouts’? How Great Britain’s grid operator was dragged into a political row",
+      "title": "Deep breathing: the asthma clinic buried 250 metres into an Armenian salt mine",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/22/risking-blackouts-great-britain-grid-operator-neso-heatwave",
-      "published_date": "2026-07-22T05:00:06+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/world/2026/jul/29/respiratory-clinic-armenia-salt-mine-asthma-speleotherapy",
+      "published_date": "2026-07-29T08:00:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "New era for France as Zidane takes charge of national team",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260729-new-era-for-france-as-zin%C3%A9dine-zidane-takes-charge-of-national-team",
+      "published_date": "2026-07-29T07:02:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Uefa and PM criticise Infantino World Cup plan",
@@ -508,18 +536,109 @@
       "category": "Economy"
     },
     {
-      "title": "What changes in France in August 2026",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260722/what-changes-in-france-in-august-2026",
-      "published_date": "2026-07-22T10:18:01+00:00",
-      "category": "Economy"
+      "title": "Japan searches for earthquake survivors as thousands evacuate",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/japan-searches-for-earthquake-survivors-as-thousands-evacuate",
+      "published_date": "2026-07-29T12:39:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Gabon and France deepen industrial cooperation with Eramet manganese deal",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260722-gabon-and-france-deepen-industrial-cooperation-with-eramet-manganese-deal",
-      "published_date": "2026-07-22T08:52:40+00:00",
-      "category": "Economy"
+      "title": "What to know about France's fourth heatwave of the year",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260729-what-to-know-about-france-s-fourth-heatwave-of-the-year",
+      "published_date": "2026-07-29T12:34:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firefighter 'morale remains high' despite heatwave coming to France's blazing southwest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/firefighter-morale-remains-high-as-heatwave-comes-to-france-s-blazing-southwest",
+      "published_date": "2026-07-29T12:30:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peru takes ultraconservative turn as Fujimori becomes president",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/peru-takes-ultraconservative-turn-as-fujimori-becomes-president",
+      "published_date": "2026-07-29T12:27:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French music producer Kavinsky, known for Drive soundtrack hit Nightcall, dies aged 50",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/jul/29/kavinsky-french-music-producer-dies-aged-50-drive-soundtrack-nightcall",
+      "published_date": "2026-07-29T11:55:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris' Seine swimming spots closed after 'illegal fuel dumping'",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260729/paris-swimming-spots-closed-after-illegal-fuel-dumping",
+      "published_date": "2026-07-29T10:41:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French DJ ​and electronic ‌musician Kavinsky dies aged 50",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T10:35:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Incoming heatwave set to worsen firefighting conditions in France's southwest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/incoming-heatwave-set-to-worsen-firefighting-conditions-in-france-s-southwest",
+      "published_date": "2026-07-29T10:33:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heatwave comes into southwest of France as firefighters keep battling blaze",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/heatwave-comes-into-southwest-of-france-as-firefighters-keep-battling-blaze",
+      "published_date": "2026-07-29T09:37:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 13 dead in Japan after powerful earthquake",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/at-least-13-dead-in-japan-after-powerful-earthquake",
+      "published_date": "2026-07-29T08:54:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kavinsky, French DJ and composer of 'Nightcall', found dead in Paris home",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260729-french-dj-kavinsky-found-dead-in-paris-home",
+      "published_date": "2026-07-29T08:46:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested for Paris knife attack transferred to psych unit",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260729/man-arrested-for-paris-knife-attack-transferred-to-psych-unit",
+      "published_date": "2026-07-29T06:42:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's leaders say the Berlin Pride attack targeted 'all of us'.  What utter hypocrisy | Fatma Aydemir",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/29/germany-leaders-berlin-pride-attack-queer-community",
+      "published_date": "2026-07-29T04:00:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Middle East live: Iran state TV says US carried out air strikes near Iraq border",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260729-live-us-and-saudi-arabia-launch-strikes-on-iraq-target-iran-allies",
+      "published_date": "2026-07-29T02:51:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Epstein fixer found dead in his Paris flat - podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/jul/29/the-epstein-fixer-found-dead-in-his-paris-flat-podcast",
+      "published_date": "2026-07-29T02:00:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France braces for fresh evacuations as Spain eases wildfire restrictions",
@@ -554,111 +673,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/how-french-solidarity-grew-in-the-face-of-monster-fires",
       "published_date": "2026-07-28T15:23:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heatwave threatens firefighting mission in France's southwest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/heatwave-threatens-firefighting-mission-in-france-s-southwest",
-      "published_date": "2026-07-28T14:29:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qantas plane flies for more than 24 hours in record-breaking flight",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/28/qantas-plane-flies-for-more-than-24-hours-in-record-breaking-flight",
-      "published_date": "2026-07-28T14:02:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police discover remains of five babies in a home in southeastern France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260728-french-police-discover-remains-of-five-babies-in-a-home-in-southeastern-france",
-      "published_date": "2026-07-28T13:48:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "For the first time since Iran war, Trump and Netanyahu meet amid fraying ties",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/for-the-first-time-since-iran-war-trump-and-netanyahu-meet-amid-fraying-ties",
-      "published_date": "2026-07-28T12:51:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T12:03:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Multiple deaths in Japan mall collapse after 7.1-magnitude earthquake",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260728-multiple-deaths-in-japan-mall-collapse-after-7-1-magnitude-earthquake",
-      "published_date": "2026-07-28T11:45:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Facemasks return to southwestern France as air quality plummets due to fires",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/facemasks-return-as-french-southwest-air-charges-in-fire-smoke",
-      "published_date": "2026-07-28T11:41:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What to know about the red fire retardant being used against wildfires",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/what-to-know-about-the-red-fire-retardant-being-used-against-wildfires",
-      "published_date": "2026-07-28T11:36:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police look to avoid burglaries in evacuated areas as firefighting continues",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-police-look-to-avoid-burglaries-in-evacuated-areas-as-firefighting-continues",
-      "published_date": "2026-07-28T11:34:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dawn raid targets ‘umbrella cheaters’ reserving beach spots in Naples",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/28/umbrellas-deck-chairs-crackdown-reserving-beach-spots-naples",
-      "published_date": "2026-07-28T11:24:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire evacuees start returning home in France's scorched southwest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/fire-evacuees-start-returning-home-in-france-s-scorched-southwest",
-      "published_date": "2026-07-28T10:22:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chad's population see census as solution to make grievances heard",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/chad-s-population-see-census-as-solution-to-make-grievances-heard",
-      "published_date": "2026-07-28T10:21:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police find five dead babies in home in southern France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260728/police-find-five-dead-babies-in-home-in-southern-france",
-      "published_date": "2026-07-28T10:07:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lesvia review – the rise and fall of an amazing lesbian community on Sappho’s actual island home",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jul/28/lesvia-review-the-rise-and-fall-of-an-amazing-lesbian-community-on-sapphos-actual-island-home",
-      "published_date": "2026-07-28T10:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘He’s back’: Zinedine Zidane named France head coach in long-awaited homecoming",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/jul/28/france-zinedine-zidane-head-coach-long-awaited-homecoming",
-      "published_date": "2026-07-28T09:45:25+00:00",
       "category": "Local Events"
     }
   ]
