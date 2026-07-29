@@ -1,6 +1,6 @@
 {
   "country": "France",
-  "last_updated": "2026-07-29T12:57:20.302718+00:00",
+  "last_updated": "2026-07-29T23:57:26.136644+00:00",
   "story_count": 96,
   "stories": [
     {
@@ -123,6 +123,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Europe wildfires: Officials warn that wildfires could still be burning in November – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/27/europe-wildfires-france-spain-emmanuel-macron-crisis-meeting-pedro-sanchez-castillon-latest-news-updates",
+      "published_date": "2026-07-27T16:42:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron rallies government response as wildfires ravage south-west France",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260727-macron-rallies-government-response-as-wildfires-ravage-south-west-france",
-      "published_date": "2026-07-27T15:12:48+00:00",
-      "category": "Diplomacy"
+      "title": "Zelensky warns of possible major Russian strike overnight",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260729-zelensky-warns-of-possible-major-russian-strike-overnight",
+      "published_date": "2026-07-29T21:49:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone hits storage tanker at Egyptian port in major Middle East escalation, security firm says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/drone-hits-storage-tanker-at-egyptian-port-in-major-middle-east-escalation-security-firm-says",
+      "published_date": "2026-07-29T20:55:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia accuses Telegram founder of aiding terrorism in its latest online crackdown",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/29/russia-accuses-telegram-founder-of-aiding-terrorism-pavel-durov",
+      "published_date": "2026-07-29T16:36:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump tries to take action in the Middle East ahead of midterm elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260729-trump-tries-to-take-action-in-the-middle-east-ahead-of-midterm-elections-1",
+      "published_date": "2026-07-29T15:26:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US and Saudi Araba jointly strike Iraq, widening the conflict",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-and-saudi-araba-jointly-strike-iraq-widening-the-conflict",
+      "published_date": "2026-07-29T15:07:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Two options' for Trump in Middle East war: 'he waits or he escalates massively'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/two-options-for-trump-in-middle-east-war-he-waits-or-he-escalates-massively",
+      "published_date": "2026-07-29T13:46:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drones and bulldozers: how the army is helping battle the blaze in France's southwest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/drones-and-bulldozers-how-the-army-is-helping-battle-the-blaze-in-france-s-southwest",
+      "published_date": "2026-07-29T13:42:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Netanyahu praises 'excellent' meeting with Trump in first since Iran war",
@@ -235,53 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "UK's Burnham pledges new drone tech to Ukraine in Zelensky meeting",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260728-uk-s-burnham-pledges-new-drone-tech-to-ukraine-in-zelensky-meeting",
-      "published_date": "2026-07-28T12:26:26+00:00",
-      "category": "Military"
+      "title": "PODCAST 🎧: France ravaged by climate crisis as wildfires and drought blight summer",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260729/podcast-france-ravaged-by-climate-crisis-as-wildfires-and-drought-blight-summer",
+      "published_date": "2026-07-29T17:39:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Where do the US-Iran talks to end the war stand?",
+      "title": "'Rethink the forest' amid unprecedented wildfires: Return to 'ancestral ways of managing the land'?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/where-do-the-us-iran-talks-to-end-the-war-stand",
-      "published_date": "2026-07-28T11:45:18+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/rethink-the-forest-amid-unprecedented-wildfires-return-to-ancestral-ways-of-managing-the-land",
+      "published_date": "2026-07-29T15:07:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "'Trump Needs a Way Out of This War': General Yakovlev explains 'charade' over US-Iran negotiations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-needs-a-way-out-of-this-war-general-yakovlev-explains-charade-over-us-iran-negotiations",
-      "published_date": "2026-07-28T10:58:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky to press Trump on air defences while in Washington",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T10:41:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone strikes and abuse rock Sudan's El-Obeid as conflict intensifies over city",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/drone-strikes-and-abuse-rock-sudan-s-el-obeid-as-conflict-intensifies-over-city",
-      "published_date": "2026-07-28T10:16:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu to meet Trump for first time since Iran war strained ties",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/netanyahu-to-meet-trump-at-white-house-for-first-time-since-iran-war-strained-ties",
-      "published_date": "2026-07-28T06:45:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "I thought my life would feel sorted when I turned 40. It doesn’t – and that’s OK | Carolin Würfel",
+      "title": "A ​decade on the Iberian ​frontline​ has shown me that Europe’s ​climate ​emergency​ is ​impossible to ​deny",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/28/life-turn-40-east-germany-in-between",
-      "published_date": "2026-07-28T04:00:28+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/29/a-decade-on-the-iberian-frontline-has-shown-me-that-europes-climate-emergency-is-impossible-to-deny",
+      "published_date": "2026-07-29T14:35:35+00:00",
+      "category": "Energy"
     },
     {
       "title": "'Climate change is really here: We should seize this crisis moment to create a new momentum'",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Climate crisis-driven heat ‘sucking soils dry’ as extreme drought hits Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/23/climate-crisis-heat-sucking-soils-dry-extreme-drought-europe-analysis",
-      "published_date": "2026-07-23T04:00:34+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Climate change has intensified Europe's risk of drought, scientists say",
+      "title": "FIFA hit by furious backlash over plans to sell stake in competitions",
       "source": "France 24",
-      "url": "https://www.france24.com/en/environment/20260723-climate-change-has-intensified-europe-risk-of-drought-scientists-say",
-      "published_date": "2026-07-23T03:09:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Middle East live: Houthi rebels claim attacks on Saudi tankers in the Red Sea",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260723-middle-east-live-houthi-rebels-claim-attacks-on-saudi-tankers-in-the-red-sea",
-      "published_date": "2026-07-23T02:22:41+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/fifa-hit-by-furious-backlash-over-plans-to-sell-stake-in-competitions",
+      "published_date": "2026-07-29T20:45:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "FIFA private investor plans spark backlash, UEFA fury",
@@ -529,11 +536,95 @@
       "category": "Economy"
     },
     {
-      "title": "Food price fears after Europe’s heatwave destroys estimated €2bn of crops",
+      "title": "Deadly attack on Pakistan checkpoint leaves 15 dead as militant violence surges",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260729-deadly-attack-on-pakistan-checkpoint-leaves-15-dead-as-militant-violence-surges",
+      "published_date": "2026-07-29T23:14:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Body found in suitcase in Athens is that of 38-year-old British woman",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/22/europe-heatwave-june-farming-lost-revenue-crop-damage",
-      "published_date": "2026-07-22T14:12:47+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/jul/29/body-suitcase-athens-38-year-old-british-woman-greek-authorities",
+      "published_date": "2026-07-29T21:05:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "🔴 Live: France battles new wildfire in south of France as Fontainebleau fire flares up again",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260729-live-massive-wildfire-in-southwest-france-remains-under-control",
+      "published_date": "2026-07-29T20:40:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Survey reveals rising optimism among African youth",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/survey-reveals-rising-optimism-among-african-youth",
+      "published_date": "2026-07-29T20:17:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
+      "published_date": "2026-07-29T18:30:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Norwegian teenager guilty of travelling to UK to carry out contract killing",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/29/norwegian-teenager-johannes-kongsnes-natland-guilty-uk-contract-killing",
+      "published_date": "2026-07-29T17:02:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firefighter films wildfire using smart glasses in France's Gironde",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260729-firefighter-films-wildfire-using-smart-glasses-in-france-s-gironde-1",
+      "published_date": "2026-07-29T15:46:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cats, dogs and horses: Rescuing the pets caught in France’s wildfires",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260729-cats-dogs-and-horses-rescuing-the-pets-caught-in-france-s-wildfires",
+      "published_date": "2026-07-29T15:00:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Public executions in Iran spark anti-regime protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260729-iran-public-executions-isfahan-anti-regime-protests",
+      "published_date": "2026-07-29T14:00:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French wildfires: FRANCE 24 goes on the ground with firefighters",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-wildfires-france-24-goes-on-the-ground-with-firefighters",
+      "published_date": "2026-07-29T13:38:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Madagascar struggles to deal with wave of kidnappings hitting capital city",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/madagascar-struggles-to-deal-with-wave-of-kidnappings-hitting-capital-city",
+      "published_date": "2026-07-29T13:08:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Despite praise, Chad to withdraw from the International Criminal Court",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/despite-praise-chad-to-withdraw-from-the-international-criminal-court",
+      "published_date": "2026-07-29T13:04:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight years on, family of missing French tourist demands Japan's national police take over case",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260729-statue-of-disappeared-frenchwoman-erected-in-japan-as-family-pushes-for-probe",
+      "published_date": "2026-07-29T12:50:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Japan searches for earthquake survivors as thousands evacuate",
@@ -582,97 +673,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-29T10:35:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Incoming heatwave set to worsen firefighting conditions in France's southwest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/incoming-heatwave-set-to-worsen-firefighting-conditions-in-france-s-southwest",
-      "published_date": "2026-07-29T10:33:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heatwave comes into southwest of France as firefighters keep battling blaze",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/heatwave-comes-into-southwest-of-france-as-firefighters-keep-battling-blaze",
-      "published_date": "2026-07-29T09:37:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 13 dead in Japan after powerful earthquake",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/at-least-13-dead-in-japan-after-powerful-earthquake",
-      "published_date": "2026-07-29T08:54:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kavinsky, French DJ and composer of 'Nightcall', found dead in Paris home",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260729-french-dj-kavinsky-found-dead-in-paris-home",
-      "published_date": "2026-07-29T08:46:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested for Paris knife attack transferred to psych unit",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260729/man-arrested-for-paris-knife-attack-transferred-to-psych-unit",
-      "published_date": "2026-07-29T06:42:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's leaders say the Berlin Pride attack targeted 'all of us'.  What utter hypocrisy | Fatma Aydemir",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/29/germany-leaders-berlin-pride-attack-queer-community",
-      "published_date": "2026-07-29T04:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Middle East live: Iran state TV says US carried out air strikes near Iraq border",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260729-live-us-and-saudi-arabia-launch-strikes-on-iraq-target-iran-allies",
-      "published_date": "2026-07-29T02:51:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Epstein fixer found dead in his Paris flat - podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jul/29/the-epstein-fixer-found-dead-in-his-paris-flat-podcast",
-      "published_date": "2026-07-29T02:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France braces for fresh evacuations as Spain eases wildfire restrictions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260728-france-braces-for-fresh-evacuations-as-spain-eases-wildfire-restrictions",
-      "published_date": "2026-07-28T23:41:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chad to withdraw from the International Criminal Court",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/chad-to-withdraw-from-the-international-criminal-court",
-      "published_date": "2026-07-28T20:14:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bad news for Bordeaux: France's celebrated wine industry faces wake-up call over wildfires",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260728-bad-news-for-bordeaux-france-s-celebrated-wine-industry-faces-wake-up-call-over-wildfires",
-      "published_date": "2026-07-28T20:05:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T16:14:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How French solidarity grew in the face of monster fires",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/how-french-solidarity-grew-in-the-face-of-monster-fires",
-      "published_date": "2026-07-28T15:23:56+00:00",
       "category": "Local Events"
     }
   ]
