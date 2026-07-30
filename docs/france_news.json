@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-07-29T23:57:26.136644+00:00",
-  "story_count": 96,
+  "last_updated": "2026-07-30T12:26:09.504753+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "Firefighters race to extinguish blazes across EU as fire weather breaks records",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/fire-weather-eu-wildfires-data",
+      "published_date": "2026-07-30T12:04:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "#Ukraine pounded in Russian attack, Polish airspace 'violated'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260730-ukraine-pounded-in-russian-attack-polish-airspace-violated-1",
+      "published_date": "2026-07-30T11:31:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tourists from France and Spain flock to Sweden for cooler summer",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260730/tourists-from-france-and-spain-flock-to-sweden-for-cooler-summer",
+      "published_date": "2026-07-30T08:55:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU crisis chief calls for prevention funding as wildfire crisis rages on",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260730-eu-crisis-chief-calls-for-prevention-funding-as-french-wildfire-crisis-rages-on",
+      "published_date": "2026-07-30T06:16:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Americans in France: Supporting wildfire victims and reaching French fluency",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260729/americans-in-france-supporting-wildfire-victims-and-reaching-french-fluency",
+      "published_date": "2026-07-29T13:49:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "As fires still blaze, France thinks about how to rebuild its forests",
       "source": "France 24",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
+      "title": "Nato ‘will take all necessary measures’ to defend territory after Russian missile crashes in Poland – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
-      "published_date": "2026-07-27T22:25:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/jul/30/europe-ukraine-russia-poland-wildfires-france-spain-greece-latest-news-updates",
+      "published_date": "2026-07-30T11:55:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "France and Spain wildfire witnesses describe 'wall of flames', fear and stress",
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-27T19:50:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T11:48:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Europe wildfires: Officials warn that wildfires could still be burning in November – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/27/europe-wildfires-france-spain-emmanuel-macron-crisis-meeting-pedro-sanchez-castillon-latest-news-updates",
-      "published_date": "2026-07-27T16:42:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-27T16:33:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Niger’s junta marks three years amid rising violence and lost freedoms",
+      "title": "Russia seeks arrest of Telegram's Durov over 'terrorism complicity' claims",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260727-niger-s-junta-marks-three-years-amid-rising-violence-and-lost-freedoms",
-      "published_date": "2026-07-27T16:02:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260730-russia-seeks-arrest-of-telegram-s-durov-over-terrorism-complicity-claims",
+      "published_date": "2026-07-30T11:34:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia accused of violating Polish airspace after missile explosion near village",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
+      "published_date": "2026-07-30T11:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French Expression of the Day: Pied-à-terre",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260730/french-expression-of-the-day-pied-a-terre",
+      "published_date": "2026-07-30T09:22:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T09:21:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Lenin was an enemy of humanity’: Why Kyiv wants to put Cossack chief statue in place of Soviet leader",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/ukraine-kyiv-replace-lenin-statue-with-cossack-chief-ivan-mazepa",
+      "published_date": "2026-07-30T05:00:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Zelensky warns of possible major Russian strike overnight",
@@ -193,6 +242,13 @@
       "category": "Military"
     },
     {
+      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T12:17:42+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Netanyahu praises 'excellent' meeting with Trump in first since Iran war",
       "source": "France 24",
       "url": "https://www.france24.com/en/netanyahu-praises-excellent-meeting-with-trump-in-first-since-iran-war",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Peru's Fujimori vows military-led crackdown on crime after taking office",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260728-peru-s-fujimori-vows-military-led-crackdown-on-crime-after-taking-office",
-      "published_date": "2026-07-28T21:16:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oman presents Iran with Gulf-backed plan to ease Strait of Hormuz tensions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260728-oman-presents-iran-with-gulf-backed-plan-to-ease-strait-of-hormuz-tensions",
-      "published_date": "2026-07-28T20:07:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wildfires in France: Volunteers put smiles back on evacuees' faces in Bordeaux",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260728-wildfires-in-france-volunteers-put-smiles-back-on-evacuees-faces-in-bordeaux",
-      "published_date": "2026-07-28T17:41:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK politics: Tories’ Philp rejects French claim that shots fired from naval boat near him were training exercise – as it happened",
+      "title": "Embattled German chancellor chooses papal pageturner for his beach read",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/28/andy-burnham-education-tories-ai-localism-devolution-latest-news-updates",
-      "published_date": "2026-07-28T17:01:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tory MP accuses French navy of firing ‘warning’ shots near him in Channel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/28/tory-mp-chris-philp-accuses-french-navy-of-firing-shots-in-channel-incident",
-      "published_date": "2026-07-28T16:26:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French Navy carries out 'shooting drill' mid interview",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T16:12:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky visit White House in test to Maga's 'significant shift towards' Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/zelensky-visit-white-house-in-test-to-maga-s-significant-shift-towards-kyiv",
-      "published_date": "2026-07-28T14:33:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US reviews troop presence in Europe as Washington pushes NATO burden sharing",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260728-us-reviews-troop-presence-in-europe-as-washington-pushes-nato-burden-sharing",
-      "published_date": "2026-07-28T13:20:53+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/30/german-chancellor-friedrich-merz-chooses-pope-leo-encyclical-for-beach-read",
+      "published_date": "2026-07-30T12:04:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "PODCAST 🎧: France ravaged by climate crisis as wildfires and drought blight summer",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
-      "published_date": "2026-07-23T11:27:00+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "FIFA hit by furious backlash over plans to sell stake in competitions",
       "source": "France 24",
       "url": "https://www.france24.com/en/fifa-hit-by-furious-backlash-over-plans-to-sell-stake-in-competitions",
@@ -522,18 +522,46 @@
       "category": "Economy"
     },
     {
-      "title": "Crucial salt trade revives as Pink Lake slowly recovers from floods",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/crucial-salt-trade-revives-as-pink-lake-slowly-recovers-from-floods",
-      "published_date": "2026-07-23T10:08:12+00:00",
-      "category": "Economy"
+      "title": "Europe is burning – and if Trump’s war on the climate is not met with sanctions, things will only get worse | Alexander Hurst",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/30/europe-burning-trump-war-climate-sanctions-white-house",
+      "published_date": "2026-07-30T11:00:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EasyJet profits plunge 70% as fuel costs soar amid Iran war",
+      "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T09:10:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Why are you doing this to me?’: how one woman survived two years of slavery on a Spanish farm",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/23/easyjet-profits-plunge-fuel-costs-soar-iran-war",
-      "published_date": "2026-07-23T08:24:49+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/global-development/2026/jul/30/spain-morocco-human-trafficking-modern-slavery-farm",
+      "published_date": "2026-07-30T09:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Migrant exodus leaves South African employers short-handed",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260730-migrant-exodus-leaves-south-african-employers-short-handed",
+      "published_date": "2026-07-30T08:18:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LATEST: Rain dampens France's wildfires as Bordeaux fire 'stable'",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260730/frances-wildfire-situation-eases-as-situation-in-gironde-stabilises",
+      "published_date": "2026-07-30T06:56:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Bordeaux as the wildfires close in – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/jul/30/in-bordeaux-as-the-wildfires-close-in-podcast",
+      "published_date": "2026-07-30T02:00:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Deadly attack on Pakistan checkpoint leaves 15 dead as militant violence surges",
@@ -631,48 +659,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/japan-searches-for-earthquake-survivors-as-thousands-evacuate",
       "published_date": "2026-07-29T12:39:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What to know about France's fourth heatwave of the year",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260729-what-to-know-about-france-s-fourth-heatwave-of-the-year",
-      "published_date": "2026-07-29T12:34:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighter 'morale remains high' despite heatwave coming to France's blazing southwest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/firefighter-morale-remains-high-as-heatwave-comes-to-france-s-blazing-southwest",
-      "published_date": "2026-07-29T12:30:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru takes ultraconservative turn as Fujimori becomes president",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/peru-takes-ultraconservative-turn-as-fujimori-becomes-president",
-      "published_date": "2026-07-29T12:27:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French music producer Kavinsky, known for Drive soundtrack hit Nightcall, dies aged 50",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jul/29/kavinsky-french-music-producer-dies-aged-50-drive-soundtrack-nightcall",
-      "published_date": "2026-07-29T11:55:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris' Seine swimming spots closed after 'illegal fuel dumping'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260729/paris-swimming-spots-closed-after-illegal-fuel-dumping",
-      "published_date": "2026-07-29T10:41:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French DJ ​and electronic ‌musician Kavinsky dies aged 50",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-29T10:35:13+00:00",
       "category": "Local Events"
     }
   ]
