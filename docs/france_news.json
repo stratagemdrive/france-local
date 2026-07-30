@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-07-30T12:26:09.504753+00:00",
+  "last_updated": "2026-07-30T23:58:30.076150+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Spain to deploy military to restore order in Ceuta after thousands of people breach Morocco’s border",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/spain-to-deploy-military-to-restore-order-in-ceuta-after-thousands-of-people-breach-morocco-s-border",
+      "published_date": "2026-07-30T19:25:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe burns: a visual guide to the wildfires",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires",
+      "published_date": "2026-07-30T13:00:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "As France battles unprecedented wildfires, Caroit urges collective global action on climate change",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/as-france-battles-unprecedented-wildfires-caroit-urges-collective-global-action-on-climate-change",
+      "published_date": "2026-07-30T12:33:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Firefighters race to extinguish blazes across EU as fire weather breaks records",
       "source": "The Guardian",
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran says French envoy summoned over 'interference' in internal affairs",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260728-iran-says-summoned-french-envoy-over-interference-in-internal-affairs",
-      "published_date": "2026-07-28T06:25:03+00:00",
-      "category": "Diplomacy"
+      "title": "Pakistan says US-Iran talks still alive despite fresh wave of US strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260730-pakistan-says-us-iran-talks-still-alive-despite-fresh-wave-of-us-strikes",
+      "published_date": "2026-07-30T22:42:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "France and Spain continue to battle fires as new heatwave looms",
+      "title": "Russian missiles interception rate in Ukraine dropped from 90% back in March to 70%, expert says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260728-france-and-spain-continue-to-battle-fires-as-new-heatwave-looms",
-      "published_date": "2026-07-28T01:25:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/russian-missiles-interception-rate-in-ukraine-dropped-from-90-back-in-march-to-70-expert-says",
+      "published_date": "2026-07-30T19:58:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Zelensky expected at White House to push for more support against Russia",
+      "title": "Spain sends extra troops and police to Ceuta after thousands of migrants arrive",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/thousands-enter-spanish-enclave-ceuta-morocco-africa",
+      "published_date": "2026-07-30T18:58:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "🔴 Spain deploys military as hundreds cross into Ceuta from Morocco",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260728-ukraine-s-zelensky-expected-at-white-house-to-secure-trump-s-support-against-russia",
-      "published_date": "2026-07-28T01:23:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260730-hundreds-of-migrants-enter-spain-north-african-territory-ceuta-from-morocco",
+      "published_date": "2026-07-30T18:46:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T17:55:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian missile destroys US firm’s Kyiv drone factory",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/us-firm-drone-factory-terminal-autonomy-ukraine-russia",
+      "published_date": "2026-07-30T17:40:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘It was a big shock’: new border rules left couple stuck in Kraków after living in UK for 80 years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
+      "published_date": "2026-07-30T16:59:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AI before AI: The forgotten Soviet programme (1/2)",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme",
+      "published_date": "2026-07-30T14:08:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Warsaw blames Moscow after a missile crashes in Poland",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260730-warsaw-blames-moscow-after-a-missile-crashes-in-poland",
+      "published_date": "2026-07-30T14:03:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "HMRC fines Airbus £6.4m for breaching rules on export of sensitive technology",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/30/airbus-fined-64m-hmrc-export-technology-breaches",
+      "published_date": "2026-07-30T12:41:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Nato ‘will take all necessary measures’ to defend territory after Russian missile crashes in Poland – Europe live",
@@ -214,74 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Trump tries to take action in the Middle East ahead of midterm elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260729-trump-tries-to-take-action-in-the-middle-east-ahead-of-midterm-elections-1",
-      "published_date": "2026-07-29T15:26:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and Saudi Araba jointly strike Iraq, widening the conflict",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-and-saudi-araba-jointly-strike-iraq-widening-the-conflict",
-      "published_date": "2026-07-29T15:07:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Two options' for Trump in Middle East war: 'he waits or he escalates massively'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/two-options-for-trump-in-middle-east-war-he-waits-or-he-escalates-massively",
-      "published_date": "2026-07-29T13:46:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drones and bulldozers: how the army is helping battle the blaze in France's southwest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/drones-and-bulldozers-how-the-army-is-helping-battle-the-blaze-in-france-s-southwest",
-      "published_date": "2026-07-29T13:42:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-29T12:17:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu praises 'excellent' meeting with Trump in first since Iran war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/netanyahu-praises-excellent-meeting-with-trump-in-first-since-iran-war",
-      "published_date": "2026-07-29T09:04:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says Iran trying to 'derail ongoing ceasefire talks' as strikes resume",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-says-iran-trying-to-derail-ongoing-ceasefire-talks-as-strikes-resume",
-      "published_date": "2026-07-29T08:59:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia issues international wanted notice against Telegram founder Pavel Durov for aiding terrorism",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260729-russia-issues-international-wanted-notice-against-telegram-founder-pavel-durov-for-aiding-terrorism",
-      "published_date": "2026-07-29T08:45:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky hails ‘good meeting’ with Trump as Ukraine seeks Patriot missile deal",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260729-zelensky-hails-good-meeting-with-trump-as-ukraine-seeks-patriot-missile-deal",
-      "published_date": "2026-07-29T07:04:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US diplomats stage UN walkout after France criticizes human rights record under Trump",
+      "title": "Record low water levels across Europe reveal mammoth skeletons and forgotten shipwrecks – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/28/diplomats-un-walkout-france-human-rights-trump-record",
-      "published_date": "2026-07-28T21:39:51+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/video/2026/jul/30/europe-record-low-water-levels",
+      "published_date": "2026-07-30T22:47:27+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Climate change made France, Spain wildfire conditions far more likely, scientists say",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260730-climate-change-made-france-spain-wildfire-conditions-far-more-likely-scientists-say",
+      "published_date": "2026-07-30T22:32:33+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "France's unprecedented wildfires: Convergence of climate change and historical landscape engineering",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-s-unprecedented-wildfires-convergence-of-climate-change-and-historical-landscape-engineering",
+      "published_date": "2026-07-30T16:58:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Embattled German chancellor chooses papal pageturner for his beach read",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "France orders total evacuation of Cap Ferret peninsula as wildfire spreads",
+      "title": "The Guardian view on prolonging kidulthood: Britain prices young adults out of independent life | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
-      "published_date": "2026-07-24T11:42:32+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/30/the-guardian-view-on-kidulthood-britain-prices-young-adults-out-of-independent-life",
+      "published_date": "2026-07-30T17:30:50+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil prices surge above $100 a barrel for first time since May",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/oil-prices-surge-above-100-a-barrel-for-first-time-since-may",
-      "published_date": "2026-07-24T09:34:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Middle East: Oil surges as Gulf tensions escalate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east-oil-surges-as-gulf-tensions-escalate",
-      "published_date": "2026-07-24T09:05:28+00:00",
-      "category": "Energy"
+      "title": "Uefa to boycott World Cups if Fifa plans approved",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T16:47:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "FIFA hit by furious backlash over plans to sell stake in competitions",
@@ -508,18 +522,60 @@
       "category": "Economy"
     },
     {
-      "title": "New PM cuts business rates for UK pubs in latest cost-of-living measure",
+      "title": "France, Spain eye respite from wildfires as other blazes break out in Europe",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260723-new-pm-cuts-business-rates-for-uk-pubs-in-latest-cost-of-living-measure",
-      "published_date": "2026-07-23T23:26:54+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/europe/20260730-france-spain-eye-respite-from-wildfires-as-other-blazes-break-out-in-europe",
+      "published_date": "2026-07-30T20:07:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump announces double digit tariffs on 60 countries over forced labour concerns",
+      "title": "French riot police used teargas on people trying to board small boat, charity claims",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
+      "published_date": "2026-07-30T19:20:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UEFA to boycott FIFA in protest at World Cup private investor plans",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260723-trump-announces-double-digit-tariffs-on-60-countries-over-forced-labour-concerns",
-      "published_date": "2026-07-23T21:27:16+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/sport/20260730-uefa-to-boycott-fifa-over-investor-plan",
+      "published_date": "2026-07-30T15:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "George and Amal Clooney evacuate from French house: ‘We do not know whether our beautiful home will survive’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jul/30/george-clooney-amal-evacuate-french-house",
+      "published_date": "2026-07-30T15:24:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French rail workers call surprise weekend strike",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260730/french-rail-workers-call-surprise-weekend-strike",
+      "published_date": "2026-07-30T14:57:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DRC court clears path to change a constitution that says it can't be changed",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260730-drc-court-clears-path-to-change-a-constitution-that-says-it-can-t-be-changed",
+      "published_date": "2026-07-30T14:07:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greek police probe 'foul play' in death of woman found in suitcase",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy07w28jn5lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T13:47:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French interior minister says wildfire situation still 'quite complicated'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260730-french-interior-minister-says-wildfire-situation-still-quite-complicated",
+      "published_date": "2026-07-30T12:47:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Europe is burning – and if Trump’s war on the climate is not met with sanctions, things will only get worse | Alexander Hurst",
@@ -554,6 +610,13 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260730/frances-wildfire-situation-eases-as-situation-in-gironde-stabilises",
       "published_date": "2026-07-30T06:56:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire in eastern England rages as France and Spain win some respite",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260730-live-fontainebleau-fire-contained-but-southern-europe-on-high-alert-as-wildfires-rage",
+      "published_date": "2026-07-30T02:59:15+00:00",
       "category": "Local Events"
     },
     {
@@ -596,69 +659,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
       "published_date": "2026-07-29T18:30:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norwegian teenager guilty of travelling to UK to carry out contract killing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/29/norwegian-teenager-johannes-kongsnes-natland-guilty-uk-contract-killing",
-      "published_date": "2026-07-29T17:02:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighter films wildfire using smart glasses in France's Gironde",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260729-firefighter-films-wildfire-using-smart-glasses-in-france-s-gironde-1",
-      "published_date": "2026-07-29T15:46:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cats, dogs and horses: Rescuing the pets caught in France’s wildfires",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260729-cats-dogs-and-horses-rescuing-the-pets-caught-in-france-s-wildfires",
-      "published_date": "2026-07-29T15:00:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Public executions in Iran spark anti-regime protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260729-iran-public-executions-isfahan-anti-regime-protests",
-      "published_date": "2026-07-29T14:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French wildfires: FRANCE 24 goes on the ground with firefighters",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-wildfires-france-24-goes-on-the-ground-with-firefighters",
-      "published_date": "2026-07-29T13:38:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madagascar struggles to deal with wave of kidnappings hitting capital city",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/madagascar-struggles-to-deal-with-wave-of-kidnappings-hitting-capital-city",
-      "published_date": "2026-07-29T13:08:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Despite praise, Chad to withdraw from the International Criminal Court",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/despite-praise-chad-to-withdraw-from-the-international-criminal-court",
-      "published_date": "2026-07-29T13:04:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eight years on, family of missing French tourist demands Japan's national police take over case",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260729-statue-of-disappeared-frenchwoman-erected-in-japan-as-family-pushes-for-probe",
-      "published_date": "2026-07-29T12:50:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan searches for earthquake survivors as thousands evacuate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/japan-searches-for-earthquake-survivors-as-thousands-evacuate",
-      "published_date": "2026-07-29T12:39:36+00:00",
       "category": "Local Events"
     }
   ]
