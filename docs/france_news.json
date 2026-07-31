@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-07-30T23:58:30.076150+00:00",
+  "last_updated": "2026-07-31T12:52:16.938335+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "AI labels to be compulsory on authentic-looking content under EU rules",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
+      "published_date": "2026-07-31T11:21:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘It’s too fast, too big’: speed of climate crisis is devastating crops, say farmers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/31/speed-of-climate-crisis-devastating-crops-say-farmers",
+      "published_date": "2026-07-31T11:00:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What to know about Ceuta, Spanish city on EU’s border in Africa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-eu-border-africa",
+      "published_date": "2026-07-31T09:40:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How did climate change fuel the wildfires ravaging Europe this summer?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260731-how-did-climate-change-fuel-the-wildfires-ravaging-europe-this-summer",
+      "published_date": "2026-07-31T09:34:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'It took me two hours': 40,000 migrants swim from Morocco into Spain's Ceuta",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/it-took-me-two-hours-40-000-migrants-swim-from-morocco-into-spain-s-ceuta",
+      "published_date": "2026-07-31T09:21:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spain to deploy military to restore order in Ceuta after thousands of people breach Morocco’s border",
       "source": "France 24",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Building a 'different kind of forest' after devastating wildfires",
+      "title": "If it disarms, Hamas would 'take away Israel's rationale' to occupy Gaza",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260728-building-a-different-kind-of-forest-after-devastating-wildfires",
-      "published_date": "2026-07-28T19:03:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/if-it-disarms-hamas-would-take-away-israel-s-rationale-to-occupy-gaza",
+      "published_date": "2026-07-31T12:39:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Almost 4,000 people evacuated from tourist sites near Bordeaux as wildfires rage in France and Spain",
+      "title": "As Bordeaux blaze eases, Ukraine sends reinforcements to France",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260731-as-bordeaux-blaze-eases-ukraine-sends-reinforcements-to-france",
+      "published_date": "2026-07-31T12:37:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas agrees to disarm under Trump plan, but no word yet from Israel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/hamas-agrees-to-disarm-under-trump-plan-but-no-word-yet-from-israel",
+      "published_date": "2026-07-31T09:28:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British-Azerbaijani man arrested in Cyprus over alleged spying on UK airbase for Iran",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain",
-      "published_date": "2026-07-28T16:42:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/jul/31/british-azerbaijani-man-arrested-cyprus-alleged-spying-uk-airbase-iran",
+      "published_date": "2026-07-31T08:58:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
-      "published_date": "2026-07-28T12:44:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Ash fell from the sky’: Tourists describe fleeing ‘apocalyptic’ wildfires in France",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/28/ash-fell-from-the-sky-tourists-describe-fleeing-apocalyptic-wildfires-in-france",
-      "published_date": "2026-07-28T08:00:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron warns French firefighters the 'weeks ahead will be tough'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260728/weeks-ahead-will-be-tough-macron-tells-firefighters-battling-wildfire-near-frances-bordeaux",
-      "published_date": "2026-07-28T06:29:34+00:00",
-      "category": "Diplomacy"
+      "title": "What we know about the Hamas disarmament deal announced by Trump",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260731-what-we-know-about-the-hamas-disarmament-deal-announced-by-trump",
+      "published_date": "2026-07-31T06:31:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan says US-Iran talks still alive despite fresh wave of US strikes",
@@ -249,39 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T09:21:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Lenin was an enemy of humanity’: Why Kyiv wants to put Cossack chief statue in place of Soviet leader",
+      "title": "BP puts North Sea oil and gas business up for sale",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/30/ukraine-kyiv-replace-lenin-statue-with-cossack-chief-ivan-mazepa",
-      "published_date": "2026-07-30T05:00:53+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/jul/31/bp-north-sea-oil-and-gas-business-up-for-sale",
+      "published_date": "2026-07-31T12:26:23+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Zelensky warns of possible major Russian strike overnight",
+      "title": "Rescue operation underway in Pakistan after coal mine collapses",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260729-zelensky-warns-of-possible-major-russian-strike-overnight",
-      "published_date": "2026-07-29T21:49:55+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260731-rescue-operation-underway-in-pakistan-after-coal-mine-collapses",
+      "published_date": "2026-07-31T09:47:39+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Drone hits storage tanker at Egyptian port in major Middle East escalation, security firm says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/drone-hits-storage-tanker-at-egyptian-port-in-major-middle-east-escalation-security-firm-says",
-      "published_date": "2026-07-29T20:55:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia accuses Telegram founder of aiding terrorism in its latest online crackdown",
+      "title": "‘Extremely scary findings’ show climate crisis is supercharging Europe’s wildfire weather",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/29/russia-accuses-telegram-founder-of-aiding-terrorism-pavel-durov",
-      "published_date": "2026-07-29T16:36:09+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/jul/31/wildfires-extreme-weather-europe-spain-france-climate-crisis-analysis",
+      "published_date": "2026-07-31T07:00:07+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘We can’t make it better again’: what Europe’s wildfires tell us about the climate crisis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/30/europe-wildfires-climate-crisis-heat-summer",
+      "published_date": "2026-07-31T06:00:07+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Will brutal wildfires force French leaders to take climate crisis seriously?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/31/wildfires-french-leaders-climate-crisis-elections",
+      "published_date": "2026-07-31T04:00:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "Record low water levels across Europe reveal mammoth skeletons and forgotten shipwrecks – video",
@@ -389,39 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "The story behind the viral photo of French wildfires",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260727/the-story-behind-the-viral-photo-of-french-wildfires",
-      "published_date": "2026-07-27T09:04:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ecowas greenlights $25bn Nigeria-Morocco mega gas pipeline",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260726-ecowas-greenlights-25bn-mega-gas-pipeline-nigeria-morocco",
-      "published_date": "2026-07-26T08:54:28+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Climate change 'exacerbating' drought across Europe, scientists say",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260725-climate-change-exacerbating-drought-across-europe-scientists-say",
-      "published_date": "2026-07-25T08:58:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran warns countries aiding US attack",
+      "title": "Infantino's senior advisor resigns amid outrage over FIFA's private investment plan",
       "source": "France 24",
-      "url": "https://www.france24.com/en/iran-warns-countries-aiding-us-attack",
-      "published_date": "2026-07-24T15:03:35+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/infantino-s-senior-advisor-resigns-amid-outrage-over-fifa-s-private-investment-plan",
+      "published_date": "2026-07-31T10:42:46+00:00",
+      "category": "Economy"
     },
     {
-      "title": "France evacuates Cap Ferret peninsula as Spanish wildfires merge near Madrid – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
-      "published_date": "2026-07-24T12:03:06+00:00",
-      "category": "Energy"
+      "title": "What to know about the arrival of 49,000 migrants into Spain's Ceuta",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/what-to-know-about-the-arrival-of-nearly-49-000-migrants-from-morocco-into-spain",
+      "published_date": "2026-07-31T10:38:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "European football vows to boycott World Cups if FIFA brings in private investors",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/european-football-vows-to-boycott-world-cups-if-fifa-brings-in-private-investors",
+      "published_date": "2026-07-31T09:43:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Guardian view on prolonging kidulthood: Britain prices young adults out of independent life | Editorial",
@@ -501,25 +522,74 @@
       "category": "Economy"
     },
     {
-      "title": "Mass job cuts loom at VW as profits fall steeply on China sales slump",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/24/vw-profits-plunge-and-deep-job-cuts-loom-amid-tough-chinese-competition",
-      "published_date": "2026-07-24T10:34:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US hits partners with new tariffs over forcer labour claims",
+      "title": "In Naples, archaeologists work to learn more about a submerged Roman city",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-hits-partners-with-new-tariffs-over-forcer-labour-claims",
-      "published_date": "2026-07-24T08:29:43+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/in-naples-archaeologists-work-to-learn-more-about-a-submerged-roman-city",
+      "published_date": "2026-07-31T12:47:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "What tariffs has Trump introduced and why?",
+      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T08:28:16+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-31T12:39:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain's PM blames trafficking mafia for ongoing Ceuta migrant crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/spain-s-pm-blames-trafficking-mafia-for-ongoing-ceuta-migrant-crisis",
+      "published_date": "2026-07-31T12:34:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France’s wildfires: Famous Bordeaux wine region at risk",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260731-france-s-wildfires-famous-bordeaux-wine-region-at-risk",
+      "published_date": "2026-07-31T12:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain’s Sánchez blames trafficking gangs as estimated 60,000 migrants reach Ceuta with at least 34 dead – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+      "published_date": "2026-07-31T12:27:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 34 people die as thousands cross to Spanish enclave of Ceuta from Morocco",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "published_date": "2026-07-31T11:49:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's southwest faces 'optimistic day' as half of evacuees return home",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-s-southwest-faces-optimistic-day-as-half-of-evacuees-return-home",
+      "published_date": "2026-07-31T09:31:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'First somewhat optimistic day' in south west France since outbreak of fire",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260731/first-somewhat-optimistic-day-in-south-west-france-since-outbreak-of-fire",
+      "published_date": "2026-07-31T07:07:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where you live could decide how well you breathe, French study finds",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260731-where-you-live-could-decide-how-well-you-breathe-french-study-finds-pollution-heatwave-environment",
+      "published_date": "2026-07-31T06:20:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After teargas, protests and legal strife, Turkey has a new opposition party. Is this the man who can defeat Erdoğan? | Kaya Genç",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan",
+      "published_date": "2026-07-31T04:00:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France, Spain eye respite from wildfires as other blazes break out in Europe",
@@ -589,76 +659,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-30T09:10:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Why are you doing this to me?’: how one woman survived two years of slavery on a Spanish farm",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jul/30/spain-morocco-human-trafficking-modern-slavery-farm",
-      "published_date": "2026-07-30T09:00:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migrant exodus leaves South African employers short-handed",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260730-migrant-exodus-leaves-south-african-employers-short-handed",
-      "published_date": "2026-07-30T08:18:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LATEST: Rain dampens France's wildfires as Bordeaux fire 'stable'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260730/frances-wildfire-situation-eases-as-situation-in-gironde-stabilises",
-      "published_date": "2026-07-30T06:56:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfire in eastern England rages as France and Spain win some respite",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260730-live-fontainebleau-fire-contained-but-southern-europe-on-high-alert-as-wildfires-rage",
-      "published_date": "2026-07-30T02:59:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Bordeaux as the wildfires close in – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jul/30/in-bordeaux-as-the-wildfires-close-in-podcast",
-      "published_date": "2026-07-30T02:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly attack on Pakistan checkpoint leaves 15 dead as militant violence surges",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260729-deadly-attack-on-pakistan-checkpoint-leaves-15-dead-as-militant-violence-surges",
-      "published_date": "2026-07-29T23:14:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Body found in suitcase in Athens is that of 38-year-old British woman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/29/body-suitcase-athens-38-year-old-british-woman-greek-authorities",
-      "published_date": "2026-07-29T21:05:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "🔴 Live: France battles new wildfire in south of France as Fontainebleau fire flares up again",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260729-live-massive-wildfire-in-southwest-france-remains-under-control",
-      "published_date": "2026-07-29T20:40:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Survey reveals rising optimism among African youth",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/survey-reveals-rising-optimism-among-african-youth",
-      "published_date": "2026-07-29T20:17:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
-      "published_date": "2026-07-29T18:30:27+00:00",
       "category": "Local Events"
     }
   ]
