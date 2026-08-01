@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-07-31T23:58:16.230611+00:00",
-  "story_count": 96,
+  "last_updated": "2026-08-01T11:59:11.898480+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+      "published_date": "2026-08-01T11:49:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T11:00:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU relations, climate crisis and Gaza: why Ed Miliband is fired up by Foreign Office challenges",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/01/eu-relations-climate-crisis-gaza-ed-miliband-foreign-office-challenges",
+      "published_date": "2026-08-01T07:00:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Influx of migrants to Ceuta gives Spain diplomatic headache",
       "source": "BBC News",
@@ -50,6 +71,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/it-took-me-two-hours-40-000-migrants-swim-from-morocco-into-spain-s-ceuta",
       "published_date": "2026-07-31T09:21:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and Italy tighten border controls over migrant crisis in Spain's Ceuta",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260731-eu-grapples-with-migrant-crisis-in-spain-s-north-african-enclave-ceuta",
+      "published_date": "2026-07-31T09:07:17+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pedro Sánchez says next 12 hours will be ‘decisive’ in battle to contain wildfires – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
-      "published_date": "2026-07-29T12:31:19+00:00",
-      "category": "Diplomacy"
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T11:52:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK looks to build naval coalition to secure shipping in Strait of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk-looks-to-build-naval-coalition-to-secure-shipping-in-strait-of-hormuz",
-      "published_date": "2026-07-29T10:41:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Wildfires are raging – and the world has junked 45 climate pledges. Disaster looms, and little wonder | Bill McGuire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/29/wildfires-rage-world-climate-action-scientists-fossil-fuels",
-      "published_date": "2026-07-29T09:00:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU condemns Iranian 'aggression' against French diplomats",
+      "title": "Burkina Faso added to human rights watchlist over crackdown on civil society",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260729-eu-condemns-iran-aggression-against-french-diplomats",
-      "published_date": "2026-07-29T06:06:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260801-burkina-faso-added-to-human-rights-watchlist-over-crackdown-on-civil-society",
+      "published_date": "2026-08-01T11:48:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv: 9 dead and 22 hurt in missile attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/kyiv-9-dead-and-22-hurt-in-missile-attack",
+      "published_date": "2026-08-01T11:19:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 9 dead, 28 wounded in Kyiv after Russian strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/at-least-9-dead-28-wounded-in-kyiv-after-russian-strikes",
+      "published_date": "2026-08-01T08:58:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘A symbol of resistance’: the fight to save treehouse built on no man’s land next to Berlin Wall",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/01/fight-to-save-treehouse-berlin-wall-germany",
+      "published_date": "2026-08-01T06:00:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian attack on Ukrainian capital kills at least nine people",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260801-russian-attack-on-ukrainian-capital-kills-at-least-nine-people",
+      "published_date": "2026-08-01T05:14:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The final hit: Is Glasgow’s 25-year gruesome gangland feud finally over?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/01/glasgow-25-year-gruesome-gangland-feud-finally-over",
+      "published_date": "2026-08-01T05:00:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Fears of wheat price surge amid Ukraine-Russia clashes in the Black Sea",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russian missiles interception rate in Ukraine dropped from 90% back in March to 70%, expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russian-missiles-interception-rate-in-ukraine-dropped-from-90-back-in-march-to-70-expert-says",
-      "published_date": "2026-07-30T19:58:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain sends extra troops and police to Ceuta after thousands of migrants arrive",
+      "title": "Lost income, energy fears and a woolly mammoth: what Europe’s dried-up rivers have yielded",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/30/thousands-enter-spanish-enclave-ceuta-morocco-africa",
-      "published_date": "2026-07-30T18:58:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "🔴 Spain deploys military as hundreds cross into Ceuta from Morocco",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260730-hundreds-of-migrants-enter-spain-north-african-territory-ceuta-from-morocco",
-      "published_date": "2026-07-30T18:46:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T17:55:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian missile destroys US firm’s Kyiv drone factory",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/30/us-firm-drone-factory-terminal-autonomy-ukraine-russia",
-      "published_date": "2026-07-30T17:40:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘It was a big shock’: new border rules left couple stuck in Kraków after living in UK for 80 years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
-      "published_date": "2026-07-30T16:59:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T15:20:19+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth",
+      "published_date": "2026-08-01T11:00:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "Strong El Nino 'adding fuel to a planet already on fire', warns UN chief",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "'Unprecedented but unsurprising': Climate change & lack of prevention behind wildfires, extreme heat",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/unprecedented-but-unsurprising-climate-change-lack-of-prevention-behind-wildfires-extreme-heat",
-      "published_date": "2026-07-27T18:13:32+00:00",
-      "category": "Energy"
+      "title": "No go for Infantino: How Fifa's World Cup private investment plan imploded",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260801-no-go-for-infantino-how-fifa-s-world-cup-private-investment-plan-imploded",
+      "published_date": "2026-08-01T11:41:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "French public hospital deficit at third highest level in 20 years, study shows",
@@ -536,6 +543,48 @@
       "category": "Economy"
     },
     {
+      "title": "France says Gironde ‘megafire’ is contained, as wildfires continue to burn in Greece and Spain – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
+      "published_date": "2026-08-01T11:53:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scores injured as earthquake hits near Naples in seismic swarm",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
+      "published_date": "2026-08-01T10:26:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Africa's top cocoa producers pledge fairer prices for farmers",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260801-africa-s-top-cocoa-producers-pledge-fairer-prices-for-farmers",
+      "published_date": "2026-08-01T10:13:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire-hit France region 'coming up for air' as main blaze calms",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260801/fire-hit-france-region-coming-up-for-air-as-main-blaze-calms",
+      "published_date": "2026-08-01T08:33:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We stared into an abyss’: the men and women battling France’s megafire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire",
+      "published_date": "2026-08-01T04:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Who could have done this?’ Mystery over Briton found dead in a suitcase in Athens",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/01/mystery-briton-found-dead-suitcase-athens",
+      "published_date": "2026-08-01T04:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Tens of thousands of migrants cross into Spanish enclave Ceuta from Morocco - video",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/video/2026/jul/31/migrants-ceuta-spain-morocco",
@@ -631,48 +680,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
       "published_date": "2026-07-31T11:49:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's southwest faces 'optimistic day' as half of evacuees return home",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-s-southwest-faces-optimistic-day-as-half-of-evacuees-return-home",
-      "published_date": "2026-07-31T09:31:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'First somewhat optimistic day' in south west France since outbreak of fire",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260731/first-somewhat-optimistic-day-in-south-west-france-since-outbreak-of-fire",
-      "published_date": "2026-07-31T07:07:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where you live could decide how well you breathe, French study finds",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260731-where-you-live-could-decide-how-well-you-breathe-french-study-finds-pollution-heatwave-environment",
-      "published_date": "2026-07-31T06:20:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After teargas, protests and legal strife, Turkey has a new opposition party. Is this the man who can defeat Erdoğan? | Kaya Genç",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/31/teargas-legal-strife-turkey-chp-opposition-split-new-party-oust-erdogan",
-      "published_date": "2026-07-31T04:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France, Spain eye respite from wildfires as other blazes break out in Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260730-france-spain-eye-respite-from-wildfires-as-other-blazes-break-out-in-europe",
-      "published_date": "2026-07-30T20:07:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French riot police used teargas on people trying to board small boat, charity claims",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
-      "published_date": "2026-07-30T19:20:16+00:00",
       "category": "Local Events"
     }
   ]
