@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-08-02T11:58:00.538263+00:00",
-  "story_count": 99,
+  "last_updated": "2026-08-02T23:55:11.405623+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "EU citizens in UK get letters telling them post-Brexit residency rights were given ‘in error’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/02/eu-citizens-uk-letters-post-brexit-residency-rights-given-in-error",
+      "published_date": "2026-08-02T12:42:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN chief proposes fresh talks to Cyprus leaders, aiming to end 'frozen conflict'",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260802-un-chief-proposes-fresh-talks-to-cyprus-leaders-aiming-to-end-frozen-conflict",
+      "published_date": "2026-08-02T12:12:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe to hold meeting Tuesday over Ceuta after migration flux",
       "source": "France 24",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Can an EU member state be kicked out of Schengen zone?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260731/can-an-eu-member-state-be-kicked-out-of-schengen-zone",
-      "published_date": "2026-07-31T13:18:33+00:00",
-      "category": "Diplomacy"
+      "title": "Why one American expert would be happy to see fewer US military bases in Europe",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260802-why-one-american-expert-would-be-happy-to-see-fewer-us-military-bases-in-europe",
+      "published_date": "2026-08-02T19:11:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "AI labels to be compulsory on authentic-looking content under EU rules",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
-      "published_date": "2026-07-31T11:21:20+00:00",
-      "category": "Diplomacy"
+      "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T17:53:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At the scene of deadly Moscow bomb blast",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T16:52:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 14 dead as Ukraine and Russia exchange strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260802-ukrainian-drone-strikes-kill-at-least-five-russia-set-another-wildberries-warehouse-ablaze",
+      "published_date": "2026-08-02T16:06:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T15:48:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Colombia police station bombed wounding 14 people",
@@ -249,45 +284,17 @@
       "category": "Military"
     },
     {
-      "title": "France Cricket implodes: letters hidden in a drawer and a board at war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260801-france-cricket-implodes-letters-hidden-in-a-drawer-and-a-board-at-war",
-      "published_date": "2026-08-01T10:55:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20260801-the-dartmouth-workshop-the-7-500-investment-that-gave-birth-to-ai-2-2",
-      "published_date": "2026-08-01T09:52:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI safety concerns grow as models go rogue",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260801-ai-safety-concerns-grow-as-models-go-rogue",
-      "published_date": "2026-08-01T09:10:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "West Bank: Settler violence hits \"all-time high\"",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/west-bank-settler-violence-hits-all-time-high",
-      "published_date": "2026-08-01T09:01:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump presses Israel to accept deal with Hamas",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/donald-trump-presses-israel-to-accept-deal-with-hamas",
-      "published_date": "2026-08-01T08:59:54+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Heatwaves to increase 'fivefold by 2050', warns French weather bureau chief",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/environment/20260802-heatwaves-to-increase-fivefold-by-2050-warns-french-weather-bureau-chief",
       "published_date": "2026-08-02T09:37:03+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Two killed after firefighting helicopters in Greece collide",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260802-fire-toll-mounts-in-greece-as-blazes-spread-amid-strong-winds",
+      "published_date": "2026-08-02T09:03:11+00:00",
       "category": "Energy"
     },
     {
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "'Climate change is really here: We should seize this crisis moment to create a new momentum'",
+      "title": "Trump says US backed Japanese Yen in rare currency intervention",
       "source": "France 24",
-      "url": "https://www.france24.com/en/climate-change-is-really-here-we-should-seize-this-crisis-moment-to-create-a-new-momentum",
-      "published_date": "2026-07-29T10:38:50+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/economy/20260802-trump-us-backed-japanese-yen-currency-intervention",
+      "published_date": "2026-08-02T23:19:13+00:00",
+      "category": "Economy"
     },
     {
       "title": "Capital One bank cites money-laundering probe to justify closing Trump Organization accounts",
@@ -543,18 +550,60 @@
       "category": "Economy"
     },
     {
-      "title": "How slavery money built the Élysée, France’s presidential residence",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260726-how-slavery-money-built-the-%C3%A9lys%C3%A9e-france-s-presidential-residence",
-      "published_date": "2026-07-26T16:50:53+00:00",
-      "category": "Economy"
+      "title": "Man arrested after Scottish woman found dead inside suitcase in Athens",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens",
+      "published_date": "2026-08-02T18:29:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trauma and taboos: how Portugal takes care of migrants' mental health",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260726-trauma-and-taboos-how-portugal-takes-care-of-migrants-mental-health",
-      "published_date": "2026-07-26T12:59:38+00:00",
-      "category": "Economy"
+      "title": "Smoke from industrial waste fire confines 30,000 indoors in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260802/smoke-from-industrial-waste-fire-confines-30000-indoors-in-france",
+      "published_date": "2026-08-02T17:49:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two helicopters collide outside Athens as Greece battles to control wildfires",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
+      "published_date": "2026-08-02T17:36:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire spread deeper into Athens region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/fire-spread-deeper-into-athens-region",
+      "published_date": "2026-08-02T15:12:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France steps up fire prevention",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260802-france-steps-up-fire-prevention",
+      "published_date": "2026-08-02T14:25:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gironde megafire contained: Nearly 3,000 firefighters remain deployed",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/gironde-megafire-contained-nearly-3-000-firefighters-remain-deployed",
+      "published_date": "2026-08-02T14:21:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain's Ceuta navigates aftermath of border surge as most migrants return home",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260802-spain-ceuta-navigates-aftermath-border-surge-after-most-migrants-return-morocco",
+      "published_date": "2026-08-02T13:04:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+      "published_date": "2026-08-02T12:25:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
@@ -589,6 +638,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/aug/02/climate-change-kills-pedro-sanchez-speaks-plain-truth-to-spains-deniers",
       "published_date": "2026-08-02T04:00:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T23:03:35+00:00",
       "category": "Local Events"
     },
     {
@@ -631,69 +687,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/african-union-mission-in-somalia-in-question-after-us-funding-to-end",
       "published_date": "2026-08-01T11:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scores injured as earthquake hits near Naples in seismic swarm",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
-      "published_date": "2026-08-01T10:26:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Africa's top cocoa producers pledge fairer prices for farmers",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260801-africa-s-top-cocoa-producers-pledge-fairer-prices-for-farmers",
-      "published_date": "2026-08-01T10:13:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's fires are 'today under control', says PM Lecornu",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260801-french-firefighters-stop-wildfires-spread-but-they-continue-burn",
-      "published_date": "2026-08-01T09:58:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire-hit France region 'coming up for air' as main blaze calms",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260801/fire-hit-france-region-coming-up-for-air-as-main-blaze-calms",
-      "published_date": "2026-08-01T08:33:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We stared into an abyss’: the men and women battling France’s megafire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire",
-      "published_date": "2026-08-01T04:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Who could have done this?’ Mystery over Briton found dead in a suitcase in Athens",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/01/mystery-briton-found-dead-suitcase-athens",
-      "published_date": "2026-08-01T04:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of thousands of migrants cross into Spanish enclave Ceuta from Morocco - video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jul/31/migrants-ceuta-spain-morocco",
-      "published_date": "2026-07-31T21:14:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French national's spying conviction upheld by Azerbaijan court",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260731-french-national-s-spying-conviction-upheld-by-azerbaijan-court",
-      "published_date": "2026-07-31T20:39:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In flood-prone Malawi, bananas become a shield against erosion",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260731-in-flood-prone-malawi-bananas-become-a-shield-against-erosion",
-      "published_date": "2026-07-31T20:29:18+00:00",
       "category": "Local Events"
     }
   ]
