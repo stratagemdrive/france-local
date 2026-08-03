@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-08-02T23:55:11.405623+00:00",
-  "story_count": 98,
+  "last_updated": "2026-08-03T13:36:17.745010+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "South-eastern Europe faces heatwave energy crunch as Romania detonates Danube rock to increase water flow – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates",
+      "published_date": "2026-08-03T13:29:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU chief urges 'united action' on borders after Spain's Ceuta migrant rush",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260803/eu-chief-urges-united-action-on-borders-after-spains-ceuta-migrant-rush",
+      "published_date": "2026-08-03T13:09:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba could collapse. Here’s what Trump wants.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/cuba-could-collapse-what-s-trump-s-plan-for-the-island",
+      "published_date": "2026-08-03T10:37:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU ministers set to meet over migrant crossings in Ceuta",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260803-eu-ministers-set-to-meet-over-migrant-crossings-in-ceuta",
+      "published_date": "2026-08-03T06:16:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump’s hypocritical new tariffs are a chance for the world to fight back | Joseph Stiglitz",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour",
+      "published_date": "2026-08-03T06:00:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU citizens in UK get letters telling them post-Brexit residency rights were given ‘in error’",
       "source": "The Guardian",
@@ -109,39 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ceuta: Most migrants have returned to Morocco, 57 died crossing the border",
+      "title": "Hard-right Reform UK proposes navy-led operation to stop small migrant boats",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260801-ceuta-most-migrants-have-returned-to-morocco-57-died-crossing-the-border-1",
-      "published_date": "2026-08-01T09:04:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260803-hard-right-reform-uk-proposes-navy-led-operation-to-stop-small-migrant-boats",
+      "published_date": "2026-08-03T13:29:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ceuta: What triggered mass migrant crossing?",
+      "title": "After Donald Trump's latest U-turn, uncertainty remains over talks with Iran",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260801-ceuta-what-triggered-mass-migrant-crossing-1",
-      "published_date": "2026-08-01T09:03:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/after-donald-trump-s-latest-u-turn-uncertainty-remains-over-talks-with-iran",
+      "published_date": "2026-08-03T13:19:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU relations, climate crisis and Gaza: why Ed Miliband is fired up by Foreign Office challenges",
+      "title": "Hundreds flee Ethiopia to war-torn Sudan following new fighting in Tigray",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260803-hundreds-flee-ethiopia-to-war-torn-sudan-following-new-fighting-in-tigray",
+      "published_date": "2026-08-03T12:01:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia blames Ukraine for deadly restaurant bombing in Moscow",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/01/eu-relations-climate-crisis-gaza-ed-miliband-foreign-office-challenges",
-      "published_date": "2026-08-01T07:00:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing",
+      "published_date": "2026-08-03T10:27:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Influx of migrants to Ceuta gives Spain diplomatic headache",
+      "title": "Sudan army's drone attack on court kills 35 in Darfur: NGO",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260803-sudan-army-s-drone-attack-on-court-kills-35-in-darfur-ngo",
+      "published_date": "2026-08-03T09:56:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Israel agree to pause further strikes on Iran after weeks of violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260803-us-israel-agree-to-pause-further-strikes-on-iran-after-weeks-of-violence",
+      "published_date": "2026-08-03T09:20:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Atlas of Disappearance review – forensic quest for thousands of forgotten victims of the Spanish civil war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/aug/03/atlas-of-disappearance-review-forensic-quest-for-families-robbed-of-graves-by-franco",
+      "published_date": "2026-08-03T06:00:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/aug/03/the-august-coup-by-robert-service-review-the-drink-soaked-collapse-of-the-soviet-union",
+      "published_date": "2026-08-03T06:00:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Steve Rosenberg at the Moscow restaurant where bomb killed three",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k49p7enjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T19:17:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-      "published_date": "2026-07-31T17:52:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-03T03:53:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Why one American expert would be happy to see fewer US military bases in Europe",
@@ -221,67 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Strikes on three Russian oil refineries and sanctioned ship",
+      "title": "Amid a drought and soaring temperatures, Hungary shuts down its nuclear plant",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/amid-a-drought-and-soaring-temperatures-hungary-shuts-down-its-nuclear-plant",
+      "published_date": "2026-08-03T12:34:47+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Romanian navy blows up rock in Danube to redirect water to nuclear plant – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/02/ukraine-war-briefing-strikes-on-three-russian-oil-refineries-and-sanctioned-ship",
-      "published_date": "2026-08-02T01:54:19+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/video/2026/aug/03/romanian-navy-blows-up-rock-danube-redirect-water-nuclear-plant-video",
+      "published_date": "2026-08-03T10:31:57+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Moscow restaurant bombing kills three people as device carried by woman explodes",
+      "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
-      "published_date": "2026-08-02T00:22:48+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
+      "published_date": "2026-08-03T08:16:38+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T21:13:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes on residential buildings kill nine in Gaza",
+      "title": "Cuba plunges into darkness as state energy firm reports new nationwide blackout",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260801-israeli-strikes-kill-eight-overnight-despite-hopes-for-a-deal",
-      "published_date": "2026-08-01T18:57:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian forces strike targets in Ukraine's Odesa, Mykolaiv ports",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260801-russian-forces-strike-targets-ukraine-odesa-mykolaiv-ports",
-      "published_date": "2026-08-01T15:53:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T11:52:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Africa: Fighting erupts in Ethiopia's Tigray",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa-fighting-erupts-in-ethiopia-s-tigray",
-      "published_date": "2026-08-01T11:52:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burkina Faso added to human rights watchlist over crackdown on civil society",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260801-burkina-faso-added-to-human-rights-watchlist-over-crackdown-on-civil-society",
-      "published_date": "2026-08-01T11:48:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv: 9 dead and 22 hurt in missile attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/kyiv-9-dead-and-22-hurt-in-missile-attack",
-      "published_date": "2026-08-01T11:19:43+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/americas/20260803-cuba-plunges-into-darkness-as-state-energy-firm-reports-new-nationwide-blackout",
+      "published_date": "2026-08-03T04:19:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "Heatwaves to increase 'fivefold by 2050', warns French weather bureau chief",
@@ -396,32 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Embattled German chancellor chooses papal pageturner for his beach read",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/30/german-chancellor-friedrich-merz-chooses-pope-leo-encyclical-for-beach-read",
-      "published_date": "2026-07-30T12:04:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "PODCAST 🎧: France ravaged by climate crisis as wildfires and drought blight summer",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260729/podcast-france-ravaged-by-climate-crisis-as-wildfires-and-drought-blight-summer",
-      "published_date": "2026-07-29T17:39:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "'Rethink the forest' amid unprecedented wildfires: Return to 'ancestral ways of managing the land'?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/rethink-the-forest-amid-unprecedented-wildfires-return-to-ancestral-ways-of-managing-the-land",
-      "published_date": "2026-07-29T15:07:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "A ​decade on the Iberian ​frontline​ has shown me that Europe’s ​climate ​emergency​ is ​impossible to ​deny",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/29/a-decade-on-the-iberian-frontline-has-shown-me-that-europes-climate-emergency-is-impossible-to-deny",
-      "published_date": "2026-07-29T14:35:35+00:00",
-      "category": "Energy"
+      "title": "France tightens checks on foreign investment amid concerns over national security",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260803-france-tightens-checks-on-foreign-investment-amid-concerns-over-national-security",
+      "published_date": "2026-08-03T07:23:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump says US backed Japanese Yen in rare currency intervention",
@@ -550,6 +557,118 @@
       "category": "Economy"
     },
     {
+      "title": "Deadly helicopter crash in Greece exposes growing danger of Europe’s wildfires",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260803-deadly-helicopter-crash-in-greece-exposes-growing-danger-of-europe-s-wildfires",
+      "published_date": "2026-08-03T13:16:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greece battles wildfires – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/gallery/2026/aug/03/greece-battles-wildfires-in-pictures",
+      "published_date": "2026-08-03T12:43:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ceuta migrant crisis:  Far-right govts 'ridiculously using these images' to stoke fear for votes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ceuta-migrant-crisis-far-right-govts-ridiculously-using-these-images-to-stoke-fear-for-votes",
+      "published_date": "2026-08-03T12:20:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ceuta: Parents gather at Moroccan border, desperate for news of their children",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260803-ceuta-parents-gather-at-moroccan-border-desperate-for-news-of-their-children",
+      "published_date": "2026-08-03T11:19:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court rejects pro-Kremlin commentator's deportation appeal",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260803-french-court-rejects-pro-kremlin-commentator-s-deportation-appeal",
+      "published_date": "2026-08-03T11:09:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Spain expects solidarity' as it grapples with aftermath of Ceuta migration surge",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260803-spain-expects-solidarity-as-it-grapples-with-aftermath-of-ceuta-migration-surge",
+      "published_date": "2026-08-03T10:51:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After the fires, France's touristy southwest reckons with their economic fallout",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/after-the-fires-france-s-southwest-reckons-with-their-economic-fallout",
+      "published_date": "2026-08-03T10:24:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court rejects pro-Kremlin commentator's expulsion appeal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260803-french-court-rejects-pro-kremlin-commentator-expulsion-appeal",
+      "published_date": "2026-08-03T10:05:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "€190 fare: How fake taxi drivers target tourists at Paris airport",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260803/e190-fare-how-fake-taxi-drivers-target-tourists-at-paris-airport",
+      "published_date": "2026-08-03T09:41:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Virulent wildfires raze entire neighbourhoods in Washington state",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/virulent-wildfires-raze-entire-neighbourhoods-in-washington-state",
+      "published_date": "2026-08-03T09:36:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As Ceuta returns to normal, far right vilifies Spain's immigration policy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/as-ceuta-returns-to-normal-far-right-vilifies-spain-s-immigration-policy",
+      "published_date": "2026-08-03T08:39:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Pure political theatre': Ceuta migrant crisis 'used politically' to portray Europe as under attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260803-pure-political-theatre-ceuta-migrant-crisis-used-politically-to-make-europe-seem-under-attack-1",
+      "published_date": "2026-08-03T08:37:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia's online retailer Wildberries says warehouse on fire after Ukrainian drone attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260803-russia-online-retailer-wildberries-says-warehouse-on-fire-after-ukrainian-drone-attack",
+      "published_date": "2026-08-03T06:38:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Morocco blames Ceuta migrant rush on 'misleading information' on social media",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260803-morocco-blames-ceuta-migrant-rush-on-misleading-information-on-social-media",
+      "published_date": "2026-08-03T05:56:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fast moving wildfires raze neighborhoods in US northwest city of Spokane",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260803-wildfires-us-northwest-city-spokane",
+      "published_date": "2026-08-03T02:54:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sudan army drone strike kills 35 at Darfur court, rights group says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260803-sudan-darfur-drone-army-kill",
+      "published_date": "2026-08-03T01:30:16+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Man arrested after Scottish woman found dead inside suitcase in Athens",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens",
@@ -575,118 +694,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/fire-spread-deeper-into-athens-region",
       "published_date": "2026-08-02T15:12:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France steps up fire prevention",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260802-france-steps-up-fire-prevention",
-      "published_date": "2026-08-02T14:25:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gironde megafire contained: Nearly 3,000 firefighters remain deployed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/gironde-megafire-contained-nearly-3-000-firefighters-remain-deployed",
-      "published_date": "2026-08-02T14:21:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain's Ceuta navigates aftermath of border surge as most migrants return home",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260802-spain-ceuta-navigates-aftermath-border-surge-after-most-migrants-return-morocco",
-      "published_date": "2026-08-02T13:04:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
-      "published_date": "2026-08-02T12:25:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-02T10:32:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week in pictures: European wildfires, a woolly mammoth and a migrant influx at Spain's Ceuta",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260802-the-week-in-pictures-european-wildfires-a-woolly-mammoth-and-a-migrant-influx-at-spain-s-ceuta",
-      "published_date": "2026-08-02T10:16:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Most of 224,000 evacuees allowed to return home after devastating fires",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-most-of-224-000-evacuees-allowed-to-return-home-after-devastating-fires",
-      "published_date": "2026-08-02T08:46:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least three killed in Moscow restaurant 'terrorist' bombing, Russian officials say",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260802-at-least-three-killed-in-moscow-restaurant-bombing-russian-officials-say",
-      "published_date": "2026-08-02T05:46:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Climate change kills’: Pedro Sánchez speaks plain truth to Spain’s deniers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/02/climate-change-kills-pedro-sanchez-speaks-plain-truth-to-spains-deniers",
-      "published_date": "2026-08-02T04:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T23:03:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crowds line Amsterdam's canals for Pride boat parade",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T19:39:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wiebes wins Tour de France Femmes opener to win first yellow jersey",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260801-wiebes-wins-tour-de-france-femmes-opener-to-win-first-yellow-jersey",
-      "published_date": "2026-08-01T16:32:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rockfall hits Italian city after earthquake in Naples – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/01/rockfall-hits-italian-city-after-earthquake-in-naples-video",
-      "published_date": "2026-08-01T16:21:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister says France's largest wildfire in decades 'under control'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260801/minister-says-frances-largest-wildfire-in-decades-under-control",
-      "published_date": "2026-08-01T14:25:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France says Gironde ‘megafire’ is contained, as wildfires continue to burn in Greece and Spain – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
-      "published_date": "2026-08-01T11:53:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "African Union mission in Somalia in question after US funding to end",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/african-union-mission-in-somalia-in-question-after-us-funding-to-end",
-      "published_date": "2026-08-01T11:23:00+00:00",
       "category": "Local Events"
     }
   ]
