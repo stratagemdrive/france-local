@@ -1,13 +1,27 @@
 {
   "country": "France",
-  "last_updated": "2026-08-04T23:59:07.914967+00:00",
-  "story_count": 100,
+  "last_updated": "2026-08-05T12:49:00.179948+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Video game maker EA bought by Saudi-led group for $55bn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/games/2026/aug/05/video-game-maker-ea-bought-by-saudi-led-group",
+      "published_date": "2026-08-05T06:34:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "MI6 is top European foreign intelligence service, peer review finds",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
       "published_date": "2026-08-04T22:40:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-04T21:45:20+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cuba could collapse. Here’s what Trump wants.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/cuba-could-collapse-what-s-trump-s-plan-for-the-island",
-      "published_date": "2026-08-03T10:37:19+00:00",
-      "category": "Diplomacy"
+      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-05T12:26:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU ministers set to meet over migrant crossings in Ceuta",
+      "title": "Head of drone manufacturer critically injured in car bomb in Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
+      "published_date": "2026-08-05T12:10:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone hits street vendor in Kherson, Zelensky denounces ‘safari’ attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russian-drone-hits-street-vendor-in-kherson-zelensky-denounces-safari-attack",
+      "published_date": "2026-08-05T10:51:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Terrifying': deadly Russian attack on Kyiv overwhelms Ukraine's air defence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260805-terrifying-deadly-russian-attack-on-kyiv-overwhelms-ukraine-s-air-defence",
+      "published_date": "2026-08-05T10:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy calls for more air defences as Russian attack on Kyiv kills at least 17",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
+      "published_date": "2026-08-05T10:09:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian capital lit up by massive overnight Russian strikes, killing 17",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukrainian-capital-lit-up-by-massive-overnight-russian-strikes-killing-17",
+      "published_date": "2026-08-05T09:51:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France announces further investment to combat drug trafficking in Guiana",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260803-eu-ministers-set-to-meet-over-migrant-crossings-in-ceuta",
-      "published_date": "2026-08-03T06:16:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260805-france-announces-further-investment-to-combat-drug-trafficking-in-guiana",
+      "published_date": "2026-08-05T08:54:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kremlin critic leaves Moscow for Paris after ban from running for election",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260805-kremlin-critic-leaves-moscow-for-paris-after-ban-from-running-for-election",
+      "published_date": "2026-08-05T06:06:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine live: Zelensky says interceptors 'could have saved lives' after 17 die in missile barrage",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260805-ukraine-live-russian-strikes-kill-at-least-15-in-kyiv-and-surrounding-region",
+      "published_date": "2026-08-05T05:24:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russian soldier in Crimea shoots comrades and civilians",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians",
+      "published_date": "2026-08-05T04:29:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian barrage on Kyiv region kills at least 17",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260805-russian-barrage-on-kyiv-region-kills-17-as-ukraine-fails-to-down-single-missile",
+      "published_date": "2026-08-05T02:11:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel-Lebanon negotiations 'stalling': 'Situation on ground far from spirit of framework agreement'",
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-04T09:23:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ghana bets on AI and coding in bid to modernise national curriculum",
+      "title": "Nigeria approves $4.5bn refinancing of state-owned oil company",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260804-ghana-bets-on-ai-and-coding-to-modernise-basic-education-africa-technology",
-      "published_date": "2026-08-04T09:01:49+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/africa/20260805-nigeria-approves-4-5bn-refinancing-of-state-owned-oil-company",
+      "published_date": "2026-08-05T12:20:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russian civilians killed in Crimea as Ukraine war takes its toll on Black Sea shores",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260804-at-least-9-russian-civilians-killed-as-ukraine-war-takes-its-toll-on-black-sea-shores",
-      "published_date": "2026-08-04T08:53:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "With Russia at the door and the US backing away, Europe has to build its own ‘way of war’",
+      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/with-russia-at-the-door-and-the-us-backing-away-europe-has-to-build-its-own-way-of-war",
-      "published_date": "2026-08-04T04:00:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US-Iran talks continue, warns Tehran faces 'last chance'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260803-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance",
-      "published_date": "2026-08-03T22:57:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/03/anti-war-politician-flees-russia-pre-election-crackdown-dissent-boris-nadezhdin",
-      "published_date": "2026-08-03T15:49:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French wildfires expose buried WWII shells",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260803-french-wildfires-expose-buried-wwii-shells-gironde-bordeaux",
-      "published_date": "2026-08-03T15:04:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Myanmar: Ousted leader Suu Kyi makes rare appearance with Red Cross representative",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260803-myanmar-ousted-leader-suu-kyi-makes-rare-appearance-with-red-cross-representative",
-      "published_date": "2026-08-03T14:56:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anti-war politician and Kremlin critic Boris Nadezhdin flees Russia for France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260803-anti-war-politician-and-kremlin-critic-boris-nadezhdin-flees-russia-for-france",
-      "published_date": "2026-08-03T14:47:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran 'calls Trump's bluff' as it denies negotiating with the US",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-calls-trump-s-bluff-as-it-denies-negotiating-with-the-us",
-      "published_date": "2026-08-03T14:44:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hard-right Reform UK proposes navy-led operation to stop small migrant boats",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260803-hard-right-reform-uk-proposes-navy-led-operation-to-stop-small-migrant-boats",
-      "published_date": "2026-08-03T13:29:32+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
+      "published_date": "2026-08-05T05:54:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pasta of the future: Italy tests climate-resistant wheat",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "BP puts North Sea oil and gas business up for sale",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/31/bp-north-sea-oil-and-gas-business-up-for-sale",
-      "published_date": "2026-07-31T12:26:23+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Rescue operation underway in Pakistan after coal mine collapses",
+      "title": "The era of the machine: Silicon Valley shows off humanoid robots",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260731-rescue-operation-underway-in-pakistan-after-coal-mine-collapses",
-      "published_date": "2026-07-31T09:47:39+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/the-era-of-the-machine-silicon-valley-shows-off-humanoid-robots",
+      "published_date": "2026-08-05T10:48:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "Top Fifa executive Wenger condemns move to reform World Cup business plan",
@@ -550,18 +557,60 @@
       "category": "Economy"
     },
     {
-      "title": "FIFA private investor plans spark backlash, UEFA fury",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260729-fifa-private-investor-plans-spark-backlash-uefa-fury",
-      "published_date": "2026-07-29T12:43:40+00:00",
-      "category": "Economy"
+      "title": "France welcomes Algeria’s arrest of alleged DZ Mafia crime boss",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260805-france-welcomes-algeria-s-arrest-of-alleged-dz-mafia-crime-boss",
+      "published_date": "2026-08-05T12:14:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "BMW to cut ‘as many as 8,000 jobs’ under pressure from Chinese rivals",
+      "title": "Film casting call for Americans in Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260805/film-casting-call-for-americans-in-paris",
+      "published_date": "2026-08-05T11:58:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drone found at German airport after cargo plane collides with object mid-air",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals",
-      "published_date": "2026-07-29T12:02:20+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
+      "published_date": "2026-08-05T11:37:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metro, RER and trams: summer 2026 public transport closures in Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260805/metro-rer-and-trams-summer-2026-public-transport-closures-in-paris",
+      "published_date": "2026-08-05T10:06:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Factcheck: Will this year's French wines really taste smokey?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260805/factcheck-will-this-years-french-wines-really-taste-smokey",
+      "published_date": "2026-08-05T09:58:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French airline staff file month-long strike notice",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260805/french-airline-staff-file-month-long-strike-notice",
+      "published_date": "2026-08-05T07:08:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds camp in Rome heatwave as Meloni government cracks down on squats",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/hundreds-camp-in-rome-heatwave-as-meloni-government-cracks-down-on-squats",
+      "published_date": "2026-08-05T04:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Europe’s rivers are running dry, and the knock-on effects are disastrous | Yiannis Baboulias",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/europe-rivers-running-dry-catastrophe-danube-rhine",
+      "published_date": "2026-08-05T04:00:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
@@ -645,62 +694,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/greece-s-wildfires-claim-lives-as-firefighters-struggle-to-contain-flames",
       "published_date": "2026-08-04T09:23:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arson suspected in devastating US wildfire that forced 60,000 to evacuate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/arson-suspected-in-devastating-us-wildfire-that-forced-60-000-to-evacuate",
-      "published_date": "2026-08-04T09:12:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Israel reduced Iran’s historic Rafi-Nia synagogue to rubble (1/2)",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260804-how-israel-reduced-iran-historic-rafi-nia-synagogue-rubble-1-2",
-      "published_date": "2026-08-04T09:09:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK plastic ‘waste colonialism’ found to be polluting Turkey’s farming heartland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
-      "published_date": "2026-08-04T09:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ceuta was a carnival of anti-migrant content for hateful opportunists on the right – and a lesson for the left | Jonathan Liew",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/ceuta-carnival-anti-migrant-content-opportunists-on-right-lesson-for-left",
-      "published_date": "2026-08-04T08:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian firefighters join battle against France fire",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260804/ukrainian-firefighters-join-battle-against-france-fire",
-      "published_date": "2026-08-04T06:45:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WWII shells surface in wildfire-ravaged French village",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260804/wwii-shells-surface-in-wildfire-ravaged-french-village",
-      "published_date": "2026-08-04T06:18:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Summer Book review – Glenn Close powers sweet-natured take on Tove Jansson’s grief classic",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/04/the-summer-book-review-glenn-close-powers-sweet-natured-take-on-tove-janssons-kids-classic",
-      "published_date": "2026-08-04T06:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian drone strikes on Russia kill at least six, spark fire at Wildberries warehouses",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260804-ukrainian-drone-strikes-on-russia-kill-at-least-six-spark-fire-at-wildberries-warehouses",
-      "published_date": "2026-08-04T05:51:16+00:00",
       "category": "Local Events"
     }
   ]
