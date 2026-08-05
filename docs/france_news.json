@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-08-05T12:49:00.179948+00:00",
-  "story_count": 99,
+  "last_updated": "2026-08-05T23:56:46.732583+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Jordan warns status quo in Jerusalem 'under threat' as ministers meet in Amman",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260805-jordan-warns-status-quo-in-jerusalem-under-threat-as-ministers-meet-in-amman",
+      "published_date": "2026-08-05T15:07:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Spain’s EU allies turned on Pedro Sanchez over Ceuta: the hard right now sets their agenda on migration",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/the-events-at-ceuta-show-how-europes-hard-right-now-set-the-tone-on-immigration",
+      "published_date": "2026-08-05T14:30:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Theme park or political park: Did France's 'Puy du Fou' break Russian sanctions?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260805-theme-park-or-political-park-did-france-s-puy-du-fou-break-russian-sanctions",
+      "published_date": "2026-08-05T13:30:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Video game maker EA bought by Saudi-led group for $55bn",
       "source": "The Guardian",
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU calls for 'united action' on border protection after Ceuta mass crossing",
+      "title": "'Escalatory spiral of attrition: Drone technology allowing Ukraine to resist Russia asymmetrically'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/eu-calls-for-united-action-on-border-protection-after-ceuta-mass-crossing",
-      "published_date": "2026-08-03T15:18:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/escalatory-spiral-of-attrition-drone-technology-allowing-ukraine-to-resist-russia-asymmetrically",
+      "published_date": "2026-08-05T20:30:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "South-eastern Europe faces heatwave energy crunch as Romania detonates Danube rock to increase water flow – Europe live",
+      "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-05T19:00:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why has Ukraine's former military chief given up on NATO membership?",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260805-why-has-ukraine-s-former-military-chief-given-up-on-nato-membership",
+      "published_date": "2026-08-05T18:54:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-05T18:19:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Leipzig drone bomb marks a dangerous escalation for Europe",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates",
-      "published_date": "2026-08-03T13:29:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
+      "published_date": "2026-08-05T17:32:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU chief urges 'united action' on borders after Spain's Ceuta migrant rush",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260803/eu-chief-urges-united-action-on-borders-after-spains-ceuta-migrant-rush",
-      "published_date": "2026-08-03T13:09:23+00:00",
-      "category": "Diplomacy"
+      "title": "The Guardian view on French cinema’s De Gaulle moment: present anxieties inform a new focus on the past | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/the-guardian-view-on-french-cinemas-de-gaulle-moment-present-anxieties-inform-a-new-focus-on-the-past",
+      "published_date": "2026-08-05T17:16:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Game of drones: inside the 7 August Guardian Weekly",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/aug/05/game-of-drones-inside-the-7-august-guardian-weekly",
+      "published_date": "2026-08-05T17:00:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia exploits Ukraine’s air defence shortage in deadly attack on Kyiv - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/05/russia-ukraine-air-defence-shortage-the-latest-podcast",
+      "published_date": "2026-08-05T15:45:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel resumes military strikes on southern Lebanon as Rome hosts peace talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260805-israel-resumes-military-strikes-on-southern-lebanon-as-rome-hosts-peace-talks",
+      "published_date": "2026-08-05T15:20:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu pushes back against Gaza deal, saying will not withdraw from enclave",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/netanyahu-pushes-back-against-gaza-deal-saying-will-not-withdraw-from-enclave",
+      "published_date": "2026-08-05T13:41:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
@@ -155,6 +225,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
       "published_date": "2026-08-05T12:10:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone with explosive device found near Ukrainian cargo plane at German airport",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260805-alarm-at-german-airport-after-drone-found-near-ukrainian-plane-mid-air-incident",
+      "published_date": "2026-08-05T11:13:16+00:00",
       "category": "Military"
     },
     {
@@ -207,87 +284,24 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Russian soldier in Crimea shoots comrades and civilians",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians",
-      "published_date": "2026-08-05T04:29:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian barrage on Kyiv region kills at least 17",
+      "title": "How to enjoy the most complete solar eclipse since 1989?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260805-russian-barrage-on-kyiv-region-kills-17-as-ukraine-fails-to-down-single-missile",
-      "published_date": "2026-08-05T02:11:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel-Lebanon negotiations 'stalling': 'Situation on ground far from spirit of framework agreement'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260804-israel-lebanon-negotiations-stalling-situation-on-ground-far-from-spirit-of-framework-agreement",
-      "published_date": "2026-08-04T17:29:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-04T17:26:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Drone follows man before detonating and injuring him",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260804-ukraine-drone-follows-man-before-detonating-and-injuring-him",
-      "published_date": "2026-08-04T16:40:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'World's largest humanitarian crisis Thirty five million Sudanese need humanitarian assistance'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/world-s-largest-humanitarian-crisis-thirty-five-million-sudanese-need-humanitarian-assistance",
-      "published_date": "2026-08-04T16:14:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ugandan military honours Netanyahu’s brother with Entebbe memorial statue",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260804-ugandan-military-honours-netanyahu-s-brother-with-entebbe-memorial-statue",
-      "published_date": "2026-08-04T15:29:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Togo has become a new entry point for weapons sent by Russia to Mali",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260804-togo-entry-point-weapons-russia-mali",
-      "published_date": "2026-08-04T15:15:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah rejects fresh round of talks between Lebanon and Israel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/hezbollah-rejects-fresh-round-of-talks-between-lebanon-and-israel",
-      "published_date": "2026-08-04T14:33:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who are the migrants that remain in Spain's Ceuta?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/who-are-the-immigrants-that-remain-in-spain-s-ceuta",
-      "published_date": "2026-08-04T10:00:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopians flee to neighbouring Sudan after renewed conflict in Tigray",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260804-ethiopians-flee-to-neighbouring-sudan-after-renewed-conflict-in-tigray",
-      "published_date": "2026-08-04T09:54:20+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/how-to-enjoy-the-most-complete-solar-eclipse-since-1989",
+      "published_date": "2026-08-05T15:23:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Nigeria approves $4.5bn refinancing of state-owned oil company",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20260805-nigeria-approves-4-5bn-refinancing-of-state-owned-oil-company",
       "published_date": "2026-08-05T12:20:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Guatemala volcano eruption forces hundreds to flee ash, gas and lava",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/guatemala-volcano-eruption-forces-hundreds-to-flee-ash-gas-and-lava",
+      "published_date": "2026-08-05T10:20:57+00:00",
       "category": "Energy"
     },
     {
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Strong El Nino 'adding fuel to a planet already on fire', warns UN chief",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260731-strong-el-nino-adding-fuel-to-a-planet-already-on-fire-warns-un-chief",
-      "published_date": "2026-07-31T16:41:11+00:00",
-      "category": "Energy"
+      "title": "Infantino sorry for errors but stays Fifa president",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-05T21:37:08+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Heatwave pushes energy-hungry Tunisia to enforce rolling blackouts",
+      "title": "Ex-French PM Attal targeted by Russian 'interference' ahead of 2027 vote",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260805-ex-french-pm-attal-targeted-by-russian-interference-ahead-of-2027-vote",
+      "published_date": "2026-08-05T18:55:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Leftist El-Sayed narrowly wins high-profile Michigan Democratic Senate primary",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260731-heatwave-forces-energy-hungry-tunisia-to-enforce-rolling-blackouts",
-      "published_date": "2026-07-31T14:30:22+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/americas/20260805-democrat-el-sayed-narrowly-wins-high-profile-michigan-us-senate-primary",
+      "published_date": "2026-08-05T14:21:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "The era of the machine: Silicon Valley shows off humanoid robots",
@@ -543,18 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Uefa to boycott World Cups if Fifa plans approved",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T16:47:40+00:00",
-      "category": "Economy"
+      "title": "Iran president says contact with supreme leader is 'very difficult'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260805-iran-president-says-contact-with-supreme-leader-is-very-difficult",
+      "published_date": "2026-08-05T20:19:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FIFA hit by furious backlash over plans to sell stake in competitions",
+      "title": "Drone carrying explosives found at German airport, police say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-05T20:01:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Frenchmen receive suspended jail sentences after livestreamer's death",
       "source": "France 24",
-      "url": "https://www.france24.com/en/fifa-hit-by-furious-backlash-over-plans-to-sell-stake-in-competitions",
-      "published_date": "2026-07-29T20:45:26+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20260805-french-men-receive-suspended-jail-sentences-after-livestreamer-s-death",
+      "published_date": "2026-08-05T19:56:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman arrested after four stabbed in London's popular Covent Garden",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260805-woman-arrested-after-four-stabbed-in-london-s-popular-covent-garden",
+      "published_date": "2026-08-05T14:37:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ile-de-France region files suit for compensation over Fontainebleau forest fire",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260805-ile-de-france-region-files-suit-for-compensation-over-fontainebleau-forest-fire",
+      "published_date": "2026-08-05T13:36:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France welcomes Algeria’s arrest of alleged DZ Mafia crime boss",
@@ -575,6 +617,20 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
       "published_date": "2026-08-05T11:37:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ceuta appeals for aid as child migrant crisis becomes 'unsustainable'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260805-ceuta-warns-of-unsustainable-situation-for-child-migrants-after-influx",
+      "published_date": "2026-08-05T10:45:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tibet fears erosion of cultural identity under new Chinese Ethnic Unity Law",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260805-tibet-fears-erosion-of-cultural-identity-under-new-chinese-ethnic-unity-law",
+      "published_date": "2026-08-05T10:19:34+00:00",
       "category": "Local Events"
     },
     {
@@ -645,55 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260804/what-we-know-so-far-about-frances-2030-winter-olympics-and-paralympics",
       "published_date": "2026-08-04T13:44:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-04T11:19:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahead of the midterms, Democrats face reckoning in Michigan primary",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ahead-of-the-midterms-democrats-face-reckoning-in-michigan-primary",
-      "published_date": "2026-08-04T10:54:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As blaze abates, tourists and locals slowly returns to France's Cap Ferret",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/as-blaze-abates-tourists-and-locals-slowly-returns-to-france-s-cap-ferret",
-      "published_date": "2026-08-04T10:25:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigerian judge kidnapped from his home by unknown gunmen has been freed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260804-nigerian-judge-kidnapped-from-his-home-by-unknown-gunmen-has-been-freed",
-      "published_date": "2026-08-04T10:21:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "157 migrants rescued after boat catches fire during Channel crossing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260804-157-migrants-rescued-after-boat-catches-fire-during-channel-crossing",
-      "published_date": "2026-08-04T10:20:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "We launched a war on nature. Now we are in a climate warzone | Rebecca Solnit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/04/summer-heat-climate-war-zone",
-      "published_date": "2026-08-04T10:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greece's wildfires claim lives as firefighters struggle to contain flames",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/greece-s-wildfires-claim-lives-as-firefighters-struggle-to-contain-flames",
-      "published_date": "2026-08-04T09:23:30+00:00",
       "category": "Local Events"
     }
   ]
