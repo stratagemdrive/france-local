@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-08-05T23:56:46.732583+00:00",
+  "last_updated": "2026-08-06T12:53:14.158370+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Lithuania warns Russia could be considering possible ‘false flag’ strike on the Baltics – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
+      "published_date": "2026-08-06T12:34:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba: What does Trump really want?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260806-cuba-what-does-trump-really-want",
+      "published_date": "2026-08-06T11:56:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "We need a wartime mindset to fight the threat of wildfires | Seth Klein",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/06/wildfires-europe-world-war-two",
+      "published_date": "2026-08-06T10:00:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain’s Pedro Sánchez is a progressive outlier in Europe – and over Ceuta, he is being made to pay for it | Eoghan Gilmartin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/06/spains-pedro-sanchez-is-a-progressive-outlier-in-europe-and-over-ceuta-he-is-being-made-to-pay-for-it",
+      "published_date": "2026-08-06T04:00:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Jordan warns status quo in Jerusalem 'under threat' as ministers meet in Amman",
       "source": "RFI English",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Europe's record-breaking heat sparks wildfires, drought in France, Greece and the UK",
+      "title": "Lebanese journalist deliberately targeted by Israeli attack, probe reveals",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260803-europe-s-record-breaking-heat-sparks-wildfires-drought-in-france-greece-and-the-uk",
-      "published_date": "2026-08-03T19:50:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/lebanese-journalist-deliberately-targeted-by-israeli-attack-probe-reveals",
+      "published_date": "2026-08-06T12:35:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+      "title": "Leftist Democrat urges unity after defeating establishment candidate in Michigan primary",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/leftist-democrat-urges-unity-after-defeating-establishment-candidate-in-michigan-primary-1",
+      "published_date": "2026-08-06T12:31:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Students using AI to cheat will face stricter rules, says Danish government",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-      "published_date": "2026-08-03T17:44:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/technology/2026/aug/06/students-ai-cheating-schools-denmark",
+      "published_date": "2026-08-06T11:58:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU steps up AI regulation as new transparency rules come into effect",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260803-eu-steps-up-ai-regulation-as-new-transparency-rules-come-into-effect",
-      "published_date": "2026-08-03T16:06:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Across the EU, immigration being used as a 'political tool' across the political spectrum",
+      "title": "UN warns drone attacks have become leading cause of civilian death in Sudan",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260803-across-the-eu-immigration-being-used-as-a-political-tool-across-the-political-spectrum-1",
-      "published_date": "2026-08-03T15:19:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260806-un-warns-drone-attacks-have-become-leading-cause-of-civilian-death-in-sudan",
+      "published_date": "2026-08-06T09:10:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany arrests Ukrainian national accused of spying on defence firm",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260806-germany-arrests-ukrainian-national-accused-spying-defence-firm",
+      "published_date": "2026-08-06T09:06:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bomb-disposal robot and drone with explosives discovered at Germany's Leipzig airport",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/bomb-disposal-robot-and-drone-with-explosives-discovered-at-germany-s-leipzig-airport",
+      "published_date": "2026-08-06T08:59:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T05:00:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot",
+      "published_date": "2026-08-06T02:00:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Cut-price Patriot among options in desperate search for missile defence",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-war-briefing-cut-price-patriot-among-options-in-desperate-search-for-missile-defence",
+      "published_date": "2026-08-06T01:26:24+00:00",
+      "category": "Military"
     },
     {
       "title": "'Escalatory spiral of attrition: Drone technology allowing Ukraine to resist Russia asymmetrically'",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Head of drone manufacturer critically injured in car bomb in Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
-      "published_date": "2026-08-05T12:10:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone with explosive device found near Ukrainian cargo plane at German airport",
+      "title": "Middle East live: Oil tanker reports 'two explosions' in Strait of Hormuz",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260805-alarm-at-german-airport-after-drone-found-near-ukrainian-plane-mid-air-incident",
-      "published_date": "2026-08-05T11:13:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone hits street vendor in Kherson, Zelensky denounces ‘safari’ attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russian-drone-hits-street-vendor-in-kherson-zelensky-denounces-safari-attack",
-      "published_date": "2026-08-05T10:51:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Terrifying': deadly Russian attack on Kyiv overwhelms Ukraine's air defence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260805-terrifying-deadly-russian-attack-on-kyiv-overwhelms-ukraine-s-air-defence",
-      "published_date": "2026-08-05T10:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy calls for more air defences as Russian attack on Kyiv kills at least 17",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
-      "published_date": "2026-08-05T10:09:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian capital lit up by massive overnight Russian strikes, killing 17",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukrainian-capital-lit-up-by-massive-overnight-russian-strikes-killing-17",
-      "published_date": "2026-08-05T09:51:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France announces further investment to combat drug trafficking in Guiana",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260805-france-announces-further-investment-to-combat-drug-trafficking-in-guiana",
-      "published_date": "2026-08-05T08:54:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kremlin critic leaves Moscow for Paris after ban from running for election",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260805-kremlin-critic-leaves-moscow-for-paris-after-ban-from-running-for-election",
-      "published_date": "2026-08-05T06:06:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine live: Zelensky says interceptors 'could have saved lives' after 17 die in missile barrage",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260805-ukraine-live-russian-strikes-kill-at-least-15-in-kyiv-and-surrounding-region",
-      "published_date": "2026-08-05T05:24:42+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/middle-east/20260806-middle-east-live-israeli-military-says-two-soldiers-killed-in-southern-lebanon",
+      "published_date": "2026-08-06T03:48:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "How to enjoy the most complete solar eclipse since 1989?",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Lost income, energy fears and a woolly mammoth: what Europe’s dried-up rivers have yielded",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/01/eastern-europe-dried-up-rivers-tourism-energy-mammoth",
-      "published_date": "2026-08-01T11:00:51+00:00",
-      "category": "Energy"
+      "title": "French MP proposes cigarette tax to cover cost of wildfires",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260806/french-mp-proposes-cigarette-tax-to-cover-cost-of-wildfires",
+      "published_date": "2026-08-06T12:28:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cape Verde: Illegal sand extractions for construction industry erodes coastline",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/cape-verde-illegal-sand-extractions-for-construction-industry-erodes-coastline",
+      "published_date": "2026-08-06T09:13:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FIFA apologises for World Cup private investment controversy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260806-fifa-apologises-for-world-cup-private-investment-controversy",
+      "published_date": "2026-08-06T05:17:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "Infantino sorry for errors but stays Fifa president",
@@ -543,25 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "What to know about the arrival of 49,000 migrants into Spain's Ceuta",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/what-to-know-about-the-arrival-of-nearly-49-000-migrants-from-morocco-into-spain",
-      "published_date": "2026-07-31T10:38:49+00:00",
-      "category": "Economy"
+      "title": "Threats by Corsican separatist group FLNC-UC trigger anti-terrorism inquiry",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260806-threats-by-corsican-separatist-group-flnc-uc-trigger-anti-terrorism-inquiry",
+      "published_date": "2026-08-06T11:29:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "European football vows to boycott World Cups if FIFA brings in private investors",
+      "title": "France's DZ mafia suspected founder captured in Algeria",
       "source": "France 24",
-      "url": "https://www.france24.com/en/european-football-vows-to-boycott-world-cups-if-fifa-brings-in-private-investors",
-      "published_date": "2026-07-31T09:43:54+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france-s-dz-mafia-suspected-founder-captured-in-algeria",
+      "published_date": "2026-08-06T10:00:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Guardian view on prolonging kidulthood: Britain prices young adults out of independent life | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/30/the-guardian-view-on-kidulthood-britain-prices-young-adults-out-of-independent-life",
-      "published_date": "2026-07-30T17:30:50+00:00",
-      "category": "Economy"
+      "title": "'Let the people judge me’: How Marine Le Pen and Nigel Farage learned a potent populist tactic from Donald Trump",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260806/let-the-people-judge-me-how-marine-le-pen-and-nigel-farage-learned-a-potent-populist-tactic-from-donald-trump",
+      "published_date": "2026-08-06T08:56:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian forces are now 20km away from Ukrainian city of Kramatorsk",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russian-forces-are-now-20km-away-from-ukrainian-city-of-kramatorsk",
+      "published_date": "2026-08-06T08:47:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DR Congo’s Ebola outbreak outpaces response as health workers strike over pay",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260806-dr-congo-ebola-outbreak-outpaces-response-efforts-health-workers-strike-pay",
+      "published_date": "2026-08-06T08:43:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian strikes target Ukraine's Kharkiv and Sumy regions, killing at least six",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260806-at-least-six-killed-russian-strikes-ukraine-officials-say",
+      "published_date": "2026-08-06T06:14:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Caledonia races to avoid shutdown as new government takes office",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260806-new-caledonia-races-to-avert-shutdown-as-new-government-takes-office",
+      "published_date": "2026-08-06T06:00:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Iran president says contact with supreme leader is 'very difficult'",
@@ -596,6 +645,13 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260805-ile-de-france-region-files-suit-for-compensation-over-fontainebleau-forest-fire",
       "published_date": "2026-08-05T13:36:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fournitures scolaires: The dreaded French school stationery lists",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260805/unpacked-the-dreaded-french-school-stationery-lists",
+      "published_date": "2026-08-05T13:18:12+00:00",
       "category": "Local Events"
     },
     {
@@ -645,62 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260805/factcheck-will-this-years-french-wines-really-taste-smokey",
       "published_date": "2026-08-05T09:58:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French airline staff file month-long strike notice",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260805/french-airline-staff-file-month-long-strike-notice",
-      "published_date": "2026-08-05T07:08:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds camp in Rome heatwave as Meloni government cracks down on squats",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/hundreds-camp-in-rome-heatwave-as-meloni-government-cracks-down-on-squats",
-      "published_date": "2026-08-05T04:00:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe’s rivers are running dry, and the knock-on effects are disastrous | Yiannis Baboulias",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/europe-rivers-running-dry-catastrophe-danube-rhine",
-      "published_date": "2026-08-05T04:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-04T19:07:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Refuse collectors help Italian woman recover binned €1m lottery ticket",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/04/refuse-collectors-help-italian-woman-recover-binned-lottery-ticket",
-      "published_date": "2026-08-04T15:41:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters in Greece gain ground against wildfires near Athens",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260804-firefighters-in-greece-gain-ground-against-wildfires-near-athens",
-      "published_date": "2026-08-04T14:31:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ceuta has 're-exposed immigration's divisive nature' in the EU",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ceuta-has-re-exposed-immigration-s-divisive-nature-in-the-eu",
-      "published_date": "2026-08-04T14:26:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we know so far about France's 2030 Winter Olympics and Paralympics",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260804/what-we-know-so-far-about-frances-2030-winter-olympics-and-paralympics",
-      "published_date": "2026-08-04T13:44:22+00:00",
       "category": "Local Events"
     }
   ]
