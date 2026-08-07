@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-08-07T01:40:42.549510+00:00",
+  "last_updated": "2026-08-07T11:40:56.381079+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "FIFA's institutional tensions: Infantino's failed Forward Entity proposal sparks governance crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/infantino-s-failed-investment-proposal-reflects-deeper-institutional-tensions",
+      "published_date": "2026-08-07T08:46:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lithuania warns Russia could be considering possible ‘false flag’ strike on the Baltics – Europe live",
       "source": "The Guardian",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "title": "In pictures: Drought exposes Word War II ships, strands boats as Europe’s river levels plunge",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260807-in-pictures-drought-exposes-word-war-ii-ships-grounds-boats-europe-river-levels-plunge",
+      "published_date": "2026-08-07T10:51:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Colombia's Abelardo de la Espriella takes office, vows war on guerrillas",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260807-colombia-s-abelardo-de-la-espriella-takes-office-vows-war-on-guerrillas",
+      "published_date": "2026-08-07T10:30:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German airport drone-bomb: Could Russia be involved?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-03T21:43:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-07T08:48:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'People at war have come to help': Ukrainian firefighters battle French wildfire",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260807-people-at-war-have-come-to-help-ukrainian-firefighters-battle-french-wildfire",
+      "published_date": "2026-08-07T06:09:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Blinded by War: documenting the aftermath of injury in Ukraine – photo essay",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/07/blinded-by-war-documenting-the-aftermath-of-injury-in-ukraine-photo-essay",
+      "published_date": "2026-08-07T06:00:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: We will build missiles the way we built drones – Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/07/ukraine-war-briefing-build-missiles-freyja-programme-zelenskyy",
+      "published_date": "2026-08-07T01:38:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Middle East live: Saudi Arabia, Pakistan and Turkey to sign defence pact on Friday",
@@ -242,46 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-06T05:00:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot",
-      "published_date": "2026-08-06T02:00:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Cut-price Patriot among options in desperate search for missile defence",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-war-briefing-cut-price-patriot-among-options-in-desperate-search-for-missile-defence",
-      "published_date": "2026-08-06T01:26:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Escalatory spiral of attrition: Drone technology allowing Ukraine to resist Russia asymmetrically'",
+      "title": "USA: Democrats' progressive wing 'can win primaries'; can they win a general election?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/escalatory-spiral-of-attrition-drone-technology-allowing-ukraine-to-resist-russia-asymmetrically",
-      "published_date": "2026-08-05T20:30:25+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260807-usa-democrats-progressive-wing-can-win-primaries-can-they-win-a-general-election",
+      "published_date": "2026-08-07T11:09:46+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-05T19:00:32+00:00",
-      "category": "Military"
+      "title": "French farmers 'heavily impacted' by climate crisis, both psychologically and economically.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-farmers-heavily-impacted-by-climate-crisis-both-psychologically-and-economically",
+      "published_date": "2026-08-07T10:39:13+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Why has Ukraine's former military chief given up on NATO membership?",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260805-why-has-ukraine-s-former-military-chief-given-up-on-nato-membership",
-      "published_date": "2026-08-05T18:54:49+00:00",
-      "category": "Military"
+      "title": "Award-winning Ethiopian journalist accused authorities of abduction",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260807-award-winning-ethiopian-journalist-accused-authorities-of-abduction",
+      "published_date": "2026-08-07T09:33:35+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Argentina: Thousands protest private property legislation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/argentina-thousands-protest-private-property-legislation",
+      "published_date": "2026-08-07T08:05:09+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Italy places all major cities on red alert as heatwave grips Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260807-italy-places-all-major-cities-on-red-alert-new-heatwave-grips-europe",
+      "published_date": "2026-08-07T07:23:07+00:00",
+      "category": "Energy"
     },
     {
       "title": "What to know about the total solar eclipse on August 12",
@@ -389,39 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
-      "published_date": "2026-08-03T08:16:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuba plunges into darkness as state energy firm reports new nationwide blackout",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260803-cuba-plunges-into-darkness-as-state-energy-firm-reports-new-nationwide-blackout",
-      "published_date": "2026-08-03T04:19:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Heatwaves to increase 'fivefold by 2050', warns French weather bureau chief",
+      "title": "French unemployment hits six-year high as jobless total reaches 2.7 million",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260802-heatwaves-to-increase-fivefold-by-2050-warns-french-weather-bureau-chief",
-      "published_date": "2026-08-02T09:37:03+00:00",
-      "category": "Energy"
+      "url": "https://www.rfi.fr/en/france/20260807-unemployment-in-france-hits-a-six-year-high-of-2-7-million-people",
+      "published_date": "2026-08-07T09:48:36+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Two killed after firefighting helicopters in Greece collide",
+      "title": "South Africa's textile industry in crisis after migrant workers fled the country",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260802-fire-toll-mounts-in-greece-as-blazes-spread-amid-strong-winds",
-      "published_date": "2026-08-02T09:03:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Hungary: Successive heatwaves drain Danube river used to cool nuclear plant",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/hungary-successive-heatwaves-drain-danube-river-used-to-cool-nuclear-plant",
-      "published_date": "2026-08-02T08:55:03+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260807-south-africa-s-textile-industry-in-crisis-after-migrant-workers-fled-the-country",
+      "published_date": "2026-08-07T09:35:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "#UEFA maintains #WorldCup boycott despite #FIFA apology",
@@ -550,18 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "French public hospital deficit at third highest level in 20 years, study shows",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260731-french-public-hospital-deficit-at-third-highest-level-in-20-years-study-shows",
-      "published_date": "2026-07-31T20:47:19+00:00",
-      "category": "Economy"
+      "title": "Thailand: Gunman killed grandparents before school attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/thailand-gunman-killed-grandparents-before-school-attack",
+      "published_date": "2026-08-07T10:56:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Where to find help if you’re affected by France’s wildfires",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260731/where-to-find-help-if-youre-affected-by-frances-wildfires",
-      "published_date": "2026-07-31T13:31:12+00:00",
-      "category": "Economy"
+      "title": "Over 300 abductees freed in Nigeria's 'largest single-day rescue operation'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260807-over-300-abductees-freed-in-nigeria-s-largest-single-day-rescue-operation",
+      "published_date": "2026-08-07T09:32:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Antwerp's 'human zoo': Belgium confronts shame of colonial past",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260807-antwerp-human-zoo-belgium-confronts-shame-colonial-past",
+      "published_date": "2026-08-07T08:57:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heatwaves bring an early wine harvest in France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/heatwaves-bring-an-early-wine-harvest-in-france",
+      "published_date": "2026-08-07T08:03:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola death toll tops 1.800 in DRC",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ebola-death-toll-tops-1-800-in-drc",
+      "published_date": "2026-08-07T07:58:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Le Court Pienaar wins stage six of Women's Tour de France as Reusser keeps lead",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260807-le-court-pienaar-wins-stage-six-at-women-s-tour-de-france-as-reusser-keeps-lead",
+      "published_date": "2026-08-07T06:58:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teachers, students killed in Thai school shooting near Bangkok",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260807-teachers-students-killed-thai-school-shooting-near-bangkok",
+      "published_date": "2026-08-07T06:21:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Le Corbusier’s social housing was meant to be the dream. In a summer of extreme heat, it is a nightmare | Anna Richards",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/07/le-corbusier-social-housing-france-dream-summer-extreme-heat-nightmare",
+      "published_date": "2026-08-07T04:00:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump targets 'birth tourism' in new bid to curb birthright citizenship",
@@ -645,62 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260806-at-least-six-killed-russian-strikes-ukraine-officials-say",
       "published_date": "2026-08-06T06:14:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Caledonia races to avoid shutdown as new government takes office",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260806-new-caledonia-races-to-avert-shutdown-as-new-government-takes-office",
-      "published_date": "2026-08-06T06:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran president says contact with supreme leader is 'very difficult'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260805-iran-president-says-contact-with-supreme-leader-is-very-difficult",
-      "published_date": "2026-08-05T20:19:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drone carrying explosives found at German airport, police say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-05T20:01:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Frenchmen receive suspended jail sentences after livestreamer's death",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260805-french-men-receive-suspended-jail-sentences-after-livestreamer-s-death",
-      "published_date": "2026-08-05T19:56:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman arrested after four stabbed in London's popular Covent Garden",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260805-woman-arrested-after-four-stabbed-in-london-s-popular-covent-garden",
-      "published_date": "2026-08-05T14:37:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ile-de-France region files suit for compensation over Fontainebleau forest fire",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260805-ile-de-france-region-files-suit-for-compensation-over-fontainebleau-forest-fire",
-      "published_date": "2026-08-05T13:36:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fournitures scolaires: The dreaded French school stationery lists",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260805/unpacked-the-dreaded-french-school-stationery-lists",
-      "published_date": "2026-08-05T13:18:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France welcomes Algeria’s arrest of alleged DZ Mafia crime boss",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260805-france-welcomes-algeria-s-arrest-of-alleged-dz-mafia-crime-boss",
-      "published_date": "2026-08-05T12:14:41+00:00",
       "category": "Local Events"
     }
   ]
