@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-08-08T11:22:39.621322+00:00",
+  "last_updated": "2026-08-08T23:23:57.589057+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Spain imposes border checks on Italian travellers amid migrant dispute",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260808-spain-imposes-border-checks-on-italian-travellers-amid-migrant-dispute",
+      "published_date": "2026-08-08T17:07:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-08T15:59:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kosovan lawmaker hurls eggs at the prime minister – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/aug/08/lawmaker-hurls-eggs-at-kosovo-prime-minister-video",
+      "published_date": "2026-08-08T15:24:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU tells Meta, TikTok to boost monitoring, fact-checking",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260808/eu-tells-meta-tiktok-to-boost-monitoring-fact-checking",
+      "published_date": "2026-08-08T14:00:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky’s visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260808-serbia-s-vucic-attempts-diplomatic-balancing-act-with-zelensky-s-visit",
+      "published_date": "2026-08-08T10:34:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spain to impose border checks on Italy",
       "source": "France 24",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Video game maker EA bought by Saudi-led group for $55bn",
+      "title": "Navy says it is spending 25% more time monitoring Russian vessels around UK waters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/games/2026/aug/05/video-game-maker-ea-bought-by-saudi-led-group",
-      "published_date": "2026-08-05T06:34:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/08/navy-says-it-is-spending-25-more-time-monitoring-russian-vessels-around-uk-waters",
+      "published_date": "2026-08-08T20:03:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "MI6 is top European foreign intelligence service, peer review finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
-      "published_date": "2026-08-04T22:40:53+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine braces for winter power crisis after Russian strikes, Zelensky says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260808-ukraine-braces-for-winter-power-crisis-after-russian-strikes-zelensky-says",
+      "published_date": "2026-08-08T19:48:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-04T21:45:20+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli troops infiltrate Lebanese army-held village and build roadblock, mayor says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260808-israeli-troops-infiltrate-lebanese-army-held-village-and-build-roadblock-mayor-says",
+      "published_date": "2026-08-08T16:05:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Dinghy carrying 173 people capsizes in Channel after engine catches fire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/04/dinghy-capsizes-channel-engine-catches-fire-rescue-operation",
-      "published_date": "2026-08-04T17:52:33+00:00",
-      "category": "Diplomacy"
+      "title": "Russian strikes kill four as Kyiv hits oil refinery",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russian-strikes-kill-four-as-kyiv-hits-oil-refinery",
+      "published_date": "2026-08-08T15:29:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU chief criticises Spain’s migrant plan after Ceuta crisis meeting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/04/eu-criticises-spain-migrant-plan-ceuta-crisis-meeting",
-      "published_date": "2026-08-04T16:51:51+00:00",
-      "category": "Diplomacy"
+      "title": "Russian attacks kill several in Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russian-attacks-kill-several-in-ukraine",
+      "published_date": "2026-08-08T13:12:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
+      "published_date": "2026-08-08T12:52:36+00:00",
+      "category": "Military"
     },
     {
       "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "German airport drone-bomb: Could Russia be involved?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-07T08:48:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'People at war have come to help': Ukrainian firefighters battle French wildfire",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260807-people-at-war-have-come-to-help-ukrainian-firefighters-battle-french-wildfire",
-      "published_date": "2026-08-07T06:09:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Blinded by War: documenting the aftermath of injury in Ukraine – photo essay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/07/blinded-by-war-documenting-the-aftermath-of-injury-in-ukraine-photo-essay",
-      "published_date": "2026-08-07T06:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: We will build missiles the way we built drones – Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/07/ukraine-war-briefing-build-missiles-freyja-programme-zelenskyy",
-      "published_date": "2026-08-07T01:38:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East live: Saudi Arabia, Pakistan and Turkey to sign defence pact on Friday",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260807-middle-east-live-saudi-arabia-pakistan-turkey-to-sign-defence-pact",
-      "published_date": "2026-08-07T00:02:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bus explosion near Damascus kills at least two, injures 13",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260806-damascus-bus-explosion-kills-two",
-      "published_date": "2026-08-06T21:54:18+00:00",
-      "category": "Military"
+      "title": "Europe readies for solar eclipse dip in power generation",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260808/europe-readies-for-solar-eclipse-dip-in-power-generation",
+      "published_date": "2026-08-08T11:31:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Vietnam's indigenous Hmong people forced to adapt to climate crisis",
@@ -414,13 +421,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/focus/20260804-pasta-of-the-future-italy-tests-climate-resistant-wheat",
       "published_date": "2026-08-04T11:44:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Romania, Hungary, France... Europe's nuclear power plants tested by heatwave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260804-romania-hungary-france-europe-s-nuclear-power-plants-tested-by-heatwave",
-      "published_date": "2026-08-04T11:33:43+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "Vollering grabs Tour de France lead in breathtaking Nice upset",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260808-vollering-grabs-tour-de-france-lead-in-breathtaking-nice-upset-womens-cycling",
+      "published_date": "2026-08-08T18:53:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain begins border checks on travellers from Italy amid migration showdown",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260808-spain-begins-border-checks-on-travellers-from-italy-amid-migration-showdown-europe",
+      "published_date": "2026-08-08T15:41:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women's Tour de France: Defending champion Pauline Ferrand-Prévot pulls out of race",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260808-women-tour-de-france-defending-champion-pauline-ferrand-pr%C3%A9vot-pulls-out-race",
+      "published_date": "2026-08-08T13:45:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senate confirms Todd Blanche, Trump's former lawyer, as Attorney General",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/senate-confirms-todd-blanche-trump-s-former-lawyer-as-attorney-general",
+      "published_date": "2026-08-08T12:54:24+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "High divers take the plunge in Paris for a new test of reclaimed Seine’s water",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/sport/2026/aug/08/high-divers-paris-river-seine-swimming-european-aquatics-championships",
@@ -673,34 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260807-over-300-abductees-freed-in-nigeria-s-largest-single-day-rescue-operation",
       "published_date": "2026-08-07T09:32:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antwerp's 'human zoo': Belgium confronts shame of colonial past",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260807-antwerp-human-zoo-belgium-confronts-shame-colonial-past",
-      "published_date": "2026-08-07T08:57:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heatwaves bring an early wine harvest in France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/heatwaves-bring-an-early-wine-harvest-in-france",
-      "published_date": "2026-08-07T08:03:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola death toll tops 1.800 in DRC",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ebola-death-toll-tops-1-800-in-drc",
-      "published_date": "2026-08-07T07:58:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Le Court Pienaar wins stage six of Women's Tour de France as Reusser keeps lead",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260807-le-court-pienaar-wins-stage-six-at-women-s-tour-de-france-as-reusser-keeps-lead",
-      "published_date": "2026-08-07T06:58:43+00:00",
       "category": "Local Events"
     }
   ]
