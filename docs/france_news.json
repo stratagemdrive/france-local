@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-08-08T23:23:57.589057+00:00",
-  "story_count": 100,
+  "last_updated": "2026-08-09T11:23:17.362946+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Spain - Italy: Dispute grows over migration between EU countries",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/spain-italy-dispute-grows-over-migration-between-eu-countries",
+      "published_date": "2026-08-09T09:10:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain starts border checks on Italy over Ceuta dispute",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/spain-starts-border-checks-on-italy-over-ceuta-dispute",
+      "published_date": "2026-08-09T09:02:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Demi Vollering turns women's Tour de France upside down on eve of finish",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260809-demi-vollering-turns-women-tour-de-france-upside-down-eve-of-finish",
+      "published_date": "2026-08-09T08:23:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sall's chances at UN secretary-general role weakened after first vote",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260809-sall-s-chances-at-un-secretary-general-role-weakened-after-first-vote",
+      "published_date": "2026-08-09T07:35:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Blame game as Brussels builds ‘Europe’s largest frying pan’ instead of shady square",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/blame-brussels-eu-quarter-schuman-square",
+      "published_date": "2026-08-09T04:00:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spain imposes border checks on Italian travellers amid migrant dispute",
       "source": "France 24",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "We need a wartime mindset to fight the threat of wildfires | Seth Klein",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/06/wildfires-europe-world-war-two",
-      "published_date": "2026-08-06T10:00:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain’s Pedro Sánchez is a progressive outlier in Europe – and over Ceuta, he is being made to pay for it | Eoghan Gilmartin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/06/spains-pedro-sanchez-is-a-progressive-outlier-in-europe-and-over-ceuta-he-is-being-made-to-pay-for-it",
-      "published_date": "2026-08-06T04:00:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jordan warns status quo in Jerusalem 'under threat' as ministers meet in Amman",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260805-jordan-warns-status-quo-in-jerusalem-under-threat-as-ministers-meet-in-amman",
-      "published_date": "2026-08-05T15:07:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Spain’s EU allies turned on Pedro Sanchez over Ceuta: the hard right now sets their agenda on migration",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/the-events-at-ceuta-show-how-europes-hard-right-now-set-the-tone-on-immigration",
-      "published_date": "2026-08-05T14:30:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Theme park or political park: Did France's 'Puy du Fou' break Russian sanctions?",
+      "title": "Libreville grapples with water shortage",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260805-theme-park-or-political-park-did-france-s-puy-du-fou-break-russian-sanctions",
-      "published_date": "2026-08-05T13:30:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/libreville-grapples-with-water-shortage",
+      "published_date": "2026-08-09T09:32:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine denies targeting Bulgaria, after drone exploded near a gas pipeline",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-denies-targeting-bulgaria-after-drone-exploded-near-a-gas-pipeline",
+      "published_date": "2026-08-09T09:04:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian family denied asylum in Finland fear reprisals for pro-Ukraine activism",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/russian-family-finland-reprisals-pro-ukraine-activism",
+      "published_date": "2026-08-09T07:00:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East live: Iran Guards say Hormuz will not reopen until US accepts all of Tehran's demands",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260809-middle-east-live-iran-issues-list-of-demands-for-reopening-strait-of-hormuz",
+      "published_date": "2026-08-09T05:01:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Japan marks Nagasaki bombing anniversary as PM Takaichi rattles pacifists with nuclear debate",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260809-japan-nuclear-debate-unnerves-proponents-of-pacifism",
+      "published_date": "2026-08-09T02:47:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Turkey calls for ‘moratorium’ on Black Sea attacks by Russia and Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/ukraine-war-briefing-turkey-calls-for-moratorium-on-black-sea-attacks-by-russia-and-ukraine",
+      "published_date": "2026-08-09T01:16:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Navy says it is spending 25% more time monitoring Russian vessels around UK waters",
@@ -242,46 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-07T17:42:54+00:00",
-      "category": "Military"
+      "title": "Investigation raises alarm over uranium in DRC cobalt shipments to China",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260809-investigation-raises-alarm-over-uranium-in-drc-cobalt-shipments-to-china",
+      "published_date": "2026-08-09T10:53:30+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds",
+      "title": "Home Office ‘error’ leaves Italian man’s wife with no right to stay in UK",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/aug/07/far-right-narrative-russia-online-accounts-ceuta-migration-crisis-analysis",
-      "published_date": "2026-08-07T16:35:26+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/politics/2026/aug/09/home-office-error-leaves-italian-mans-wife-with-no-right-to-stay-in-uk",
+      "published_date": "2026-08-09T09:00:12+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-07T16:13:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey, Saudi, Pakistan: Attack on one nation deemed an attack on all",
+      "title": "Eclipse chasers: When chasing totality becomes a way of life (1/4)",
       "source": "France 24",
-      "url": "https://www.france24.com/en/turkey-saudi-pakistan-attack-on-one-nation-deemed-an-attack-on-all",
-      "published_date": "2026-08-07T15:09:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In pictures: Drought exposes Word War II ships, strands boats as Europe’s river levels plunge",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260807-in-pictures-drought-exposes-word-war-ii-ships-grounds-boats-europe-river-levels-plunge",
-      "published_date": "2026-08-07T10:51:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Colombia's Abelardo de la Espriella takes office, vows war on guerrillas",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260807-colombia-s-abelardo-de-la-espriella-takes-office-vows-war-on-guerrillas",
-      "published_date": "2026-08-07T10:30:17+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260809-eclipse-chasers-when-chasing-totality-becomes-a-way-of-life-1-4",
+      "published_date": "2026-08-09T07:19:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe readies for solar eclipse dip in power generation",
@@ -400,27 +421,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20260805-nigeria-approves-4-5bn-refinancing-of-state-owned-oil-company",
       "published_date": "2026-08-05T12:20:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Guatemala volcano eruption forces hundreds to flee ash, gas and lava",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/guatemala-volcano-eruption-forces-hundreds-to-flee-ash-gas-and-lava",
-      "published_date": "2026-08-05T10:20:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
-      "published_date": "2026-08-05T05:54:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pasta of the future: Italy tests climate-resistant wheat",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260804-pasta-of-the-future-italy-tests-climate-resistant-wheat",
-      "published_date": "2026-08-04T11:44:56+00:00",
       "category": "Energy"
     },
     {
@@ -557,11 +557,32 @@
       "category": "Economy"
     },
     {
-      "title": "Capital One bank cites money-laundering probe to justify closing Trump Organization accounts",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260802-capital-one-cites-anti-money-laundering-probe-justify-closure-trump-organization-bank-accounts",
-      "published_date": "2026-08-02T09:46:00+00:00",
-      "category": "Economy"
+      "title": "Rise in injuries sees Paris police impose new rules on e-scooter users",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260809-rise-in-injuries-sees-paris-council-impose-new-rules-on-e-scooter-users",
+      "published_date": "2026-08-09T09:49:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris orders e-scooter users to wear helmets and reflective gear",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260809/paris-orders-e-scooter-users-to-wear-helmets-and-reflective-gear",
+      "published_date": "2026-08-09T06:28:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260809/on-the-agenda-whats-happening-in-france-this-week-222",
+      "published_date": "2026-08-09T06:05:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Back to school, Schengen and French village names: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260809/back-to-school-schengen-and-french-village-names-6-essential-articles-for-life-in-france",
+      "published_date": "2026-08-09T06:04:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Vollering grabs Tour de France lead in breathtaking Nice upset",
@@ -673,34 +694,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260807-revamp-of-french-parliament-building-faces-criticism-over-cost-and-heritage",
       "published_date": "2026-08-07T14:51:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scramble to house hundreds camping in Rome heatwave after squat eviction",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/07/hundreds-camping-rome-heatwave-squat-eviction",
-      "published_date": "2026-08-07T12:35:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather tracker: central and western Europe brace for more sweltering heat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/07/weather-tracker-central-western-europe-brace-more-sweltering-heat",
-      "published_date": "2026-08-07T11:59:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thailand: Gunman killed grandparents before school attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/thailand-gunman-killed-grandparents-before-school-attack",
-      "published_date": "2026-08-07T10:56:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 300 abductees freed in Nigeria's 'largest single-day rescue operation'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260807-over-300-abductees-freed-in-nigeria-s-largest-single-day-rescue-operation",
-      "published_date": "2026-08-07T09:32:24+00:00",
       "category": "Local Events"
     }
   ]
