@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-08-09T11:23:17.362946+00:00",
-  "story_count": 99,
+  "last_updated": "2026-08-09T23:26:39.554575+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Iran vows to keep Strait of Hormuz closed until US meets demands",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260809-iran-vows-to-keep-strait-of-hormuz-closed-until-us-meets-demands",
+      "published_date": "2026-08-09T20:14:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘I was on my honeymoon!’: Hamish Falconer’s surprise call-up to Burnham’s cabinet",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/hamish-falconer-uk-minister-european-relations-eu",
+      "published_date": "2026-08-09T18:00:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Labour seeking ‘deeper relationship’ with EU under Burnham, new minister says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/09/uk-eu-reset-talks-brexit-burnham-hamish-falconer",
+      "published_date": "2026-08-09T18:00:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italy condemns Spain’s ‘unacceptable’ border controls as Ceuta fallout intensifies",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies",
+      "published_date": "2026-08-09T14:59:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
+      "published_date": "2026-08-09T14:30:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spain - Italy: Dispute grows over migration between EU countries",
       "source": "France 24",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rwanda in talks with Italy to take in migrants trying to reach EU",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260807-rwanda-in-talks-with-italy-to-take-in-migrants-trying-to-reach-eu",
-      "published_date": "2026-08-07T15:01:33+00:00",
-      "category": "Diplomacy"
+      "title": "Drones spotted over German base days after Leipzig bomb incident",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T16:18:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "New sail-power ferry service to connect France and UK",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260807/new-sail-power-ferry-service-to-connect-france-and-uk",
-      "published_date": "2026-08-07T14:35:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FIFA's institutional tensions: Infantino's failed Forward Entity proposal sparks governance crisis",
+      "title": "Syria, Russia agree to end military use of key Mediterranean bases",
       "source": "France 24",
-      "url": "https://www.france24.com/en/infantino-s-failed-investment-proposal-reflects-deeper-institutional-tensions",
-      "published_date": "2026-08-07T08:46:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260809-syria-russia-agree-to-end-military-use-of-key-mediterranean-bases",
+      "published_date": "2026-08-09T15:58:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lithuania warns Russia could be considering possible ‘false flag’ strike on the Baltics – Europe live",
+      "title": "Iran sets tough terms to reopen Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-sets-tough-terms-to-reopen-strait-of-hormuz",
+      "published_date": "2026-08-09T14:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea may deploy up to 50,000 troops to Russia, Zelensky claims",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260809-zelensky-claims-north-korea-may-deploy-50-000-troops-russia",
+      "published_date": "2026-08-09T14:58:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "I Rarely Wake Up Dreaming review – brilliant bulletin from Ukrainian frontline dives deep into culture war",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
-      "published_date": "2026-08-06T12:34:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/film/2026/aug/09/i-rarely-wake-up-dreaming-review",
+      "published_date": "2026-08-09T14:34:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cuba: What does Trump really want?",
+      "title": "Russia and Ukraine exchange deadly overnight strikes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260806-cuba-what-does-trump-really-want",
-      "published_date": "2026-08-06T11:56:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes",
+      "published_date": "2026-08-09T13:22:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel, US spar over Gaza withdrawal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-us-spar-over-gaza-withdrawal",
+      "published_date": "2026-08-09T13:20:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran, Oman near deal on Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-oman-near-deal-on-strait-of-hormuz",
+      "published_date": "2026-08-09T11:33:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Libreville grapples with water shortage",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies",
-      "published_date": "2026-08-08T11:00:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
-      "published_date": "2026-08-08T10:55:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ivorian drum, looted by France, goes on display for first time at home",
+      "title": "As the planet heats up, butterflies are seeking out cooler climes",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260808-ivorian-drum-looted-by-france-goes-on-display-for-first-time-djidji-ayokwe",
-      "published_date": "2026-08-08T10:52:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi, Turkey, Pakistan: Deal for joint support amid regional war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/saudi-turkey-pakistan-deal-for-joint-support-amid-regional-war",
-      "published_date": "2026-08-08T08:26:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Tehran’s walls to the world: Iran’s visual propaganda as an art of war (2/2)",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260808-from-tehran-s-walls-to-the-world-iran-s-visual-propaganda-as-an-art-of-war-2-2",
-      "published_date": "2026-08-08T07:36:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US pledges $1 billion security aid to Colombia as Trump-endorsed president takes office",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-pledges-1-billion-security-aid-to-colombia-as-trump-endorsed-president-takes-office",
-      "published_date": "2026-08-08T06:16:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Wildberries warehouse struck by Kyiv’s drones more than 2,000km from Russian border",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/08/ukraine-war-briefing-wildberries-warehouse-struck-by-kyivs-drones-more-than-2000km-from-russian-border",
-      "published_date": "2026-08-08T02:26:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'DRC's largest Ebola outbreak on record: Active conflict and armed groups hamper the response'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/drc-s-largest-ebola-outbreak-on-record-active-conflict-and-armed-groups-hamper-the-response",
-      "published_date": "2026-08-07T17:53:01+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/environment/20260809-as-the-planet-heats-up-butterflies-are-seeking-out-cooler-climes",
+      "published_date": "2026-08-09T13:39:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Investigation raises alarm over uranium in DRC cobalt shipments to China",
@@ -417,13 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Nigeria approves $4.5bn refinancing of state-owned oil company",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260805-nigeria-approves-4-5bn-refinancing-of-state-owned-oil-company",
-      "published_date": "2026-08-05T12:20:49+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Former French PM Attal files legal complaint over alleged Russian interference",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260808-former-french-pm-attal-files-legal-complaint-over-alleged-russian-interference",
@@ -550,11 +550,53 @@
       "category": "Economy"
     },
     {
-      "title": "Trump says US backed Japanese Yen in rare currency intervention",
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T20:58:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alleged crime boss Daniel Kinahan’s return to Ireland ends global game of cat-and-mouse",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/daniel-kinahan-return-ireland-ends-global-game-cat-and-mouse",
+      "published_date": "2026-08-09T18:18:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfire rages in southern France, forcing evacuations",
       "source": "France 24",
-      "url": "https://www.france24.com/en/economy/20260802-trump-us-backed-japanese-yen-currency-intervention",
-      "published_date": "2026-08-02T23:19:13+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20260809-wildfire-rages-in-southern-france-forcing-evacuations",
+      "published_date": "2026-08-09T17:21:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Demi Vollering wins second Women’s Tour de France title",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260809-demi-vollering-wins-second-women-s-tour-de-france-title",
+      "published_date": "2026-08-09T17:04:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week in pictures: Summer wildfires, a Thai school shooting and the Tour de France Femmes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260809-the-week-in-pictures-summer-wildfires-thai-school-shooting-tour-de-france-femmes",
+      "published_date": "2026-08-09T13:00:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Blast wounds two as de la Espriella cracks down on prisons",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/blast-wounds-two-as-de-la-espriella-cracks-down-on-prisons",
+      "published_date": "2026-08-09T11:36:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France faces reckoning on child abuse",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-faces-reckoning-on-child-abuse",
+      "published_date": "2026-08-09T11:34:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Rise in injuries sees Paris police impose new rules on e-scooter users",
@@ -645,55 +687,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260808-russian-missile-strikes-near-kyiv-kill-three-including-a-child",
       "published_date": "2026-08-08T06:10:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
-      "published_date": "2026-08-08T05:00:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-07T22:13:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French officers halted small boats at sea 10 times since spring",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/07/france-stop-10-small-boat-crossing-channel-since-spring",
-      "published_date": "2026-08-07T17:46:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Businessman was ‘preparing champagne’ to celebrate Caruana Galizia murder, court hears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/07/yorgen-fenech-champagne-celebrate-daphne-caruana-galizia-murder",
-      "published_date": "2026-08-07T17:40:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US appeals court halts construction of Trump’s $400 million White House ballroom project",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260807-us-appeals-court-halts-construction-of-trump-400-million-white-house-ballroom-project",
-      "published_date": "2026-08-07T16:06:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meta fined in child safety case",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/meta-fined-in-child-safety-case",
-      "published_date": "2026-08-07T15:53:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Revamp of French parliament building faces criticism over cost and heritage",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260807-revamp-of-french-parliament-building-faces-criticism-over-cost-and-heritage",
-      "published_date": "2026-08-07T14:51:36+00:00",
       "category": "Local Events"
     }
   ]
