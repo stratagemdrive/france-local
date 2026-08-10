@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-08-10T11:42:51.388089+00:00",
-  "story_count": 99,
+  "last_updated": "2026-08-10T23:30:53.839956+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Another heatwave hits Europe as drought and fires worsen",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260810-another-heat-blast-hits-europe-as-drought-fires-and-record-low-rivers-worsen",
+      "published_date": "2026-08-10T12:29:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Record temperatures swept regions home to 900 million people in July",
       "source": "RFI English",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU tells Meta, TikTok to boost monitoring, fact-checking",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260808/eu-tells-meta-tiktok-to-boost-monitoring-fact-checking",
-      "published_date": "2026-08-08T14:00:28+00:00",
-      "category": "Diplomacy"
+      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-10T18:19:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia bars only anti-war party 'Yabloko' from September parliamentary elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260810-russia-bars-only-anti-war-party-from-elections",
+      "published_date": "2026-08-10T17:49:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US intelligence ‘believes Russia was behind Leipzig airport drone bomb’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/us-intelligence-russia-leipzig-airport-drone-bomb",
+      "published_date": "2026-08-10T15:55:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says ‘Muslim Nato’ pact reflects retreat from US security umbrella",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260810-iran-says-muslim-nato-pact-reflects-retreat-from-us-security-umbrella",
+      "published_date": "2026-08-10T15:21:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine launches drone attack on Russian oil refining facilities – Europe live",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Middle East live: Iran Guards say Hormuz will not reopen until US accepts all of Tehran's demands",
+      "title": "Tensions in the Arctic: Greenland issues sharp rebuke to Trump-linked oil company",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260809-middle-east-live-iran-issues-list-of-demands-for-reopening-strait-of-hormuz",
-      "published_date": "2026-08-09T05:01:29+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260810-tensions-in-the-arctic-greenland-issues-sharp-rebuke-to-trump-linked-oil-company",
+      "published_date": "2026-08-10T17:47:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Japan marks Nagasaki bombing anniversary as PM Takaichi rattles pacifists with nuclear debate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260809-japan-nuclear-debate-unnerves-proponents-of-pacifism",
-      "published_date": "2026-08-09T02:47:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Turkey calls for ‘moratorium’ on Black Sea attacks by Russia and Ukraine",
+      "title": "People flocking to Spain to view solar eclipse could spark more ‘devastating’ wildfires",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/09/ukraine-war-briefing-turkey-calls-for-moratorium-on-black-sea-attacks-by-russia-and-ukraine",
-      "published_date": "2026-08-09T01:16:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Navy says it is spending 25% more time monitoring Russian vessels around UK waters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/08/navy-says-it-is-spending-25-more-time-monitoring-russian-vessels-around-uk-waters",
-      "published_date": "2026-08-08T20:03:34+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/science/2026/aug/10/spain-tourists-solar-eclipse-increased-wildfires-risk",
+      "published_date": "2026-08-10T13:21:07+00:00",
+      "category": "Energy"
     },
     {
       "title": "Western Europe sets new temperature record as heat waves pummel the region",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "What to know about the total solar eclipse on August 12",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/science/20260806-what-to-know-about-the-total-solar-eclipse-on-august-12",
-      "published_date": "2026-08-06T17:03:23+00:00",
-      "category": "Energy"
+      "title": "Ghana backs Jamaica's petition to push UK for slavery reparations",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260810-monday-o-n-ghana-backs-jamaica-s-petition-to-push-uk-for-slavery-reparations",
+      "published_date": "2026-08-10T19:01:28+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oman nature reserve threatened by oil spill",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260806-oman-nature-reserve-threatened-by-oil-spill-1",
-      "published_date": "2026-08-06T15:24:36+00:00",
-      "category": "Energy"
+      "title": "From Dubai luxury to an Irish jail cell: Daniel Kinahan’s drastic lifestyle shift",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/daniel-kinahan-lifestyle-shift-dubai-luxury-irish-prison-cell",
+      "published_date": "2026-08-10T13:54:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Record 230 people cross Channel to UK as smugglers turn to ‘mega-dinghies’",
@@ -550,11 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Hundreds flee Tigray after fighting flares near border",
+      "title": "Live: Russian missiles strike Kyiv, triggering fires in city centre",
       "source": "France 24",
-      "url": "https://www.france24.com/en/hundreds-flee-tigray-after-fighting-flares-near-border",
-      "published_date": "2026-08-03T20:15:26+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
+      "published_date": "2026-08-10T23:03:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-10T18:24:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+      "published_date": "2026-08-10T16:25:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to feel optimistic in the face of crisis? Ask the kids fighting slug-like aliens | Alexander Hurst",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/10/animorphs-books-tv-series-optimism-catastrophe",
+      "published_date": "2026-08-10T13:00:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Roman shipwreck with 500 amphorae found off coast of Sicily",
@@ -666,34 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260809/back-to-school-schengen-and-french-village-names-6-essential-articles-for-life-in-france",
       "published_date": "2026-08-09T06:04:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vollering grabs Tour de France lead in breathtaking Nice upset",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260808-vollering-grabs-tour-de-france-lead-in-breathtaking-nice-upset-womens-cycling",
-      "published_date": "2026-08-08T18:53:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain begins border checks on travellers from Italy amid migration showdown",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260808-spain-begins-border-checks-on-travellers-from-italy-amid-migration-showdown-europe",
-      "published_date": "2026-08-08T15:41:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-08T14:25:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women's Tour de France: Defending champion Pauline Ferrand-Prévot pulls out of race",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260808-women-tour-de-france-defending-champion-pauline-ferrand-pr%C3%A9vot-pulls-out-race",
-      "published_date": "2026-08-08T13:45:09+00:00",
       "category": "Local Events"
     }
   ]
