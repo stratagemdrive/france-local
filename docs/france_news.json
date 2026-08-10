@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-08-09T23:26:39.554575+00:00",
-  "story_count": 98,
+  "last_updated": "2026-08-10T11:42:51.388089+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Record temperatures swept regions home to 900 million people in July",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260810-record-temperatures-swept-regions-home-to-900-million-people-in-july",
+      "published_date": "2026-08-10T09:33:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU athletics to apply new TV guidelines on non-sexualisation of women",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260810-eu-athletics-comp-to-apply-new-tv-guidelines-on-non-sexualisation-of-women",
+      "published_date": "2026-08-10T09:08:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "British widow, 78, told to leave Sweden under Brexit rules after living there for 21 years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/british-widow-78-told-to-leave-sweden-under-brexit-rules-after-living-there-for-21-years",
+      "published_date": "2026-08-10T04:00:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Movie paradise? How Malta became a magnet for big film shoots",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/movie-paradise-how-malta-became-a-magnet-for-big-film-shoots",
+      "published_date": "2026-08-10T04:00:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Western Europe lived through hottest June and July ever recorded",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260810-western-europe-saw-hottest-june-july-on-record-as-climate-change-fuels-historic-summer",
+      "published_date": "2026-08-10T02:15:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "World’s seas have hit hottest temperature on record for July, say scientists",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
+      "published_date": "2026-08-10T02:00:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran vows to keep Strait of Hormuz closed until US meets demands",
       "source": "France 24",
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky’s visit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260808-serbia-s-vucic-attempts-diplomatic-balancing-act-with-zelensky-s-visit",
-      "published_date": "2026-08-08T10:34:40+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine launches drone attack on Russian oil refining facilities – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news",
+      "published_date": "2026-08-10T10:53:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spain to impose border checks on Italy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260808-spain-to-impose-border-checks-on-italy",
-      "published_date": "2026-08-08T08:56:44+00:00",
-      "category": "Diplomacy"
+      "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-10T10:03:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cuba: No power, no fuel, no internet",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/cuba-no-power-no-fuel-no-internet",
-      "published_date": "2026-08-08T08:33:34+00:00",
-      "category": "Diplomacy"
+      "title": "It’s not just the Odyssey effect: poetry is booming because it’s the only language for these times of violence and chaos | Charlotte Higgins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/10/poetry-boom-language-violence-chaos-odyssey-ukraine-gaza",
+      "published_date": "2026-08-10T07:00:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "High stakes for Ireland's EU presidency amid migration row over Ceuta crisis",
+      "title": "Moscow and Damascus reach deal over Russian military bases in Syria",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260808-high-stakes-for-ireland-s-eu-presidency-amid-migration-row-over-ceuta-crisis",
-      "published_date": "2026-08-08T07:34:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260810-moscow-and-damascus-reach-deal-over-russian-military-bases-in-syria",
+      "published_date": "2026-08-10T04:56:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "The EU has new anti-Beijing instruments, but will China have to face the music?",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260807-the-eu-has-new-anti-beijing-instruments-but-will-china-have-to-face-the-music",
-      "published_date": "2026-08-07T20:05:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain imposes border checks on Italy amid Ceuta migration row",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260807-spain-imposes-border-checks-on-italy-amid-ceuta-migration-row",
-      "published_date": "2026-08-07T19:55:12+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: North Korea sending 50,000 troops to Russia – Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-war-briefing-north-korea-sending-50000-troops-to-russia-zelenskyy",
+      "published_date": "2026-08-10T01:18:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Drones spotted over German base days after Leipzig bomb incident",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine braces for winter power crisis after Russian strikes, Zelensky says",
+      "title": "Western Europe sets new temperature record as heat waves pummel the region",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260808-ukraine-braces-for-winter-power-crisis-after-russian-strikes-zelensky-says",
-      "published_date": "2026-08-08T19:48:21+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/western-europe-sets-new-temperature-record-as-heat-waves-pummel-the-region",
+      "published_date": "2026-08-10T06:49:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli troops infiltrate Lebanese army-held village and build roadblock, mayor says",
+      "title": "From Solar corona to human emotions: What can we learn from eclipses? (2/4)",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260808-israeli-troops-infiltrate-lebanese-army-held-village-and-build-roadblock-mayor-says",
-      "published_date": "2026-08-08T16:05:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes kill four as Kyiv hits oil refinery",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russian-strikes-kill-four-as-kyiv-hits-oil-refinery",
-      "published_date": "2026-08-08T15:29:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian attacks kill several in Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russian-attacks-kill-several-in-ukraine",
-      "published_date": "2026-08-08T13:12:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
-      "published_date": "2026-08-08T12:52:36+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260810-from-solar-corona-to-human-emotions-what-can-we-learn-from-eclipses-2-4",
+      "published_date": "2026-08-10T05:17:46+00:00",
+      "category": "Energy"
     },
     {
       "title": "As the planet heats up, butterflies are seeking out cooler climes",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Middle East live: Oil tanker reports 'two explosions' in Strait of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260806-middle-east-live-israeli-military-says-two-soldiers-killed-in-southern-lebanon",
-      "published_date": "2026-08-06T03:48:53+00:00",
-      "category": "Energy"
+      "title": "Record 230 people cross Channel to UK as smugglers turn to ‘mega-dinghies’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/10/record-cross-channel-uk-people-smugglers-mega-dinghies-france",
+      "published_date": "2026-08-10T10:55:55+00:00",
+      "category": "Economy"
     },
     {
-      "title": "How to enjoy the most complete solar eclipse since 1989?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/how-to-enjoy-the-most-complete-solar-eclipse-since-1989",
-      "published_date": "2026-08-05T15:23:45+00:00",
-      "category": "Energy"
+      "title": "Ancient Roman pottery discovered in shipwreck off Sicilian coast – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/aug/10/ancient-roman-pottery-discovered-in-shipwreck-off-sicilian-coast-video",
+      "published_date": "2026-08-10T08:22:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Former French PM Attal files legal complaint over alleged Russian interference",
@@ -543,11 +557,39 @@
       "category": "Economy"
     },
     {
-      "title": "France tightens checks on foreign investment amid concerns over national security",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260803-france-tightens-checks-on-foreign-investment-amid-concerns-over-national-security",
-      "published_date": "2026-08-03T07:23:55+00:00",
-      "category": "Economy"
+      "title": "Roman shipwreck with 500 amphorae found off coast of Sicily",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/aug/10/roman-shipwreck-with-500-amphorae-found-off-coast-of-sicily",
+      "published_date": "2026-08-10T10:44:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather tracker: Europe breaks more heat records as temperatures soar",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
+      "published_date": "2026-08-10T09:32:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Irish cartel boss Daniel Kinahan extradited from Dubai and charged in Dublin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260810-irish-cartel-boss-daniel-kinahan-extradited-from-dubai-and-charged-in-dublin",
+      "published_date": "2026-08-10T08:21:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of Ukrainian drones target Russia in deadly overnight strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260810-hundreds-of-ukrainian-drones-target-russia-in-overnight-strikes",
+      "published_date": "2026-08-10T06:34:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T21:26:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
@@ -641,52 +683,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-08T14:25:19+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Women's Tour de France: Defending champion Pauline Ferrand-Prévot pulls out of race",
       "source": "France 24",
       "url": "https://www.france24.com/en/sport/20260808-women-tour-de-france-defending-champion-pauline-ferrand-pr%C3%A9vot-pulls-out-race",
       "published_date": "2026-08-08T13:45:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senate confirms Todd Blanche, Trump's former lawyer, as Attorney General",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/senate-confirms-todd-blanche-trump-s-former-lawyer-as-attorney-general",
-      "published_date": "2026-08-08T12:54:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High divers take the plunge in Paris for a new test of reclaimed Seine’s water",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/aug/08/high-divers-paris-river-seine-swimming-european-aquatics-championships",
-      "published_date": "2026-08-08T09:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump vows appeal over ballroom halt",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-vows-appeal-over-ballroom-halt",
-      "published_date": "2026-08-08T08:49:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Finally, medals for France in open water swimming",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260808-finally-medals-france-open-water-swimming",
-      "published_date": "2026-08-08T08:23:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian strikes kill four near Kyiv, Zelensky makes landmark visit to Serbia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260808-russian-strikes-kill-three-near-kyiv-zelensky-makes-landmark-visit-to-serbia",
-      "published_date": "2026-08-08T06:34:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: Russian strikes kill four near Kyiv as Zelensky makes landmark visit to Serbia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260808-russian-missile-strikes-near-kyiv-kill-three-including-a-child",
-      "published_date": "2026-08-08T06:10:11+00:00",
       "category": "Local Events"
     }
   ]
