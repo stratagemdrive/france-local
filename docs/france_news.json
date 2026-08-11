@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-08-10T23:30:53.839956+00:00",
-  "story_count": 100,
+  "last_updated": "2026-08-11T11:39:54.842368+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Spanish foreign minister says ‘every last person’ will be returned to Morocco, urging migrants to ‘not risk lives again’ – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
+      "published_date": "2026-08-11T11:34:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France, EU join international aid effort after Colombia earthquake",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260811-france-eu-join-international-aid-effort-after-colombia-earthquake",
+      "published_date": "2026-08-11T10:08:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Five years on, Afghanistan's Taliban build foreign ties despite rights concerns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260811-five-years-on-afghanistan-s-taliban-build-foreign-ties-despite-rights-concerns",
+      "published_date": "2026-08-11T06:04:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Another heatwave hits Europe as drought and fires worsen",
       "source": "France 24",
@@ -22,6 +43,13 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/sports/20260810-eu-athletics-comp-to-apply-new-tv-guidelines-on-non-sexualisation-of-women",
       "published_date": "2026-08-10T09:08:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Western Europe experienced hottest June-July on record",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260810/western-europe-experienced-hottest-june-july-on-record",
+      "published_date": "2026-08-10T08:35:47+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Blame game as Brussels builds ‘Europe’s largest frying pan’ instead of shady square",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/09/blame-brussels-eu-quarter-schuman-square",
-      "published_date": "2026-08-09T04:00:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain imposes border checks on Italian travellers amid migrant dispute",
+      "title": "Rwandan Tungsten mine enters US defence supply chain",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260808-spain-imposes-border-checks-on-italian-travellers-amid-migrant-dispute",
-      "published_date": "2026-08-08T17:07:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260811-rwandan-tungsten-mine-enters-us-defence-supply-chain",
+      "published_date": "2026-08-11T09:24:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-08T15:59:37+00:00",
-      "category": "Diplomacy"
+      "title": "Donald Trump took secret flight out of Turkey over Iran threat, the Washington Post reports",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260811-donald-trump-took-secret-flight-out-of-turkey-over-iran-threat-the-washington-post-reports",
+      "published_date": "2026-08-11T09:15:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kosovan lawmaker hurls eggs at the prime minister – video",
+      "title": "Trump secretly swapped planes in Turkey over Iran threat, report says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260811-trump-secretly-swapped-planes-in-turkey-over-iran-threat-report-says",
+      "published_date": "2026-08-11T08:11:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gangs using Airbnb-type rentals as drug stash houses, top Belgian official says",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/08/lawmaker-hurls-eggs-at-kosovo-prime-minister-video",
-      "published_date": "2026-08-08T15:24:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/technology/2026/aug/11/airbnb-type-rentals-drugs-crime-gangs-belgium",
+      "published_date": "2026-08-11T07:47:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russia bans voting against the war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/11/ukraine-war-briefing-russia-bans-voting-against-conflict",
+      "published_date": "2026-08-11T01:38:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Russian court bars only anti-war party from standing in parliamentary elections",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israel, US spar over Gaza withdrawal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-us-spar-over-gaza-withdrawal",
-      "published_date": "2026-08-09T13:20:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, Oman near deal on Strait of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-oman-near-deal-on-strait-of-hormuz",
-      "published_date": "2026-08-09T11:33:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Libreville grapples with water shortage",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/libreville-grapples-with-water-shortage",
-      "published_date": "2026-08-09T09:32:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine denies targeting Bulgaria, after drone exploded near a gas pipeline",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-denies-targeting-bulgaria-after-drone-exploded-near-a-gas-pipeline",
-      "published_date": "2026-08-09T09:04:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian family denied asylum in Finland fear reprisals for pro-Ukraine activism",
+      "title": "Hotel prices in Europe jump before total solar eclipse",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/09/russian-family-finland-reprisals-pro-ukraine-activism",
-      "published_date": "2026-08-09T07:00:08+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/travel/2026/aug/11/hotel-prices-europe-total-solar-eclipse-iceland-spain-bookings",
+      "published_date": "2026-08-11T10:50:12+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Where in France to find protective glasses for Wednesday's eclipse",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260811/where-in-france-to-find-protective-glasses-for-wednesdays-eclipse",
+      "published_date": "2026-08-11T10:01:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "Tensions in the Arctic: Greenland issues sharp rebuke to Trump-linked oil company",
@@ -407,20 +421,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260807-award-winning-ethiopian-journalist-accused-authorities-of-abduction",
       "published_date": "2026-08-07T09:33:35+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Argentina: Thousands protest private property legislation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/argentina-thousands-protest-private-property-legislation",
-      "published_date": "2026-08-07T08:05:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Italy places all major cities on red alert as heatwave grips Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260807-italy-places-all-major-cities-on-red-alert-new-heatwave-grips-europe",
-      "published_date": "2026-08-07T07:23:07+00:00",
       "category": "Energy"
     },
     {
@@ -550,18 +550,53 @@
       "category": "Economy"
     },
     {
-      "title": "What tariffs has Trump introduced and why?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-04T08:09:49+00:00",
-      "category": "Economy"
+      "title": "Turkey MPs back law on reintegrating Kurdish PKK militants",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/turkey-mps-back-law-on-reintegrating-kurdish-pkk-militants",
+      "published_date": "2026-08-11T10:18:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Michigan Democrats pick nominee in high-profile Senate primary amid record pro-Israel spending",
+      "title": "French buyers rethink housing choices after heatwaves",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260811/french-buyers-rethink-housing-choices-after-heatwaves",
+      "published_date": "2026-08-11T09:56:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Esports World Cup underway in Paris",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260804-michigan-democrats-pick-nominee-in-high-profile-senate-primary-amid-record-pro-israel-spending-abdul-stevens",
-      "published_date": "2026-08-04T07:36:29+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260811-esports-world-cup-underway-in-paris",
+      "published_date": "2026-08-11T09:40:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia prepares for 8th general election since its return to a multi-party democracy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260811-zambia-prepares-for-8th-general-election-since-its-return-to-a-multi-party-democracy",
+      "published_date": "2026-08-11T09:13:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "🔴 Syria court sentences Bashar al-Assad to death for crimes against humanity in absentia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260811-syria-court-sentences-bashar-al-assad-to-death-for-crimes-against-humanity-in-absentia",
+      "published_date": "2026-08-11T08:50:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What the law says about e-scooter use in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260811/what-the-law-says-about-e-scooter-use-in-france",
+      "published_date": "2026-08-11T07:10:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia rescuers race against the clock to search for earthquake survivors",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260811-colombia-earthquake-rescue-efforts-enter-second-day-as-death-toll-reaches-164",
+      "published_date": "2026-08-11T07:04:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Live: Russian missiles strike Kyiv, triggering fires in city centre",
@@ -585,10 +620,31 @@
       "category": "Local Events"
     },
     {
+      "title": "Gelato for lunch? Bedlinen in the freezer? Heatwave tips from southern Europe",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260810/gelato-for-lunch-bedlinen-in-the-freezer-heatwave-tips-from-southern-europe",
+      "published_date": "2026-08-10T13:46:06+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "How to feel optimistic in the face of crisis? Ask the kids fighting slug-like aliens | Alexander Hurst",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/aug/10/animorphs-books-tv-series-optimism-catastrophe",
       "published_date": "2026-08-10T13:00:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "May ’68 protest leader Cohn-Bendit pledges support to Glucksmann for 2027",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260810-may-68-veteran-cohn-bendit-throws-support-behind-left-wing-glucksmann-for-2027",
+      "published_date": "2026-08-10T13:00:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MAP: Where in France is closed due to wildfires?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260810/map-where-in-france-is-closed-due-to-wildfires",
+      "published_date": "2026-08-10T11:36:57+00:00",
       "category": "Local Events"
     },
     {
@@ -603,6 +659,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
       "published_date": "2026-08-10T09:32:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French local authority sells homes from €80,000",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260810/french-local-authority-sells-homes-from-e80000",
+      "published_date": "2026-08-10T09:28:20+00:00",
       "category": "Local Events"
     },
     {
@@ -624,83 +687,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-09T21:26:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-09T20:58:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alleged crime boss Daniel Kinahan’s return to Ireland ends global game of cat-and-mouse",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/09/daniel-kinahan-return-ireland-ends-global-game-cat-and-mouse",
-      "published_date": "2026-08-09T18:18:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfire rages in southern France, forcing evacuations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260809-wildfire-rages-in-southern-france-forcing-evacuations",
-      "published_date": "2026-08-09T17:21:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Demi Vollering wins second Women’s Tour de France title",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260809-demi-vollering-wins-second-women-s-tour-de-france-title",
-      "published_date": "2026-08-09T17:04:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week in pictures: Summer wildfires, a Thai school shooting and the Tour de France Femmes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260809-the-week-in-pictures-summer-wildfires-thai-school-shooting-tour-de-france-femmes",
-      "published_date": "2026-08-09T13:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blast wounds two as de la Espriella cracks down on prisons",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/blast-wounds-two-as-de-la-espriella-cracks-down-on-prisons",
-      "published_date": "2026-08-09T11:36:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France faces reckoning on child abuse",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-faces-reckoning-on-child-abuse",
-      "published_date": "2026-08-09T11:34:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rise in injuries sees Paris police impose new rules on e-scooter users",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260809-rise-in-injuries-sees-paris-council-impose-new-rules-on-e-scooter-users",
-      "published_date": "2026-08-09T09:49:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris orders e-scooter users to wear helmets and reflective gear",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260809/paris-orders-e-scooter-users-to-wear-helmets-and-reflective-gear",
-      "published_date": "2026-08-09T06:28:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On the Agenda: What’s happening in France this week",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260809/on-the-agenda-whats-happening-in-france-this-week-222",
-      "published_date": "2026-08-09T06:05:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Back to school, Schengen and French village names: 6 essential articles for life in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260809/back-to-school-schengen-and-french-village-names-6-essential-articles-for-life-in-france",
-      "published_date": "2026-08-09T06:04:39+00:00",
       "category": "Local Events"
     }
   ]
