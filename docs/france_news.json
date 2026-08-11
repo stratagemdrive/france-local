@@ -1,6 +1,6 @@
 {
   "country": "France",
-  "last_updated": "2026-08-11T11:39:54.842368+00:00",
+  "last_updated": "2026-08-11T23:35:06.857565+00:00",
   "story_count": 98,
   "stories": [
     {
@@ -144,6 +144,83 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Fast and fearless: Baltic defence startups innovate to counter Russian threat",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260811-fast-and-fearless-baltic-defence-startups-innovate-to-counter-russian-threat",
+      "published_date": "2026-08-11T17:48:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia frees ailing ex-US marine after four years in prison on disputed charges",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260811-russia-frees-ex-us-marine-after-four-years-imprisonment-on-disputed-charges",
+      "published_date": "2026-08-11T17:02:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France’s complex picture of collaborating with and combating Nazis | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/11/france-complex-picture-of-collaborating-with-and-combating-nazis",
+      "published_date": "2026-08-11T16:57:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T16:19:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria sentences Bashar al-Assad to death in absentia over atrocities",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260811-syria-sentences-bashar-al-assad-to-death-in-absentia-over-atrocities",
+      "published_date": "2026-08-11T16:15:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine says Russia fired North Korean missiles",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles",
+      "published_date": "2026-08-11T13:57:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rebel forces in Ethiopia's Tigray state condemn army drone strikes",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260811-rebel-forces-in-ethiopia-s-tigray-state-condemn-army-drone-strikes",
+      "published_date": "2026-08-11T13:25:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Civilian casualties climb as Russia and Ukraine exchange fresh strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
+      "published_date": "2026-08-11T13:03:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump boarded secret flight via catering truck due to Iran threat, US media reports",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-boarded-secret-flight-via-catering-truck-due-to-iran-threat-us-media-reports",
+      "published_date": "2026-08-11T12:28:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former Syrian leader Assad sentenced to death in absentia over war crimes",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260811-former-syrian-leader-assad-sentenced-to-death-in-absentia-over-war-crimes",
+      "published_date": "2026-08-11T11:58:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 2,000 die in DR Congo's fastest-growing Ebola outbreak on record",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260811-thousands-die-as-dr-congo-faces-fastest-growing-ebola-outbreak-on-record",
+      "published_date": "2026-08-11T11:47:31+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Rwandan Tungsten mine enters US defence supply chain",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260811-rwandan-tungsten-mine-enters-us-defence-supply-chain",
@@ -155,6 +232,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260811-donald-trump-took-secret-flight-out-of-turkey-over-iran-threat-the-washington-post-reports",
       "published_date": "2026-08-11T09:15:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky accuses Russia of using North Korean missiles in deadly attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260811-zelensky-accuses-russia-of-using-n-korean-missiles-in-deadly-attack",
+      "published_date": "2026-08-11T08:45:14+00:00",
       "category": "Military"
     },
     {
@@ -200,88 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Iran says ‘Muslim Nato’ pact reflects retreat from US security umbrella",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260810-iran-says-muslim-nato-pact-reflects-retreat-from-us-security-umbrella",
-      "published_date": "2026-08-10T15:21:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine launches drone attack on Russian oil refining facilities – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/ukraine-drones-russia-oil-facilities-europe-heat-drought-latest-updates-news",
-      "published_date": "2026-08-10T10:53:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-10T10:03:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "It’s not just the Odyssey effect: poetry is booming because it’s the only language for these times of violence and chaos | Charlotte Higgins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/10/poetry-boom-language-violence-chaos-odyssey-ukraine-gaza",
-      "published_date": "2026-08-10T07:00:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Moscow and Damascus reach deal over Russian military bases in Syria",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260810-moscow-and-damascus-reach-deal-over-russian-military-bases-in-syria",
-      "published_date": "2026-08-10T04:56:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: North Korea sending 50,000 troops to Russia – Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-war-briefing-north-korea-sending-50000-troops-to-russia-zelenskyy",
-      "published_date": "2026-08-10T01:18:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-09T16:18:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria, Russia agree to end military use of key Mediterranean bases",
+      "title": "Parisians get ready for the eclipse",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260809-syria-russia-agree-to-end-military-use-of-key-mediterranean-bases",
-      "published_date": "2026-08-09T15:58:21+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/parisians-get-ready-for-the-eclipse",
+      "published_date": "2026-08-11T14:40:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran sets tough terms to reopen Strait of Hormuz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-sets-tough-terms-to-reopen-strait-of-hormuz",
-      "published_date": "2026-08-09T14:59:00+00:00",
-      "category": "Military"
+      "title": "Solar eclipse sparks scramble for protective glasses across Europe",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260811/solar-eclipse-sparks-scramble-for-protective-glasses-across-europe",
+      "published_date": "2026-08-11T12:40:53+00:00",
+      "category": "Energy"
     },
     {
-      "title": "North Korea may deploy up to 50,000 troops to Russia, Zelensky claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260809-zelensky-claims-north-korea-may-deploy-50-000-troops-russia",
-      "published_date": "2026-08-09T14:58:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "I Rarely Wake Up Dreaming review – brilliant bulletin from Ukrainian frontline dives deep into culture war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/09/i-rarely-wake-up-dreaming-review",
-      "published_date": "2026-08-09T14:34:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia and Ukraine exchange deadly overnight strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes",
-      "published_date": "2026-08-09T13:22:24+00:00",
-      "category": "Military"
+      "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260811/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant",
+      "published_date": "2026-08-11T11:57:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "Hotel prices in Europe jump before total solar eclipse",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "USA: Democrats' progressive wing 'can win primaries'; can they win a general election?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260807-usa-democrats-progressive-wing-can-win-primaries-can-they-win-a-general-election",
-      "published_date": "2026-08-07T11:09:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "French farmers 'heavily impacted' by climate crisis, both psychologically and economically.",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-farmers-heavily-impacted-by-climate-crisis-both-psychologically-and-economically",
-      "published_date": "2026-08-07T10:39:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Award-winning Ethiopian journalist accused authorities of abduction",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260807-award-winning-ethiopian-journalist-accused-authorities-of-abduction",
-      "published_date": "2026-08-07T09:33:35+00:00",
-      "category": "Energy"
+      "title": "As heatwaves hit Britain, spare a thought for farm animals | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/11/as-heatwaves-hit-britain-spare-a-thought-for-farm-animals",
+      "published_date": "2026-08-11T16:57:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Ghana backs Jamaica's petition to push UK for slavery reparations",
@@ -508,6 +515,13 @@
       "category": "Economy"
     },
     {
+      "title": "What tariffs has Trump introduced and why?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-05T22:47:45+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Infantino sorry for errors but stays Fifa president",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
@@ -536,18 +550,39 @@
       "category": "Economy"
     },
     {
-      "title": "Top Fifa executive Wenger condemns move to reform World Cup business plan",
+      "title": "Assisted dying, social media and agriculture put France’s top court in spotlight",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260804-top-fifa-executive-wenger-condemns-move-to-reform-world-cup-business-plan",
-      "published_date": "2026-08-04T14:42:08+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/france/20260811-assisted-dying-social-media-and-agriculture-put-france-s-top-court-in-spotlight",
+      "published_date": "2026-08-11T18:01:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FIFA president Infantino's problems mount as key FIFA allies turn on him",
+      "title": "Death toll from Colombia earthquake continues to rise",
       "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260804-fifa-president-infantino-s-problems-mount-as-key-fifa-allies-turn-on-him",
-      "published_date": "2026-08-04T12:43:12+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/death-toll-from-colombia-earthquake-continues-to-rise",
+      "published_date": "2026-08-11T14:30:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Europe battles wildfires and braces for another summer heatwave",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe-battles-wildfires-and-braces-for-another-summer-heatwave",
+      "published_date": "2026-08-11T13:52:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Breton-born world pâtisserie champion reveals secret of his success",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260811/breton-born-world-patisserie-champion-reveals-secret-of-his-success",
+      "published_date": "2026-08-11T12:14:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French pastry chef crowned world's best aims 'to be world champion every day'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260811-newly-crowned-world-s-best-pastry-chef-stays-true-to-artisan-roots",
+      "published_date": "2026-08-11T10:37:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Turkey MPs back law on reintegrating Kurdish PKK militants",
@@ -582,6 +617,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260811-syria-court-sentences-bashar-al-assad-to-death-for-crimes-against-humanity-in-absentia",
       "published_date": "2026-08-11T08:50:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heathrow says need for expansion clear as it loses title of Europe’s busiest airport",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/11/heathrow-expansion-not-europe-busiest-airport-istanbul",
+      "published_date": "2026-08-11T08:02:59+00:00",
       "category": "Local Events"
     },
     {
@@ -645,48 +687,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260810/map-where-in-france-is-closed-due-to-wildfires",
       "published_date": "2026-08-10T11:36:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roman shipwreck with 500 amphorae found off coast of Sicily",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/aug/10/roman-shipwreck-with-500-amphorae-found-off-coast-of-sicily",
-      "published_date": "2026-08-10T10:44:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather tracker: Europe breaks more heat records as temperatures soar",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
-      "published_date": "2026-08-10T09:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French local authority sells homes from €80,000",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260810/french-local-authority-sells-homes-from-e80000",
-      "published_date": "2026-08-10T09:28:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Irish cartel boss Daniel Kinahan extradited from Dubai and charged in Dublin",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260810-irish-cartel-boss-daniel-kinahan-extradited-from-dubai-and-charged-in-dublin",
-      "published_date": "2026-08-10T08:21:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of Ukrainian drones target Russia in deadly overnight strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260810-hundreds-of-ukrainian-drones-target-russia-in-overnight-strikes",
-      "published_date": "2026-08-10T06:34:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-09T21:26:56+00:00",
       "category": "Local Events"
     }
   ]
