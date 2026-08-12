@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-08-11T23:35:06.857565+00:00",
+  "last_updated": "2026-08-12T11:42:05.069906+00:00",
   "story_count": 98,
   "stories": [
+    {
+      "title": "Repair rules tightened for white goods in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260812/repair-rules-tightened-for-white-goods-in-france",
+      "published_date": "2026-08-12T10:06:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ceuta showed just how easily Europe can be divided",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/ceuta-showed-just-how-easy-it-is-to-divide-europe",
+      "published_date": "2026-08-12T04:00:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nigerian returnees try to re-adapt after trauma in South Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nigerians-returnees-try-to-re-adapt-after-trauma-in-south-africa",
+      "published_date": "2026-08-11T21:10:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spanish foreign minister says ‘every last person’ will be returned to Morocco, urging migrants to ‘not risk lives again’ – Europe live",
       "source": "The Guardian",
@@ -123,25 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Spain starts border checks on Italy over Ceuta dispute",
+      "title": "Ukraine seeks closer cooperation with South Korea",
       "source": "France 24",
-      "url": "https://www.france24.com/en/spain-starts-border-checks-on-italy-over-ceuta-dispute",
-      "published_date": "2026-08-09T09:02:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ukraine-seeks-closer-cooperation-with-south-korea",
+      "published_date": "2026-08-12T10:57:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Demi Vollering turns women's Tour de France upside down on eve of finish",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260809-demi-vollering-turns-women-tour-de-france-upside-down-eve-of-finish",
-      "published_date": "2026-08-09T08:23:32+00:00",
-      "category": "Diplomacy"
+      "title": "Iran war and high living costs fuelling last-minute holiday bookings, Tui says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/12/iran-war-high-living-costs-fuel-last-minute-holiday-bookings-tui",
+      "published_date": "2026-08-12T10:45:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sall's chances at UN secretary-general role weakened after first vote",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260809-sall-s-chances-at-un-secretary-general-role-weakened-after-first-vote",
-      "published_date": "2026-08-09T07:35:44+00:00",
-      "category": "Diplomacy"
+      "title": "Germany approves lifting curbs on spy agencies in security ‘revolution’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/12/germany-approves-lifting-curbs-spy-agencies-security-revolution",
+      "published_date": "2026-08-12T10:43:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pressure mounts on French household budgets as gas prices rise again",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260812/pressure-mounts-on-french-household-budgets-as-gas-prices-rise-again",
+      "published_date": "2026-08-12T10:03:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe braces for another heatwave",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe-braces-for-another-heatwave",
+      "published_date": "2026-08-12T08:44:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia's only anti-war party banned",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-s-only-anti-war-party-banned",
+      "published_date": "2026-08-12T08:42:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Donald Trump says he faced ‘greater risk’ on swapped plane",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/donald-trump-says-he-faced-greater-risk-on-swapped-plane",
+      "published_date": "2026-08-12T08:39:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East live: US military strikes ship violating its blockade of Iranian ports",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260812-middle-east-live-us-military-strikes-ship-violating-blockade-of-iranian-ports",
+      "published_date": "2026-08-12T03:11:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea conducts second ballistic missile test in less than a week",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260812-north-korea-conducts-second-ballistic-missile-test-in-less-than-a-week",
+      "published_date": "2026-08-12T02:18:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: North Korean missiles hit Zaporizhzhia in deadly attack",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/12/ukraine-war-briefing-north-korean-missiles-attack-zaporizhzhia",
+      "published_date": "2026-08-12T01:22:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Libyan National Army intel chief assassinated in Benghazi car bombing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260811-libyan-military-intelligence-chief-assassinated-in-car-bombing",
+      "published_date": "2026-08-11T23:33:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Fast and fearless: Baltic defence startups innovate to counter Russian threat",
@@ -207,81 +284,88 @@
       "category": "Military"
     },
     {
-      "title": "Former Syrian leader Assad sentenced to death in absentia over war crimes",
+      "title": "Solar eclipse: A rare show with scientific secrets",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/solar-eclipse-a-rare-show-with-scientific-secrets",
+      "published_date": "2026-08-12T10:59:22+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Solar eclipse: \"Never look at it without eye protection\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/solar-eclipse-never-look-at-it-without-eye-protection",
+      "published_date": "2026-08-12T10:53:33+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Millions gear up for first total eclipse since 2006",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/millions-gear-up-for-first-total-eclipse-since-2006",
+      "published_date": "2026-08-12T09:20:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Mainland Europe's first total eclipse since 2006",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mainland-europe-s-first-total-eclipse-since-2006",
+      "published_date": "2026-08-12T08:31:33+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Rare total solar eclipse to cross Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/rare-total-solar-eclipse-to-cross-europe",
+      "published_date": "2026-08-12T08:28:53+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "FACTS: What to know about Europe's total solar eclipse",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260812/facts-what-to-know-about-europes-total-solar-eclipse",
+      "published_date": "2026-08-12T08:28:13+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘The first of our lives’: Thousands in Spain rush for best spot to watch total solar eclipse (3/4)",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260812-the-first-of-our-lives-thousands-spain-rush-best-spot-watch-total-solar-eclipse",
+      "published_date": "2026-08-12T08:04:41+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How to make the most of Wednesday's solar eclipse in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260812/how-to-make-the-most-of-wednesdays-solar-eclipse-in-france",
+      "published_date": "2026-08-12T07:41:39+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "'Event of the century': Total solar eclipse draws visitors to sleepy European villages",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260812-total-solar-eclipse-draws-visitors-sleepy-european-villages-event-of-the-century",
+      "published_date": "2026-08-12T07:14:55+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Europe is the world’s fastest warming continent. What is to blame?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/12/europe-worlds-fastest-warming-continent-climate-crisis-explainer",
+      "published_date": "2026-08-12T06:00:22+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Total solar eclipse over Spain to draw millions of viewers across Europe",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260811-former-syrian-leader-assad-sentenced-to-death-in-absentia-over-war-crimes",
-      "published_date": "2026-08-11T11:58:12+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/international/20260812-total-solar-eclipse-over-spain-to-draw-millions-of-viewers-across-europe",
+      "published_date": "2026-08-12T05:44:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "At least 2,000 die in DR Congo's fastest-growing Ebola outbreak on record",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260811-thousands-die-as-dr-congo-faces-fastest-growing-ebola-outbreak-on-record",
-      "published_date": "2026-08-11T11:47:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rwandan Tungsten mine enters US defence supply chain",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260811-rwandan-tungsten-mine-enters-us-defence-supply-chain",
-      "published_date": "2026-08-11T09:24:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Donald Trump took secret flight out of Turkey over Iran threat, the Washington Post reports",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260811-donald-trump-took-secret-flight-out-of-turkey-over-iran-threat-the-washington-post-reports",
-      "published_date": "2026-08-11T09:15:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky accuses Russia of using North Korean missiles in deadly attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260811-zelensky-accuses-russia-of-using-n-korean-missiles-in-deadly-attack",
-      "published_date": "2026-08-11T08:45:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump secretly swapped planes in Turkey over Iran threat, report says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260811-trump-secretly-swapped-planes-in-turkey-over-iran-threat-report-says",
-      "published_date": "2026-08-11T08:11:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gangs using Airbnb-type rentals as drug stash houses, top Belgian official says",
+      "title": "‘It’s going to be spectacular’: Millions flock to Spain seeking best view of total solar eclipse",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/aug/11/airbnb-type-rentals-drugs-crime-gangs-belgium",
-      "published_date": "2026-08-11T07:47:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russia bans voting against the war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/11/ukraine-war-briefing-russia-bans-voting-against-conflict",
-      "published_date": "2026-08-11T01:38:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-10T18:19:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia bars only anti-war party 'Yabloko' from September parliamentary elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260810-russia-bars-only-anti-war-party-from-elections",
-      "published_date": "2026-08-10T17:49:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US intelligence ‘believes Russia was behind Leipzig airport drone bomb’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/10/us-intelligence-russia-leipzig-airport-drone-bomb",
-      "published_date": "2026-08-10T15:55:26+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/science/2026/aug/12/its-going-to-be-spectacular-millions-flock-to-spain-seeking-best-view-of-total-solar-eclipse",
+      "published_date": "2026-08-12T04:00:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Parisians get ready for the eclipse",
@@ -340,88 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "From Solar corona to human emotions: What can we learn from eclipses? (2/4)",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260810-from-solar-corona-to-human-emotions-what-can-we-learn-from-eclipses-2-4",
-      "published_date": "2026-08-10T05:17:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "As the planet heats up, butterflies are seeking out cooler climes",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260809-as-the-planet-heats-up-butterflies-are-seeking-out-cooler-climes",
-      "published_date": "2026-08-09T13:39:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Investigation raises alarm over uranium in DRC cobalt shipments to China",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260809-investigation-raises-alarm-over-uranium-in-drc-cobalt-shipments-to-china",
-      "published_date": "2026-08-09T10:53:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Home Office ‘error’ leaves Italian man’s wife with no right to stay in UK",
+      "title": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/09/home-office-error-leaves-italian-mans-wife-with-no-right-to-stay-in-uk",
-      "published_date": "2026-08-09T09:00:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Eclipse chasers: When chasing totality becomes a way of life (1/4)",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260809-eclipse-chasers-when-chasing-totality-becomes-a-way-of-life-1-4",
-      "published_date": "2026-08-09T07:19:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Europe readies for solar eclipse dip in power generation",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260808/europe-readies-for-solar-eclipse-dip-in-power-generation",
-      "published_date": "2026-08-08T11:31:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Vietnam's indigenous Hmong people forced to adapt to climate crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260808-vietnam-s-indigenous-hmong-people-forced-to-adapt-to-climate-crisis",
-      "published_date": "2026-08-08T09:00:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Crocodiles attacks increase in Kenya",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/crocodiles-attacks-increase-in-kenya",
-      "published_date": "2026-08-08T08:30:50+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Spanish mountain village braces for astrotourists lured by total solar eclipse",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/08/spanish-mountain-village-braces-for-astrotourists-lured-by-total-solar-eclipse",
-      "published_date": "2026-08-08T07:00:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Houthi attacks kill at least 10 in Yemen as rebels target oil-rich Marib",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260807-houthi-attacks-kill-at-least-10-in-yemen-as-iran-backed-rebels-target-marib",
-      "published_date": "2026-08-07T20:52:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Winemakers across Europe face the challenges of climate change",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260807-winemakers-across-europe-face-the-challenges-of-climate-change",
-      "published_date": "2026-08-07T18:52:50+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-07T13:32:41+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
+      "published_date": "2026-08-12T04:00:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "As heatwaves hit Britain, spare a thought for farm animals | Letters",
@@ -543,11 +550,39 @@
       "category": "Economy"
     },
     {
-      "title": "The era of the machine: Silicon Valley shows off humanoid robots",
+      "title": "Hungary elects Orban critic Andras Baka as first president in new political era",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260812-hungary-elects-orban-critic-andras-baka-as-first-president-of-new-political-era",
+      "published_date": "2026-08-12T09:36:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Freewheeling UK family fined for French road toll dodge",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260812/freewheeling-uk-family-fined-for-french-road-toll-dodge",
+      "published_date": "2026-08-12T06:46:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘If we exhibited all the Balkan jokes, we wouldn’t have opened’: a trip to Slovenia’s Bullshit Museum",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/2026/aug/12/slovenia-ljubljana-bullshit-museum-balkan-humour",
+      "published_date": "2026-08-12T06:00:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League: Lyon defeat Prague and await Fenerbahçe in playoffs",
       "source": "France 24",
-      "url": "https://www.france24.com/en/the-era-of-the-machine-silicon-valley-shows-off-humanoid-robots",
-      "published_date": "2026-08-05T10:48:44+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/sports/20260812-champions-league-lyon-defeat-prague-await-fenerbahce-playoffs",
+      "published_date": "2026-08-12T05:29:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British man with dementia told to leave Sweden after losing migration case",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/12/british-man-dementia-leave-sweden-brexit-migration-case",
+      "published_date": "2026-08-12T04:00:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Assisted dying, social media and agriculture put France’s top court in spotlight",
@@ -652,41 +687,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-10T18:24:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
-      "published_date": "2026-08-10T16:25:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gelato for lunch? Bedlinen in the freezer? Heatwave tips from southern Europe",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260810/gelato-for-lunch-bedlinen-in-the-freezer-heatwave-tips-from-southern-europe",
-      "published_date": "2026-08-10T13:46:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How to feel optimistic in the face of crisis? Ask the kids fighting slug-like aliens | Alexander Hurst",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/10/animorphs-books-tv-series-optimism-catastrophe",
-      "published_date": "2026-08-10T13:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "May ’68 protest leader Cohn-Bendit pledges support to Glucksmann for 2027",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260810-may-68-veteran-cohn-bendit-throws-support-behind-left-wing-glucksmann-for-2027",
-      "published_date": "2026-08-10T13:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MAP: Where in France is closed due to wildfires?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260810/map-where-in-france-is-closed-due-to-wildfires",
-      "published_date": "2026-08-10T11:36:57+00:00",
       "category": "Local Events"
     }
   ]
