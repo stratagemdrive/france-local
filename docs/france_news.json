@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-08-13T11:41:20.952497+00:00",
-  "story_count": 99,
+  "last_updated": "2026-08-13T23:36:39.684424+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/13/russian-plot-kill-ukrainian-american-thwarted-poland-says-polish-pm",
+      "published_date": "2026-08-13T19:32:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European drought shrivels crops despite farmers’ best efforts to adapt",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260813-european-drought-shrivels-crops-despite-farmers-best-efforts-to-adapt",
+      "published_date": "2026-08-13T16:47:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eurovision: Winners involved in 'armed conflict' now ineligible to host contest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/eurovision-winners-involved-in-armed-conflict-now-ineligible-to-host-contest",
+      "published_date": "2026-08-13T15:45:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and 30 other countries condemn Iran's executions of protestors",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260813-france-and-30-other-countries-condemn-iran-s-executions-of-protestors",
+      "published_date": "2026-08-13T15:02:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian detained over plot to 'execute' Ukrainian-American in Warsaw, Tusk says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260813-poland-detains-russian-for-execution-plot-in-warsaw-tusk-says",
+      "published_date": "2026-08-13T14:54:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
+      "published_date": "2026-08-13T14:21:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Viral dancing seniors inspire Italy's ageing population to get moving",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260813-if-you-can-move-say-rome-s-viral-dancing-seniors",
+      "published_date": "2026-08-13T13:55:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
+      "published_date": "2026-08-13T12:56:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Eclipse: Europe falls into darkness as millions watch",
       "source": "France 24",
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Spanish foreign minister says ‘every last person’ will be returned to Morocco, urging migrants to ‘not risk lives again’ – Europe live",
+      "title": "A war on words: why Russian strikes are targeting Ukrainian publishers",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260813-a-war-on-words-why-russian-strikes-are-targeting-ukrainian-publishers",
+      "published_date": "2026-08-13T19:51:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine ‘offering Russia deal to halt attacks on civilian ships in Black Sea’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
-      "published_date": "2026-08-11T11:34:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/13/ukraine-proposes-deal-with-russia-to-halt-attacks-on-civilian-ships-in-black-sea",
+      "published_date": "2026-08-13T17:13:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "France, EU join international aid effort after Colombia earthquake",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260811-france-eu-join-international-aid-effort-after-colombia-earthquake",
-      "published_date": "2026-08-11T10:08:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Five years on, Afghanistan's Taliban build foreign ties despite rights concerns",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260811-five-years-on-afghanistan-s-taliban-build-foreign-ties-despite-rights-concerns",
-      "published_date": "2026-08-11T06:04:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Another heatwave hits Europe as drought and fires worsen",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260810-another-heat-blast-hits-europe-as-drought-fires-and-record-low-rivers-worsen",
-      "published_date": "2026-08-10T12:29:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Record temperatures swept regions home to 900 million people in July",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260810-record-temperatures-swept-regions-home-to-900-million-people-in-july",
-      "published_date": "2026-08-10T09:33:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU athletics to apply new TV guidelines on non-sexualisation of women",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260810-eu-athletics-comp-to-apply-new-tv-guidelines-on-non-sexualisation-of-women",
-      "published_date": "2026-08-10T09:08:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Western Europe experienced hottest June-July on record",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260810/western-europe-experienced-hottest-june-july-on-record",
-      "published_date": "2026-08-10T08:35:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "British widow, 78, told to leave Sweden under Brexit rules after living there for 21 years",
+      "title": "Ukrainian cathedrals, Gaza’s archives, Iranian squares – modern war is systematically erasing human history | Simon Jenkins",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/10/british-widow-78-told-to-leave-sweden-under-brexit-rules-after-living-there-for-21-years",
-      "published_date": "2026-08-10T04:00:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/ukraine-cathedrals-gaza-archives-iran-erase-history-war",
+      "published_date": "2026-08-13T16:04:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-13T15:50:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italian businessman admits organising bomb attack ‘to boost friend’s security’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/13/italian-businessman-valter-lavitola-bomb-attack-journalist-friend-sigfrido-ranucci",
+      "published_date": "2026-08-13T13:26:52+00:00",
+      "category": "Military"
     },
     {
       "title": "🔴 Live: Ukraine's civilian deaths in July hit highest level since May 2022, UN says",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Donald Trump says he faced ‘greater risk’ on swapped plane",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/donald-trump-says-he-faced-greater-risk-on-swapped-plane",
-      "published_date": "2026-08-12T08:39:27+00:00",
-      "category": "Military"
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-13T19:46:27+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Middle East live: US military strikes ship violating its blockade of Iranian ports",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260812-middle-east-live-us-military-strikes-ship-violating-blockade-of-iranian-ports",
-      "published_date": "2026-08-12T03:11:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea conducts second ballistic missile test in less than a week",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260812-north-korea-conducts-second-ballistic-missile-test-in-less-than-a-week",
-      "published_date": "2026-08-12T02:18:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: North Korean missiles hit Zaporizhzhia in deadly attack",
+      "title": "‘The colander worked best!’ Guardian readers share their experience of the solar eclipse",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/12/ukraine-war-briefing-north-korean-missiles-attack-zaporizhzhia",
-      "published_date": "2026-08-12T01:22:18+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/science/2026/aug/13/guardian-readers-share-solar-eclipse-experience",
+      "published_date": "2026-08-13T15:19:13+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Libyan National Army intel chief assassinated in Benghazi car bombing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260811-libyan-military-intelligence-chief-assassinated-in-car-bombing",
-      "published_date": "2026-08-11T23:33:37+00:00",
-      "category": "Military"
+      "title": "Romania shuts down nuclear plant due to low level of drought-hit Danube",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260813-romania-shuts-down-nuclear-plant-due-to-low-level-of-drought-hit-danube",
+      "published_date": "2026-08-13T13:28:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Solar eclipse 2026: One in eight people worldwide see partial eclipse",
@@ -400,27 +421,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/solar-eclipse-a-rare-show-with-scientific-secrets",
       "published_date": "2026-08-12T10:59:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Solar eclipse: A rare show that reveals scientific secrets",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260812-solar-eclipse-a-rare-show-that-reveals-scientific-secrets",
-      "published_date": "2026-08-12T10:59:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Solar eclipse: \"Never look at it without eye protection\"",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/solar-eclipse-never-look-at-it-without-eye-protection",
-      "published_date": "2026-08-12T10:53:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Millions gear up for first total eclipse since 2006",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/millions-gear-up-for-first-total-eclipse-since-2006",
-      "published_date": "2026-08-12T09:20:31+00:00",
       "category": "Energy"
     },
     {
@@ -543,18 +543,18 @@
       "category": "Economy"
     },
     {
-      "title": "#UEFA maintains #WorldCup boycott despite #FIFA apology",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260806-uefa-maintains-worldcup-boycott-despite-fifa-apology-1",
-      "published_date": "2026-08-06T16:31:24+00:00",
-      "category": "Economy"
+      "title": "Nearly 100 children detained as adults under UK-France migration deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
+      "published_date": "2026-08-13T18:13:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French MP proposes cigarette tax to cover cost of wildfires",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260806/french-mp-proposes-cigarette-tax-to-cover-cost-of-wildfires",
-      "published_date": "2026-08-06T12:28:18+00:00",
-      "category": "Economy"
+      "title": "Person fined after using foghorn to wake sleeping polar bear",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-13T15:30:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "IN PICTURES: Your photos of the eclipse in France",
@@ -680,20 +680,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20260811-newly-crowned-world-s-best-pastry-chef-stays-true-to-artisan-roots",
       "published_date": "2026-08-11T10:37:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey MPs back law on reintegrating Kurdish PKK militants",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/turkey-mps-back-law-on-reintegrating-kurdish-pkk-militants",
-      "published_date": "2026-08-11T10:18:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French buyers rethink housing choices after heatwaves",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260811/french-buyers-rethink-housing-choices-after-heatwaves",
-      "published_date": "2026-08-11T09:56:24+00:00",
       "category": "Local Events"
     }
   ]
