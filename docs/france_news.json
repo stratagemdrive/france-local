@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-08-12T23:36:28.956573+00:00",
-  "story_count": 98,
+  "last_updated": "2026-08-13T11:41:20.952497+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Eclipse: Europe falls into darkness as millions watch",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260813-eclipse-europe-falls-into-darkness-as-millions-watch",
+      "published_date": "2026-08-13T10:06:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US ambassador to Israel slams settler siege against West Bank Palestinians as ‘terror’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
+      "published_date": "2026-08-13T09:14:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Japan summons Russian ambassador after Putin’s visit to disputed Kuril islands",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260813-putin-visits-kuril-islands-claimed-by-japan",
+      "published_date": "2026-08-13T04:53:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Countries in ‘armed conflict’ barred from hosting Eurovision",
       "source": "The Guardian",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Movie paradise? How Malta became a magnet for big film shoots",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/10/movie-paradise-how-malta-became-a-magnet-for-big-film-shoots",
-      "published_date": "2026-08-10T04:00:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Western Europe lived through hottest June and July ever recorded",
+      "title": "🔴 Live: Ukraine's civilian deaths in July hit highest level since May 2022, UN says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260810-western-europe-saw-hottest-june-july-on-record-as-climate-change-fuels-historic-summer",
-      "published_date": "2026-08-10T02:15:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
+      "published_date": "2026-08-13T09:47:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "World’s seas have hit hottest temperature on record for July, say scientists",
+      "title": "Eurovision to bar countries at war from hosting",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260813/eurovision-to-bar-countries-at-war-from-hosting",
+      "published_date": "2026-08-13T07:35:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-13T04:55:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A bungled bomb plot in Poland exposed a spy – but whose spy was he?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists",
-      "published_date": "2026-08-10T02:00:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he",
+      "published_date": "2026-08-13T04:00:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: ‘With precision, as planned’ – Kyiv outlines battlefield gains",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ukraine-war-briefing-kyiv-outlines-battlefield-gains",
+      "published_date": "2026-08-13T01:37:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
@@ -249,39 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Fast and fearless: Baltic defence startups innovate to counter Russian threat",
+      "title": "Solar eclipse 2026: One in eight people worldwide see partial eclipse",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260811-fast-and-fearless-baltic-defence-startups-innovate-to-counter-russian-threat",
-      "published_date": "2026-08-11T17:48:28+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260813-solar-eclipse-2026-one-in-eight-people-worldwide-see-partial-eclipse",
+      "published_date": "2026-08-13T09:49:34+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia frees ailing ex-US marine after four years in prison on disputed charges",
+      "title": "Total eclipse plunges Spain’s Segovia into darkness for 59 seconds of wonder (4/4)",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260811-russia-frees-ex-us-marine-after-four-years-imprisonment-on-disputed-charges",
-      "published_date": "2026-08-11T17:02:10+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260813-total-eclipse-plunges-spain-segovia-into-darkness-suspending-time-59-seconds",
+      "published_date": "2026-08-13T08:56:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "France’s complex picture of collaborating with and combating Nazis | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/11/france-complex-picture-of-collaborating-with-and-combating-nazis",
-      "published_date": "2026-08-11T16:57:01+00:00",
-      "category": "Military"
+      "title": "IN PICTURES: Thousands turn out in France to watch eclipse",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260813/in-pictures-thousands-turn-out-in-france-to-watch-eclipse",
+      "published_date": "2026-08-13T08:30:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T16:19:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria sentences Bashar al-Assad to death in absentia over atrocities",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260811-syria-sentences-bashar-al-assad-to-death-in-absentia-over-atrocities",
-      "published_date": "2026-08-11T16:15:51+00:00",
-      "category": "Military"
+      "title": "Millions gather to watch as solar eclipse plunges swathe of Spain into darkness",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260813-as-millions-gazed-in-awe-a-swathe-of-spain-plunged-into-darkness",
+      "published_date": "2026-08-13T06:39:58+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil spill from grounded tanker reaches Oman’s mainland beaches",
@@ -396,32 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Mainland Europe's first total eclipse since 2006",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/mainland-europe-s-first-total-eclipse-since-2006",
-      "published_date": "2026-08-12T08:31:33+00:00",
-      "category": "Energy"
+      "title": "Voters in Zambia to deliver verdict on president's economic record",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260813-voters-in-zambia-to-deliver-verdict-on-president-s-economic-record",
+      "published_date": "2026-08-13T09:01:17+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Rare total solar eclipse to cross Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/rare-total-solar-eclipse-to-cross-europe",
-      "published_date": "2026-08-12T08:28:53+00:00",
-      "category": "Energy"
+      "title": "Too smart to eat? Why octopus farms are such a slippery problem",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability",
+      "published_date": "2026-08-13T04:00:50+00:00",
+      "category": "Economy"
     },
     {
-      "title": "FACTS: What to know about Europe's total solar eclipse",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260812/facts-what-to-know-about-europes-total-solar-eclipse",
-      "published_date": "2026-08-12T08:28:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘The first of our lives’: Thousands in Spain rush for best spot to watch total solar eclipse (3/4)",
+      "title": "Zambia heads to polls with President Hichilema expected to win second term",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260812-the-first-of-our-lives-thousands-spain-rush-best-spot-watch-total-solar-eclipse",
-      "published_date": "2026-08-12T08:04:41+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/africa/20260813-zambia-heads-to-polls-with-president-hichilema-expected-to-win-second-term",
+      "published_date": "2026-08-13T00:33:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Iran faces growing isolation and uncertain future amid 'dire' economic situation",
@@ -536,18 +557,60 @@
       "category": "Economy"
     },
     {
-      "title": "Cape Verde: Illegal sand extractions for construction industry erodes coastline",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/cape-verde-illegal-sand-extractions-for-construction-industry-erodes-coastline",
-      "published_date": "2026-08-06T09:13:08+00:00",
-      "category": "Economy"
+      "title": "IN PICTURES: Your photos of the eclipse in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260813/in-pictures-your-photos-of-the-eclipse-in-france",
+      "published_date": "2026-08-13T11:16:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FIFA apologises for World Cup private investment controversy",
+      "title": "French firefighters call strike over 'under-staffing and lack of resources'",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260813/french-firefighters-call-strike-over-under-staffing-and-lack-of-resources",
+      "published_date": "2026-08-13T09:53:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why women in the Maghreb are having fewer children",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260806-fifa-apologises-for-world-cup-private-investment-controversy",
-      "published_date": "2026-08-06T05:17:49+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260813-why-women-in-the-maghreb-are-having-fewer-children",
+      "published_date": "2026-08-13T09:48:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform UK's Farage faces off against Count Binface in election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260813-reform-uk-s-farage-faces-off-against-count-binface-in-election",
+      "published_date": "2026-08-13T09:45:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris Saint-Germain retain Super Cup title by seeing off Aston Villa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260813-paris-saint-germain-retain-super-cup-title-by-seeing-off-aston-villa",
+      "published_date": "2026-08-13T08:32:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can UK's hard-right Farage bin financial probe with by-election win?",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260813-can-uk-s-hard-right-farage-bin-financial-probe-with-snap-poll",
+      "published_date": "2026-08-13T05:38:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I got married in the Vegas of Europe. It was the most romantic 20 minutes of my life | Jules Darmanin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/married-vegas-europe-copenhagen-romantic-brexit-visa-rules-love",
+      "published_date": "2026-08-13T04:00:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform UK's Farage and joke candidate Count Binface go head-to-head in snap election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260813-farage-and-count-binface-go-head-to-head-in-snap-uk-poll",
+      "published_date": "2026-08-13T02:25:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hungary elects Orban critic Andras Baka as first president in new political era",
@@ -631,62 +694,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260811/french-buyers-rethink-housing-choices-after-heatwaves",
       "published_date": "2026-08-11T09:56:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Esports World Cup underway in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260811-esports-world-cup-underway-in-paris",
-      "published_date": "2026-08-11T09:40:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia prepares for 8th general election since its return to a multi-party democracy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260811-zambia-prepares-for-8th-general-election-since-its-return-to-a-multi-party-democracy",
-      "published_date": "2026-08-11T09:13:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "🔴 Syria court sentences Bashar al-Assad to death for crimes against humanity in absentia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260811-syria-court-sentences-bashar-al-assad-to-death-for-crimes-against-humanity-in-absentia",
-      "published_date": "2026-08-11T08:50:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heathrow says need for expansion clear as it loses title of Europe’s busiest airport",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/11/heathrow-expansion-not-europe-busiest-airport-istanbul",
-      "published_date": "2026-08-11T08:02:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What the law says about e-scooter use in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260811/what-the-law-says-about-e-scooter-use-in-france",
-      "published_date": "2026-08-11T07:10:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia rescuers race against the clock to search for earthquake survivors",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260811-colombia-earthquake-rescue-efforts-enter-second-day-as-death-toll-reaches-164",
-      "published_date": "2026-08-11T07:04:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: Russian missiles strike Kyiv, triggering fires in city centre",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
-      "published_date": "2026-08-10T23:03:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-10T18:24:45+00:00",
       "category": "Local Events"
     }
   ]
