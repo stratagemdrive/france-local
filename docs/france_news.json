@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-08-13T23:36:39.684424+00:00",
+  "last_updated": "2026-08-14T11:40:13.360192+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Ukraine: Civilian casualties hit highest level since May 2022",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-civilian-casualties-hit-highest-level-since-may-2022",
+      "published_date": "2026-08-14T09:08:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘This is hell’: British widow ‘sick’ with worry after losing Brexit deportation appeal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/british-widow-joyce-thomas-sweden-deported-brexit-policy",
+      "published_date": "2026-08-14T07:00:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
       "source": "The Guardian",
@@ -130,18 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ceuta showed just how easily Europe can be divided",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/ceuta-showed-just-how-easy-it-is-to-divide-europe",
-      "published_date": "2026-08-12T04:00:18+00:00",
-      "category": "Diplomacy"
+      "title": "West Bank: Palestinians families trapped in homes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-homes",
+      "published_date": "2026-08-14T10:43:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nigerian returnees try to re-adapt after trauma in South Africa",
+      "title": "Ukraine war: Grain attacks raise food price fears",
       "source": "France 24",
-      "url": "https://www.france24.com/en/nigerians-returnees-try-to-re-adapt-after-trauma-in-south-africa",
-      "published_date": "2026-08-11T21:10:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ukraine-war-grain-attacks-raise-food-price-fears",
+      "published_date": "2026-08-14T10:41:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Renewed fighting in Tigray raises risk of a wider regional war",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260814-renewed-fighting-in-tigray-raises-risk-of-a-wider-regional-war",
+      "published_date": "2026-08-14T10:20:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel sends troops to West Bank homes besieged by settlers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-sends-troops-to-west-bank-homes-besied-by-settles",
+      "published_date": "2026-08-14T08:59:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Patriot missiles have been a godsend for Ukraine against Putin, but they’re running out. Kyiv needs help and fast | Jack Watling",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/14/patriot-missiles-ukraine-putin-kyiv-running-out-nato-danger",
+      "published_date": "2026-08-14T08:54:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali junta pardons French agent jailed for 'undermining state security'",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260814-mali-junta-pardons-french-agent-jailed-for-undermining-state-security-yann-v%C3%A9zilier",
+      "published_date": "2026-08-14T08:25:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO jets shoot down drone flying over eastern Latvia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260814-nato-jets-shoot-down-drone-flying-over-eastern-latvia",
+      "published_date": "2026-08-14T08:03:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US sailors report dire conditions as replacement carrier heads to Middle East",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/new-us-aircraft-carrier-heads-towards-middle-east-after-reports-of-dire-conditions-on-uss-lincoln",
+      "published_date": "2026-08-14T05:30:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Crimea bomb kills ‘Ukrainian sub commander who defected’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/ukraine-war-briefing-crimea-bomb-robert-shageyev-defected",
+      "published_date": "2026-08-14T02:05:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cuba's ex-president Raul Castro makes rare public appearance after US indictment",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260813-raul-castro-makes-rare-public-appearance-at-fidel-centenary-event",
+      "published_date": "2026-08-13T21:39:57+00:00",
+      "category": "Military"
     },
     {
       "title": "A war on words: why Russian strikes are targeting Ukrainian publishers",
@@ -214,80 +284,38 @@
       "category": "Military"
     },
     {
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-12T17:47:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli troops fail to remove settlers besieging Palestinian homes in West Bank village",
+      "title": "West Bank: Palestinians families trapped in home",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260812-israeli-settlers-keep-up-siege-of-palestinian-homes-despite-rare-military-intervention",
-      "published_date": "2026-08-12T14:39:14+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-home",
+      "published_date": "2026-08-14T11:33:16+00:00",
+      "category": "Energy"
     },
     {
-      "title": "War impact on European travel bookings fading",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260812/war-impact-on-european-travel-bookings-fading",
-      "published_date": "2026-08-12T13:47:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Extreme weather and jellyfish knock one-fifth of France's nuclear capacity offline",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260812/extreme-weather-and-jellyfish-knock-one-fifth-of-frances-nuclear-capacity-offline",
-      "published_date": "2026-08-12T13:10:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine seeks closer cooperation with South Korea",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-seeks-closer-cooperation-with-south-korea",
-      "published_date": "2026-08-12T10:57:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war and high living costs fuelling last-minute holiday bookings, Tui says",
+      "title": "Romania shuts its last nuclear reactor as drought-hit Danube river drops to record low",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/12/iran-war-high-living-costs-fuel-last-minute-holiday-bookings-tui",
-      "published_date": "2026-08-12T10:45:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany approves lifting curbs on spy agencies in security ‘revolution’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/12/germany-approves-lifting-curbs-spy-agencies-security-revolution",
-      "published_date": "2026-08-12T10:43:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pressure mounts on French household budgets as gas prices rise again",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260812/pressure-mounts-on-french-household-budgets-as-gas-prices-rise-again",
-      "published_date": "2026-08-12T10:03:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe braces for another heatwave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe-braces-for-another-heatwave",
-      "published_date": "2026-08-12T08:44:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's only anti-war party banned",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-s-only-anti-war-party-banned",
-      "published_date": "2026-08-12T08:42:43+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/aug/14/romania-nuclear-plant-shut-down-cernavoda-danube-river-water-drought",
+      "published_date": "2026-08-14T01:20:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-13T19:46:27+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Lagos: Electric vehicles offer an alternative as fuel prices soar",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260813-lagos-electric-vehicles-offer-an-alternative-as-fuel-prices-soar",
+      "published_date": "2026-08-13T16:56:57+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Solar eclipse 2026: Africa witnesses partial eclipse",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260813-solar-eclipse-2026-africa-witnesses-partial-eclipse",
+      "published_date": "2026-08-13T16:55:03+00:00",
       "category": "Energy"
     },
     {
@@ -396,32 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Spain prepares for rare total solar eclipse",
+      "title": "Trump imposes tariffs of up to 100% on drone imports",
       "source": "France 24",
-      "url": "https://www.france24.com/en/spain-prepares-for-rare-total-solar-eclipse",
-      "published_date": "2026-08-12T13:48:46+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/americas/20260814-donald-trump-imposes-tariffs-of-up-to-100-on-imported-drones",
+      "published_date": "2026-08-14T00:02:12+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Parts of Spain plunged into darkness as eclipse moves across Europe",
+      "title": "Ceremony held in Zimbabwe to pay tribute to capsized ferry victims",
       "source": "France 24",
-      "url": "https://www.france24.com/en/science/20260812-live-millions-skywatchers-europe-prepare-total-solar-eclipse",
-      "published_date": "2026-08-12T12:13:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "What can we learn from eclipses?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/what-can-we-learn-from-eclipses",
-      "published_date": "2026-08-12T12:05:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Solar eclipse: A rare show with scientific secrets",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/solar-eclipse-a-rare-show-with-scientific-secrets",
-      "published_date": "2026-08-12T10:59:22+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/ceremony-to-pay-tribute-to-capsized-ferry-victims",
+      "published_date": "2026-08-13T20:23:13+00:00",
+      "category": "Economy"
     },
     {
       "title": "Voters in Zambia to deliver verdict on president's economic record",
@@ -529,18 +543,60 @@
       "category": "Economy"
     },
     {
-      "title": "French unemployment hits six-year high as jobless total reaches 2.7 million",
+      "title": "French firefighters threaten to strike over lack of resources",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260807-unemployment-in-france-hits-a-six-year-high-of-2-7-million-people",
-      "published_date": "2026-08-07T09:48:36+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/france/20260814-french-firefighters-threaten-to-strike-over-lack-of-resources",
+      "published_date": "2026-08-14T11:39:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "South Africa's textile industry in crisis after migrant workers fled the country",
+      "title": "Nineteen people taken to hospital after West Midlands fire, as thousands evacuated in Croatia – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
+      "published_date": "2026-08-14T11:37:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Earthquake in Colombia: Nearly 300 people trapped in rubbles",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260807-south-africa-s-textile-industry-in-crisis-after-migrant-workers-fled-the-country",
-      "published_date": "2026-08-07T09:35:00+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/earthquake-in-colombia-nearly-300-people-trapped-in-rubbles",
+      "published_date": "2026-08-14T10:30:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia: Hundreds still missing as earthquake resue effort continues",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/colombia-hundreds-still-missing-as-earthquake-resue-effort-continues",
+      "published_date": "2026-08-14T09:41:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albanian ambassador attacks UK right wing for ‘unhinged’ fixation with 2022 migrant surge",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/14/albanian-ambassador-attacks-uk-right-wing-fixation-2022-migrant-surge",
+      "published_date": "2026-08-14T09:29:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France evacuates hundreds as new wildfire threatens southwestern Landes region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260814-france-evacuates-hundreds-new-wildfire-threatens-southwestern-landes-region",
+      "published_date": "2026-08-14T06:54:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigel Farage beats Count Binface to regain UK parliament seat in widely mocked by-election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election",
+      "published_date": "2026-08-14T06:34:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain's World Cup final hero Ferran Torres closes in on PSG transfer",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260814-spain-s-world-cup-final-hero-ferran-torres-closes-in-on-psg-transfer",
+      "published_date": "2026-08-14T06:08:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nearly 100 children detained as adults under UK-France migration deal",
@@ -624,62 +680,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260812/freewheeling-uk-family-fined-for-french-road-toll-dodge",
       "published_date": "2026-08-12T06:46:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘If we exhibited all the Balkan jokes, we wouldn’t have opened’: a trip to Slovenia’s Bullshit Museum",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/aug/12/slovenia-ljubljana-bullshit-museum-balkan-humour",
-      "published_date": "2026-08-12T06:00:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: Lyon defeat Prague and await Fenerbahçe in playoffs",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260812-champions-league-lyon-defeat-prague-await-fenerbahce-playoffs",
-      "published_date": "2026-08-12T05:29:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British man with dementia told to leave Sweden after losing migration case",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/12/british-man-dementia-leave-sweden-brexit-migration-case",
-      "published_date": "2026-08-12T04:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Assisted dying, social media and agriculture put France’s top court in spotlight",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260811-assisted-dying-social-media-and-agriculture-put-france-s-top-court-in-spotlight",
-      "published_date": "2026-08-11T18:01:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death toll from Colombia earthquake continues to rise",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/death-toll-from-colombia-earthquake-continues-to-rise",
-      "published_date": "2026-08-11T14:30:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe battles wildfires and braces for another summer heatwave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe-battles-wildfires-and-braces-for-another-summer-heatwave",
-      "published_date": "2026-08-11T13:52:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Breton-born world pâtisserie champion reveals secret of his success",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260811/breton-born-world-patisserie-champion-reveals-secret-of-his-success",
-      "published_date": "2026-08-11T12:14:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French pastry chef crowned world's best aims 'to be world champion every day'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260811-newly-crowned-world-s-best-pastry-chef-stays-true-to-artisan-roots",
-      "published_date": "2026-08-11T10:37:24+00:00",
       "category": "Local Events"
     }
   ]
