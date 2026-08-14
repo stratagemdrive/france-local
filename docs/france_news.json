@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-08-14T11:40:13.360192+00:00",
-  "story_count": 97,
+  "last_updated": "2026-08-14T23:17:11.686987+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "published_date": "2026-08-14T16:58:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's top court blocks social media ban for under-15s",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T16:35:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France blocks under 15 social media ban",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-blocks-under-15-social-media-ban",
+      "published_date": "2026-08-14T15:25:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's constitutional authority strikes down social media ban for under-15s",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260814-france-s-constitutional-authority-strikes-down-social-media-ban-for-under-15s",
+      "published_date": "2026-08-14T13:17:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukraine: Civilian casualties hit highest level since May 2022",
       "source": "France 24",
@@ -36,6 +64,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/eurovision-winners-involved-in-armed-conflict-now-ineligible-to-host-contest",
       "published_date": "2026-08-13T15:45:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Americans in France: Identifying French scams and dealing with criticism",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260813/americans-in-france-identifying-french-scams-and-receiving-criticism",
+      "published_date": "2026-08-13T15:05:38+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia threatens retaliatory seizures of EU ships amid new sanctions push",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260812-russia-threatens-retaliatory-seizures-of-eu-ships-amid-new-sanctions-push",
-      "published_date": "2026-08-12T15:52:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU curbs on 'forever chemicals' in food packaging kick in",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260812/eu-curbs-on-forever-chemicals-in-food-packaging-kick-in",
-      "published_date": "2026-08-12T14:28:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "In Venice, it’s not politics as usual as film-makers aim to recapture our attention",
+      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/12/this-is-europe-venice-film-festival-politics-alex-gibney-sergei-loznitsa",
-      "published_date": "2026-08-12T14:15:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
+      "published_date": "2026-08-14T21:05:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "French ambassador to CAR disciplined over misconduct allegations",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260812-french-ambassador-to-car-disciplined-over-misconduct-allegations",
-      "published_date": "2026-08-12T14:02:33+00:00",
-      "category": "Diplomacy"
+      "title": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260814-trump-says-record-navy-deployment-in-iran-operations-not-nearly-long-enough",
+      "published_date": "2026-08-14T20:17:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "Repair rules tightened for white goods in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260812/repair-rules-tightened-for-white-goods-in-france",
-      "published_date": "2026-08-12T10:06:28+00:00",
-      "category": "Diplomacy"
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/14/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-08-14T18:04:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin’s recruiters scramble to avoid second mass mobilisation as Ukraine losses mount",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/russia-ukraine-putin-recruiters-mobilisation",
+      "published_date": "2026-08-14T13:00:27+00:00",
+      "category": "Military"
     },
     {
       "title": "West Bank: Palestinians families trapped in homes",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Eurovision to bar countries at war from hosting",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260813/eurovision-to-bar-countries-at-war-from-hosting",
-      "published_date": "2026-08-13T07:35:09+00:00",
-      "category": "Military"
+      "title": "Europe: Raging wildfires scorch large swaths of the continent",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260814-europe-raging-wildfires-scorch-large-swaths-of-the-continent",
+      "published_date": "2026-08-14T16:02:43+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-13T04:55:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A bungled bomb plot in Poland exposed a spy – but whose spy was he?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he",
-      "published_date": "2026-08-13T04:00:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: ‘With precision, as planned’ – Kyiv outlines battlefield gains",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ukraine-war-briefing-kyiv-outlines-battlefield-gains",
-      "published_date": "2026-08-13T01:37:21+00:00",
-      "category": "Military"
+      "title": "Mount Etna continues to erupt in Italy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mount-etna-continues-to-erupt-in-italy",
+      "published_date": "2026-08-14T13:49:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "West Bank: Palestinians families trapped in home",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Iceland in complete darkness during total solar eclipse - video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/video/2026/aug/12/iceland-in-complete-darkness-during-total-solar-eclipse-video",
-      "published_date": "2026-08-12T19:18:25+00:00",
-      "category": "Energy"
+      "title": "Explained: French laws on foreign interference in politics",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260814/explained-french-laws-on-foreign-interference-in-politics",
+      "published_date": "2026-08-14T14:28:11+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Colombia: Bogota's search for survivors continues",
+      "title": "World Bank to fund 645-metre bridge linking Bangui and Zongo",
       "source": "France 24",
-      "url": "https://www.france24.com/en/colombia-bogota-s-search-for-survivors-continues",
-      "published_date": "2026-08-12T15:21:22+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/world-bank-to-fund-645-metre-bridge-linking-bangui-and-zongo",
+      "published_date": "2026-08-14T13:52:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump imposes tariffs of up to 100% on drone imports",
@@ -543,6 +557,76 @@
       "category": "Economy"
     },
     {
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T20:22:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French court blocks Macron’s social media ban for under-15s",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
+      "published_date": "2026-08-14T17:12:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France wildfire forces 520 to evacuate",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-wildfire-forces-520-to-evacuate",
+      "published_date": "2026-08-14T15:28:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police release new CCTV of art heist from Italian museum – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/aug/14/police-release-new-cctv-of-art-heist-from-italian-museum-video",
+      "published_date": "2026-08-14T15:19:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moment €9m worth of art stolen from Italy museum",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T14:56:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Top French court scraps social media ban for children under 15",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260814-top-french-court-scraps-social-media-ban-for-children-under-15",
+      "published_date": "2026-08-14T13:59:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Birthrate drop in North Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/birthrate-drop-in-north-africa",
+      "published_date": "2026-08-14T13:54:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian police recover paintings by Cézanne, Renoir and Matisse after heist",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/italian-police-recover-stolen-paintings-cezanne-renoir-matisse",
+      "published_date": "2026-08-14T13:32:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia suspends vote counting nationwide citing violence",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260814-zambia-suspends-vote-counting-nationwide-citing-violence",
+      "published_date": "2026-08-14T11:58:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia suspends vote count nationwide amid reports of violence, ballot theft",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260814-zambia-suspends-election-vote-counting-over-reports-of-violence",
+      "published_date": "2026-08-14T11:57:23+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "French firefighters threaten to strike over lack of resources",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260814-french-firefighters-threaten-to-strike-over-lack-of-resources",
@@ -585,6 +669,13 @@
       "category": "Local Events"
     },
     {
+      "title": "15-year-old detained over deadly French forest fire",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260814/15-year-old-detained-over-deadly-french-forest-fire",
+      "published_date": "2026-08-14T06:40:24+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Nigel Farage beats Count Binface to regain UK parliament seat in widely mocked by-election",
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election",
@@ -603,83 +694,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
       "published_date": "2026-08-13T18:13:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Person fined after using foghorn to wake sleeping polar bear",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-13T15:30:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IN PICTURES: Your photos of the eclipse in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260813/in-pictures-your-photos-of-the-eclipse-in-france",
-      "published_date": "2026-08-13T11:16:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French firefighters call strike over 'under-staffing and lack of resources'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260813/french-firefighters-call-strike-over-under-staffing-and-lack-of-resources",
-      "published_date": "2026-08-13T09:53:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why women in the Maghreb are having fewer children",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260813-why-women-in-the-maghreb-are-having-fewer-children",
-      "published_date": "2026-08-13T09:48:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK's Farage faces off against Count Binface in election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260813-reform-uk-s-farage-faces-off-against-count-binface-in-election",
-      "published_date": "2026-08-13T09:45:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris Saint-Germain retain Super Cup title by seeing off Aston Villa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260813-paris-saint-germain-retain-super-cup-title-by-seeing-off-aston-villa",
-      "published_date": "2026-08-13T08:32:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can UK's hard-right Farage bin financial probe with by-election win?",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260813-can-uk-s-hard-right-farage-bin-financial-probe-with-snap-poll",
-      "published_date": "2026-08-13T05:38:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I got married in the Vegas of Europe. It was the most romantic 20 minutes of my life | Jules Darmanin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/married-vegas-europe-copenhagen-romantic-brexit-visa-rules-love",
-      "published_date": "2026-08-13T04:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK's Farage and joke candidate Count Binface go head-to-head in snap election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260813-farage-and-count-binface-go-head-to-head-in-snap-uk-poll",
-      "published_date": "2026-08-13T02:25:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungary elects Orban critic Andras Baka as first president in new political era",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260812-hungary-elects-orban-critic-andras-baka-as-first-president-of-new-political-era",
-      "published_date": "2026-08-12T09:36:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Freewheeling UK family fined for French road toll dodge",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260812/freewheeling-uk-family-fined-for-french-road-toll-dodge",
-      "published_date": "2026-08-12T06:46:13+00:00",
       "category": "Local Events"
     }
   ]
