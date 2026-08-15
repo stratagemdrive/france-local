@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-08-15T11:14:56.532571+00:00",
-  "story_count": 99,
+  "last_updated": "2026-08-15T23:16:12.427292+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "South Korea president proposes talks with Pyongyang to formally end Korean War",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war",
+      "published_date": "2026-08-15T15:39:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU pushes back as US revives trade pressure on bloc",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260815/eu-pushes-back-as-us-revives-trade-pressure-on-bloc",
+      "published_date": "2026-08-15T12:54:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France’s top court rejects social media ban for under-15s",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-s-top-court-rejects-social-media-ban-for-under-15s",
+      "published_date": "2026-08-15T12:53:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France approves assisted dying law but rejects social media ban for under-15s",
       "source": "France 24",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
-      "published_date": "2026-08-13T14:21:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Viral dancing seniors inspire Italy's ageing population to get moving",
+      "title": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260813-if-you-can-move-say-rome-s-viral-dancing-seniors",
-      "published_date": "2026-08-13T13:55:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate",
+      "published_date": "2026-08-15T20:37:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
-      "published_date": "2026-08-13T12:56:57+00:00",
-      "category": "Diplomacy"
+      "title": "Belgian woman charged in France over foiled attack on US bank",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260815/belgian-woman-charged-in-france-over-foiled-attack-on-us-bank",
+      "published_date": "2026-08-15T12:50:54+00:00",
+      "category": "Military"
     },
     {
       "title": "In Turkey, one of the world's longest conflicts reaches a turning point",
@@ -267,20 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260813-raul-castro-makes-rare-public-appearance-at-fidel-centenary-event",
       "published_date": "2026-08-13T21:39:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A war on words: why Russian strikes are targeting Ukrainian publishers",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260813-a-war-on-words-why-russian-strikes-are-targeting-ukrainian-publishers",
-      "published_date": "2026-08-13T19:51:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine ‘offering Russia deal to halt attacks on civilian ships in Black Sea’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ukraine-proposes-deal-with-russia-to-halt-attacks-on-civilian-ships-in-black-sea",
-      "published_date": "2026-08-13T17:13:33+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "France probes unprecedented cyberattack after tax data of 678,000 users stolen",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260815-france-probes-unprecedented-cyberattack-after-tax-data-of-678-000-users-stolen",
+      "published_date": "2026-08-15T14:50:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hackers stage major raids on French tax computers",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260815/hackers-stage-major-raids-on-french-tax-computers",
+      "published_date": "2026-08-15T12:42:28+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Afghan women are erased from public life",
       "source": "France 24",
       "url": "https://www.france24.com/en/afghan-women-are-erased-from-public-life",
@@ -550,11 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "Ancient Roman pottery discovered in shipwreck off Sicilian coast – video",
+      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/10/ancient-roman-pottery-discovered-in-shipwreck-off-sicilian-coast-video",
-      "published_date": "2026-08-10T08:22:26+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "published_date": "2026-08-15T18:08:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T17:47:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Body found in Romania believed to be missing British hiker George Smyth",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/15/body-found-in-romania-believed-to-be-missing-british-hiker-george-smyth",
+      "published_date": "2026-08-15T17:14:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French swimmer Marchand wins first Euros gold as Germany's Liebmann breaks 1500m free world record",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260815-l%C3%A9on-marchand-wins-200-meter-butterfly-at-european-swimming-championships",
+      "published_date": "2026-08-15T16:51:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French father and two children rescued after 16 hours adrift off Thai island",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260815-french-father-and-two-children-rescued-after-16-hours-adrift-off-thai-island",
+      "published_date": "2026-08-15T15:09:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola outbreak in DR Congo: One death every 30 minutes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ebola-outbreak-in-dr-congo-one-death-every-30-minutes",
+      "published_date": "2026-08-15T14:46:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firefighters keep battling wildfire in France’s Landes region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/firefighters-keep-battling-wildfire-in-france-s-landes-region",
+      "published_date": "2026-08-15T12:36:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia hit by earthquake aftershock as rescuers search for survivors",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
+      "published_date": "2026-08-15T12:34:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zambia resumes vote count after pause over violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/zambia-resumes-vote-count-after-pause-over-violence",
+      "published_date": "2026-08-15T12:32:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine attacks Russian air base and rocket plant in Samara region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260815-ukraine-attacks-russian-air-base-and-rocket-plant-in-samara-region",
+      "published_date": "2026-08-15T11:43:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France's successive heatwaves show strain of living in urban 'heat islands'",
@@ -624,76 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france-wildfire-forces-520-to-evacuate",
       "published_date": "2026-08-14T15:28:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police release new CCTV of art heist from Italian museum – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/14/police-release-new-cctv-of-art-heist-from-italian-museum-video",
-      "published_date": "2026-08-14T15:19:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moment €9m worth of art stolen from Italy museum",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T14:56:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Top French court scraps social media ban for children under 15",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260814-top-french-court-scraps-social-media-ban-for-children-under-15",
-      "published_date": "2026-08-14T13:59:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Birthrate drop in North Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/birthrate-drop-in-north-africa",
-      "published_date": "2026-08-14T13:54:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian police recover paintings by Cézanne, Renoir and Matisse after heist",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/italian-police-recover-stolen-paintings-cezanne-renoir-matisse",
-      "published_date": "2026-08-14T13:32:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia suspends vote counting nationwide citing violence",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260814-zambia-suspends-vote-counting-nationwide-citing-violence",
-      "published_date": "2026-08-14T11:58:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia suspends vote count nationwide amid reports of violence, ballot theft",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260814-zambia-suspends-election-vote-counting-over-reports-of-violence",
-      "published_date": "2026-08-14T11:57:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French firefighters threaten to strike over lack of resources",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260814-french-firefighters-threaten-to-strike-over-lack-of-resources",
-      "published_date": "2026-08-14T11:39:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nineteen people taken to hospital after West Midlands fire, as thousands evacuated in Croatia – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
-      "published_date": "2026-08-14T11:37:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Earthquake in Colombia: Nearly 300 people trapped in rubbles",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/earthquake-in-colombia-nearly-300-people-trapped-in-rubbles",
-      "published_date": "2026-08-14T10:30:32+00:00",
       "category": "Local Events"
     }
   ]
