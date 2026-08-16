@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-08-16T11:14:40.614975+00:00",
+  "last_updated": "2026-08-16T23:15:12.933572+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ex-PM Attal urges Macron to put under-15 social media ban to referendum",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260816-ex-pm-attal-urges-macron-to-put-under-15-social-media-ban-to-referendum",
+      "published_date": "2026-08-16T17:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+      "published_date": "2026-08-16T12:02:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+      "published_date": "2026-08-16T11:33:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
       "source": "The Guardian",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
+      "title": "Drone and missile strikes kill 19 in Russia and Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260816-drone-and-missile-strikes-kill-19-in-russia-and-ukraine",
+      "published_date": "2026-08-16T19:12:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T19:03:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran offers $30,000 bounty for killing or capturing US soldiers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
+      "published_date": "2026-08-16T15:40:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India: Modi courts youth amid growing criticism",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/india-modi-courts-youth-amid-growing-criticism",
+      "published_date": "2026-08-16T14:44:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Russian strike destroys Kyiv book market",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260816-ukraine-russian-strike-destroys-kyiv-book-market",
+      "published_date": "2026-08-16T14:40:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "West Bank: Activist recounts life under settler siege in Qusra",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra",
+      "published_date": "2026-08-16T14:38:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Warehouse near Moscow on fire after Ukrainian drone attack – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/13/russian-plot-kill-ukrainian-american-thwarted-poland-says-polish-pm",
-      "published_date": "2026-08-13T19:32:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/video/2026/aug/16/moscow-warehouse-on-fire-ukrainian-drone-attack-video",
+      "published_date": "2026-08-16T12:31:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "European drought shrivels crops despite farmers’ best efforts to adapt",
+      "title": "France: Landes wildfire stopped spreading but remains out of control",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260813-european-drought-shrivels-crops-despite-farmers-best-efforts-to-adapt",
-      "published_date": "2026-08-13T16:47:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Eurovision: Winners involved in 'armed conflict' now ineligible to host contest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/eurovision-winners-involved-in-armed-conflict-now-ineligible-to-host-contest",
-      "published_date": "2026-08-13T15:45:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/france-landes-wildfire-stopped-spreading-but-remains-out-of-control",
+      "published_date": "2026-08-16T10:43:12+00:00",
+      "category": "Military"
     },
     {
       "title": "🔴 Live: Ukraine launches 600 drones at Russia, one of its largest aerial attacks of the war",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/14/the-week-around-the-world-in-20-pictures",
-      "published_date": "2026-08-14T18:04:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin’s recruiters scramble to avoid second mass mobilisation as Ukraine losses mount",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/russia-ukraine-putin-recruiters-mobilisation",
-      "published_date": "2026-08-14T13:00:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "West Bank: Palestinians families trapped in homes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-homes",
-      "published_date": "2026-08-14T10:43:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war: Grain attacks raise food price fears",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-war-grain-attacks-raise-food-price-fears",
-      "published_date": "2026-08-14T10:41:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Renewed fighting in Tigray raises risk of a wider regional war",
+      "title": "Solar-powered community gardens offer lifeline in drought-hit Zimbabwe",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260814-renewed-fighting-in-tigray-raises-risk-of-a-wider-regional-war",
-      "published_date": "2026-08-14T10:20:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel sends troops to West Bank homes besieged by settlers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-sends-troops-to-west-bank-homes-besied-by-settles",
-      "published_date": "2026-08-14T08:59:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Patriot missiles have been a godsend for Ukraine against Putin, but they’re running out. Kyiv needs help and fast | Jack Watling",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/14/patriot-missiles-ukraine-putin-kyiv-running-out-nato-danger",
-      "published_date": "2026-08-14T08:54:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mali junta pardons French agent jailed for 'undermining state security'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260814-mali-junta-pardons-french-agent-jailed-for-undermining-state-security-yann-v%C3%A9zilier",
-      "published_date": "2026-08-14T08:25:16+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/africa/20260816-solar-powered-community-gardens-offer-lifeline-in-drought-hit-zimbabwe",
+      "published_date": "2026-08-16T12:53:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "West Bank: Palestinian families besieged for a week as settler violence continues",
@@ -414,13 +421,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
       "published_date": "2026-08-12T21:00:02+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Solar eclipse visible over Houses of Parliament and Big Ben in London – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/video/2026/aug/12/solar-eclipse-visible-over-houses-of-parliament-and-big-ben-in-london-video",
-      "published_date": "2026-08-12T20:49:31+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,76 @@
       "category": "Economy"
     },
     {
+      "title": "Five teenagers killed after car driven on wrong side of Irish motorway",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
+      "published_date": "2026-08-16T21:50:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wildfires kill two in Greece and torch Belgian nature reserve",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
+      "published_date": "2026-08-16T21:27:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barcelona agree £65m deal to sign Rodri from Man City",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T19:37:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French swimmer Léon Marchand wins gold in Euros 400m freestyle",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260816-french-swimmer-l%C3%A9on-marchand-wins-gold-in-euros-400m-freestyle",
+      "published_date": "2026-08-16T17:57:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senegal: Saint-Louis’ centuries-old pirogue racing tradition",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/senegal-saint-louis-centuries-old-pirogue-racing-tradition",
+      "published_date": "2026-08-16T15:51:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy: Four Renaissance artworks stolen from Messina museum in Sicily",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/italy-four-renaissance-artworks-stolen-from-messina-museum-in-sicily",
+      "published_date": "2026-08-16T15:49:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+      "published_date": "2026-08-16T13:44:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Lebanon: How will Israeli strikes affect negotiations?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/south-lebanon-how-will-israeli-strikes-affect-negotiations",
+      "published_date": "2026-08-16T13:00:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T12:18:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bus carrying Polish pilgrims crashes in Hungary, leaving 12 dead",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims",
+      "published_date": "2026-08-16T11:07:55+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
@@ -631,76 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/sports/20260816-france-s-l%C3%A9on-marchand-wins-first-european-title-in-front-of-home-crowd",
       "published_date": "2026-08-16T04:53:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-      "published_date": "2026-08-15T18:08:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-15T17:47:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Body found in Romania believed to be missing British hiker George Smyth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/15/body-found-in-romania-believed-to-be-missing-british-hiker-george-smyth",
-      "published_date": "2026-08-15T17:14:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French swimmer Marchand wins first Euros gold as Germany's Liebmann breaks 1500m free world record",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260815-l%C3%A9on-marchand-wins-200-meter-butterfly-at-european-swimming-championships",
-      "published_date": "2026-08-15T16:51:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French father and two children rescued after 16 hours adrift off Thai island",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260815-french-father-and-two-children-rescued-after-16-hours-adrift-off-thai-island",
-      "published_date": "2026-08-15T15:09:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola outbreak in DR Congo: One death every 30 minutes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ebola-outbreak-in-dr-congo-one-death-every-30-minutes",
-      "published_date": "2026-08-15T14:46:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters keep battling wildfire in France’s Landes region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/firefighters-keep-battling-wildfire-in-france-s-landes-region",
-      "published_date": "2026-08-15T12:36:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia hit by earthquake aftershock as rescuers search for survivors",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
-      "published_date": "2026-08-15T12:34:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zambia resumes vote count after pause over violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/zambia-resumes-vote-count-after-pause-over-violence",
-      "published_date": "2026-08-15T12:32:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine attacks Russian air base and rocket plant in Samara region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260815-ukraine-attacks-russian-air-base-and-rocket-plant-in-samara-region",
-      "published_date": "2026-08-15T11:43:15+00:00",
       "category": "Local Events"
     }
   ]
