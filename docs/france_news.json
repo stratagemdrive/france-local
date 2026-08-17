@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-08-16T23:15:12.933572+00:00",
+  "last_updated": "2026-08-17T11:19:54.098967+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "What new EU banking law means for foreigners in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260817/what-new-eu-banking-law-means-for-foreigners-in-france",
+      "published_date": "2026-08-17T10:53:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cop17 aims to restore land and hope in fight against desertification",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260817-cop17-aims-to-restore-land-and-hope-in-fight-against-desertification",
+      "published_date": "2026-08-17T10:52:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump’s Gaza plan: What is at stake for Netanyahu?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-s-gaza-plan-what-is-at-stake-for-netanyahu",
+      "published_date": "2026-08-17T10:30:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Middle East : Kushner to meet Netanyahu after talks with Hamas on Gaza plan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
+      "published_date": "2026-08-17T09:00:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "My generation had no voice on Brexit – but Burnham gives the young fresh hope on Europe | Ceira Sergeant",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/17/young-people-brexit-burnham-europe-opportunities",
+      "published_date": "2026-08-17T07:00:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ex-PM Attal urges Macron to put under-15 social media ban to referendum",
       "source": "RFI English",
@@ -109,39 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France's top court blocks social media ban for under-15s",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T16:35:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France blocks under 15 social media ban",
+      "title": "Trump orders Pentagon to cut back military drills with Seoul hours before start",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-blocks-under-15-social-media-ban",
-      "published_date": "2026-08-14T15:25:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260817-trump-orders-pentagon-to-cut-back-military-drills-with-seoul-hours-before-start",
+      "published_date": "2026-08-17T10:56:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "France's constitutional authority strikes down social media ban for under-15s",
+      "title": "US-South Korea drills renew questions over North Korea’s military power",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260814-france-s-constitutional-authority-strikes-down-social-media-ban-for-under-15s",
-      "published_date": "2026-08-14T13:17:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/us-south-korea-drills-renew-questions-over-north-korea-s-military-power",
+      "published_date": "2026-08-17T10:36:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine: Civilian casualties hit highest level since May 2022",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-civilian-casualties-hit-highest-level-since-may-2022",
-      "published_date": "2026-08-14T09:08:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘This is hell’: British widow ‘sick’ with worry after losing Brexit deportation appeal",
+      "title": "Senior Russian banker fired after scathing speech on wartime economy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/british-widow-joyce-thomas-sweden-deported-brexit-policy",
-      "published_date": "2026-08-14T07:00:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/17/andrei-klepach-russian-banker-fired-warning-economy",
+      "published_date": "2026-08-17T10:29:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260817-ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-region",
+      "published_date": "2026-08-17T09:49:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US and South Korea begin military drills despite Trump call to scale back",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back",
+      "published_date": "2026-08-17T09:22:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine launches one of its largest drone attacks on Russia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260817-ukraine-launches-one-of-its-largest-drone-attacks-on-russia",
+      "published_date": "2026-08-17T09:09:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Conversations with an Executioner: a chilling classic reveals the mind of a Nazi mass murderer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/aug/17/conversations-with-an-executioner-a-chilling-classic-reveals-the-mind-of-a-nazi-mass-murderer",
+      "published_date": "2026-08-17T06:00:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump orders Pentagon to scale back military drills with South Korea hours before start",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start",
+      "published_date": "2026-08-17T04:38:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv could hit Russia with domestic ballistic missiles in months, former defence minister says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-kyiv-capable-ballistic-missiles-russia-in-months",
+      "published_date": "2026-08-17T00:51:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Drone and missile strikes kill 19 in Russia and Ukraine",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Kyiv faces missile barrage after Zelenskyy targets Russian satellite network",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/16/ukraine-war-briefing-kyiv-faces-missile-barrage-after-zelenskyy-targets-russian-satellite-network",
-      "published_date": "2026-08-16T02:22:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
+      "title": "West Bank : UN delivers aid to besieged Palestinian families in Qusra",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate",
-      "published_date": "2026-08-15T20:37:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Belgian woman charged in France over foiled attack on US bank",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260815/belgian-woman-charged-in-france-over-foiled-attack-on-us-bank",
-      "published_date": "2026-08-15T12:50:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Turkey, one of the world's longest conflicts reaches a turning point",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260815-in-turkey-one-of-the-world-s-longest-conflicts-reaches-a-turning-point",
-      "published_date": "2026-08-15T10:52:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'We are seeing the cracks of Israeli politics play out in the West Bank'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank",
-      "published_date": "2026-08-15T06:37:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Their Strength Through Joy conversation is killing me’: Samuel Beckett’s German diaries",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/aug/15/samuel-beckett-german-diaries-nazism",
-      "published_date": "2026-08-15T06:00:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy warns Egypt of food supply threat caused by Russian strikes in Black Sea",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/15/ukraine-war-briefing-zelenskyy-warns-egypt-of-food-supply-threat-caused-by-russian-strikes-in-black-sea",
-      "published_date": "2026-08-15T01:53:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
-      "published_date": "2026-08-14T21:05:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260814-trump-says-record-navy-deployment-in-iran-operations-not-nearly-long-enough",
-      "published_date": "2026-08-14T20:17:38+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/west-bank-un-delivers-aid-to-besieged-palestinian-families-in-qusra",
+      "published_date": "2026-08-17T09:18:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Solar-powered community gardens offer lifeline in drought-hit Zimbabwe",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland – as it happened",
+      "title": "French taxpayers warned after personal data stolen in major hack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-taxpayers-warned-after-personal-data-stolen-in-major-hack",
+      "published_date": "2026-08-17T10:50:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Explained: Are you affected by the cyberattack on French tax office",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260817/explained-are-you-affected-by-the-cyberattack-on-french-tax-office",
+      "published_date": "2026-08-17T07:13:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Monday briefing: What can Andy Burnham learn from Spain’s Pedro Sánchez?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
-      "published_date": "2026-08-12T21:00:02+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/world/2026/aug/17/monday-briefing-what-can-andy-burnham-learn-from-spains-pedro-sanchez",
+      "published_date": "2026-08-17T05:47:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Italy’s mythic ‘month off’ in August was hard won. It would be good for us all | Jamie Mackay",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/17/italy-month-off-august-economic-productivity",
+      "published_date": "2026-08-17T04:00:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
@@ -536,32 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "Faced with ageing population, Vietnam seeks to curb falling birthrate",
+      "title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-17T11:14:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French PM booed on visit to wildfire-affected region as Belgium tackles enormous blaze – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
+      "published_date": "2026-08-17T11:10:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents jeer French PM on visit to fire-hit region",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260817/residents-jeer-french-pm-on-visit-to-fire-hit-region",
+      "published_date": "2026-08-17T10:58:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France enters literary season amid publishing industry crisis",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260812-faced-with-ageing-population-vietnam-seeks-to-curb-falling-birthrate",
-      "published_date": "2026-08-12T12:53:02+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france-enters-literary-season-amid-publishing-industry-crisis",
+      "published_date": "2026-08-17T10:32:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
+      "title": "French PM Lecornu booed by residents on visit to fire-ravaged southwest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260817-french-pm-lecornu-booed-by-residents-on-visit-to-fire-ravaged-southwest",
+      "published_date": "2026-08-17T10:16:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Virgin Trains gets go ahead to run services to Europe in new blow to Eurostar monopoly",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
-      "published_date": "2026-08-12T04:00:20+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
+      "published_date": "2026-08-17T09:15:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "As heatwaves hit Britain, spare a thought for farm animals | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/11/as-heatwaves-hit-britain-spare-a-thought-for-farm-animals",
-      "published_date": "2026-08-11T16:57:16+00:00",
-      "category": "Economy"
+      "title": "Lens defeat Paris Saint-Germain to claim second title this year",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260817-lens-defeat-paris-saint-germain-and-claim-second-title-this-year",
+      "published_date": "2026-08-17T05:44:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ghana backs Jamaica's petition to push UK for slavery reparations",
+      "title": "Devastated by wildfire, the village of Le Porge pins hopes for support on PM visit",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260810-monday-o-n-ghana-backs-jamaica-s-petition-to-push-uk-for-slavery-reparations",
-      "published_date": "2026-08-10T19:01:28+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/france/20260817-devastated-by-wildfire-the-village-of-le-porge-pins-hopes-for-support-on-pm-visit",
+      "published_date": "2026-08-17T05:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Country diary 1926: In France gardening is a more conventional art than in England",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/17/country-diary-1926-france-gardening-more-conventional-art-than-england",
+      "published_date": "2026-08-17T05:00:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 12,000 await aid after deadly Indonesian quake",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260817-more-than-12-000-await-aid-after-deadly-indonesian-quake",
+      "published_date": "2026-08-17T04:37:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Five teenagers killed after car driven on wrong side of Irish motorway",
@@ -631,76 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims",
       "published_date": "2026-08-16T11:07:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
-      "published_date": "2026-08-16T11:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Lebanon: Doctor describes escalating humanitarian toll",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/south-lebanon-doctor-describes-escalating-humanitarian-toll",
-      "published_date": "2026-08-16T09:46:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WAFCON: Malawi and Cameroon face off for historic first crown",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260816-wafcon-malawi-and-cameroon-face-off-for-historic-first-crown",
-      "published_date": "2026-08-16T09:21:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why France's under-15 social media ban was blocked",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/why-france-s-under-15-social-media-ban-was-blocked",
-      "published_date": "2026-08-16T09:20:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morocco tightens security as migrants gather near Ceuta border",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/morocco-tightens-security-as-migrants-gather-near-ceuta-border",
-      "published_date": "2026-08-16T09:17:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy recovers millions of euros worth of stolen Renoir, Cézanne and Matisse paintings",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
-      "published_date": "2026-08-16T08:56:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI cheating, leaked papers and marking errors: how exam protests went global",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
-      "published_date": "2026-08-16T07:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On the Agenda: What’s happening in France this week",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260816/on-the-agenda-whats-happening-in-france-this-week-223",
-      "published_date": "2026-08-16T06:37:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flood in rural northwestern Spain kills two, injures two babies",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260816-spain-flood-and-landslide-kills-two-injures-two-babies",
-      "published_date": "2026-08-16T05:18:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's Léon Marchand wins first European title in front of home crowd",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260816-france-s-l%C3%A9on-marchand-wins-first-european-title-in-front-of-home-crowd",
-      "published_date": "2026-08-16T04:53:20+00:00",
       "category": "Local Events"
     }
   ]
