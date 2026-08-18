@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-08-17T23:18:31.067264+00:00",
+  "last_updated": "2026-08-18T11:20:18.621775+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
+      "published_date": "2026-08-18T11:01:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Anti-migrants protesters gather outside SADC Summit",
       "source": "France 24",
@@ -109,6 +116,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "published_date": "2026-08-15T15:32:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "EU pushes back as US revives trade pressure on bloc",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260815/eu-pushes-back-as-us-revives-trade-pressure-on-bloc",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Post-Brexit rights for British citizens are being undermined in Sweden",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/15/post-brexit-rights-british-citizens-sweden-removal-orders-analysis",
-      "published_date": "2026-08-15T09:00:53+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine launches over 600 drones at Moscow region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-launches-over-600-drones-at-moscow-region",
+      "published_date": "2026-08-18T09:57:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "France's Macron in hot water over jet ski picture",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260815/frances-macron-in-hot-water-over-jet-ski-picture",
-      "published_date": "2026-08-15T08:36:33+00:00",
-      "category": "Diplomacy"
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-18T09:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia warns UK of ‘consequences’ over reports Ukraine using British drones in attacks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/moscow-warns-uk-over-reports-ukraine-using-british-drones-to-attack-russia",
+      "published_date": "2026-08-18T07:34:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russian campaign to ‘weaponise winter’ under way",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/ukraine-war-briefing-russian-campaign-to-weaponise-winter-under-way",
+      "published_date": "2026-08-18T00:58:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia's prominent anti-war politician jailed for 11 years",
@@ -253,34 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-16T19:03:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran offers $30,000 bounty for killing or capturing US soldiers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
-      "published_date": "2026-08-16T15:40:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India: Modi courts youth amid growing criticism",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/india-modi-courts-youth-amid-growing-criticism",
-      "published_date": "2026-08-16T14:44:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Russian strike destroys Kyiv book market",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260816-ukraine-russian-strike-destroys-kyiv-book-market",
-      "published_date": "2026-08-16T14:40:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "West Bank: Activist recounts life under settler siege in Qusra",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra",
-      "published_date": "2026-08-16T14:38:57+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Warnings sent to French taxpayers after hackers allegedly sell stolen data",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260818-french-taxpayers-receive-warnings-after-hackers-steal-and-allegedly-sell-data",
+      "published_date": "2026-08-18T10:37:52+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Leading economies’ borrowing costs hit highest since 2008 crisis",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields",
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Colombia: Woman rescued from under earthquake debris after 36 hours",
+      "title": "‘Migration has been weaponised’: Italy’s security law criticised after death of Moroccan man in police restraint",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/italy-security-law-death-moroccan-man-police-custody-abderrahim-fakir",
+      "published_date": "2026-08-18T10:55:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/mechanical-fault-helicopter-crash-killed-british-newlyweds-sifnos-greece",
+      "published_date": "2026-08-18T10:36:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Visit Rome by night: Italian capital tests new tourism strategy",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260812-colombia-woman-rescued-from-under-earthquake-debris-after-36-hours",
-      "published_date": "2026-08-12T13:32:43+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/visit-rome-by-night-italian-capital-tests-new-tourism-strategy",
+      "published_date": "2026-08-18T09:20:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "War in Ukraine: At least 10 killed in Kharkiv, several wounded in Moscow drone attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260818-war-in-ukraine-several-people-wounded-in-drone-attack-on-moscow-region",
+      "published_date": "2026-08-18T06:32:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-18T05:02:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How the far right is tightening its grip over the EU – from the inside | Alberto Alemanno",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/18/far-right-grip-eu-centrist-coalition-afd-national-rally",
+      "published_date": "2026-08-18T04:00:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French PM Lecornu says aid available 'immediately' to rebuild fire-hit regions",
@@ -659,48 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/sports/20260817-lens-defeat-paris-saint-germain-and-claim-second-title-this-year",
       "published_date": "2026-08-17T05:44:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Devastated by wildfire, the village of Le Porge pins hopes for support on PM visit",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260817-devastated-by-wildfire-the-village-of-le-porge-pins-hopes-for-support-on-pm-visit",
-      "published_date": "2026-08-17T05:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Country diary 1926: In France gardening is a more conventional art than in England",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/17/country-diary-1926-france-gardening-more-conventional-art-than-england",
-      "published_date": "2026-08-17T05:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 12,000 await aid after deadly Indonesian quake",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260817-more-than-12-000-await-aid-after-deadly-indonesian-quake",
-      "published_date": "2026-08-17T04:37:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five teenagers killed after car driven on wrong side of Irish motorway",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
-      "published_date": "2026-08-16T21:50:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfires kill two in Greece and torch Belgian nature reserve",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
-      "published_date": "2026-08-16T21:27:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barcelona agree £65m deal to sign Rodri from Man City",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T19:37:45+00:00",
       "category": "Local Events"
     }
   ]
