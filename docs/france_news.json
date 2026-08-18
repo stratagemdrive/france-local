@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-08-18T11:20:18.621775+00:00",
+  "last_updated": "2026-08-18T23:17:35.156724+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "France to expel two Iranian diplomats as arrests row heightens",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260818-france-expel-two-iranian-diplomats-row-over-interference-arrests-heightens",
+      "published_date": "2026-08-18T19:22:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Tons' of nuclear material found at undisclosed Syrian site, IAEA chief says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260818-tons-of-nuclear-materials-found-at-undisclosed-syrian-site-iaea-chief-says",
+      "published_date": "2026-08-18T15:50:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Vieira appointed head coach of Senegal national football team",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260818-france-vieira-appointed-head-coach-senegal-national-football-team",
+      "published_date": "2026-08-18T14:38:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why is Sweden deporting Britons faster than any other EU country post-Brexit? | David Milstead",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/18/sweding-deporting-britons-eu-country-brexit",
+      "published_date": "2026-08-18T14:38:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What is behind Russia’s ‘consequences’ threat over UK sending drones to Ukraine?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/russia-consequences-threat-uk-drones-ukraine",
+      "published_date": "2026-08-18T13:22:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
       "source": "The Guardian",
@@ -109,39 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "South Korea president proposes talks with Pyongyang to formally end Korean War",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war",
-      "published_date": "2026-08-15T15:39:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-      "published_date": "2026-08-15T15:32:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
+      "published_date": "2026-08-18T22:21:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU pushes back as US revives trade pressure on bloc",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260815/eu-pushes-back-as-us-revives-trade-pressure-on-bloc",
-      "published_date": "2026-08-15T12:54:42+00:00",
-      "category": "Diplomacy"
+      "title": "How credible is Russia’s threat against UK? - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/aug/18/how-credible-is-russias-threat-against-uk-the-latest",
+      "published_date": "2026-08-18T16:13:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "France’s top court rejects social media ban for under-15s",
+      "title": "Russia threatens UK over supplying drones to Ukraine — The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/18/russia-threatens-uk-over-supplying-drones-to-ukraine-the-latest",
+      "published_date": "2026-08-18T15:44:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian American challenges Israeli army outside his home in the West Bank",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-s-top-court-rejects-social-media-ban-for-under-15s",
-      "published_date": "2026-08-15T12:53:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/palestinian-american-challenges-israeli-army-outside-his-home-in-the-west-bank",
+      "published_date": "2026-08-18T15:43:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "France approves assisted dying law but rejects social media ban for under-15s",
+      "title": "Volodymyr Zelensky names new Defence minister after weeks of political crisis",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-approves-assisted-dying-law-but-rejects-social-media-ban-for-under-15s",
-      "published_date": "2026-08-15T09:09:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/volodymyr-zelensky-names-new-defence-minister-after-weeks-of-political-crisis",
+      "published_date": "2026-08-18T14:27:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "🔴 Middle East live: US says Israel behind strikes on military airport in Syria",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260818-middle-east-live-iran-declares-60-day-negotiation-deadline-null-and-void",
+      "published_date": "2026-08-18T11:50:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Our task is to laugh at these enemies’: the Ukrainian unit posting drone videos of Russian soldiers’ last moments",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/ukraine-drone-chase-videos-russian-soldiers",
+      "published_date": "2026-08-18T11:43:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ebola in DRC: Deadliest outbreak on record ‘outpacing the response’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ebola-in-drc-deadliest-outbreak-on-record-outpacing-the-response",
+      "published_date": "2026-08-18T10:55:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "West Bank village of Qusra under siege by extremist Israeli settlers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/west-bank-village-of-qusra-under-siege-by-extremist-israeli-settlers",
+      "published_date": "2026-08-18T10:43:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine launches over 600 drones at Moscow region",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Senior Russian banker fired after scathing speech on wartime economy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/17/andrei-klepach-russian-banker-fired-warning-economy",
-      "published_date": "2026-08-17T10:29:58+00:00",
-      "category": "Military"
+      "title": "Why climate scientists are struggling to explain Europe’s extreme summer",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260818-why-climate-scientists-are-struggling-to-explain-europe-s-extreme-summer",
+      "published_date": "2026-08-18T16:34:35+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260817-ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-region",
-      "published_date": "2026-08-17T09:49:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and South Korea begin military drills despite Trump call to scale back",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back",
-      "published_date": "2026-08-17T09:22:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine launches one of its largest drone attacks on Russia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260817-ukraine-launches-one-of-its-largest-drone-attacks-on-russia",
-      "published_date": "2026-08-17T09:09:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Conversations with an Executioner: a chilling classic reveals the mind of a Nazi mass murderer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/aug/17/conversations-with-an-executioner-a-chilling-classic-reveals-the-mind-of-a-nazi-mass-murderer",
-      "published_date": "2026-08-17T06:00:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump orders Pentagon to scale back military drills with South Korea hours before start",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start",
-      "published_date": "2026-08-17T04:38:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv could hit Russia with domestic ballistic missiles in months, former defence minister says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-kyiv-capable-ballistic-missiles-russia-in-months",
-      "published_date": "2026-08-17T00:51:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone and missile strikes kill 19 in Russia and Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260816-drone-and-missile-strikes-kill-19-in-russia-and-ukraine",
-      "published_date": "2026-08-16T19:12:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T19:03:04+00:00",
-      "category": "Military"
+      "title": "Everything that's changing in France in September 2026",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260818/everything-thats-changing-in-france-in-september-2026",
+      "published_date": "2026-08-18T12:45:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "West Bank : UN delivers aid to besieged Palestinian families in Qusra",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Oil spill from grounded tanker reaches Oman’s mainland beaches",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260812-oil-spill-from-grounded-tanker-reaches-oman-mainland-beaches",
-      "published_date": "2026-08-12T22:18:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Partial eclipse seen from North and West Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/partial-eclipse-seen-from-north-and-west-africa",
-      "published_date": "2026-08-12T21:09:38+00:00",
-      "category": "Energy"
+      "title": "French pensions: What is changing in September 2026?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260818/french-pensions-what-is-changing-in-september-2026",
+      "published_date": "2026-08-18T14:57:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Warnings sent to French taxpayers after hackers allegedly sell stolen data",
@@ -557,11 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Iran faces growing isolation and uncertain future amid 'dire' economic situation",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260812-iran-faces-growing-isolation-and-uncertain-future-amid-dire-economic-situation",
-      "published_date": "2026-08-12T18:48:01+00:00",
-      "category": "Economy"
+      "title": "Fenerbahce fight back against Lyon as Greenwood scores Champions League equaliser",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260818-fenerbahce-fight-back-against-lyon-as-greenwood-scores-champions-league-equaliser",
+      "published_date": "2026-08-18T23:06:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICC says US sanctions on top court members 'undermine rule of law'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260818-icc-says-us-sanctions-on-top-court-members-undermine-rule-of-law",
+      "published_date": "2026-08-18T20:31:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Earthquake rocks Spain's historic Granada, injuring three",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-18T17:15:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France probes Russian disinfo campaign against centrist candidates",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260818/france-probes-russian-disinfo-campaign-against-centrist-candidates",
+      "published_date": "2026-08-18T14:06:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Migration has been weaponised’: Italy’s security law criticised after death of Moroccan man in police restraint",
@@ -673,34 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260817/residents-jeer-french-pm-on-visit-to-fire-hit-region",
       "published_date": "2026-08-17T10:58:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France enters literary season amid publishing industry crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-enters-literary-season-amid-publishing-industry-crisis",
-      "published_date": "2026-08-17T10:32:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French PM Lecornu booed by residents on visit to fire-ravaged southwest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260817-french-pm-lecornu-booed-by-residents-on-visit-to-fire-ravaged-southwest",
-      "published_date": "2026-08-17T10:16:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Virgin Trains gets go ahead to run services to Europe in new blow to Eurostar monopoly",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
-      "published_date": "2026-08-17T09:15:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lens defeat Paris Saint-Germain to claim second title this year",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260817-lens-defeat-paris-saint-germain-and-claim-second-title-this-year",
-      "published_date": "2026-08-17T05:44:25+00:00",
       "category": "Local Events"
     }
   ]
