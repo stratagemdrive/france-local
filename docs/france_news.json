@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-08-18T23:17:35.156724+00:00",
+  "last_updated": "2026-08-19T11:19:29.761211+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "How degradation and drought are threatening the land that feeds us",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260819-degradation-and-drought-threatening-the-land-that-feeds-us-cop17-desrtification-jean-luc-chotte",
+      "published_date": "2026-08-19T10:55:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is Bulgarian prime minister Rumen Radev sizing up the EU’s Orbán-shaped hole?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/19/is-bulgarian-prime-minister-rumen-radev-sizing-up-eu-orban-shaped-hole",
+      "published_date": "2026-08-19T10:47:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France to expel two Iranian diplomats amid growing 'interference' row",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260819-france-to-expel-two-iranian-diplomats-amid-growing-interference-row",
+      "published_date": "2026-08-19T07:29:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The flag culture wars have come to an unlikely place: progressive Iceland | Alexander Hurst",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/19/flag-culture-wars-progressive-iceland-far-right",
+      "published_date": "2026-08-19T04:00:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France to expel two Iranian diplomats as arrests row heightens",
       "source": "France 24",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
-      "published_date": "2026-08-16T11:33:32+00:00",
-      "category": "Diplomacy"
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-19T11:00:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
+      "title": "Zelenskyy sacks deputy head of his office amid reported corruption investigation – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
-      "published_date": "2026-08-16T10:37:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/aug/19/europe-ukraine-zelenskyy-mykhailo-fedorov-parliament-vote-corruption-probe-russia-belgium-wildfires-latest-news-updates",
+      "published_date": "2026-08-19T10:39:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Belgium battles its largest wildfire in modern history",
+      "title": "Ukraine anti-graft agencies uncover alleged laundering group tied to presidential official",
       "source": "France 24",
-      "url": "https://www.france24.com/en/belgium-battles-its-largest-wildfire-in-modern-history",
-      "published_date": "2026-08-16T08:51:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260819-ukraine-anti-graft-agencies-uncover-alleged-laundering-group-tied-to-presidential-official",
+      "published_date": "2026-08-19T09:42:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "🔴 Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft",
+      "title": "Sacked Ukraine defence minister urges path to elections",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire",
-      "published_date": "2026-08-16T08:20:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260819-sacked-ukraine-defence-minister-urges-path-to-elections",
+      "published_date": "2026-08-19T09:29:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ousted Ukraine defence minister challenges Zelensky's leadership",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260819-ousted-ukraine-defence-minister-challenges-zelensky-s-leadership",
+      "published_date": "2026-08-19T09:23:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran parliament speaker Ghalibaf in Iraq for talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260819-iran-parliament-speaker-ghalibaf-in-iraq-for-talks",
+      "published_date": "2026-08-19T09:21:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN atomic watchdog says found tons of nuclear material at Syria site",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260819-un-atomic-watchdog-says-found-tons-of-nuclear-material-at-syria-site",
+      "published_date": "2026-08-19T09:19:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's sacked defence minister Fedorov calls for wartime presidential elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260819-ukraine-s-sacked-defence-minister-mykhailo-fedorov-calls-for-wartime-presidential-elections",
+      "published_date": "2026-08-19T06:06:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East live: Iran army chief warns Gulf countries not to help US military",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260819-middle-east-live-turkey-rejects-israeli-claims-after-strike-on-syria-air-base",
+      "published_date": "2026-08-19T03:05:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump scales back joint military drills between South Korea and US",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260819-trump-scales-back-joint-military-drills-between-south-korea-and-us",
+      "published_date": "2026-08-19T02:27:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Would-be parcel bomber convicted in German court",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/19/ukraine-war-briefing-would-be-parcel-bomber-convicted-in-german-court",
+      "published_date": "2026-08-19T01:37:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine launches over 600 drones at Moscow region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-launches-over-600-drones-at-moscow-region",
-      "published_date": "2026-08-18T09:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia warns UK will pay for supplying drones to Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-18T09:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia warns UK of ‘consequences’ over reports Ukraine using British drones in attacks",
+      "title": "UK relies on heat-stressed countries for fruit and veg it could grow itself – report",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/moscow-warns-uk-over-reports-ukraine-using-british-drones-to-attack-russia",
-      "published_date": "2026-08-18T07:34:24+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/aug/19/uk-heat-stressed-countries-fruit-veg-import",
+      "published_date": "2026-08-19T05:00:06+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine war briefing: Russian campaign to ‘weaponise winter’ under way",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/ukraine-war-briefing-russian-campaign-to-weaponise-winter-under-way",
-      "published_date": "2026-08-18T00:58:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-17T16:17:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s Supreme Court upholds ban on anti-war party Yabloko",
+      "title": "Europe’s seas reach record heat as climate change threatens marine life",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko",
-      "published_date": "2026-08-17T15:51:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strike on Kyiv book market: 'An attempt to annihilate Ukrainian identity'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260817-russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian-identity",
-      "published_date": "2026-08-17T15:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Finland halts deportation of Russian family who ‘risked everything’ to oppose Ukraine invasion",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/17/finland-halts-deportation-russian-family-opposed-ukraine-invasion",
-      "published_date": "2026-08-17T14:04:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
-      "published_date": "2026-08-17T12:09:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump orders Pentagon to cut back military drills with Seoul hours before start",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260817-trump-orders-pentagon-to-cut-back-military-drills-with-seoul-hours-before-start",
-      "published_date": "2026-08-17T10:56:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-South Korea drills renew questions over North Korea’s military power",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-south-korea-drills-renew-questions-over-north-korea-s-military-power",
-      "published_date": "2026-08-17T10:36:41+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/environment/20260818-europe-seas-record-heat-climate-change-marine-life",
+      "published_date": "2026-08-18T23:34:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why climate scientists are struggling to explain Europe’s extreme summer",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "IN PICTURES: Thousands turn out in France to watch eclipse",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260813/in-pictures-thousands-turn-out-in-france-to-watch-eclipse",
-      "published_date": "2026-08-13T08:30:14+00:00",
-      "category": "Energy"
+      "title": "Reforestation and sustainable land & water management can help combat desertification",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/reforestation-and-sustainable-land-water-management-can-help-combat-desertification",
+      "published_date": "2026-08-19T08:50:18+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Millions gather to watch as solar eclipse plunges swathe of Spain into darkness",
+      "title": "Nigeria election campaign begins as voters grapple with inflation crisis",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260813-as-millions-gazed-in-awe-a-swathe-of-spain-plunged-into-darkness",
-      "published_date": "2026-08-13T06:39:58+00:00",
-      "category": "Energy"
+      "url": "https://www.rfi.fr/en/africa/20260819-nigeria-election-campaign-begins-as-voters-grapple-with-inflation-crisis",
+      "published_date": "2026-08-19T05:38:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump says no Iran talks planned as UAE suspends trade with Tehran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260818-trump-says-no-iran-talks-planned-insists-strait-of-hormuz-remains-open",
+      "published_date": "2026-08-18T22:22:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "French pensions: What is changing in September 2026?",
@@ -543,25 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Voters in Zambia to deliver verdict on president's economic record",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260813-voters-in-zambia-to-deliver-verdict-on-president-s-economic-record",
-      "published_date": "2026-08-13T09:01:17+00:00",
-      "category": "Economy"
+      "title": "'Utter bliss' - France’s new cold call ban brings peace at last",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260819/utter-bliss-frances-new-cold-call-ban-brings-peace-at-last",
+      "published_date": "2026-08-19T09:36:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Too smart to eat? Why octopus farms are such a slippery problem",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability",
-      "published_date": "2026-08-13T04:00:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Zambia heads to polls with President Hichilema expected to win second term",
+      "title": "Meta knowingly hooked children and misled public, prosecutors tell court",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260813-zambia-heads-to-polls-with-president-hichilema-expected-to-win-second-term",
-      "published_date": "2026-08-13T00:33:46+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260819-meta-knowingly-hooked-children-and-misled-public-prosecutors-tell-court",
+      "published_date": "2026-08-19T09:28:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ethiopia’s digital IDs scheme offers refugees a way out of limbo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260819-ethiopia-s-digital-ids-scheme-offers-refugees-a-way-out-of-limbo",
+      "published_date": "2026-08-19T09:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attempts to curb Ebola cases in DR Congo fail with more than 5,000 confirmed",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260819-attempts-to-curb-ebola-cases-in-dr-congo-fail-with-more-than-5-000-confirmed",
+      "published_date": "2026-08-19T06:43:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League: Everything still to play for between Lyon and Fenerbahçe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260819-champions-league-everything-still-to-play-for-between-lyon-and-fenerbahce",
+      "published_date": "2026-08-19T05:08:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two French filmmakers held in Togo since July 27, Paris says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260819-two-french-filmmakers-detained-togo-july-27-foreign-ministry",
+      "published_date": "2026-08-19T00:55:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Fenerbahce fight back against Lyon as Greenwood scores Champions League equaliser",
@@ -575,6 +617,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260818-icc-says-us-sanctions-on-top-court-members-undermine-rule-of-law",
       "published_date": "2026-08-18T20:31:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jailed South African businessman appears before corruption inquiry",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260818-jailed-businessman-appears-accused-of-bribes-and-cartel-links",
+      "published_date": "2026-08-18T20:28:00+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260817-new-generation-catalans-tries-rekindle-independence-movement",
       "published_date": "2026-08-17T13:53:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sicilian museum hit by €80 million art theft",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260817-sicilian-museum-hit-by-%E2%82%AC80-million-art-theft",
-      "published_date": "2026-08-17T13:20:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe’s wildfires: How prepared are we for the next fire?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe-s-wildfires-how-prepared-are-we-for-the-next-fire",
-      "published_date": "2026-08-17T12:52:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prominent Mali journalist, influencer jailed for seven years for criticising junta",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260817-prominent-mali-journalist-influencer-jailed-for-seven-years-for-criticising-junta",
-      "published_date": "2026-08-17T12:31:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US hiker dies after being struck by lightning on Mount Etna",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-17T12:23:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-17T11:14:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French PM booed on visit to wildfire-affected region as Belgium tackles enormous blaze – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
-      "published_date": "2026-08-17T11:10:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents jeer French PM on visit to fire-hit region",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260817/residents-jeer-french-pm-on-visit-to-fire-hit-region",
-      "published_date": "2026-08-17T10:58:34+00:00",
       "category": "Local Events"
     }
   ]
