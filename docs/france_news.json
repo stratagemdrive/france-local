@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-08-19T23:18:40.586846+00:00",
+  "last_updated": "2026-08-20T11:21:08.338357+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "ICC says US sanctions 'flagrant attack' on court independence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260820-icc-says-us-sanctions-flagrant-attack-on-court-independence",
+      "published_date": "2026-08-20T08:55:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tax hack: What we know about the cyberattacks on French government agencies",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260819-tax-hack-cyberattacks-on-french-government-agencies",
+      "published_date": "2026-08-19T18:18:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How degradation and drought are threatening the land that feeds us",
       "source": "RFI English",
@@ -130,18 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ex-PM Attal urges Macron to put under-15 social media ban to referendum",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260816-ex-pm-attal-urges-macron-to-put-under-15-social-media-ban-to-referendum",
-      "published_date": "2026-08-16T17:30:00+00:00",
-      "category": "Diplomacy"
+      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T11:06:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+      "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+      "published_date": "2026-08-20T10:33:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian strikes kill at least 12 in Kyiv, surrounding region",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-      "published_date": "2026-08-16T12:02:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260820-russian-strikes-kill-at-least-12-in-kyiv-surrounding-region",
+      "published_date": "2026-08-20T08:56:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says will meet North Korea's Kim later this year",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-says-will-meet-north-korea-s-kim-later-this-year",
+      "published_date": "2026-08-20T06:07:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Investigation into killing of Hind Rajab and Gaza paramedics comes ‘extremely late’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/investigation-into-killing-of-hind-rajab-and-gaza-paramedics-comes-extremely-late",
+      "published_date": "2026-08-20T06:06:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army admits firing on car in death of 5-year-old Hind Rajab",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israeli-army-admits-firing-on-car-in-death-of-5-year-old-hind-rajab",
+      "published_date": "2026-08-20T05:56:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv targeted by massive Russian strikes killing several people",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people",
+      "published_date": "2026-08-20T05:30:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T05:01:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea fires missiles after Trump touts meeting with Kim Jong-un this year",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260820-trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year",
+      "published_date": "2026-08-20T01:15:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russia running on imported gasoline, government confirms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-war-briefing-russia-running-on-imported-gasoline-government-confirms",
+      "published_date": "2026-08-20T00:54:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East live: Israel warns Turkey against ‘dangerous adventures’ in Syria",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260819-middle-east-live-trump-threatens-economic-punishment-on-any-country-helping-iran",
+      "published_date": "2026-08-19T23:26:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Volodymyr Zelenskyy sacks senior aide amid Ukraine corruption crisis",
@@ -207,81 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Zelenskyy sacks deputy head of his office amid reported corruption investigation – Europe live",
+      "title": "Without action wildfires in Europe will increase 39% even in best-case climate scenario, study finds",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/19/europe-ukraine-zelenskyy-mykhailo-fedorov-parliament-vote-corruption-probe-russia-belgium-wildfires-latest-news-updates",
-      "published_date": "2026-08-19T10:39:59+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study",
+      "published_date": "2026-08-20T09:01:47+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine anti-graft agencies uncover alleged laundering group tied to presidential official",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260819-ukraine-anti-graft-agencies-uncover-alleged-laundering-group-tied-to-presidential-official",
-      "published_date": "2026-08-19T09:42:17+00:00",
-      "category": "Military"
+      "title": "French winegrowers begin record early harvest as heat and drought bite",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260820-record-early-grape-harvest-in-france-highlights-growing-impact-of-climate-change",
+      "published_date": "2026-08-20T04:41:16+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Sacked Ukraine defence minister urges path to elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260819-sacked-ukraine-defence-minister-urges-path-to-elections",
-      "published_date": "2026-08-19T09:29:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ousted Ukraine defence minister challenges Zelensky's leadership",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260819-ousted-ukraine-defence-minister-challenges-zelensky-s-leadership",
-      "published_date": "2026-08-19T09:23:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran parliament speaker Ghalibaf in Iraq for talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260819-iran-parliament-speaker-ghalibaf-in-iraq-for-talks",
-      "published_date": "2026-08-19T09:21:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN atomic watchdog says found tons of nuclear material at Syria site",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260819-un-atomic-watchdog-says-found-tons-of-nuclear-material-at-syria-site",
-      "published_date": "2026-08-19T09:19:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's sacked defence minister Fedorov calls for wartime presidential elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260819-ukraine-s-sacked-defence-minister-mykhailo-fedorov-calls-for-wartime-presidential-elections",
-      "published_date": "2026-08-19T06:06:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East live: Iran army chief warns Gulf countries not to help US military",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260819-middle-east-live-turkey-rejects-israeli-claims-after-strike-on-syria-air-base",
-      "published_date": "2026-08-19T03:05:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump scales back joint military drills between South Korea and US",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260819-trump-scales-back-joint-military-drills-between-south-korea-and-us",
-      "published_date": "2026-08-19T02:27:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Would-be parcel bomber convicted in German court",
+      "title": "The threatening thaw: climate professor on heatwave risks to tipping point of permafrost",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/19/ukraine-war-briefing-would-be-parcel-bomber-convicted-in-german-court",
-      "published_date": "2026-08-19T01:37:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
-      "published_date": "2026-08-18T22:21:59+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/aug/20/tipping-points-heatwaves-wildfires-permafrost-climate-crisis",
+      "published_date": "2026-08-20T04:00:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK relies on heat-stressed countries for fruit and veg it could grow itself – report",
@@ -403,25 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Romania shuts down nuclear plant due to low level of drought-hit Danube",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260813-romania-shuts-down-nuclear-plant-due-to-low-level-of-drought-hit-danube",
-      "published_date": "2026-08-13T13:28:12+00:00",
-      "category": "Energy"
+      "title": "Electronic billing: What businesses and freelancers in France need to do by September",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260820/electronic-billing-what-businesses-and-freelancers-in-france-need-to-do-by-september",
+      "published_date": "2026-08-20T08:59:11+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Solar eclipse 2026: One in eight people worldwide see partial eclipse",
+      "title": "What property giant Evergrande's sentence means for China's economy",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260813-solar-eclipse-2026-one-in-eight-people-worldwide-see-partial-eclipse",
-      "published_date": "2026-08-13T09:49:34+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/live-news/20260820-what-property-giant-evergrande-s-sentence-means-for-china-s-economy",
+      "published_date": "2026-08-20T06:57:10+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Total eclipse plunges Spain’s Segovia into darkness for 59 seconds of wonder (4/4)",
+      "title": "China real estate giant Xu Jiayin sentenced to life in prison",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260813-total-eclipse-plunges-spain-segovia-into-darkness-suspending-time-59-seconds",
-      "published_date": "2026-08-13T08:56:08+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/asia-pacific/20260820-china-reast-estate-giant-xu-jiayin-sentenced-to-life-in-prison",
+      "published_date": "2026-08-20T06:27:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US national debt exceeds $40 trillion for first time amid rising borrowing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/economy/20260819-us-national-debt-exceeds-40-trillion-for-first-time-amid-rising-borrowing",
+      "published_date": "2026-08-19T22:12:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "Jaecoo owner Chery takes ‘next step’ in UK push with R&D centre",
@@ -536,38 +564,66 @@
       "category": "Economy"
     },
     {
-      "title": "'Suffocating restrictions' shadow five years of Taliban rule in Afghanistan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260815-suffocating-restrictions-shadow-five-years-of-taliban-rule-in-afghanistan",
-      "published_date": "2026-08-15T07:14:24+00:00",
-      "category": "Economy"
+      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T10:14:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Explained: French laws on foreign interference in politics",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260814/explained-french-laws-on-foreign-interference-in-politics",
-      "published_date": "2026-08-14T14:28:11+00:00",
-      "category": "Economy"
+      "title": "Australia 'outraged' over Israel decision to close probe into aid worker killings",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260820-australia-outraged-over-israel-decision-to-close-probe-into-aid-worker-killings",
+      "published_date": "2026-08-20T09:19:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "World Bank to fund 645-metre bridge linking Bangui and Zongo",
+      "title": "Zimbabwe ferry disaster under scrutiny as death toll rises to 94",
       "source": "France 24",
-      "url": "https://www.france24.com/en/world-bank-to-fund-645-metre-bridge-linking-bangui-and-zongo",
-      "published_date": "2026-08-14T13:52:37+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260820-zimbabwe-ferry-disaster-under-scrutiny-as-death-toll-rises-to-94",
+      "published_date": "2026-08-20T09:14:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump imposes tariffs of up to 100% on drone imports",
+      "title": "Whales spark joy in New York but face threats from boat traffic",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260814-donald-trump-imposes-tariffs-of-up-to-100-on-imported-drones",
-      "published_date": "2026-08-14T00:02:12+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260820-whales-spark-joy-in-new-york-but-face-threats-from-boat-traffic",
+      "published_date": "2026-08-20T08:58:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Migrant women tell of sexual harassment in Spain's crisis-hit Ceuta",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260820-migrant-women-tell-of-sexual-harassment-in-spain-s-crisis-hit-ceuta",
+      "published_date": "2026-08-20T08:54:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kyiv comes under heavy Russian missile attack, killing at least 13",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+      "published_date": "2026-08-20T07:08:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Prince Harry and Meghan to move back to UK six years after royal exit",
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260819-prince-harry-meghan-move-back-uk-six-years-after-royal-exit",
       "published_date": "2026-08-19T22:39:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Angélique Kidjo makes Hollywood history as first Black African on Walk of Fame",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260819-ang%C3%A9lique-kidjo-makes-hollywood-history-as-first-black-african-on-walk-of-fame",
+      "published_date": "2026-08-19T21:36:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Central African Republic gold mine collapse kills more than 100",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260819-more-than-100-killed-central-african-republic-gold-mine-collapse",
+      "published_date": "2026-08-19T19:36:10+00:00",
       "category": "Local Events"
     },
     {
@@ -645,62 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/africa/20260819-two-french-filmmakers-detained-togo-july-27-foreign-ministry",
       "published_date": "2026-08-19T00:55:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fenerbahce fight back against Lyon as Greenwood scores Champions League equaliser",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260818-fenerbahce-fight-back-against-lyon-as-greenwood-scores-champions-league-equaliser",
-      "published_date": "2026-08-18T23:06:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICC says US sanctions on top court members 'undermine rule of law'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260818-icc-says-us-sanctions-on-top-court-members-undermine-rule-of-law",
-      "published_date": "2026-08-18T20:31:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jailed South African businessman appears before corruption inquiry",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260818-jailed-businessman-appears-accused-of-bribes-and-cartel-links",
-      "published_date": "2026-08-18T20:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Earthquake rocks Spain's historic Granada, injuring three",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-18T17:15:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France probes Russian disinfo campaign against centrist candidates",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260818/france-probes-russian-disinfo-campaign-against-centrist-candidates",
-      "published_date": "2026-08-18T14:06:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Migration has been weaponised’: Italy’s security law criticised after death of Moroccan man in police restraint",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/italy-security-law-death-moroccan-man-police-custody-abderrahim-fakir",
-      "published_date": "2026-08-18T10:55:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/mechanical-fault-helicopter-crash-killed-british-newlyweds-sifnos-greece",
-      "published_date": "2026-08-18T10:36:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Visit Rome by night: Italian capital tests new tourism strategy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/visit-rome-by-night-italian-capital-tests-new-tourism-strategy",
-      "published_date": "2026-08-18T09:20:03+00:00",
       "category": "Local Events"
     }
   ]
