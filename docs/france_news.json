@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-08-20T23:21:27.494167+00:00",
-  "story_count": 99,
+  "last_updated": "2026-08-21T11:19:55.270180+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Gun stash discovered in German forest believed to be linked to Russia, say reports",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/21/gun-stash-germany-forest-berlin-believed-linked-russia-reports",
+      "published_date": "2026-08-21T10:13:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hong Kong's Tiananmen vigils organisers convicted in national security case",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case",
+      "published_date": "2026-08-21T09:47:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and European allies press Israel to abandon West Bank settlement plan",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260821-france-and-european-allies-press-israel-to-abandon-west-bank-settlement-plan",
+      "published_date": "2026-08-21T07:01:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Anxiety over war, wildfires and cyber-attacks leads to growth in cash stocks in EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/21/anxiety-over-war-wildfires-and-cyber-attacks-leads-to-growth-in-cash-stocks-in-eu",
+      "published_date": "2026-08-21T04:00:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Man arrested over Nord Stream bombing was consultant on film about it starring Sean Penn",
       "source": "The Guardian",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
+      "title": "France, Germany, UK and Italy condemn Israel's 'E1' West Bank plan",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
-      "published_date": "2026-08-17T18:14:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260821-france-germany-uk-and-italy-condemn-israel-s-e1-west-bank-plan",
+      "published_date": "2026-08-21T09:48:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran bars two French diplomats over alleged 'interference'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260817-iran-bars-two-french-diplomats-over-alleged-interference",
-      "published_date": "2026-08-17T17:33:08+00:00",
-      "category": "Diplomacy"
+      "title": "Trump ultra-loyal aide Natalie Harp in the spotlight",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260821-trump-ultra-loyal-aide-natalie-harp-in-the-spotlight",
+      "published_date": "2026-08-21T09:42:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "What new EU banking law means for foreigners in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260817/what-new-eu-banking-law-means-for-foreigners-in-france",
-      "published_date": "2026-08-17T10:53:41+00:00",
-      "category": "Diplomacy"
+      "title": "Russia’s missile tests around disputed islands anger Japan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan",
+      "published_date": "2026-08-21T04:54:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cop17 aims to restore land and hope in fight against desertification",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260817-cop17-aims-to-restore-land-and-hope-in-fight-against-desertification",
-      "published_date": "2026-08-17T10:52:37+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Kyiv protest organiser disowns Mykhailo Fedorov’s call for elections",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/21/ukraine-war-briefing-kyiv-protest-organiser-disowns-mykhailo-fedorovs-call-for-elections",
+      "published_date": "2026-08-21T01:23:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine a 'genuine', 'fragile' democracy: 'Internal political turmoil will weaken political system'",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "North Korea fires missiles after Trump touts meeting with Kim Jong-un this year",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260820-trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year",
-      "published_date": "2026-08-20T01:15:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russia running on imported gasoline, government confirms",
+      "title": "What happens to people’s health when air pollution is reduced?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-war-briefing-russia-running-on-imported-gasoline-government-confirms",
-      "published_date": "2026-08-20T00:54:25+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/aug/21/what-happens-peoples-health-when-air-pollution-reduced",
+      "published_date": "2026-08-21T05:00:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Middle East live: Israel warns Turkey against ‘dangerous adventures’ in Syria",
+      "title": "Middle East live: Hormuz shipping traffic falls as Iran-US talks stall",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260819-middle-east-live-trump-threatens-economic-punishment-on-any-country-helping-iran",
-      "published_date": "2026-08-19T23:26:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Volodymyr Zelenskyy sacks senior aide amid Ukraine corruption crisis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/19/volodymyr-zelenskyy-sacks-senior-aide-amid-ukraine-corruption-crisis",
-      "published_date": "2026-08-19T17:14:02+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/middle-east/20260821-middle-east-live-hormuz-shipping-traffic-falls-as-iran-us-talks-stall",
+      "published_date": "2026-08-21T02:50:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Extreme heat: 'We're really starting now to understand how global climate is impacting our health'",
@@ -410,17 +424,52 @@
       "category": "Energy"
     },
     {
-      "title": "Romania shuts its last nuclear reactor as drought-hit Danube river drops to record low",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/romania-nuclear-plant-shut-down-cernavoda-danube-river-water-drought",
-      "published_date": "2026-08-14T01:20:26+00:00",
-      "category": "Energy"
+      "title": "Cameroon’s President Biya home after 73-day absence, amid health speculation",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260821-cameroon-president-biya-home-after-73-day-absence-amid-health-speculation",
+      "published_date": "2026-08-21T10:11:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "In Senegal's Saint-Louis, traces of slave-trading past fade away",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260821-in-senegal-s-saint-louis-traces-of-slave-trading-past-fade-away",
+      "published_date": "2026-08-21T09:50:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tunisia opposition protests against president amid economic discontent",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260821-tunisia-opposition-protests-against-president-amid-economic-discontent",
+      "published_date": "2026-08-21T09:38:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Conference League: Monaco take first-leg lead in Poland",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260821-conference-league-monaco-take-first-leg-lead-in-poland",
+      "published_date": "2026-08-21T08:20:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US urges allies and China to join Iran economic pressure campaign",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
+      "published_date": "2026-08-21T02:38:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Panama Canal to cut daily ship traffic as drought worsens from El Nino",
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260820-panama-canal-to-cut-daily-ship-traffic-as-drought-worsens-from-el-nino",
       "published_date": "2026-08-20T22:58:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Major Nigerian coke bust leads to arrests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260820-major-nigerian-coke-bust-leads-to-arrest",
+      "published_date": "2026-08-20T21:17:10+00:00",
       "category": "Economy"
     },
     {
@@ -515,46 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "French taxpayers warned after personal data stolen in major hack",
+      "title": "Ex-Pakistan PM Khan taken back to jail after hospital checks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/french-taxpayers-warned-after-personal-data-stolen-in-major-hack",
-      "published_date": "2026-08-17T10:50:34+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260821-ex-pakistan-pm-khan-taken-back-to-jail-after-hospital-checks",
+      "published_date": "2026-08-21T09:44:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Explained: Are you affected by the cyberattack on French tax office",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260817/explained-are-you-affected-by-the-cyberattack-on-french-tax-office",
-      "published_date": "2026-08-17T07:13:09+00:00",
-      "category": "Economy"
+      "title": "El Niño rains in Peru disrupt access to Machu Picchu",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260821-el-ni%C3%B1o-rains-in-peru-disrupt-access-to-machu-picchu",
+      "published_date": "2026-08-21T09:43:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Monday briefing: What can Andy Burnham learn from Spain’s Pedro Sánchez?",
+      "title": "Footage shows clash with French police on beach as dinghy tries to leave for UK",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/17/monday-briefing-what-can-andy-burnham-learn-from-spains-pedro-sanchez",
-      "published_date": "2026-08-17T05:47:23+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/footage-french-police-clashing-people-beach-small-boats",
+      "published_date": "2026-08-21T08:05:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Italy’s mythic ‘month off’ in August was hard won. It would be good for us all | Jamie Mackay",
+      "title": "Five missing after fire in Swiss Alpine town",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T07:06:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-Pakistan PM Imran Khan returned to jail after hospital checks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260821-ex-pakistan-pm-imran-khan-returned-to-jail-after-hospital-transfer",
+      "published_date": "2026-08-21T06:17:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It is the riskiest film I’ve ever made’: Pedro Almodóvar on being the villain in his own movie",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/17/italy-month-off-august-economic-productivity",
-      "published_date": "2026-08-17T04:00:45+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/film/2026/aug/21/it-is-the-riskiest-film-ive-ever-made-pedro-almodovar-on-being-the-villain-in-his-own-movie",
+      "published_date": "2026-08-21T04:00:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves",
-      "published_date": "2026-08-16T08:00:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "EasyJet strike sees 100 French flights cancelled",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260816/easyjet-strike-sees-100-french-flights-cancelled",
-      "published_date": "2026-08-16T07:09:35+00:00",
-      "category": "Economy"
+      "title": "Hong Kong convicts two Tiananmen vigil activists of inciting subversion",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260821-the-hong-kong-tiananmen-vigil-activists-convicted-in-national-security-trial",
+      "published_date": "2026-08-21T03:55:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Cameroon's 93-year-old President Paul Biya returns after months-long stay abroad",
@@ -645,55 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260820-zimbabwe-ferry-disaster-under-scrutiny-as-death-toll-rises-to-94",
       "published_date": "2026-08-20T09:14:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Whales spark joy in New York but face threats from boat traffic",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260820-whales-spark-joy-in-new-york-but-face-threats-from-boat-traffic",
-      "published_date": "2026-08-20T08:58:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migrant women tell of sexual harassment in Spain's crisis-hit Ceuta",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260820-migrant-women-tell-of-sexual-harassment-in-spain-s-crisis-hit-ceuta",
-      "published_date": "2026-08-20T08:54:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damaged pitch forces PSG to switch season opener",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dwdxqylwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T07:48:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kyiv comes under heavy Russian missile attack, killing at least 13",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "published_date": "2026-08-20T07:08:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prince Harry and Meghan to move back to UK six years after royal exit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260819-prince-harry-meghan-move-back-uk-six-years-after-royal-exit",
-      "published_date": "2026-08-19T22:39:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Angélique Kidjo makes Hollywood history as first Black African on Walk of Fame",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260819-ang%C3%A9lique-kidjo-makes-hollywood-history-as-first-black-african-on-walk-of-fame",
-      "published_date": "2026-08-19T21:36:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Central African Republic gold mine collapse kills more than 100",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260819-more-than-100-killed-central-african-republic-gold-mine-collapse",
-      "published_date": "2026-08-19T19:36:10+00:00",
       "category": "Local Events"
     }
   ]
