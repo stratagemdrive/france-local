@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-08-21T11:19:55.270180+00:00",
-  "story_count": 100,
+  "last_updated": "2026-08-21T23:18:55.617121+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Who are the eight candidates running to succeed Antonio Guterres as UN chief?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/who-are-the-eight-candidates-running-to-succeed-antonio-guterres-as-un-chief",
+      "published_date": "2026-08-21T15:32:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "E1 Israeli settlement poses ‘existential threat’ to two-state solution, UN chief warns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260821-e1-israeli-settlement-poses-existential-threat-to-two-state-solution-un-chief-warns",
+      "published_date": "2026-08-21T14:24:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France backs down on plan to make patients pay more for healthcare",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260821-france-backs-down-on-plan-to-make-patients-pay-more-for-healthcare-medicine",
+      "published_date": "2026-08-21T13:45:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu focused on reelection as Israeli govt grows 'less concerned' about international isolation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/netanyahu-focused-on-reelection-as-israeli-govt-grows-less-concerned-about-international-isolation",
+      "published_date": "2026-08-21T12:57:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "With ICC sanctions, Trump wants to make the world safe for war criminals | Kenneth Roth",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals",
+      "published_date": "2026-08-21T12:00:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Gun stash discovered in German forest believed to be linked to Russia, say reports",
       "source": "The Guardian",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France's Vieira appointed head coach of Senegal national football team",
+      "title": "Israeli settlers and military kill 2 Palestinians – one a teenager – in separate West Bank shootings",
       "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260818-france-vieira-appointed-head-coach-senegal-national-football-team",
-      "published_date": "2026-08-18T14:38:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260821-israeli-settlers-and-military-kill-2-palestinians-teenager-separate-west-bank-shootings",
+      "published_date": "2026-08-21T19:53:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why is Sweden deporting Britons faster than any other EU country post-Brexit? | David Milstead",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/18/sweding-deporting-britons-eu-country-brexit",
-      "published_date": "2026-08-18T14:38:17+00:00",
-      "category": "Diplomacy"
+      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T16:26:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "What is behind Russia’s ‘consequences’ threat over UK sending drones to Ukraine?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/russia-consequences-threat-uk-drones-ukraine",
-      "published_date": "2026-08-18T13:22:45+00:00",
-      "category": "Diplomacy"
+      "title": "More Russians seeking to leave as fears of another mobilisation grow",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260821-mobilisation-fears-fuel-renewed-russian-interest-in-leaving-the-country-relokatz",
+      "published_date": "2026-08-21T16:03:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
-      "published_date": "2026-08-18T11:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Anti-migrants protesters gather outside SADC Summit",
+      "title": "Fishermen floating in cooler rescued after five days at sea off Mexican coast",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260817-anti-migrants-protesters-gather-outside-sadc-summit",
-      "published_date": "2026-08-17T20:45:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260821-fishermen-floating-in-cooler-rescued-after-five-days-at-sea-off-mexican-coast",
+      "published_date": "2026-08-21T13:08:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T13:07:00+00:00",
+      "category": "Military"
     },
     {
       "title": "France, Germany, UK and Italy condemn Israel's 'E1' West Bank plan",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Trump says will meet North Korea's Kim later this year",
+      "title": "Millions in Cuba face water shortages as oil crisis deepens",
       "source": "France 24",
-      "url": "https://www.france24.com/en/trump-says-will-meet-north-korea-s-kim-later-this-year",
-      "published_date": "2026-08-20T06:07:05+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260821-millions-in-cuba-face-water-shortages-as-oil-crisis-deepens",
+      "published_date": "2026-08-21T15:28:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Investigation into killing of Hind Rajab and Gaza paramedics comes ‘extremely late’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/investigation-into-killing-of-hind-rajab-and-gaza-paramedics-comes-extremely-late",
-      "published_date": "2026-08-20T06:06:07+00:00",
-      "category": "Military"
+      "title": "'An invisible avalanche': what happened in Cameroon's 1986 Lake Nyos disaster?",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260821-an-invisible-avalanche-what-happened-in-cameroon-s-1986-lake-nyos-disaster",
+      "published_date": "2026-08-21T14:47:55+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli army admits firing on car in death of 5-year-old Hind Rajab",
+      "title": "What a record-breaking El Nino could mean for the world",
       "source": "France 24",
-      "url": "https://www.france24.com/en/israeli-army-admits-firing-on-car-in-death-of-5-year-old-hind-rajab",
-      "published_date": "2026-08-20T05:56:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv targeted by massive Russian strikes killing several people",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people",
-      "published_date": "2026-08-20T05:30:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T05:01:24+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260821-what-a-record-breaking-el-nino-could-mean-for-the-world",
+      "published_date": "2026-08-21T14:28:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "What happens to people’s health when air pollution is reduced?",
@@ -393,34 +414,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/asia-pacific/20260816-thousands-await-aid-after-deadly-indonesian-quake",
       "published_date": "2026-08-16T06:25:43+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "DR Congo Ebola outbreak spreads to sixth province",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260814-dr-congo-ebola-outbreak-spreads-to-sixth-province",
-      "published_date": "2026-08-14T21:10:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Europe: Raging wildfires scorch large swaths of the continent",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260814-europe-raging-wildfires-scorch-large-swaths-of-the-continent",
-      "published_date": "2026-08-14T16:02:43+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Mount Etna continues to erupt in Italy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/mount-etna-continues-to-erupt-in-italy",
-      "published_date": "2026-08-14T13:49:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "West Bank: Palestinians families trapped in home",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-home",
-      "published_date": "2026-08-14T11:33:16+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +557,55 @@
       "category": "Economy"
     },
     {
+      "title": "One killed in sword attack at Swedish school",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T21:03:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T19:49:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadly 'double-tap' Russian drone strikes target Ukraine shopping centre",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
+      "published_date": "2026-08-21T18:07:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey seeks Interpol arrest warrant for Netanyahu over Gaza flotilla detention",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260821-turkey-seeks-international-arrest-warrant-against-israel-s-netanyahu-over-gaza-flotilla-detention",
+      "published_date": "2026-08-21T18:04:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG heavily favoured to win sixth successive Ligue 1 title",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260821-psg-heavily-favoured-win-sixth-successive-ligue-1-title",
+      "published_date": "2026-08-21T14:14:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Home Office could be blocked from deporting trafficking victims to Albania",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/home-office-albanian-trafficking-victims-deport",
+      "published_date": "2026-08-21T12:25:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hopes fade after Central African Republic gold mine collapse kills dozens",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260821-hopes-fade-after-central-african-republic-gold-mine-collapse-kills-dozens",
+      "published_date": "2026-08-21T11:31:16+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Ex-Pakistan PM Khan taken back to jail after hospital checks",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260821-ex-pakistan-pm-khan-taken-back-to-jail-after-hospital-checks",
@@ -652,55 +694,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260820-icc-slams-us-decision-to-sanction-the-court-s-president-and-a-senior-prosecution-lawyer",
       "published_date": "2026-08-20T13:30:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T13:04:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG’s Ligue 1 home opener moved to Rennes after pitch damaged by heat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/aug/20/psgs-ligue-1-home-opener-moved-to-rennes-after-paris-pitch-damaged-by-heat",
-      "published_date": "2026-08-20T12:41:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain to open shelters in Ceuta for migrants and transfer 500 girls to mainland",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260820-spain-to-open-shelters-in-ceuta-for-migrants-and-transfer-500-girls-to-mainland",
-      "published_date": "2026-08-20T11:45:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Como mayor bans bikes in city centre after being hit ‘by one of these beasts’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/20/lake-como-italy-mayor-bans-bikes-city-centre-after-being-hit",
-      "published_date": "2026-08-20T11:45:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T10:14:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia 'outraged' over Israel decision to close probe into aid worker killings",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260820-australia-outraged-over-israel-decision-to-close-probe-into-aid-worker-killings",
-      "published_date": "2026-08-20T09:19:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zimbabwe ferry disaster under scrutiny as death toll rises to 94",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260820-zimbabwe-ferry-disaster-under-scrutiny-as-death-toll-rises-to-94",
-      "published_date": "2026-08-20T09:14:14+00:00",
       "category": "Local Events"
     }
   ]
