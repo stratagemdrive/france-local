@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-08-22T23:16:41.045756+00:00",
+  "last_updated": "2026-08-23T11:15:55.659958+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Russia withdraws ambassador to UK as Kremlin ratchets pressure over Ukraine support",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
+      "published_date": "2026-08-23T10:37:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia asserts its dominance over Esports as MBS arrives in Paris for 'World Cup'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/saudi-arabia-asserts-its-dominance-over-esports-as-mbs-arrives-in-paris-for-world-cup",
+      "published_date": "2026-08-23T10:09:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-tariffs",
+      "published_date": "2026-08-23T09:02:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi crown prince heads to France as Paris seeks closer Gulf ties",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260823-saudi-crown-prince-heads-to-france-as-paris-seeks-closer-gulf-ties",
+      "published_date": "2026-08-23T07:05:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Pretty shambolic’: new EU border checks cause stress for UK travellers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/23/new-eu-border-checks-ees-uk-travellers-visa-queues",
+      "published_date": "2026-08-23T07:00:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron hosts Saudi crown prince for two-day visit to include issues from energy to Mideast",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260823-macron-welcomes-saudi-crown-prince-mbs-for-two-day-france-visit",
+      "published_date": "2026-08-23T01:57:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France to send interceptor missiles to Ukraine after Russian strikes",
       "source": "RFI English",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gun stash discovered in German forest believed to be linked to Russia, say reports",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/21/gun-stash-germany-forest-berlin-believed-linked-russia-reports",
-      "published_date": "2026-08-21T10:13:50+00:00",
-      "category": "Diplomacy"
+      "title": "'Niu Lai', the 'so bad it's good' Chinese cartoon becoming a box-office hit",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20260823-niu-lai-the-so-bad-chinese-animated-film-breaking-box-office-records",
+      "published_date": "2026-08-23T10:15:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hong Kong's Tiananmen vigils organisers convicted in national security case",
+      "title": "Hundreds of Gaza children join a mass swimming lesson to cope with trauma",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case",
-      "published_date": "2026-08-21T09:47:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/hundreds-of-gaza-children-join-a-mass-swimming-lesson-to-cope-with-trauma",
+      "published_date": "2026-08-23T09:46:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "France and European allies press Israel to abandon West Bank settlement plan",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260821-france-and-european-allies-press-israel-to-abandon-west-bank-settlement-plan",
-      "published_date": "2026-08-21T07:01:15+00:00",
-      "category": "Diplomacy"
+      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-23T09:37:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "Anxiety over war, wildfires and cyber-attacks leads to growth in cash stocks in EU",
+      "title": "Ukraine: Zelensky asks for more Patriot interceptors as civilian deaths hit highest level since 2022",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-zelensky-asks-for-more-patriot-interceptors-as-civilian-deaths-hit-highest-level-since-2022",
+      "published_date": "2026-08-23T09:05:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Canada wants 'benefits of being a State, without being one' as trade war deepens",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260823-trump-says-canada-wants-benefits-of-being-a-state-as-trade-war-deepens",
+      "published_date": "2026-08-23T06:56:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The ‘ordinary’ woman accused of assassinating a Russian commander in Crimea",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/21/anxiety-over-war-wildfires-and-cyber-attacks-leads-to-growth-in-cash-stocks-in-eu",
-      "published_date": "2026-08-21T04:00:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
+      "published_date": "2026-08-23T04:00:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Man arrested over Nord Stream bombing was consultant on film about it starring Sean Penn",
+      "title": "Ukraine war briefing: Macron focuses on delivery of missile interceptors as Russian attacks intensify",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/20/man-arrested-nord-stream-volodymyr-zhuravlev-consultant-film-sean-penn-snake-island",
-      "published_date": "2026-08-20T17:41:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "West Bank village siege fuels concern over growing settler violence",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260820-west-bank-village-siege-fuels-concern-over-growing-settler-violence-qusra",
-      "published_date": "2026-08-20T15:20:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-war-briefing-macron-focuses-on-delivery-of-missile-interceptors-as-russian-attacks-intensify",
+      "published_date": "2026-08-23T01:04:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Canada says will match new US 50% tariffs 'dollar for dollar'",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Fishermen floating in cooler rescued after five days at sea off Mexican coast",
+      "title": "Why Saudi Arabia is spending billions to become a global Esports power?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260821-fishermen-floating-in-cooler-rescued-after-five-days-at-sea-off-mexican-coast",
-      "published_date": "2026-08-21T13:08:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T13:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France, Germany, UK and Italy condemn Israel's 'E1' West Bank plan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260821-france-germany-uk-and-italy-condemn-israel-s-e1-west-bank-plan",
-      "published_date": "2026-08-21T09:48:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump ultra-loyal aide Natalie Harp in the spotlight",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260821-trump-ultra-loyal-aide-natalie-harp-in-the-spotlight",
-      "published_date": "2026-08-21T09:42:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s missile tests around disputed islands anger Japan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan",
-      "published_date": "2026-08-21T04:54:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv protest organiser disowns Mykhailo Fedorov’s call for elections",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/21/ukraine-war-briefing-kyiv-protest-organiser-disowns-mykhailo-fedorovs-call-for-elections",
-      "published_date": "2026-08-21T01:23:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine a 'genuine', 'fragile' democracy: 'Internal political turmoil will weaken political system'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-a-genuine-fragile-democracy-internal-political-turmoil-will-weaken-political-system",
-      "published_date": "2026-08-20T20:32:28+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/why-saudi-arabia-is-spending-billions-to-become-a-global-esports-power",
+      "published_date": "2026-08-23T09:44:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "Heatwave-hit Europe logs over 30,000 excess summer deaths",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "West Bank: Palestinian families besieged for a week as settler violence continues",
+      "title": "Middle East live: Iran's president says country facing 'many problems' as US sanctions loom",
       "source": "France 24",
-      "url": "https://www.france24.com/en/west-bank-palestinian-families-besieged-for-a-week-as-settler-violence-continues",
-      "published_date": "2026-08-16T08:50:57+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/middle-east/20260823-middle-east-live-iran-s-president-says-country-facing-many-problems-as-us-sanctions-loom",
+      "published_date": "2026-08-23T09:23:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran escalates threats as US pushes economic isolation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-escalates-threats-as-us-pushes-economic-isolation",
+      "published_date": "2026-08-23T09:02:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "Canada vows to match US tariffs 'dollar for dollar' after failed trade negotiations",
@@ -550,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "French pensions: What is changing in September 2026?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260818/french-pensions-what-is-changing-in-september-2026",
-      "published_date": "2026-08-18T14:57:10+00:00",
-      "category": "Economy"
+      "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
+      "published_date": "2026-08-23T11:00:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Warnings sent to French taxpayers after hackers allegedly sell stolen data",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260818-french-taxpayers-receive-warnings-after-hackers-steal-and-allegedly-sell-data",
-      "published_date": "2026-08-18T10:37:52+00:00",
-      "category": "Economy"
+      "title": "Finland tried to end homelessness. What can we learn from its runaway success – and recent failures?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/23/finland-tried-to-end-homelessness-what-can-we-learn-from-its-runaway-success-and-recent-failures",
+      "published_date": "2026-08-23T10:00:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Presidential campaign heats up in Brazil, as Lula and F. Bolsonaro hold rival rallies",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/presidential-campaign-heats-up-in-brazil-as-lula-and-f-bolsonaro-hold-rival-rallies",
+      "published_date": "2026-08-23T09:49:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela: Two months after the quake, 12,500 people still live in temporary camps",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/venezuela-two-months-after-the-quake-12-500-people-still-live-in-temporary-camps",
+      "published_date": "2026-08-23T09:45:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anger over slow pace of reconstruction in Italian town devastated by earthquake in 2016",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/23/italian-town-amatrice-marks-10-years-since-devastating-earthquake",
+      "published_date": "2026-08-23T07:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Girl, 17, killed in Swedish sword attack, police say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-23T01:34:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Seventeen-year-old girl killed in sword attack at school in Sweden",
@@ -659,48 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260822/popular-forest-near-paris-to-reopen-after-wildfire",
       "published_date": "2026-08-22T07:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy vows response to Russia’s deadly shopping centre attack",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-war-briefing-zelenskyy-vows-response-to-russias-deadly-shopping-centre-attack",
-      "published_date": "2026-08-22T03:14:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One killed in sword attack at Swedish school",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T21:03:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Search continues after deadly mine collapse on Cameroon-Central African Republic border",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260821-search-continues-after-deadly-mine-collapse-on-cameroon-central-african-republic-border",
-      "published_date": "2026-08-21T20:46:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T19:49:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly 'double-tap' Russian drone strikes target Ukraine shopping centre",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
-      "published_date": "2026-08-21T18:07:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey seeks Interpol arrest warrant for Netanyahu over Gaza flotilla detention",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260821-turkey-seeks-international-arrest-warrant-against-israel-s-netanyahu-over-gaza-flotilla-detention",
-      "published_date": "2026-08-21T18:04:40+00:00",
       "category": "Local Events"
     }
   ]
