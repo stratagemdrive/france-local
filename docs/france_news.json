@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-08-23T11:15:55.659958+00:00",
+  "last_updated": "2026-08-23T23:16:42.966463+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "The Guardian view on Andy Burnham’s foreign policy: work in progress | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/23/the-guardian-view-on-andy-burnhams-foreign-policy-work-in-progress",
+      "published_date": "2026-08-23T17:30:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The far right is steering the EU’s response on migration | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/23/far-right-is-steering-eu-response-on-migration",
+      "published_date": "2026-08-23T16:57:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron hosts Saudi's MBS for visit ranging from esports to Mideast",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260823/macron-hosts-saudis-mbs-for-visit-ranging-from-esports-to-mideast",
+      "published_date": "2026-08-23T10:41:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Russia withdraws ambassador to UK as Kremlin ratchets pressure over Ukraine support",
       "source": "The Guardian",
@@ -15,6 +36,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/saudi-arabia-asserts-its-dominance-over-esports-as-mbs-arrives-in-paris-for-world-cup",
       "published_date": "2026-08-23T10:09:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Holiday planning, bank rules, and electronic billing: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260823/holiday-planning-bank-rules-and-electronic-billing-6-essential-articles-for-life-in-france",
+      "published_date": "2026-08-23T09:30:47+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "E1 Israeli settlement poses ‘existential threat’ to two-state solution, UN chief warns",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260821-e1-israeli-settlement-poses-existential-threat-to-two-state-solution-un-chief-warns",
-      "published_date": "2026-08-21T14:24:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France backs down on plan to make patients pay more for healthcare",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260821-france-backs-down-on-plan-to-make-patients-pay-more-for-healthcare-medicine",
-      "published_date": "2026-08-21T13:45:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Netanyahu focused on reelection as Israeli govt grows 'less concerned' about international isolation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/netanyahu-focused-on-reelection-as-israeli-govt-grows-less-concerned-about-international-isolation",
-      "published_date": "2026-08-21T12:57:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "With ICC sanctions, Trump wants to make the world safe for war criminals | Kenneth Roth",
+      "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals",
-      "published_date": "2026-08-21T12:00:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
+      "published_date": "2026-08-23T23:01:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "DRC and M23 rebels agree on roadmap for peace in eastern Congo",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260823-drc-and-m23-rebels-agree-on-roadmap-for-peace-in-eastern-congo",
+      "published_date": "2026-08-23T15:00:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
+      "published_date": "2026-08-23T14:49:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
+      "published_date": "2026-08-23T14:48:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The week in pictures: a French woman in space, wildfires in Europe and the war in Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/science/20260823-the-week-in-pictures-frenchwoman-space-nasa-wildfires-europe-war-ukraine",
+      "published_date": "2026-08-23T13:09:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "President Zelensky says having elections in Ukraine would 'destroy the country'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country",
+      "published_date": "2026-08-23T13:07:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Wartime elections would 'destroy' Ukraine, says Zelensky",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260823-wartime-elections-would-destroy-ukraine-says-zelensky",
+      "published_date": "2026-08-23T12:30:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
+      "published_date": "2026-08-23T11:50:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Southern African mothers plead for sons lured to Russia's war in Ukraine",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260823-southern-african-mothers-plead-for-sons-lured-to-russia-s-war",
+      "published_date": "2026-08-23T11:28:37+00:00",
+      "category": "Military"
     },
     {
       "title": "'Niu Lai', the 'so bad it's good' Chinese cartoon becoming a box-office hit",
@@ -193,6 +256,13 @@
       "category": "Military"
     },
     {
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T13:13:16+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Canada says will match new US 50% tariffs 'dollar for dollar'",
       "source": "France 24",
       "url": "https://www.france24.com/en/canada-says-will-match-new-us-50-tariffs-dollar-for-dollar",
@@ -214,74 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Israeli settlers kill Palestinian teen in the occupied West Bank",
+      "title": "Iran discovers major new gas reserves amid war-hit energy sector",
       "source": "France 24",
-      "url": "https://www.france24.com/en/israeli-settlers-kill-palestinian-teen-in-the-occupied-west-bank",
-      "published_date": "2026-08-22T09:10:38+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/middle-east/20260823-iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector",
+      "published_date": "2026-08-23T20:38:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russian strikes Zelensky's hometown in Ukraine, killing 15 people, wounding 130",
+      "title": "Thousands rally in Sweden to protest climate policies ahead of general election",
       "source": "France 24",
-      "url": "https://www.france24.com/en/russian-strikes-zelensky-s-hometown-in-ukraine-killing-15-people-wounding-130",
-      "published_date": "2026-08-22T09:08:13+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260823-thousands-rally-in-sweden-to-protest-climate-policies-ahead-of-general-election",
+      "published_date": "2026-08-23T14:59:12+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Turkey, Saudi Arabia and Pakistan strengthen ties as Israel tensions rise",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260822-turkey-saudi-arabia-and-pakistan-strengthen-ties-as-israel-tensions-rise",
-      "published_date": "2026-08-22T08:07:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes in Ukraine kill at least two a day after deadly drone attack on shopping centre",
+      "title": "How will European politicians react to a summer of extreme heat?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260822-russian-strikes-in-ukraine-kill-at-least-two-people-injure-several-others",
-      "published_date": "2026-08-22T06:02:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A bridge too far? Why link to Sicily is still a dream despite 2,000 years of plans",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/22/sicily-italy-bridge-plans-strait-of-messina",
-      "published_date": "2026-08-22T06:00:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Russian missiles rain down on Kyiv, casualties mount and the mood darkens",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/22/russian-missiles-kyiv-ukraine-casualties-mood-darkens",
-      "published_date": "2026-08-22T04:00:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea ship to test alternative Arctic route as Mideast conflict disrupts shipping",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/economy/20260822-south-korea-ship-to-test-alternative-arctic-route-as-mideast-conflict-disrupts-shipping",
-      "published_date": "2026-08-22T02:47:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli settlers and military kill 2 Palestinians – one a teenager – in separate West Bank shootings",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260821-israeli-settlers-and-military-kill-2-palestinians-teenager-separate-west-bank-shootings",
-      "published_date": "2026-08-21T19:53:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T16:26:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More Russians seeking to leave as fears of another mobilisation grow",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260821-mobilisation-fears-fuel-renewed-russian-interest-in-leaving-the-country-relokatz",
-      "published_date": "2026-08-21T16:03:05+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/how-will-european-politicians-react-to-a-summer-of-extreme-heat",
+      "published_date": "2026-08-23T13:15:30+00:00",
+      "category": "Energy"
     },
     {
       "title": "Why Saudi Arabia is spending billions to become a global Esports power?",
@@ -403,27 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Everything that's changing in France in September 2026",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260818/everything-thats-changing-in-france-in-september-2026",
-      "published_date": "2026-08-18T12:45:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "West Bank : UN delivers aid to besieged Palestinian families in Qusra",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/west-bank-un-delivers-aid-to-besieged-palestinian-families-in-qusra",
-      "published_date": "2026-08-17T09:18:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Solar-powered community gardens offer lifeline in drought-hit Zimbabwe",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260816-solar-powered-community-gardens-offer-lifeline-in-drought-hit-zimbabwe",
-      "published_date": "2026-08-16T12:53:38+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Middle East live: Iran's president says country facing 'many problems' as US sanctions loom",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260823-middle-east-live-iran-s-president-says-country-facing-many-problems-as-us-sanctions-loom",
@@ -435,6 +435,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/iran-escalates-threats-as-us-pushes-economic-isolation",
       "published_date": "2026-08-23T09:02:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260823/on-the-agenda-whats-happening-in-france-this-week-224",
+      "published_date": "2026-08-23T07:05:27+00:00",
       "category": "Economy"
     },
     {
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Trump says no Iran talks planned as UAE suspends trade with Tehran",
+      "title": "Crans-Montana bar owner detained over alleged domestic abuse",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260818-trump-says-no-iran-talks-planned-insists-strait-of-hormuz-remains-open",
-      "published_date": "2026-08-18T22:22:09+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/europe/20260823-crans-montana-bar-owner-detained-over-alleged-domestic-abuse",
+      "published_date": "2026-08-23T19:57:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French centre-left candidate launches presidential bid amid divided left",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260823-glucksmann-launches-french-presidential-bid-as-left-seeks-to-challenge-far-right",
+      "published_date": "2026-08-23T19:38:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-23T18:38:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on the new Hungary: de-Orbánising at pace | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/23/the-guardian-view-on-the-new-hungary-de-orbanising-at-pace",
+      "published_date": "2026-08-23T17:29:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people",
+      "published_date": "2026-08-23T15:54:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'New season, new trim' - Haaland reveals buzzcut",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-23T12:36:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
@@ -659,48 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/dozens-missing-after-gold-mine-collapse-in-central-african-republic",
       "published_date": "2026-08-22T10:06:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Embryonic’: lost novel by French film-maker Éric Rohmer is republished",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/22/elisabeth-lost-novel-by-french-film-maker-eric-rohmer-is-republished",
-      "published_date": "2026-08-22T09:54:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ravaged by wildfires, France's Fontainebleau forest reopens to public",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260822-france-s-fontainebleau-forest-reopens-to-public-after-wildfires",
-      "published_date": "2026-08-22T09:45:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's Fontainebleau forest reopens one month after wilfire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-s-fontainebleau-forest-reopens-one-month-after-wilfire",
-      "published_date": "2026-08-22T09:11:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TikTok settles children's privacy case with $400 million payment",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tiktok-settles-children-s-privacy-case-with-400-million-payment",
-      "published_date": "2026-08-22T09:11:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marseille kick off new Ligue 1 season by thrashing Strasbourg at home",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260822-marseille-kick-off-new-ligue-1-season-by-thrashing-strasbourg-at-home",
-      "published_date": "2026-08-22T08:38:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Popular forest near Paris to reopen after wildfire",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260822/popular-forest-near-paris-to-reopen-after-wildfire",
-      "published_date": "2026-08-22T07:18:00+00:00",
       "category": "Local Events"
     }
   ]
