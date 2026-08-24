@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-08-24T11:21:41.510417+00:00",
+  "last_updated": "2026-08-24T23:18:47.385059+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Saudi Arabia to invest €6 billion in theme parks near Paris, Macron says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260824-saudi-arabia-to-invest-%E2%82%AC6-billion-theme-parks-near-paris-macron-says",
+      "published_date": "2026-08-24T18:13:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia to invest $7 bn in theme parks near Paris: French presidency",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260824-saudi-arabia-to-invest-7-bn-in-theme-parks-near-paris-french-presidency",
+      "published_date": "2026-08-24T18:08:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "🔴 Mideast live: US unveils fresh sanctions to 'sever every economic lifeline' sustaining Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
+      "published_date": "2026-08-24T17:16:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mohammed bin Salman in the City of Light: Does West value economic interests over 'Western values'?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mbs-in-the-city-of-light-in-a-world-of-realpolitik-does-west-value-economic-interests-over-values",
+      "published_date": "2026-08-24T16:26:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "With 'rare' Paris talks, France hopes to cash in on Saudi investment programme",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/with-rare-paris-talks-france-hopes-to-cash-in-on-saudi-investment-programme",
+      "published_date": "2026-08-24T13:52:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US sanctions 'unlikely to get Tehran to bow down' despite effect on population",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-sanctions-unlikely-to-get-tehran-to-bow-down-despite-effect-on-population",
+      "published_date": "2026-08-24T12:34:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France readies high school phone ban from new term",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260824/france-readies-high-school-phone-ban-from-new-term",
+      "published_date": "2026-08-24T12:07:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Violence against healthcare workers in DRC hampers Ebola response",
       "source": "RFI English",
@@ -95,59 +144,129 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron hosts Saudi crown prince for two-day visit to include issues from energy to Mideast",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260823-macron-welcomes-saudi-crown-prince-mbs-for-two-day-france-visit",
-      "published_date": "2026-08-23T01:57:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France to send interceptor missiles to Ukraine after Russian strikes",
+      "title": "Ukraine's allies pledge to continue support with focus on air defence",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260822-france-to-send-interceptor-missiles-to-ukraine-after-russian-strikes",
-      "published_date": "2026-08-22T13:52:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260824-ukraine-s-allies-pledge-to-continue-support-with-focus-on-air-defence",
+      "published_date": "2026-08-24T19:17:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "France to deliver interceptor missiles to Ukraine after fresh wave of Russian strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-to-deliver-interceptor-missiles-to-ukraine-after-fresh-wave-of-russian-strikes",
-      "published_date": "2026-08-22T13:26:28+00:00",
-      "category": "Diplomacy"
+      "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+      "published_date": "2026-08-24T18:16:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "102 UK, French ex-ambassadors accuse Israel of ethnic cleansing in open letter",
+      "title": "UK, France ‘re-announce’ anti-missile technology for Ukraine: ‘None will be online for years’",
       "source": "France 24",
-      "url": "https://www.france24.com/en/100-uk-french-ex-ambassadors-accuse-israel-of-ethnic-cleansing-in-open-letter",
-      "published_date": "2026-08-22T12:32:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260824-uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-online-for-years",
+      "published_date": "2026-08-24T18:16:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "102 former French and British ambassadors accuse Israel of ethnic cleansing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/100-former-french-and-british-ambassadors-accuse-israel-of-ethnic-cleansing",
-      "published_date": "2026-08-22T12:30:20+00:00",
-      "category": "Diplomacy"
+      "title": "The Guardian view on Britain helping Ukraine: build the weapons independence Kyiv needs | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/24/the-guardian-view-on-britain-helping-ukraine-build-the-weapons-independence-kyiv-needs",
+      "published_date": "2026-08-24T17:53:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "FIFA sanctions Argentina over brawl at World Cup final game",
+      "title": "What the renewed Black Sea blockade means for Ukraine’s farmers",
       "source": "France 24",
-      "url": "https://www.france24.com/en/fifa-sanctions-argentina-over-brawl-at-world-cup-final-game",
-      "published_date": "2026-08-22T10:08:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260824-what-renewed-black-sea-blockade-means-ukraine-farmers",
+      "published_date": "2026-08-24T17:41:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Middle East live: Iran allows several Iraqi oil tankers to pass through Hormuz strait",
+      "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-24T17:29:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Fix that little spot’: Danish PM hits back at unsolicited beauty tip from cosmetic surgeon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
+      "published_date": "2026-08-24T16:59:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+      "published_date": "2026-08-24T16:33:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham hands secret missile technology to Ukraine in first foreign trip - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/aug/24/burnham-hands-secret-missile-technology-to-ukraine-in-first-foreign-trip-the-latest",
+      "published_date": "2026-08-24T16:11:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ceasefire verification mission deploys to eastern DR Congo",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260822-middle-east-live-iran-allows-several-iraqi-oil-tankers-to-pass-through-hormuz",
-      "published_date": "2026-08-22T09:48:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/africa/20260824-ceasefire-verification-mission-deploys-eastern-dr-congo",
+      "published_date": "2026-08-24T16:04:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham hands secret missile technology to Ukraine – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/24/burnham-hands-secret-missile-technology-to-ukraine-the-latest",
+      "published_date": "2026-08-24T15:45:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine celebrates Independence Day amid war's latest escalation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260824-ukraine-celebrates-independence-day-amid-war-s-latest-escalation",
+      "published_date": "2026-08-24T15:44:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nicola Jennings on Ukraine’s independence day – cartoon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/aug/24/nicola-jennings-ukraine-independence-day-cartoon",
+      "published_date": "2026-08-24T15:34:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-24T15:14:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front line’ while striking Russia’s economy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-showing-remarkable-innovation-kyiv-holding-front-line-while-striking-russia-s-economy",
+      "published_date": "2026-08-24T13:32:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-24T12:51:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Burnham compares Ukraine’s war against Russia to Britain’s fight against Nazi Germany as he begins visit – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
       "published_date": "2026-08-24T11:13:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dutch broadcaster Avrotros pulls out of  2027 Eurovision Song Contest",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-24T10:54:22+00:00",
       "category": "Military"
     },
     {
@@ -162,125 +281,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20260824-six-million-somalis-face-acute-hunger-as-drought-and-conflict-worsen",
       "published_date": "2026-08-24T10:40:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe ramps up support to Ukraine as its US-dependent air defence runs low",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe-ramps-up-support-to-ukraine-as-its-us-dependent-air-defence-runs-low",
-      "published_date": "2026-08-24T10:37:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War-torn Ukraine celebrates resilience on anniversary of its independence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/war-torn-ukraine-celebrates-resilience-on-anniversary-of-its-independence",
-      "published_date": "2026-08-24T09:56:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European leaders rally in Kyiv to celebrate Ukraine's Independence Day",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/european-leaders-rally-in-kyiv-to-celebrate-ukraine-s-independence-day",
-      "published_date": "2026-08-24T09:12:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "On Donetsk’s ‘life or death’ highway with the Khyzhak brigade – photo essay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/24/on-donetsks-life-or-death-highway-with-the-khyzhak-brigade-photo-essay",
-      "published_date": "2026-08-24T06:00:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: Ukraine backers gather as Russian missile attacks escalate and air defences run low",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260824-live-ukraine-backers-gather-as-russian-attacks-escalate-air-defence-runs-low",
-      "published_date": "2026-08-24T04:50:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘The war leaked into every lesson’: learning Ukrainian in a country under siege – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/24/the-war-leaked-into-every-lesson-learning-ukrainian-in-a-country-under-siege-podcast",
-      "published_date": "2026-08-24T04:00:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
-      "published_date": "2026-08-23T23:01:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria says US-mediated talks addressed de-escalation, staying out of Israel-Turkey tensions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260823-syria-says-us-mediated-talks-with-israel-addressed-de-escalation",
-      "published_date": "2026-08-23T22:39:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DRC and M23 rebels agree on roadmap for peace in eastern Congo",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260823-drc-and-m23-rebels-agree-on-roadmap-for-peace-in-eastern-congo",
-      "published_date": "2026-08-23T15:00:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
-      "published_date": "2026-08-23T14:49:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
-      "published_date": "2026-08-23T14:48:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The week in pictures: a French woman in space, wildfires in Europe and the war in Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/science/20260823-the-week-in-pictures-frenchwoman-space-nasa-wildfires-europe-war-ukraine",
-      "published_date": "2026-08-23T13:09:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President Zelensky says having elections in Ukraine would 'destroy the country'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country",
-      "published_date": "2026-08-23T13:07:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wartime elections would 'destroy' Ukraine, says Zelensky",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260823-wartime-elections-would-destroy-ukraine-says-zelensky",
-      "published_date": "2026-08-23T12:30:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-      "published_date": "2026-08-23T11:50:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Southern African mothers plead for sons lured to Russia's war in Ukraine",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260823-southern-african-mothers-plead-for-sons-lured-to-russia-s-war",
-      "published_date": "2026-08-23T11:28:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Niu Lai', the 'so bad it's good' Chinese cartoon becoming a box-office hit",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260823-niu-lai-the-so-bad-chinese-animated-film-breaking-box-office-records",
-      "published_date": "2026-08-23T10:15:39+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,34 @@
       "category": "Energy"
     },
     {
+      "title": "Manga-inspired theme park to be built near Paris",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-24T19:57:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘We don’t need Canada’: Trump threatens to double auto tariffs after trade talks collapse",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260824-canada-trump-threatens-double-auto-tariffs-after-trade-talks-collapse",
+      "published_date": "2026-08-24T14:55:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What could new US sanctions on Iran entail?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/what-could-new-us-sanctions-on-iran-entail",
+      "published_date": "2026-08-24T13:42:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US unveils expanded sanctions aimed at Iran's 'economic asphyxiation'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260824-us-unveils-fresh-sanctions-to-sever-every-economic-lifeline-sustaining-iran",
+      "published_date": "2026-08-24T13:27:10+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Middle East live: Iran's president says country facing 'many problems' as US sanctions loom",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260823-middle-east-live-iran-s-president-says-country-facing-many-problems-as-us-sanctions-loom",
@@ -536,32 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "US national debt exceeds $40 trillion for first time amid rising borrowing",
+      "title": "Tornado devastates village in southwestern France’s Aude region",
       "source": "France 24",
-      "url": "https://www.france24.com/en/economy/20260819-us-national-debt-exceeds-40-trillion-for-first-time-amid-rising-borrowing",
-      "published_date": "2026-08-19T22:12:39+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20260824-tornado-devastates-village-southwestern-france-aude-region",
+      "published_date": "2026-08-24T22:16:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Jaecoo owner Chery takes ‘next step’ in UK push with R&D centre",
+      "title": "Zambia shuts down court system",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/zambia-shuts-down-court-system",
+      "published_date": "2026-08-24T20:58:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Sunday and the Italian month off | Brief letters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/19/chinese-carmaker-chery-to-set-up-uk-research-centre",
-      "published_date": "2026-08-19T15:12:36+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/aug/24/french-sunday-and-the-italian-month-off",
+      "published_date": "2026-08-24T17:32:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Reforestation and sustainable land & water management can help combat desertification",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/reforestation-and-sustainable-land-water-management-can-help-combat-desertification",
-      "published_date": "2026-08-19T08:50:18+00:00",
-      "category": "Economy"
+      "title": "‘Parisians out!’ Why the French have had enough of French tourists",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/24/parisians-out-why-french-have-had-enough-of-french-tourists",
+      "published_date": "2026-08-24T15:16:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Nigeria election campaign begins as voters grapple with inflation crisis",
+      "title": "Guns, axes, explosives: violent museum heists are on the rise, says Europol",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/2026/aug/24/violent-museum-robberies-europol-report",
+      "published_date": "2026-08-24T14:31:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris Seine parade to celebrate opening of new Hindu temple",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260824/paris-seine-parade-to-celebrate-opening-of-new-hindu-temple",
+      "published_date": "2026-08-24T13:28:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French police accused of rising use of violence to stop Channel crossings",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/24/french-police-violence-channel-crossings-uk",
+      "published_date": "2026-08-24T13:00:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crash involving coach carrying German students injures 16",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0725ej2xeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-24T12:57:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mediterranean migrant rescue ships threatened by Libyan groups, warns NGO",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260819-nigeria-election-campaign-begins-as-voters-grapple-with-inflation-crisis",
-      "published_date": "2026-08-19T05:38:21+00:00",
-      "category": "Economy"
+      "url": "https://www.rfi.fr/en/international/20260824-mediterranean-migrant-rescue-ships-threatened-by-libyan-groups-warns-ngo",
+      "published_date": "2026-08-24T12:22:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How growing up in ‘Chemical Valley’ inspired lawyer to sue industry she used to work for",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/24/chemical-valley-inspired-lawyer-sue-industry-france-helene-duguy",
+      "published_date": "2026-08-24T12:00:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'Scared to death': Over 40,000 people evacuated as Nevada's Hawk fire spreads",
@@ -575,6 +645,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/despite-ceasefire-israeli-strikes-still-kill-in-gaza-and-the-west-bank",
       "published_date": "2026-08-24T09:17:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "King of Norway's health has worsened, palace says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-24T08:31:55+00:00",
       "category": "Local Events"
     },
     {
@@ -624,83 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260823-crans-montana-bar-owner-detained-over-alleged-domestic-abuse",
       "published_date": "2026-08-23T19:57:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French centre-left candidate launches presidential bid amid divided left",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260823-glucksmann-launches-french-presidential-bid-as-left-seeks-to-challenge-far-right",
-      "published_date": "2026-08-23T19:38:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-23T18:38:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on the new Hungary: de-Orbánising at pace | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/23/the-guardian-view-on-the-new-hungary-de-orbanising-at-pace",
-      "published_date": "2026-08-23T17:29:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people",
-      "published_date": "2026-08-23T15:54:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'New season, new trim' - Haaland reveals buzzcut",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-23T12:36:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
-      "published_date": "2026-08-23T11:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Finland tried to end homelessness. What can we learn from its runaway success – and recent failures?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/23/finland-tried-to-end-homelessness-what-can-we-learn-from-its-runaway-success-and-recent-failures",
-      "published_date": "2026-08-23T10:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presidential campaign heats up in Brazil, as Lula and F. Bolsonaro hold rival rallies",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/presidential-campaign-heats-up-in-brazil-as-lula-and-f-bolsonaro-hold-rival-rallies",
-      "published_date": "2026-08-23T09:49:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela: Two months after the quake, 12,500 people still live in temporary camps",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/venezuela-two-months-after-the-quake-12-500-people-still-live-in-temporary-camps",
-      "published_date": "2026-08-23T09:45:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anger over slow pace of reconstruction in Italian town devastated by earthquake in 2016",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/23/italian-town-amatrice-marks-10-years-since-devastating-earthquake",
-      "published_date": "2026-08-23T07:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Girl, 17, killed in Swedish sword attack, police say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-23T01:34:15+00:00",
       "category": "Local Events"
     }
   ]
