@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-08-24T23:18:47.385059+00:00",
+  "last_updated": "2026-08-25T11:21:52.211362+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Saudi Arabia to invest €6 bn in theme parks near Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260825/saudi-arabia-to-invest-e6-bn-in-theme-parks-near-paris",
+      "published_date": "2026-08-25T07:40:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least 35,000 excess deaths recorded in Europe’s back-to-back heatwaves",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/25/at-least-35000-excess-deaths-europe-back-to-back-heatwaves",
+      "published_date": "2026-08-25T04:00:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudi Arabia to invest €6 billion in theme parks near Paris, Macron says",
       "source": "France 24",
@@ -130,18 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi crown prince heads to France as Paris seeks closer Gulf ties",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260823-saudi-crown-prince-heads-to-france-as-paris-seeks-closer-gulf-ties",
-      "published_date": "2026-08-23T07:05:25+00:00",
-      "category": "Diplomacy"
+      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
+      "published_date": "2026-08-25T11:13:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Pretty shambolic’: new EU border checks cause stress for UK travellers",
+      "title": "Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/23/new-eu-border-checks-ees-uk-travellers-visa-queues",
-      "published_date": "2026-08-23T07:00:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/25/yorkshireman-briton-die-fighting-russia-ukraine",
+      "published_date": "2026-08-25T09:51:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As Canada prepares to retaliate in the trade war, what pain can it inflict the US?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/as-canada-prepares-to-retaliate-in-the-trade-war-what-pain-can-it-inflict-the-us",
+      "published_date": "2026-08-25T08:38:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham plans trip to New York as Ukraine pleads for US-made missiles",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
+      "published_date": "2026-08-25T08:27:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What to know about Trump's Canada tariffs and the escalating trade war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260825-what-to-know-about-trump-s-tariffs-on-canadian-goods-as-neigbours-spiral-into-trade-war",
+      "published_date": "2026-08-25T07:21:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Delta announces first-ever nonstop flights from Austin to Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260825/delta-announces-first-ever-nonstop-flights-from-austin-to-paris",
+      "published_date": "2026-08-25T07:19:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Reader Q&A: ask international correspondent Luke Harding a question now",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/theguardian/live/2026/aug/25/reader-q-and-a-ask-guardian-foreign-correspondant-author-luke-harding-a-question",
+      "published_date": "2026-08-25T07:00:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-25T04:06:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Ozon next in Kyiv’s sights as sheds of Wildberries rival burn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/25/ukraine-war-briefing-ozon-next-in-kyivs-sights-as-sheds-of-wildberries-rival-burn",
+      "published_date": "2026-08-25T01:38:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the French language became a sticking point in the US-Canada trade war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260824-how-the-french-language-contributed-to-the-us-canada-trade-war",
+      "published_date": "2026-08-24T23:07:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine's allies pledge to continue support with focus on air defence",
@@ -214,74 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Burnham hands secret missile technology to Ukraine – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/24/burnham-hands-secret-missile-technology-to-ukraine-the-latest",
-      "published_date": "2026-08-24T15:45:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine celebrates Independence Day amid war's latest escalation",
+      "title": "'Thermal safety: Not just climate in action; it's biology & physiological capacity to cope & recover",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260824-ukraine-celebrates-independence-day-amid-war-s-latest-escalation",
-      "published_date": "2026-08-24T15:44:06+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/thermal-safety-not-just-climate-in-action-it-s-biology-physiological-capacity-to-cope-recover",
+      "published_date": "2026-08-25T10:49:46+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Nicola Jennings on Ukraine’s independence day – cartoon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/aug/24/nicola-jennings-ukraine-independence-day-cartoon",
-      "published_date": "2026-08-24T15:34:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-24T15:14:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front line’ while striking Russia’s economy",
+      "title": "Around 40 injured after tornado tears through village in the south of France",
       "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-showing-remarkable-innovation-kyiv-holding-front-line-while-striking-russia-s-economy",
-      "published_date": "2026-08-24T13:32:21+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/around-40-injured-after-tornado-tears-through-village-in-the-south-of-france",
+      "published_date": "2026-08-25T09:42:20+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-24T12:51:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burnham compares Ukraine’s war against Russia to Britain’s fight against Nazi Germany as he begins visit – Europe live",
+      "title": "Tornado tears through southern France damaging homes - video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-      "published_date": "2026-08-24T11:13:17+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/video/2026/aug/25/tornado-tears-through-southern-france-damaging-homes-video",
+      "published_date": "2026-08-25T04:50:20+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Dutch broadcaster Avrotros pulls out of  2027 Eurovision Song Contest",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-24T10:54:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK ‘adding fuel to the fire’ by giving weaponry blueprints to Ukraine, says Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/24/uk-adding-fuel-to-the-fire-by-giving-weaponry-blueprints-to-ukraine-says-russia",
-      "published_date": "2026-08-24T10:49:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Six million Somalis face acute hunger as drought and conflict worsen",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260824-six-million-somalis-face-acute-hunger-as-drought-and-conflict-worsen",
-      "published_date": "2026-08-24T10:40:55+00:00",
-      "category": "Military"
+      "title": "Nevada wildfire forces tens of thousands to evacuate as blaze threatens city of Reno",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260825-nevada-wildfire-reno-evacuations",
+      "published_date": "2026-08-25T02:45:28+00:00",
+      "category": "Energy"
     },
     {
       "title": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
@@ -396,32 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "French winegrowers begin record early harvest as heat and drought bite",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260820-record-early-grape-harvest-in-france-highlights-growing-impact-of-climate-change",
-      "published_date": "2026-08-20T04:41:16+00:00",
-      "category": "Energy"
+      "title": "Iran threatens retaliation as new US sanctions hit already-struggling economy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-threatens-retaliation-as-new-us-sanctions-hit-already-struggling-economy",
+      "published_date": "2026-08-25T09:36:13+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The threatening thaw: climate professor on heatwave risks to tipping point of permafrost",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/20/tipping-points-heatwaves-wildfires-permafrost-climate-crisis",
-      "published_date": "2026-08-20T04:00:43+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T02:05:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK relies on heat-stressed countries for fruit and veg it could grow itself – report",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/19/uk-heat-stressed-countries-fruit-veg-import",
-      "published_date": "2026-08-19T05:00:06+00:00",
-      "category": "Energy"
+      "title": "Middle East live: China to 'firmly safeguard' its interests after US threatens Iran's trade partners",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260825-mideast-live-oil-tanker-struck-by-projectile-in-strait-of-hormuz-off-oman",
+      "published_date": "2026-08-25T03:31:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "Manga-inspired theme park to be built near Paris",
@@ -550,18 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "What property giant Evergrande's sentence means for China's economy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260820-what-property-giant-evergrande-s-sentence-means-for-china-s-economy",
-      "published_date": "2026-08-20T06:57:10+00:00",
-      "category": "Economy"
+      "title": "At least 40 killed as gangs attack displaced people near Haiti capital",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260825-at-least-40-killed-as-gangs-attack-displaced-people-near-haiti-capital",
+      "published_date": "2026-08-25T08:53:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "China real estate giant Xu Jiayin sentenced to life in prison",
+      "title": "New Saudi-backed manga-themed amusement park set to open near Paris",
       "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260820-china-reast-estate-giant-xu-jiayin-sentenced-to-life-in-prison",
-      "published_date": "2026-08-20T06:27:09+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/new-saudi-backed-manga-themed-amusement-park-set-to-open-near-paris",
+      "published_date": "2026-08-25T08:53:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-25T08:52:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Haitin, dozens die in gang coalition attack on a farming community",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/in-haitin-dozens-die-in-gang-coalition-attack-on-a-farming-community",
+      "published_date": "2026-08-25T08:47:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tornado devastates village in southwestern France’s Aude region",
@@ -673,34 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/sports/20260824-ligue-1-ferran-torres-saves-paris-saint-germain-against-rennes",
       "published_date": "2026-08-24T05:36:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen's career has been resurrected – and she is a bigger threat than ever | Mujtaba Rahman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/24/marine-le-pen-presidential-election-france",
-      "published_date": "2026-08-24T04:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scrapping of Berlin swimming day for Black children becomes latest in long list of race-linked pool rows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/24/scrapping-of-berlin-swimming-day-for-black-children-becomes-latest-in-long-list-of-race-linked-pool-rows",
-      "published_date": "2026-08-24T04:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UEFA chief Ceferin calls for Infantino to quit but rules out replacing him",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260824-uefa-chief-ceferin-calls-for-infantino-to-quit-but-not-interested-in-replacing-him",
-      "published_date": "2026-08-24T03:19:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crans-Montana bar owner detained over alleged domestic abuse",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260823-crans-montana-bar-owner-detained-over-alleged-domestic-abuse",
-      "published_date": "2026-08-23T19:57:30+00:00",
       "category": "Local Events"
     }
   ]
