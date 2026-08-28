@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-08-28T06:44:20.719773+00:00",
+  "last_updated": "2026-08-28T21:18:23.346631+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK urged to ban imports of Brazilian meat over health concerns",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/food/2026/aug/28/uk-urged-ban-import-brazil-meat-health-concerns",
+      "published_date": "2026-08-28T15:13:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron to meet new UK PM Burnham against backdrop of Bayeux Tapestry",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260828-macron-to-meet-new-uk-pm-burnham-against-backdrop-of-bayeux-tapestry",
+      "published_date": "2026-08-28T14:47:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French presidential hopefuls clash over economy and EU in first debate",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260828-french-presidential-hopefuls-clash-over-economy-and-eu-in-first-debate",
+      "published_date": "2026-08-28T12:07:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron to open Bayeux tapestry exhibition in London",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260828/macron-to-open-bayeux-tapestry-exhibition-in-london",
+      "published_date": "2026-08-28T11:23:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What's the difference between Schengen and EU free movement rules?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260828/whats-the-difference-between-schengen-and-eu-free-movement-rules",
+      "published_date": "2026-08-28T09:36:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU wants Meta to extend US teen safety restrictions to Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/eu-wants-meta-to-extend-us-teen-safety-restrictions-to-europe",
+      "published_date": "2026-08-28T09:13:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French presidential hopefuls lock horns for first debate",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260828/french-presidential-hopefuls-lock-horns-for-first-debate",
+      "published_date": "2026-08-28T06:47:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cop17 races for desertification deal as report warns half world’s soils under threat",
       "source": "RFI English",
@@ -95,53 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cyberattacks target French government agencies",
+      "title": "Israel army carries out rare West Bank air strike, killing 'three terrorists'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260825-cyberattacks-target-french-government-agencies",
-      "published_date": "2026-08-25T16:16:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists",
+      "published_date": "2026-08-28T17:14:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "CIA director John Ratcliffe reportedly on Moscow visit",
+      "title": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
-      "published_date": "2026-08-25T16:00:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/28/russia-losing-6000-more-troops-than-it-can-recruit-each-month-in-ukraine-says-west",
+      "published_date": "2026-08-28T17:05:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "France says US risks ‘blocking everything’ at UN talks to protect world’s soils",
+      "title": "‘Words and promises not enough’ as Syria’s Kurds face uncertain future",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260825-france-says-us-risks-blocking-everything-at-un-talks-to-protect-world-soils-cop17-desertification",
-      "published_date": "2026-08-25T15:59:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260828-words-and-promises-are-not-enough-as-syria-s-kurds-face-uncertain-future",
+      "published_date": "2026-08-28T16:05:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "As Iceland votes on the EU, which countries could be next to join?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260825/as-iceland-votes-on-the-eu-which-countries-could-be-next-to-join",
-      "published_date": "2026-08-25T15:24:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US and Denmark push for nationwide expansion of UN arms embargo in Sudan",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260825-us-and-denmark-push-for-nationwide-expansion-of-un-arms-embargo-in-sudan",
-      "published_date": "2026-08-25T15:00:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US economic D-Day sanctions: 'Repeated bombing attacks across Iran failed to change the calculus'",
+      "title": "Japan's controversial WWII heroes: How one kamikaze pilot escaped certain death",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260825-us-economic-d-day-sanctions-repeated-bombing-attacks-across-iran-failed-to-change-the-calculus",
-      "published_date": "2026-08-25T13:44:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/revisited/20260828-japan-s-controversial-wwii-heroes-how-one-kamikaze-pilot-escaped-certain-death",
+      "published_date": "2026-08-28T12:42:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia to invest €6 bn in theme parks near Paris",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260825/saudi-arabia-to-invest-e6-bn-in-theme-parks-near-paris",
-      "published_date": "2026-08-25T07:40:58+00:00",
-      "category": "Diplomacy"
+      "title": "Serbian war criminal Mladic to be buried with 'state honours'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/serbian-war-criminal-mladic-to-be-buried-with-state-honours",
+      "published_date": "2026-08-28T11:40:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Serbian war criminal Ratko Mladic to be buried with 'state honours'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260828-serbian-war-criminal-ratko-mladic-to-be-buried-with-state-honours",
+      "published_date": "2026-08-28T08:51:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French Foreign Legion soldier kidnapped by Colombian guerrilla faction",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260828-french-foreign-legion-soldier-kidnapped-in-southwestern-colombia-guerilla",
+      "published_date": "2026-08-28T06:49:03+00:00",
+      "category": "Military"
     },
     {
       "title": "🔴 French Foreign Legion soldier kidnapped in Colombia",
@@ -200,6 +249,13 @@
       "category": "Military"
     },
     {
+      "title": "Serb war criminal Mladic, dubbed the ‘Butcher of Bosnia,’ dies aged 84",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260827-bosnian-serb-war-criminal-dubbed-the-butcher-of-bosnia-dies-aged-84",
+      "published_date": "2026-08-27T16:02:15+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ratko Mladic, former general convicted of Bosnia genocide, dies",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260827-ratko-mladic-former-general-convicted-of-bosnia-genocide-dies",
@@ -225,62 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260827-former-bosnian-serb-general-ratko-mladic-convicted-of-genocide-dies-state-media-says",
       "published_date": "2026-08-27T12:50:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
-      "published_date": "2026-08-27T08:00:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Game of Drones: Deep strikes into Russia keeping Ukraine 'in this game'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/game-of-drones-deep-strikes-into-russia-keeping-ukraine-in-this-game",
-      "published_date": "2026-08-27T07:38:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Reboot of ‘fortress belt’ defences as Zelenskyy visits frontline",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/ukraine-war-briefing-reboot-of-fortress-belt-defences-as-zelenskyy-visits-frontline",
-      "published_date": "2026-08-27T01:34:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French soldiers disciplined over Rhodesian flags linked to white supremacists",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260826-french-soldiers-disciplined-over-rhodesian-flags-linked-to-white-supremacists",
-      "published_date": "2026-08-26T16:36:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia: CIA director visits Moscow",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260826-russia-cia-director-visits-moscow",
-      "published_date": "2026-08-26T15:41:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From tariffs to French: Trump’s trade war with Canada takes a cultural turn",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260826-from-tariffs-to-french-trump-s-trade-war-with-canada-takes-a-cultural-turn",
-      "published_date": "2026-08-26T15:00:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French man arrested in Italy after anti-tank missiles found in van",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260826/french-man-arrested-in-italy-after-anti-tank-missiles-found-in-van",
-      "published_date": "2026-08-26T13:38:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A new chapter for Syria’s Kurds: What integration really means",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260826-a-new-chapter-for-syria-s-kurds-what-integration-really-means",
-      "published_date": "2026-08-26T11:05:16+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Austria: Anger over a business park being built on top of former Nazi camp",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/austria-anger-over-a-business-park-being-built-on-top-of-former-nazi-camp",
+      "published_date": "2026-08-28T15:50:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Taxe foncière: France’s 2026 property tax deadlines you need to know",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260828/taxe-fonciere-frances-2026-property-tax-deadlines-you-need-to-know",
+      "published_date": "2026-08-28T14:16:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US-CANADA: Trump signs order renaming Lake Ontario to ‘Lake America’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260828-us-canada-trump-signs-order-renaming-lake-ontario-to-lake-america",
+      "published_date": "2026-08-28T12:16:51+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Nigeria: the lucrative business of kidnappings",
       "source": "France 24",
       "url": "https://www.france24.com/en/nigeria-the-lucrative-business-of-kidnappings",
@@ -543,164 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Iran escalates threats as US pushes economic isolation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-escalates-threats-as-us-pushes-economic-isolation",
-      "published_date": "2026-08-23T09:02:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "On the Agenda: What’s happening in France this week",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260823/on-the-agenda-whats-happening-in-france-this-week-224",
-      "published_date": "2026-08-23T07:05:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Canada vows to match US tariffs 'dollar for dollar' after failed trade negotiations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260822-carney-says-canada-will-match-us-tariffs-dollar-for-dollar-after-failed-trade-negotiations",
-      "published_date": "2026-08-22T04:29:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Secret Woman review – Claes Bang is dastardly gaslighter in Danish amnesia thriller",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/28/the-secret-woman-review-claes-bang-is-dastardly-gaslighter-in-danish-amnesia-thriller",
-      "published_date": "2026-08-28T06:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League Draw: PSG to face Barcelona and Man City",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260828-champions-league-draw-psg-to-face-barcelona-and-man-city",
-      "published_date": "2026-08-28T05:14:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "🔴 Nepal-Tibet live: China halts rescue at disaster epicentre over flood risk",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260828-nepal-tibet-live-china-warns-lake-formed-by-mudslide-on-nepal-border-could-breach",
-      "published_date": "2026-08-28T05:03:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From maligned second city to Insta magnet: Marseille isFrance’s new capital of overtourism",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/28/from-maligned-second-city-to-insta-magnet-marseille-is-frances-new-capital-of-overtourism",
-      "published_date": "2026-08-28T04:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+      "title": "Greenland says findings on genocide allegation not final",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T01:43:41+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-28T19:57:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Kherson residents urged to leave as Russian attacks threaten power and heating",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260827-kherson-residents-urged-to-leave-as-russian-attacks-threaten-power-and-heating",
-      "published_date": "2026-08-27T22:40:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red Cross mobilises in Nepal following natural disaster: 'Entire villages & communities washed out'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/red-cross-mobilises-in-nepal-following-natural-disaster-entire-villages-communities-washed-out",
-      "published_date": "2026-08-27T17:53:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-27T17:42:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Title holders PSG to face Barcelona and Man City as Champions League draw is made",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260827-title-holders-psg-to-face-barcelona-and-man-city-as-champions-league-draw-is-made",
-      "published_date": "2026-08-27T17:23:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two killed in 'domestic violence incident' at school near Berlin",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-27T17:07:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan: Protests continue in Azad Kashmir despite repression and internet blackout",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260827-pakistan-protests-continue-in-azad-kashmir-despite-repression-and-internet-blackout",
-      "published_date": "2026-08-27T16:04:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bronze age treasure stolen in four-minute Spanish museum heist",
+      "title": "The week around the world in 20 pictures",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/aug/27/thieves-steal-bronze-age-treasure-of-villena-in-four-minute-heist",
-      "published_date": "2026-08-27T15:47:31+00:00",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/28/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-08-28T18:06:28+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Is it really true that the French hate Parisians?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260827/is-it-really-true-that-the-french-hate-parisians",
-      "published_date": "2026-08-27T15:46:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Extremely challenging' conditions hamper Nepal-Tibet flood rescue efforts",
+      "title": "Nepal: 'Region has hundreds of high-altitude lakes prone to unleashing enormous volumes of water'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260827-extremely-challenging-conditions-hamper-nepal-tibet-flood-rescue-efforts",
-      "published_date": "2026-08-27T14:57:30+00:00",
+      "url": "https://www.france24.com/en/video/20260828-nepal-region-has-hundreds-of-high-altitude-lakes-prone-to-unleashing-enormous-volumes-of-water",
+      "published_date": "2026-08-28T16:57:59+00:00",
       "category": "Local Events"
     },
     {
-      "title": "US airline announces new flights to south of France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260827/us-airline-announces-new-flights-to-south-of-france",
-      "published_date": "2026-08-27T14:13:22+00:00",
+      "title": "Violence breaks out in Ceuta as migrant crisis continues",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-28T16:30:59+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Haiti families plead for release of hostages after deadly gang attack",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260827-haiti-families-plead-for-release-of-hostages-after-deadly-gang-attack",
-      "published_date": "2026-08-27T14:02:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hiker reunited with backpack 60 years after he fell into a glacier in Austria",
+      "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/hiker-backpack-reunited-austria-melting-glacier",
-      "published_date": "2026-08-27T14:00:45+00:00",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+      "published_date": "2026-08-28T14:46:25+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Why were so many Indian pilgrims in Tibet during the Himalayan mudslide disaster?",
+      "title": "Spanish government urges calm after Ceuta anti-migrant protesters clash with police",
       "source": "France 24",
-      "url": "https://www.france24.com/en/why-were-so-many-indian-pilgrims-in-tibet-during-the-himalayan-mudslide-disaster",
-      "published_date": "2026-08-27T13:57:23+00:00",
+      "url": "https://www.france24.com/en/europe/20260828-spanish-government-urges-calm-anti-migrant-protesters-clash-police-ceuta",
+      "published_date": "2026-08-28T14:44:32+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Tunisia mourns deceased migrants after small boat tragedy",
+      "title": "Rescuers grapple with mountain of challenges after the Nepal-Tibet floods",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260827-tunisia-mourns-deceased-migrants-after-small-boat-tragedy",
-      "published_date": "2026-08-27T13:41:51+00:00",
+      "url": "https://www.france24.com/en/asia-pacific/20260828-rescuers-grapple-with-mountain-of-challenges-after-the-nepal-tibet-floods",
+      "published_date": "2026-08-28T14:14:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Alleged underworld kingpin testifies at S. African commission",
+      "title": "Marseille and Lyon to face Leverkusen in Europa League, Rennes take on Juventus",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260827-alleged-underworld-kingpin-testifies-at-s-african-commission",
-      "published_date": "2026-08-27T13:39:59+00:00",
+      "url": "https://www.france24.com/en/sport/20260828-marseille-and-lyon-to-face-leverkusen-in-europa-league-rennes-take-on-juventus",
+      "published_date": "2026-08-28T14:01:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far-right leader Jordan Bardella to address Reform UK party conference",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/28/french-far-right-leader-jordan-bardella-address-reform-uk-party-conference",
+      "published_date": "2026-08-28T13:57:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-28T13:50:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shootings surge as drug gangs torment Brussels",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-28T13:41:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion returns to 'second home' Paris ahead of sold-out comeback dates",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/culture/20260828-c%C3%A9line-dion-returns-to-second-home-paris-ahead-of-sold-out-comeback-dates",
+      "published_date": "2026-08-28T13:41:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rock en Seine: Visually impaired spectators enjoy festival with audio description",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/rock-en-seine-visually-impaired-spectators-enjoy-festival-with-audio-description",
+      "published_date": "2026-08-28T13:02:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nepal flood survivors rescued from hydropower tunnel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nepal-flood-survivors-rescued-from-hydropower-tunnel",
+      "published_date": "2026-08-28T12:38:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Ran for our lives': Flood survivors recount terrifying escape from Nepal-Tibet disaster",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260828-ran-for-our-lives-flood-survivors-recount-terrifying-escape-from-nepal-tibet-disaster",
+      "published_date": "2026-08-28T11:55:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Midterms: What Americans in Europe need to know about changes to mail-in voting",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260828/midterms-what-americans-in-europe-need-to-know-about-changes-to-mail-in-voting",
+      "published_date": "2026-08-28T11:22:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Which countries have citizens killed or missing after Nepal-Tibet flash flood?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/28/which-countries-citizens-dead-missing-nepal-tibet-flash-flood",
+      "published_date": "2026-08-28T10:55:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain's Villena Treasure stolen in four-minute museum heist",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/spain-s-villena-treasure-stolen-in-four-minute-museum-heist",
+      "published_date": "2026-08-28T09:04:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather tracker: More extreme rain in Japan and a tornado in France",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france",
+      "published_date": "2026-08-28T08:02:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eastern France braced for storms after deluge batters Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260828/eastern-france-braced-for-storms-after-deluge-batters-paris",
+      "published_date": "2026-08-28T07:36:20+00:00",
       "category": "Local Events"
     }
   ]
