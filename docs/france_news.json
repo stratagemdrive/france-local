@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-08-29T03:59:58.778950+00:00",
+  "last_updated": "2026-08-29T15:25:07.538079+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Referendum on EU membership: An ‘existential question’ for Icelanders",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/referendum-on-eu-membership-an-existential-question-for-icelanders",
+      "published_date": "2026-08-29T12:46:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iceland votes on whether to resume EU membership talks",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260829/iceland-votes-on-whether-to-resume-eu-membership-talks",
+      "published_date": "2026-08-29T11:01:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iceland votes on whether to resume EU membership negotiations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iceland-votes-on-whether-to-resume-eu-membership-negotiations",
+      "published_date": "2026-08-29T08:57:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Icelanders vote in tight referendum on restarting EU membership talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260829-icelanders-vote-in-referendum-on-whether-to-resume-eu-membership-talks",
+      "published_date": "2026-08-29T06:56:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iceland referendum could put EU membership talks back on the table",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260829-iceland-referendum-could-put-eu-membership-talks-back-on-the-table",
+      "published_date": "2026-08-29T06:50:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sovereignty, farming and fishing: Iceland votes on its future with the EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/29/sovereignty-farming-and-fishing-iceland-votes-on-its-future-with-the-eu",
+      "published_date": "2026-08-29T06:00:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK urged to ban imports of Brazilian meat over health concerns",
       "source": "The Guardian",
@@ -102,46 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump downplays Moscow visit by CIA director as ‘semi-routine’",
+      "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-cia-director-moscow-visit",
-      "published_date": "2026-08-26T18:21:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/29/royal-navy-tracking-russian-vessels-uk-waters-channel-north-sea",
+      "published_date": "2026-08-29T15:06:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "One million Afghan children suffer 'life-threatening' malnutrition",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-29T14:43:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Situation in Niger 'not stabilised yet' as security forces deploy around airport",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260826-one-million-afghan-children-suffer-life-threatening-malnutrition",
-      "published_date": "2026-08-26T10:27:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/situation-in-niger-not-stabilised-yet-as-security-forces-deploy-around-airport",
+      "published_date": "2026-08-29T13:59:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Middle East live: Netanyahu says diplomatic deal not possible with Iranian 'savages'",
+      "title": "AI challenges trust in photography as Visa pour l’Image festival opens",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20260829-ai-challenges-trust-in-photography-as-visa-pour-l-image-festival-opens",
+      "published_date": "2026-08-29T13:26:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Warehouse hit by Russian attack stored munitions, Zelensky says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260826-middle-east-live-iran-says-hormuz-strait-still-closed-despite-transit-corridor-talks-with-oman",
-      "published_date": "2026-08-26T06:04:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/warehouse-hit-by-russian-attack-stored-munitions-zelensky-says",
+      "published_date": "2026-08-29T12:35:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iceland to vote on reopening EU membership talks in close referendum",
+      "title": "Niger's junta says 'regaining control' after clashes in capital",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260826-iceland-to-vote-on-reopening-eu-membership-talks-in-close-referendum",
-      "published_date": "2026-08-26T05:23:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/niger-s-junta-says-regaining-control-after-clashes-in-capital",
+      "published_date": "2026-08-29T12:33:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Call to ban marmot hunting in France as campaigners say they are ‘killed for fun’",
+      "title": "Trapped for 115 days, cargo ship captain recounts ordeal in Strait of Hormuz",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260829-trapped-for-115-days-cargo-ship-captain-recounts-ordeal-in-strait-of-hormuz",
+      "published_date": "2026-08-29T09:16:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nepal army races to rescue more than 100 trapped in hydropower tunnel after floods",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nepal-army-races-to-rescue-more-than-100-trapped-in-hydropower-tunnel-after-floods",
+      "published_date": "2026-08-29T08:50:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Niger's military regime 'gradually regaining control' from mutinous soldiers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
+      "published_date": "2026-08-29T06:33:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Love under anti-drone nets: Ukrainian couple wed in Kramatorsk combat zone",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/26/call-ban-marmot-hunting-france-climate-crisis",
-      "published_date": "2026-08-26T04:00:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/29/ukraine-war-family-wedding-eastern-frontline-russia",
+      "published_date": "2026-08-29T06:00:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Mawlid cancelled in Tigray",
+      "title": "Nepal-Tibet floods live: Rescuers race to find 100 workers trapped in tunnels as death toll tops 680",
       "source": "France 24",
-      "url": "https://www.france24.com/en/mawlid-cancelled-in-tigray",
-      "published_date": "2026-08-25T20:45:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/asia-pacific/20260829-nepal-tibet-floods-live-death-toll-passes-600-nearly-2-500-people-still-missing",
+      "published_date": "2026-08-29T05:06:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Zelenskyy orders military to triple daily long-range strikes on Russia",
@@ -207,81 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Missiles shot down during long Russian attack wave",
+      "title": "US to control one fifth of Venezuela's oil reserves, Trump says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-to-control-one-fifth-of-venezuela-s-oil-reserves-trump-says",
+      "published_date": "2026-08-29T08:55:18+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/28/ukraine-war-briefing-missiles-shot-down-during-long-russian-attack-wave",
-      "published_date": "2026-08-28T01:12:08+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
+      "published_date": "2026-08-29T05:00:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "OpenAI, Anthropic join global call to strengthen cyber defences",
+      "title": "Trump announces 'historic' agreement for US stake in Venezuela oil reserves",
       "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences",
-      "published_date": "2026-08-28T01:05:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US military faces ‘beyond critical’ shortage of Patriot missiles in Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260827-us-military-faces-beyond-critical-shortage-of-patriot-missiles-in-europe",
-      "published_date": "2026-08-27T21:41:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia",
-      "published_date": "2026-08-27T19:26:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Allan Little: I met dangerously fanatical Mladić early in Bosnian war",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-27T18:12:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-27T17:05:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, dies in The Hague",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
-      "published_date": "2026-08-27T16:12:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Serb war criminal Mladic, dubbed the ‘Butcher of Bosnia,’ dies aged 84",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260827-bosnian-serb-war-criminal-dubbed-the-butcher-of-bosnia-dies-aged-84",
-      "published_date": "2026-08-27T16:02:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ratko Mladic, former general convicted of Bosnia genocide, dies",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260827-ratko-mladic-former-general-convicted-of-bosnia-genocide-dies",
-      "published_date": "2026-08-27T15:22:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-27T13:48:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Alleged 9/11 mastermind Khalid Sheikh Mohammed to go on trial in 2028",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260827-alleged-9-11-mastermind-khalid-sheikh-mohammed-to-go-on-trial-in-2028",
-      "published_date": "2026-08-27T13:27:28+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/americas/20260829-trump-announces-historic-agreement-for-us-stake-in-venezuela-oil-reserves",
+      "published_date": "2026-08-29T00:05:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Nepal’s deadly glacier collapse exposes climate risks across the Himalayas",
@@ -400,27 +421,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260823-iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector",
       "published_date": "2026-08-23T20:38:25+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Thousands rally in Sweden to protest climate policies ahead of general election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260823-thousands-rally-in-sweden-to-protest-climate-policies-ahead-of-general-election",
-      "published_date": "2026-08-23T14:59:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How will European politicians react to a summer of extreme heat?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/how-will-european-politicians-react-to-a-summer-of-extreme-heat",
-      "published_date": "2026-08-23T13:15:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why Saudi Arabia is spending billions to become a global Esports power?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/why-saudi-arabia-is-spending-billions-to-become-a-global-esports-power",
-      "published_date": "2026-08-23T09:44:11+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,83 @@
       "category": "Economy"
     },
     {
+      "title": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
+      "published_date": "2026-08-29T13:34:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far right accuses left of threatening 'civil peace' if Le Pen wins",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260829/french-far-right-accuses-left-of-threatening-civil-peace-if-le-pen-wins",
+      "published_date": "2026-08-29T12:31:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several killed in Israeli strikes on Gaza and West Bank",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/several-killed-in-israeli-strikes-on-gaza-and-west-bank",
+      "published_date": "2026-08-29T10:34:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nepali army uses helicopters to rescue flood survivors",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nepali-army-uses-helicopters-to-rescue-flood-survivors",
+      "published_date": "2026-08-29T10:32:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens dead after Russian drone strike hits warehouse",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/dozens-dead-after-russian-drone-strike-hits-warehouse",
+      "published_date": "2026-08-29T10:24:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "🔴 Russian strike on warehouse near Kyiv kills at least 27 people, hundreds evacuating",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260829-russian-strike-on-warehouse-near-kyiv-kills-at-least-27-people-hundreds-evacuated",
+      "published_date": "2026-08-29T09:17:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mont Blanc ultramarathon trail kicks off amid growing environmental concern",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mont-blanc-ultramarathon-trail-kicks-off-amid-growing-environmental-concern",
+      "published_date": "2026-08-29T09:01:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian strikes hit homes, warehouse, shopping mall across Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russian-strikes-hit-homes-warehouse-shopping-mall-across-ukraine",
+      "published_date": "2026-08-29T08:51:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clashes rock Niger capital, junta says back in control",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260829-clashes-rock-niger-capital-junta-says-back-in-control",
+      "published_date": "2026-08-29T08:48:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ligue 1: PSG survive scare to snatch a miraculous 2-2 draw at Lille",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260829-ligue-1-psg-survive-scare-to-snatch-a-miraculous-2-2-draw-at-lille",
+      "published_date": "2026-08-29T08:07:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rescuers claw through mud as missing toll from Nepal, China flood nears 3,000",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260829-rescuers-claw-through-mud-as-missing-toll-from-nepal-china-flood-nears-3-000",
+      "published_date": "2026-08-29T01:38:23+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Berlin is being blackmailed by hackers, mayor says",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
@@ -624,83 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/sport/20260828-marseille-and-lyon-to-face-leverkusen-in-europa-league-rennes-take-on-juventus",
       "published_date": "2026-08-28T14:01:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right leader Jordan Bardella to address Reform UK party conference",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/28/french-far-right-leader-jordan-bardella-address-reform-uk-party-conference",
-      "published_date": "2026-08-28T13:57:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T13:50:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shootings surge as drug gangs torment Brussels",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T13:41:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion returns to 'second home' Paris ahead of sold-out comeback dates",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260828-c%C3%A9line-dion-returns-to-second-home-paris-ahead-of-sold-out-comeback-dates",
-      "published_date": "2026-08-28T13:41:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rock en Seine: Visually impaired spectators enjoy festival with audio description",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/rock-en-seine-visually-impaired-spectators-enjoy-festival-with-audio-description",
-      "published_date": "2026-08-28T13:02:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal flood survivors rescued from hydropower tunnel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nepal-flood-survivors-rescued-from-hydropower-tunnel",
-      "published_date": "2026-08-28T12:38:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Ran for our lives': Flood survivors recount terrifying escape from Nepal-Tibet disaster",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260828-ran-for-our-lives-flood-survivors-recount-terrifying-escape-from-nepal-tibet-disaster",
-      "published_date": "2026-08-28T11:55:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Midterms: What Americans in Europe need to know about changes to mail-in voting",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260828/midterms-what-americans-in-europe-need-to-know-about-changes-to-mail-in-voting",
-      "published_date": "2026-08-28T11:22:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Which countries have citizens killed or missing after Nepal-Tibet flash flood?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/28/which-countries-citizens-dead-missing-nepal-tibet-flash-flood",
-      "published_date": "2026-08-28T10:55:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain's Villena Treasure stolen in four-minute museum heist",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/spain-s-villena-treasure-stolen-in-four-minute-museum-heist",
-      "published_date": "2026-08-28T09:04:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather tracker: More extreme rain in Japan and a tornado in France",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france",
-      "published_date": "2026-08-28T08:02:51+00:00",
       "category": "Local Events"
     }
   ]
