@@ -1,6 +1,6 @@
 {
   "country": "France",
-  "last_updated": "2026-08-29T15:25:07.538079+00:00",
+  "last_updated": "2026-08-30T00:59:26.884908+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Iran war reaches 6-month mark: Conflict cost $1,100 per US taxpayer",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-war-reaches-6-month-mark-conflict-cost-1-100-per-us-taxpayer",
+      "published_date": "2026-08-29T15:24:38+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/aug/29/royal-navy-tracking-russian-vessels-uk-waters-channel-north-sea",
@@ -274,13 +281,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260828-french-foreign-legion-soldier-kidnapped-in-southwestern-colombia-guerilla",
       "published_date": "2026-08-28T06:49:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "🔴 French Foreign Legion soldier kidnapped in Colombia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260828-french-foreign-legion-soldier-kidnapped-in-colombia",
-      "published_date": "2026-08-28T05:33:44+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "UAE building ‘relationships of dependence’ through investment across Africa",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260829-uae-building-relationships-of-dependence-through-investment-across-africa",
+      "published_date": "2026-08-29T15:54:58+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Austria: Anger over a business park being built on top of former Nazi camp",
       "source": "France 24",
       "url": "https://www.france24.com/en/austria-anger-over-a-business-park-being-built-on-top-of-former-nazi-camp",
@@ -557,11 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "Middle East live: Iran's president says country facing 'many problems' as US sanctions loom",
+      "title": "Missing toll from Nepal, China flood nears 3,000 as race for survivors continues",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260823-middle-east-live-iran-s-president-says-country-facing-many-problems-as-us-sanctions-loom",
-      "published_date": "2026-08-23T09:23:01+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/asia-pacific/20260829-missing-toll-from-nepal-china-flood-nears-3-000-as-race-for-survivors-continues",
+      "published_date": "2026-08-29T20:12:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu condemns 'criminal acts of violence' by settlers in West Bank villages",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260829-netanyahu-condemns-criminal-acts-of-violence-by-settlers-in-west-bank-villages",
+      "published_date": "2026-08-29T18:34:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
@@ -687,20 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260828-spanish-government-urges-calm-anti-migrant-protesters-clash-police-ceuta",
       "published_date": "2026-08-28T14:44:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescuers grapple with mountain of challenges after the Nepal-Tibet floods",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260828-rescuers-grapple-with-mountain-of-challenges-after-the-nepal-tibet-floods",
-      "published_date": "2026-08-28T14:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marseille and Lyon to face Leverkusen in Europa League, Rennes take on Juventus",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260828-marseille-and-lyon-to-face-leverkusen-in-europa-league-rennes-take-on-juventus",
-      "published_date": "2026-08-28T14:01:47+00:00",
       "category": "Local Events"
     }
   ]
