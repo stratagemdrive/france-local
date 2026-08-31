@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-08-30T15:08:52.431507+00:00",
+  "last_updated": "2026-08-31T01:03:20.569847+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US Treasury bars certain journalists from G20 meeting in North Carolina",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260830-us-treasury-journalists-from-g20",
+      "published_date": "2026-08-30T22:48:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jason Arday accuser given three-month teaching ban but can continue research",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/30/nathan-cofnas-jason-arday-accuser-teaching-ban-research",
+      "published_date": "2026-08-30T15:35:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iceland rejects EU accession talks in referendum after divisive campaign",
       "source": "The Guardian",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron to meet new UK PM Burnham against backdrop of Bayeux Tapestry",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260828-macron-to-meet-new-uk-pm-burnham-against-backdrop-of-bayeux-tapestry",
-      "published_date": "2026-08-28T14:47:17+00:00",
-      "category": "Diplomacy"
+      "title": "Middle East Live: US strikes Iran for first time in a month as Tehran retaliates against Jordan base",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month",
+      "published_date": "2026-08-30T23:02:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "French presidential hopefuls clash over economy and EU in first debate",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260828-french-presidential-hopefuls-clash-over-economy-and-eu-in-first-debate",
-      "published_date": "2026-08-28T12:07:24+00:00",
-      "category": "Diplomacy"
+      "title": "US forces strike Iranian launchers on Larak island in Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260830-us-forces-strike-iranian-launchers-on-larak-island-in-strait-of-hormuz",
+      "published_date": "2026-08-30T20:27:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Guardian view on the rise of Germany’s AfD: mainstream parties must deliver a bolder response | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-the-rise-of-germanys-afd-mainstream-parties-must-deliver-a-bolder-response",
+      "published_date": "2026-08-30T16:30:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Niger junta puts down mutiny with help from Russia's Africa Corps",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260830-niger-junta-aided-by-russian-paramilitary-forces-regains-control-after-mutiny",
+      "published_date": "2026-08-30T15:20:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Ratko Mladić, the ‘Butcher of Bosnia’, could not escape death. But his fascist ideas and ideology live on | Ed Vulliamy",
@@ -228,6 +256,13 @@
       "category": "Military"
     },
     {
+      "title": "Hundreds evacuate after Russian strike on depot near Kyiv kills at least 37",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260829-russian-strike-on-warehouse-near-kyiv-kills-at-least-27-people-hundreds-evacuated",
+      "published_date": "2026-08-29T08:57:05+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Nepal army races to rescue more than 100 trapped in hydropower tunnel after floods",
       "source": "France 24",
       "url": "https://www.france24.com/en/nepal-army-races-to-rescue-more-than-100-trapped-in-hydropower-tunnel-after-floods",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Nepal-Tibet floods live: Rescuers race to find 100 workers trapped in tunnels as death toll tops 680",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260829-nepal-tibet-floods-live-death-toll-passes-600-nearly-2-500-people-still-missing",
-      "published_date": "2026-08-29T05:06:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy orders military to triple daily long-range strikes on Russia",
+      "title": "The Guardian view on rare earths: it’s common sense to secure essential supply chains | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/29/ukraine-war-briefing-long-range-strikes-on-russia-tripled",
-      "published_date": "2026-08-29T01:26:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel army carries out rare West Bank air strike, killing 'three terrorists'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists",
-      "published_date": "2026-08-28T17:14:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/28/russia-losing-6000-more-troops-than-it-can-recruit-each-month-in-ukraine-says-west",
-      "published_date": "2026-08-28T17:05:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Words and promises not enough’ as Syria’s Kurds face uncertain future",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260828-words-and-promises-are-not-enough-as-syria-s-kurds-face-uncertain-future",
-      "published_date": "2026-08-28T16:05:23+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-rare-earths-its-common-sense-to-secure-essential-supply-chains",
+      "published_date": "2026-08-30T16:30:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Still dancing at 88, Mali’s Mariam Bagayoko keeps tradition alive",
@@ -414,13 +421,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260825-nevada-wildfire-reno-evacuations",
       "published_date": "2026-08-25T02:45:28+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/24/the-visitor-review-existential-lithuania-set-homecoming-drama-leaves-everything-in-limbo",
-      "published_date": "2026-08-24T10:26:03+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,13 @@
       "category": "Economy"
     },
     {
+      "title": "French LGBTQ rights leader hospitalised after ‘despicable homophobic attack’ in Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260830-french-lgbtq-activist-hospitalised-after-despicable-homophobic-attack-in-paris",
+      "published_date": "2026-08-30T15:41:50+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Woman, 22, killed and five injured in shooting at Swiss rave",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland",
@@ -694,13 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/30/president-penthouse-madrid-government-63m-euros-temporary-office-isabel-diaz-ayuso",
       "published_date": "2026-08-30T05:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Missing toll from Nepal, China flood nears 3,000 as race for survivors continues",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260829-missing-toll-from-nepal-china-flood-nears-3-000-as-race-for-survivors-continues",
-      "published_date": "2026-08-29T20:12:45+00:00",
       "category": "Local Events"
     }
   ]
