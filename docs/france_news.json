@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-08-31T17:48:08.787487+00:00",
-  "story_count": 98,
+  "last_updated": "2026-09-01T01:35:24.809871+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Ukraine war briefing: Pressure stays on Russian economy until war is over, says Bessent",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/01/ukraine-war-briefing-pressure-stays-on-russian-economy-until-war-is-over-says-bessent",
+      "published_date": "2026-09-01T01:03:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU suspends Brazilian meat imports over antibiotic compliance concerns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260901-eu-suspends-brazilian-meat-imports-over-antibiotic-compliance-concerns",
+      "published_date": "2026-09-01T00:14:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Xi, Putin hold talks ahead of Shanghai Cooperation Organization summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260831-xi-putin-hold-talks-ahead-of-shanghai-cooperation-organization-summit",
+      "published_date": "2026-08-31T20:51:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron seals €4.3-bn French frigate deal in Sweden",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260831-macron-seals-%E2%82%AC4-3-bn-french-frigate-deal-in-sweden",
+      "published_date": "2026-08-31T19:28:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "As Icelanders say no to resuming EU talks, what issues weighed in the election?",
       "source": "France 24",
@@ -88,6 +116,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Rejoining the EU, Burnham’s donors and the bedroom tax: Politics Weekly answers your questions – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast",
+      "published_date": "2026-08-31T04:00:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "NATO's Arctic activity poses 'direct threat' to Russia, Lavrov warns",
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260831-nato-arctic-activity-direct-threat-russia-lavrov",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iceland rejects EU accession talks in referendum after divisive campaign",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
-      "published_date": "2026-08-30T14:57:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iceland rejects EU accession talks",
+      "title": "Trump vows to hit back 'hard' after first exchange of fire with Iran in weeks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260830-iceland-rejects-eu-accession-talks",
-      "published_date": "2026-08-30T14:53:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260830-week-in-pictures-devastating-floods-in-nepal-death-of-dolly-parton-and-a-tornado-in-france",
-      "published_date": "2026-08-30T14:47:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iceland votes against restarting EU membership talks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-30T14:45:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cyprus: Ferry capsizes with hundreds on board",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260830-cyprus-ferry-capsizes-with-hundreds-of-board",
-      "published_date": "2026-08-30T13:13:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/trump-vows-to-hit-back-hard-after-first-exchange-of-fire-with-iran-in-weeks",
+      "published_date": "2026-08-31T18:37:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Latest flare-up between US and Iran bring conflict's lull to an end",
@@ -270,17 +277,10 @@
       "category": "Military"
     },
     {
-      "title": "Iran war reaches 6-month mark: Conflict cost $1,100 per US taxpayer",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-war-reaches-6-month-mark-conflict-cost-1-100-per-us-taxpayer",
-      "published_date": "2026-08-29T15:24:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/29/royal-navy-tracking-russian-vessels-uk-waters-channel-north-sea",
-      "published_date": "2026-08-29T15:06:07+00:00",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-29T20:13:16+00:00",
       "category": "Military"
     },
     {
@@ -543,11 +543,53 @@
       "category": "Economy"
     },
     {
-      "title": "Manga-inspired theme park to be built near Paris",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-24T19:57:55+00:00",
-      "category": "Economy"
+      "title": "Melting Himalayas? Nepal disaster exposes growing risk of glacial flooding",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260831-melting-himalayas-nepal-disaster-exposes-growing-risk-of-glacial-flooding",
+      "published_date": "2026-08-31T23:35:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Glacial flood death toll surpasses 900 in Nepal and Tibet",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260831-glacial-flood-death-toll-surpasses-900-in-nepal-and-tibet",
+      "published_date": "2026-08-31T23:34:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenya airport staff strike delays thousands of passengers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/kenya-airport-staff-strike-delays-thousands-of-passengers",
+      "published_date": "2026-08-31T20:20:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marine Le Pen's National Rally plans to \"sanction\" the wearing of the veil with a fine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/marine-le-pen-s-national-rally-plans-to-sanction-the-wearing-of-the-veil-with-a-fine",
+      "published_date": "2026-08-31T20:01:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nepal disaster: fake and AI images flood social media as deaths mount",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nepal-disaster-fake-and-ai-images-flood-social-media-as-deaths-mount",
+      "published_date": "2026-08-31T20:00:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish deep-sea search vessel joins efforts to retrieve 20 still missing after Cyprus ferry disaster",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/31/turkish-deep-sea-search-vessel-tcg-isin-retrieve-20-missing-cyprus-ferry",
+      "published_date": "2026-08-31T18:37:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/hundreds-feared-stuck-in-hydropower-tunnels-as-flood-deaths-surpass-950-in-nepal-and-china",
+      "published_date": "2026-08-31T18:34:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nepal floods 'unprecedented', requires new 'engineering approaches, risk-sensitive urban planning'",
@@ -638,55 +680,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260831/french-pilots-file-september-strike-notice",
       "published_date": "2026-08-31T08:40:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I’m giving birth as a battle rages over maternity care in Ireland. We shouldn’t have to pay to feel safe | Caelainn Hogan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/31/ireland-maternity-care-birth-pay-safe-state-care",
-      "published_date": "2026-08-31T04:00:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French LGBTQ rights leader hospitalised after ‘despicable homophobic attack’ in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260830-french-lgbtq-activist-hospitalised-after-despicable-homophobic-attack-in-paris",
-      "published_date": "2026-08-30T15:41:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 22, killed and five injured in shooting at Swiss rave",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland",
-      "published_date": "2026-08-30T15:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French LGBTQ activist hospitalised after 'homophobic' Paris attack",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260830/french-lgbtq-activist-hospitalised-after-homophobic-paris-attack",
-      "published_date": "2026-08-30T14:59:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Far-right and far-left lead polls",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-far-right-and-far-left-lead-polls",
-      "published_date": "2026-08-30T14:44:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested over fatal stabbing of British woman in Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/30/man-arrested-fatal-stabbing-british-woman-germany-rosenheim-train-station",
-      "published_date": "2026-08-30T13:27:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six dead after ferry carrying nearly 270 capsizes off northern Cyprus",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
-      "published_date": "2026-08-30T13:14:36+00:00",
       "category": "Local Events"
     }
   ]
