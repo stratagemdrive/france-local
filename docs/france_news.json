@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-09-01T01:35:24.809871+00:00",
+  "last_updated": "2026-09-01T15:21:48.461294+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "German police investigating reported explosives at Brandenburg power substation – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
+      "published_date": "2026-09-01T15:19:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Even at Elysée, phones are handed in, Macron tells French pupils",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260901/even-at-elysee-phones-are-handed-in-macron-tells-french-pupils",
+      "published_date": "2026-09-01T14:13:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia’s return to G20 talks unsettles Europe as Iran and trade tensions loom",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260901-russia-s-return-to-g20-talks-unsettles-europe-as-iran-and-trade-tensions-loom",
+      "published_date": "2026-09-01T13:26:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine air defences top agenda as EU ministers meet in Ireland",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260901-ukraine-air-defences-top-agenda-as-eu-ministers-meet-in-ireland",
+      "published_date": "2026-09-01T09:02:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iceland’s close ties with EU mean no vote is not a Brexit-style rejection",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/01/iceland-ties-eu-no-vote-not-brexit-style-rejection",
+      "published_date": "2026-09-01T04:00:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukraine war briefing: Pressure stays on Russian economy until war is over, says Bessent",
       "source": "The Guardian",
@@ -109,39 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron in Sweden to sign frigate deal, strengthening 'strategic partnership'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260831-macron-in-sweden-to-sign-frigate-deal-strengthening-strategic-partnership",
-      "published_date": "2026-08-31T06:02:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rejoining the EU, Burnham’s donors and the bedroom tax: Politics Weekly answers your questions – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast",
-      "published_date": "2026-08-31T04:00:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NATO's Arctic activity poses 'direct threat' to Russia, Lavrov warns",
+      "title": "From North Korea to ICE: Photojournalist David Guttenfelder on the front lines in Minneapolis",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260831-nato-arctic-activity-direct-threat-russia-lavrov",
-      "published_date": "2026-08-31T02:40:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260901-from-north-korea-to-ice-photojournalist-david-guttenfelder-on-the-front-lines-in-minneapolis",
+      "published_date": "2026-09-01T15:10:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "US Treasury bars certain journalists from G20 meeting in North Carolina",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260830-us-treasury-journalists-from-g20",
-      "published_date": "2026-08-30T22:48:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jason Arday accuser given three-month teaching ban but can continue research",
+      "title": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/30/nathan-cofnas-jason-arday-accuser-teaching-ban-research",
-      "published_date": "2026-08-30T15:35:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
+      "published_date": "2026-09-01T15:06:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine hopes for bolstered support as EU defence ministers meet in Dublin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-hopes-for-bolstered-support-as-eu-defence-ministers-meet-in-dublin",
+      "published_date": "2026-09-01T13:34:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French Expression of the Day: Jour J",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260901/word-of-the-day-jour-j",
+      "published_date": "2026-09-01T12:28:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-01T11:55:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As capital goes back to normal, Niger downplays soldiers' mutiny",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260901-as-capital-goes-back-to-normal-niger-downplays-soldiers-mutiny",
+      "published_date": "2026-09-01T10:51:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Massive' Russian missile, drone attacks on Kyiv",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260901-massive-russian-missile-drone-attacks-on-kyiv",
+      "published_date": "2026-09-01T10:50:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia fired over 2,800 drones at Ukraine in August amid war tactic change",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-fired-over-2-800-drones-at-ukraine-in-august-amid-war-tactic-change",
+      "published_date": "2026-09-01T09:49:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia targets Kyiv and its region for sixth consecutive night of attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-targets-kyiv-and-its-region-for-sixth-consecutive-night-of-attacks",
+      "published_date": "2026-09-01T09:39:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Live: Deadly Russian air attack hits energy and rail infrastructure in Kyiv",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260901-live-deadly-russian-air-attack-hits-railway-depot-in-kyiv",
+      "published_date": "2026-09-01T06:04:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War of words: my language lessons in Ukraine – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/sep/01/war-of-words-my-language-lessons-in-ukraine-podcast",
+      "published_date": "2026-09-01T02:00:41+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump vows to hit back 'hard' after first exchange of fire with Iran in weeks",
@@ -207,81 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "The Black Garden review – haunting study of growing up in war-torn Nagorno-Karabakh",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/31/the-black-garden-review-haunting-study-of-growing-up-in-war-torn-nagorno-karabakh",
-      "published_date": "2026-08-31T06:00:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes destroy 12 million books ahead of Ukraine's first week back at school",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly5v8qmy64o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-31T05:01:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East Live: US strikes Iran for first time in a month as Tehran retaliates against Jordan base",
+      "title": "Alejandro Betancourt, the controversial Venezuelan oil tycoon Trump is banking on",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month",
-      "published_date": "2026-08-30T23:02:17+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/americas/20260901-alejandro-betancourt-the-controversial-venezuelan-oil-tycoon-trump-is-banking-on",
+      "published_date": "2026-09-01T15:05:21+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US forces strike Iranian launchers on Larak island in Strait of Hormuz",
+      "title": "Expert warns of 'hotter summers, more wildfires, more drought and more floods'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260830-us-forces-strike-iranian-launchers-on-larak-island-in-strait-of-hormuz",
-      "published_date": "2026-08-30T20:27:09+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260901-expert-warns-of-hotter-summers-more-wildfires-more-drought-and-more-floods",
+      "published_date": "2026-09-01T12:24:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The Guardian view on the rise of Germany’s AfD: mainstream parties must deliver a bolder response | Editorial",
+      "title": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop | Alexander Hurst",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-the-rise-of-germanys-afd-mainstream-parties-must-deliver-a-bolder-response",
-      "published_date": "2026-08-30T16:30:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Niger junta puts down mutiny with help from Russia's Africa Corps",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260830-niger-junta-aided-by-russian-paramilitary-forces-regains-control-after-mutiny",
-      "published_date": "2026-08-30T15:20:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, could not escape death. But his fascist ideas and ideology live on | Ed Vulliamy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/ratko-mladic-butcher-bosnia-death-legacy-serbia",
-      "published_date": "2026-08-30T13:00:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Niamey back to normal after soldier mutiny",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260830-niamey-back-to-normal-after-soldier-mutiny",
-      "published_date": "2026-08-30T12:26:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Guinea-Bissau votes in referendum on giving president more powers",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260830-guinea-bissau-votes-in-referendum-on-giving-president-more-powers",
-      "published_date": "2026-08-30T06:30:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Killing of Palestinian children and teens by Israel surges in West Bank",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260830-killing-of-palestinian-children-and-teens-by-israel-surges-in-west-bank",
-      "published_date": "2026-08-30T02:20:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-29T20:13:16+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop",
+      "published_date": "2026-09-01T04:00:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "The Guardian view on rare earths: it’s common sense to secure essential supply chains | Editorial",
@@ -389,39 +410,39 @@
       "category": "Energy"
     },
     {
-      "title": "French village takes stock of tornado aftermath",
+      "title": "After 'unprecedented honeymoon', UK PM faces lawmakers for first time",
       "source": "France 24",
-      "url": "https://www.france24.com/en/french-village-takes-stock-of-tornado-aftermath",
-      "published_date": "2026-08-25T14:26:26+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/after-unprecedented-honeymoon-uk-pm-faces-lawmakers-for-first-time",
+      "published_date": "2026-09-01T15:10:30+00:00",
+      "category": "Economy"
     },
     {
-      "title": "'Thermal safety: Not just climate in action; it's biology & physiological capacity to cope & recover",
+      "title": "Ghana cocoa farmers reject new 'punitive' land conversion law",
       "source": "France 24",
-      "url": "https://www.france24.com/en/thermal-safety-not-just-climate-in-action-it-s-biology-physiological-capacity-to-cope-recover",
-      "published_date": "2026-08-25T10:49:46+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260901-ghana-cocoa-farmers-reject-new-punitive-land-conversion-law",
+      "published_date": "2026-09-01T14:05:13+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Around 40 injured after tornado tears through village in the south of France",
+      "title": "Russia's G20 US invitation severely criticised by European countries",
       "source": "France 24",
-      "url": "https://www.france24.com/en/around-40-injured-after-tornado-tears-through-village-in-the-south-of-france",
-      "published_date": "2026-08-25T09:42:20+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/russia-s-g20-us-invitation-severely-criticised-by-european-countries",
+      "published_date": "2026-09-01T13:48:34+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Tornado tears through southern France damaging homes - video",
+      "title": "From labels to Netflix, how Quebec's fight to protect French collides with US trade",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260901-from-labels-to-netflix-how-quebec-s-fight-to-protect-french-collides-with-us-trade",
+      "published_date": "2026-09-01T13:27:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Madrid residents brace for noise and disruption from new F1 circuit",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/aug/25/tornado-tears-through-southern-france-damaging-homes-video",
-      "published_date": "2026-08-25T04:50:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nevada wildfire forces tens of thousands to evacuate as blaze threatens city of Reno",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260825-nevada-wildfire-reno-evacuations",
-      "published_date": "2026-08-25T02:45:28+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/world/2026/sep/01/madrid-f1-circuit-noise-levels-madring",
+      "published_date": "2026-09-01T04:00:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "PM Lecornu opens political season as French government returns from summer break",
@@ -522,25 +543,102 @@
       "category": "Economy"
     },
     {
-      "title": "With sanctions and tariffs, US bets on its economic power to get what it wants",
+      "title": "At least 12 killed and over a dozen injured in Russian strikes on Kyiv",
       "source": "France 24",
-      "url": "https://www.france24.com/en/with-sanctions-and-tariffs-us-bets-on-its-economic-power-to-get-what-it-wants",
-      "published_date": "2026-08-25T13:25:54+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/at-least-12-killed-and-over-a-dozen-injured-in-russian-strikes-on-kyiv",
+      "published_date": "2026-09-01T14:56:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran threatens retaliation as new US sanctions hit already-struggling economy",
+      "title": "Child sex abuse scandals loom over France as pupils head back to school",
       "source": "France 24",
-      "url": "https://www.france24.com/en/iran-threatens-retaliation-as-new-us-sanctions-hit-already-struggling-economy",
-      "published_date": "2026-08-25T09:36:13+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/child-sex-abuse-scandals-loom-over-france-as-pupils-head-back-to-school",
+      "published_date": "2026-09-01T14:54:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Middle East live: China to 'firmly safeguard' its interests after US threatens Iran's trade partners",
+      "title": "Controversial designer John Galliano cancels Met exhibition after backlash",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260825-mideast-live-oil-tanker-struck-by-projectile-in-strait-of-hormuz-off-oman",
-      "published_date": "2026-08-25T03:31:45+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/controversial-designer-john-galliano-cancels-met-exhibition-after-backlash",
+      "published_date": "2026-09-01T14:28:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From sexual violence to mobile phones, what's changing for French pupils?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/from-sexual-violence-to-mobile-phones-what-s-changing-for-french-pupils",
+      "published_date": "2026-09-01T13:56:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jury convicts former gang member of rapper Tupac Shakur's murder",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/jury-convicts-former-gang-member-of-rapper-tupac-shakur-s-murder",
+      "published_date": "2026-09-01T13:52:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tupac murder trial: Ex-gang leader found guilty",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260901-tupac-murder-trial-ex-gang-leader-found-guilty-1",
+      "published_date": "2026-09-01T11:31:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-01T10:30:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘This is systemic’: Parents demand accountability over child abuse in French childcare system",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/this-is-systemic-parents-demand-accountability-over-child-abuse-in-french-childcare-system",
+      "published_date": "2026-09-01T10:18:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Back-to-school season in France sees tighter rules on mobile phones",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260901-back-to-school-season-in-france-sees-tighter-rules-on-mobile-phones",
+      "published_date": "2026-09-01T10:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tunisia's iconic Sidi Bou Said town added to UNESCO world heritage list",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tunisia-s-iconic-sidi-bou-said-town-added-to-unesco-world-heritage-list",
+      "published_date": "2026-09-01T10:07:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Devoted servant of the nation': Former French PM Édouard Balladur dies aged 97",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260901-devoted-servant-of-the-nation-former-french-pm-edouard-balladur-dies-aged-97",
+      "published_date": "2026-09-01T07:03:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French schools start new year in shadow of summer cyberattack",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260901-french-schools-start-new-year-in-shadow-of-summer-cyberattack",
+      "published_date": "2026-09-01T06:13:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cities sweltering and the smell of the middle ages: has the climate crisis killed Instagram’s Euro summer? | Brigid Delaney",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/commentisfree/2026/sep/01/has-climate-crisis-killed-instagrams-euro-summer",
+      "published_date": "2026-09-01T05:03:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian missile and drone attack on Kyiv kills at least eight",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260901-russian-missile-and-drone-attack-on-kyiv-kills-at-least-four",
+      "published_date": "2026-09-01T02:26:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Melting Himalayas? Nepal disaster exposes growing risk of glacial flooding",
@@ -582,104 +680,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/31/turkish-deep-sea-search-vessel-tcg-isin-retrieve-20-missing-cyprus-ferry",
       "published_date": "2026-08-31T18:37:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/hundreds-feared-stuck-in-hydropower-tunnels-as-flood-deaths-surpass-950-in-nepal-and-china",
-      "published_date": "2026-08-31T18:34:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal floods 'unprecedented', requires new 'engineering approaches, risk-sensitive urban planning'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nepal-floods-unprecedented-requires-new-engineering-approaches-risk-sensitive-urban-planning",
-      "published_date": "2026-08-31T15:52:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ten years after Gabon’s post-election violence, painful questions remain",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260831-ten-years-after-gabon-s-post-election-violence-painful-questions-remain-bongo-ping",
-      "published_date": "2026-08-31T15:43:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal deadly floods: FRANCE 24 report – on the ground with survivors",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260831-nepal-deadly-floods-france-24-report-%E2%80%93-on-the-ground-with-survivors",
-      "published_date": "2026-08-31T15:12:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's politicians look to close gap with far right ahead of key election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-s-politicians-look-to-close-gap-with-far-right-ahead-of-key-election",
-      "published_date": "2026-08-31T14:55:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France gears up for an election year defined by a fragmented left",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-gears-up-for-an-election-year-defined-by-a-fragmented-left",
-      "published_date": "2026-08-31T13:49:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Backstage at Rock en Seine 2026 with up-and-coming British singer Sekou",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260831-backstage-at-rock-en-seine-2026-with-up-and-coming-british-singer-sekou",
-      "published_date": "2026-08-31T13:25:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bradley Barcola joins Liverpool from PSG for record fee",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee",
-      "published_date": "2026-08-31T13:17:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Executive diversity and inclusion: How to promote female leadership",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20260831-executive-diversity-and-inclusion-how-to-promote-female-leadership",
-      "published_date": "2026-08-31T12:51:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal races to find its missing as flood area remains largely inaccessible",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nepal-races-to-find-its-missing-as-flood-area-remains-largely-inaccessible",
-      "published_date": "2026-08-31T12:41:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police arrest Swiss man after deadly rave shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260831-police-arrest-swiss-man-over-after-deadly-rave-shooting",
-      "published_date": "2026-08-31T12:01:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French LGBTQ campaigner vows to continue fight after 'despicable' Paris attack",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260831-french-lgbtq-campaigner-vows-to-continue-fight-after-homophobic-paris-attack",
-      "published_date": "2026-08-31T09:57:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nearly 20 people still missing after ferry capsizes ⁠off northern Cyprus",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/31/missing-ferry-capsizes-cyprus",
-      "published_date": "2026-08-31T09:49:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French pilots file September strike notice",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260831/french-pilots-file-september-strike-notice",
-      "published_date": "2026-08-31T08:40:17+00:00",
       "category": "Local Events"
     }
   ]
