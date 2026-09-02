@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-09-01T15:21:48.461294+00:00",
-  "story_count": 97,
+  "last_updated": "2026-09-02T00:47:00.421779+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Germany blames Russia for drone attack at Leipzig airport",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
+      "published_date": "2026-09-01T23:48:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany blames Russia for airport drone incident, hits back with sanctions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions",
+      "published_date": "2026-09-01T20:58:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AI data centers become surprise issue in US midterm elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ai-data-centers-become-surprise-issue-in-us-midterm-elections",
+      "published_date": "2026-09-01T19:35:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nepal glacier disaster toll passes 1,000 as calls for climate justice grow",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260901-himalayan-floods-sadness-and-anger-as-death-toll-passes-1-000-nepal-china-climate-change",
+      "published_date": "2026-09-01T17:51:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany blames Russia for Leipzig airport drone attack, orders Russian consulate closed",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260901-germany-blames-russia-for-leipzig-airport-drone-attack-orders-russian-consulate-closed",
+      "published_date": "2026-09-01T17:00:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany set to blame Russia for airport explosive-laden drone incident",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260901-germany-set-to-blame-russia-for-airport-explosive-laden-drone-incident",
+      "published_date": "2026-09-01T15:35:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "German police investigating reported explosives at Brandenburg power substation – Europe live",
       "source": "The Guardian",
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU hides disappointment after Iceland's 'No' vote",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260831-eu-hides-disappointment-after-iceland-s-no-vote",
-      "published_date": "2026-08-31T10:53:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French high schools rush to put Macron’s phone ban into force",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/31/french-high-schools-phone-ban-macron",
-      "published_date": "2026-08-31T10:41:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN committee presents legal case for broad slavery reparations",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260831-un-committee-presents-legal-case-for-broad-slavery-reparations",
-      "published_date": "2026-08-31T10:25:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
-      "published_date": "2026-08-31T10:21:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Xi arrives for SCO summit, Putin meeting as regional bloc pushes back on US dominance",
+      "title": "G20 backs final statement despite Russia tensions, China dissent",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260831-xi-arrives-for-sco-summit-putin-meeting-as-regional-bloc-pushes-back-on-us-dominance",
-      "published_date": "2026-08-31T09:33:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20260901-g20-backs-final-statement-despite-russia-tensions-china-dissent",
+      "published_date": "2026-09-01T23:39:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Warning to Europe': How Iceland's 'No' vote is a blow to the EU",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260831/warning-to-europe-how-icelands-no-vote-is-a-blow-to-the-eu",
-      "published_date": "2026-08-31T08:12:13+00:00",
-      "category": "Diplomacy"
+      "title": "Russia targets Ukraine’s rail network as war enters deadly new phase",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase",
+      "published_date": "2026-09-01T17:23:15+00:00",
+      "category": "Military"
     },
     {
       "title": "From North Korea to ICE: Photojournalist David Guttenfelder on the front lines in Minneapolis",
@@ -270,18 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Artificial intelligence in Europe: Does advanced AI have a glass ceiling?",
+      "title": "Global bond selloff deepens as US launches fresh attacks on Iran",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20260831-artificial-intelligence-in-europe-does-advanced-ai-have-a-glass-ceiling",
-      "published_date": "2026-08-31T09:39:28+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/business/20260901-global-bond-selloff-deepens-as-us-launches-fresh-attacks-on-iran",
+      "published_date": "2026-09-01T20:56:44+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Spanish PM Sanchez says Israel and Russia spread disinformation on Ceuta migrant crisis",
+      "title": "US firm to take over some Venezuela oilfields previously run by Chinese, Russian firms",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260831-spanish-pm-sanchez-says-israel-and-russia-spread-disinformation-on-ceuta-migrant-crisis",
-      "published_date": "2026-08-31T08:20:20+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/us-firm-to-take-over-some-venezuela-oilfields-previously-run-by-chinese-russian-firms",
+      "published_date": "2026-09-01T19:00:04+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Burnham blames Brexit and Thatcher for ‘wrong turns’ in first Commons speech as PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
+      "published_date": "2026-09-01T18:52:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Alejandro Betancourt, the controversial Venezuelan oil tycoon Trump is banking on",
@@ -403,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "'We're heading for catastrophe': The summer climate change hit Europe",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260825/were-heading-for-catastrophe-the-summer-climate-change-hit-europe",
-      "published_date": "2026-08-25T15:51:09+00:00",
-      "category": "Energy"
+      "title": "\"Subtle changes pointing to consumer fatigue\" a challenge for fast-fashion retailers, expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260901-subtle-changes-pointing-to-consumer-fatigue-a-challenge-for-fast-fashion-retailers-expert-says",
+      "published_date": "2026-09-01T21:40:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham pledges to restore hope as he makes his House of Commons debut as UK leader",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/burnham-pledges-to-restore-hope-as-he-makes-his-house-of-commons-debut-as-uk-leader",
+      "published_date": "2026-09-01T20:54:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Football: Europe's top clubs scramble for last-minute signings",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260901-football-europe-s-top-clubs-scramble-for-last-minute-signings",
+      "published_date": "2026-09-01T20:45:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
+      "published_date": "2026-09-01T17:52:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "After 'unprecedented honeymoon', UK PM faces lawmakers for first time",
@@ -435,6 +477,13 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/international/20260901-from-labels-to-netflix-how-quebec-s-fight-to-protect-french-collides-with-us-trade",
       "published_date": "2026-09-01T13:27:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man City sign Fernandez, Ndiaye as Premier League spending hits record",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260901-man-city-sign-fernandez-ndiaye-as-premier-league-spending-hits-record",
+      "published_date": "2026-09-01T09:25:13+00:00",
       "category": "Economy"
     },
     {
@@ -515,32 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "America unites in mourning for Dolly Parton",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260826-america-unites-in-mourning-for-dolly-parton",
-      "published_date": "2026-08-26T10:19:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "French flight attendant wins landmark breast cancer ruling",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260826/french-flight-attendant-wins-landmark-breast-cancer-ruling",
-      "published_date": "2026-08-26T08:09:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Oil prices fall for second day as US shifts from Iran strikes to sanctions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/economy/20260825-oil-prices-fall-us-iran-strikes-sanctions",
-      "published_date": "2026-08-25T21:57:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "VW workers boo boss as he urges them to ‘pull together’ amid job cuts",
+      "title": "Dozens arrested after fatal pre-dawn shootout in Dutch village",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/25/vw-workers-boo-boss-as-he-urges-them-to-pull-together-amid-job-cuts",
-      "published_date": "2026-08-25T15:47:56+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/01/dozens-arrested-after-fatal-pre-dawn-shootout-in-dutch-village",
+      "published_date": "2026-09-01T22:00:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africans missing in Nepal's glacial flood",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/south-africans-missing-in-nepal-s-glacial-flood",
+      "published_date": "2026-09-01T20:35:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "School without screens: Will France's high school phone ban fly?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260901-school-wihout-screens-will-france-s-high-school-phone-ban-fly",
+      "published_date": "2026-09-01T18:23:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US and Iran trade fire as hostilities flare again",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260901-us-and-iran-trade-fire-as-hostilities-flare-again",
+      "published_date": "2026-09-01T18:15:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DRC school year begins amid Ebola, strikes and conflict",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260901-drc-school-year-begins-amid-ebola-strikes-and-conflict",
+      "published_date": "2026-09-01T17:52:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "At least 12 killed and over a dozen injured in Russian strikes on Kyiv",
@@ -645,41 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260831-melting-himalayas-nepal-disaster-exposes-growing-risk-of-glacial-flooding",
       "published_date": "2026-08-31T23:35:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Glacial flood death toll surpasses 900 in Nepal and Tibet",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260831-glacial-flood-death-toll-surpasses-900-in-nepal-and-tibet",
-      "published_date": "2026-08-31T23:34:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya airport staff strike delays thousands of passengers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/kenya-airport-staff-strike-delays-thousands-of-passengers",
-      "published_date": "2026-08-31T20:20:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen's National Rally plans to \"sanction\" the wearing of the veil with a fine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/marine-le-pen-s-national-rally-plans-to-sanction-the-wearing-of-the-veil-with-a-fine",
-      "published_date": "2026-08-31T20:01:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal disaster: fake and AI images flood social media as deaths mount",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nepal-disaster-fake-and-ai-images-flood-social-media-as-deaths-mount",
-      "published_date": "2026-08-31T20:00:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish deep-sea search vessel joins efforts to retrieve 20 still missing after Cyprus ferry disaster",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/31/turkish-deep-sea-search-vessel-tcg-isin-retrieve-20-missing-cyprus-ferry",
-      "published_date": "2026-08-31T18:37:06+00:00",
       "category": "Local Events"
     }
   ]
