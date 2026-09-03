@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-09-02T14:54:15.643364+00:00",
+  "last_updated": "2026-09-03T00:55:11.389069+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
+      "published_date": "2026-09-02T23:47:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
+      "published_date": "2026-09-02T21:30:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bayeux tapestry loan symbolises ‘entente amicale’ between France and UK, says King Charles",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/02/bayeux-tapestry-loan-symbolises-entente-amicale-between-france-and-uk-says-king-charles",
+      "published_date": "2026-09-02T18:58:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU summons Russian envoy, eyes sanctions after Germany drone 'attack'",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260902-eu-summons-russian-envoy-eyes-sanctions-after-germany-drone-attack",
+      "published_date": "2026-09-02T18:50:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-02T17:21:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia blamed for explosive-laden drone found at German airport",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260902-russia-blamed-for-explosive-laden-drone-found-at-german-airport",
+      "published_date": "2026-09-02T16:11:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Russia increasingly reckless, says Nato’s Rutte as Germany blames Moscow for Leipzig drone incident – Europe live",
       "source": "The Guardian",
@@ -36,6 +78,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260902-germany-ivestigates-suspected-power-substation-sabotage-russia-summons-german-envoy",
       "published_date": "2026-09-02T13:15:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Drone incident in Germany has ‘hallmarks of state-sponsored terrorism’, EU's Kallas says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260902-eu-summons-russia-envoys-eyes-sanctions-after-germany-drone-attack",
+      "published_date": "2026-09-02T12:59:11+00:00",
       "category": "Diplomacy"
     },
     {
@@ -95,53 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "AI data centers become surprise issue in US midterm elections",
+      "title": "Ukraine warns Russian airspace ‘not safe’ in message to UN aviation watchdog",
       "source": "France 24",
-      "url": "https://www.france24.com/en/ai-data-centers-become-surprise-issue-in-us-midterm-elections",
-      "published_date": "2026-09-01T19:35:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260902-un-civilian-flight-safety-russian-airspace-ukraine",
+      "published_date": "2026-09-02T22:46:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nepal glacier disaster toll passes 1,000 as calls for climate justice grow",
+      "title": "Palantir CEO Alex Karp says French restrictions on US software are ‘backfiring’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/technology/20260902-palantir-france-digital-sovereignty",
+      "published_date": "2026-09-02T22:13:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Venice Film Festival opens with George Clooney, Murdoch film and geopolitics",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/culture/20260902-venice-film-festival-clooney-murdoch-film-geopolitics",
+      "published_date": "2026-09-02T22:11:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Malta acquits tycoon Yorgen Fenech in investigative journalist's murder case",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260902-maltese-tycoon-acquitted-reporter-murder",
+      "published_date": "2026-09-02T21:56:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Outrage as Maltese tycoon acquitted of reporter Daphne Caruana Galizia's murder",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/outrage-as-maltese-tycoon-acquitted-of-reporter-daphne-caruana-galizia-s-murder",
+      "published_date": "2026-09-02T21:20:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran war: Old videos falsely claim to show new attacks on American bases",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-iran-war-old-videos-falsely-claim-to-show-new-attacks-on-american-bases-1",
+      "published_date": "2026-09-02T20:57:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky warns airlines Russian skies not safe due to Ukraine drones",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/zelensky-warns-airlines-russian-skies-not-safe-due-to-ukraine-drones",
+      "published_date": "2026-09-02T19:32:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-02T19:05:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli FM Gideon Sa'ar: 'I hope Iran will not make the mistake of attacking us'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260902-israeli-fm-gideon-sa-ar-i-hope-iran-will-not-make-the-mistake-of-attacking-us",
+      "published_date": "2026-09-02T17:49:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Clooney kicks off Venice as festival wades into war, Gaza and AI",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260901-himalayan-floods-sadness-and-anger-as-death-toll-passes-1-000-nepal-china-climate-change",
-      "published_date": "2026-09-01T17:51:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany blames Russia for Leipzig airport drone attack, orders Russian consulate closed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260901-germany-blames-russia-for-leipzig-airport-drone-attack-orders-russian-consulate-closed",
-      "published_date": "2026-09-01T17:00:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany set to blame Russia for airport explosive-laden drone incident",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260901-germany-set-to-blame-russia-for-airport-explosive-laden-drone-incident",
-      "published_date": "2026-09-01T15:35:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "German police investigating reported explosives at Brandenburg power substation – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
-      "published_date": "2026-09-01T15:19:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Even at Elysée, phones are handed in, Macron tells French pupils",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260901/even-at-elysee-phones-are-handed-in-macron-tells-french-pupils",
-      "published_date": "2026-09-01T14:13:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia’s return to G20 talks unsettles Europe as Iran and trade tensions loom",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260901-russia-s-return-to-g20-talks-unsettles-europe-as-iran-and-trade-tensions-loom",
-      "published_date": "2026-09-01T13:26:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/culture/20260902-what-else-venice-counting-on-clooney-to-inject-zest-into-film-fest",
+      "published_date": "2026-09-02T15:07:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "From North Korea to ICE: Photojournalist David Guttenfelder on the front lines in Minneapolis",
+      "title": "US oversees signing of ‘billions’ in deals between Venezuela and Chevron, ENI, GE",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260901-from-north-korea-to-ice-photojournalist-david-guttenfelder-on-the-front-lines-in-minneapolis",
-      "published_date": "2026-09-01T15:10:52+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/americas/20260902-us-oversees-signing-of-billions-in-deals-between-venezuela-and-chevron-eni-ge",
+      "published_date": "2026-09-02T20:54:24+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
-      "published_date": "2026-09-01T15:06:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine hopes for bolstered support as EU defence ministers meet in Dublin",
+      "title": "Chevron, Eni commit to expand oil projects in Venezuela under US eye",
       "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-hopes-for-bolstered-support-as-eu-defence-ministers-meet-in-dublin",
-      "published_date": "2026-09-01T13:34:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French Expression of the Day: Jour J",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260901/word-of-the-day-jour-j",
-      "published_date": "2026-09-01T12:28:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-01T11:55:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As capital goes back to normal, Niger downplays soldiers' mutiny",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260901-as-capital-goes-back-to-normal-niger-downplays-soldiers-mutiny",
-      "published_date": "2026-09-01T10:51:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Massive' Russian missile, drone attacks on Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260901-massive-russian-missile-drone-attacks-on-kyiv",
-      "published_date": "2026-09-01T10:50:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia fired over 2,800 drones at Ukraine in August amid war tactic change",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-fired-over-2-800-drones-at-ukraine-in-august-amid-war-tactic-change",
-      "published_date": "2026-09-01T09:49:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia targets Kyiv and its region for sixth consecutive night of attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-targets-kyiv-and-its-region-for-sixth-consecutive-night-of-attacks",
-      "published_date": "2026-09-01T09:39:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: Deadly Russian air attack hits energy and rail infrastructure in Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260901-live-deadly-russian-air-attack-hits-railway-depot-in-kyiv",
-      "published_date": "2026-09-01T06:04:26+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/chevron-eni-commit-to-expand-oil-projects-in-venezuela-under-us-eye",
+      "published_date": "2026-09-02T20:00:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "World set to breach 1.5C climate limit as UN urges rapid reversal",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Exclusive - French astronaut describes climate change as seen from space",
+      "title": "Kenyan editor found safe after abduction",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260827-exclusive-french-astronaut-describes-climate-change-as-seen-from-space-1",
-      "published_date": "2026-08-27T15:09:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Jellyfish force partial shutdown of French nuclear plant",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-27T14:49:23+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/kenyan-editor-found-safe-after-abduction",
+      "published_date": "2026-09-02T20:15:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "IMF reaches historical loan agreement with Senegal",
@@ -557,11 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "US-CANADA: Trump signs order renaming Lake Ontario to ‘Lake America’",
+      "title": "Minneapolis apartment shooting leaves three dead, multiple injured",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260828-us-canada-trump-signs-order-renaming-lake-ontario-to-lake-america",
-      "published_date": "2026-08-28T12:16:51+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/americas/20260903-minneapolis-apartment-shooting",
+      "published_date": "2026-09-03T00:01:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-02T21:34:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "🔴 Spanish report flags Moroccan police's 'total permissiveness' in Ceuta migrant rush",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260902-spanish-report-flags-moroccan-police-s-total-permissiveness-in-ceuta-migrant-rush",
+      "published_date": "2026-09-02T19:23:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French filmmakers and local fixer freed after weeks in Togo detention",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260902-french-filmmakers-and-local-fixer-freed-after-weeks-in-togo-detention",
+      "published_date": "2026-09-02T19:21:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Videos and debris raise questions over alleged US strike on Iranian wedding",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260902-videos-and-debris-raise-questions-over-alleged-us-strike-on-iranian-wedding",
+      "published_date": "2026-09-02T17:31:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leipzig airport attack fallout exposes Germany’s deepening divide over Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/02/leipzig-airport-attack-fallout-lays-bare-germanys-polarisation-on-russia",
+      "published_date": "2026-09-02T17:07:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Egypt welcomes Xi as Beijing expands influence in region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260902-egypt-welcomes-xi-as-beijing-expands-influence-in-region",
+      "published_date": "2026-09-02T15:33:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France's back-to-school challenges: Phones, payslips, pupils",
@@ -652,55 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/01/dozens-arrested-after-fatal-pre-dawn-shootout-in-dutch-village",
       "published_date": "2026-09-01T22:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africans missing in Nepal's glacial flood",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/south-africans-missing-in-nepal-s-glacial-flood",
-      "published_date": "2026-09-01T20:35:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "School without screens: Will France's high school phone ban fly?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260901-school-wihout-screens-will-france-s-high-school-phone-ban-fly",
-      "published_date": "2026-09-01T18:23:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US and Iran trade fire as hostilities flare again",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260901-us-and-iran-trade-fire-as-hostilities-flare-again",
-      "published_date": "2026-09-01T18:15:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DRC school year begins amid Ebola, strikes and conflict",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260901-drc-school-year-begins-amid-ebola-strikes-and-conflict",
-      "published_date": "2026-09-01T17:52:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 12 killed and over a dozen injured in Russian strikes on Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/at-least-12-killed-and-over-a-dozen-injured-in-russian-strikes-on-kyiv",
-      "published_date": "2026-09-01T14:56:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Child sex abuse scandals loom over France as pupils head back to school",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/child-sex-abuse-scandals-loom-over-france-as-pupils-head-back-to-school",
-      "published_date": "2026-09-01T14:54:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Controversial designer John Galliano cancels Met exhibition after backlash",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/controversial-designer-john-galliano-cancels-met-exhibition-after-backlash",
-      "published_date": "2026-09-01T14:28:29+00:00",
       "category": "Local Events"
     }
   ]
