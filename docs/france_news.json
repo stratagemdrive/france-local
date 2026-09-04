@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-09-04T00:42:08.917122+00:00",
+  "last_updated": "2026-09-04T14:42:57.779143+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
+      "published_date": "2026-09-04T14:29:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Struggling to make its voice heard: Can the EU forge a true foreign policy?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260904-struggling-to-make-its-voice-heard-can-the-eu-forge-a-true-foreign-policy",
+      "published_date": "2026-09-04T13:42:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "DRC eyes Jerusalem embassy as Tshisekedi seeks Israel's support",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260904-drc-eyes-jerusalem-embassy-as-tshisekedi-seeks-israel-s-support",
+      "published_date": "2026-09-04T13:40:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Five EU countries aim to send rejected migrants to 'return hubs' by 2027",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260904/five-eu-countries-aim-to-send-rejected-migrants-to-return-hubs-by-2027",
+      "published_date": "2026-09-04T13:24:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump raises doubts over support for Britain in Falklands dispute with Argentina",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260904-trump-raises-doubts-over-support-for-britain-in-falklands-dispute-with-argentina",
+      "published_date": "2026-09-04T12:46:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could Europe's border queues get longer this month as key EES date passes?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260904/could-europes-border-queues-get-longer-this-month-as-key-ees-date-passes",
+      "published_date": "2026-09-04T11:13:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Will the European Union take up the climate fight after brutal heatwaves?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260904/will-the-european-union-take-up-the-climate-fight-after-brutal-heatwaves",
+      "published_date": "2026-09-04T08:10:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France tests Tesla's self-driving tech as Europe moves closer to autonomous cars",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260904-france-tests-tesla-self-driving-tech-as-europe-moves-closer-to-autonomous-cars",
+      "published_date": "2026-09-04T04:57:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "WMO chief says El Nino could be strongest in four decades",
       "source": "France 24",
@@ -88,60 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "White House pressures US companies to ditch Paris space summit",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260903/white-house-pressures-us-companies-to-ditch-paris-space-summit",
-      "published_date": "2026-09-03T06:27:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU suspends Brazilian meat imports over antibiotic concerns",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260903-eu-suspends-brazilian-meat-imports-over-antibiotic-concerns",
-      "published_date": "2026-09-03T04:54:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
-      "published_date": "2026-09-02T23:47:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
-      "published_date": "2026-09-02T21:30:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bayeux tapestry loan symbolises ‘entente amicale’ between France and UK, says King Charles",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/02/bayeux-tapestry-loan-symbolises-entente-amicale-between-france-and-uk-says-king-charles",
-      "published_date": "2026-09-02T18:58:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU summons Russian envoy, eyes sanctions after Germany drone 'attack'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260902-eu-summons-russian-envoy-eyes-sanctions-after-germany-drone-attack",
-      "published_date": "2026-09-02T18:50:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T17:21:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia blamed for explosive-laden drone found at German airport",
+      "title": "Russian drone ‘aimed directly’ at Ukraine security service HQ, Zelensky says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260902-russia-blamed-for-explosive-laden-drone-found-at-german-airport",
-      "published_date": "2026-09-02T16:11:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260904-russian-drone-aimed-directly-at-ukraine-security-service-hq-zelensky-says",
+      "published_date": "2026-09-04T13:59:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Meloni celebrates milestone as Italy's longest-lasting government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260904-meloni-celebrates-milestone-as-italy-s-longest-lasting-government",
+      "published_date": "2026-09-04T13:50:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army has seized Lebanon's key Ali al-Taher ridge from Hezbollah",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260904-israel-says-it-has-seized-lebanon-key-ali-al-taher-ridge-from-hezbollah",
+      "published_date": "2026-09-04T13:27:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What does acquittal in the Daphne Caruana Galizia case mean for journalists?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/scoop/20260904-what-does-acquittal-in-the-daphne-caruana-galizia-case-mean-for-journalists",
+      "published_date": "2026-09-04T13:07:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli minister unveils plan to remove Gaza's population over seven years",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260904-israeli-minister-unveils-plan-to-remove-gaza-s-population-over-seven-years",
+      "published_date": "2026-09-04T12:43:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New fears of oil supply disruption as US-Iran hostilities resume",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260904-new-fears-of-oil-supply-disruption-as-us-iran-hostilities-resume",
+      "published_date": "2026-09-04T09:56:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German far right's breakout moment? AfD party eyes outright win in regional election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260904-german-far-right-s-breakout-moment-afd-party-eyes-outright-win-in-regional-election",
+      "published_date": "2026-09-04T09:29:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Astronomical’ fuel price surge hits farmers in UK and US",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/04/fuel-price-surge-diesel-farmers-uk-us",
+      "published_date": "2026-09-04T09:00:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "When does rage help us, and when does it harm us? Ukraine has taught me the answers | Charlotte Higgins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/04/ukraine-artists-rage-requiem-resistance-literature-homer",
+      "published_date": "2026-09-04T07:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe calls out Russia’s ‘hybrid war’ in public. But how can it make Putin pay?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/04/europe-weighs-solutions-to-curtail-russias-growing-hybrid-warfare",
+      "published_date": "2026-09-04T05:00:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Nvidia to buy Hugging Face for $12.93 billion in major AI expansion",
@@ -214,74 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Putin's 'global battle' against US, NATO: Russia 'testing' NATO since 2022 Ukraine invasion began",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260903-putin-s-global-battle-against-us-nato-russia-testing-nato-since-2022-ukraine-invasion-began",
-      "published_date": "2026-09-03T10:26:42+00:00",
-      "category": "Military"
+      "title": "France unveils €1bn farm aid package after climate-hit summer",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260904/france-unveils-e1bn-farm-aid-package-after-climate-hit-summer",
+      "published_date": "2026-09-04T14:38:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Meloni government sets longevity record in Italy",
+      "title": "Unearthing her story: The rise of women archaeologists",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260903-meloni-government-sets-longevity-record-in-italy",
-      "published_date": "2026-09-03T10:11:05+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/the-51/20260904-unearthing-her-story-the-rise-of-women-archaeologists",
+      "published_date": "2026-09-04T13:17:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The wars in Ukraine and Iran are becoming dangerously enmeshed | Christopher S Chivvis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ukraine-iran-wars-trump",
-      "published_date": "2026-09-03T10:00:50+00:00",
-      "category": "Military"
+      "title": "UK reasserts Falklands sovereignty amid Milei claim and Trump comments",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260904-uk-reasserts-falklands-sovereignty-amid-milei-claim-and-trump-comments",
+      "published_date": "2026-09-04T12:44:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Brazilian justice faces pressure for alleged links to disgraced banker",
+      "title": "Argentina's Milei escalates Falklands dispute in sovereignty push against Britain",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260903-brazilian-justice-faces-pressure-for-alleged-links-to-disgraced-banker",
-      "published_date": "2026-09-03T09:59:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine warns Russian airspace ‘not safe’ in message to UN aviation watchdog",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260902-un-civilian-flight-safety-russian-airspace-ukraine",
-      "published_date": "2026-09-02T22:46:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palantir CEO Alex Karp says French restrictions on US software are ‘backfiring’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20260902-palantir-france-digital-sovereignty",
-      "published_date": "2026-09-02T22:13:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Venice Film Festival opens with George Clooney, Murdoch film and geopolitics",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260902-venice-film-festival-clooney-murdoch-film-geopolitics",
-      "published_date": "2026-09-02T22:11:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Malta acquits tycoon Yorgen Fenech in investigative journalist's murder case",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260902-maltese-tycoon-acquitted-reporter-murder",
-      "published_date": "2026-09-02T21:56:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Outrage as Maltese tycoon acquitted of reporter Daphne Caruana Galizia's murder",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/outrage-as-maltese-tycoon-acquitted-of-reporter-daphne-caruana-galizia-s-murder",
-      "published_date": "2026-09-02T21:20:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Iran war: Old videos falsely claim to show new attacks on American bases",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-iran-war-old-videos-falsely-claim-to-show-new-attacks-on-american-bases-1",
-      "published_date": "2026-09-02T20:57:27+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260904-argentina-s-milei-escalates-falklands-dispute-in-sovereignty-push-against-britain",
+      "published_date": "2026-09-04T10:07:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "US energy firms dominate Venezuela deals worth billions",
@@ -396,32 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "The Guardian view on rare earths: it’s common sense to secure essential supply chains | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-rare-earths-its-common-sense-to-secure-essential-supply-chains",
-      "published_date": "2026-08-30T16:30:01+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Still dancing at 88, Mali’s Mariam Bagayoko keeps tradition alive",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260830-still-dancing-at-88-mali-s-mariam-bagayoko-keeps-tradition-alive",
-      "published_date": "2026-08-30T14:33:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US and Venezuela seal 25-year oil deal",
+      "title": "Strength of Meloni less linked to policy, more about her party's dominance within govt coalition",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-and-venezuela-seal-25-year-oil-deal",
-      "published_date": "2026-08-30T11:34:36+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/strength-of-meloni-less-linked-to-policy-more-about-her-party-s-dominance-within-govt-coalition",
+      "published_date": "2026-09-04T13:24:39+00:00",
+      "category": "Economy"
     },
     {
-      "title": "US to control one fifth of Venezuela's oil reserves, Trump says",
+      "title": "'Moroccans are desperate: Years of political crackdown and lack of economic opportunities'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-to-control-one-fifth-of-venezuela-s-oil-reserves-trump-says",
-      "published_date": "2026-08-29T08:55:18+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260904-moroccans-are-desperate-years-of-political-crackdown-and-lack-of-economic-opportunities",
+      "published_date": "2026-09-04T12:30:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-04T07:00:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Volkswagen to cut another 50,000 jobs to counter tariffs and Chinese competition",
@@ -543,25 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "After 'unprecedented honeymoon', UK PM faces lawmakers for first time",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/after-unprecedented-honeymoon-uk-pm-faces-lawmakers-for-first-time",
-      "published_date": "2026-09-01T15:10:30+00:00",
-      "category": "Economy"
+      "title": "Woman, 45, killed in Florence in seventh alleged femicide in Italy since mid-August",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/04/lorena-isceri-killed-in-florence-femicide-italy",
+      "published_date": "2026-09-04T13:56:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ghana cocoa farmers reject new 'punitive' land conversion law",
+      "title": "Nepal floods: Two workers pulled alive from tunnel after nine days",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260901-ghana-cocoa-farmers-reject-new-punitive-land-conversion-law",
-      "published_date": "2026-09-01T14:05:13+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260904-nepal-floods-two-workers-pulled-alive-from-tunnel-after-nine-days",
+      "published_date": "2026-09-04T13:54:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Russia's G20 US invitation severely criticised by European countries",
+      "title": "Paris families sue mayor over alleged child abuse in after-school care",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260904-paris-families-sue-mayor-gregoire-hidalgo-over-alleged-child-abuse-in-after-school-care",
+      "published_date": "2026-09-04T10:27:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drones, teargas, riot squads: why has the UK gone to war against asylum seekers already fleeing conflict? | Diane Taylor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/04/drones-teargas-riot-squads-uk-war-asylum-seekers-burnham-macron",
+      "published_date": "2026-09-04T10:21:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How France and Britain’s far right are building a populist ‘entente cordiale’",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260904-how-france-and-britain-s-far-right-are-building-populist-entente-cordiale-farage-bardella",
+      "published_date": "2026-09-04T08:27:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tunisia court upholds long sentences in mass trial of opposition figures",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260904-tunisia-court-upholds-long-sentences-in-mass-trial-of-opposition-figures-saied-authoritarian-rule",
+      "published_date": "2026-09-04T07:21:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French mayor bans 'exasperating' tiger mosquitoes",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260904/french-mayor-bans-exasperating-tiger-mosquitoes",
+      "published_date": "2026-09-04T07:10:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Pragmatic international relations': Sánchez seeks to avoid 'further conflict with Rabat'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/russia-s-g20-us-invitation-severely-criticised-by-european-countries",
-      "published_date": "2026-09-01T13:48:34+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260904-pragmatic-international-relations-s%C3%A1nchez-seeks-to-avoid-further-conflict-with-rabat",
+      "published_date": "2026-09-04T05:22:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tunisia court upholds prison sentences of up to 45 years for opposition figures",
@@ -645,62 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/press-review/20260903-supreme-court-corruption-scandal-rocks-brazil",
       "published_date": "2026-09-03T10:42:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenyan editor found safe after abduction by armed men",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260903-kenyan-editor-found-safe-after-abduction-by-armed-men",
-      "published_date": "2026-09-03T10:29:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France asserts sovereignty over disputed Pacific islands as Vanuatu turns to ICJ",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260903-france-asserts-claim-on-disputed-pacific-islands-as-vanuatu-appeals-to-icj",
-      "published_date": "2026-09-03T10:22:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No 'solid proof' Morocco planned Ceuta migrant rush, says Spanish PM Sanchez",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260903-spanish-pm-sanchez-says-no-solid-proof-morocco-planned-ceuta-migrant-rush",
-      "published_date": "2026-09-03T08:18:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PODCAST 🎧: Le Pen's 'vile' election pledge and why French cheese could lose its taste",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260903/podcast-le-pens-vile-election-pledge-and-why-french-cheese-could-lose-its-taste",
-      "published_date": "2026-09-03T06:10:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wife of British man at risk of deportation from Sweden calls on Burnham to intervene",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/03/wife-of-british-man-at-risk-of-deportation-from-sweden-calls-on-burnham-to-intervene",
-      "published_date": "2026-09-03T06:00:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The people of France are in an extraordinary funk about their future – here’s why | Paul Taylor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/people-france-future-emmanuel-macron",
-      "published_date": "2026-09-03T04:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minneapolis apartment shooting leaves three dead, multiple injured",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260903-minneapolis-apartment-shooting",
-      "published_date": "2026-09-03T00:01:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T21:34:27+00:00",
       "category": "Local Events"
     }
   ]
