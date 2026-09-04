@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-09-03T14:50:25.074846+00:00",
+  "last_updated": "2026-09-04T00:42:08.917122+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "WMO chief says El Nino could be strongest in four decades",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260903-wmo-chief-says-el-nino-could-be-strongest-in-four-decades",
+      "published_date": "2026-09-03T16:11:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham and Macron agree to scale up action on small boats",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-03T15:46:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France-UK ties and humour celebrated as London receives Bayeux Tapestry",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260903-france-uk-ties-and-humour-celebrated-as-london-receives-bayeux-tapestry-1",
+      "published_date": "2026-09-03T15:27:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rise of far-right Vannacci poses dilemma for Meloni as she celebrates Italian milestone",
       "source": "The Guardian",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia increasingly reckless, says Nato’s Rutte as Germany blames Moscow for Leipzig drone incident – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
-      "published_date": "2026-09-02T14:43:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T14:34:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French president to open Bayeux Tapestry exhibition as he starts UK visit",
+      "title": "Nvidia to buy Hugging Face for $12.93 billion in major AI expansion",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260902-french-president-to-open-bayeux-tapestry-exhibition-as-he-starts-uk-visit",
-      "published_date": "2026-09-02T14:06:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/technology/20260903-nvidia-to-buy-hugging-face-for-12-93-billion-in-major-ai-expansion",
+      "published_date": "2026-09-03T21:34:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two Palestinian teens killed in West Bank raid by Israeli settlers and army",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260903-two-palestinian-teens-killed-in-west-bank-raid-by-israeli-settlers-and-army",
+      "published_date": "2026-09-03T16:09:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Ukraine’s drained Kakhovka Dam is strategic for Russia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260903-why-ukraine-drained-kakhovka-dam-strategic-russia",
+      "published_date": "2026-09-03T15:34:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Giorgia Meloni government becomes Italy's longest-lasting since World War II",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260903-giorgia-meloni-government-becomes-italy-s-longest-lasting-since-world-war-ii",
+      "published_date": "2026-09-03T15:29:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Murder of Daphne Caruana Galizia: Campaigner 'devastated' at tycoon's acquittal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/i-m-devastated-by-the-verdict-says-tom-gibson-deputy-dir-for-committee-to-protect-journalists",
+      "published_date": "2026-09-03T15:15:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EU’s ability to defend against invasion remains in doubt, finds official report",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/03/eu-defence-readiness-eca-auditors-us-reliance",
+      "published_date": "2026-09-03T15:09:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Outrage mounts in Malta after acquittal over journalist's murder",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260903-outrage-mounts-in-malta-after-acquittal-over-journalist-s-murder",
+      "published_date": "2026-09-03T15:07:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Please welcome the newest member to our team: The AI agent",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Zelensky warns airlines Russian skies not safe due to Ukraine drones",
+      "title": "US energy firms dominate Venezuela deals worth billions",
       "source": "France 24",
-      "url": "https://www.france24.com/en/zelensky-warns-airlines-russian-skies-not-safe-due-to-ukraine-drones",
-      "published_date": "2026-09-02T19:32:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T19:05:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli FM Gideon Sa'ar: 'I hope Iran will not make the mistake of attacking us'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260902-israeli-fm-gideon-sa-ar-i-hope-iran-will-not-make-the-mistake-of-attacking-us",
-      "published_date": "2026-09-02T17:49:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Clooney kicks off Venice as festival wades into war, Gaza and AI",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260902-what-else-venice-counting-on-clooney-to-inject-zest-into-film-fest",
-      "published_date": "2026-09-02T15:07:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy",
-      "published_date": "2026-09-02T14:32:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Xi calls on Mideast nations to be ‘masters of their own affairs’ in rare Egypt visit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260902-xi-calls-on-mideast-nations-to-be-masters-of-their-own-affairs-in-rare-egypt-visit",
-      "published_date": "2026-09-02T14:22:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ryanair to cut winter flights in Europe to save on fuel costs",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260902/ryanair-to-cut-winter-flights-in-europe-to-save-on-fuel-costs",
-      "published_date": "2026-09-02T13:48:42+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260903-us-energy-firms-dominate-venezuela-deals-worth-billions",
+      "published_date": "2026-09-03T16:06:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "Norway seizes Russian ship to enforce $4.22 billion Ukrainian compensation claim",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "‘Winter panic’: EU gas stores at their lowest level in 13 years",
+      "title": "Volkswagen to cut another 50,000 jobs to counter tariffs and Chinese competition",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/technology/20260904-volkswagen-to-cut-another-50-000-jobs-to-counter-tariffs-and-chinese-competition",
+      "published_date": "2026-09-04T00:34:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Volkswagen announces it will cut 100,000 jobs by 2030",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price",
-      "published_date": "2026-08-29T05:00:19+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
+      "published_date": "2026-09-03T22:30:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El Niño weather phenomenon set to deliver massive blow to global economy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260903-el-ni%C3%B1o-weather-phenomenon-set-to-deliver-massive-blow-to-global-economy",
+      "published_date": "2026-09-03T19:52:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France agriculture production sees economic hit from heatwaves",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260903-france-agriculture-production-sees-economic-hit-from-heatwaves",
+      "published_date": "2026-09-03T16:05:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "Badenoch condemns Reform UK’s ‘authoritarian’ press bans – UK politics live",
@@ -536,32 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "From labels to Netflix, how Quebec's fight to protect French collides with US trade",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260901-from-labels-to-netflix-how-quebec-s-fight-to-protect-french-collides-with-us-trade",
-      "published_date": "2026-09-01T13:27:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Man City sign Fernandez, Ndiaye as Premier League spending hits record",
+      "title": "Tunisia court upholds prison sentences of up to 45 years for opposition figures",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260901-man-city-sign-fernandez-ndiaye-as-premier-league-spending-hits-record",
-      "published_date": "2026-09-01T09:25:13+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/africa/20260903-tunisia-court-upholds-prison-sentences-of-up-to-45-years-for-opposition-figures",
+      "published_date": "2026-09-03T22:17:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Madrid residents brace for noise and disruption from new F1 circuit",
+      "title": "‘Fight through darkness, water’: Nepal survivor recounts escape from flood-hit tunnel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260903-fight-through-darkness-water-nepal-survivor-recounts-escape-from-flood-hit-tunnel",
+      "published_date": "2026-09-03T17:22:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-03T16:32:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish PM Sanchez says no evidence Morocco orchestrated Ceuta border surge",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260903-spanish-pm-sanchez-says-no-evidence-morocco-orchestrated-ceuta-border-surge",
+      "published_date": "2026-09-03T15:10:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/01/madrid-f1-circuit-noise-levels-madring",
-      "published_date": "2026-09-01T04:00:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PM Lecornu opens political season as French government returns from summer break",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260831-pm-lecornu-opens-political-season-as-french-government-returns-from-summer-break",
-      "published_date": "2026-08-31T07:04:19+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters",
+      "published_date": "2026-09-03T15:00:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "A 'Lille' bit of everything at Europe's biggest flea market",
@@ -666,41 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-02T21:34:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "🔴 Spanish report flags Moroccan police's 'total permissiveness' in Ceuta migrant rush",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260902-spanish-report-flags-moroccan-police-s-total-permissiveness-in-ceuta-migrant-rush",
-      "published_date": "2026-09-02T19:23:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French filmmakers and local fixer freed after weeks in Togo detention",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260902-french-filmmakers-and-local-fixer-freed-after-weeks-in-togo-detention",
-      "published_date": "2026-09-02T19:21:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Videos and debris raise questions over alleged US strike on Iranian wedding",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260902-videos-and-debris-raise-questions-over-alleged-us-strike-on-iranian-wedding",
-      "published_date": "2026-09-02T17:31:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leipzig airport attack fallout exposes Germany’s deepening divide over Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/02/leipzig-airport-attack-fallout-lays-bare-germanys-polarisation-on-russia",
-      "published_date": "2026-09-02T17:07:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Egypt welcomes Xi as Beijing expands influence in region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260902-egypt-welcomes-xi-as-beijing-expands-influence-in-region",
-      "published_date": "2026-09-02T15:33:43+00:00",
       "category": "Local Events"
     }
   ]
