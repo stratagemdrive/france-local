@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-09-05T00:35:14.873319+00:00",
+  "last_updated": "2026-09-05T13:38:45.003018+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Paris 'Dragon Ball' theme park in doubt as Japanese owners deny granting licence",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/business/20260905-paris-dragon-ball-theme-park-in-doubt-as-japanese-owners-deny-granting-licence",
+      "published_date": "2026-09-05T13:14:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN backs effort to drop Mercator map and show size of Africa more accurately",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260905-un-backs-effort-to-drop-mercator-map-and-show-size-of-africa-more-accurately",
+      "published_date": "2026-09-05T10:41:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU to help cities clamp down on tourist rentals",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260905/eu-to-help-cities-clamp-down-on-tourist-rentals",
+      "published_date": "2026-09-05T06:38:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why the Bayeux tapestry and Franco-British relations are natural bedfellows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/05/why-bayeux-tapestry-franco-british-politics-natural-bedfellows",
+      "published_date": "2026-09-05T05:00:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France drops Mercator maps as Africa pushes for truer world view",
       "source": "RFI English",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rise of far-right Vannacci poses dilemma for Meloni as she celebrates Italian milestone",
+      "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/03/roberto-vannacci-far-right-party-futuro-nazionale-dilemma-meloni",
-      "published_date": "2026-09-03T14:25:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
+      "published_date": "2026-09-05T11:00:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "France's Macron meets UK PM Burnham at Downing Street",
+      "title": "Trump sends envoys to Moscow, Kyiv with new plan to 'end war'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260903-france-s-macron-meets-uk-pm-burnham-at-downing-street",
-      "published_date": "2026-09-03T13:45:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260905-trump-sends-envoys-to-moscow-kyiv-with-new-plan-to-end-war",
+      "published_date": "2026-09-05T09:15:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Ceuta border breach was leapt on by Europe’s right. That doesn’t absolve Spain | María Ramírez",
+      "title": "Middle East live: Explosions of unknown origin heard near Iran's Kharg Island",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260905-middle-east-live-israeli-strikes-on-south-and-east-lebanon-kill-three-people",
+      "published_date": "2026-09-05T05:01:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin orders 72-hour halt in strikes on Kyiv as Trump envoys arrive in Moscow",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260905-trump-sends-envoys-to-moscow-and-kyiv-with-new-plan-to-end-the-war",
+      "published_date": "2026-09-05T02:37:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy calls air truce as Kushner and Witkoff head for Kyiv via Moscow",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/ceuta-border-breach-spain-response-europe",
-      "published_date": "2026-09-03T13:29:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "British, French leaders hold talks on migrants and EU relations",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260903-british-french-leaders-hold-talks-on-migrants-eu-relations",
-      "published_date": "2026-09-03T11:46:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/05/ukraine-war-briefing-zelenskyy-calls-air-truce-as-kushner-and-witkoff-head-for-kyiv-via-moscow",
+      "published_date": "2026-09-05T01:35:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
@@ -246,41 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/sep/04/fuel-price-surge-diesel-farmers-uk-us",
       "published_date": "2026-09-04T09:00:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Power party: Italy’s Meloni marks record as PM with major festivities",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260904-italy-s-meloni-throws-party-to-celebrate-record-in-power",
-      "published_date": "2026-09-04T08:31:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "When does rage help us, and when does it harm us? Ukraine has taught me the answers | Charlotte Higgins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/04/ukraine-artists-rage-requiem-resistance-literature-homer",
-      "published_date": "2026-09-04T07:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe calls out Russia’s ‘hybrid war’ in public. But how can it make Putin pay?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/04/europe-weighs-solutions-to-curtail-russias-growing-hybrid-warfare",
-      "published_date": "2026-09-04T05:00:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nvidia to buy Hugging Face for $12.93 billion in major AI expansion",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20260903-nvidia-to-buy-hugging-face-for-12-93-billion-in-major-ai-expansion",
-      "published_date": "2026-09-03T21:34:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Palestinian teens killed in West Bank raid by Israeli settlers and army",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260903-two-palestinian-teens-killed-in-west-bank-raid-by-israeli-settlers-and-army",
-      "published_date": "2026-09-03T16:09:45+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Data-rich systems and weak security: why France is a target for cyberattacks",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260905-data-rich-systems-and-weak-security-why-france-is-a-target-for-cyberattacks",
+      "published_date": "2026-09-05T07:41:10+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Strength of Meloni less linked to policy, more about her party's dominance within govt coalition",
       "source": "France 24",
       "url": "https://www.france24.com/en/strength-of-meloni-less-linked-to-policy-more-about-her-party-s-dominance-within-govt-coalition",
@@ -557,11 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister – as it happened",
+      "title": "'Mini-dictatorship': Students slam Argentina-run residence in Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260905/mini-dictatorship-students-slam-argentina-run-residence-in-paris",
+      "published_date": "2026-09-05T13:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Nepal rescues revive hopes 10 days after flood",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-two-nepal-rescues-revive-hopes-10-days-after-flood",
+      "published_date": "2026-09-05T12:47:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DR Congo: Ebola burial teams race against time",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-dr-congo-ebola-burial-teams-race-against-time",
+      "published_date": "2026-09-05T12:24:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US ambassador to Israel visits Palestinian town hit by West Bank settler violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260905-us-ambassador-to-israel-visits-palestinian-town-hit-by-west-bank-settler-violence",
+      "published_date": "2026-09-05T12:19:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bangladesh measles toll nears grim 1,000-child mark",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-bangladesh-measles-toll-nears-grim-1-000-child-mark",
+      "published_date": "2026-09-05T12:18:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'I don't know if I'm dreaming': Rebuilding lives after Nepal's devastating floods",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260905-i-dont-know-if-im-dreaming-rebuilding-lives-after-nepal-devastating-floods",
+      "published_date": "2026-09-05T10:16:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: AfD eyes historic state election win",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-germany-afd-eyes-historic-state-election-win",
+      "published_date": "2026-09-05T09:58:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nepal: Temporary education centres help flood-displaced children",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-nepal-temporary-education-centres-help-flood-displaced-children",
+      "published_date": "2026-09-05T09:20:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Monaco rally to edge winless PSG and reclaim top spot",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260905-monaco-rally-to-edge-winless-psg-and-reclaim-top-spot",
+      "published_date": "2026-09-05T09:16:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
-      "published_date": "2026-09-01T17:52:31+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
+      "published_date": "2026-09-05T09:16:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG boss Enrique plays down slow start to Ligue 1 campaign after Monaco defeat",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260905-psg-boss-enrique-plays-down-slow-start-to-ligue-1-campaign-after-monaco-defeat",
+      "published_date": "2026-09-05T09:00:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside France: The place of cous cous and the hijab in modern French life",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260905/inside-france-the-place-of-cous-cous-and-the-hijab-in-modern-french-life",
+      "published_date": "2026-09-05T07:13:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Every girl now wants to be a boxer’: excitement in Katie Taylor’s home town for her valedictory bout",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/05/katie-taylor-boxing-valedictory-bout-croke-park-ireland",
+      "published_date": "2026-09-05T04:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Then who or what did we cremate?’ Daughter’s horror at finding bones in British wildfire victims’ car",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/remains-british-wildfire-victims-spain",
+      "published_date": "2026-09-05T04:00:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel's West Bank camp displacements could be crime against humanity, UN says",
@@ -603,104 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/04/lorena-isceri-killed-in-florence-femicide-italy",
       "published_date": "2026-09-04T13:56:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal floods: Two workers pulled alive from tunnel after nine days",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260904-nepal-floods-two-workers-pulled-alive-from-tunnel-after-nine-days",
-      "published_date": "2026-09-04T13:54:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris families sue mayor over alleged child abuse in after-school care",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260904-paris-families-sue-mayor-gregoire-hidalgo-over-alleged-child-abuse-in-after-school-care",
-      "published_date": "2026-09-04T10:27:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drones, teargas, riot squads: why has the UK gone to war against asylum seekers already fleeing conflict? | Diane Taylor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/04/drones-teargas-riot-squads-uk-war-asylum-seekers-burnham-macron",
-      "published_date": "2026-09-04T10:21:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How France and Britain’s far right are building a populist ‘entente cordiale’",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260904-how-france-and-britain-s-far-right-are-building-populist-entente-cordiale-farage-bardella",
-      "published_date": "2026-09-04T08:27:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tunisia court upholds long sentences in mass trial of opposition figures",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260904-tunisia-court-upholds-long-sentences-in-mass-trial-of-opposition-figures-saied-authoritarian-rule",
-      "published_date": "2026-09-04T07:21:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French mayor bans 'exasperating' tiger mosquitoes",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260904/french-mayor-bans-exasperating-tiger-mosquitoes",
-      "published_date": "2026-09-04T07:10:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Pragmatic international relations': Sánchez seeks to avoid 'further conflict with Rabat'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260904-pragmatic-international-relations-s%C3%A1nchez-seeks-to-avoid-further-conflict-with-rabat",
-      "published_date": "2026-09-04T05:22:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tunisia court upholds prison sentences of up to 45 years for opposition figures",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260903-tunisia-court-upholds-prison-sentences-of-up-to-45-years-for-opposition-figures",
-      "published_date": "2026-09-03T22:17:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Fight through darkness, water’: Nepal survivor recounts escape from flood-hit tunnel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260903-fight-through-darkness-water-nepal-survivor-recounts-escape-from-flood-hit-tunnel",
-      "published_date": "2026-09-03T17:22:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-03T16:32:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish PM Sanchez says no evidence Morocco orchestrated Ceuta border surge",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260903-spanish-pm-sanchez-says-no-evidence-morocco-orchestrated-ceuta-border-surge",
-      "published_date": "2026-09-03T15:10:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters",
-      "published_date": "2026-09-03T15:00:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A 'Lille' bit of everything at Europe's biggest flea market",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260903-a-lille-bit-of-everything-at-europe-s-biggest-flea-market",
-      "published_date": "2026-09-03T14:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ceuta crisis: ‘No evidence Morocco behind border surge’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260903-ceuta-crisis-no-evidence-morocco-behind-border-surge-1",
-      "published_date": "2026-09-03T13:05:29+00:00",
       "category": "Local Events"
     }
   ]
