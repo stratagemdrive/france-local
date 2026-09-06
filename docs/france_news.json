@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-09-06T00:32:03.521520+00:00",
+  "last_updated": "2026-09-06T13:54:17.006070+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Travellers to EU face renewed queues as border-check flexibility rules expire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/06/travellers-eu-queues-border-check-flexibility-rules-expire-entry-exit-system-ees",
+      "published_date": "2026-09-06T05:00:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN approves resolution in support of map that shows Africa's true size",
       "source": "France 24",
@@ -137,11 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France tests Tesla's self-driving tech as Europe moves closer to autonomous cars",
+      "title": "AI: The future of smart households?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260906-ai-the-future-of-smart-households",
+      "published_date": "2026-09-06T13:50:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany: Why is the AfD so popular in Saxony-Anhalt?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260906-germany-why-is-the-afd-so-popular-in-saxony-anhalt",
+      "published_date": "2026-09-06T13:37:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US envoys Witkoff and Kushner arrive in Kyiv after talks with Putin in Russia",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260904-france-tests-tesla-self-driving-tech-as-europe-moves-closer-to-autonomous-cars",
-      "published_date": "2026-09-04T04:57:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260906-us-envoys-witkoff-and-kushner-arrive-in-kyiv-after-talks-with-putin-in-russia",
+      "published_date": "2026-09-06T13:31:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-06T13:16:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+      "published_date": "2026-09-06T13:05:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Commemoration held for late Bosnian Serb war criminal Ratko Mladic",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260906-commemoration-held-for-late-bosnian-serb-war-criminal-ratko-mladic",
+      "published_date": "2026-09-06T12:52:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Army Secretary Dan Driscoll quits: \"What we've seen is almost a factional clash\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260906-us-army-secretary-dan-driscoll-quits-what-we-ve-seen-is-almost-a-factional-clash",
+      "published_date": "2026-09-06T11:34:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French thriller Jupiter brings nuclear anxiety to red carpets of Venice",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/06/jupiter-alexandre-smia-nato-disintegration-russia-ire-far-right",
+      "published_date": "2026-09-06T10:37:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes kill four in Lebanon after alleged Hezbollah drone launch",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260906-israeli-strikes-kill-four-in-lebanon-after-alleged-hezbollah-drone-launch",
+      "published_date": "2026-09-06T08:49:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'A bad sign': US envoys head to Kyiv after three-hour talks with Putin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/a-bad-sign-us-envoys-head-to-kyiv-after-three-hour-talks-with-putin",
+      "published_date": "2026-09-06T06:18:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany's far-right AfD eyes historic state victory in Saxony-Anhalt election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-eyes-historic-state-victory-in-saxony-anhalt-election",
+      "published_date": "2026-09-06T05:52:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Live: Trump's envoys arrive in Kyiv after 'substantive' talks with Putin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260906-live-trump-s-envoys-head-to-ukraine-after-substantive-talks-with-putin",
+      "published_date": "2026-09-06T04:57:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T23:54:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Putin begins talks with Steve Witkoff and Jared Kushner on ending war with Ukraine",
@@ -193,95 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "A nation trapped: photographing the broken promises of Sudan's revolution",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260905-war-in-sudan-a-nation-trapped-photographer-abdulmonam-eassa-visa-pour-image",
-      "published_date": "2026-09-05T14:15:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
+      "title": "Does your life feel out of control? Maybe you need some ‘pyt’ | Polly Hudson",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
-      "published_date": "2026-09-05T11:00:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump sends envoys to Moscow, Kyiv with new plan to 'end war'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260905-trump-sends-envoys-to-moscow-kyiv-with-new-plan-to-end-war",
-      "published_date": "2026-09-05T09:15:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East live: Explosions of unknown origin heard near Iran's Kharg Island",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260905-middle-east-live-israeli-strikes-on-south-and-east-lebanon-kill-three-people",
-      "published_date": "2026-09-05T05:01:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin orders 72-hour halt in strikes on Kyiv as Trump envoys arrive in Moscow",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260905-trump-sends-envoys-to-moscow-and-kyiv-with-new-plan-to-end-the-war",
-      "published_date": "2026-09-05T02:37:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy calls air truce as Kushner and Witkoff head for Kyiv via Moscow",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/05/ukraine-war-briefing-zelenskyy-calls-air-truce-as-kushner-and-witkoff-head-for-kyiv-via-moscow",
-      "published_date": "2026-09-05T01:35:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-04T23:07:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uber withdraws from Nigeria",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uber-withdraws-from-nigeria",
-      "published_date": "2026-09-04T20:39:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany’s ‘Most Dangerous Man’: PR gift for the AfD?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260904-germany-s-most-dangerous-man-pr-gift-for-the-afd",
-      "published_date": "2026-09-04T18:31:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How China’s Paracel expansion extends its military reach towards Vietnam",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260904-how-china-s-paracel-expansion-extends-its-military-reach-towards-vietnam-paracel-islands",
-      "published_date": "2026-09-04T16:07:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
-      "published_date": "2026-09-04T15:37:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Le Pen party sparks furore with ‘turn off tap’ to Ukraine call",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260904/le-pen-party-sparks-furore-with-turn-off-tap-to-ukraine-call",
-      "published_date": "2026-09-04T14:52:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly escalation in Black Sea attacks prompts fears of even higher food prices",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine",
-      "published_date": "2026-09-04T14:35:16+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/06/danish-pyt-concept-life-philosophy",
+      "published_date": "2026-09-06T04:00:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "German power grid sabotage attack linked to ‘climate extremism’",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Alejandro Betancourt, the controversial Venezuelan oil tycoon Trump is banking on",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260901-alejandro-betancourt-the-controversial-venezuelan-oil-tycoon-trump-is-banking-on",
-      "published_date": "2026-09-01T15:05:21+00:00",
-      "category": "Energy"
+      "title": "Some Americans call us ‘Europoor’ - but there are seven ways we’re exceedingly rich | Emma Beddington",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/06/some-americans-call-us-europoor-seven-ways-we-are-exceedingly-rich",
+      "published_date": "2026-09-06T13:00:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Turkey seeks Black Sea shipping deal as attacks threaten grain trade",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260906-turkey-seeks-black-sea-shipping-deal-as-attacks-threaten-grain-trade",
+      "published_date": "2026-09-06T10:30:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Data-rich systems and weak security: why France is a target for cyberattacks",
@@ -550,18 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Burnham pledges to restore hope as he makes his House of Commons debut as UK leader",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/burnham-pledges-to-restore-hope-as-he-makes-his-house-of-commons-debut-as-uk-leader",
-      "published_date": "2026-09-01T20:54:34+00:00",
-      "category": "Economy"
+      "title": "France's school uniform experiment unravels with only mixed results",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260906-france-s-school-uniform-experiment-unravels-with-only-mixed-results-2",
+      "published_date": "2026-09-06T13:52:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Football: Europe's top clubs scramble for last-minute signings",
+      "title": "German startup sends first commercial rocket into space from Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
+      "published_date": "2026-09-06T13:21:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia's Anak Krakatau eruption halts flights, schools, fishing",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260901-football-europe-s-top-clubs-scramble-for-last-minute-signings",
-      "published_date": "2026-09-01T20:45:50+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260906-indonesia-s-anak-krakatau-eruption-halts-flights-schools-fishing",
+      "published_date": "2026-09-06T12:54:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Far-right AfD predicted to win big in crucial German state election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
+      "published_date": "2026-09-06T10:50:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260906-iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates",
+      "published_date": "2026-09-06T09:04:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's far-right AfD clear frontrunner in eastern state vote",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260906-germany-s-far-right-afd-clear-frontrunner-in-eastern-state-vote",
+      "published_date": "2026-09-06T08:59:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Algerian football chiefs name Hemdani to replace Petkovic as head coach",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260906-algerian-football-chiefs-name-hemdani-to-replace-petkovic-as-head-coach",
+      "published_date": "2026-09-06T08:46:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Memory of water: the women reshaping Venice – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/06/memory-of-water-the-women-reshaping-venice-in-pictures",
+      "published_date": "2026-09-06T05:00:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Chinese national rescued from Nepal tunnel 10 days after flash flood",
@@ -645,62 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/sports/20260905-monaco-rally-to-edge-winless-psg-and-reclaim-top-spot",
       "published_date": "2026-09-05T09:16:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
-      "published_date": "2026-09-05T09:16:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG boss Enrique plays down slow start to Ligue 1 campaign after Monaco defeat",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260905-psg-boss-enrique-plays-down-slow-start-to-ligue-1-campaign-after-monaco-defeat",
-      "published_date": "2026-09-05T09:00:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside France: The place of cous cous and the hijab in modern French life",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260905/inside-france-the-place-of-cous-cous-and-the-hijab-in-modern-french-life",
-      "published_date": "2026-09-05T07:13:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Every girl now wants to be a boxer’: excitement in Katie Taylor’s home town for her valedictory bout",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/05/katie-taylor-boxing-valedictory-bout-croke-park-ireland",
-      "published_date": "2026-09-05T04:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Then who or what did we cremate?’ Daughter’s horror at finding bones in British wildfire victims’ car",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/05/remains-british-wildfire-victims-spain",
-      "published_date": "2026-09-05T04:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's West Bank camp displacements could be crime against humanity, UN says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says",
-      "published_date": "2026-09-04T16:26:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany: Hans-Thomas Tillschneider, the ideologist behind the AFD’s plans in Saxony-Anhalt",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260904-germany-hans-thomas-tillschneider-the-ideologist-behind-the-afd-s-plans-in-saxony-anhalt",
-      "published_date": "2026-09-04T15:34:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge declares mistrial in Lindsay Clancy child-killing case after jury deadlock",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260904-judge-declares-mistrial-in-case-of-us-woman-who-killed-her-children",
-      "published_date": "2026-09-04T15:21:15+00:00",
       "category": "Local Events"
     }
   ]
