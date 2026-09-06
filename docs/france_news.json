@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-09-05T13:38:45.003018+00:00",
+  "last_updated": "2026-09-06T00:32:03.521520+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UN approves resolution in support of map that shows Africa's true size",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-un-approves-resolution-in-support-of-map-that-shows-africa-s-true-size",
+      "published_date": "2026-09-05T16:23:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Rain man’ to the rescue? France’s ex-president Hollande plots unlikely comeback",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260905-rain-man-france-ex-president-francois-hollande-unlikely-comeback-presidential-election",
+      "published_date": "2026-09-05T16:22:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France: Emmanuel Macron unveils new disability strategy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-france-emmanuel-macron-unveils-new-disability-strategy",
+      "published_date": "2026-09-05T15:02:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Paris 'Dragon Ball' theme park in doubt as Japanese owners deny granting licence",
       "source": "RFI English",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "WMO chief says El Nino could be strongest in four decades",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260903-wmo-chief-says-el-nino-could-be-strongest-in-four-decades",
-      "published_date": "2026-09-03T16:11:11+00:00",
-      "category": "Diplomacy"
+      "title": "Putin begins talks with Steve Witkoff and Jared Kushner on ending war with Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
+      "published_date": "2026-09-05T22:13:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Burnham and Macron agree to scale up action on small boats",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-03T15:46:49+00:00",
-      "category": "Diplomacy"
+      "title": "War in Ukraine: Putin, Zelensky order pause in strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-war-in-ukraine-putin-zelensky-order-pause-in-strikes",
+      "published_date": "2026-09-05T16:15:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "France-UK ties and humour celebrated as London receives Bayeux Tapestry",
+      "title": "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260903-france-uk-ties-and-humour-celebrated-as-london-receives-bayeux-tapestry-1",
-      "published_date": "2026-09-03T15:27:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260905-us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-on-peace-in-ukraine",
+      "published_date": "2026-09-05T16:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Culture of fear within US Defence Department: Slow leakage of dissent against the administration'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/culture-of-fear-within-us-defence-department-slow-leakage-of-dissent-against-the-administration",
+      "published_date": "2026-09-05T15:55:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US envoys arrive in Moscow to thrash out plan to end war in Ukraine",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260905-us-envoys-arrive-in-moscow-to-thrash-out-plan-to-end-war-in-ukraine",
+      "published_date": "2026-09-05T15:24:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN experts urge Sudan-wide arms embargo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-un-experts-urge-sudan-wide-arms-embargo",
+      "published_date": "2026-09-05T15:16:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Witkoff and Kushner are in Moscow in a new push for peace between Russia and Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-witkoff-and-kushner-are-in-moscow-in-a-new-push-for-peace-between-russia-and-ukraine",
+      "published_date": "2026-09-05T15:09:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A nation trapped: photographing the broken promises of Sudan's revolution",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260905-war-in-sudan-a-nation-trapped-photographer-abdulmonam-eassa-visa-pour-image",
+      "published_date": "2026-09-05T14:15:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
@@ -225,62 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine",
       "published_date": "2026-09-04T14:35:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone ‘aimed directly’ at Ukraine security service HQ, Zelensky says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260904-russian-drone-aimed-directly-at-ukraine-security-service-hq-zelensky-says",
-      "published_date": "2026-09-04T13:59:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Meloni celebrates milestone as Italy's longest-lasting government",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260904-meloni-celebrates-milestone-as-italy-s-longest-lasting-government",
-      "published_date": "2026-09-04T13:50:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army has seized Lebanon's key Ali al-Taher ridge from Hezbollah",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260904-israel-says-it-has-seized-lebanon-key-ali-al-taher-ridge-from-hezbollah",
-      "published_date": "2026-09-04T13:27:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What does acquittal in the Daphne Caruana Galizia case mean for journalists?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/scoop/20260904-what-does-acquittal-in-the-daphne-caruana-galizia-case-mean-for-journalists",
-      "published_date": "2026-09-04T13:07:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli minister unveils plan to remove Gaza's population over seven years",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260904-israeli-minister-unveils-plan-to-remove-gaza-s-population-over-seven-years",
-      "published_date": "2026-09-04T12:43:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New fears of oil supply disruption as US-Iran hostilities resume",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260904-new-fears-of-oil-supply-disruption-as-us-iran-hostilities-resume",
-      "published_date": "2026-09-04T09:56:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German far right's breakout moment? AfD party eyes outright win in regional election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260904-german-far-right-s-breakout-moment-afd-party-eyes-outright-win-in-regional-election",
-      "published_date": "2026-09-04T09:29:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Astronomical’ fuel price surge hits farmers in UK and US",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/04/fuel-price-surge-diesel-farmers-uk-us",
-      "published_date": "2026-09-04T09:00:04+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,27 @@
       "category": "Economy"
     },
     {
+      "title": "Chinese national rescued from Nepal tunnel 10 days after flash flood",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-chinese-national-rescued-from-nepal-tunnel-10-days-after-flash-flood",
+      "published_date": "2026-09-05T16:17:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris hosts African Diaspora International Film Festival",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260905-paris-hosts-african-diaspora-international-film-festival",
+      "published_date": "2026-09-05T15:22:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Presidential campaigning kicks off in France ahead of 2027 elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20260905-presidential-campaigning-kicks-off-in-france-ahead-of-2027-elections",
+      "published_date": "2026-09-05T14:32:10+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "'Mini-dictatorship': Students slam Argentina-run residence in Paris",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260905/mini-dictatorship-students-slam-argentina-run-residence-in-paris",
@@ -680,27 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260904-judge-declares-mistrial-in-case-of-us-woman-who-killed-her-children",
       "published_date": "2026-09-04T15:21:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump administration unveils anti-immigration video games",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260904-trump-administration-unveils-anti-immigration-video-games",
-      "published_date": "2026-09-04T14:56:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Himalayan hydropower buildout: Expert says risk management is key",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20260904-rebuilding-after-nepal-flash-floods-expert-says-risk-management-is-key-in-himalayas",
-      "published_date": "2026-09-04T14:34:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 45, killed in Florence in seventh alleged femicide in Italy since mid-August",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/04/lorena-isceri-killed-in-florence-femicide-italy",
-      "published_date": "2026-09-04T13:56:14+00:00",
       "category": "Local Events"
     }
   ]
