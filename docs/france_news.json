@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-09-06T13:54:17.006070+00:00",
+  "last_updated": "2026-09-07T00:39:07.691771+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "'We are family', says EU chief Ursula von der Leyen at start of Greenland visit",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260906-we-are-family-says-eu-chief-ursula-von-der-leyen-at-start-of-greenland-visit",
+      "published_date": "2026-09-06T16:10:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260906/on-the-agenda-whats-happening-in-france-this-week-226",
+      "published_date": "2026-09-06T06:32:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Travellers to EU face renewed queues as border-check flexibility rules expire",
       "source": "The Guardian",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Could Europe's border queues get longer this month as key EES date passes?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260904/could-europes-border-queues-get-longer-this-month-as-key-ees-date-passes",
-      "published_date": "2026-09-04T11:13:46+00:00",
-      "category": "Diplomacy"
+      "title": "US envoys bring ‘more effective’ Ukraine peace proposals to Kyiv, official says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260907-us-envoys-more-effective-ukraine-peace-proposals-kyiv",
+      "published_date": "2026-09-07T00:31:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Will the European Union take up the climate fight after brutal heatwaves?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260904/will-the-european-union-take-up-the-climate-fight-after-brutal-heatwaves",
-      "published_date": "2026-09-04T08:10:40+00:00",
-      "category": "Diplomacy"
+      "title": "Far-right AfD wins key German state election but may fail to secure majority",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
+      "published_date": "2026-09-06T18:13:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany’s far-right AfD landslide winner in key Saxony-Anhalt vote, early results suggest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-takes-huge-lead-in-key-vote-early-results-suggest",
+      "published_date": "2026-09-06T16:15:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AfD could lead \"the first far-right state government since the dark days of Nazism\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism",
+      "published_date": "2026-09-06T16:07:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine-Russia talks: What are the US objectives?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260906-ukraine-russia-talks-what-are-the-us-objectives",
+      "published_date": "2026-09-06T14:03:26+00:00",
+      "category": "Military"
     },
     {
       "title": "AI: The future of smart households?",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine",
+      "title": "EU to boost Greenland investment amid Trump annexation claims",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260905-us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-on-peace-in-ukraine",
-      "published_date": "2026-09-05T16:14:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Culture of fear within US Defence Department: Slow leakage of dissent against the administration'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture-of-fear-within-us-defence-department-slow-leakage-of-dissent-against-the-administration",
-      "published_date": "2026-09-05T15:55:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US envoys arrive in Moscow to thrash out plan to end war in Ukraine",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260905-us-envoys-arrive-in-moscow-to-thrash-out-plan-to-end-war-in-ukraine",
-      "published_date": "2026-09-05T15:24:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN experts urge Sudan-wide arms embargo",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260905-un-experts-urge-sudan-wide-arms-embargo",
-      "published_date": "2026-09-05T15:16:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Witkoff and Kushner are in Moscow in a new push for peace between Russia and Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260905-witkoff-and-kushner-are-in-moscow-in-a-new-push-for-peace-between-russia-and-ukraine",
-      "published_date": "2026-09-05T15:09:22+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260907-eu-greenland-investment-trump-annexation",
+      "published_date": "2026-09-07T00:27:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "Does your life feel out of control? Maybe you need some ‘pyt’ | Polly Hudson",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Burnham blames Brexit and Thatcher for ‘wrong turns’ in first Commons speech as PM",
+      "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
-      "published_date": "2026-09-01T18:52:32+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
+      "published_date": "2026-09-06T17:00:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Some Americans call us ‘Europoor’ - but there are seven ways we’re exceedingly rich | Emma Beddington",
@@ -557,11 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "\"Subtle changes pointing to consumer fatigue\" a challenge for fast-fashion retailers, expert says",
+      "title": "Driven from their island, Zambian fishermen pay price of Chinese expansion",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260906-driven-from-their-island-zambian-fishermen-pay-price-of-chinese-expansion-jeremiah-island-lake-kariba",
+      "published_date": "2026-09-06T15:01:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Under-fire FIFA boss Infantino to seek re-election despite calls to resign",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260901-subtle-changes-pointing-to-consumer-fatigue-a-challenge-for-fast-fashion-retailers-expert-says",
-      "published_date": "2026-09-01T21:40:54+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/sport/20260906-under-fire-fifa-boss-infantino-to-seek-re-election-despite-calls-to-resign",
+      "published_date": "2026-09-06T14:29:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France's school uniform experiment unravels with only mixed results",
@@ -687,20 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260905-germany-afd-eyes-historic-state-election-win",
       "published_date": "2026-09-05T09:58:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal: Temporary education centres help flood-displaced children",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260905-nepal-temporary-education-centres-help-flood-displaced-children",
-      "published_date": "2026-09-05T09:20:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Monaco rally to edge winless PSG and reclaim top spot",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260905-monaco-rally-to-edge-winless-psg-and-reclaim-top-spot",
-      "published_date": "2026-09-05T09:16:50+00:00",
       "category": "Local Events"
     }
   ]
