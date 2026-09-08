@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-09-07T16:14:50.587171+00:00",
+  "last_updated": "2026-09-08T00:52:58.238145+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU says no place for 'glorification of war criminals' as Mladic buried",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/eu-says-no-place-for-glorification-of-war-criminals-as-mladic-buried",
+      "published_date": "2026-09-07T21:35:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU chief unveils €200m Greenland package amid tensions over Trump claims",
       "source": "RFI English",
@@ -15,6 +22,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-07T14:50:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron hosts summit to urge support for cinema amid impact of AI, streaming",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260907-macron-hosts-summit-to-urge-support-for-cinema-amid-impact-of-ai-streaming",
+      "published_date": "2026-09-07T14:23:25+00:00",
       "category": "Diplomacy"
     },
     {
@@ -95,6 +109,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "After meeting with US envoys in Kyiv, Zelensky says war likely to ‘continue in winter’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260906-live-trump-s-envoys-head-to-ukraine-after-substantive-talks-with-putin",
+      "published_date": "2026-09-06T04:57:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "UN approves resolution in support of map that shows Africa's true size",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260905-un-approves-resolution-in-support-of-map-that-shows-africa-s-true-size",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN backs effort to drop Mercator map and show size of Africa more accurately",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260905-un-backs-effort-to-drop-mercator-map-and-show-size-of-africa-more-accurately",
-      "published_date": "2026-09-05T10:41:03+00:00",
-      "category": "Diplomacy"
+      "title": "Volkswagen's Osnabrück plant to switch from cars to defence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260907-volkswagen-s-osnabr%C3%BCck-plant-to-switch-from-cars-to-defence",
+      "published_date": "2026-09-07T20:52:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU to help cities clamp down on tourist rentals",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260905/eu-to-help-cities-clamp-down-on-tourist-rentals",
-      "published_date": "2026-09-05T06:38:52+00:00",
-      "category": "Diplomacy"
+      "title": "Egyptian influencer's death penalty over drug charges",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/egyptian-influencer-s-death-penalty-over-drug-charges",
+      "published_date": "2026-09-07T20:27:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why the Bayeux tapestry and Franco-British relations are natural bedfellows",
+      "title": "'What we see right now is that Putin has zero interest in ending the war', Ukrainian MP Yasko says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/what-we-see-right-now-is-that-putin-has-zero-interest-in-ending-the-war-ukrainian-mp-yasko-says",
+      "published_date": "2026-09-07T18:38:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260907-israel-warns-of-full-scale-war-if-palestinian-authority-launches-oct-7-style-attack",
+      "published_date": "2026-09-07T18:08:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Guardian view on the far right’s real weapon: it is the politics of powerlessness | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/05/why-bayeux-tapestry-franco-british-politics-natural-bedfellows",
-      "published_date": "2026-09-05T05:00:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/07/the-guardian-view-on-the-far-rights-real-weapon-it-is-the-politics-of-powerlessness",
+      "published_date": "2026-09-07T17:48:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'We should have learned more from history': Germans react to AfD win – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/07/germans-react-to-afd-win-video",
+      "published_date": "2026-09-07T17:47:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "As Azerbaijan and Armenia work towards peace, this film paints a misleading picture | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/07/as-azerbaijan-and-armenia-work-towards-peace-this-film-paints-a-misleading-picture",
+      "published_date": "2026-09-07T16:50:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – Europe live",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Far-right AfD wins key German state election but may fail to secure majority",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-      "published_date": "2026-09-06T18:13:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany’s far-right AfD landslide winner in key Saxony-Anhalt vote, early results suggest",
+      "title": "Tunisians tell the story of their summer of shortages",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-takes-huge-lead-in-key-vote-early-results-suggest",
-      "published_date": "2026-09-06T16:15:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AfD could lead \"the first far-right state government since the dark days of Nazism\"",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism",
-      "published_date": "2026-09-06T16:07:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine-Russia talks: What are the US objectives?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260906-ukraine-russia-talks-what-are-the-us-objectives",
-      "published_date": "2026-09-06T14:03:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI: The future of smart households?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260906-ai-the-future-of-smart-households",
-      "published_date": "2026-09-06T13:50:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany: Why is the AfD so popular in Saxony-Anhalt?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260906-germany-why-is-the-afd-so-popular-in-saxony-anhalt",
-      "published_date": "2026-09-06T13:37:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US envoys Witkoff and Kushner arrive in Kyiv after talks with Putin in Russia",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260906-us-envoys-witkoff-and-kushner-arrive-in-kyiv-after-talks-with-putin-in-russia",
-      "published_date": "2026-09-06T13:31:16+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/africa/20260907-tunisians-tell-story-their-summer-shortages",
+      "published_date": "2026-09-07T18:50:16+00:00",
+      "category": "Energy"
     },
     {
       "title": "Climate crisis: How the supersized El Niño could hit Europe",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "BP appoints new chair after contentious ousting of Albert Manifold in May",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/02/bp-appoints-new-chair-after-ousting-of-albert-manifold-in-may",
-      "published_date": "2026-09-02T07:59:04+00:00",
-      "category": "Energy"
+      "title": "'Polarised Brazil': Lula remains a ‘strong candidate’ despite the challenges of incumbency",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260907-polarised-brazil-lula-remains-a-strong-candidate-despite-the-challenges-of-incumbency",
+      "published_date": "2026-09-07T18:50:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "What now for Germany's Merz after AfD win?",
@@ -557,11 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Senegal and IMF strike $2.2bn deal, two years after debt scandal froze funding",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260902-senegal-and-imf-strike-2-2bn-deal-two-years-after-debt-scandal-froze-funding",
-      "published_date": "2026-09-02T11:23:09+00:00",
-      "category": "Economy"
+      "title": "Eiffel Tower closed in row over women removed for Hindu group",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/eiffel-tower-closed-in-row-over-women-removed-for-hindu-group",
+      "published_date": "2026-09-07T21:38:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Only the beginning? German far-right's breakthrough shakes Europe to its core",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260907-only-the-beginning-german-far-right-s-breakthrough-shakes-europe-to-its-core",
+      "published_date": "2026-09-07T19:38:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German chancellor vows to stay in office despite AfD triumph in state election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
+      "published_date": "2026-09-07T17:48:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eiffel Tower workers go on strike after female staff 'sidelined' for Hindu group's visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260907-strike-closes-eiffel-tower-paris-exclusion-female-staff-hindu-group-visit-baps",
+      "published_date": "2026-09-07T17:08:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘She’ll outdo herself’: Céline Dion fans camp out for glimpse of star before sold-out Paris comeback",
@@ -673,34 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-07T07:03:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris trial opens over Argentine rugby star killing",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260907/paris-trial-opens-over-argentine-rugby-star-killing",
-      "published_date": "2026-09-07T06:50:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's Merz vows to stick with reforms despite election drubbing by far right",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260907-germany-s-merz-shocked-by-far-right-state-win-but-vows-to-stay-course",
-      "published_date": "2026-09-07T05:27:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-07T00:01:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Ready to talk': German far right celebrates victory in Saxony-Anhalt",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260906-ready-to-talk-german-far-right-celebrates-victory",
-      "published_date": "2026-09-06T17:32:02+00:00",
       "category": "Local Events"
     }
   ]
