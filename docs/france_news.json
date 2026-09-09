@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-09-09T01:01:21.063897+00:00",
+  "last_updated": "2026-09-09T14:59:08.719647+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "The Times: 'Counterproductive' sanctions on Israel don't match the 'theatrical rhetoric'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260909-the-times-counterproductive-sanctions-on-israel-don-t-match-the-theatrical-rhetoric",
+      "published_date": "2026-09-09T13:35:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU unveils ‘buy European’ public procurement rules to counter China",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/09/eu-buy-european-public-procurement-rules-china-goods-services",
+      "published_date": "2026-09-09T11:30:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diplomatic row escalates as UK, France and Canada move to sanction Israeli settlements",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260909-diplomatic-row-escalates-as-uk-france-and-canada-move-to-sanction-israeli-settlements",
+      "published_date": "2026-09-09T10:10:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two French presidential hopefuls rebuff centrist alliance bid",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260909/two-french-presidential-hopefuls-rebuff-centrist-alliance-bid",
+      "published_date": "2026-09-09T09:33:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European space sector in the spotlight as Paris hosts International Space Summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260909-european-space-sector-in-the-spotlight-as-paris-hosts-international-space-summit",
+      "published_date": "2026-09-09T09:17:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron hosts global space summit in Paris snubbed by US companies",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/science-and-technology/20260909-macron-hosts-global-space-summit-in-paris-snubbed-by-us-companies",
+      "published_date": "2026-09-09T06:00:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Was this a state visit?’ Indian opposition leader raises serious questions over Paris BAPS temple",
       "source": "France 24",
@@ -102,46 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU says no place for 'glorification of war criminals' as Mladic buried",
+      "title": "Germany’s Merz cancels phone call with Trump after social media post celebrating AfD win – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates",
+      "published_date": "2026-09-09T14:42:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "DAU review – Ilya Krzhanovsky’s crazed Soviet inferno reaches its central character",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/09/dau-review-venice-film-festival-ilya-khrzhanovsky",
+      "published_date": "2026-09-09T13:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'New escalation in Yemen deeply concerning everyone in the region'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/eu-says-no-place-for-glorification-of-war-criminals-as-mladic-buried",
-      "published_date": "2026-09-07T21:35:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/new-escalation-in-yemen-deeply-concerning-everyone-in-the-region",
+      "published_date": "2026-09-09T10:39:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU chief unveils €200m Greenland package amid tensions over Trump claims",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260907-eu-chief-unveils-%E2%82%AC200m-greenland-package-amid-tensions-over-trump-claims",
-      "published_date": "2026-09-07T14:58:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-07T14:50:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron hosts summit to urge support for cinema amid impact of AI, streaming",
+      "title": "War in the Middle East: Iran attacks US base in Jordan, 10 US vessels",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260907-macron-hosts-summit-to-urge-support-for-cinema-amid-impact-of-ai-streaming",
-      "published_date": "2026-09-07T14:23:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260909-war-in-the-middle-east-iran-attacks-us-base-in-jordan-10-us-vessels",
+      "published_date": "2026-09-09T10:12:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN rapporteur says Israeli rubble-clearing in Gaza could erase 'atrocity crimes' evidence",
+      "title": "FRANCE 24 report reveals Russia’s war on Ukraine’s books and cultural identity",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260907-un-rapporteur-says-israeli-rubble-clearing-in-gaza-could-erase-atrocity-crimes-evidence",
-      "published_date": "2026-09-07T12:51:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260909-france-24-report-reveals-russia-s-war-on-ukraine-s-books-and-cultural-identity",
+      "published_date": "2026-09-09T10:09:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "'We’re all in crisis': Populist far-right 'trend' sweeping across Europe",
+      "title": "JNIM jihadists step up incursions into northern Benin",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260907-we-re-all-in-crisis-populist-far-right-trend-sweeping-across-europe-1",
-      "published_date": "2026-09-07T12:41:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20260909-jnim-jihadists-step-up-incursions-northern-benin",
+      "published_date": "2026-09-09T10:00:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone strike near Ukraine-Moldova border kills at least two as Ukraine targets oil terminal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260909-russian-drone-strike-near-ukraine-moldova-border-kills-at-least-two-as-ukraine-hits-oil-terminal",
+      "published_date": "2026-09-09T09:51:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "OpenAI says its models solved one of math's hardest problems as researchers cry foul",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/technology/20260909-openai-says-models-solved-one-of-math-hardest-problems-researchers-cry-foul",
+      "published_date": "2026-09-09T08:29:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hands bound, into a river - how a French Foreign Legion soldier escaped Colombian rebels",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260909/hands-bound-into-a-river-how-a-french-foreign-legion-soldier-escaped-colombian-rebels",
+      "published_date": "2026-09-09T06:40:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia is raining death on Ukraine’s women and children. Our hands shake but we keep going for love | Alina Sarnatska",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/09/russia-raining-death-ukraines-women-children-hands-shake-keep-going-for-love",
+      "published_date": "2026-09-09T04:01:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump tells Putin he wants swift end to Ukraine war, Kremlin says",
@@ -214,74 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "French legionnaire escapes Colombian captors, makes four-day trek to freedom",
+      "title": "Iran attacks US base after American strikes on tankers",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260908-french-legionnaire-escapes-colombian-captors-makes-four-day-trek-to-freedom",
-      "published_date": "2026-09-08T09:34:26+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260909-iran-attacks-us-base-after-american-strikes-on-tankers",
+      "published_date": "2026-09-09T11:43:46+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump threatens ban on Bombardier as Canada's retaliatory tariffs kick in",
+      "title": "Houthis report Saudi reprisals after oil sites set ablaze in wave of strikes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260908-trump-threatens-ban-on-bombardier-as-canada-s-retaliatory-tariffs-kick-in",
-      "published_date": "2026-09-08T09:16:17+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260909-houthis-report-saudi-reprisals-after-oil-sites-set-ablaze-in-wave-of-strikes",
+      "published_date": "2026-09-09T10:14:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "North Korea and Russia open first road bridge linking both countries",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T03:53:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: Putin tells Trump that Russia has no 'aggressive plans' towards Europe",
+      "title": "Hormuz impasse deepens: Iran retaliates against US targets after its oil tankers destroyed",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt",
-      "published_date": "2026-09-08T02:00:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T01:07:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Volkswagen's Osnabrück plant to switch from cars to defence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260907-volkswagen-s-osnabr%C3%BCck-plant-to-switch-from-cars-to-defence",
-      "published_date": "2026-09-07T20:52:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Egyptian influencer's death penalty over drug charges",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/egyptian-influencer-s-death-penalty-over-drug-charges",
-      "published_date": "2026-09-07T20:27:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'What we see right now is that Putin has zero interest in ending the war', Ukrainian MP Yasko says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/what-we-see-right-now-is-that-putin-has-zero-interest-in-ending-the-war-ukrainian-mp-yasko-says",
-      "published_date": "2026-09-07T18:38:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260907-israel-warns-of-full-scale-war-if-palestinian-authority-launches-oct-7-style-attack",
-      "published_date": "2026-09-07T18:08:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Guardian view on the far right’s real weapon: it is the politics of powerlessness | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/07/the-guardian-view-on-the-far-rights-real-weapon-it-is-the-politics-of-powerlessness",
-      "published_date": "2026-09-07T17:48:01+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260909-hormuz-impasse-deepens-iran-retaliates-against-us-targets-after-its-oil-tankers-destroyed",
+      "published_date": "2026-09-09T10:02:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "Middle East live: US destroys five Iranian oil tankers as Iran threatens Kuwait and Bahrain",
@@ -403,25 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Nepal seeks climate justice after Himalayan disaster",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260903-nepal-seeks-climate-justice-after-himalayan-disaster",
-      "published_date": "2026-09-03T03:30:48+00:00",
-      "category": "Energy"
+      "title": "Merz accuses AfD of ‘ethnic cleansing’ policy and cancels call with Trump",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/09/friedrich-merz-afd-far-right-accused-seeking-ethnic-cleansing-saxony-anhalt-election",
+      "published_date": "2026-09-09T13:43:03+00:00",
+      "category": "Economy"
     },
     {
-      "title": "US oversees signing of ‘billions’ in deals between Venezuela and Chevron, ENI, GE",
+      "title": "US Rubio pledges to 'restore' ties with Colombia's new, Trump-friendly leader",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260902-us-oversees-signing-of-billions-in-deals-between-venezuela-and-chevron-eni-ge",
-      "published_date": "2026-09-02T20:54:24+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260909-us-rubio-pledges-to-restore-ties-with-colombia-s-new-trump-friendly-leader",
+      "published_date": "2026-09-09T10:05:25+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Chevron, Eni commit to expand oil projects in Venezuela under US eye",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/chevron-eni-commit-to-expand-oil-projects-in-venezuela-under-us-eye",
-      "published_date": "2026-09-02T20:00:39+00:00",
-      "category": "Energy"
+      "title": "European democracies are running out of time to turn away from the abyss | Rafael Behr",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/09/far-right-europe-afd-germany-nigel-farage",
+      "published_date": "2026-09-09T05:00:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Accelerating diversification: Canada seeks economic sovereignty amid Trump's 'nonsensical' posturing",
@@ -543,25 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "Volkswagen announces it will cut 100,000 jobs by 2030",
+      "title": "‘I fear the price could be high’: Inside the German state where the far-right surged",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
-      "published_date": "2026-09-03T22:30:32+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/09/i-fear-the-price-could-be-high-inside-the-german-state-where-the-far-right-surged",
+      "published_date": "2026-09-09T14:45:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "El Niño weather phenomenon set to deliver massive blow to global economy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260903-el-ni%C3%B1o-weather-phenomenon-set-to-deliver-massive-blow-to-global-economy",
-      "published_date": "2026-09-03T19:52:47+00:00",
-      "category": "Economy"
+      "title": "France far right expels policeman member over racist remarks",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260909/france-far-right-expels-policeman-member-over-racist-remarks",
+      "published_date": "2026-09-09T14:43:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "France agriculture production sees economic hit from heatwaves",
+      "title": "France’s record heatwave pushes champagne alcohol levels to historic high",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260903-france-agriculture-production-sees-economic-hit-from-heatwaves",
-      "published_date": "2026-09-03T16:05:41+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20260909-france-s-record-heatwave-pushes-champagne-alcohol-levels-to-historic-high",
+      "published_date": "2026-09-09T13:49:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nats boss given one week to deliver report into UK flight chaos",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/09/uk-flight-cancellations-nats-martin-rolfe-heidi-alexander",
+      "published_date": "2026-09-09T13:28:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK airport disruption: what are your rights if you have been affected?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/08/uk-airport-disruption-rights-if-affected-london-gatwick-heathrow-manchester-birmingham",
+      "published_date": "2026-09-09T11:29:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former PM Bayrou returns to court in long-running EU assistants case",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260909-former-pm-bayrou-returns-to-court-in-long-running-eu-assistants-case",
+      "published_date": "2026-09-09T11:09:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albanian anger undiminished after 100 days of protests against Kushner project",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260909-albanian-anger-undiminished-after-100-days-of-protests-against-kushner-project",
+      "published_date": "2026-09-09T10:08:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How France fell in love with Céline Dion",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20260909-how-france-fell-in-love-with-c%C3%A9line-dion",
+      "published_date": "2026-09-09T10:07:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EasyJet pilots in France call strike for September",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260909/easyjet-pilots-in-france-call-strike-for-september",
+      "published_date": "2026-09-09T09:38:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French back-to-school vocabulary guide",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260909/french-back-to-school-vocabulary-guide",
+      "published_date": "2026-09-09T08:51:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: In the French far right, the rift widens between Le Pen and Bardella",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260909/opinion-in-the-french-far-right-the-rift-widens-between-le-pen-and-bardella",
+      "published_date": "2026-09-09T07:34:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eiffel Tower row over Hindu sect BAPS unites French politicians – but divides Indian diaspora",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260909-eiffel-tower-row-over-hindu-sect-baps-unites-french-politicians-%E2%80%93-but-divides-indian-diaspora",
+      "published_date": "2026-09-09T06:37:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform insists National Rally agreed migrant policy after backlash in France",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/09/reform-uk-national-rally-migrants-deal-farage-bardella",
+      "published_date": "2026-09-09T06:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Real Madrid? Ajax? Liverpool? Ranking Europe's greatest football dynasties",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy9z0xz8ql1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-09T05:30:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dembélé leads PSG's nine-man charge for 2026 Ballon d'Or",
@@ -603,104 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260908-eiffel-tower-reopens-after-row-over-limits-on-women-staff",
       "published_date": "2026-09-08T15:18:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
-      "published_date": "2026-09-08T14:39:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eiffel Tower management under fire after decision to hide female staff",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/08/eiffel-tower-management-under-fire-after-decision-to-hide-female-staff",
-      "published_date": "2026-09-08T14:29:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sounding the fire alarm: Why French firefighters are going on strike",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260908-sounding-the-fire-alarm-why-french-firefighters-are-going-on-strike",
-      "published_date": "2026-09-08T14:12:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is Sarah Khalifa, the Egyptian TV presenter sentenced to death?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260908-who-is-sarah-khalifa-the-egyptian-tv-presenter-sentenced-to-death",
-      "published_date": "2026-09-08T13:44:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Be kind with yourself': US expat Robin Allison Davis on surviving cancer in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260908-be-kind-to-yourself-us-expat-robin-allison-davis-on-surviving-cancer-in-paris",
-      "published_date": "2026-09-08T13:21:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we know about the Renoir museum heist",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c62mnr4pnnlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T13:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fourteen men go on trial in Paris over deadliest small-boat Channel crossing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/08/paris-trial-deadliest-channel-small-boat-crossing",
-      "published_date": "2026-09-08T13:07:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League kicks off with Lille, Lens eyeing PSG's crown",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260908-lille-and-lens-join-the-champions-league-gang-aiming-to-dethrone-psg",
-      "published_date": "2026-09-08T12:15:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crocodile head found in luggage at Italian airport",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/08/crocodile-head-seized-luggage-italy-airport",
-      "published_date": "2026-09-08T12:05:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Just an Illusion review – Louis Garrel and Camille Cottin sizzle as an 80s couple in crisis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/08/just-an-illusion-review-louis-garrel-and-camille-cottin-sizzle-as-an-80s-couple-in-crisis",
-      "published_date": "2026-09-08T12:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia pounds Kyiv, ending three-day halt for US talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260908-russia-pounds-kyiv-ending-three-day-halt-for-us-talks",
-      "published_date": "2026-09-08T11:35:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Internal inquiry opened after Eiffel Tower 'sexist' closure prompts strike",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260908-internal-inquiry-opened-after-eiffel-tower-sexist-closure-paris-strike",
-      "published_date": "2026-09-08T11:05:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris looks to profit as Céline Dion fans flock to French capital",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260908-paris-looks-to-profit-as-c%C3%A9line-dion-fans-flock-to-french-capital",
-      "published_date": "2026-09-08T10:32:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thieves steal works of art worth 9 million euros from France's Renoir museum",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260908-thieves-steal-works-of-art-worth-9-million-euros-from-france-s-renoir-museum",
-      "published_date": "2026-09-08T08:36:34+00:00",
       "category": "Local Events"
     }
   ]
