@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-09-10T00:47:44.096271+00:00",
+  "last_updated": "2026-09-10T14:44:02.985391+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Algeria cuts diplomatic ties with UAE after years of mounting tensions",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260910-algeria-cuts-diplomatic-ties-with-uae-after-years-of-mounting-tensions",
+      "published_date": "2026-09-10T13:47:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Algeria cuts diplomatic ties with United Arab Emirates over 'provocative and hostile actions'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260910-algeria-cuts-diplomatic-ties-with-united-arab-emirates-over-provocative-and-hostile-actions",
+      "published_date": "2026-09-10T11:50:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rwanda positions itself as an African space pioneer",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-rwanda-positions-itself-as-an-african-space-pioneer",
+      "published_date": "2026-09-10T11:20:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron calls for European crewed spaceflights within 10 years",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260910-macron-calls-for-european-crewed-spaceflights-within-10-years",
+      "published_date": "2026-09-10T10:34:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "REPLAY: French President Macron addresses International Space Summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-replay-french-president-macron-addresses-international-space-summit",
+      "published_date": "2026-09-10T10:30:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "August hottest month ever recorded globally, says EU monitor",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260910-august-hottest-month-ever-recorded-globally-says-eu-monitor",
+      "published_date": "2026-09-10T02:04:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rubio to seek $45 million in additional security funding for Ecuador",
       "source": "France 24",
@@ -102,46 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK, France, ⁠Canada sanction Israeli West Bank goods",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260908-uk-france-canada-sanction-israeli-west-bank-goods",
-      "published_date": "2026-09-08T21:02:48+00:00",
-      "category": "Diplomacy"
+      "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
+      "published_date": "2026-09-10T14:23:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "France among twelve nations to sanction trade with Israeli settlements",
+      "title": "Houthis seize key Yemeni Red Sea port, sources say, threatening global energy flows",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-houthis-seize-key-yemeni-red-sea-port-sources-say-threatening-global-energy-flows",
+      "published_date": "2026-09-10T13:25:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Revisited: Consequences of the 2022 Nord Stream pipeline sabotage are still being felt",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/revisited/20260910-revisited-consequences-of-the-2022-nord-stream-pipeline-sabotage-are-still-being-felt",
+      "published_date": "2026-09-10T13:07:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Colombia court orders President de la Espriella to hide social media videos of him with dead bodies",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260910-colombia-court-orders-president-de-la-espriella-to-hide-social-media-videos-of-him-with-dead-bodies",
+      "published_date": "2026-09-10T11:31:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump highlights his own record at midterm Republican convention",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-trump-highlights-his-own-record-at-midterm-republican-convention",
+      "published_date": "2026-09-10T11:26:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopia's Tigray rebels accuse govt of new drone strike",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-ethiopia-s-tigray-rebels-accuse-govt-of-new-drone-strike",
+      "published_date": "2026-09-10T11:23:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Korea to boost artificial intelligence ties with Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-south-korea-to-boost-artificial-intelligence-ties-with-africa",
+      "published_date": "2026-09-10T11:22:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sudan war: Chad denies allegations of logistical support to RSF rebels",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-sudan-war-chad-denies-allegations-of-logistical-support-to-rsf-rebels",
+      "published_date": "2026-09-10T11:21:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PSG make perfect start to Champions League title defence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260910-psg-make-perfect-start-to-champions-league-title-defence",
+      "published_date": "2026-09-10T10:46:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen's Houthis close in on stranglehold over strategic Bab el-Mandeb Strait",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-yemen-s-houthis-close-in-on-stranglehold-over-strategic-bab-el-mandeb-strait",
+      "published_date": "2026-09-10T10:33:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'AI could kill all humans': AI researcher quits Anthropic",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-ai-could-kill-all-humans-ai-researcher-quits-anthropic",
+      "published_date": "2026-09-10T10:28:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nine years after Daphne Caruana Galizia’s murder, Europe must finally address Malta’s culture of impunity | Pieter Omtzigt and Emanuel Delia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/10/daphne-caruana-galizia-murder-malta-eu",
+      "published_date": "2026-09-10T08:00:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AI deepfakes and fake fighters reshape Mali's information war",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260908-france-among-twelve-nations-to-sanction-trade-with-israeli-settlements",
-      "published_date": "2026-09-08T20:32:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260910-ai-deepfakes-and-fake-fighters-reshape-mali-s-information-war",
+      "published_date": "2026-09-10T06:10:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kenya cracks down on foreign traders",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/kenya-cracks-down-on-foreign-traders",
-      "published_date": "2026-09-08T20:29:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump posts AI map showing US 'takeover' of North America, Iceland and Caribbean",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-posts-ai-map-showing-us-takeover-of-north-america-iceland-and-caribbean-1",
-      "published_date": "2026-09-08T19:43:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK, France, Canada to ban imports from Israeli settlements",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk-france-canada-to-ban-imports-from-israeli-settlements",
-      "published_date": "2026-09-08T18:24:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iceland summons US ambassador over Trump's stars and stripes map",
+      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c93ek32pqd2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T15:55:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-10T04:43:54+00:00",
+      "category": "Military"
     },
     {
       "title": "PSG rout Slovan Bratislava to launch Champions League campaign",
@@ -186,102 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Modern warfare: Ukraine racing to develop new interceptor drones",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260909-modern-warfare-ukraine-racing-to-develop-new-interceptor-drones",
-      "published_date": "2026-09-09T14:00:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DAU review – Ilya Krzhanovsky’s crazed Soviet inferno reaches its central character",
+      "title": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/09/dau-review-venice-film-festival-ilya-khrzhanovsky",
-      "published_date": "2026-09-09T13:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'New escalation in Yemen deeply concerning everyone in the region'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/new-escalation-in-yemen-deeply-concerning-everyone-in-the-region",
-      "published_date": "2026-09-09T10:39:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in the Middle East: Iran attacks US base in Jordan, 10 US vessels",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260909-war-in-the-middle-east-iran-attacks-us-base-in-jordan-10-us-vessels",
-      "published_date": "2026-09-09T10:12:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FRANCE 24 report reveals Russia’s war on Ukraine’s books and cultural identity",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260909-france-24-report-reveals-russia-s-war-on-ukraine-s-books-and-cultural-identity",
-      "published_date": "2026-09-09T10:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "JNIM jihadists step up incursions into northern Benin",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260909-jnim-jihadists-step-up-incursions-northern-benin",
-      "published_date": "2026-09-09T10:00:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone strike near Ukraine-Moldova border kills at least two as Ukraine targets oil terminal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260909-russian-drone-strike-near-ukraine-moldova-border-kills-at-least-two-as-ukraine-hits-oil-terminal",
-      "published_date": "2026-09-09T09:51:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "OpenAI says its models solved one of math's hardest problems as researchers cry foul",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20260909-openai-says-models-solved-one-of-math-hardest-problems-researchers-cry-foul",
-      "published_date": "2026-09-09T08:29:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hands bound, into a river - how a French Foreign Legion soldier escaped Colombian rebels",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260909/hands-bound-into-a-river-how-a-french-foreign-legion-soldier-escaped-colombian-rebels",
-      "published_date": "2026-09-09T06:40:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia is raining death on Ukraine’s women and children. Our hands shake but we keep going for love | Alina Sarnatska",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/09/russia-raining-death-ukraines-women-children-hands-shake-keep-going-for-love",
-      "published_date": "2026-09-09T04:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump tells Putin he wants swift end to Ukraine war, Kremlin says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260908-trump-tells-putin-he-wants-swift-end-to-ukraine-war-kremlin-says",
-      "published_date": "2026-09-08T19:07:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Missiles or mediation? Trump envoys shuttle between Russia and Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260908-missiles-or-mediation-trump-envoys-shuttle-between-russia-and-ukraine",
-      "published_date": "2026-09-08T18:19:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T17:10:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s prosecutor general quits after anti-corruption agents raid his office",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/08/ukraine-prosecutor-general-ruslan-kravchenko-quits-anti-corruption-agents-raid-office",
-      "published_date": "2026-09-08T17:00:31+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
+      "published_date": "2026-09-10T13:10:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran and US strike tankers in biggest shipping attack since war began",
@@ -417,11 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Argentina's Milei escalates Falklands dispute in sovereignty push against Britain",
+      "title": "‘I’m spending my savings just to survive’: Iran’s economic crisis fuels new protests",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260904-argentina-s-milei-escalates-falklands-dispute-in-sovereignty-push-against-britain",
-      "published_date": "2026-09-04T10:07:32+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/middle-east/20260910-iran-economic-crisis-protests-war-repression",
+      "published_date": "2026-09-10T14:30:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Much of Europe already levies a tourist tax – a nice little earner for Italian hotspots",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/10/europe-tourist-tax-italian-hotspots-england",
+      "published_date": "2026-09-10T13:57:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Primark to launch home delivery service despite ‘challenging’ market",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/10/primark-home-delivery-split-abf-europe",
+      "published_date": "2026-09-10T13:31:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "25 years on, America seeks to keep 9/11 memories alive",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-25-years-on-america-seeks-to-keep-9-11-memories-alive",
+      "published_date": "2026-09-10T13:22:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hoping to salvage midterms, Trump makes dubious pledge to give every US adult $5,000",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-hoping-to-salvage-midterms-trump-makes-dubious-pledge-to-give-every-us-adult-5-000",
+      "published_date": "2026-09-10T10:34:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Apple's new foldable iPhone: expensive gadget or bold statement?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260910-apple-s-new-foldable-iphone-expensive-gadget-or-bold-statement",
+      "published_date": "2026-09-10T10:28:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump claims firefighters carried him to safety ‘right after’ 9/11, but his account is disputed",
@@ -522,46 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "German startup notches Europe's first successful private orbital launch",
+      "title": "Montserrat: The 'Pompeii' of the Caribbean",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260907-german-startup-notches-europe-s-first-successful-private-orbital-launch",
-      "published_date": "2026-09-07T09:32:58+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/focus/20260910-montserrat-the-pompeii-of-the-caribbean",
+      "published_date": "2026-09-10T13:58:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
-      "published_date": "2026-09-06T17:00:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Some Americans call us ‘Europoor’ - but there are seven ways we’re exceedingly rich | Emma Beddington",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/06/some-americans-call-us-europoor-seven-ways-we-are-exceedingly-rich",
-      "published_date": "2026-09-06T13:00:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Turkey seeks Black Sea shipping deal as attacks threaten grain trade",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260906-turkey-seeks-black-sea-shipping-deal-as-attacks-threaten-grain-trade",
-      "published_date": "2026-09-06T10:30:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Data-rich systems and weak security: why France is a target for cyberattacks",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260905-data-rich-systems-and-weak-security-why-france-is-a-target-for-cyberattacks",
-      "published_date": "2026-09-05T07:41:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Strength of Meloni less linked to policy, more about her party's dominance within govt coalition",
+      "title": "RN 'breach': Amid 'severe' differences with 'bright, young' Bardella, Le Pen 'dictates party line'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/strength-of-meloni-less-linked-to-policy-more-about-her-party-s-dominance-within-govt-coalition",
-      "published_date": "2026-09-04T13:24:39+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260910-rn-breach-amid-severe-differences-with-bright-young-bardella-le-pen-dictates-party-line",
+      "published_date": "2026-09-10T12:39:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "RN 'breach': Amid 'severe' differences with 'bright, young' Bardella, Le Pen 'dictates party line'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-rn-breach-amid-severe-differences-with-bright-young-bardella-le-pen-dictates-party-line-1",
+      "published_date": "2026-09-10T12:25:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rubio in Peru: Protestors take the streets against US Secretary of State's visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-rubio-in-peru-protestors-take-the-streets-against-us-secretary-of-state-s-visit",
+      "published_date": "2026-09-10T11:30:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 of the best French horror movies",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260910/5-of-the-best-french-horror-movies",
+      "published_date": "2026-09-10T09:42:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Femme Infidèle review – Chabrol’s eerie domestic thriller is a brilliant ballet of repression and fear",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/10/la-femme-infidele-review-claude-chabrol",
+      "published_date": "2026-09-10T08:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French police officers suspended over racist video as far-right links emerge",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260910-four-police-officers-suspended-in-carcassonne-over-racist-and-sexist-video",
+      "published_date": "2026-09-10T07:09:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thursday briefing: 68 facts about the Bayeux tapestry as it goes on display",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/10/thursday-briefing-68-facts-about-the-bayeux-tapestry-as-it-goes-on-display",
+      "published_date": "2026-09-10T05:47:15+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Brazil Supreme Court chief suspends rival rulings amid election row",
@@ -645,62 +701,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260909-former-pm-bayrou-returns-to-court-in-long-running-eu-assistants-case",
       "published_date": "2026-09-09T11:09:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albanian anger undiminished after 100 days of protests against Kushner project",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260909-albanian-anger-undiminished-after-100-days-of-protests-against-kushner-project",
-      "published_date": "2026-09-09T10:08:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How France fell in love with Céline Dion",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20260909-how-france-fell-in-love-with-c%C3%A9line-dion",
-      "published_date": "2026-09-09T10:07:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EasyJet pilots in France call strike for September",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260909/easyjet-pilots-in-france-call-strike-for-september",
-      "published_date": "2026-09-09T09:38:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French back-to-school vocabulary guide",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260909/french-back-to-school-vocabulary-guide",
-      "published_date": "2026-09-09T08:51:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: In the French far right, the rift widens between Le Pen and Bardella",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260909/opinion-in-the-french-far-right-the-rift-widens-between-le-pen-and-bardella",
-      "published_date": "2026-09-09T07:34:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eiffel Tower row over Hindu sect BAPS unites French politicians – but divides Indian diaspora",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260909-eiffel-tower-row-over-hindu-sect-baps-unites-french-politicians-%E2%80%93-but-divides-indian-diaspora",
-      "published_date": "2026-09-09T06:37:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform insists National Rally agreed migrant policy after backlash in France",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/09/reform-uk-national-rally-migrants-deal-farage-bardella",
-      "published_date": "2026-09-09T06:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Real Madrid? Ajax? Liverpool? Ranking Europe's greatest football dynasties",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy9z0xz8ql1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-09T05:30:53+00:00",
       "category": "Local Events"
     }
   ]
