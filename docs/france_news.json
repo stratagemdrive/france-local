@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-09-10T14:44:02.985391+00:00",
+  "last_updated": "2026-09-11T00:48:20.005704+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Space: Europe urged to find its path, from crewed spaceflight to communications",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260910-space-europe-urged-to-find-its-path-from-crewed-spaceflight-to-communications",
+      "published_date": "2026-09-10T21:05:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Space: Europe urged to find its path, from crewed spaceflight to communications",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/space-europe-urged-to-find-its-path-from-crewed-spaceflight-to-communications",
+      "published_date": "2026-09-10T21:03:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Russia-tied French billionaires opening UK's first historical theme park – explainer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/10/the-russia-tied-french-billionaires-opening-uks-first-historical-theme-park-explainer",
+      "published_date": "2026-09-10T16:17:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eiffel Tower row exposes BAPS Hindu group as 'spearhead of Modi's soft power'",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260910-eiffel-tower-row-exposes-baps-hindu-group-as-spearhead-of-modi-s-soft-power",
+      "published_date": "2026-09-10T16:16:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "International Space Summit: Europe plays catch-up with US and China",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/people-profit/20260910-international-space-summit-europe-plays-catch-up-with-us-and-china",
+      "published_date": "2026-09-10T15:28:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Algeria cuts diplomatic ties with UAE after years of mounting tensions",
       "source": "RFI English",
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Diplomatic row escalates as UK, France and Canada move to sanction Israeli settlements",
+      "title": "Iran raises fuel prices for heavy users",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260909-diplomatic-row-escalates-as-uk-france-and-canada-move-to-sanction-israeli-settlements",
-      "published_date": "2026-09-09T10:10:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/iran-raises-fuel-prices-for-heavy-users",
+      "published_date": "2026-09-10T18:48:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Two French presidential hopefuls rebuff centrist alliance bid",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260909/two-french-presidential-hopefuls-rebuff-centrist-alliance-bid",
-      "published_date": "2026-09-09T09:33:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European space sector in the spotlight as Paris hosts International Space Summit",
+      "title": "Zelensky's plane 'almost hit' by drone en route to Oslo, Norway PM says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260909-european-space-sector-in-the-spotlight-as-paris-hosts-international-space-summit",
-      "published_date": "2026-09-09T09:17:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260910-zelensky-s-plane-almost-hit-by-drone-en-route-to-oslo-norway-pm-says",
+      "published_date": "2026-09-10T15:55:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron hosts global space summit in Paris snubbed by US companies",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/science-and-technology/20260909-macron-hosts-global-space-summit-in-paris-snubbed-by-us-companies",
-      "published_date": "2026-09-09T06:00:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Was this a state visit?’ Indian opposition leader raises serious questions over Paris BAPS temple",
+      "title": "Russia tricks 'vulnerable' foreigners to fight in Ukraine war, Amnesty reports",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260908-was-this-a-state-visit-indian-opposition-leader-raises-serious-questions-over-paris-baps-temple",
-      "published_date": "2026-09-08T22:43:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260910-russia-tricks-vulnerable-foreigners-to-fight-in-ukraine-war-amnesty-reports",
+      "published_date": "2026-09-10T15:20:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Orthodox church sends medieval prince’s remains to Russian troops in Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
+      "published_date": "2026-09-10T15:12:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – Europe live",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-09T20:28:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Whose space is it? Europe scrambles as US rules satellite race",
+      "title": "Record heat and drought make this year's champagne stronger",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260909-whose-space-is-it-europe-scrambles-as-us-rules-satellite-race",
-      "published_date": "2026-09-09T18:35:30+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/business/20260910-record-heat-and-drought-make-this-year-s-champagne-stronger",
+      "published_date": "2026-09-10T20:12:35+00:00",
+      "category": "Energy"
     },
     {
-      "title": "How a French Foreign Legion soldier dramatically escaped Colombian captors",
+      "title": "August hottest month ever recorded globally as huge El Nino emerges",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260909-how-a-french-foreign-legion-soldier-dramatically-escaped-colombian-captors",
-      "published_date": "2026-09-09T16:17:04+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260910-august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges",
+      "published_date": "2026-09-10T15:57:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Germany’s Merz cancels phone call with Trump after social media post celebrating AfD win – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates",
-      "published_date": "2026-09-09T14:42:42+00:00",
-      "category": "Military"
+      "title": "Podcast: Eco-anger, France in space, world's first photograph",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-france/20260910-podcasteco-anxiety-anger-climate-heatwave-france-space-world-first-photograph-niepce",
+      "published_date": "2026-09-10T15:01:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
@@ -400,27 +421,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260904-france-announces-%E2%82%AC1-billion-aid-for-farmers-after-climate-hit-summer",
       "published_date": "2026-09-04T15:12:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "France unveils €1bn farm aid package after climate-hit summer",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260904/france-unveils-e1bn-farm-aid-package-after-climate-hit-summer",
-      "published_date": "2026-09-04T14:38:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Unearthing her story: The rise of women archaeologists",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-51/20260904-unearthing-her-story-the-rise-of-women-archaeologists",
-      "published_date": "2026-09-04T13:17:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK reasserts Falklands sovereignty amid Milei claim and Trump comments",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260904-uk-reasserts-falklands-sovereignty-amid-milei-claim-and-trump-comments",
-      "published_date": "2026-09-04T12:44:49+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,76 @@
       "category": "Economy"
     },
     {
+      "title": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran",
+      "published_date": "2026-09-10T22:55:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meta tests out putting fact-checking in users’ hands across Latin America",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/meta-tests-out-putting-fact-checking-in-users-hands-across-latin-america-1",
+      "published_date": "2026-09-10T20:11:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-10T20:10:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French firefighters on six-week strike after record summer blazes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-firefighters-on-six-week-strike-after-record-summer-blazes",
+      "published_date": "2026-09-10T19:41:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As New York marks 25 years since 9/11, Muslims recall stigmatisation in aftermath of attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/as-new-york-marks-25-years-since-9-11-muslims-recall-stigmatization-in-aftermath-of-attacks",
+      "published_date": "2026-09-10T19:32:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'No facts': Morocco denies involvement in deadly Ceuta migrant rush",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260910-no-facts-morocco-denies-involvement-in-deadly-ceuta-migrant-rush",
+      "published_date": "2026-09-10T19:32:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-backed-houthi-rebels-take-strategic-port-city-in-yemen-raising-threat-to-red-sea-shipping",
+      "published_date": "2026-09-10T19:18:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion: Fan recounts experience singing with the superstar",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-c%C3%A9line-dion-fan-recounts-experience-singing-with-the-superstar",
+      "published_date": "2026-09-10T16:08:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hindu sect BAPS comes under scrutiny in France, US",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/hindu-sect-baps-comes-under-scrutiny-in-france-us",
+      "published_date": "2026-09-10T16:06:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "9/11: Drones light up NYC ahead of 25th anniversary",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260910-9-11-drones-light-up-nyc-ahead-of-25th-anniversary",
+      "published_date": "2026-09-10T15:46:41+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Montserrat: The 'Pompeii' of the Caribbean",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/focus/20260910-montserrat-the-pompeii-of-the-caribbean",
@@ -631,76 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/sport/20260909-champions-league-iraola-celebrates-liverpool-win-against-atletico-madrid",
       "published_date": "2026-09-09T23:24:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Passengers or pilots?' Europe looks to challenge US dominance in space sector with €10 billion plan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260909-passengers-or-pilots-europe-looks-to-challenge-us-dominance-in-space-sector-with-%E2%82%AC10-billion-plan",
-      "published_date": "2026-09-09T19:56:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion's return to France: A French love affair",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260909-c%C3%A9line-dion-s-return-to-france-a-french-love-affair",
-      "published_date": "2026-09-09T15:33:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NY failed to disclose what it knew on 'toxic air' after 9/11",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260909-ny-failed-to-disclose-what-it-knew-on-toxic-air-after-9-11",
-      "published_date": "2026-09-09T15:30:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I fear the price could be high’: Inside the German state where the far-right surged",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/09/i-fear-the-price-could-be-high-inside-the-german-state-where-the-far-right-surged",
-      "published_date": "2026-09-09T14:45:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France far right expels policeman member over racist remarks",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260909/france-far-right-expels-policeman-member-over-racist-remarks",
-      "published_date": "2026-09-09T14:43:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope merchandise flies off shelves as France gears up for pontiff's visit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260909-pope-merchandise-flies-off-shelves-as-france-gears-up-for-pontiff-s-visit",
-      "published_date": "2026-09-09T14:03:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France’s record heatwave pushes champagne alcohol levels to historic high",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260909-france-s-record-heatwave-pushes-champagne-alcohol-levels-to-historic-high",
-      "published_date": "2026-09-09T13:49:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nats boss given one week to deliver report into UK flight chaos",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/09/uk-flight-cancellations-nats-martin-rolfe-heidi-alexander",
-      "published_date": "2026-09-09T13:28:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK airport disruption: what are your rights if you have been affected?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/08/uk-airport-disruption-rights-if-affected-london-gatwick-heathrow-manchester-birmingham",
-      "published_date": "2026-09-09T11:29:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former PM Bayrou returns to court in long-running EU assistants case",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260909-former-pm-bayrou-returns-to-court-in-long-running-eu-assistants-case",
-      "published_date": "2026-09-09T11:09:47+00:00",
       "category": "Local Events"
     }
   ]
