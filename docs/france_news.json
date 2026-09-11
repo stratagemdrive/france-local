@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-09-11T00:48:20.005704+00:00",
+  "last_updated": "2026-09-11T14:48:31.674000+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Hundreds of asylum seekers removed from UK to France have disappeared, say NGOs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/11/asylum-seekers-removed-uk-to-france-disappeared-children-one-in-one-out",
+      "published_date": "2026-09-11T11:33:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Big tech to banking: Which companies spend the most on EU lobbying?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260911/big-tech-to-banking-which-companies-spend-the-most-on-eu-lobbying",
+      "published_date": "2026-09-11T11:02:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Emma Bonino, radical Italian politician who stood up to Vatican, dies aged 78",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/11/emma-bonino-radical-italian-politician-abortion-divorce-dies",
+      "published_date": "2026-09-11T09:21:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French government warns TV channel about using expelled Russian pundit",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260911/french-government-warns-tv-channel-about-using-expelled-russian-pundit",
+      "published_date": "2026-09-11T07:45:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Space: Europe urged to find its path, from crewed spaceflight to communications",
       "source": "France 24",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron summit seeks boost for European space despite no-shows",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260909-macron-summit-seeks-boost-for-european-space-despite-no-shows",
-      "published_date": "2026-09-09T15:32:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Roman Abramovich loses third attempt to overturn EU sanctions",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260909-roman-abramovich-loses-third-attempt-to-overturn-eu-sanctions",
-      "published_date": "2026-09-09T15:10:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Times: 'Counterproductive' sanctions on Israel don't match the 'theatrical rhetoric'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260909-the-times-counterproductive-sanctions-on-israel-don-t-match-the-theatrical-rhetoric",
-      "published_date": "2026-09-09T13:35:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU unveils ‘buy European’ public procurement rules to counter China",
+      "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/09/eu-buy-european-public-procurement-rules-china-goods-services",
-      "published_date": "2026-09-09T11:30:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates",
+      "published_date": "2026-09-11T14:09:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Did the War on Terror succeed? Or did Washington fall into al Qaeda’s trap?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260911-did-the-war-on-terror-succeed-or-did-washington-fall-into-al-qaeda-s-trap",
+      "published_date": "2026-09-11T09:16:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘A fierce need to be independent’: Gerda Taro biopic pulls photographer out of lover Robert Capa’s shadow",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/11/gerda-taro-biopic-robert-capa-spain-photography-venice-film-festival",
+      "published_date": "2026-09-11T05:00:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin in India for Brics summit overshadowed by war",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260911-putin-in-india-for-brics-summit-overshadowed-by-war",
+      "published_date": "2026-09-11T04:22:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Sweden lost its soul – and stopped being Sweden | Martin Gelin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/how-sweden-lost-its-soul-and-stopped-being-sweden",
+      "published_date": "2026-09-11T04:00:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-10T23:22:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran raises fuel prices for heavy users",
@@ -242,46 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "'AI could kill all humans': AI researcher quits Anthropic",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-ai-could-kill-all-humans-ai-researcher-quits-anthropic",
-      "published_date": "2026-09-10T10:28:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nine years after Daphne Caruana Galizia’s murder, Europe must finally address Malta’s culture of impunity | Pieter Omtzigt and Emanuel Delia",
+      "title": "‘Fresh from the roof’: the supermarket growing salad a few metres above the tills",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/10/daphne-caruana-galizia-murder-malta-eu",
-      "published_date": "2026-09-10T08:00:19+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/sep/11/supermarket-salad-rooftop-garden-berlin",
+      "published_date": "2026-09-11T09:00:01+00:00",
+      "category": "Energy"
     },
     {
-      "title": "AI deepfakes and fake fighters reshape Mali's information war",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260910-ai-deepfakes-and-fake-fighters-reshape-mali-s-information-war",
-      "published_date": "2026-09-10T06:10:01+00:00",
-      "category": "Military"
+      "title": "‘Just worry upon worry’: Europe faces a bleak winter as supply shock pushes factories to the brink",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink",
+      "published_date": "2026-09-11T09:00:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+      "title": "The ‘great grid upgrade’ is off track – ministers should spell out the risks for bills | Nils Pratley",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/11/grid-upgrade-electricity-transmission-bills-nils-pratley",
+      "published_date": "2026-09-11T05:00:03+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Can Europe recharge its battery industry?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-10T04:43:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PSG rout Slovan Bratislava to launch Champions League campaign",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20260909-psg-rout-slovan-bratislava-to-launch-champions-league-campaign",
-      "published_date": "2026-09-09T21:30:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-09T21:23:45+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-10T23:05:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Record heat and drought make this year's champagne stronger",
@@ -396,32 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "EU to boost Greenland investment amid Trump annexation claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260907-eu-greenland-investment-trump-annexation",
-      "published_date": "2026-09-07T00:27:21+00:00",
-      "category": "Energy"
+      "title": "France cuts growth forecast again as economic uncertainty weighs heavy",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260911-france-cuts-growth-forecast-again-as-economic-uncertainty-weighs-heavy",
+      "published_date": "2026-09-11T14:09:03+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Does your life feel out of control? Maybe you need some ‘pyt’ | Polly Hudson",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/06/danish-pyt-concept-life-philosophy",
-      "published_date": "2026-09-06T04:00:55+00:00",
-      "category": "Energy"
+      "title": "What would a Le Pen presidency mean for foreigners in France?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260911/what-would-a-le-pen-presidency-mean-for-foreigners-in-france",
+      "published_date": "2026-09-11T08:46:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "German power grid sabotage attack linked to ‘climate extremism’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260904-german-power-grid-sabotage-attack-linked-to-climate-extremism",
-      "published_date": "2026-09-04T18:40:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "France announces €1 billion aid for farmers after climate-hit summer",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260904-france-announces-%E2%82%AC1-billion-aid-for-farmers-after-climate-hit-summer",
-      "published_date": "2026-09-04T15:12:29+00:00",
-      "category": "Energy"
+      "title": "On 25th anniversary of 9/11, New York remembers victims poisoned by debris",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260911-25th-anniversary-9-11-ny-remembers-victims-poisoned-by-debris",
+      "published_date": "2026-09-11T05:16:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "‘I’m spending my savings just to survive’: Iran’s economic crisis fuels new protests",
@@ -543,31 +564,87 @@
       "category": "Economy"
     },
     {
-      "title": "'Polarised Brazil': Lula remains a ‘strong candidate’ despite the challenges of incumbency",
+      "title": "A fire destroys part of a migrant camp in the Spanish enclave of Ceuta",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260907-polarised-brazil-lula-remains-a-strong-candidate-despite-the-challenges-of-incumbency",
-      "published_date": "2026-09-07T18:50:52+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260911-a-fire-destroys-part-of-a-migrant-camp-in-the-spanish-enclave-of-ceuta",
+      "published_date": "2026-09-11T14:41:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "What now for Germany's Merz after AfD win?",
+      "title": "French far-right leader polling ahead for 2027 election: should the EU be afraid?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260907-what-now-for-germany-s-merz-after-afd-win",
-      "published_date": "2026-09-07T14:01:30+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/french-far-right-leader-polling-ahead-for-2027-election-should-the-eu-be-afraid",
+      "published_date": "2026-09-11T14:14:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Driverless taxi services are rolling out fast across the world",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/tech-24/20260907-driverless-taxi-services-are-rolling-out-fast-across-the-world",
-      "published_date": "2026-09-07T12:29:33+00:00",
-      "category": "Economy"
+      "title": "Casting call in Paris for stylish middle-aged men",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260911/casting-call-in-paris-for-stylish-middle-aged-men",
+      "published_date": "2026-09-11T13:51:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French father jailed for threatening to behead son's teacher",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260911/french-father-jailed-for-threatening-to-behead-sons-teacher",
+      "published_date": "2026-09-11T13:32:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine",
+      "published_date": "2026-09-11T12:01:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion sparks mass karaoke and power-ballad fever with return to stage in Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/sep/11/celine-dion-fans-paris-sold-out-comeback-shows",
+      "published_date": "2026-09-11T10:56:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French rail workers call September strike",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260911/french-rail-workers-call-september-strike",
+      "published_date": "2026-09-11T10:28:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Children killed in stampede as fire sweeps through schools in eastern DRC",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260911-children-killed-in-stampede-as-fire-sweeps-through-schools-in-eastern-drc",
+      "published_date": "2026-09-11T08:48:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "It’s all coming back: Celine Dion fans gear up for Paris return",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260911/its-all-coming-back-celine-dion-fans-gear-up-for-paris-return",
+      "published_date": "2026-09-11T07:04:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BredaPhoto Festival  – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/11/bredaphoto-festival-in-pictures",
+      "published_date": "2026-09-11T06:00:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran",
       "published_date": "2026-09-10T22:55:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-10T22:36:02+00:00",
       "category": "Local Events"
     },
     {
@@ -624,83 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/hindu-sect-baps-comes-under-scrutiny-in-france-us",
       "published_date": "2026-09-10T16:06:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "9/11: Drones light up NYC ahead of 25th anniversary",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-9-11-drones-light-up-nyc-ahead-of-25th-anniversary",
-      "published_date": "2026-09-10T15:46:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Montserrat: The 'Pompeii' of the Caribbean",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260910-montserrat-the-pompeii-of-the-caribbean",
-      "published_date": "2026-09-10T13:58:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "RN 'breach': Amid 'severe' differences with 'bright, young' Bardella, Le Pen 'dictates party line'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260910-rn-breach-amid-severe-differences-with-bright-young-bardella-le-pen-dictates-party-line",
-      "published_date": "2026-09-10T12:39:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "RN 'breach': Amid 'severe' differences with 'bright, young' Bardella, Le Pen 'dictates party line'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-rn-breach-amid-severe-differences-with-bright-young-bardella-le-pen-dictates-party-line-1",
-      "published_date": "2026-09-10T12:25:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rubio in Peru: Protestors take the streets against US Secretary of State's visit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-rubio-in-peru-protestors-take-the-streets-against-us-secretary-of-state-s-visit",
-      "published_date": "2026-09-10T11:30:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 of the best French horror movies",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260910/5-of-the-best-french-horror-movies",
-      "published_date": "2026-09-10T09:42:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Femme Infidèle review – Chabrol’s eerie domestic thriller is a brilliant ballet of repression and fear",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/10/la-femme-infidele-review-claude-chabrol",
-      "published_date": "2026-09-10T08:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police officers suspended over racist video as far-right links emerge",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260910-four-police-officers-suspended-in-carcassonne-over-racist-and-sexist-video",
-      "published_date": "2026-09-10T07:09:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thursday briefing: 68 facts about the Bayeux tapestry as it goes on display",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/10/thursday-briefing-68-facts-about-the-bayeux-tapestry-as-it-goes-on-display",
-      "published_date": "2026-09-10T05:47:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil Supreme Court chief suspends rival rulings amid election row",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260909-brazil-supreme-court-chief-suspends-rival-rulings-amid-election-row",
-      "published_date": "2026-09-09T23:44:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: Iraola celebrates Liverpool win against Atletico Madrid",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260909-champions-league-iraola-celebrates-liverpool-win-against-atletico-madrid",
-      "published_date": "2026-09-09T23:24:05+00:00",
       "category": "Local Events"
     }
   ]
