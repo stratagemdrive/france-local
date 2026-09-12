@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-09-11T14:48:31.674000+00:00",
+  "last_updated": "2026-09-12T00:51:57.921065+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/11/sweden-brexit-hardline-migration-policy-britons-eu",
+      "published_date": "2026-09-11T17:41:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump delivers remarks at Pentagon ceremony to mark 25th anniversary of 9/11",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11",
+      "published_date": "2026-09-11T15:29:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "I'm extremely worried by extremists that win elections in Europe: Luxembourg's PM Luc Frieden",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260911-i-m-extremely-worried-by-extremists-that-win-elections-in-europe-luxembourg-s-pm-luc-frieden",
+      "published_date": "2026-09-11T14:53:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260911-trump-commemorates-the-25th-anniversary-of-the-9-11-attacks-at-the-pentagon",
+      "published_date": "2026-09-11T14:40:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hundreds of asylum seekers removed from UK to France have disappeared, say NGOs",
       "source": "The Guardian",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Aid cuts force clinic closures across Sudan",
+      "title": "Zelensky urges Trump to impose new Russia sanctions 'now', after deadly Ukraine strikes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/aid-cuts-force-clinic-closures-across-sudan",
-      "published_date": "2026-09-09T20:32:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260911-zelensky-urges-trump-to-impose-new-russia-sanctions-now-after-deadly-ukraine-strikes",
+      "published_date": "2026-09-11T19:13:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU gives Spain 115 mn euros aid over Ceuta crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/eu-gives-spain-115-mn-euros-aid-over-ceuta-crisis",
-      "published_date": "2026-09-09T19:06:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe’s ‘imagination gap’ risks empowering far right, survey warns",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260909-europe-s-imagination-gap-risks-empowering-far-right-survey-warns",
-      "published_date": "2026-09-09T18:53:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Guardian view on UK-EU relations: voters would reward greater ambition | Editorial",
+      "title": "Enjoy Łódź – but don’t omit its tragic past | Letter",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/09/the-guardian-view-on-uk-eu-relations-voters-would-reward-greater-ambition",
-      "published_date": "2026-09-09T17:40:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/11/enjoy-odz-but-dont-omit-its-tragic-past",
+      "published_date": "2026-09-11T17:09:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Elections in Russia: the 1001 tricks to remove inconvenient candidates",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260911-elections-in-russia-the-1001-tricks-to-remove-inconvenient-candidates",
+      "published_date": "2026-09-11T16:11:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump uses 9/11 memorial speech to defend war in Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260911-trump-uses-9-11-memorial-speech-to-defend-war-in-iran",
+      "published_date": "2026-09-11T15:06:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "REPLAY: Hegseth warns of 'Islamist threat' at 9/11 25th anniversary commemorations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260911-replay-hegseth-warns-of-islamist-threat-at-9-11-25th-anniversary-commemorations",
+      "published_date": "2026-09-11T14:46:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Ethiopia's Tigray rebels accuse govt of new drone strike",
+      "title": "Iran-backed Houthis seize near control of vital Bab el-Mandeb shipping lane",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-ethiopia-s-tigray-rebels-accuse-govt-of-new-drone-strike",
-      "published_date": "2026-09-10T11:23:38+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/middle-east/20260911-iran-backed-houthis-seize-near-control-of-vital-bab-el-mandeb-shipping-lane",
+      "published_date": "2026-09-11T20:09:31+00:00",
+      "category": "Energy"
     },
     {
-      "title": "South Korea to boost artificial intelligence ties with Africa",
+      "title": "🔴 Live: Saudi shuts East-West oil pipeline after multiple Houthi attacks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-south-korea-to-boost-artificial-intelligence-ties-with-africa",
-      "published_date": "2026-09-10T11:22:23+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/middle-east/20260911-middle-east-live-trump-says-he-has-no-regrets-about-launching-war-on-iran",
+      "published_date": "2026-09-11T19:25:51+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Sudan war: Chad denies allegations of logistical support to RSF rebels",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-sudan-war-chad-denies-allegations-of-logistical-support-to-rsf-rebels",
-      "published_date": "2026-09-10T11:21:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PSG make perfect start to Champions League title defence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260910-psg-make-perfect-start-to-champions-league-title-defence",
-      "published_date": "2026-09-10T10:46:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen's Houthis close in on stranglehold over strategic Bab el-Mandeb Strait",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-yemen-s-houthis-close-in-on-stranglehold-over-strategic-bab-el-mandeb-strait",
-      "published_date": "2026-09-10T10:33:35+00:00",
-      "category": "Military"
+      "title": "How 100 days of record ocean heat is reshaping life in and around the seas",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260911-how-100-days-of-record-ocean-heat-is-reshaping-life-in-and-around-the-seas",
+      "published_date": "2026-09-11T16:10:58+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘Fresh from the roof’: the supermarket growing salad a few metres above the tills",
@@ -400,27 +421,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/08/anti-afd-protests-germany-far-right-berlin-mecklenburg-western-pomerania",
       "published_date": "2026-09-08T12:54:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Tunisians tell the story of their summer of shortages",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260907-tunisians-tell-story-their-summer-shortages",
-      "published_date": "2026-09-07T18:50:16+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Climate crisis: How the supersized El Niño could hit Europe",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260907/climate-crisis-how-the-supersized-el-nino-could-hit-europe",
-      "published_date": "2026-09-07T09:19:23+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "We’re the mayors of Paris, Milan and Phoenix. The heat crisis has us all facing the same question | Emmanuel Grégoire, Giuseppe Sala and Kate Gallego",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/07/heat-climate-crisis-paris-milan-phoenix",
-      "published_date": "2026-09-07T08:00:28+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,41 @@
       "category": "Economy"
     },
     {
+      "title": "Children die in a school fire in Bukavu",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260911-children-die-in-a-school-fire-in-bukavu",
+      "published_date": "2026-09-11T20:18:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on art heists: don’t believe the Hollywood hype | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-art-heists-dont-believe-the-hollywood-hype",
+      "published_date": "2026-09-11T16:33:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flavio Bolsonaro probed for corruption as Brazil election tightens",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260911-flavio-bolsonaro-probed-for-corruption-as-brazil-election-tightens",
+      "published_date": "2026-09-11T16:21:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Celine Dion fever hits Paris!",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260911-celine-dion-fever-hits-paris",
+      "published_date": "2026-09-11T15:18:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion duets with fan ahead of Paris comeback concert",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm2q8gg09d1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-11T14:54:07+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "A fire destroys part of a migrant camp in the Spanish enclave of Ceuta",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260911-a-fire-destroys-part-of-a-migrant-camp-in-the-spanish-enclave-of-ceuta",
@@ -666,41 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/french-firefighters-on-six-week-strike-after-record-summer-blazes",
       "published_date": "2026-09-10T19:41:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As New York marks 25 years since 9/11, Muslims recall stigmatisation in aftermath of attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/as-new-york-marks-25-years-since-9-11-muslims-recall-stigmatization-in-aftermath-of-attacks",
-      "published_date": "2026-09-10T19:32:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'No facts': Morocco denies involvement in deadly Ceuta migrant rush",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260910-no-facts-morocco-denies-involvement-in-deadly-ceuta-migrant-rush",
-      "published_date": "2026-09-10T19:32:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-backed-houthi-rebels-take-strategic-port-city-in-yemen-raising-threat-to-red-sea-shipping",
-      "published_date": "2026-09-10T19:18:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion: Fan recounts experience singing with the superstar",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-c%C3%A9line-dion-fan-recounts-experience-singing-with-the-superstar",
-      "published_date": "2026-09-10T16:08:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hindu sect BAPS comes under scrutiny in France, US",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/hindu-sect-baps-comes-under-scrutiny-in-france-us",
-      "published_date": "2026-09-10T16:06:57+00:00",
       "category": "Local Events"
     }
   ]
