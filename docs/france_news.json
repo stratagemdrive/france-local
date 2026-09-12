@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-09-12T00:51:57.921065+00:00",
+  "last_updated": "2026-09-12T13:49:42.647425+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Train derails in northwest France and injures 44",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260912/train-derails-in-northwest-france-and-injures-44",
+      "published_date": "2026-09-12T07:01:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bayeux tapestrymania has gripped Britain. But what does it say about our own age of war and upheaval? | Charlotte Higgins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/12/bayeux-tapestry-britain-war-british-museum-artwork",
+      "published_date": "2026-09-12T07:00:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sweden’s extremely close election could see far right enter government",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/12/sweden-extremely-close-election-could-see-far-right-enter-government",
+      "published_date": "2026-09-12T05:00:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
       "source": "The Guardian",
@@ -50,6 +71,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/11/emma-bonino-radical-italian-politician-abortion-divorce-dies",
       "published_date": "2026-09-11T09:21:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italy's Emma Bonino, champion of battles to legalise abortion and divorce, dies at 78",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260911-italy-s-emma-bonino-champion-of-battles-to-legalise-abortion-and-divorce-dies-at-78",
+      "published_date": "2026-09-11T08:33:12+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron calls for European crewed spaceflights within 10 years",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260910-macron-calls-for-european-crewed-spaceflights-within-10-years",
-      "published_date": "2026-09-10T10:34:25+00:00",
-      "category": "Diplomacy"
+      "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates",
+      "published_date": "2026-09-12T13:43:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "REPLAY: French President Macron addresses International Space Summit",
+      "title": "Russia intensifies attacks across Ukraine – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/12/russia-intensifies-attacks-across-ukraine-video",
+      "published_date": "2026-09-12T13:25:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia's Putin arrives in India as BRICS leaders begin talks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-replay-french-president-macron-addresses-international-space-summit",
-      "published_date": "2026-09-10T10:30:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260912-russia-s-putin-arrives-in-india-as-brics-leaders-begin-talks",
+      "published_date": "2026-09-12T10:16:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "August hottest month ever recorded globally, says EU monitor",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260910-august-hottest-month-ever-recorded-globally-says-eu-monitor",
-      "published_date": "2026-09-10T02:04:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rubio to seek $45 million in additional security funding for Ecuador",
+      "title": "Swiss researchers use AI to detect early warning signs of natural disasters",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260909-rubio-to-seek-45-million-in-additional-security-funding-for-ecuador",
-      "published_date": "2026-09-09T22:58:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260912-swiss-researchers-use-ai-to-detect-early-warning-signs-of-natural-disasters",
+      "published_date": "2026-09-12T09:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "BRICS leaders call for 'maximum restraint' as Middle East war threatens unity",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260912-brics-summit-set-to-be-dominated-by-wars-in-ukraine-and-iran",
+      "published_date": "2026-09-12T06:51:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T05:55:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
+      "published_date": "2026-09-12T02:12:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Zelensky urges Trump to impose new Russia sanctions 'now', after deadly Ukraine strikes",
@@ -235,53 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Russia tricks 'vulnerable' foreigners to fight in Ukraine war, Amnesty reports",
+      "title": "Before its peak, El Nino brings failed crops and empty fishing nets",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260912-before-its-peak-el-nino-brings-failed-crops-and-empty-fishing-nets",
+      "published_date": "2026-09-12T11:03:18+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Houthis seize key sites around Bab el-Mandeb as Saudi oil exports face disruption",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260910-russia-tricks-vulnerable-foreigners-to-fight-in-ukraine-war-amnesty-reports",
-      "published_date": "2026-09-10T15:20:51+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260912-houthis-seize-key-sites-around-bab-el-mandeb-as-saudi-oil-exports-face-disruption",
+      "published_date": "2026-09-12T10:27:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Orthodox church sends medieval prince’s remains to Russian troops in Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
-      "published_date": "2026-09-10T15:12:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
-      "published_date": "2026-09-10T14:23:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis seize key Yemeni Red Sea port, sources say, threatening global energy flows",
+      "title": "Middle East live: Saudi Arabia shuts down critical oil pipeline after attacks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-houthis-seize-key-yemeni-red-sea-port-sources-say-threatening-global-energy-flows",
-      "published_date": "2026-09-10T13:25:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Revisited: Consequences of the 2022 Nord Stream pipeline sabotage are still being felt",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/revisited/20260910-revisited-consequences-of-the-2022-nord-stream-pipeline-sabotage-are-still-being-felt",
-      "published_date": "2026-09-10T13:07:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Colombia court orders President de la Espriella to hide social media videos of him with dead bodies",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260910-colombia-court-orders-president-de-la-espriella-to-hide-social-media-videos-of-him-with-dead-bodies",
-      "published_date": "2026-09-10T11:31:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump highlights his own record at midterm Republican convention",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-trump-highlights-his-own-record-at-midterm-republican-convention",
-      "published_date": "2026-09-10T11:26:38+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq",
+      "published_date": "2026-09-12T05:19:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran-backed Houthis seize near control of vital Bab el-Mandeb shipping lane",
@@ -403,25 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "'US Midterm elections tend to be referendums on the unpopularity of the president'",
+      "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-midterm-elections-tend-to-be-referendums-on-the-unpopularity-of-the-president",
-      "published_date": "2026-09-08T16:25:34+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260912-brics-leaders-meet-in-india-as-wars-and-us-tensions-test-the-bloc",
+      "published_date": "2026-09-12T10:29:26+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
+      "title": "Brics leaders gather in New Delhi as bloc seeks greater global influence",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260912-brics-leaders-gather-in-new-delhi-as-bloc-seeks-greater-global-influence",
+      "published_date": "2026-09-12T07:24:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Close race in Sweden as hard right eyes role in government",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-08T15:57:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Anti-AfD protests sweep Germany as far right closes in on two more states",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/08/anti-afd-protests-germany-far-right-berlin-mecklenburg-western-pomerania",
-      "published_date": "2026-09-08T12:54:24+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/cwyz8dn5nn3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T00:56:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "France cuts growth forecast again as economic uncertainty weighs heavy",
@@ -543,25 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Canada will move faster from US reliance as tariffs take effect and Trump response looms",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/canada-will-move-faster-from-us-reliance-as-tariffs-take-effect-and-trump-response-looms",
-      "published_date": "2026-09-08T19:19:16+00:00",
-      "category": "Economy"
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T13:02:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Organised crime driving illicit cigarette factory boom ‘in almost every EU state’",
+      "title": "'A legend': Celine Dion poised for emotional comeback in Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260912/a-legend-celine-dion-poised-for-emotional-comeback-in-paris",
+      "published_date": "2026-09-12T11:07:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion fever grips Paris ahead of sold-out residency",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260912-c%C3%A9line-dion-fever-grips-paris-ahead-of-sold-out-residency",
+      "published_date": "2026-09-12T10:10:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rennes beat Olympique de Marseille to seize top spot in Ligue 1",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260912-rennes-beat-olympique-de-marseille-to-seize-top-spot-in-ligue-1",
+      "published_date": "2026-09-12T10:09:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jewish ‘supercop’ runs on Arab ticket in Israeli polls – and sparks a storm",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260912-jewish-supercop-runs-on-arab-ticket-in-israeli-polls-%E2%80%93-and-sparks-a-storm",
+      "published_date": "2026-09-12T09:50:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside France: Le Pen family squabbles and France's tipping wars",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260912/inside-france-le-pen-family-squabbles-and-frances-tipping-wars",
+      "published_date": "2026-09-12T08:56:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French police suspect Normandy train derailment was result of sabotage",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260912-french-police-investigate-suspected-sabotage-in-train-derailment",
+      "published_date": "2026-09-12T08:48:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French police suspect train derailment was sabotage",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260912/french-police-suspect-train-derailment-was-sabotage",
+      "published_date": "2026-09-12T08:22:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion poised for emotional comeback concert in Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260912-a-legend-celine-dion-poised-for-emotional-comeback-in-paris",
+      "published_date": "2026-09-12T05:23:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/08/organised-crime-illicit-cigarette-factory-boom-eu",
-      "published_date": "2026-09-08T15:00:42+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
+      "published_date": "2026-09-12T04:00:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Canada's counter-tariffs take effect as trade war with US heats up",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260908-canada-s-counter-tariffs-take-effect-as-trade-war-with-us-heats-up",
-      "published_date": "2026-09-08T13:04:27+00:00",
-      "category": "Economy"
+      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T00:24:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-11T23:06:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Children die in a school fire in Bukavu",
@@ -617,90 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260911/casting-call-in-paris-for-stylish-middle-aged-men",
       "published_date": "2026-09-11T13:51:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French father jailed for threatening to behead son's teacher",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260911/french-father-jailed-for-threatening-to-behead-sons-teacher",
-      "published_date": "2026-09-11T13:32:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine",
-      "published_date": "2026-09-11T12:01:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion sparks mass karaoke and power-ballad fever with return to stage in Paris",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/sep/11/celine-dion-fans-paris-sold-out-comeback-shows",
-      "published_date": "2026-09-11T10:56:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French rail workers call September strike",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260911/french-rail-workers-call-september-strike",
-      "published_date": "2026-09-11T10:28:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children killed in stampede as fire sweeps through schools in eastern DRC",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260911-children-killed-in-stampede-as-fire-sweeps-through-schools-in-eastern-drc",
-      "published_date": "2026-09-11T08:48:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "It’s all coming back: Celine Dion fans gear up for Paris return",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260911/its-all-coming-back-celine-dion-fans-gear-up-for-paris-return",
-      "published_date": "2026-09-11T07:04:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BredaPhoto Festival  – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/11/bredaphoto-festival-in-pictures",
-      "published_date": "2026-09-11T06:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran",
-      "published_date": "2026-09-10T22:55:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-10T22:36:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meta tests out putting fact-checking in users’ hands across Latin America",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/meta-tests-out-putting-fact-checking-in-users-hands-across-latin-america-1",
-      "published_date": "2026-09-10T20:11:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man jailed after threatening to kill son's teacher in French village",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-10T20:10:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French firefighters on six-week strike after record summer blazes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-firefighters-on-six-week-strike-after-record-summer-blazes",
-      "published_date": "2026-09-10T19:41:24+00:00",
       "category": "Local Events"
     }
   ]
