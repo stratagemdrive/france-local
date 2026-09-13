@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-09-12T13:49:42.647425+00:00",
+  "last_updated": "2026-09-13T00:35:12.434482+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "BRICS: What is in the joint statement from the 11 members?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260912-brics-what-is-in-the-joint-statement-from-the-11-members",
+      "published_date": "2026-09-12T15:45:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BRICS nations urge 'maximum restraint' in Middle East war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260912-brics-nations-urge-maximum-restraint-in-middle-east-war",
+      "published_date": "2026-09-12T14:42:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kremlin says meeting between Putin and Zelensky at Miami G20 'impossible'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260912-zelensky-willing-to-meet-putin-at-g20-kremlin-still-to-confirm-attendance",
+      "published_date": "2026-09-12T09:27:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Train derails in northwest France and injures 44",
       "source": "The Local France",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Algeria cuts diplomatic ties with UAE after years of mounting tensions",
+      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T20:27:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T17:38:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kenya: Crocodiles pushed towards homes by rising lakes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260912-kenya-crocodiles-pushed-towards-homes-by-rising-lakes",
+      "published_date": "2026-09-12T15:51:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Erdogan hints at larger nuclear partnership with Russia, unsettling Turkey's allies",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260910-algeria-cuts-diplomatic-ties-with-uae-after-years-of-mounting-tensions",
-      "published_date": "2026-09-10T13:47:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20260912-erdogan-hints-at-larger-nuclear-partnership-with-russia-unsettling-turkey-s-allies",
+      "published_date": "2026-09-12T15:36:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Algeria cuts diplomatic ties with United Arab Emirates over 'provocative and hostile actions'",
+      "title": "Anthropic boss calls for AI slowdown, Altman and Musk agree",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260910-algeria-cuts-diplomatic-ties-with-united-arab-emirates-over-provocative-and-hostile-actions",
-      "published_date": "2026-09-10T11:50:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rwanda positions itself as an African space pioneer",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-rwanda-positions-itself-as-an-african-space-pioneer",
-      "published_date": "2026-09-10T11:20:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/technology/20260912-anthropic-boss-calls-for-ai-slowdown-altman-and-musk-agree",
+      "published_date": "2026-09-12T15:29:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – live",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Putin in India for Brics summit overshadowed by war",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260911-putin-in-india-for-brics-summit-overshadowed-by-war",
-      "published_date": "2026-09-11T04:22:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Sweden lost its soul – and stopped being Sweden | Martin Gelin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/how-sweden-lost-its-soul-and-stopped-being-sweden",
-      "published_date": "2026-09-11T04:00:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-10T23:22:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran raises fuel prices for heavy users",
+      "title": "Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea",
       "source": "France 24",
-      "url": "https://www.france24.com/en/iran-raises-fuel-prices-for-heavy-users",
-      "published_date": "2026-09-10T18:48:25+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
+      "published_date": "2026-09-12T20:51:50+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Zelensky's plane 'almost hit' by drone en route to Oslo, Norway PM says",
+      "title": "Africa: Rethinking the city of tomorrow",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-zelensky-s-plane-almost-hit-by-drone-en-route-to-oslo-norway-pm-says",
-      "published_date": "2026-09-10T15:55:25+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260912-africa-rethinking-the-city-of-tomorrow",
+      "published_date": "2026-09-12T14:24:14+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Niger: Kafra oil block could hold 2.5 billion barrels",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260912-niger-kafra-oil-block-could-hold-2-5-billion-barrels",
+      "published_date": "2026-09-12T14:19:58+00:00",
+      "category": "Energy"
     },
     {
       "title": "Before its peak, El Nino brings failed crops and empty fishing nets",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Houthis report Saudi reprisals after oil sites set ablaze in wave of strikes",
+      "title": "Senegal: Building a home-grown space industry",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260909-houthis-report-saudi-reprisals-after-oil-sites-set-ablaze-in-wave-of-strikes",
-      "published_date": "2026-09-09T10:14:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Hormuz impasse deepens: Iran retaliates against US targets after its oil tankers destroyed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260909-hormuz-impasse-deepens-iran-retaliates-against-us-targets-after-its-oil-tankers-destroyed",
-      "published_date": "2026-09-09T10:02:23+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Middle East live: US destroys five Iranian oil tankers as Iran threatens Kuwait and Bahrain",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260908-middle-east-live-us-destroys-five-iranian-oil-tankers-as-iran-threatens-kuwait-and-bahrain",
-      "published_date": "2026-09-08T23:07:34+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260912-senegal-building-a-home-grown-space-industry",
+      "published_date": "2026-09-12T14:22:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
@@ -557,11 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "Canada PM stands his ground as Ottawa's retaliatory tariffs on US goods take effect",
+      "title": "Céline Dion performs first live show in more than six years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/sep/12/celine-dion-weeps-as-she-performs-first-live-show-in-more-than-six-years",
+      "published_date": "2026-09-12T22:50:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion makes historic Paris comeback, six years after last tour",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260908-canada-pm-stands-his-ground-as-ottawa-s-retaliatory-tariffs-on-us-goods-take-effect",
-      "published_date": "2026-09-08T20:11:06+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/culture/20260912-c%C3%A9line-dion-makes-historic-comeback-in-paris-six-years-after-last-tour",
+      "published_date": "2026-09-12T20:05:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The far right is becoming normalised in Germany – and winning. Australia should take heed | Charlotte Feakins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/13/the-far-right-is-becoming-normalised-in-germany-and-winning-australia-should-take-heed-ntwnfb",
+      "published_date": "2026-09-12T20:00:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters against Trump’s visit to Ireland react to ‘united Ireland’ comments – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/12/protesters-against-trumps-visit-to-ireland-react-to-united-ireland-comments-video",
+      "published_date": "2026-09-12T18:27:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion fans prepare for comeback concert in Paris",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T17:36:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tens of thousands protest against far-right AfD party in Germany",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260912-tens-of-thousands-of-people-protest-in-germany-against-far-right-afd",
+      "published_date": "2026-09-12T17:12:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The excitement is just too much!': Céline Dion poised for emotional comeback in Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260912-the-excitement-is-just-too-much-celine-dion-poised-for-emotional-comeback-in-paris",
+      "published_date": "2026-09-12T15:49:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French police suspect train derailment was sabotage",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260912-french-police-suspect-train-derailment-was-sabotage",
+      "published_date": "2026-09-12T15:47:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion fever grips Paris as fans prepare for comeback concerts",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20260912-celine-dion-fever-hits-paris-fans-as-mega-tour-gets-underway",
+      "published_date": "2026-09-12T15:35:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion's comeback: Why did she choose Paris?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260912-c%C3%A9line-dion-s-come-back-why-did-she-choose-paris",
+      "published_date": "2026-09-12T14:41:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DR Congo: At least 24 children die in school fire",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260912-dr-congo-at-least-24-children-die-in-school-fire",
+      "published_date": "2026-09-12T14:17:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Passenger train derails in France leaving at least 44 injured",
@@ -624,83 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260912-a-legend-celine-dion-poised-for-emotional-comeback-in-paris",
       "published_date": "2026-09-12T05:23:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
-      "published_date": "2026-09-12T04:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-12T00:24:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T23:06:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children die in a school fire in Bukavu",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260911-children-die-in-a-school-fire-in-bukavu",
-      "published_date": "2026-09-11T20:18:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on art heists: don’t believe the Hollywood hype | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-art-heists-dont-believe-the-hollywood-hype",
-      "published_date": "2026-09-11T16:33:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flavio Bolsonaro probed for corruption as Brazil election tightens",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260911-flavio-bolsonaro-probed-for-corruption-as-brazil-election-tightens",
-      "published_date": "2026-09-11T16:21:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Celine Dion fever hits Paris!",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260911-celine-dion-fever-hits-paris",
-      "published_date": "2026-09-11T15:18:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion duets with fan ahead of Paris comeback concert",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm2q8gg09d1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T14:54:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A fire destroys part of a migrant camp in the Spanish enclave of Ceuta",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260911-a-fire-destroys-part-of-a-migrant-camp-in-the-spanish-enclave-of-ceuta",
-      "published_date": "2026-09-11T14:41:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right leader polling ahead for 2027 election: should the EU be afraid?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-far-right-leader-polling-ahead-for-2027-election-should-the-eu-be-afraid",
-      "published_date": "2026-09-11T14:14:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Casting call in Paris for stylish middle-aged men",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260911/casting-call-in-paris-for-stylish-middle-aged-men",
-      "published_date": "2026-09-11T13:51:52+00:00",
       "category": "Local Events"
     }
   ]
