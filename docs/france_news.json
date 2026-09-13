@@ -1,8 +1,78 @@
 {
   "country": "France",
-  "last_updated": "2026-09-13T00:35:12.434482+00:00",
+  "last_updated": "2026-09-13T14:46:19.215714+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Macron and Carney to visit French islands after Trump's map post",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260913/macron-and-carney-to-visit-french-islands-after-trumps-map-post",
+      "published_date": "2026-09-13T14:06:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade",
+      "published_date": "2026-09-13T10:48:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BRICS summit: What came out of the New Delhi meeting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/brics-summit-what-came-out-of-the-new-delhi-meeting",
+      "published_date": "2026-09-13T09:27:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron, Carney to visit North Atlantic French islands after Trump's map post",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260913-macron-carney-to-visit-french-islands-after-trump-s-map-post",
+      "published_date": "2026-09-13T09:25:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France apologises for diplomatic spat with US to lift block on new ambassador to Washington",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260913-france-apologises-for-diplomatic-spat-with-us-to-lift-block-on-new-ambassador-to-washington",
+      "published_date": "2026-09-13T09:01:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France moves to defuse US row over UN social media post",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260913-france-moves-to-defuse-us-row-over-un-social-media-post",
+      "published_date": "2026-09-13T07:57:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France apologizes for UN diplomatic spat with Washington",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260913/france-apologizes-for-un-diplomatic-spat-with-washington",
+      "published_date": "2026-09-13T07:27:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260913/on-the-agenda-whats-happening-in-france-this-week-227",
+      "published_date": "2026-09-13T07:02:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New laws, banking rules, and must-visit exhibitions: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260913/new-laws-banking-rules-and-must-visit-exhibitions-6-essential-articles-for-life-in-france",
+      "published_date": "2026-09-13T07:01:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Swedes vote in close general election that could usher far right into government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260913-swedes-vote-in-close-general-election-that-could-usher-far-right-into-government",
+      "published_date": "2026-09-13T06:16:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "BRICS: What is in the joint statement from the 11 members?",
       "source": "France 24",
@@ -74,74 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hundreds of asylum seekers removed from UK to France have disappeared, say NGOs",
+      "title": "Yemen: The Houthis test Iran's regional influence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260913-yemen-the-houthis-test-iran-s-regional-influence",
+      "published_date": "2026-09-13T13:29:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen: Houthi offensive triggers new displacement crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/yemen-houthi-offensive-triggers-new-displacement-crisis",
+      "published_date": "2026-09-13T09:18:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump slams AI skeptics as Altman pauses OpenAI IPO plans over safety concerns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/technology/20260913-trump-slams-ai-skeptics-as-altman-pauses-openai-ipo-plans-over-safety-concerns",
+      "published_date": "2026-09-13T08:23:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East live: Houthis say hit Saudi base after renewed fighting with Yemeni forces",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260913-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
+      "published_date": "2026-09-13T05:11:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin would rather keep killing than admit he’s lost. As a winter of misery looms in Ukraine, Nato must step in | Simon Tisdall",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/11/asylum-seekers-removed-uk-to-france-disappeared-children-one-in-one-out",
-      "published_date": "2026-09-11T11:33:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/13/putin-ukraine-nato-russia-forever-war-crime-against-humanity-western-democracies",
+      "published_date": "2026-09-13T05:00:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Big tech to banking: Which companies spend the most on EU lobbying?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260911/big-tech-to-banking-which-companies-spend-the-most-on-eu-lobbying",
-      "published_date": "2026-09-11T11:02:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Emma Bonino, radical Italian politician who stood up to Vatican, dies aged 78",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/11/emma-bonino-radical-italian-politician-abortion-divorce-dies",
-      "published_date": "2026-09-11T09:21:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Italy's Emma Bonino, champion of battles to legalise abortion and divorce, dies at 78",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260911-italy-s-emma-bonino-champion-of-battles-to-legalise-abortion-and-divorce-dies-at-78",
-      "published_date": "2026-09-11T08:33:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French government warns TV channel about using expelled Russian pundit",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260911/french-government-warns-tv-channel-about-using-expelled-russian-pundit",
-      "published_date": "2026-09-11T07:45:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Space: Europe urged to find its path, from crewed spaceflight to communications",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260910-space-europe-urged-to-find-its-path-from-crewed-spaceflight-to-communications",
-      "published_date": "2026-09-10T21:05:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Space: Europe urged to find its path, from crewed spaceflight to communications",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/space-europe-urged-to-find-its-path-from-crewed-spaceflight-to-communications",
-      "published_date": "2026-09-10T21:03:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Russia-tied French billionaires opening UK's first historical theme park – explainer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/10/the-russia-tied-french-billionaires-opening-uks-first-historical-theme-park-explainer",
-      "published_date": "2026-09-10T16:17:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Eiffel Tower row exposes BAPS Hindu group as 'spearhead of Modi's soft power'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260910-eiffel-tower-row-exposes-baps-hindu-group-as-spearhead-of-modi-s-soft-power",
-      "published_date": "2026-09-10T16:16:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "International Space Summit: Europe plays catch-up with US and China",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20260910-international-space-summit-europe-plays-catch-up-with-us-and-china",
-      "published_date": "2026-09-10T15:28:11+00:00",
-      "category": "Diplomacy"
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T23:51:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
@@ -239,48 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/11/enjoy-odz-but-dont-omit-its-tragic-past",
       "published_date": "2026-09-11T17:09:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Elections in Russia: the 1001 tricks to remove inconvenient candidates",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260911-elections-in-russia-the-1001-tricks-to-remove-inconvenient-candidates",
-      "published_date": "2026-09-11T16:11:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump uses 9/11 memorial speech to defend war in Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260911-trump-uses-9-11-memorial-speech-to-defend-war-in-iran",
-      "published_date": "2026-09-11T15:06:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "REPLAY: Hegseth warns of 'Islamist threat' at 9/11 25th anniversary commemorations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260911-replay-hegseth-warns-of-islamist-threat-at-9-11-25th-anniversary-commemorations",
-      "published_date": "2026-09-11T14:46:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates",
-      "published_date": "2026-09-11T14:09:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Did the War on Terror succeed? Or did Washington fall into al Qaeda’s trap?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260911-did-the-war-on-terror-succeed-or-did-washington-fall-into-al-qaeda-s-trap",
-      "published_date": "2026-09-11T09:16:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘A fierce need to be independent’: Gerda Taro biopic pulls photographer out of lover Robert Capa’s shadow",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/sep/11/gerda-taro-biopic-robert-capa-spain-photography-venice-film-festival",
-      "published_date": "2026-09-11T05:00:01+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Yemen: Fighting escalates around the Bab el-Mandeb Strait",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/yemen-fighting-escalates-around-the-bab-el-mandeb-strait",
+      "published_date": "2026-09-13T13:15:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ukraine war briefing: Nine killed and dozens wounded in Russian strikes as Kyiv braces for harsh winter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/13/ukraine-war-briefing-nine-killed-and-dozens-wounded-in-russian-strikes-as-kyiv-braces-for-harsh-winter",
+      "published_date": "2026-09-13T01:22:31+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Senegal: Building a home-grown space industry",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260912-senegal-building-a-home-grown-space-industry",
@@ -550,18 +564,123 @@
       "category": "Economy"
     },
     {
-      "title": "European democracies are running out of time to turn away from the abyss | Rafael Behr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/09/far-right-europe-afd-germany-nigel-farage",
-      "published_date": "2026-09-09T05:00:01+00:00",
-      "category": "Economy"
+      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-13T14:25:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Accelerating diversification: Canada seeks economic sovereignty amid Trump's 'nonsensical' posturing",
+      "title": "France public radio staff strike over commentator from far-right weekly",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260913/france-public-radio-staff-strike-over-commentator-from-far-right-weekly",
+      "published_date": "2026-09-13T14:15:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'I hope for a decent period in politics': views of voters as Sweden goes to the polls – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/13/views-voters-sweden-elections-video",
+      "published_date": "2026-09-13T13:17:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia: Second ferry disaster in five days",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260908-accelerating-diversification-canada-seeks-economic-sovereignty-amid-trump-s-nonsensical-posturing",
-      "published_date": "2026-09-08T21:02:16+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/indonesia-second-ferry-disaster-in-five-days",
+      "published_date": "2026-09-13T13:17:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedish far-right eyes role in government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/swedish-far-right-eyes-role-in-government",
+      "published_date": "2026-09-13T13:11:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Radio France staff strike over appointment of far-right weekly editor",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor",
+      "published_date": "2026-09-13T12:44:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Radio France staff strike over appointment of conservative magazine editor",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260913-radio-france-staff-strike-over-appointment-of-conservative-magazine-editor",
+      "published_date": "2026-09-13T11:52:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voting under way in Sweden with far right eyeing first role in government",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government",
+      "published_date": "2026-09-13T11:17:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden election: A turning point for the far right?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sweden-election-a-turning-point-for-the-far-right",
+      "published_date": "2026-09-13T09:48:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany: Thousands rally against far-right after AfD victory",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/germany-thousands-rally-against-far-right-after-afd-victory",
+      "published_date": "2026-09-13T09:41:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK: Police probe £72 million donation to Reform UK",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260913-uk-police-probe-%C2%A372-million-donation-to-reform-uk",
+      "published_date": "2026-09-13T09:26:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On Sept 12th, 'everyone was compassionate': The world needs 'to be together again' - Richard Roeill",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260913-on-sept-12th-everyone-was-compassionate-the-world-needs-to-be-together-again-richard-roeill",
+      "published_date": "2026-09-13T07:18:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How music became a 'balm' for New York in the aftermath of 9/11",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20260913-how-music-became-a-balm-for-new-york-in-the-aftermath-of-9-11",
+      "published_date": "2026-09-13T07:16:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who are the 514 people accused of starting French wildfires and what motivates them?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/13/france-confronts-arson-problem-after-devastating-summer-of-wildfires",
+      "published_date": "2026-09-13T06:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Second life': Nepal hydropower tunnel survivor recalls ordeal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260913-second-life-nepal-hydropower-tunnel-survivor-recalls-ordeal",
+      "published_date": "2026-09-13T04:17:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-13T02:41:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion review – singer’s first live show in years marks a triumphant, emotional return",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/sep/13/celine-dion-review-paris-comeback-emotional-triumphant-return-plenitude-arena",
+      "published_date": "2026-09-13T01:47:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Céline Dion performs first live show in more than six years",
@@ -582,125 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/sep/13/the-far-right-is-becoming-normalised-in-germany-and-winning-australia-should-take-heed-ntwnfb",
       "published_date": "2026-09-12T20:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters against Trump’s visit to Ireland react to ‘united Ireland’ comments – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/12/protesters-against-trumps-visit-to-ireland-react-to-united-ireland-comments-video",
-      "published_date": "2026-09-12T18:27:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-12T17:36:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of thousands protest against far-right AfD party in Germany",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260912-tens-of-thousands-of-people-protest-in-germany-against-far-right-afd",
-      "published_date": "2026-09-12T17:12:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'The excitement is just too much!': Céline Dion poised for emotional comeback in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260912-the-excitement-is-just-too-much-celine-dion-poised-for-emotional-comeback-in-paris",
-      "published_date": "2026-09-12T15:49:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police suspect train derailment was sabotage",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260912-french-police-suspect-train-derailment-was-sabotage",
-      "published_date": "2026-09-12T15:47:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion fever grips Paris as fans prepare for comeback concerts",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260912-celine-dion-fever-hits-paris-fans-as-mega-tour-gets-underway",
-      "published_date": "2026-09-12T15:35:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion's comeback: Why did she choose Paris?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260912-c%C3%A9line-dion-s-come-back-why-did-she-choose-paris",
-      "published_date": "2026-09-12T14:41:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DR Congo: At least 24 children die in school fire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260912-dr-congo-at-least-24-children-die-in-school-fire",
-      "published_date": "2026-09-12T14:17:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passenger train derails in France leaving at least 44 injured",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-12T13:02:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'A legend': Celine Dion poised for emotional comeback in Paris",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260912/a-legend-celine-dion-poised-for-emotional-comeback-in-paris",
-      "published_date": "2026-09-12T11:07:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion fever grips Paris ahead of sold-out residency",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260912-c%C3%A9line-dion-fever-grips-paris-ahead-of-sold-out-residency",
-      "published_date": "2026-09-12T10:10:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rennes beat Olympique de Marseille to seize top spot in Ligue 1",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260912-rennes-beat-olympique-de-marseille-to-seize-top-spot-in-ligue-1",
-      "published_date": "2026-09-12T10:09:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewish ‘supercop’ runs on Arab ticket in Israeli polls – and sparks a storm",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260912-jewish-supercop-runs-on-arab-ticket-in-israeli-polls-%E2%80%93-and-sparks-a-storm",
-      "published_date": "2026-09-12T09:50:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside France: Le Pen family squabbles and France's tipping wars",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260912/inside-france-le-pen-family-squabbles-and-frances-tipping-wars",
-      "published_date": "2026-09-12T08:56:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police suspect Normandy train derailment was result of sabotage",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260912-french-police-investigate-suspected-sabotage-in-train-derailment",
-      "published_date": "2026-09-12T08:48:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police suspect train derailment was sabotage",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260912/french-police-suspect-train-derailment-was-sabotage",
-      "published_date": "2026-09-12T08:22:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion poised for emotional comeback concert in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260912-a-legend-celine-dion-poised-for-emotional-comeback-in-paris",
-      "published_date": "2026-09-12T05:23:12+00:00",
       "category": "Local Events"
     }
   ]
