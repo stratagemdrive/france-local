@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-09-13T14:46:19.215714+00:00",
+  "last_updated": "2026-09-14T00:39:42.594783+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-13T19:34:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border",
+      "published_date": "2026-09-13T17:43:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron, Carney to visit French Atlantic islands with sovereignty message to Trump",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260913-macron-carney-to-visit-french-atlantic-islands-with-sovereignty-message-to-trump",
+      "published_date": "2026-09-13T17:23:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron and Carney to visit French islands after Trump's map post",
       "source": "The Local France",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump delivers remarks at Pentagon ceremony to mark 25th anniversary of 9/11",
+      "title": "Ukraine, Poland condemn Russia after drone strikes train near border",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11",
-      "published_date": "2026-09-11T15:29:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "I'm extremely worried by extremists that win elections in Europe: Luxembourg's PM Luc Frieden",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260911-i-m-extremely-worried-by-extremists-that-win-elections-in-europe-luxembourg-s-pm-luc-frieden",
-      "published_date": "2026-09-11T14:53:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260911-trump-commemorates-the-25th-anniversary-of-the-9-11-attacks-at-the-pentagon",
-      "published_date": "2026-09-11T14:40:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260913-poland-ukraine-slam-russian-strikes-near-border-as-escalation",
+      "published_date": "2026-09-13T17:59:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemen: The Houthis test Iran's regional influence",
@@ -274,13 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260911-zelensky-urges-trump-to-impose-new-russia-sanctions-now-after-deadly-ukraine-strikes",
       "published_date": "2026-09-11T19:13:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Enjoy Łódź – but don’t omit its tragic past | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/11/enjoy-odz-but-dont-omit-its-tragic-past",
-      "published_date": "2026-09-11T17:09:04+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Sucker Punch: How the Houthis shocked the Gulf",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260913-sucker-punch-how-the-houthis-shocked-the-gulf",
+      "published_date": "2026-09-13T18:46:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The far right’s rise is a wake-up call for Europe | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/13/the-far-rights-rise-is-a-wake-up-call-for-europe",
+      "published_date": "2026-09-13T15:58:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Yemen: Fighting escalates around the Bab el-Mandeb Strait",
       "source": "France 24",
       "url": "https://www.france24.com/en/yemen-fighting-escalates-around-the-bab-el-mandeb-strait",
@@ -550,18 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Merz accuses AfD of ‘ethnic cleansing’ policy and cancels call with Trump",
+      "title": "Centre-left bloc leads Swedish elections – as it happened",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/09/friedrich-merz-afd-far-right-accused-seeking-ethnic-cleansing-saxony-anhalt-election",
-      "published_date": "2026-09-09T13:43:03+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates",
+      "published_date": "2026-09-13T23:50:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US Rubio pledges to 'restore' ties with Colombia's new, Trump-friendly leader",
+      "title": "The 'authenticity' of Celine Dion: 'She appeals to the Boomers and the Zoomers'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260909-us-rubio-pledges-to-restore-ties-with-colombia-s-new-trump-friendly-leader",
-      "published_date": "2026-09-09T10:05:25+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260913-the-authenticity-of-celine-dion-she-appeals-to-the-boomers-and-the-zoomers",
+      "published_date": "2026-09-13T21:18:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French nationals must come before foreigners, insists far-right's Marine Le Pen",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260913/french-must-come-before-foreigners-insists-far-right-marine-le-pen",
+      "published_date": "2026-09-13T17:42:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I gave up my life to care for my father’: How 9/11 shaped a son’s sense of duty and life trajectory",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/i-gave-up-my-life-to-care-for-my-father-how-9-11-shaped-a-son-s-sense-of-duty-and-life-trajectory",
+      "published_date": "2026-09-13T17:10:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We did what we had to do’: 25 years on, 9/11 first responder reflects on duty, survival and family",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/we-did-what-we-had-to-do-25-years-on-9-11-first-responder-reflects-on-duty-survival-and-family",
+      "published_date": "2026-09-13T16:18:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden: Tight election puts all eyes on the far right",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sweden-tight-election-puts-all-eyes-on-the-far-right",
+      "published_date": "2026-09-13T15:55:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A painful truth about post-Brexit immigration | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/13/a-painful-truth-about-post-brexit-immigration",
+      "published_date": "2026-09-13T15:54:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's far-right Marine Le Pen kicks off 2027 presidential campaign",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-s-far-right-marine-le-pen-kicks-off-2027-presidential-campaign",
+      "published_date": "2026-09-13T15:41:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surfing: France tests Olympic venue ahead of LA 2028",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/surfing-france-tests-olympic-venue-ahead-of-la-2028",
+      "published_date": "2026-09-13T15:04:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
@@ -638,69 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260913-uk-police-probe-%C2%A372-million-donation-to-reform-uk",
       "published_date": "2026-09-13T09:26:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On Sept 12th, 'everyone was compassionate': The world needs 'to be together again' - Richard Roeill",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260913-on-sept-12th-everyone-was-compassionate-the-world-needs-to-be-together-again-richard-roeill",
-      "published_date": "2026-09-13T07:18:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How music became a 'balm' for New York in the aftermath of 9/11",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260913-how-music-became-a-balm-for-new-york-in-the-aftermath-of-9-11",
-      "published_date": "2026-09-13T07:16:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who are the 514 people accused of starting French wildfires and what motivates them?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/13/france-confronts-arson-problem-after-devastating-summer-of-wildfires",
-      "published_date": "2026-09-13T06:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Second life': Nepal hydropower tunnel survivor recalls ordeal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260913-second-life-nepal-hydropower-tunnel-survivor-recalls-ordeal",
-      "published_date": "2026-09-13T04:17:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-13T02:41:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion review – singer’s first live show in years marks a triumphant, emotional return",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/sep/13/celine-dion-review-paris-comeback-emotional-triumphant-return-plenitude-arena",
-      "published_date": "2026-09-13T01:47:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion performs first live show in more than six years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/sep/12/celine-dion-weeps-as-she-performs-first-live-show-in-more-than-six-years",
-      "published_date": "2026-09-12T22:50:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion makes historic Paris comeback, six years after last tour",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20260912-c%C3%A9line-dion-makes-historic-comeback-in-paris-six-years-after-last-tour",
-      "published_date": "2026-09-12T20:05:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The far right is becoming normalised in Germany – and winning. Australia should take heed | Charlotte Feakins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/13/the-far-right-is-becoming-normalised-in-germany-and-winning-australia-should-take-heed-ntwnfb",
-      "published_date": "2026-09-12T20:00:46+00:00",
       "category": "Local Events"
     }
   ]
