@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-09-15T01:08:33.486481+00:00",
+  "last_updated": "2026-09-15T15:25:23.662243+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+      "published_date": "2026-09-15T15:18:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
+      "published_date": "2026-09-15T14:39:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-15T09:07:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Amid France’s political 'fragmentation', 'a case needs to be made for participatory democracy’",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/amid-france-s-political-fragmentation-a-case-needs-to-be-made-for-participatory-democracy",
+      "published_date": "2026-09-15T08:01:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lack of 'enforcement of EU laws': Consumer products contain 'illegal levels of restricted chemicals'",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/lack-of-enforcement-of-eu-laws-consumer-products-contain-illegal-levels-of-restricted-chemicals",
+      "published_date": "2026-09-15T07:28:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NHL star Alex Ovechkin appears in campaign ad for pro-Putin United Russia party",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/sep/14/nhl-star-alex-ovechkin-appears-in-campaign-ad-for-pro-putin-united-russia-party",
+      "published_date": "2026-09-15T03:53:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war live: NATO downs drone over Lithuania, Russian frigate fires flares at Danish helicopter",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion",
+      "published_date": "2026-09-15T02:19:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Leaders urge EU to boost Arctic role to tackle Russia 'threat'",
       "source": "France 24",
@@ -11,9 +60,23 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Leaders urge EU to boost Arctic role to tackle Russia 'threat'",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/leaders-urge-eu-to-boost-arctic-role-to-tackle-russia-threat",
+      "published_date": "2026-09-14T19:06:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Leaders urge EU to expand Arctic presence amid Russia 'threat'",
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260914-leaders-urge-eu-to-expand-arctic-presence-amid-russia-threat",
+      "published_date": "2026-09-14T17:41:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Leaders urge EU to expand Arctic presence amid Russia 'threat'",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/europe/20260914-leaders-urge-eu-to-expand-arctic-presence-amid-russia-threat",
       "published_date": "2026-09-14T17:41:53+00:00",
       "category": "Diplomacy"
     },
@@ -28,6 +91,13 @@
       "title": "International justice 'can't be erased' despite US sanctions: ICC prosecutor",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/international/20260914-icc-represents-an-ideal-that-cannot-be-erased-says-its-interim-prosecutor-mandiaye-niang-senegal-united-states",
+      "published_date": "2026-09-14T15:53:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "International justice 'can't be erased' despite US sanctions: ICC prosecutor",
+      "source": "RFI English",
+      "url": "http://www.rfi.fr/en/international/20260914-icc-represents-an-ideal-that-cannot-be-erased-says-its-interim-prosecutor-mandiaye-niang-senegal-united-states",
       "published_date": "2026-09-14T15:53:17+00:00",
       "category": "Diplomacy"
     },
@@ -74,79 +144,93 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nine EU countries further delay EES border checks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/14/eu-countries-delay-ees-entry-exit-system-border-checks-france-greece-portugal-italy",
-      "published_date": "2026-09-14T11:57:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Was Russian train strike meant to 'scare' the West?",
+      "title": "Rapid data center expansion incites backlash in Republican stronghold",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260914-was-russian-train-strike-meant-to-scare-the-west",
-      "published_date": "2026-09-14T11:41:49+00:00",
-      "category": "Diplomacy"
+      "url": "http://www.france24.com/en/tv-shows/focus/20260915-rapid-data-center-expansion-incites-backlash-in-republican-stronghold",
+      "published_date": "2026-09-15T15:05:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "REVEALED: Number of residency permits issued in Europe reaches record high",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260914/revealed-number-of-residency-permits-issued-in-europe-reaches-record-high",
-      "published_date": "2026-09-14T10:32:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France seeks EU backing for revised social media ban for under-15s",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260914-france-seeks-eu-backing-for-revised-social-media-ban-for-under-15s",
-      "published_date": "2026-09-14T10:06:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France submits new proposal to ban social media for under-15s",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260914/france-submits-new-proposal-to-ban-social-media-for-under-15s",
-      "published_date": "2026-09-14T08:15:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sweden's election too close to call, left opposition narrowly leads",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260914-sweden-s-left-opposition-narrowly-leads-as-election-too-close-to-call",
-      "published_date": "2026-09-14T05:51:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-13T19:34:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-15T11:40:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
+      "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border",
-      "published_date": "2026-09-13T17:43:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr",
+      "published_date": "2026-09-15T11:35:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron, Carney to visit French Atlantic islands with sovereignty message to Trump",
+      "title": "Venice best actress winner says she signed on at Danish job centre days before her victory",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/15/mathilde-arcel-job-centre-venice-film-festival-volpi-cup-woman-unknown",
+      "published_date": "2026-09-15T10:37:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war exposes US munitions shortfall, industrial bottlenecks, Pentagon report says",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
+      "published_date": "2026-09-15T06:07:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO jets shoot down drone over Lithuania in latest Baltic security incident",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260913-macron-carney-to-visit-french-atlantic-islands-with-sovereignty-message-to-trump",
-      "published_date": "2026-09-13T17:23:38+00:00",
-      "category": "Diplomacy"
+      "url": "http://www.rfi.fr/en/international/20260915-nato-jets-shoot-down-drone-over-lithuania-in-latest-baltic-security-incident",
+      "published_date": "2026-09-15T05:53:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron and Carney to visit French islands after Trump's map post",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260913/macron-and-carney-to-visit-french-islands-after-trumps-map-post",
-      "published_date": "2026-09-13T14:06:47+00:00",
-      "category": "Diplomacy"
+      "title": "Tuesday briefing: How to understand Wales, Scotland and Northern Ireland’s joint call for change",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/15/tuesday-briefing-how-to-understand-wales-scotland-and-northern-irelands-joint-call-for-change",
+      "published_date": "2026-09-15T05:45:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "🔴 Middle East live: Pentagon report says Iran war has led to munitions shortfall",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia",
+      "published_date": "2026-09-15T05:28:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Environmental activists angry over controversial AI data centre near Paris",
+      "source": "RFI English",
+      "url": "http://www.rfi.fr/en/environment/20260915-environmental-activists-angry-over-controversial-ai-data-centre-near-paris",
+      "published_date": "2026-09-15T05:19:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-15T05:01:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East live: Saudi Arabia vows to hit back ‘firmly’ after Houthi attacks",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia",
+      "published_date": "2026-09-15T03:06:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘SICK conspiracy’",
       "source": "France 24",
       "url": "https://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
+      "published_date": "2026-09-15T01:05:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
       "published_date": "2026-09-15T01:05:38+00:00",
       "category": "Military"
     },
@@ -158,9 +242,23 @@
       "category": "Military"
     },
     {
+      "title": "Zelensky says Ukraine ready to de-escalate if Russia halts strikes",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/europe/20260914-zelensky-says-ukraine-ready-to-de-escalate-if-russia-halts-strikes",
+      "published_date": "2026-09-14T22:57:26+00:00",
+      "category": "Military"
+    },
+    {
       "title": "US Space Force confirms weapons deployed in space for first time",
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260914-us-space-force-confirms-weapons-deployed-in-space-for-first-time",
+      "published_date": "2026-09-14T21:56:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Space Force confirms weapons deployed in space for first time",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/americas/20260914-us-space-force-confirms-weapons-deployed-in-space-for-first-time",
       "published_date": "2026-09-14T21:56:25+00:00",
       "category": "Military"
     },
@@ -172,6 +270,13 @@
       "category": "Military"
     },
     {
+      "title": "Yemen: Fact-checking videos claiming to show Houthi rebel attacks",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/yemen-fact-checking-videos-claiming-to-show-houthi-rebel-attacks-1",
+      "published_date": "2026-09-14T21:10:30+00:00",
+      "category": "Military"
+    },
+    {
       "title": "'Axis of Iranian centrality' remains \"one of more destabilising forces in the region\", expert says",
       "source": "France 24",
       "url": "https://www.france24.com/en/axis-of-iranian-centrality-remains-one-of-more-destabilising-forces-in-the-region-expert-says",
@@ -179,114 +284,51 @@
       "category": "Military"
     },
     {
-      "title": "Where is the kill switch? AI doomsday warnings trigger calls to regulate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260914-where-is-the-kill-switch-ai-doomsday-warnings-trigger-calls-to-regulate",
-      "published_date": "2026-09-14T18:22:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims  – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates",
-      "published_date": "2026-09-14T16:10:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK armed forces member killed in crash in Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/14/uk-armed-forces-member-killed-in-crash-ukraine",
-      "published_date": "2026-09-14T16:08:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Finland joins French nuclear umbrella amid European security push",
+      "title": "Workers across France stage protests over pay and rising costs",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260914-finland-joins-french-nuclear-umbrella-amid-european-security-push",
-      "published_date": "2026-09-14T14:54:35+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/france/20260915-strikes-protests-across-france-from-various-sectors-claiming-more-pay-resources",
+      "published_date": "2026-09-15T07:53:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Countries turn to coal to avoid shipping disruptions in the Strait of Hormuz",
+      "title": "Workers across France stage protests over pay and rising costs",
+      "source": "RFI English",
+      "url": "http://www.rfi.fr/en/france/20260915-strikes-protests-across-france-from-various-sectors-claiming-more-pay-resources",
+      "published_date": "2026-09-15T07:53:56+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "French labour strike reduces capacity at key Dunkirk gas terminal",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260914-countries-turn-to-coal-to-avoid-shipping-disruptions-in-the-strait-of-hormuz",
-      "published_date": "2026-09-14T14:08:22+00:00",
-      "category": "Military"
+      "url": "http://www.france24.com/en/france/20260915-french-labour-strike-reduces-capacity-key-dunkirk-gas-terminal",
+      "published_date": "2026-09-15T07:24:43+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train",
-      "published_date": "2026-09-14T14:01:43+00:00",
-      "category": "Military"
+      "title": "Fuel price protests kick off in France as oil terminal blocked in south",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260915/fuel-price-protests-kick-off-in-france-as-oil-terminal-blocked-in-south",
+      "published_date": "2026-09-15T07:10:48+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Should the brakes be put on AI?",
+      "title": "Venezuela to join G20 energy talks in Texas at US invitation",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260914-should-the-brakes-be-put-on-ai",
-      "published_date": "2026-09-14T13:02:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump criticises 'negative forces' seeking to slow AI development",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260914-trump-criticises-negative-forces-seeking-to-slow-ai-development",
-      "published_date": "2026-09-14T12:49:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia strikes Ukraine with drones as Poland warns of 'escalation'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260914-russia-strikes-ukraine-with-drones-as-poland-warns-of-escalation",
-      "published_date": "2026-09-14T11:37:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘They drove us from our land’: Thousands displaced by Yemen conflict",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260914-they-drove-us-from-our-land-thousands-displaced-by-yemen-conflict",
-      "published_date": "2026-09-14T10:22:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen govt forces hit back as conflict with Houthis intensifies",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260914-yemen-govt-forces-hit-back-as-conflict-with-houthis-intensifies",
-      "published_date": "2026-09-14T10:16:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Can Sweden restore welfare system amid increased defense spending?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260914-can-sweden-restore-welfare-system-amid-increased-defense-spending",
-      "published_date": "2026-09-14T09:25:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-14T01:12:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-13T23:16:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine, Poland condemn Russia after drone strikes train near border",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260913-poland-ukraine-slam-russian-strikes-near-border-as-escalation",
-      "published_date": "2026-09-13T17:59:11+00:00",
-      "category": "Military"
+      "url": "http://www.france24.com/en/americas/20260915-venezuela-to-join-g20-energy-meetings-in-texas-at-us-invitation",
+      "published_date": "2026-09-15T02:44:46+00:00",
+      "category": "Energy"
     },
     {
       "title": "Dangote refinery launches Africa’s biggest IPO for retail investors",
       "source": "France 24",
       "url": "https://www.france24.com/en/technology/20260915-dangote-refinery-launches-africa-biggest-ipo-for-retail-investors",
+      "published_date": "2026-09-15T00:05:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Nigeria's Dangote refinery launches biggest African IPO",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/africa/20260915-nigeria-s-dangote-refinery-launches-biggest-african-ipo-for-retail-investors",
       "published_date": "2026-09-15T00:05:32+00:00",
       "category": "Energy"
     },
@@ -298,9 +340,23 @@
       "category": "Energy"
     },
     {
+      "title": "Nigeria's Dangote refinery kicks off blockbuster IPO",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/tv-shows/business/20260914-nigeria-s-dangote-refinery-kicks-off-blockbuster-ipo",
+      "published_date": "2026-09-14T20:46:19+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Nigerian oil refinery Dangote aims to raise 1.6 billion dollars",
       "source": "France 24",
       "url": "https://www.france24.com/en/nigerian-oil-refinery-dangote-aims-to-raise-1-6-billion-dollars",
+      "published_date": "2026-09-14T20:31:28+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Nigerian oil refinery Dangote aims to raise 1.6 billion dollars",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/nigerian-oil-refinery-dangote-aims-to-raise-1-6-billion-dollars",
       "published_date": "2026-09-14T20:31:28+00:00",
       "category": "Energy"
     },
@@ -322,6 +378,13 @@
       "title": "'Historic day' for Nigeria as Dangote oil refinery launches IPO",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20260914-historic-day-for-nigeria-as-dangote-oil-refinery-launches-ipo",
+      "published_date": "2026-09-14T10:56:11+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "'Historic day' for Nigeria as Dangote oil refinery launches IPO",
+      "source": "RFI English",
+      "url": "http://www.rfi.fr/en/africa/20260914-historic-day-for-nigeria-as-dangote-oil-refinery-launches-ipo",
       "published_date": "2026-09-14T10:56:11+00:00",
       "category": "Energy"
     },
@@ -354,79 +417,30 @@
       "category": "Energy"
     },
     {
-      "title": "Houthis seize key sites around Bab el-Mandeb as Saudi oil exports face disruption",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260912-houthis-seize-key-sites-around-bab-el-mandeb-as-saudi-oil-exports-face-disruption",
-      "published_date": "2026-09-12T10:27:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Middle East live: Saudi Arabia shuts down critical oil pipeline after attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq",
-      "published_date": "2026-09-12T05:19:32+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran-backed Houthis seize near control of vital Bab el-Mandeb shipping lane",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260911-iran-backed-houthis-seize-near-control-of-vital-bab-el-mandeb-shipping-lane",
-      "published_date": "2026-09-11T20:09:31+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "🔴 Live: Saudi shuts East-West oil pipeline after multiple Houthi attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260911-middle-east-live-trump-says-he-has-no-regrets-about-launching-war-on-iran",
-      "published_date": "2026-09-11T19:25:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How 100 days of record ocean heat is reshaping life in and around the seas",
+      "title": "Before its peak, El Nino brings failed crops and empty fishing nets",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260911-how-100-days-of-record-ocean-heat-is-reshaping-life-in-and-around-the-seas",
-      "published_date": "2026-09-11T16:10:58+00:00",
+      "url": "http://www.rfi.fr/en/environment/20260912-before-its-peak-el-nino-brings-failed-crops-and-empty-fishing-nets",
+      "published_date": "2026-09-12T11:03:18+00:00",
       "category": "Energy"
     },
     {
-      "title": "‘Fresh from the roof’: the supermarket growing salad a few metres above the tills",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/11/supermarket-salad-rooftop-garden-berlin",
-      "published_date": "2026-09-11T09:00:01+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘Just worry upon worry’: Europe faces a bleak winter as supply shock pushes factories to the brink",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink",
-      "published_date": "2026-09-11T09:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The ‘great grid upgrade’ is off track – ministers should spell out the risks for bills | Nils Pratley",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/11/grid-upgrade-electricity-transmission-bills-nils-pratley",
-      "published_date": "2026-09-11T05:00:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Can Europe recharge its battery industry?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-10T23:05:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Record heat and drought make this year's champagne stronger",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260910-record-heat-and-drought-make-this-year-s-champagne-stronger",
-      "published_date": "2026-09-10T20:12:35+00:00",
-      "category": "Energy"
+      "title": "France's 'Gilets Jaunes' protesters urged to take to the streets again",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260915/call-for-frances-gilets-jaunes-to-take-to-the-streets-again",
+      "published_date": "2026-09-15T08:58:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Rights group accuses Israel of dismantling 'Palestinian existence' in West Bank",
       "source": "France 24",
       "url": "https://www.france24.com/en/rights-group-accuses-israel-of-dismantling-palestinian-existence-in-west-bank",
+      "published_date": "2026-09-14T21:26:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rights group accuses Israel of dismantling 'Palestinian existence' in West Bank",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/rights-group-accuses-israel-of-dismantling-palestinian-existence-in-west-bank",
       "published_date": "2026-09-14T21:26:29+00:00",
       "category": "Economy"
     },
@@ -550,24 +564,59 @@
       "category": "Economy"
     },
     {
-      "title": "Primark to launch home delivery service despite ‘challenging’ market",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/10/primark-home-delivery-split-abf-europe",
-      "published_date": "2026-09-10T13:31:19+00:00",
-      "category": "Economy"
+      "title": "French Word of the Day: Bahut",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260915/french-word-of-the-day-bahut",
+      "published_date": "2026-09-15T08:09:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "25 years on, America seeks to keep 9/11 memories alive",
+      "title": "Corruption ‘endemic’ in Trump administration: 'Checks and balances only in effect at lower courts'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-25-years-on-america-seeks-to-keep-9-11-memories-alive",
-      "published_date": "2026-09-10T13:22:47+00:00",
-      "category": "Economy"
+      "url": "http://www.france24.com/en/tv-shows/spotlight/20260915-corruption-endemic-in-trump-administration-checks-and-balances-only-in-effect-at-lower-courts",
+      "published_date": "2026-09-15T07:52:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is Umar Kremlev, the Russian oligarch who reportedly helped pay for Donald Trump Jr’s wedding?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/15/who-is-umar-kremlev-russian-oligarch-donald-trump-jr",
+      "published_date": "2026-09-15T07:00:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden’s far right is down, but not yet out. Left and centre leaders must seize this opportunity | Cas Mudde",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/15/sweden-far-right-left-centre-progressive-agenda",
+      "published_date": "2026-09-15T06:00:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court rejects Trump bid to restrict mail ballots as voting begins",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/americas/20260915-us-supreme-court-rejects-trump-bid-to-restrict-mail-ballots-as-voting-begins",
+      "published_date": "2026-09-15T01:51:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'The very existence of LGBTQI people is seen as obscene', Turkish activist says",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/a-propos/20260914-the-very-existence-of-lgbtqi-people-is-seen-as-obscene-turkish-activist-says",
       "published_date": "2026-09-14T21:02:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The very existence of LGBTQI people is seen as obscene', Turkish activist says",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/tv-shows/a-propos/20260914-the-very-existence-of-lgbtqi-people-is-seen-as-obscene-turkish-activist-says",
+      "published_date": "2026-09-14T21:02:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens arrested in major anti-LGBTQ raids in Turkey",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/dozens-arrested-in-major-anti-lgbtq-raids-in-turkey",
+      "published_date": "2026-09-14T20:57:49+00:00",
       "category": "Local Events"
     },
     {
@@ -627,6 +676,13 @@
       "category": "Local Events"
     },
     {
+      "title": "World in Frames: RFI traces the stories behind the world's most famous photos",
+      "source": "RFI English",
+      "url": "http://www.rfi.fr/en/culture/20260914-world-in-frames-rfi-traces-the-stories-behind-the-world-s-most-famous-photos",
+      "published_date": "2026-09-14T11:15:55+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Dozens arrested as Turkish police raid LGBTQ bars, activists' homes",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260914-dozens-arrested-as-turkish-police-raid-lgbtq-bars-activists-homes",
@@ -645,62 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260914-retrial-over-2018-france-terror-attack-begins",
       "published_date": "2026-09-14T10:02:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Centre-left holds narrow lead in knife-edge Sweden vote",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260914-centre-left-holds-narrow-lead-in-knife-edge-sweden-vote",
-      "published_date": "2026-09-14T09:20:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sabotage? What we know so far about train derailment in northern France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260914/sabotage-what-we-know-so-far-about-train-derailment-in-northern-france",
-      "published_date": "2026-09-14T07:43:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Centre-left bloc leads Swedish elections – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates",
-      "published_date": "2026-09-13T23:50:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The 'authenticity' of Celine Dion: 'She appeals to the Boomers and the Zoomers'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260913-the-authenticity-of-celine-dion-she-appeals-to-the-boomers-and-the-zoomers",
-      "published_date": "2026-09-13T21:18:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French nationals must come before foreigners, insists far-right's Marine Le Pen",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260913/french-must-come-before-foreigners-insists-far-right-marine-le-pen",
-      "published_date": "2026-09-13T17:42:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I gave up my life to care for my father’: How 9/11 shaped a son’s sense of duty and life trajectory",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/i-gave-up-my-life-to-care-for-my-father-how-9-11-shaped-a-son-s-sense-of-duty-and-life-trajectory",
-      "published_date": "2026-09-13T17:10:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We did what we had to do’: 25 years on, 9/11 first responder reflects on duty, survival and family",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/we-did-what-we-had-to-do-25-years-on-9-11-first-responder-reflects-on-duty-survival-and-family",
-      "published_date": "2026-09-13T16:18:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden: Tight election puts all eyes on the far right",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sweden-tight-election-puts-all-eyes-on-the-far-right",
-      "published_date": "2026-09-13T15:55:50+00:00",
       "category": "Local Events"
     }
   ]
