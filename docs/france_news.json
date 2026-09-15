@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-09-14T16:44:32.029152+00:00",
+  "last_updated": "2026-09-15T01:08:33.486481+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Leaders urge EU to boost Arctic role to tackle Russia 'threat'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/leaders-urge-eu-to-boost-arctic-role-to-tackle-russia-threat",
+      "published_date": "2026-09-14T19:06:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Leaders urge EU to expand Arctic presence amid Russia 'threat'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260914-leaders-urge-eu-to-expand-arctic-presence-amid-russia-threat",
+      "published_date": "2026-09-14T17:41:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU Commission mulls revision of Schengen visa rules and fees",
       "source": "The Local France",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade",
-      "published_date": "2026-09-13T10:48:04+00:00",
-      "category": "Diplomacy"
+      "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘SICK conspiracy’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
+      "published_date": "2026-09-15T01:05:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "BRICS summit: What came out of the New Delhi meeting",
+      "title": "Zelensky says Ukraine ready to de-escalate if Russia halts strikes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/brics-summit-what-came-out-of-the-new-delhi-meeting",
-      "published_date": "2026-09-13T09:27:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260914-zelensky-says-ukraine-ready-to-de-escalate-if-russia-halts-strikes",
+      "published_date": "2026-09-14T22:57:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Space Force confirms weapons deployed in space for first time",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260914-us-space-force-confirms-weapons-deployed-in-space-for-first-time",
+      "published_date": "2026-09-14T21:56:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen: Fact-checking videos claiming to show Houthi rebel attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/yemen-fact-checking-videos-claiming-to-show-houthi-rebel-attacks-1",
+      "published_date": "2026-09-14T21:10:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Axis of Iranian centrality' remains \"one of more destabilising forces in the region\", expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/axis-of-iranian-centrality-remains-one-of-more-destabilising-forces-in-the-region-expert-says",
+      "published_date": "2026-09-14T19:46:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Where is the kill switch? AI doomsday warnings trigger calls to regulate",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260914-where-is-the-kill-switch-ai-doomsday-warnings-trigger-calls-to-regulate",
+      "published_date": "2026-09-14T18:22:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims  – Europe live",
@@ -242,46 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Yemen: The Houthis test Iran's regional influence",
+      "title": "Dangote refinery launches Africa’s biggest IPO for retail investors",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260913-yemen-the-houthis-test-iran-s-regional-influence",
-      "published_date": "2026-09-13T13:29:02+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/technology/20260915-dangote-refinery-launches-africa-biggest-ipo-for-retail-investors",
+      "published_date": "2026-09-15T00:05:32+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Yemen: Houthi offensive triggers new displacement crisis",
+      "title": "Nigeria's Dangote refinery kicks off blockbuster IPO",
       "source": "France 24",
-      "url": "https://www.france24.com/en/yemen-houthi-offensive-triggers-new-displacement-crisis",
-      "published_date": "2026-09-13T09:18:55+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/business/20260914-nigeria-s-dangote-refinery-kicks-off-blockbuster-ipo",
+      "published_date": "2026-09-14T20:46:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump slams AI skeptics as Altman pauses OpenAI IPO plans over safety concerns",
+      "title": "Nigerian oil refinery Dangote aims to raise 1.6 billion dollars",
       "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20260913-trump-slams-ai-skeptics-as-altman-pauses-openai-ipo-plans-over-safety-concerns",
-      "published_date": "2026-09-13T08:23:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East live: Houthis say hit Saudi base after renewed fighting with Yemeni forces",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260913-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
-      "published_date": "2026-09-13T05:11:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin would rather keep killing than admit he’s lost. As a winter of misery looms in Ukraine, Nato must step in | Simon Tisdall",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/13/putin-ukraine-nato-russia-forever-war-crime-against-humanity-western-democracies",
-      "published_date": "2026-09-13T05:00:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-12T23:51:05+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/nigerian-oil-refinery-dangote-aims-to-raise-1-6-billion-dollars",
+      "published_date": "2026-09-14T20:31:28+00:00",
+      "category": "Energy"
     },
     {
       "title": "Climate catastrophe leaves Nepal mourning while the search for the missing continues",
@@ -403,25 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "August hottest month ever recorded globally as huge El Nino emerges",
+      "title": "Rights group accuses Israel of dismantling 'Palestinian existence' in West Bank",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges",
-      "published_date": "2026-09-10T15:57:03+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/rights-group-accuses-israel-of-dismantling-palestinian-existence-in-west-bank",
+      "published_date": "2026-09-14T21:26:29+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Podcast: Eco-anger, France in space, world's first photograph",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-france/20260910-podcasteco-anxiety-anger-climate-heatwave-france-space-world-first-photograph-niepce",
-      "published_date": "2026-09-10T15:01:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
+      "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
-      "published_date": "2026-09-10T13:10:15+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+      "published_date": "2026-09-14T18:41:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French candidates race to claim the cost-of-living issue ahead of 2027 vote",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260914-french-candidates-race-to-claim-the-cost-of-living-issue-ahead-of-2027-vote",
+      "published_date": "2026-09-14T16:53:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Investors weigh the potential cost of AI 'slowdown'",
@@ -543,25 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Hoping to salvage midterms, Trump makes dubious pledge to give every US adult $5,000",
+      "title": "'The very existence of LGBTQI people is seen as obscene', Turkish activist says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260910-hoping-to-salvage-midterms-trump-makes-dubious-pledge-to-give-every-us-adult-5-000",
-      "published_date": "2026-09-10T10:34:35+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260914-the-very-existence-of-lgbtqi-people-is-seen-as-obscene-turkish-activist-says",
+      "published_date": "2026-09-14T21:02:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Apple's new foldable iPhone: expensive gadget or bold statement?",
+      "title": "Turkey police disperse pro-LGBTQ protesters with tear gas",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260910-apple-s-new-foldable-iphone-expensive-gadget-or-bold-statement",
-      "published_date": "2026-09-10T10:28:18+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/asia-pacific/20260914-turkey-police-disperse-pro-lgbtq-protesters-with-tear-gas",
+      "published_date": "2026-09-14T19:54:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump claims firefighters carried him to safety ‘right after’ 9/11, but his account is disputed",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-claims-firefighters-carried-him-to-safety-right-after-9-11-but-his-account-is-disputed-1",
-      "published_date": "2026-09-09T20:52:55+00:00",
-      "category": "Economy"
+      "title": "Sweden’s political parties launch coalition talks as both blocs try to secure power",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/14/sweden-political-parties-launch-coalition-talks-both-blocs-try-to-secure-power",
+      "published_date": "2026-09-14T16:47:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "British rockers Oasis announce tour dates in Paris, Munich, Barcelona and Rome",
@@ -680,27 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/sweden-tight-election-puts-all-eyes-on-the-far-right",
       "published_date": "2026-09-13T15:55:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A painful truth about post-Brexit immigration | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/13/a-painful-truth-about-post-brexit-immigration",
-      "published_date": "2026-09-13T15:54:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's far-right Marine Le Pen kicks off 2027 presidential campaign",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-s-far-right-marine-le-pen-kicks-off-2027-presidential-campaign",
-      "published_date": "2026-09-13T15:41:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surfing: France tests Olympic venue ahead of LA 2028",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/surfing-france-tests-olympic-venue-ahead-of-la-2028",
-      "published_date": "2026-09-13T15:04:49+00:00",
       "category": "Local Events"
     }
   ]
