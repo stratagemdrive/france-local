@@ -1,8 +1,78 @@
 {
   "country": "France",
-  "last_updated": "2026-09-16T01:01:49.232951+00:00",
+  "last_updated": "2026-09-16T15:17:54.623552+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU moves closer to social media ban for under 13s",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/eu-social-media-ban-under-13s",
+      "published_date": "2026-09-16T14:39:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European Union invites Canada to become first ever ‘associate member’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
+      "published_date": "2026-09-16T13:48:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could Canada become the first 'associate member' of the EU?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260916/could-canada-become-the-first-associate-member-of-the-eu",
+      "published_date": "2026-09-16T12:42:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-16T12:36:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Microplastics in soil pose global threat by acting like ‘Trojan horse’ to deliver toxins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/16/soil-microplastics-trojan-horse-toxins",
+      "published_date": "2026-09-16T12:00:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Carney's new love-in with EU has everything to do with Trump",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e3rnxev27o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-16T11:08:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Von der Leyen 'opens door' to Canada becoming associate EU member – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/16/ursula-von-der-leyen-opens-door-to-canada-becoming-associate-eu-member-mark-carney-video",
+      "published_date": "2026-09-16T10:08:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU chief calls for European Security Council and closer Canada ties",
+      "source": "RFI English",
+      "url": "http://www.rfi.fr/en/international/20260916-eu-von-der-leyen-calls-for-european-security-council-and-closer-canada-ties-state-of-union",
+      "published_date": "2026-09-16T09:39:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Europe has power to act': EU to ban social media for under 13s",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260916/europe-has-power-to-act-eu-to-ban-social-media-for-under-13s",
+      "published_date": "2026-09-16T09:27:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU chief calls for creation of ‘European Security Council’, backs partnership with Canada",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/europe/20260916-live-eu-chief-ursula-von-der-leyen-gives-state-of-the-union-address",
+      "published_date": "2026-09-16T05:20:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France stalls EU Russia sanctions renewal over oligarch de-listing",
       "source": "France 24",
@@ -74,74 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Putin looking to see how far he can push NATO’",
+      "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
+      "published_date": "2026-09-16T15:04:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Very authoritarian, very brutal’: three decades after the UK’s anti-rave crackdown, why is France doing the same?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/sep/16/anti-rave-crackdown-france-uk-castlemorton-spiral-tribe",
+      "published_date": "2026-09-16T14:29:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kosovo’s former president jailed for 25 years over war crimes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/kosovo-former-president-hashim-thaci-jailed-war-crimes",
+      "published_date": "2026-09-16T13:40:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former Kosovo president sentenced to 25 years for war crimes",
       "source": "France 24",
-      "url": "http://www.france24.com/en/video/20260915-putin-looking-to-see-how-far-he-can-push-nato",
-      "published_date": "2026-09-15T16:48:07+00:00",
-      "category": "Diplomacy"
+      "url": "http://www.france24.com/en/europe/20260916-former-kosovo-president-sentenced-to-25-years-for-war-crimes",
+      "published_date": "2026-09-16T12:55:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-      "published_date": "2026-09-15T15:18:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-      "published_date": "2026-09-15T14:39:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "title": "Kosovo's former president sentenced to 25 years for war crimes",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-15T09:07:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cmd79z0pdzgjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-16T11:42:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Amid France’s political 'fragmentation', 'a case needs to be made for participatory democracy’",
+      "title": "Russian drone attack on bus kills five in Ukraine's southeast",
       "source": "France 24",
-      "url": "http://www.france24.com/en/amid-france-s-political-fragmentation-a-case-needs-to-be-made-for-participatory-democracy",
-      "published_date": "2026-09-15T08:01:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lack of 'enforcement of EU laws': Consumer products contain 'illegal levels of restricted chemicals'",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/lack-of-enforcement-of-eu-laws-consumer-products-contain-illegal-levels-of-restricted-chemicals",
-      "published_date": "2026-09-15T07:28:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NHL star Alex Ovechkin appears in campaign ad for pro-Putin United Russia party",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/sep/14/nhl-star-alex-ovechkin-appears-in-campaign-ad-for-pro-putin-united-russia-party",
-      "published_date": "2026-09-15T03:53:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine war live: NATO downs drone over Lithuania, Russian frigate fires flares at Danish helicopter",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion",
-      "published_date": "2026-09-15T02:19:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Leaders urge EU to boost Arctic role to tackle Russia 'threat'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/leaders-urge-eu-to-boost-arctic-role-to-tackle-russia-threat",
-      "published_date": "2026-09-14T19:06:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Leaders urge EU to boost Arctic role to tackle Russia 'threat'",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/leaders-urge-eu-to-boost-arctic-role-to-tackle-russia-threat",
-      "published_date": "2026-09-14T19:06:25+00:00",
-      "category": "Diplomacy"
+      "url": "http://www.france24.com/en/europe/20260916-russian-drone-attack-on-bus-kills-five-in-ukraine-s-southeast",
+      "published_date": "2026-09-16T07:37:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Russian war, African recruits",
@@ -239,48 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/15/tuesday-briefing-how-to-understand-wales-scotland-and-northern-irelands-joint-call-for-change",
       "published_date": "2026-09-15T05:45:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "🔴 Middle East live: Pentagon report says Iran war has led to munitions shortfall",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia",
-      "published_date": "2026-09-15T05:28:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Environmental activists angry over controversial AI data centre near Paris",
-      "source": "RFI English",
-      "url": "http://www.rfi.fr/en/environment/20260915-environmental-activists-angry-over-controversial-ai-data-centre-near-paris",
-      "published_date": "2026-09-15T05:19:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-15T05:01:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East live: Saudi Arabia vows to hit back ‘firmly’ after Houthi attacks",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia",
-      "published_date": "2026-09-15T03:06:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘SICK conspiracy’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
-      "published_date": "2026-09-15T01:05:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
-      "published_date": "2026-09-15T01:05:38+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "OPINION: France is in deep trouble over its debt",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260916/opinion-france-is-in-deep-trouble-over-its-debt",
+      "published_date": "2026-09-16T08:08:37+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "'Canada can offer a more reliable route for energy exports to the EU', expert says",
       "source": "France 24",
       "url": "http://www.france24.com/en/canada-can-offer-a-more-reliable-route-for-energy-exports-to-the-eu-expert-says",
@@ -557,11 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "On 25th anniversary of 9/11, New York remembers victims poisoned by debris",
+      "title": "Kim Kardashian gets 1 euro in damages for being victim of Paris armed robbery",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/16/kim-kardashian-1-euro-damages-paris-armed-robbery",
+      "published_date": "2026-09-16T15:13:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abuse survivors set out demands before meeting Pope Leo in France",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260911-25th-anniversary-9-11-ny-remembers-victims-poisoned-by-debris",
-      "published_date": "2026-09-11T05:16:42+00:00",
-      "category": "Economy"
+      "url": "http://www.rfi.fr/en/france/20260916-abuse-survivors-set-out-demands-before-meeting-pope-leo-in-france",
+      "published_date": "2026-09-16T15:00:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DRC opposition condemns violence at protests over constitutional changes",
+      "source": "RFI English",
+      "url": "http://www.rfi.fr/en/africa/20260916-drc-opposition-condemns-violence-at-protests-over-constitutional-changes",
+      "published_date": "2026-09-16T13:37:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-16T12:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France gives guillotine the chop – archive, 1981",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/france-gives-guillotine-the-chop-capital-punishment-1981",
+      "published_date": "2026-09-16T11:56:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey arrests dozens in ongoing crackdown on LGBTQI+ groups",
+      "source": "RFI English",
+      "url": "http://www.rfi.fr/en/international/20260916-turkey-arrests-dozens-in-ongoing-crackdown-on-lgbtqi-groups",
+      "published_date": "2026-09-16T11:41:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is the White House being so weird about Natalie Harp again? | Arwa Mahdawi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/16/why-is-the-white-house-being-so-weird-about-natalie-harp-again",
+      "published_date": "2026-09-16T10:00:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris mayor expresses 'deepest regrets' over school monitor sex abuse",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260916/paris-mayor-expresses-deepest-regrets-over-school-monitor-sex-abuse",
+      "published_date": "2026-09-16T09:49:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France says 2030 Winter Olympics safe despite political uncertainty",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260916/france-says-2030-winter-olympics-safe-despite-political-uncertainty",
+      "published_date": "2026-09-16T09:08:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French ex-minister Dati goes on trial in Renault-Nissan corruption case",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260916/french-ex-minister-dati-goes-on-trial-in-renault-nissan-corruption-case",
+      "published_date": "2026-09-16T07:10:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former justice minister Rachida Dati goes on trial in Paris over corruption",
+      "source": "RFI English",
+      "url": "http://www.rfi.fr/en/france/20260916-former-justice-minister-rachida-dati-goes-on-trial-in-paris-over-corruption",
+      "published_date": "2026-09-16T06:01:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkey arrests dozens in crackdown on LGBTQ+ activists",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7ky12g14jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-15T22:26:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "With a performance defined by emotion, Céline Dion brings her story to Paris",
@@ -617,90 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/a-propos/20260914-the-very-existence-of-lgbtqi-people-is-seen-as-obscene-turkish-activist-says",
       "published_date": "2026-09-14T21:02:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'The very existence of LGBTQI people is seen as obscene', Turkish activist says",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/tv-shows/a-propos/20260914-the-very-existence-of-lgbtqi-people-is-seen-as-obscene-turkish-activist-says",
-      "published_date": "2026-09-14T21:02:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens arrested in major anti-LGBTQ raids in Turkey",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/dozens-arrested-in-major-anti-lgbtq-raids-in-turkey",
-      "published_date": "2026-09-14T20:57:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey police disperse pro-LGBTQ protesters with tear gas",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260914-turkey-police-disperse-pro-lgbtq-protesters-with-tear-gas",
-      "published_date": "2026-09-14T19:54:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden’s political parties launch coalition talks as both blocs try to secure power",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/14/sweden-political-parties-launch-coalition-talks-both-blocs-try-to-secure-power",
-      "published_date": "2026-09-14T16:47:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British rockers Oasis announce tour dates in Paris, Munich, Barcelona and Rome",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260914/british-rockers-oasis-announce-tour-dates-in-paris-munich-barcelona-and-rome",
-      "published_date": "2026-09-14T16:22:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey: Police arrested at least 63 people in anti-LGBT+ crackdown",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260914-turkey-police-arrested-at-least-63-people-in-anti-lgbt-crackdown",
-      "published_date": "2026-09-14T15:43:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Signs of violence’: asylum seekers arriving in France injured after being deported from UK",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/14/asylum-seekers-removed-uk-france-injured-one-in-one-out",
-      "published_date": "2026-09-14T15:22:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poll puts France's Le Pen in lead as presidential campaign kicks off",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260914-polls-put-france-s-le-pen-in-lead-as-presidential-campaign-kicks-off",
-      "published_date": "2026-09-14T14:59:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What would Le Pen's 'French preference' policy mean for foreigners in France?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260914/what-would-le-pens-french-preference-policy-mean-for-foreigners-in-france",
-      "published_date": "2026-09-14T13:22:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World in Frames: RFI traces the stories behind the world's most famous photos",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20260914-world-in-frames-rfi-traces-the-stories-behind-the-world-s-most-famous-photos",
-      "published_date": "2026-09-14T11:15:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World in Frames: RFI traces the stories behind the world's most famous photos",
-      "source": "RFI English",
-      "url": "http://www.rfi.fr/en/culture/20260914-world-in-frames-rfi-traces-the-stories-behind-the-world-s-most-famous-photos",
-      "published_date": "2026-09-14T11:15:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens arrested as Turkish police raid LGBTQ bars, activists' homes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260914-dozens-arrested-as-turkish-police-raid-lgbtq-bars-activists-homes",
-      "published_date": "2026-09-14T10:58:30+00:00",
       "category": "Local Events"
     }
   ]
