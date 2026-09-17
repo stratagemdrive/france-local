@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-09-16T15:17:54.623552+00:00",
+  "last_updated": "2026-09-17T01:03:43.007863+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘Made in Europe’ law threatens UK plans for reset with EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans",
+      "published_date": "2026-09-16T19:39:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is EU’s offer to Canada a blueprint for Britain – or a reminder it is out in the cold?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/eu-offer-canada-blueprint-britain-brexit",
+      "published_date": "2026-09-16T18:57:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The 28th state? Carney's Canada draws closer to European Union",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/tv-shows/the-debate/20260916-the-28th-state-carney-s-canada-draws-closer-to-european-union",
+      "published_date": "2026-09-16T18:19:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU: An unprecedented offer to Canada",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/video/20260916-eu-an-unprecedented-offer-to-canada",
+      "published_date": "2026-09-16T15:41:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia-Africa ties: Moscow's growing influence in Africa",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/video/20260916-russia-africa-ties-moscow-s-growing-influence-in-africa",
+      "published_date": "2026-09-16T15:37:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU moves closer to social media ban for under 13s",
       "source": "The Guardian",
@@ -29,6 +64,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-16T12:36:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU chief invites Canada to be first-ever ‘associate member’",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/europe/20260916-eu-chief-pitches-associate-member-status-for-canada-as-both-seek-to-pivot-away-from-us",
+      "published_date": "2026-09-16T12:22:07+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Viral Putin, Modi and Xi selfie at BRICS summit is AI-generated",
+      "title": "Saudi Arabia accuses Houthis of targeting Mecca, calls it a 'red line'",
       "source": "France 24",
-      "url": "http://www.france24.com/en/tv-shows/truth-or-fake/20260915-viral-putin-modi-and-xi-selfie-at-brics-summit-is-ai-generated",
-      "published_date": "2026-09-15T19:49:22+00:00",
-      "category": "Diplomacy"
+      "url": "http://www.france24.com/en/middle-east/20260916-saudi-arabia-accuses-houthis-of-targeting-mecca-calling-it-a-red-line",
+      "published_date": "2026-09-16T20:08:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Analysts call for step-up in response to Russia after Denmark, Lithuania incidents",
+      "title": "Putin urges Russians to vote in parliamentary election as show of support for Ukraine war",
       "source": "France 24",
-      "url": "http://www.france24.com/en/analysts-call-for-step-up-in-response-to-russia-after-denmark-lithuania-incidents",
-      "published_date": "2026-09-15T19:23:43+00:00",
-      "category": "Diplomacy"
+      "url": "http://www.france24.com/en/europe/20260916-putin-urges-russians-to-vote-in-parliamentary-election-as-show-of-support-for-ukraine-war",
+      "published_date": "2026-09-16T19:47:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Revolutionary change in American foreign policy': Canada pivoting towards EU, India and China",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/tv-shows/spotlight/20260915-revolutionary-change-in-american-foreign-policy-canada-pivoting-towards-eu-india-and-china",
-      "published_date": "2026-09-15T19:18:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
-      "published_date": "2026-09-15T19:08:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada's Carney seeks closer Europe ties to counter hostile US",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/canada-s-carney-seeks-closer-europe-ties-to-counter-hostile-us",
-      "published_date": "2026-09-15T18:57:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada's Carney seeking closer EU ties, to attend State of the EU address",
+      "title": "Capture of Mocha marks turning point in Yemen war, with ripples across Red Sea",
       "source": "RFI English",
-      "url": "http://www.rfi.fr/en/international/20260915-canada-s-carney-seeking-closer-eu-ties-to-attend-state-of-the-eu-address",
-      "published_date": "2026-09-15T18:50:18+00:00",
-      "category": "Diplomacy"
+      "url": "http://www.rfi.fr/en/international/20260916-capture-of-mocha-marks-turning-point-in-yemen-war-with-ripples-across-red-sea",
+      "published_date": "2026-09-16T18:57:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone strike on a passenger bus in Ukraine kills 5 people and wounds at least 7 others",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/video/20260916-russian-drone-strike-on-a-passenger-bus-in-ukraine-kills-5-people-and-wounds-at-least-7-others",
+      "published_date": "2026-09-16T16:17:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump administration plans to send powerful bombs to Israel in $2.8 billion weapons sale",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/video/20260916-trump-administration-plans-to-send-powerful-bombs-to-israel-in-2-8-billion-weapons-sale",
+      "published_date": "2026-09-16T15:45:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr",
-      "published_date": "2026-09-15T11:35:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Venice best actress winner says she signed on at Danish job centre days before her victory",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/15/mathilde-arcel-job-centre-venice-film-festival-volpi-cup-woman-unknown",
-      "published_date": "2026-09-15T10:37:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war exposes US munitions shortfall, industrial bottlenecks, Pentagon report says",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
-      "published_date": "2026-09-15T06:07:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO jets shoot down drone over Lithuania in latest Baltic security incident",
+      "title": "The scars of France's 'abnormal' summer",
       "source": "RFI English",
-      "url": "http://www.rfi.fr/en/international/20260915-nato-jets-shoot-down-drone-over-lithuania-in-latest-baltic-security-incident",
-      "published_date": "2026-09-15T05:53:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tuesday briefing: How to understand Wales, Scotland and Northern Ireland’s joint call for change",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/15/tuesday-briefing-how-to-understand-wales-scotland-and-northern-irelands-joint-call-for-change",
-      "published_date": "2026-09-15T05:45:49+00:00",
-      "category": "Military"
+      "url": "http://www.rfi.fr/en/video/20260916-surviving-france-heatwave-paris-abnormal-summer",
+      "published_date": "2026-09-16T15:43:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "Saudi crown prince seeks neighbours' backing as Houthi attacks rattle Red Sea oil routes",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Before its peak, El Nino brings failed crops and empty fishing nets",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260912-before-its-peak-el-nino-brings-failed-crops-and-empty-fishing-nets",
-      "published_date": "2026-09-12T11:03:18+00:00",
-      "category": "Energy"
+      "title": "US Federal Reserve defies Trump with interest rate hike",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/us-federal-reserve-defies-trump-with-interest-rate-hike",
+      "published_date": "2026-09-16T21:38:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "OPINION: France is in deep trouble over its debt",
@@ -557,11 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "What would a Le Pen presidency mean for foreigners in France?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260911/what-would-a-le-pen-presidency-mean-for-foreigners-in-france",
-      "published_date": "2026-09-11T08:46:00+00:00",
-      "category": "Economy"
+      "title": "US House holds billionaire Epstein associate Leon Black in contempt of Congress",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/americas/20260916-leon-black-epstein-contempt-congress",
+      "published_date": "2026-09-16T22:37:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Encouraging signs in DR Congo Ebola fight",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/encouraging-signs-in-dr-congo-ebola-fight",
+      "published_date": "2026-09-16T20:42:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LGBTQ 'a threat to Erdogan's ideal of a strong, masculine state', expert says",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/lgbtq-a-threat-to-erdogan-s-ideal-of-a-strong-masculine-state-expert-says",
+      "published_date": "2026-09-16T19:39:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia accuses Houthis of targeting Mecca, warns of 'red line'",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/saudi-arabia-accuses-houthis-of-targeting-mecca-warns-of-red-line",
+      "published_date": "2026-09-16T19:13:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Sweden’s election result: an opportunity that progressive parties must not squander | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/16/the-guardian-view-on-swedens-election-result-an-opportunity-that-progressive-parties-must-not-squander",
+      "published_date": "2026-09-16T17:35:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pride and joy as Kenya chosen to host 2029 World Athletics Championships",
+      "source": "RFI English",
+      "url": "http://www.rfi.fr/en/sports/20260916-pride-and-joy-as-kenya-chosen-to-host-2029-world-athletics-championships",
+      "published_date": "2026-09-16T16:43:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former French culture minister goes on trial over corruption charges",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/rachida-dati-france-former-culture-minister-trial-corruption-renault-nissan-carlos-ghosn",
+      "published_date": "2026-09-16T15:48:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden voted against more power for the far right – but are centrists listening?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/16/sweden-voted-against-far-right-centrists-afd",
+      "published_date": "2026-09-16T15:45:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In conversation with artist Nora Chipaumire",
+      "source": "France 24",
+      "url": "http://www.france24.com/en/in-conversation-with-artist-nora-chipaumire-1",
+      "published_date": "2026-09-16T15:19:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kim Kardashian gets 1 euro in damages for being victim of Paris armed robbery",
@@ -638,69 +701,6 @@
       "source": "RFI English",
       "url": "http://www.rfi.fr/en/france/20260916-former-justice-minister-rachida-dati-goes-on-trial-in-paris-over-corruption",
       "published_date": "2026-09-16T06:01:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey arrests dozens in crackdown on LGBTQ+ activists",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7ky12g14jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-15T22:26:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "With a performance defined by emotion, Céline Dion brings her story to Paris",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/video/20260915-with-a-performance-defined-by-emotion-c%C3%A9line-dion-brings-her-story-to-paris",
-      "published_date": "2026-09-15T20:12:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris ex-mayor says 'collective failure' led to abuse of children in school care",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/europe/20260915-paris-ex-mayor-says-collective-failure-led-to-abuse-of-children-in-school-care",
-      "published_date": "2026-09-15T15:27:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Word of the Day: Bahut",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260915/french-word-of-the-day-bahut",
-      "published_date": "2026-09-15T08:09:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Corruption ‘endemic’ in Trump administration: 'Checks and balances only in effect at lower courts'",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/tv-shows/spotlight/20260915-corruption-endemic-in-trump-administration-checks-and-balances-only-in-effect-at-lower-courts",
-      "published_date": "2026-09-15T07:52:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is Umar Kremlev, the Russian oligarch who reportedly helped pay for Donald Trump Jr’s wedding?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/sep/15/who-is-umar-kremlev-russian-oligarch-donald-trump-jr",
-      "published_date": "2026-09-15T07:00:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden’s far right is down, but not yet out. Left and centre leaders must seize this opportunity | Cas Mudde",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/15/sweden-far-right-left-centre-progressive-agenda",
-      "published_date": "2026-09-15T06:00:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court rejects Trump bid to restrict mail ballots as voting begins",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/americas/20260915-us-supreme-court-rejects-trump-bid-to-restrict-mail-ballots-as-voting-begins",
-      "published_date": "2026-09-15T01:51:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'The very existence of LGBTQI people is seen as obscene', Turkish activist says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260914-the-very-existence-of-lgbtqi-people-is-seen-as-obscene-turkish-activist-says",
-      "published_date": "2026-09-14T21:02:50+00:00",
       "category": "Local Events"
     }
   ]
