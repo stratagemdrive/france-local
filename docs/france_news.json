@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-09-19T00:55:37.431144+00:00",
+  "last_updated": "2026-09-19T14:07:45.729392+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "France's Macron hosts Canadian PM Carney amid US tensions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-s-macron-hosts-canadian-pm-carney-amid-us-tensions",
+      "published_date": "2026-09-19T13:25:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe weighs the cost of sending its own astronauts into space",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260919-europe-weighs-the-cost-of-sending-its-own-astronauts-into-space",
+      "published_date": "2026-09-19T12:35:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France’s Macron warns of Russian ‘hybrid’ attacks, seeks to step up energy defence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-s-macron-warns-of-russian-hybrid-attacks-seeks-to-step-up-energy-defence",
+      "published_date": "2026-09-19T09:52:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU proposes new rules on recognition of qualifications for non-EU citizens",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260919/eu-proposes-new-rules-for-recognition-of-qualifications-from-non-eu-citizens",
+      "published_date": "2026-09-19T09:05:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OPINION: Do Canadians really want closer ties with Europe?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260919/opinion-do-canadians-really-want-closer-ties-with-europe",
+      "published_date": "2026-09-19T08:54:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European education powerhouses rocked by falling scores in global study",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/sep/19/european-education-powerhouses-rocked-falling-pisa-scores-global-study-france-germany-netherlands-finland",
+      "published_date": "2026-09-19T05:00:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burning forests, emptying rivers, €180bn in damage: Europe’s politicians face reckoning after ‘summer of truth’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/19/summer-of-truth-will-political-leaders-act-as-climate-chaos-comes-knocking",
+      "published_date": "2026-09-19T05:00:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
       "source": "The Guardian",
@@ -95,53 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Slowly then all at once: this emboldened Celtic alliance could spell the end of the UK | Simon Jenkins",
+      "title": "Putin says Europe is 'preparing for war'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/putin-says-europe-is-preparing-for-war",
+      "published_date": "2026-09-19T13:04:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel: 'NAZA' documentary sparks political storm",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260919-israel-naza-documentary-sparks-political-storm",
+      "published_date": "2026-09-19T12:41:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Denmark welcomes deal with US over Greenland after Trump annexation threats",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260919-denmark-welcomes-deal-with-us-over-greenland-after-trump-annexation-threats",
+      "published_date": "2026-09-19T11:33:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "37 die in Nigerian custody: Reports blame overcrowding, government disputes claim",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/37-die-in-nigerian-custody-reports-blame-overcrowding-government-disputes-claim",
+      "published_date": "2026-09-19T11:26:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian children learn ancient warrior skills amid modern war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukrainian-children-learn-ancient-warrior-skills-amid-modern-war",
+      "published_date": "2026-09-19T11:21:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Did Trump really obtain 'permanent control' over Greenland?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/did-trump-really-obtain-permanent-control-over-greenland",
+      "published_date": "2026-09-19T11:07:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France calls on Moscow to reverse takeover of European assets",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260919-france-calls-on-moscow-to-reverse-takeover-of-european-assets-auchan",
+      "published_date": "2026-09-19T09:34:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 112,000 displaced in Yemen as Houthis seize more ground",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/more-than-112-000-displaced-in-yemen-as-houthis-seize-more-ground",
+      "published_date": "2026-09-19T08:57:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Meditating by the Dnipro: I’m an artist in Ukraine, searching for peace and a life between the missiles | Anna Ivanenko",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/18/westminster-celtic-alliance-scotland-wales-ireland-uk",
-      "published_date": "2026-09-18T07:00:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/19/ukraine-russia-artist-meditation-peace-between-missiles-dnipro-river",
+      "published_date": "2026-09-19T06:00:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Paul, John … and Yvonne? The French novelist asking: what if a woman had written the Beatles’ greatest hits?",
+      "title": "Live: Russia reports cyberattacks as parliamentary vote enters second day",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260919-ukraine-live-russian-strike-on-apartment-building-in-ukraine-s-sumy-kills-at-least-two",
+      "published_date": "2026-09-19T05:24:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy reaches out to eastern Europe for new trade and security partnership",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/sep/18/author-michel-bussi-code-yesterday-one-woman-wrote-the-beatles-songs",
-      "published_date": "2026-09-18T06:00:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Canada-EU partnership 'a classic win-win situation', economist says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260917-the-canada-eu-partnership-a-classic-win-win-situation-economist-says",
-      "published_date": "2026-09-17T21:12:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Canada-EU partnership 'a classic win-win situation', economist says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/the-canada-eu-partnership-a-classic-win-win-situation-economist-says",
-      "published_date": "2026-09-17T21:09:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French fishermen to end blockades over fuel prices",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-fishermen-to-end-blockades-over-fuel-prices",
-      "published_date": "2026-09-17T20:43:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump threatens EU over 'hostile' Canada association plan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-threatens-eu-over-hostile-canada-association-plan",
-      "published_date": "2026-09-17T20:04:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Guess who didn't like Mark Carney's speech today? The far-right'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/guess-who-didn-t-like-mark-carney-s-speech-today-the-far-right",
-      "published_date": "2026-09-17T19:57:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/19/ukraine-war-briefing-zelenskyy-reaches-out-to-eastern-europe-for-new-trade-and-security-partnership",
+      "published_date": "2026-09-19T01:04:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says US, Denmark reach deal to expand military presence in Greenland",
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Russians vote for new parliament after campaign marked by near silence",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260918-russians-vote-for-new-parliament-after-campaign-marked-by-near-silence",
-      "published_date": "2026-09-18T10:51:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian elections a ‘veneer of democracy’ with opposition barred from running",
+      "title": "Millions without power in Cuba as electrical grid collapses again",
       "source": "France 24",
-      "url": "https://www.france24.com/en/russian-elections-a-veneer-of-democracy-with-opposition-barred-from-running",
-      "published_date": "2026-09-18T10:16:00+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/millions-without-power-in-cuba-as-electrical-grid-collapses-again",
+      "published_date": "2026-09-19T13:01:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia votes in wartime election set to secure the Kremlin's power",
+      "title": "Germany cuts energy tax to lower petrol prices as Merz faces state key elections",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260918-russia-votes-in-wartime-election-set-to-secure-the-kremlin-s-power",
-      "published_date": "2026-09-18T09:52:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN mission says grounds to believe US committed war crimes in Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260918-un-mission-says-grounds-to-believe-us-committed-war-crimes-in-iran",
-      "published_date": "2026-09-18T09:31:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia seizes assets of Swiss food giant Nestle and three French firms",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260918-russia-seizes-assets-of-swiss-food-giant-nestle-and-three-french-firms",
-      "published_date": "2026-09-18T09:11:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Revealed: how Russia uses mobile ‘super-app’ Max to spy on its citizens",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/18/russian-super-app-max-spy-citizens",
-      "published_date": "2026-09-18T06:00:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia votes in parliamentary election as war in Ukraine drags on",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260918-russia-votes-in-wartime-parliamentary-election-set-to-secure-the-kremlin-power",
-      "published_date": "2026-09-18T05:38:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: Russia strikes four Ukrainian vessels in Black Sea",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260918-live-voting-begins-in-russia-s-parliamentary-elections",
-      "published_date": "2026-09-18T03:16:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russians go to polls against backdrop of Ukraine war and Putin’s tightening grip",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/18/russia-parliament-election-duma-putin",
-      "published_date": "2026-09-18T02:00:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says 'major progress' made towards US military base in Poland",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260918-trump-says-major-progress-made-toward-us-military-base-in-poland",
-      "published_date": "2026-09-18T01:04:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "37 suspected illegal miners die in custody in central Nigeria",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260918-37-suspected-illegal-miners-die-in-custody-in-central-nigeria",
-      "published_date": "2026-09-18T00:27:53+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20260919-germany-cuts-energy-tax-to-lower-soaring-petrol-prices",
+      "published_date": "2026-09-19T10:05:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "AI: Silicon Species or Trojan Horse? Riyadh Calling, Russia Votes & the Ed Sheeran debate",
@@ -410,18 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Nigeria's Dangote refinery launches biggest African IPO",
+      "title": "China is now Rwanda’s biggest export market – now comes the hard part",
       "source": "France 24",
-      "url": "http://www.france24.com/en/africa/20260915-nigeria-s-dangote-refinery-launches-biggest-african-ipo-for-retail-investors",
-      "published_date": "2026-09-15T00:05:32+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20260919-china-is-now-rwanda-s-biggest-export-market-%E2%80%93-now-comes-the-hard-part",
+      "published_date": "2026-09-19T13:30:55+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Nigeria's Dangote refinery kicks off blockbuster IPO",
+      "title": "Tunisia’s booming boat industry: From pleasure craft to luxury yachts",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260914-nigeria-s-dangote-refinery-kicks-off-blockbuster-ipo",
-      "published_date": "2026-09-14T20:46:19+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tunisia-s-booming-boat-industry-from-pleasure-craft-to-luxury-yachts",
+      "published_date": "2026-09-19T12:40:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France's debt climbs to highest level since 1995",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260919/frances-debt-climbs-to-highest-since-1995",
+      "published_date": "2026-09-19T12:13:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "Why Europe has been absent from the great AI safety debate",
@@ -543,25 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Rights group accuses Israel of dismantling 'Palestinian existence' in West Bank",
+      "title": "Smoke, flames seen near Riyadh airport, ‘major’ flight disruptions reported",
       "source": "France 24",
-      "url": "http://www.france24.com/en/rights-group-accuses-israel-of-dismantling-palestinian-existence-in-west-bank",
-      "published_date": "2026-09-14T21:26:29+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported",
+      "published_date": "2026-09-19T12:53:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
+      "title": "Suspected alcohol poisoning in Nigeria's Ondo State kills at least 49 people",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/suspected-alcohol-poisoning-in-nigeria-s-ondo-state-kills-at-least-49-people",
+      "published_date": "2026-09-19T11:19:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain's police launch operation to clear migrants off Ceuta beach",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/spain-s-police-launch-operation-to-clear-migrants-off-ceuta-beach",
+      "published_date": "2026-09-19T09:57:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside France: French preference, prosthetic genitals and Céline Dion",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260919/inside-france-french-preference-prosthetic-genitals-and-celine-dion",
+      "published_date": "2026-09-19T08:07:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As far right gains ground in Germany, Berlin election tests Europe's centre",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260919-as-far-right-gains-ground-in-germany-berlin-election-tests-europe-s-centre",
+      "published_date": "2026-09-19T07:39:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘My fear was too great’: the Pussy Riot member recruited by Russian spies to inform on fellow activists",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
-      "published_date": "2026-09-14T18:41:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "French candidates race to claim the cost-of-living issue ahead of 2027 vote",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260914-french-candidates-race-to-claim-the-cost-of-living-issue-ahead-of-2027-vote",
-      "published_date": "2026-09-14T16:53:16+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/19/pussy-riot-russian-spies-fsb-activists-rita-flores",
+      "published_date": "2026-09-19T04:00:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Uproar in Niger state, 37 die in custody",
@@ -659,48 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon",
       "published_date": "2026-09-18T08:36:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France arrests police officer ‘suspected of far-right terror plot’",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260918/france-arrests-police-officer-suspected-of-far-right-terror-plot",
-      "published_date": "2026-09-18T07:18:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nestlé to face retrial over illegal dumping near French bottled water plants",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260918-nestle-to-face-retrial-over-illegal-dumping-near-french-bottled-water-plants",
-      "published_date": "2026-09-18T06:03:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A city at the crossroads of history: Unearthing Gaza's ancient heritage",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/mid-east-junction/20260918-a-city-at-the-crossroads-of-history-unearthing-gaza-s-ancient-heritage",
-      "published_date": "2026-09-18T05:50:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The spectre of ‘remigration’ is haunting Europe. Slovenia in 1992 gives us a blueprint for this state terror | Miha Mazzini",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/18/remigration-europe-slovenia-government-immigrants",
-      "published_date": "2026-09-18T04:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rare Aztec manuscript returns to Mexico on loan after nearly two centuries in France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260917-rare-aztec-manuscript-returns-to-mexico-on-loan-after-nearly-two-centuries-in-france",
-      "published_date": "2026-09-17T22:56:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police officer arrested over suspected far-right terror plot",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260917-french-police-officer-arrested-over-suspected-far-right-terror-plot",
-      "published_date": "2026-09-17T22:29:47+00:00",
       "category": "Local Events"
     }
   ]
