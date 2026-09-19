@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-09-18T14:44:54.723546+00:00",
+  "last_updated": "2026-09-19T00:55:37.431144+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
+      "published_date": "2026-09-19T00:10:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tiny French outpost off Canada the unlikely stage for new transatlantic courtship",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260918-tiny-french-outpost-off-canada-the-unlikey-stage-for-new-transatlantic-courtship-saint-pierre-and-miquelon",
+      "published_date": "2026-09-18T16:06:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "We’re ideally placed to chair EU budget negotiations, says Irish Minister of State",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260918-we-re-ideally-placed-to-chair-eu-budget-negotiations-says-irish-minister-of-state",
+      "published_date": "2026-09-18T15:17:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ursula von der Leyen’s sixth State of the Union speech: A grand sweep, but thin on details?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260918-ursula-von-der-leyen-s-sixth-state-of-the-union-speech-a-grand-sweep-but-thin-on-details",
+      "published_date": "2026-09-18T15:17:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Russian hybrid attacks against Europe intensifying, says Macron",
       "source": "BBC News",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'The harms have come to outweigh the benefits' of social media, researcher says",
+      "title": "Trump says US, Denmark reach deal to expand military presence in Greenland",
       "source": "France 24",
-      "url": "https://www.france24.com/en/the-harms-have-come-to-outweigh-the-benefits-of-social-media-researcher-says",
-      "published_date": "2026-09-17T19:29:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly",
+      "published_date": "2026-09-18T22:18:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Taking on Trump: Canada and EU forge closer ties – The Latest",
+      "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
-      "published_date": "2026-09-17T18:22:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war",
+      "published_date": "2026-09-18T22:05:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Ceuta effect: how far will Europe's anti-migrant backlash go?",
+      "title": "War in Iran 'jeopardises the Trump presidency', ex-Obama National Security Council member says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260917-the-ceuta-effect-how-far-will-europe-s-anti-migrant-backlash-go",
-      "published_date": "2026-09-17T18:16:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Guardian view on EU-Canada relations: strategic ambition with lessons for Britain | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/17/the-guardian-view-on-eu-canada-relations-strategic-ambition-with-lessons-for-britain",
-      "published_date": "2026-09-17T17:48:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260918-war-in-iran-jeopardises-the-trump-presidency-ex-obama-national-security-council-member-says",
+      "published_date": "2026-09-18T17:01:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Gaza documentary sparks political storm, protests in Israel",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US Midterms: Russian disinformation campaign targets Democrats",
+      "title": "AI: Silicon Species or Trojan Horse? Riyadh Calling, Russia Votes & the Ed Sheeran debate",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260917-us-midterms-russian-disinformation-campaign-targets-democrats",
-      "published_date": "2026-09-17T21:19:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump declines to back Saudi Arabia as US officials reportedly meet Iran-backed Houthis in Oman",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-declines-to-back-saudi-arabia-as-us-officials-reportedly-meet-iran-backed-houthis-in-oman",
-      "published_date": "2026-09-17T18:47:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Stalemate' in Lebanon: Hezbollah justifies weapons, citing Israeli occupation and ongoing attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/stalemate-in-lebanon-hezbollah-justifies-weapons-citing-israeli-occupation-and-ongoing-attacks",
-      "published_date": "2026-09-17T18:44:27+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260918-time-to-stop-suggesting-ai-is-conscious-riyadh-calling-saudi-s-hour-of-news-russian-elections",
+      "published_date": "2026-09-18T19:20:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Nigeria's Dangote refinery kicks off blockbuster IPO",
+      "title": "Why Europe has been absent from the great AI safety debate",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
+      "published_date": "2026-09-18T18:37:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Air France bets on caviar and champagne to lure luxury flyers",
       "source": "France 24",
-      "url": "http://www.france24.com/en/tv-shows/business/20260914-nigeria-s-dangote-refinery-kicks-off-blockbuster-ipo",
-      "published_date": "2026-09-14T20:46:19+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/france/20260918-air-france-bets-on-caviar-and-champagne-lure-luxury-flyers",
+      "published_date": "2026-09-18T15:23:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine",
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Investors weigh the potential cost of AI 'slowdown'",
+      "title": "Uproar in Niger state, 37 die in custody",
       "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20260914-investors-weigh-the-potential-cost-of-ai-slowdown",
-      "published_date": "2026-09-14T14:17:11+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/uproar-in-niger-state-37-die-in-custody",
+      "published_date": "2026-09-18T20:52:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The far right’s march to power in Sweden has been halted, but its influence remains",
+      "title": "Sweden’s soul and worrying political shift | Letters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/14/far-right-march-to-power-election-sweden-halted-influence-remains",
-      "published_date": "2026-09-14T12:19:24+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/18/swedens-soul-and-worrying-political-shift",
+      "published_date": "2026-09-18T16:52:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swedish teenager jailed for attempted murder, rape and assault committed online, with victims in Germany and Australia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/sep/19/swedish-teenager-jailed-cybercrime-attempted-murder-rape-germany-australia-ntwnfb",
+      "published_date": "2026-09-18T15:00:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France's new head coach Zidane unveils his first team line-up for Nations League matches",
@@ -680,27 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260917-french-police-officer-arrested-over-suspected-far-right-terror-plot",
       "published_date": "2026-09-17T22:29:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serial killer suspicions in South Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/serial-killer-suspicions-in-south-africa",
-      "published_date": "2026-09-17T20:25:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Peru to the Philippines, defending the land comes at a deadly cost",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20260917-from-peru-to-the-philippines-defending-the-land-comes-at-a-deadly-cost-global-witness",
-      "published_date": "2026-09-17T16:02:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mbappé draws fire from right wing in France, Spain over Ceuta t-shirt controversy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260917-real-madrid-s-mbapp%C3%A9-draws-criticism-from-far-right-over-ceuta-t-shirt-controversy",
-      "published_date": "2026-09-17T15:10:39+00:00",
       "category": "Local Events"
     }
   ]
