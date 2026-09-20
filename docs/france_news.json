@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-09-20T00:36:40.939874+00:00",
+  "last_updated": "2026-09-20T14:26:14.553611+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iran shuts language centre affiliated with French embassy in Tehran",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260920/iran-shuts-language-centre-affiliated-with-french-embassy-in-tehran",
+      "published_date": "2026-09-20T14:19:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran closes French language centre in Tehran for ‘illegal acts’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260920-iran-closes-french-language-centre-in-tehran-for-illegal-acts",
+      "published_date": "2026-09-20T13:46:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The week in pictures: Syria protests, Céline Dion on stage and Quito wildfires",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260920-the-week-in-pictures-syria-protests-c%C3%A9line-dion-on-stage-and-quito-wildfires",
+      "published_date": "2026-09-20T13:15:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US and Denmark reach Greenland security deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-and-denmark-reach-greenland-security-deal",
+      "published_date": "2026-09-20T09:40:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-19T23:00:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "French outpost off Canada in the spotlight as Macron hosts Carney on symbolic visit",
       "source": "France 24",
@@ -109,39 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron addresses energy crisis, warns of 'hybrid attacks'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260918-macron-addresses-energy-crisis-warns-of-hybrid-attacks",
-      "published_date": "2026-09-18T13:53:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron orders protection of France’s infrastructure against Russian hybrid attacks",
+      "title": "Average French diesel prices hit record 2.41 euros: AFP analysis",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260918/macron-orders-protection-of-frances-infrastructure-against-russian-hybrid-attacks",
-      "published_date": "2026-09-18T13:52:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.fr/20260920/average-french-diesel-prices-hit-record-2-41-euros-afp-analysis",
+      "published_date": "2026-09-20T14:25:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "Mbappé quits Nike after career-long partnership for Swiss sports brand On",
+      "title": "PSG boss Al-Khelaifi under investigation in France for conflict of interest",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260920-psg-boss-al-khelaifi-under-investigation-in-france-for-conflict-of-interest",
+      "published_date": "2026-09-20T13:03:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260918-mbapp%C3%A9-quits-nike-after-career-long-partnership-swiss-sports-brand-on",
-      "published_date": "2026-09-18T13:28:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
+      "published_date": "2026-09-20T12:24:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
+      "title": "'NAZA' documentary about Gaza war sparks political storm in Israel",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "published_date": "2026-09-18T12:24:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/naza-documentary-about-gaza-war-sparks-political-storm-in-israel",
+      "published_date": "2026-09-20T12:22:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+      "title": "Why doesn't the US intervene to defend Saudi Arabia against the Houthis?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/why-doesn-t-the-us-intervene-to-defend-saudi-arabia-against-the-houthis",
+      "published_date": "2026-09-20T12:20:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moscow targeted with hundreds of drones as Kyiv uses its first ballistic missile in the war",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
-      "published_date": "2026-09-18T11:00:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
+      "published_date": "2026-09-20T12:09:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea fires two ballistic missiles into the sea in latest weapons display",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20260920-north-korea-fires-two-ballistic-missiles-into-the-sea-in-latest-weapons-display",
+      "published_date": "2026-09-20T11:40:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uganda suspends military ties with Turkey over extradition of Museveni critic",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260920-uganda-suspends-military-ties-with-turkey-over-extradition-of-museveni-critic-lumbuye",
+      "published_date": "2026-09-20T10:29:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine hits Russia with major drone attack, targetting refinery",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-hits-russia-with-major-drone-attack-targetting-refinery",
+      "published_date": "2026-09-20T10:24:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ed Sheeran calls Gaza war catastrophic after dropping Macklemore over pro-Palestinian comments",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ed-sheeran-calls-gaza-war-catastrophic-after-dropping-macklemore-over-pro-palestinian-comments",
+      "published_date": "2026-09-20T09:57:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Live: Russian election enters final day after Kyiv targets Moscow in massive drone attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260920-live-russian-election-enters-final-day-in-shadow-of-war-in-ukraine",
+      "published_date": "2026-09-20T05:16:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv denounces Russia’s inclusion of annexed regions in parliamentary elections",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/20/ukraine-war-briefing-kyiv-denounces-russias-inclusion-of-annexed-regions-in-parliamentary-elections",
+      "published_date": "2026-09-20T03:11:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Jewish heirs of Holocaust victims sue California museum over Nazi-looted art",
@@ -197,90 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/did-trump-really-obtain-permanent-control-over-greenland",
       "published_date": "2026-09-19T11:07:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France calls on Moscow to reverse takeover of European assets",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260919-france-calls-on-moscow-to-reverse-takeover-of-european-assets-auchan",
-      "published_date": "2026-09-19T09:34:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than 112,000 displaced in Yemen as Houthis seize more ground",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/more-than-112-000-displaced-in-yemen-as-houthis-seize-more-ground",
-      "published_date": "2026-09-19T08:57:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Meditating by the Dnipro: I’m an artist in Ukraine, searching for peace and a life between the missiles | Anna Ivanenko",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/19/ukraine-russia-artist-meditation-peace-between-missiles-dnipro-river",
-      "published_date": "2026-09-19T06:00:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: Russia reports cyberattacks as parliamentary vote enters second day",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260919-ukraine-live-russian-strike-on-apartment-building-in-ukraine-s-sumy-kills-at-least-two",
-      "published_date": "2026-09-19T05:24:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy reaches out to eastern Europe for new trade and security partnership",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/19/ukraine-war-briefing-zelenskyy-reaches-out-to-eastern-europe-for-new-trade-and-security-partnership",
-      "published_date": "2026-09-19T01:04:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Denmark hails Greenland deal with Trump respecting ‘red lines’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260918-denmark-hails-binding-greenland-deal-with-trump",
-      "published_date": "2026-09-18T22:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US, Denmark reach deal to expand military presence in Greenland",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly",
-      "published_date": "2026-09-18T22:18:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war",
-      "published_date": "2026-09-18T22:05:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in Iran 'jeopardises the Trump presidency', ex-Obama National Security Council member says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260918-war-in-iran-jeopardises-the-trump-presidency-ex-obama-national-security-council-member-says",
-      "published_date": "2026-09-18T17:01:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza documentary sparks political storm, protests in Israel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260918-gaza-documentary-sparks-political-storm-protests-in-israel",
-      "published_date": "2026-09-18T13:36:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine strikes continue as polling stations open in Russia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260918-ukraine-strikes-continue-as-polling-stations-open-in-russia",
-      "published_date": "2026-09-18T13:31:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US approves sale of F-35 fighter jets to Saudi Arabia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260918-us-approves-sale-of-f-35-fighter-jets-to-saudi-arabia",
-      "published_date": "2026-09-18T13:29:52+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,34 @@
       "category": "Energy"
     },
     {
+      "title": "‘I have nothing in the UK at all’: British man torn from his Swedish wife and home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/20/british-man-torn-from-swedish-wife-and-home",
+      "published_date": "2026-09-20T12:02:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nigeria's onion dispute with Ghana tests West African free trade",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260920-nigeria-onion-dispute-with-ghana-tests-west-african-free-trade",
+      "published_date": "2026-09-20T11:56:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Argentines protest Milei's austerity, demanding higher wages and public spending",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/argentines-protest-milei-s-austerity-demanding-higher-wages-and-public-spending",
+      "published_date": "2026-09-20T09:38:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AI glasses, flu jabs, and capital letters: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260920/ai-glasses-flu-jabs-and-capital-letters-6-essential-articles-for-life-in-france",
+      "published_date": "2026-09-20T07:38:37+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "China is now Rwanda’s biggest export market – now comes the hard part",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260919-china-is-now-rwanda-s-biggest-export-market-%E2%80%93-now-comes-the-hard-part",
@@ -536,32 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "OPINION: France is in deep trouble over its debt",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260916/opinion-france-is-in-deep-trouble-over-its-debt",
-      "published_date": "2026-09-16T08:08:37+00:00",
-      "category": "Economy"
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-20T10:45:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'Canada can offer a more reliable route for energy exports to the EU', expert says",
+      "title": "Yemen's Houthis strike Saudi capital Riyadh for the first time",
       "source": "France 24",
-      "url": "http://www.france24.com/en/canada-can-offer-a-more-reliable-route-for-energy-exports-to-the-eu-expert-says",
-      "published_date": "2026-09-15T19:42:08+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/yemen-s-houthis-strike-saudi-capital-riyadh-for-the-first-time",
+      "published_date": "2026-09-20T09:38:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "France's 'Gilets Jaunes' protesters urged to take to the streets again",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260915/call-for-frances-gilets-jaunes-to-take-to-the-streets-again",
-      "published_date": "2026-09-15T08:58:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rights group accuses Israel of dismantling 'Palestinian existence' in West Bank",
+      "title": "Will German's far right party AfD win over two more regions?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/rights-group-accuses-israel-of-dismantling-palestinian-existence-in-west-bank",
-      "published_date": "2026-09-14T21:26:29+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/will-german-s-far-right-party-afd-win-over-two-more-regions",
+      "published_date": "2026-09-20T09:35:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ligue 1: Paris Saint-Germain head to Marseille for a tense Classique",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260920-ligue-1-paris-saint-germain-head-to-marseille-for-a-tense-classique",
+      "published_date": "2026-09-20T09:34:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germans arrested for Paris Louvre stunt in Mona Lisa hall",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260920/germans-arrested-for-paris-louvre-stunt-in-mona-lisa-hall",
+      "published_date": "2026-09-20T08:01:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Future of German chancellor hangs in the balance as two states go to polls",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/20/german-chancellor-friedrich-merz-state-elections-berlin-far-right",
+      "published_date": "2026-09-20T02:00:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Two arrested for Louvre stunt 'for fun' in Mona Lisa hall",
@@ -659,48 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/sport/20260918-france-new-head-coach-zidane-unveils-his-first-team-line-up-for-nations-league-matches-live",
       "published_date": "2026-09-18T14:25:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweeping raids leave Turkey’s LGBTQI+ community fearing what comes next",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260918-sweeping-raids-leave-turkey-s-lgbtqi-community-fearing-what-comes-next",
-      "published_date": "2026-09-18T14:13:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police begin operation to move migrants from Ceuta beaches",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-18T11:59:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prized Aztec codex returns to Mexico on loan",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260918-prized-aztec-codex-returns-to-mexico-on-loan",
-      "published_date": "2026-09-18T11:44:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police officer detained over terror plot linked to far-right ideology",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260918-french-police-officer-detained-over-terror-plot-linked-to-far-right-ideology",
-      "published_date": "2026-09-18T11:30:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Algeria shifts towards English as French loses ground in schools",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260918-algeria-shifts-towards-english-as-french-loses-ground-in-schools",
-      "published_date": "2026-09-18T11:11:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Cameroon civil society groups taking on gender-based violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260918-the-cameroon-civil-society-groups-taking-on-gender-based-violence",
-      "published_date": "2026-09-18T10:54:56+00:00",
       "category": "Local Events"
     }
   ]
