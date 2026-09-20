@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-09-19T14:07:45.729392+00:00",
+  "last_updated": "2026-09-20T00:36:40.939874+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "French outpost off Canada in the spotlight as Macron hosts Carney on symbolic visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260919-french-outpost-off-canada-in-the-spotlight-as-macron-hosts-carney-on-symbolic-visit",
+      "published_date": "2026-09-19T19:02:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron visits remote French territory in the North America, a first in over a decade",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/macron-visits-remote-french-territory-in-the-north-america-a-first-in-over-a-decade",
+      "published_date": "2026-09-19T15:25:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France's Macron hosts Canadian PM Carney amid US tensions",
       "source": "France 24",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France’s Macron summons party leaders for talks on Mideast and Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine",
-      "published_date": "2026-09-18T10:24:31+00:00",
-      "category": "Diplomacy"
+      "title": "Jewish heirs of Holocaust victims sue California museum over Nazi-looted art",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/19/lawsuit-california-museum-nazi-looted-art",
+      "published_date": "2026-09-19T14:52:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron hosts Carney on symbolic trip to French outpost off Canada",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260918/macron-hosts-carney-on-symbolic-trip-to-french-outpost-off-canada",
-      "published_date": "2026-09-18T07:05:23+00:00",
-      "category": "Diplomacy"
+      "title": "Denmark and Greenland say US military agreement will not compromise Arctic territory’s sovereignty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/19/denmark-greenland-us-military-agreement-territorial-sovereignty",
+      "published_date": "2026-09-19T14:43:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Putin says Europe is 'preparing for war'",
@@ -221,6 +235,13 @@
       "category": "Military"
     },
     {
+      "title": "Denmark hails Greenland deal with Trump respecting ‘red lines’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260918-denmark-hails-binding-greenland-deal-with-trump",
+      "published_date": "2026-09-18T22:37:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Trump says US, Denmark reach deal to expand military presence in Greenland",
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "REPLAY: Macron orders plan to counter 'Russian hybrid attacks'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks",
-      "published_date": "2026-09-18T13:15:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fire engulfs Zaporizhzhia mall in Ukraine after Russian attack – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/18/fire-zaporizhzhia-mall-ukraine-russian-attack-video",
-      "published_date": "2026-09-18T12:03:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How will rise of AI impact Africa?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260918-how-will-rise-of-ai-impact-africa",
-      "published_date": "2026-09-18T11:06:44+00:00",
-      "category": "Military"
+      "title": "'My home wasn't safe anymore': lessons from France's hottest summer yet",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260919-my-home-wasn-t-safe-anymore-climate-expert-remembers-france-hottest-summer",
+      "published_date": "2026-09-19T16:26:35+00:00",
+      "category": "Energy"
     },
     {
       "title": "Millions without power in Cuba as electrical grid collapses again",
@@ -414,13 +421,6 @@
       "source": "France 24",
       "url": "http://www.france24.com/en/americas/20260915-venezuela-to-join-g20-energy-meetings-in-texas-at-us-invitation",
       "published_date": "2026-09-15T02:44:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Dangote refinery launches Africa’s biggest IPO for retail investors",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20260915-dangote-refinery-launches-africa-biggest-ipo-for-retail-investors",
-      "published_date": "2026-09-15T00:05:32+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "Two arrested for Louvre stunt 'for fun' in Mona Lisa hall",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260919-two-arrested-for-louvre-stunt-for-fun-in-mona-lisa-hall",
+      "published_date": "2026-09-19T20:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch riot police break up violent far-right protest in The Hague",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/19/far-right-protest-hague-violence-riot-police-malieveld",
+      "published_date": "2026-09-19T19:43:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany braces for key state elections where far right party AfD seeks another breakthrough",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/germany-braces-for-key-state-elections-where-far-right-party-afd-seeks-another-breakthrough",
+      "published_date": "2026-09-19T15:28:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Congolese cyclist dies in crash during 'Pedals for Peace' journey",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260919-congolese-cyclist-masaisai-dies-in-crash-during-pedals-for-peace-journey",
+      "published_date": "2026-09-19T15:19:46+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Smoke, flames seen near Riyadh airport, ‘major’ flight disruptions reported",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported",
@@ -673,34 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260918-the-cameroon-civil-society-groups-taking-on-gender-based-violence",
       "published_date": "2026-09-18T10:54:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Another far-right politician joins France presidential race",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260918/another-far-right-politician-joins-france-presidential-race",
-      "published_date": "2026-09-18T09:53:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police move hundreds of migrants still in Ceuta off beaches in Spanish enclave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260918-police-move-hundreds-of-migrants-still-in-ceuta-off-beaches-in-spanish-enclave",
-      "published_date": "2026-09-18T09:51:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right politician Éric Zemmour joins 2027 French presidential race",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260918-far-right-politician-%C3%A9ric-zemmour-joins-2027-french-presidential-race",
-      "published_date": "2026-09-18T09:06:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon",
-      "published_date": "2026-09-18T08:36:50+00:00",
       "category": "Local Events"
     }
   ]
