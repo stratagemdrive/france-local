@@ -1,8 +1,99 @@
 {
   "country": "France",
-  "last_updated": "2026-09-21T00:48:32.537423+00:00",
+  "last_updated": "2026-09-21T16:44:40.708793+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU and five other countries condemn Russia's 'sham' elections",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260921-eu-and-five-other-countries-condemn-russia-s-sham-elections",
+      "published_date": "2026-09-21T16:05:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mark Carney is making an eloquent case for an alliance sidelining the US | Ted Widmer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/21/mark-carney-european-parliament-alliance",
+      "published_date": "2026-09-21T16:00:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU fines Google €403 million for improperly using location data",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260921-eu-fines-google-%E2%82%AC403-million-for-improperly-using-location-data",
+      "published_date": "2026-09-21T15:05:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and Canada deepen economic and defense ties",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-and-canada-deepen-economic-and-defense-ties",
+      "published_date": "2026-09-21T14:59:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia left without US help against Houthis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/saudi-arabia-left-without-us-help-against-houthis",
+      "published_date": "2026-09-21T14:57:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Closure of French language centre in Tehran prompts row between France and Iran",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260921-closure-of-french-language-centre-in-tehran-prompts-row-between-france-and-iran",
+      "published_date": "2026-09-21T13:14:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Seven of Ethiopia's armed groups announce anti-government alliance",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260921-seven-of-ethiopia-s-armed-groups-announce-anti-government-alliance-tigray",
+      "published_date": "2026-09-21T10:38:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US, China discuss AI dialogue mechanism and trade ahead of Trump-XI summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260921-us-china-discuss-ai-dialogue-mechanism-and-trade-ahead-of-trump-xi-summit",
+      "published_date": "2026-09-21T08:30:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Macron and Canada's Carney announce closer ties",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260921/frances-macron-and-canadas-carney-announce-closer-ties",
+      "published_date": "2026-09-21T06:47:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron to meet Trump in New York ahead of UN General Assembly",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260921-macron-to-meet-trump-in-new-york-ahead-of-un-general-assembly",
+      "published_date": "2026-09-21T06:31:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-21T04:00:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Live: Ukraine slams EU’s ‘unacceptable’ move to lift sanctions on two Russian oligarchs",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260921-live-united-russia-dominates-in-elections-moscow-vows-revenge-after-massive-drone-attack",
+      "published_date": "2026-09-21T02:28:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+      "published_date": "2026-09-21T01:09:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron, Carney hail new chapter in France-Canada ties at symbolic archipelago meeting",
       "source": "France 24",
@@ -53,95 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "title": "Europe is under attack from three sides – but the EU and Nato are unfit to defend us | Nathalie Tocci",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/21/europe-under-attack-eu-nato-ursula-von-der-leyen-canada",
+      "published_date": "2026-09-21T15:37:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Projectile hits tanker as it enters the Strait of Hormuz",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260921-projectile-hits-tanker-as-it-enters-the-strait-of-hormuz",
+      "published_date": "2026-09-21T14:03:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin consolidates grip on Russia as 49 Ukraine war veterans elected to parliament",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/21/putin-consolidates-grip-russia-ukraine-war-veterans-elected-duma",
+      "published_date": "2026-09-21T13:40:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "West Bank: Israeli settler, Palestinian killed in latest violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence",
+      "published_date": "2026-09-21T12:58:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Midterm elections: Trump looms large over 2026 vote as Democrats eye gains",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/midterm-elections-trump-looms-large-over-2026-vote-as-democrats-eye-gains",
+      "published_date": "2026-09-21T12:51:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Moscow: Ukraine launches huge drone attack as election wraps up",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260921-moscow-ukraine-launches-huge-drone-attack-as-election-wraps-up",
+      "published_date": "2026-09-21T11:04:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Seasons review – Portuguese pastoral offers poetic excavation of myth and mapping",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping",
+      "published_date": "2026-09-21T10:00:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin party retains majority in first vote since 2022 invasion of Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/putin-party-retains-majority-in-first-vote-since-2022-invasion-of-ukraine",
+      "published_date": "2026-09-21T09:38:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-19T23:00:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French outpost off Canada in the spotlight as Macron hosts Carney on symbolic visit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260919-french-outpost-off-canada-in-the-spotlight-as-macron-hosts-carney-on-symbolic-visit",
-      "published_date": "2026-09-19T19:02:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron visits remote French territory in the North America, a first in over a decade",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/macron-visits-remote-french-territory-in-the-north-america-a-first-in-over-a-decade",
-      "published_date": "2026-09-19T15:25:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France's Macron hosts Canadian PM Carney amid US tensions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-s-macron-hosts-canadian-pm-carney-amid-us-tensions",
-      "published_date": "2026-09-19T13:25:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe weighs the cost of sending its own astronauts into space",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260919-europe-weighs-the-cost-of-sending-its-own-astronauts-into-space",
-      "published_date": "2026-09-19T12:35:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France’s Macron warns of Russian ‘hybrid’ attacks, seeks to step up energy defence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-s-macron-warns-of-russian-hybrid-attacks-seeks-to-step-up-energy-defence",
-      "published_date": "2026-09-19T09:52:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU proposes new rules on recognition of qualifications for non-EU citizens",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260919/eu-proposes-new-rules-for-recognition-of-qualifications-from-non-eu-citizens",
-      "published_date": "2026-09-19T09:05:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OPINION: Do Canadians really want closer ties with Europe?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260919/opinion-do-canadians-really-want-closer-ties-with-europe",
-      "published_date": "2026-09-19T08:54:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IN NUMBERS: How many Britons have residency permits across Europe?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260919/in-numbers-how-many-britons-have-residency-permits-across-europe",
-      "published_date": "2026-09-19T08:49:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European education powerhouses rocked by falling scores in global study",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/sep/19/european-education-powerhouses-rocked-falling-pisa-scores-global-study-france-germany-netherlands-finland",
-      "published_date": "2026-09-19T05:00:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Burning forests, emptying rivers, €180bn in damage: Europe’s politicians face reckoning after ‘summer of truth’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/19/summer-of-truth-will-political-leaders-act-as-climate-chaos-comes-knocking",
-      "published_date": "2026-09-19T05:00:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
-      "published_date": "2026-09-19T00:10:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tiny French outpost off Canada the unlikely stage for new transatlantic courtship",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260918-tiny-french-outpost-off-canada-the-unlikey-stage-for-new-transatlantic-courtship-saint-pierre-and-miquelon",
-      "published_date": "2026-09-18T16:06:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-21T00:05:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia's ruling party on track to win election after Ukraine's drone attacks on Moscow",
@@ -155,6 +218,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe",
       "published_date": "2026-09-20T16:47:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin's party wins record number of parliamentary seats in first vote since 2022 invasion of Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260920-putin-s-party-set-to-retain-power-after-russia-vote-hit-by-cyberattacks-drones",
+      "published_date": "2026-09-20T14:47:00+00:00",
       "category": "Military"
     },
     {
@@ -214,74 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "North Korea fires two ballistic missiles into the sea in latest weapons display",
+      "title": "France: Government hosts energy meeting amid fuel price tensions",
       "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260920-north-korea-fires-two-ballistic-missiles-into-the-sea-in-latest-weapons-display",
-      "published_date": "2026-09-20T11:40:58+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/france-government-hosts-energy-meeting-amid-fuel-price-tensions",
+      "published_date": "2026-09-21T14:39:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Uganda suspends military ties with Turkey over extradition of Museveni critic",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260920-uganda-suspends-military-ties-with-turkey-over-extradition-of-museveni-critic-lumbuye",
-      "published_date": "2026-09-20T10:29:02+00:00",
-      "category": "Military"
+      "title": "Everything that changes in France in October 2026",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260921/everything-that-changes-in-france-in-october-2026",
+      "published_date": "2026-09-21T11:13:07+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine hits Russia with major drone attack, targetting refinery",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-hits-russia-with-major-drone-attack-targetting-refinery",
-      "published_date": "2026-09-20T10:24:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ed Sheeran calls Gaza war catastrophic after dropping Macklemore over pro-Palestinian comments",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ed-sheeran-calls-gaza-war-catastrophic-after-dropping-macklemore-over-pro-palestinian-comments",
-      "published_date": "2026-09-20T09:57:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: Russian election enters final day after Kyiv targets Moscow in massive drone attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260920-live-russian-election-enters-final-day-in-shadow-of-war-in-ukraine",
-      "published_date": "2026-09-20T05:16:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv denounces Russia’s inclusion of annexed regions in parliamentary elections",
+      "title": "Babies ‘will face almost twice as much’ extreme fire weather in Europe than great-grandparents",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/20/ukraine-war-briefing-kyiv-denounces-russias-inclusion-of-annexed-regions-in-parliamentary-elections",
-      "published_date": "2026-09-20T03:11:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jewish heirs of Holocaust victims sue California museum over Nazi-looted art",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/19/lawsuit-california-museum-nazi-looted-art",
-      "published_date": "2026-09-19T14:52:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Denmark and Greenland say US military agreement will not compromise Arctic territory’s sovereignty",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/19/denmark-greenland-us-military-agreement-territorial-sovereignty",
-      "published_date": "2026-09-19T14:43:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin says Europe is 'preparing for war'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/putin-says-europe-is-preparing-for-war",
-      "published_date": "2026-09-19T13:04:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel: 'NAZA' documentary sparks political storm",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260919-israel-naza-documentary-sparks-political-storm",
-      "published_date": "2026-09-19T12:41:53+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/sep/21/babies-extreme-fire-weather-europe-great-grandparents",
+      "published_date": "2026-09-21T09:00:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "'My home wasn't safe anymore': lessons from France's hottest summer yet",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "French labour strike reduces capacity at key Dunkirk gas terminal",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/france/20260915-french-labour-strike-reduces-capacity-key-dunkirk-gas-terminal",
-      "published_date": "2026-09-15T07:24:43+00:00",
-      "category": "Energy"
+      "title": "Germany’s Merz ‘grateful’ centre-left SPD wants to stay in coalition after CDU’s heavy losses – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news",
+      "published_date": "2026-09-21T15:02:44+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Fuel price protests kick off in France as oil terminal blocked in south",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260915/fuel-price-protests-kick-off-in-france-as-oil-terminal-blocked-in-south",
-      "published_date": "2026-09-15T07:10:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Venezuela to join G20 energy talks in Texas at US invitation",
-      "source": "France 24",
-      "url": "http://www.france24.com/en/americas/20260915-venezuela-to-join-g20-energy-meetings-in-texas-at-us-invitation",
-      "published_date": "2026-09-15T02:44:46+00:00",
-      "category": "Energy"
+      "title": "Latest German election humiliation puts Merz on borrowed time as CDU unrest grows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/21/german-state-election-humiliation-friedrich-merz-borrowed-time-cdu-unrest-grows",
+      "published_date": "2026-09-21T10:04:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Friedrich Merz vows to stay in office after CDU ‘disaster’ in German state elections",
@@ -550,18 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "How Americans in France can benefit from international credit unions",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260917/how-americans-in-france-can-benefit-from-international-credit-unions",
-      "published_date": "2026-09-17T08:17:33+00:00",
-      "category": "Economy"
+      "title": "Inside the US system deporting migrants through African countries",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260921-inside-the-us-system-deporting-migrants-through-african-countries-deportation-project-forbidden-stories",
+      "published_date": "2026-09-21T16:20:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US Federal Reserve defies Trump with interest rate hike",
+      "title": "Rise of the far right in Germany: how worried should we be? – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/sep/21/rise-of-far-right-afd-germany-how-worried-should-we-be-the-latest",
+      "published_date": "2026-09-21T16:05:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The AfD thrives in the absence of mainstream parties that speak to people’s daily lives | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/21/the-afd-thrives-in-the-absence-of-mainstream-parties-that-speak-to-peoples-daily-lives",
+      "published_date": "2026-09-21T14:59:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French farmers turn to tropical crops amid rising temperatures",
       "source": "France 24",
-      "url": "http://www.france24.com/en/us-federal-reserve-defies-trump-with-interest-rate-hike",
-      "published_date": "2026-09-16T21:38:45+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260921-french-farmers-turn-to-tropical-crops-amid-rising-temperatures",
+      "published_date": "2026-09-21T14:39:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French pilot and cabin crew unions call for strike during Autumn holidays",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260921/french-pilot-and-cabin-crew-unions-call-for-strike-during-autumn-holidays",
+      "published_date": "2026-09-21T14:33:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's Merz vows to hold ruling coalition together after election gains by far right, hard left",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260921-germany-merz-vows-to-keep-ruling-coalition-together-after-election-defeats",
+      "published_date": "2026-09-21T13:02:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sorbonne Professor Hans Stark: 'Merz is in a very, very fragile situation'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260921-sorbonne-professor-hans-stark-merz-is-in-a-very-very-fragile-situation",
+      "published_date": "2026-09-21T12:25:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brigitte Bardot's ballet flats and diamond rings to be sold at auction",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9x83yw19wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-21T11:15:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France prepares for Pope Leo XIV historic visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-prepares-for-pope-leo-xiv-historic-visit",
+      "published_date": "2026-09-21T09:57:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elif Eralp could become first Left Party mayor in Berlin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/elif-eralp-could-become-first-left-party-mayor-in-berlin",
+      "published_date": "2026-09-21T09:41:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Genesio rules out resignation after PSG add to Marseille's woes in Ligue 1",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20260921-genesio-rules-out-resignation-after-psg-add-to-marseille-s-woes-in-ligue-1",
+      "published_date": "2026-09-21T07:26:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands march in France against 'licence to kill' draft law",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260921-thousands-march-in-france-against-licence-to-kill-draft-law",
+      "published_date": "2026-09-21T00:27:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thousands protest in France against bill expanding protections for police use of force",
@@ -617,90 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/will-german-s-far-right-party-afd-win-over-two-more-regions",
       "published_date": "2026-09-20T09:35:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ligue 1: Paris Saint-Germain head to Marseille for a tense Classique",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260920-ligue-1-paris-saint-germain-head-to-marseille-for-a-tense-classique",
-      "published_date": "2026-09-20T09:34:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germans arrested for Paris Louvre stunt in Mona Lisa hall",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260920/germans-arrested-for-paris-louvre-stunt-in-mona-lisa-hall",
-      "published_date": "2026-09-20T08:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Future of German chancellor hangs in the balance as two states go to polls",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/20/german-chancellor-friedrich-merz-state-elections-berlin-far-right",
-      "published_date": "2026-09-20T02:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two arrested for Louvre stunt 'for fun' in Mona Lisa hall",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260919-two-arrested-for-louvre-stunt-for-fun-in-mona-lisa-hall",
-      "published_date": "2026-09-19T20:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch riot police break up violent far-right protest in The Hague",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/19/far-right-protest-hague-violence-riot-police-malieveld",
-      "published_date": "2026-09-19T19:43:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany braces for key state elections where far right party AfD seeks another breakthrough",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/germany-braces-for-key-state-elections-where-far-right-party-afd-seeks-another-breakthrough",
-      "published_date": "2026-09-19T15:28:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Congolese cyclist dies in crash during 'Pedals for Peace' journey",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260919-congolese-cyclist-masaisai-dies-in-crash-during-pedals-for-peace-journey",
-      "published_date": "2026-09-19T15:19:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smoke, flames seen near Riyadh airport, ‘major’ flight disruptions reported",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported",
-      "published_date": "2026-09-19T12:53:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspected alcohol poisoning in Nigeria's Ondo State kills at least 49 people",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/suspected-alcohol-poisoning-in-nigeria-s-ondo-state-kills-at-least-49-people",
-      "published_date": "2026-09-19T11:19:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain's police launch operation to clear migrants off Ceuta beach",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/spain-s-police-launch-operation-to-clear-migrants-off-ceuta-beach",
-      "published_date": "2026-09-19T09:57:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside France: French preference, prosthetic genitals and Céline Dion",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260919/inside-france-french-preference-prosthetic-genitals-and-celine-dion",
-      "published_date": "2026-09-19T08:07:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As far right gains ground in Germany, Berlin election tests Europe's centre",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260919-as-far-right-gains-ground-in-germany-berlin-election-tests-europe-s-centre",
-      "published_date": "2026-09-19T07:39:03+00:00",
       "category": "Local Events"
     }
   ]
