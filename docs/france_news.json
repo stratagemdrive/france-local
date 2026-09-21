@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-09-20T14:26:14.553611+00:00",
+  "last_updated": "2026-09-21T00:48:32.537423+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Macron, Carney hail new chapter in France-Canada ties at symbolic archipelago meeting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260920-macron-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting",
+      "published_date": "2026-09-20T18:29:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Replay: Macron, Carney hail new chapter on France-Canada ties at St. Pierre and Miquelon meeting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/replay-macron-carney-hail-new-chapter-on-france-canada-ties-at-st-pierre-and-miquelon-meeting",
+      "published_date": "2026-09-20T18:24:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron welcomes Canada's Carney to French Atlantic territory",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260920-macron-welcomes-canada-s-carney-to-french-atlantic-territory",
+      "published_date": "2026-09-20T16:05:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran shuts language centre affiliated with French embassy in Tehran",
       "source": "The Local France",
@@ -88,6 +109,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "IN NUMBERS: How many Britons have residency permits across Europe?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260919/in-numbers-how-many-britons-have-residency-permits-across-europe",
+      "published_date": "2026-09-19T08:49:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "European education powerhouses rocked by falling scores in global study",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/education/2026/sep/19/european-education-powerhouses-rocked-falling-pisa-scores-global-study-france-germany-netherlands-finland",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "We’re ideally placed to chair EU budget negotiations, says Irish Minister of State",
+      "title": "Russia's ruling party on track to win election after Ukraine's drone attacks on Moscow",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260918-we-re-ideally-placed-to-chair-eu-budget-negotiations-says-irish-minister-of-state",
-      "published_date": "2026-09-18T15:17:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260920-russia-s-ruling-party-on-track-to-win-election-after-ukraine-s-drone-attacks-on-moscow",
+      "published_date": "2026-09-20T20:14:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ursula von der Leyen’s sixth State of the Union speech: A grand sweep, but thin on details?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260918-ursula-von-der-leyen-s-sixth-state-of-the-union-speech-a-grand-sweep-but-thin-on-details",
-      "published_date": "2026-09-18T15:17:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-18T14:42:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Burnham urged by opposition parties to follow Macron and act with more urgency on Russian threat – UK politics live",
+      "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news",
-      "published_date": "2026-09-18T14:14:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe",
+      "published_date": "2026-09-20T16:47:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine fires over 1,000 drones at Russia in \"largest ever\" attack on Moscow",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-fires-over-1-000-drones-at-russia-in-largest-ever-attack-on-moscow",
+      "published_date": "2026-09-20T14:46:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "An Israeli settler and a Palestinian driver killed in West Bank shootings",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/an-israeli-settler-and-a-palestinian-driver-killed-in-west-bank-shootings",
+      "published_date": "2026-09-20T14:34:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Average French diesel prices hit record 2.41 euros: AFP analysis",
@@ -253,34 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260919-israel-naza-documentary-sparks-political-storm",
       "published_date": "2026-09-19T12:41:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Denmark welcomes deal with US over Greenland after Trump annexation threats",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260919-denmark-welcomes-deal-with-us-over-greenland-after-trump-annexation-threats",
-      "published_date": "2026-09-19T11:33:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "37 die in Nigerian custody: Reports blame overcrowding, government disputes claim",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/37-die-in-nigerian-custody-reports-blame-overcrowding-government-disputes-claim",
-      "published_date": "2026-09-19T11:26:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian children learn ancient warrior skills amid modern war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukrainian-children-learn-ancient-warrior-skills-amid-modern-war",
-      "published_date": "2026-09-19T11:21:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Did Trump really obtain 'permanent control' over Greenland?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/did-trump-really-obtain-permanent-control-over-greenland",
-      "published_date": "2026-09-19T11:07:34+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Friedrich Merz vows to stay in office after CDU ‘disaster’ in German state elections",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/20/friedrich-merz-chancellor-germany-state-elections-cdu-afd-linke-berlin",
+      "published_date": "2026-09-20T18:33:02+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "‘I have nothing in the UK at all’: British man torn from his Swedish wife and home",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/20/british-man-torn-from-swedish-wife-and-home",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "US Federal Reserve defies Trump with interest rate hike",
+      "title": "Thousands protest in France against bill expanding protections for police use of force",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-federal-reserve-defies-trump-with-interest-rate-hike",
-      "published_date": "2026-09-16T21:38:45+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20260920-thousands-protest-in-france-against-bill-expanding-protections-for-police-use-of-force",
+      "published_date": "2026-09-20T23:56:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Torres strikes again as PSG beat bitter rivals Marseille 2-1",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20260920-torres-strikes-again-as-psg-beat-bitter-rivals-marseille-2-1",
+      "published_date": "2026-09-20T21:55:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 82, dies after brawl with 76-year-old over sunlounger on Greek beach",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/20/greek-police-investigate-death-man-beach-brawl",
+      "published_date": "2026-09-20T17:07:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settler and Palestinian driver killed in West Bank shootings",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260920-israeli-settler-and-palestinian-driver-killed-in-west-bank-shootings",
+      "published_date": "2026-09-20T15:30:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands march in France against 'licence to kill' draft law",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260920/thousands-march-in-france-against-licence-to-kill-draft-law",
+      "published_date": "2026-09-20T15:09:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
@@ -666,41 +701,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/international/20260919-as-far-right-gains-ground-in-germany-berlin-election-tests-europe-s-centre",
       "published_date": "2026-09-19T07:39:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘My fear was too great’: the Pussy Riot member recruited by Russian spies to inform on fellow activists",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/19/pussy-riot-russian-spies-fsb-activists-rita-flores",
-      "published_date": "2026-09-19T04:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uproar in Niger state, 37 die in custody",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uproar-in-niger-state-37-die-in-custody",
-      "published_date": "2026-09-18T20:52:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden’s soul and worrying political shift | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/18/swedens-soul-and-worrying-political-shift",
-      "published_date": "2026-09-18T16:52:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swedish teenager jailed for attempted murder, rape and assault committed online, with victims in Germany and Australia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/sep/19/swedish-teenager-jailed-cybercrime-attempted-murder-rape-germany-australia-ntwnfb",
-      "published_date": "2026-09-18T15:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's new head coach Zidane unveils his first team line-up for Nations League matches",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20260918-france-new-head-coach-zidane-unveils-his-first-team-line-up-for-nations-league-matches-live",
-      "published_date": "2026-09-18T14:25:26+00:00",
       "category": "Local Events"
     }
   ]
