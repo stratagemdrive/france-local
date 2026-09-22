@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-09-21T16:44:40.708793+00:00",
+  "last_updated": "2026-09-22T01:24:23.198415+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Brigitte Bardot auction in Paris fetches nearly €1m, with proceeds going to her animal welfare foundation and her son",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/22/brigitte-bardot-auction-paris-animal-welfare",
+      "published_date": "2026-09-22T00:27:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia's main armed groups form anti-government alliance",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ethiopia-s-main-armed-groups-form-anti-government-alliance",
+      "published_date": "2026-09-21T21:16:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU and five other countries condemn Russia's 'sham' elections",
       "source": "RFI English",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The week in pictures: Syria protests, Céline Dion on stage and Quito wildfires",
+      "title": "US, Denmark and Greenland to sign security deal on Tuesday",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260920-the-week-in-pictures-syria-protests-c%C3%A9line-dion-on-stage-and-quito-wildfires",
-      "published_date": "2026-09-20T13:15:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US and Denmark reach Greenland security deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-and-denmark-reach-greenland-security-deal",
-      "published_date": "2026-09-20T09:40:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20260921-us-denmark-and-greenland-to-sign-security-deal-on-tuesday",
+      "published_date": "2026-09-21T23:30:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Europe is under attack from three sides – but the EU and Nato are unfit to defend us | Nathalie Tocci",
@@ -274,13 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/why-doesn-t-the-us-intervene-to-defend-saudi-arabia-against-the-houthis",
       "published_date": "2026-09-20T12:20:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Moscow targeted with hundreds of drones as Kyiv uses its first ballistic missile in the war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
-      "published_date": "2026-09-20T12:09:33+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Paramount settles with US states, clearing path for Warner Bros. merger",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260921-paramount-settles-with-us-states-clearing-path-for-warner-bros-merger",
+      "published_date": "2026-09-21T22:48:23+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Germany’s Merz ‘grateful’ centre-left SPD wants to stay in coalition after CDU’s heavy losses – as it happened",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news",
@@ -557,11 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "French fishermen renew protest as France boosts aid over soaring fuel prices",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260917-french-fishermen-renew-protest-as-france-boosts-aid-over-soaring-fuel-prices",
-      "published_date": "2026-09-17T09:38:24+00:00",
-      "category": "Economy"
+      "title": "Forbidden Stories on Trump deportation system: FRANCE 24's 'Ice, Trump and Africa'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260921-forbidden-stories-on-trump-deportation-system-france24-s-ice-trump-and-africa",
+      "published_date": "2026-09-21T19:52:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Friedrich Merz: Germany’s chancellor must change course to halt the rise of the AfD | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/21/the-guardian-view-on-friedrich-merz-germanys-chancellor-must-change-course-to-halt-the-rise-of-the-afd",
+      "published_date": "2026-09-21T17:34:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rise of the far right in Germany: how worried should we be? – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/sep/21/rise-of-the-far-right-in-germany-how-worried-should-we-be-the-latest",
+      "published_date": "2026-09-21T16:47:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Inside the US system deporting migrants through African countries",
@@ -680,27 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260920/thousands-march-in-france-against-licence-to-kill-draft-law",
       "published_date": "2026-09-20T15:09:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-20T10:45:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yemen's Houthis strike Saudi capital Riyadh for the first time",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/yemen-s-houthis-strike-saudi-capital-riyadh-for-the-first-time",
-      "published_date": "2026-09-20T09:38:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will German's far right party AfD win over two more regions?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/will-german-s-far-right-party-afd-win-over-two-more-regions",
-      "published_date": "2026-09-20T09:35:34+00:00",
       "category": "Local Events"
     }
   ]
