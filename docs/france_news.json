@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-09-23T15:15:28.579205+00:00",
+  "last_updated": "2026-09-24T01:00:58.977770+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Tony Blair says Britain should work towards rejoining EU in next 10 years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/24/tony-blair-britain-rejoin-eu-next-10-years-brexit",
+      "published_date": "2026-09-23T23:01:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AI leaders urge caution at UN, with Anthropic chief pledging to slow down",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260923-ai-leaders-urge-caution-at-un-with-anthropic-chief-pledging-to-slow-down",
+      "published_date": "2026-09-23T21:46:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelenskyy at UN urges world leaders to end trade with Russia – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/23/zelenskyy-un-general-assembly-russia",
+      "published_date": "2026-09-23T21:18:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fact-checking Trump’s speech at the United Nations General Assembly",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/fact-checking-trump-s-speech-at-the-united-nations-general-assembly-1",
+      "published_date": "2026-09-23T20:54:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Belgium and Rwanda restore diplomatic ties after 18-month rupture",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260923-belgium-and-rwanda-restore-diplomatic-ties-after-18-month-rupture",
+      "published_date": "2026-09-23T17:37:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A new leaf: inside the 25 September Guardian Weekly",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/sep/23/a-new-leaf-inside-the-25-september-guardian-weekly",
+      "published_date": "2026-09-23T17:00:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran will 'never bend at the knee', Pezeshkian tells UN in defiant wartime address",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260923-iran-will-never-bend-at-the-knee-pezeshkian-tells-un-defiant-wartime-address",
+      "published_date": "2026-09-23T15:49:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump hosts China's Xi for high-stakes summit ahead of US midterm elections",
       "source": "RFI English",
@@ -15,6 +64,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
       "published_date": "2026-09-23T15:04:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-23T14:32:42+00:00",
       "category": "Diplomacy"
     },
     {
@@ -88,60 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Azerbaijan pardons jailed Frenchman after EU lifts sanctions on Russian billionaires",
+      "title": "Turkey to hand over military base in northern Iraq to Baghdad",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260923-azerbaijan-pardons-jailed-frenchman-after-eu-lifts-sanctions-on-russian-oligarchs",
-      "published_date": "2026-09-23T07:53:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260924-turkey-to-hand-over-military-base-in-northern-iraq-to-baghdad",
+      "published_date": "2026-09-24T00:02:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron urges world to resist ‘law of the jungle’ in final UN address",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260923-macron-urges-world-to-resist-law-of-the-jungle-in-final-un-address",
-      "published_date": "2026-09-23T07:08:47+00:00",
-      "category": "Diplomacy"
+      "title": "Tigray rebels seize airports",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tigray-rebels-seize-airports",
+      "published_date": "2026-09-23T20:27:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Europe frets about Trump. But soon he could be the least of our problems | Mujtaba Rahman",
+      "title": "REPLAY: Ukrainian President Zelensky addresses the UN General Assembly",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260923-replay-ukrainian-president-zelensky-addresses-the-un-general-assembly",
+      "published_date": "2026-09-23T19:44:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How the ‘poisonous tide’ of disinformation spreads division and despair",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/23/europe-frets-about-trump-but-soon-he-could-be-the-least-of-our-problems",
-      "published_date": "2026-09-23T04:00:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair",
+      "published_date": "2026-09-23T19:24:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "French government scales up targeted fuel price relief",
+      "title": "Zelensky accuses Putin of using nationals of 47 countries to fight Ukraine war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260922-french-government-scales-up-targeted-fuel-price-relief",
-      "published_date": "2026-09-22T20:54:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260923-putin-using-citizens-from-47-countries-to-fight-ukraine-zelensky-tells-un",
+      "published_date": "2026-09-23T18:53:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Viral NATO video falsely framed as ‘war propaganda’ against Russia",
+      "title": "US says wants Ukraine, Russia to end strikes on energy sites",
       "source": "France 24",
-      "url": "https://www.france24.com/en/viral-nato-video-falsely-framed-as-war-propaganda-against-russia-1",
-      "published_date": "2026-09-22T20:44:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260923-us-says-wants-ukraine-russia-to-end-strikes-on-energy-sites-1",
+      "published_date": "2026-09-23T15:25:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron urges world to 'stand firm' against 'abuse of power by empires' in final UN speech",
+      "title": "Zelenskyy set to address UN as Russia strikes Kyiv",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260922-macron-urges-world-stand-firm-against-abuse-of-power-by-empires-final-un-speech",
-      "published_date": "2026-09-22T20:08:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260923-zelenskyy-set-to-address-un-as-russia-strikes-kyiv-1",
+      "published_date": "2026-09-23T15:20:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-22T19:06:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump's world? Leaders navigate consequences of US policy",
+      "title": "Iranian president adresses UNGA amid war with US",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260922-trump-s-world-leaders-navigate-consequences-of-us-policy",
-      "published_date": "2026-09-22T18:14:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/iranian-president-adresses-unga-amid-war-with-us",
+      "published_date": "2026-09-23T15:20:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran’s Pezeshkian tells UN his country is ‘victim’ of US ‘terrorism’",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US fighter jet crashes at air base in western Germany",
+      "title": "Germany pledges to phase out fossil fuels for first time with target of 2045",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/sep/22/fighter-jet-crashes-germany",
-      "published_date": "2026-09-22T16:49:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "REPLAY: Trump defends Iran war, attacks ICC in UN speech",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech",
-      "published_date": "2026-09-22T16:13:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump delivers message to Putin: ‘Settle the war’ - Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
-      "published_date": "2026-09-22T15:11:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Never mind Trump – if Europe wants to save Nato, it must win over the American people | Leslie Vinjamuri",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/22/trump-us-nato-europe-american-people-mark-rutte",
-      "published_date": "2026-09-22T14:30:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "🔴Live: Trump set to defend Iran war in speech before UN General Assembly",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate",
-      "published_date": "2026-09-22T14:26:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Guatemala receives first US arms in nearly 50 years",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260922-guatemala-receives-first-us-arms-in-nearly-50-years",
-      "published_date": "2026-09-22T14:05:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopian armed groups announce anti-government alliance",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260922-ethiopian-armed-groups-announce-anti-government-alliance",
-      "published_date": "2026-09-22T13:29:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, Denmark and Greenland to sign security deal on Tuesday",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260921-us-denmark-and-greenland-to-sign-security-deal-on-tuesday",
-      "published_date": "2026-09-21T23:30:46+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045",
+      "published_date": "2026-09-23T16:37:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "El Nino: Climate scientists warn of \"Godzilla-level\" climate event",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Climate change: Glacier loss and dry rivers threaten water security",
+      "title": "Trump sparks debate over diesel export ban",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260917-climate-change-glacier-loss-and-dry-rivers-threaten-water-security",
-      "published_date": "2026-09-17T16:10:02+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/trump-sparks-debate-over-diesel-export-ban",
+      "published_date": "2026-09-23T20:38:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "No, this video doesn't disprove the 9/11 attack on the south tower of the World Trade Center",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260923-video-no-proof-plane-hit-twin-tower-9-11",
+      "published_date": "2026-09-23T19:01:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "Chinese beauty products prove resilient amid US-China trade war",
@@ -550,18 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Air France bets on caviar and champagne to lure luxury flyers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260918-air-france-bets-on-caviar-and-champagne-lure-luxury-flyers",
-      "published_date": "2026-09-18T15:23:24+00:00",
-      "category": "Economy"
+      "title": "The global machinery built to carry out Trump’s mass deportation drive",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260923-the-global-machinery-built-to-carry-out-trump-s-mass-deportation-drive-forbidden-stories-deportation-project",
+      "published_date": "2026-09-23T19:01:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine",
+      "title": "Holy regulation? Pope in Paris to press case for 'disarming' AI",
       "source": "France 24",
-      "url": "https://www.france24.com/en/macron-convenes-french-party-leaders-as-soaring-energy-prices-put-focus-on-wars-in-iran-and-ukraine",
-      "published_date": "2026-09-18T14:26:28+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260923-holy-regulation-pope-in-paris-to-press-case-for-disarming-ai",
+      "published_date": "2026-09-23T18:44:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Breakthrough' archeological find could confirm location of Paris's original settlement",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260923-breakthrough-archeological-find-could-confirm-paris-origins",
+      "published_date": "2026-09-23T18:19:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Backlash against smart glasses grow",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/backlash-against-smart-glasses-grow",
+      "published_date": "2026-09-23T15:30:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
@@ -673,34 +701,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260922/a-mass-for-600000-what-you-need-to-know-about-pope-leos-visit-to-france",
       "published_date": "2026-09-22T11:00:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Top TV networks – including Fox – revolt in solidarity with media banned by Trump",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260922-top-tv-networks-%E2%80%93-including-fox-%E2%80%93-revolt-in-solidarity-with-media-banned-by-trump",
-      "published_date": "2026-09-22T10:59:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The choice was prison or exile’: journalists who fled Russia publish grim portrait of Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/22/vladimir-putin-biography-russia-journalists-exile",
-      "published_date": "2026-09-22T10:58:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eleven injured in shooting outside Turkish school",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-22T10:42:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TELL US: What one act of French kindness made you feel welcome in France?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260922/tell-us-what-one-act-of-kindness-made-you-feel-welcome-in-france",
-      "published_date": "2026-09-22T09:33:38+00:00",
       "category": "Local Events"
     }
   ]
