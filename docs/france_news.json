@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-09-24T01:00:58.977770+00:00",
+  "last_updated": "2026-09-24T15:40:30.563953+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU says Trump plan to ban US diesel exports would ‘negatively impact both sides’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/24/eu-trump-diesel-export-ban-fuel-prices-europe",
+      "published_date": "2026-09-24T14:46:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "After so long in Trump’s sights, hopeful Greenlanders breathe a collective sigh of relief",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/24/greenland-trump-us-security-agreement-relief",
+      "published_date": "2026-09-24T14:27:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU sanctions Russian pundit Xenia Fedorova after expulsion from France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260924-eu-sanctions-russian-pundit-xenia-fedorova-after-expulsion-from-france",
+      "published_date": "2026-09-24T13:45:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Does the future belong to China?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260924-does-the-future-belong-to-china",
+      "published_date": "2026-09-24T12:32:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU calls for 'de-escalation' as Tigray rebels clash with Ethiopian forces",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260924-eu-calls-for-de-escalation-as-tigray-rebels-clash-with-ethiopian-forces",
+      "published_date": "2026-09-24T09:43:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tony Blair says Britain should work towards rejoining EU in next 10 years",
       "source": "The Guardian",
@@ -109,39 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN General Assembly enters second day with key speeches ahead",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/un-general-assembly-enters-second-day-with-key-speeches-ahead",
-      "published_date": "2026-09-23T13:10:45+00:00",
-      "category": "Diplomacy"
+      "title": "French-language author Orélien denies using AI to write award-winning book",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260924-french-language-author-or%C3%A9lien-denies-using-ai-to-write-award-winning-book-th%C3%A9lyson-or%C3%A9lien",
+      "published_date": "2026-09-24T15:12:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Israel denounces Macron's UN remarks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-denounces-macron-s-un-remarks",
-      "published_date": "2026-09-23T11:56:17+00:00",
-      "category": "Diplomacy"
+      "title": "Man, 105, being investigated over murders at Nazi PoW camp",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/24/man-105-investigated-nazi-pow-camp-murders",
+      "published_date": "2026-09-24T14:55:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu calls Macron's remarks on West Bank in UN speech 'grotesque'",
+      "title": "Greenland leaders receive heroes' welcome after signing security pact with US and Denmark – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/24/greenland-leaders-receive-heros-welcome-after-signing-security-pact-with-us-and-denmark-video",
+      "published_date": "2026-09-24T14:43:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "United States: Trump's unconventional welcome for Xi's state visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260924-united-states-trump-s-unconventional-welcome-for-xi-s-state-visit",
+      "published_date": "2026-09-24T14:40:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Taiwan: Home of semiconductor giants at the centre of AI race",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260924-taiwan-home-of-semiconductor-giants-at-the-centre-of-ai-race",
+      "published_date": "2026-09-24T13:17:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tigrayan leaders say new war with Ethiopian govt has begun",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260924-tigrayan-leaders-say-new-war-with-ethiopian-govt-has-begun",
+      "published_date": "2026-09-24T13:06:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Massive, maximum destruction’: Putin seeks to bring Ukrainian civilians ‘to their knees’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/massive-maximum-destruction-putin-seeks-to-bring-ukrainian-civilians-to-their-knees",
+      "published_date": "2026-09-24T12:17:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Australia's Medicare AI hack: Its seriousness 'cannot be overstated'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260924-australia-s-medicare-ai-hack-its-seriousness-cannot-be-overstated",
+      "published_date": "2026-09-24T12:11:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopia's Tigray rebels in 'full-blown' war with govt",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260924-ethiopia-s-tigray-rebels-in-full-blown-war-with-govt",
+      "published_date": "2026-09-24T12:05:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Australia’s Albanese rebukes OpenAI after government website hacked",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260924-australia-s-albanese-rebukes-openai-after-government-website-hacked",
+      "published_date": "2026-09-24T12:02:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-23T11:30:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-24T11:59:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Shame': Macron slams Trump's Gaza diplomacy in final UN speech",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260923-shame-macron-slams-trump-s-gaza-diplomacy-in-final-un-speech",
-      "published_date": "2026-09-23T10:38:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe lifts sanctions against two Russians",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe-lifts-sanctions-against-two-russians",
-      "published_date": "2026-09-23T08:26:17+00:00",
-      "category": "Diplomacy"
+      "title": "The west is in freefall – and the worst part is that we were warned, but chose not to listen | Owen Jones",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
+      "published_date": "2026-09-24T07:00:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Turkey to hand over military base in northern Iraq to Baghdad",
@@ -179,108 +263,24 @@
       "category": "Military"
     },
     {
+      "title": "Eriksen leaves Wolfsburg by mutual consent",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm5yezn8w4xdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-23T16:47:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is Burnham right to blame Russia for spreading online disinformation?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckd79wldjzl4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-23T16:35:11+00:00",
+      "category": "Military"
+    },
+    {
       "title": "US says wants Ukraine, Russia to end strikes on energy sites",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260923-us-says-wants-ukraine-russia-to-end-strikes-on-energy-sites-1",
       "published_date": "2026-09-23T15:25:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy set to address UN as Russia strikes Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260923-zelenskyy-set-to-address-un-as-russia-strikes-kyiv-1",
-      "published_date": "2026-09-23T15:20:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian president adresses UNGA amid war with US",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iranian-president-adresses-unga-amid-war-with-us",
-      "published_date": "2026-09-23T15:20:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s Pezeshkian tells UN his country is ‘victim’ of US ‘terrorism’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/iran-s-pezeshkian-tells-un-his-country-is-victim-of-us-terrorism",
-      "published_date": "2026-09-23T14:57:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "REPLAY: Iranian President Pezeshkian adresses UNGA",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260923-replay-iranian-president-pezeshkian-adresses-unga-1",
-      "published_date": "2026-09-23T14:44:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Golan Heights will 'remain Syrian', President Ahmed al-Sharaa vows at UN",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260923-golan-heights-will-remain-syrian-president-al-sharaa-vows-to-un",
-      "published_date": "2026-09-23T13:31:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump ramps up his war on the media",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260923-trump-ramps-up-his-war-on-the-media",
-      "published_date": "2026-09-23T13:25:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "World leaders weigh AI worries, regulations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/world-leaders-weigh-ai-worries-regulations",
-      "published_date": "2026-09-23T13:08:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US President warns Tehran at UN but says talks ongoing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-president-warns-tehran-at-un-but-says-talks-ongoing",
-      "published_date": "2026-09-23T10:46:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France unveils €80m drive to boost AI skills in the workplace",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260923-france-unveils-%E2%82%AC80m-drive-to-boost-ai-skills-in-the-workplace",
-      "published_date": "2026-09-23T09:04:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky says Ukraine is ready for an energy ceasefire with Russia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260922-zelensky-says-ukraine-is-ready-for-an-energy-ceasefire-with-russia",
-      "published_date": "2026-09-22T21:38:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-22T21:36:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Guterres pleads for 'world built on interdependence' in final General Assembly address",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address",
-      "published_date": "2026-09-22T21:02:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US refusing to give Sudan's de facto leader visa for UN",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-refusing-to-give-sudan-s-de-facto-leader-visa-for-un",
-      "published_date": "2026-09-22T20:13:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, AI and the ICC: Trump makes threats, touts policies at UN General Assembly",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
-      "published_date": "2026-09-22T17:09:26+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "UK ‘losing up to £6.5bn a year in EU trade’ without post-Brexit product deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
+      "published_date": "2026-09-24T08:48:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket",
+      "published_date": "2026-09-24T08:34:46+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Trump sparks debate over diesel export ban",
       "source": "France 24",
       "url": "https://www.france24.com/en/trump-sparks-debate-over-diesel-export-ban",
@@ -550,18 +564,123 @@
       "category": "Economy"
     },
     {
-      "title": "France's debt climbs to highest level since 1995",
+      "title": "'Major archaeological breakthrough' could confirm origins of Paris",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260919/frances-debt-climbs-to-highest-since-1995",
-      "published_date": "2026-09-19T12:13:28+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20260924/major-archaeological-breakthrough-could-confirm-origins-of-paris",
+      "published_date": "2026-09-24T14:34:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why Europe has been absent from the great AI safety debate",
+      "title": "Kévi Donat, founder of Le Paris Noir: 'Paris is much more diverse than perhaps people expect'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260924-kevi-donat-founder-of-le-paris-noir-paris-is-much-more-diverse-than-perhaps-people-expect",
+      "published_date": "2026-09-24T13:59:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The French Senate: Old, expensive and out of touch or necessary safeguard to democracy?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/french-connections/20260924-the-french-senate-old-expensive-and-out-of-touch-or-necessary-safeguard-to-democracy",
+      "published_date": "2026-09-24T13:27:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "🔴 CNN, MS NOW, Politico still barred from White House despite court ruling",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260924-us-judge-lifts-trump-s-white-house-ban-on-cnn-ms-now-politico",
+      "published_date": "2026-09-24T13:24:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Permit delays: Paris-area préfecture accused of leaving residents undocumented",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260924/permit-delays-paris-area-prefecture-accused-of-leaving-residents-undocumented",
+      "published_date": "2026-09-24T13:01:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mass shooting at a house party in South Africa kills 11",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260924-mass-shooting-at-a-house-party-in-south-africa-kills-11",
+      "published_date": "2026-09-24T12:55:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Racist abuse of French judo star Teddy Riner investigated after he spoke about rise of far right",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
-      "published_date": "2026-09-18T18:37:36+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/24/racist-abuse-france-teddy-riner-far-right",
+      "published_date": "2026-09-24T12:31:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Huge security operation underway for Pope's visit to France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260924-huge-security-operation-underway-for-pope-s-visit-to-france",
+      "published_date": "2026-09-24T12:09:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metro stations and roads closed: How the pope's visit will disrupt Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260924/metro-stations-and-roads-closed-how-the-popes-visit-will-disrupt-paris",
+      "published_date": "2026-09-24T11:53:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Expression of the Day: Coup monté",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260924/french-expression-of-the-day-coup-monte",
+      "published_date": "2026-09-24T11:36:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'So moving': How French locals and foreigners came together after devastating wildfires",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260924/so-moving-how-french-locals-and-foreigners-came-together-after-devastating-wildfires",
+      "published_date": "2026-09-24T11:17:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clan leader in Paris sentenced to eight years over child pickpocketing gangs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/24/clan-leader-in-paris-sentenced-to-eight-years-for-human-trafficking",
+      "published_date": "2026-09-24T09:00:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PODCAST: French fuel prices risk autumn unrest and the real danger posed by Le Pen",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260924/podcast-french-fuel-prices-risk-autumn-unrest-and-the-real-danger-posed-by-le-pen",
+      "published_date": "2026-09-24T06:54:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "International court convicts CAR rebel commander of crimes against humanity",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260924-icc-convicts-former-car-commander-of-crimes-against-humanity-ahamat-said-abdel-kani-seleka",
+      "published_date": "2026-09-24T06:03:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia slams Kyiv with ballistic missiles as Ukrainians brace for harsh winter",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260924-as-moscow-steps-up-attacks-kyiv-residents-brace-for-harsh-winter",
+      "published_date": "2026-09-24T05:31:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-23T23:58:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-23T21:25:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The global machinery built to carry out Trump’s mass deportation drive",
@@ -582,125 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20260923-breakthrough-archeological-find-could-confirm-paris-origins",
       "published_date": "2026-09-23T18:19:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Backlash against smart glasses grow",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/backlash-against-smart-glasses-grow",
-      "published_date": "2026-09-23T15:30:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-23T12:31:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo XIV visit expected to boost Lourdes economy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/pope-leo-xiv-visit-expected-to-boost-lourdes-economy",
-      "published_date": "2026-09-23T12:31:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ancient wall found beneath Paris could confirm site of first settlement",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/23/ancient-wall-paris-first-settlement-archaeology-roman",
-      "published_date": "2026-09-23T12:06:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police use teargas on protesters as disabled woman, 87, evicted from Madrid home",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/23/madrid-police-teargas-protesters-disabled-woman-evicted",
-      "published_date": "2026-09-23T12:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ally of France's Le Pen insists 'nothing wrong' after using Nazi slogan",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260923/ally-of-frances-le-pen-insists-said-nothing-wrong-after-using-nazi-slogan",
-      "published_date": "2026-09-23T09:45:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: France's six million foreigners have good reason to fear 'President Le Pen'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260923/opinion-frances-six-million-foreigners-have-good-reason-to-fear-le-pen",
-      "published_date": "2026-09-23T07:52:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French prosecutors probe secret filming of women with smart glasses",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260923/french-prosecutors-probe-secret-filming-of-women-with-smart-glasses",
-      "published_date": "2026-09-23T06:50:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russians have a pragmatic approach to politics | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/22/russians-have-a-pragmatic-approach-to-politics",
-      "published_date": "2026-09-22T16:58:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Briton pleads guilty to ‘recklessly’ causing death of his son in Cyprus",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/22/briton-father-cypriot-court-tragic-death-two-year-old-son",
-      "published_date": "2026-09-22T15:34:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amateur archaeologist finds 934 Roman silver denarii in German field",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/22/roman-coins-germany-amateur-archaeologist-silver-denarii",
-      "published_date": "2026-09-22T14:54:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Top US authors to gather in Paris for American literary festival",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260922/top-us-authors-to-gather-in-paris-for-american-literary-festival",
-      "published_date": "2026-09-22T14:22:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'UN unable to bring peace to conflicts: We haven’t seen this level of violence in decades’",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/un-unable-to-bring-peace-to-conflicts-we-haven-t-seen-this-level-of-violence-in-decades",
-      "published_date": "2026-09-22T14:04:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris congress that helped shape pan-African thought marks 70th anniversary",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260922-paris-congress-that-helped-shape-pan-african-thought-marks-70th-anniversary",
-      "published_date": "2026-09-22T13:29:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British man missing after diving into Lake Como to rescue teenager",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-22T11:44:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Climate change, overfishing: Lake Chad sees fish stocks dwindle",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260922-climate-change-overfishing-lake-chad-sees-fish-stocks-dwindle",
-      "published_date": "2026-09-22T11:30:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'A mass for 600,000': What you need to know about Pope Leo's visit to France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260922/a-mass-for-600000-what-you-need-to-know-about-pope-leos-visit-to-france",
-      "published_date": "2026-09-22T11:00:57+00:00",
       "category": "Local Events"
     }
   ]
