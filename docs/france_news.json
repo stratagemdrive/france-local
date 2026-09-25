@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-09-24T15:40:30.563953+00:00",
-  "story_count": 100,
+  "last_updated": "2026-09-25T01:07:05.524263+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Iran sees air, land travel chaos as US sanctions bite",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/iran-sees-air-land-travel-chaos-as-us-sanctions-bite",
+      "published_date": "2026-09-24T20:35:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The future of AI in their hands? Trump-Xi summit dismisses calls for global oversight",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260924-the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-global-oversight",
+      "published_date": "2026-09-24T19:05:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France says EU’s ‘Made in Europe’ law should not include the UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/24/france-says-eus-made-in-europe-law-should-not-include-the-uk",
+      "published_date": "2026-09-24T17:42:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU says Trump plan to ban US diesel exports would ‘negatively impact both sides’",
       "source": "The Guardian",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Could you qualify for France's fuel aid grants for motorists?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260923/could-you-qualify-for-frances-fuel-aid-grants-for-motorists",
-      "published_date": "2026-09-23T13:34:23+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Finland urges Elon Musk to expand Kyiv’s Starlink coverage over Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/25/ukraine-war-briefing-finland-elon-musk-starlink-coverage-russia",
+      "published_date": "2026-09-25T00:20:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "How US players are reshaping France and the continent",
+      "title": "Live:  Iran's President says US ‘must choose’ whether to end war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260923-how-us-players-are-reshaping-france-and-the-continent",
-      "published_date": "2026-09-23T13:33:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20260924-live-iran-pezeshkian-us-war-yemen",
+      "published_date": "2026-09-24T23:52:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN General Assembly to discuss war, climate and AI",
+      "title": "Saudi reports fresh Houthi attacks as France pledges to defend key oil port",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260923-un-general-assembly-to-discuss-war-climate-and-ai",
-      "published_date": "2026-09-23T13:20:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20260924-saudi-houthi-attacks-france-oil-port",
+      "published_date": "2026-09-24T23:34:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Macron says 'CIA did not ​inform French services' of possible Russian drone attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260924-macron-says-cia-did-not-inform-french-services-of-possible-russian-drone-attacks",
+      "published_date": "2026-09-24T20:38:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tigray rebels in 'full-blown' war with government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tigray-rebels-in-full-blown-war-with-government",
+      "published_date": "2026-09-24T20:23:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "REPLAY:  Israeli Prime Minister Benjamin Netanyahu speaks at the UNGA",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260924-replay-israeli-prime-minister-benjamin-netanyahu-speaks-at-the-unga",
+      "published_date": "2026-09-24T19:28:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Residents in West Bank's Masafer Yatta face Israeli demolitions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20260924-residents-west-bank-masafer-yatta-israeli-demolitions",
+      "published_date": "2026-09-24T18:47:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainians in UK fear homelessness over host scheme funding cuts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless",
+      "published_date": "2026-09-24T17:45:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia could attack a Nato country within months, Danish intelligence says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says",
+      "published_date": "2026-09-24T16:05:44+00:00",
+      "category": "Military"
     },
     {
       "title": "French-language author Orélien denies using AI to write award-winning book",
@@ -218,69 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-24T11:59:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The west is in freefall – and the worst part is that we were warned, but chose not to listen | Owen Jones",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
-      "published_date": "2026-09-24T07:00:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey to hand over military base in northern Iraq to Baghdad",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260924-turkey-to-hand-over-military-base-in-northern-iraq-to-baghdad",
-      "published_date": "2026-09-24T00:02:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tigray rebels seize airports",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tigray-rebels-seize-airports",
-      "published_date": "2026-09-23T20:27:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "REPLAY: Ukrainian President Zelensky addresses the UN General Assembly",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260923-replay-ukrainian-president-zelensky-addresses-the-un-general-assembly",
-      "published_date": "2026-09-23T19:44:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the ‘poisonous tide’ of disinformation spreads division and despair",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair",
-      "published_date": "2026-09-23T19:24:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky accuses Putin of using nationals of 47 countries to fight Ukraine war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260923-putin-using-citizens-from-47-countries-to-fight-ukraine-zelensky-tells-un",
-      "published_date": "2026-09-23T18:53:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eriksen leaves Wolfsburg by mutual consent",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm5yezn8w4xdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-23T16:47:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is Burnham right to blame Russia for spreading online disinformation?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckd79wldjzl4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-23T16:35:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US says wants Ukraine, Russia to end strikes on energy sites",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260923-us-says-wants-ukraine-russia-to-end-strikes-on-energy-sites-1",
-      "published_date": "2026-09-23T15:25:52+00:00",
       "category": "Military"
     },
     {
@@ -417,11 +417,18 @@
       "category": "Energy"
     },
     {
-      "title": "India vows to protect energy security after new US tariffs over Russian oil",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/india-vows-to-protect-energy-security-after-new-us-tariffs-over-russian-oil",
-      "published_date": "2026-09-17T18:50:04+00:00",
-      "category": "Energy"
+      "title": "UK food and drink trade deficit largest since 2000 at £21bn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/25/uk-food-drink-trade-deficit-homegrown-produce-national-security",
+      "published_date": "2026-09-24T23:01:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Spain's housing crisis in focus after eviction of 87-year-old woman",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm4gjvz734w3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-24T16:45:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK ‘losing up to £6.5bn a year in EU trade’ without post-Brexit product deal",
@@ -550,18 +557,32 @@
       "category": "Economy"
     },
     {
-      "title": "China is now Rwanda’s biggest export market – now comes the hard part",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260919-china-is-now-rwanda-s-biggest-export-market-%E2%80%93-now-comes-the-hard-part",
-      "published_date": "2026-09-19T13:30:55+00:00",
-      "category": "Economy"
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-24T19:32:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tunisia’s booming boat industry: From pleasure craft to luxury yachts",
+      "title": "Israeli PM Netanyahu calls Gaza genocide allegations ‘biggest lie of the century’",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tunisia-s-booming-boat-industry-from-pleasure-craft-to-luxury-yachts",
-      "published_date": "2026-09-19T12:40:40+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/middle-east/20260924-israel-must-win-because-we-ve-got-no-other-choice-pm-netanyahu-tells-un",
+      "published_date": "2026-09-24T19:31:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-24T19:18:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Londoners get £3bn a year subsidy because structure of council tax biased against north, says thinktank – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/24/labour-reform-conservatives-yougov-mrp-poll-burnham-badenoch-farage-blair-brexit-latest-news-updates",
+      "published_date": "2026-09-24T16:31:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'Major archaeological breakthrough' could confirm origins of Paris",
@@ -673,34 +694,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-23T23:58:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-23T21:25:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The global machinery built to carry out Trump’s mass deportation drive",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260923-the-global-machinery-built-to-carry-out-trump-s-mass-deportation-drive-forbidden-stories-deportation-project",
-      "published_date": "2026-09-23T19:01:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holy regulation? Pope in Paris to press case for 'disarming' AI",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260923-holy-regulation-pope-in-paris-to-press-case-for-disarming-ai",
-      "published_date": "2026-09-23T18:44:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Breakthrough' archeological find could confirm location of Paris's original settlement",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260923-breakthrough-archeological-find-could-confirm-paris-origins",
-      "published_date": "2026-09-23T18:19:47+00:00",
       "category": "Local Events"
     }
   ]
