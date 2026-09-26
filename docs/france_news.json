@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-09-25T15:42:25.553673+00:00",
+  "last_updated": "2026-09-26T01:09:18.665031+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Pope in Paris, Xi in DC, AI at a Crossroads",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads",
+      "published_date": "2026-09-25T18:52:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU releases €6.6 billion for members arming Ukraine as seven killed in Kyiv",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260925-eu-releases-%E2%82%AC6-6-billion-for-members-arming-ukraine-as-five-killed-in-kyiv",
+      "published_date": "2026-09-25T17:09:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pope Leo warns against AI and says technology ‘must remain at service of humans’ during first visit to France – Europe live",
       "source": "The Guardian",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Fact-checking Trump’s speech at the United Nations General Assembly",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/fact-checking-trump-s-speech-at-the-united-nations-general-assembly-1",
-      "published_date": "2026-09-23T20:54:26+00:00",
-      "category": "Diplomacy"
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T20:47:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Belgium and Rwanda restore diplomatic ties after 18-month rupture",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260923-belgium-and-rwanda-restore-diplomatic-ties-after-18-month-rupture",
-      "published_date": "2026-09-23T17:37:05+00:00",
-      "category": "Diplomacy"
+      "title": "Lots of pomp but little progress as Trump and Xi end state visit to DC",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260925-lots-of-pomp-but-no-progress-as-trump-and-xi-end-state-visit",
+      "published_date": "2026-09-25T16:58:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+      "published_date": "2026-09-25T16:01:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Pope Leo XIV rides through Paris in the popemobile to Notre-Dame",
@@ -207,6 +228,13 @@
       "category": "Military"
     },
     {
+      "title": "Live: 80,000 young faithful greet Pope at Stade de France",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260925-live-pope-leo-xiv-arrives-in-france-for-first-papal-state-visit-in-18-years",
+      "published_date": "2026-09-25T08:07:41+00:00",
+      "category": "Military"
+    },
+    {
       "title": "'Most powerful force is human potential': Ukraine's military prioritises new tactics, technologies",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260925-our-most-powerful-force-is-human-potential-ukraine-military-prioritises-new-tactics-technologies",
@@ -253,34 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20260924-macron-says-cia-did-not-inform-french-services-of-possible-russian-drone-attacks",
       "published_date": "2026-09-24T20:38:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tigray rebels in 'full-blown' war with government",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tigray-rebels-in-full-blown-war-with-government",
-      "published_date": "2026-09-24T20:23:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "REPLAY:  Israeli Prime Minister Benjamin Netanyahu speaks at the UNGA",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260924-replay-israeli-prime-minister-benjamin-netanyahu-speaks-at-the-unga",
-      "published_date": "2026-09-24T19:28:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Residents in West Bank's Masafer Yatta face Israeli demolitions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260924-residents-west-bank-masafer-yatta-israeli-demolitions",
-      "published_date": "2026-09-24T18:47:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainians in UK fear homelessness over host scheme funding cuts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless",
-      "published_date": "2026-09-24T17:45:12+00:00",
       "category": "Military"
     },
     {
@@ -396,11 +396,18 @@
       "category": "Energy"
     },
     {
-      "title": "AI: Silicon Species or Trojan Horse? Riyadh Calling, Russia Votes & the Ed Sheeran debate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260918-time-to-stop-suggesting-ai-is-conscious-riyadh-calling-saudi-s-hour-of-news-russian-elections",
-      "published_date": "2026-09-18T19:20:00+00:00",
+      "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
+      "published_date": "2026-09-19T06:46:18+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "EasyJet France pilots call off strike threat",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260925/easyjet-france-pilots-call-off-strike-threat",
+      "published_date": "2026-09-25T20:41:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "Canada seeks new role in global economy",
@@ -536,11 +543,74 @@
       "category": "Economy"
     },
     {
-      "title": "Argentines protest Milei's austerity, demanding higher wages and public spending",
+      "title": "Pope Leo XIV welcomed like a rock star at Stade de France near Paris",
       "source": "France 24",
-      "url": "https://www.france24.com/en/argentines-protest-milei-s-austerity-demanding-higher-wages-and-public-spending",
-      "published_date": "2026-09-20T09:38:27+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20260925-pope-leo-xiv-welcomed-like-a-rock-star-at-stade-de-france-near-paris",
+      "published_date": "2026-09-25T21:06:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Local is looking for a part-time social media engagement coordinator",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260925/the-local-is-looking-for-a-part-time-social-media-engagement-coordinator",
+      "published_date": "2026-09-25T20:46:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Telecoms disruption raises fears as heavy fighting strikes Ethiopia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260925-telecoms-disruption-raises-fears-as-heavy-fighting-strikes-ethiopia",
+      "published_date": "2026-09-25T20:32:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
+      "published_date": "2026-09-25T19:57:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leo XIV in Paris: A look at the vespers evening prayer at Notre-Dame",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260925-leo-xiv-in-paris-a-look-at-the-vespers-evening-prayer-at-notre-dame",
+      "published_date": "2026-09-25T19:46:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court allows Trump to use controversial voter 'verification' system",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry",
+      "published_date": "2026-09-25T16:52:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo warns AI could lead to losing 'humanity amid a paradise of machines' in Paris – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
+      "published_date": "2026-09-25T16:49:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leon XIV greets crowds on 'popemobile' ride through Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260925-pope-leon-xiv-greets-crowds-on-popemobile-ride-through-paris",
+      "published_date": "2026-09-25T16:23:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Novelist accused of using AI to write book removed from French prize list",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
+      "published_date": "2026-09-25T16:14:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Students strike across Germany in protest against military service",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T15:36:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pope Leo XIV leads Vespers at Notre-Dame Cathedral in Paris",
@@ -610,76 +680,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20260925-pope-leo-visit-to-paris-migrant-centre-sends-message-ahead-of-french-election-maison-bakhita",
       "published_date": "2026-09-25T12:43:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "REVEALED: How Americans spend their money differently to Europeans",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260925/revealed-how-americans-spend-their-income-differently-to-europeans",
-      "published_date": "2026-09-25T11:50:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fatalities on Indian roads: One death reported every three minutes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260925-fatalities-on-indian-roads-one-death-reported-every-three-minutes",
-      "published_date": "2026-09-25T11:33:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French authorities investigate racist abuse of judo star Teddy Riner",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260925-french-authorities-probe-online-racial-abuse-aimed-at-french-judo-star-teddy-riner-far-right",
-      "published_date": "2026-09-25T11:33:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni accused of ‘running scared’ with cap on foreign children in classrooms",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/25/giorgia-meloni-italy-foreign-children-schools",
-      "published_date": "2026-09-25T11:31:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From 'Jungle' to jungles, migrants in Calais continue to dream of UK",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/revisited/20260925-from-jungle-to-jungles-migrants-in-calais-continue-to-dream-of-uk",
-      "published_date": "2026-09-25T11:30:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tall, dark and hated: plan to renovate ‘Paris’s ugliest building’ put on hold",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris",
-      "published_date": "2026-09-25T11:25:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine: Deadly Russian drone strike hits central Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260925-ukraine-deadly-russian-drone-strike-hits-central-kyiv",
-      "published_date": "2026-09-25T11:24:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We don’t have time for more promises’: the Croatian town that took on an illegal waste dump",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/25/toxic-waste-dumped-croatian-town-gospic",
-      "published_date": "2026-09-25T11:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
-      "published_date": "2026-09-25T10:28:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘She never accepted no’: Liam Neeson on dogged heroine behind Tuam mass baby grave film",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/25/liam-neeson-tuam-babies-film-ireland-catherine-corless-dogged-heroine-monica-dolan",
-      "published_date": "2026-09-25T09:53:48+00:00",
       "category": "Local Events"
     }
   ]
