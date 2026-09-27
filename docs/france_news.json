@@ -1,7 +1,7 @@
 {
   "country": "France",
-  "last_updated": "2026-09-26T14:50:40.165296+00:00",
-  "story_count": 95,
+  "last_updated": "2026-09-27T01:03:58.563913+00:00",
+  "story_count": 94,
   "stories": [
     {
       "title": "Homes for Europe: can the EU’s Affordable Housing Act deliver?",
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "At least 16 people killed as Russia and Ukraine trade deadly air strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260926-at-least-16-people-killed-as-russia-and-ukraine-trade-deadly-air-strikes",
+      "published_date": "2026-09-26T15:40:10+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Middle East: An art centre for children in occupied West Bank",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east-an-art-centre-for-children-in-occupied-west-bank",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "'Most powerful force is human potential': Ukraine's military prioritises new tactics, technologies",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260925-our-most-powerful-force-is-human-potential-ukraine-military-prioritises-new-tactics-technologies",
-      "published_date": "2026-09-25T07:11:58+00:00",
-      "category": "Military"
-    },
-    {
       "title": "British national among six dead in building explosion close to Acropolis in Athens",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
@@ -379,13 +379,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/21/babies-extreme-fire-weather-europe-great-grandparents",
       "published_date": "2026-09-21T09:00:19+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "'My home wasn't safe anymore': lessons from France's hottest summer yet",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260919-my-home-wasn-t-safe-anymore-climate-expert-remembers-france-hottest-summer",
-      "published_date": "2026-09-19T16:26:35+00:00",
       "category": "Energy"
     },
     {
@@ -529,6 +522,83 @@
       "category": "Economy"
     },
     {
+      "title": "Pope Leo XIV celebrates open-air Mass in front of 800,000 people in central Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260926-pope-leo-xiv-celebrates-open-air-mass-in-front-of-800-000-people-in-central-paris",
+      "published_date": "2026-09-26T20:28:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo XIV addresses youth at giant Paris Mass",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260926-pope-leo-xiv-addresses-youth-at-giant-paris-mass",
+      "published_date": "2026-09-26T17:04:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands march in Madrid to protest eviction of 87-year-old woman",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260926-thousands-march-in-madrid-to-protest-eviction-of-87-year-old-woman",
+      "published_date": "2026-09-26T17:04:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo XIV 600,000 people gather for Mass on the Champs-Élysées",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260926-pope-leo-xiv-600-000-people-gather-for-mass-on-the-champs-%C3%A9lys%C3%A9es",
+      "published_date": "2026-09-26T16:46:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'A once-in-a-lifetime event': Faithful and curious flock to Pope Leo XIV's Mass in Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
+      "published_date": "2026-09-26T16:24:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+      "published_date": "2026-09-26T15:50:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's baptism boom as more young people seek catholic community",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-s-baptism-boom-as-more-young-people-seek-catholic-community",
+      "published_date": "2026-09-26T15:31:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leo XIV in France: 700,000 crowd attend Pope mass in central Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris",
+      "published_date": "2026-09-26T15:19:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Volunteers step up to help Paris stamp out its cigarette butt problem",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260926-paris-struggles-to-stamp-out-its-cigarette-butt-pollution-problem",
+      "published_date": "2026-09-26T15:17:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leo XIV fills central Paris with around 600,000 people at giant outdoor Mass",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/leo-xiv-fills-central-paris-with-around-600-000-people-at-giant-outdoor-mass",
+      "published_date": "2026-09-26T15:09:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leo XIV visits France: Pope blesses babies on way to giant Paris Mass",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/leo-xiv-visits-france-pope-blesses-babies-on-way-to-giant-paris-mass",
+      "published_date": "2026-09-26T15:03:34+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "🔴 Live: Pope Leo celebrates Mass before hundreds of thousands at Concord in central Paris",
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260926-live-more-than-half-a-million-expected-at-pope-s-open-air-mass-in-paris",
@@ -589,83 +659,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/leo-xiv-in-paris-pope-arrives-in-france-on-first-state-visit-in-18-years",
       "published_date": "2026-09-26T09:22:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
-      "published_date": "2026-09-26T05:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British climber, 28, dies in fall in northern Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/26/british-climber-28-dies-fall-spain-torrecerredo-mountain",
-      "published_date": "2026-09-26T02:02:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo XIV welcomed like a rock star at Stade de France near Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260925-pope-leo-xiv-welcomed-like-a-rock-star-at-stade-de-france-near-paris",
-      "published_date": "2026-09-25T21:06:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Local is looking for a part-time social media engagement coordinator",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260925/the-local-is-looking-for-a-part-time-social-media-engagement-coordinator",
-      "published_date": "2026-09-25T20:46:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Telecoms disruption raises fears as heavy fighting strikes Ethiopia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260925-telecoms-disruption-raises-fears-as-heavy-fighting-strikes-ethiopia",
-      "published_date": "2026-09-25T20:32:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
-      "published_date": "2026-09-25T19:57:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leo XIV in Paris: A look at the vespers evening prayer at Notre-Dame",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260925-leo-xiv-in-paris-a-look-at-the-vespers-evening-prayer-at-notre-dame",
-      "published_date": "2026-09-25T19:46:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court allows Trump to use controversial voter 'verification' system",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry",
-      "published_date": "2026-09-25T16:52:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo warns AI could lead to losing 'humanity amid a paradise of machines' in Paris – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
-      "published_date": "2026-09-25T16:49:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leon XIV greets crowds on 'popemobile' ride through Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260925-pope-leon-xiv-greets-crowds-on-popemobile-ride-through-paris",
-      "published_date": "2026-09-25T16:23:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Novelist accused of using AI to write book removed from French prize list",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
-      "published_date": "2026-09-25T16:14:32+00:00",
       "category": "Local Events"
     }
   ]
