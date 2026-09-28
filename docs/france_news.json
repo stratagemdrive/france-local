@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-09-27T15:29:54.121010+00:00",
-  "story_count": 94,
+  "last_updated": "2026-09-28T01:22:08.790139+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Israel revokes credentials of Dutch diplomats in West Bank over settlement goods ban",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions",
+      "published_date": "2026-09-27T21:47:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Switzerland rejects stricter interpretation of its neutrality",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-27T16:02:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Swiss voters reject stricter neutrality rules that would curb Nato cooperation",
       "source": "The Guardian",
@@ -22,6 +36,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20260927-the-week-in-pictures-trump-hosts-xi-the-pope-visits-france-and-floods-ravage-thailand",
       "published_date": "2026-09-27T10:05:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Swiss reject plan to adopt stricter form of neutrality that would rule out NATO cooperation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260927-swiss-reject-plan-to-adopt-stricter-form-of-neutrality-that-would-rule-out-nato-cooperation",
+      "published_date": "2026-09-27T05:52:08+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron says ‘military resources’ to be sent to Saudi Arabia",
+      "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/macron-says-military-resources-to-be-sent-to-saudi-arabia",
-      "published_date": "2026-09-25T14:04:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
+      "published_date": "2026-09-27T23:27:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Senegal's President Faye: Macky Sall best candidate 'to fight for Africa' at UN",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260925-senegal-president-bassirou-diomaye-faye-macky-sall-best-candidate-to-fight-for-africa-at-un",
-      "published_date": "2026-09-25T13:41:52+00:00",
-      "category": "Diplomacy"
+      "title": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
+      "published_date": "2026-09-27T21:55:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "Each side feels it 'could get a decisive military victory' in Sudan, Trump's Africa envoy says",
+      "title": "UK: Police arrest 5 on suspicion of preparing a terrorist act",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260925-each-side-feels-it-could-get-a-decisive-military-victory-in-sudan-trump-s-africa-envoy-says",
-      "published_date": "2026-09-25T12:54:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/uk-police-arrest-5-on-suspicion-of-preparing-a-terrorist-act",
+      "published_date": "2026-09-27T14:55:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Major incident at UK airbase used by US",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-25T20:47:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lots of pomp but little progress as Trump and Xi end state visit to DC",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260925-lots-of-pomp-but-no-progress-as-trump-and-xi-end-state-visit",
-      "published_date": "2026-09-25T16:58:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
-      "published_date": "2026-09-25T16:01:10+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-26T19:48:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "British national among six dead in building explosion close to Acropolis in Athens",
@@ -382,6 +389,13 @@
       "category": "Energy"
     },
     {
+      "title": "Inside the business of gony bags, Madagascar's ubiquitous plastic sacks",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260927-inside-the-business-of-gony-bags-madagascar-s-ubiquitous-plastic-sacks",
+      "published_date": "2026-09-27T15:29:28+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "October changes, tax bill help, and fuel aid: 6 essential articles for life in France",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20260927/october-changes-tax-bill-help-and-fuel-aid-6-essential-articles-for-life-in-france",
@@ -407,6 +421,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/brazil-s-president-lula-bans-online-betting-ahead-of-presidential-election",
       "published_date": "2026-09-26T12:36:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T23:08:02+00:00",
       "category": "Economy"
     },
     {
@@ -508,18 +529,25 @@
       "category": "Economy"
     },
     {
-      "title": "Paramount settles with US states, clearing path for Warner Bros. merger",
+      "title": "France's far right gains ground in indirect Senate elections",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260921-paramount-settles-with-us-states-clearing-path-for-warner-bros-merger",
-      "published_date": "2026-09-21T22:48:23+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20260927-france-s-far-right-gains-ground-in-indirect-senate-elections",
+      "published_date": "2026-09-27T19:34:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Germany’s Merz ‘grateful’ centre-left SPD wants to stay in coalition after CDU’s heavy losses – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news",
-      "published_date": "2026-09-21T15:02:44+00:00",
-      "category": "Economy"
+      "title": "Far right gains ground in French Senate",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260927-far-right-gains-ground-in-french-senate",
+      "published_date": "2026-09-27T19:22:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Church confronts shock of abuse crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/church-confronts-shock-of-abuse-crisis",
+      "published_date": "2026-09-27T15:01:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "South Africa shootings leave 27 killed",
@@ -638,27 +666,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20260926-pope-leo-xiv-celebrates-open-air-mass-in-front-of-800-000-people-in-central-paris",
       "published_date": "2026-09-26T20:28:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo XIV addresses youth at giant Paris Mass",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260926-pope-leo-xiv-addresses-youth-at-giant-paris-mass",
-      "published_date": "2026-09-26T17:04:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands march in Madrid to protest eviction of 87-year-old woman",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260926-thousands-march-in-madrid-to-protest-eviction-of-87-year-old-woman",
-      "published_date": "2026-09-26T17:04:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo XIV 600,000 people gather for Mass on the Champs-Élysées",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260926-pope-leo-xiv-600-000-people-gather-for-mass-on-the-champs-%C3%A9lys%C3%A9es",
-      "published_date": "2026-09-26T16:46:30+00:00",
       "category": "Local Events"
     }
   ]
