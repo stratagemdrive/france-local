@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-09-29T02:27:52.776199+00:00",
-  "story_count": 95,
+  "last_updated": "2026-09-29T16:44:15.850965+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
+      "published_date": "2026-09-29T14:20:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Le Pen defiant after top ally hit by antisemitism claims",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260929-france-s-le-pen-defiant-after-top-ally-hit-by-antisemitism-claims",
+      "published_date": "2026-09-29T14:10:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spanish royals welcome French President Macron in official ceremony",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260929-spanish-royals-welcome-french-president-macron-in-official-ceremony",
+      "published_date": "2026-09-29T14:08:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can Parisians really teach us to be happier?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260929-can-parisians-really-teach-us-to-be-happier",
+      "published_date": "2026-09-29T13:22:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Saudis 'furious': Trump ‘flips & flops’ between deal with Iran and ‘attacks in devastating fashion’",
       "source": "France 24",
@@ -116,32 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Heavy fighting on multiple fronts between Ethiopian forces and rebel groups",
+      "title": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/29/jordan-bardella-national-rally-antisemitism-claims-france",
+      "published_date": "2026-09-29T15:16:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates",
+      "published_date": "2026-09-29T15:03:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Over 100 settlers attack Occupied West Bank village, clash with Israeli forces",
       "source": "France 24",
-      "url": "https://www.france24.com/en/heavy-fighting-on-multiple-fronts-between-ethiopian-forces-and-rebel-groups",
-      "published_date": "2026-09-26T09:26:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260929-over-100-settlers-attack-occupied-west-bank-village-clash-with-israeli-forces",
+      "published_date": "2026-09-29T14:38:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "France gave the Statue of Liberty. China sends pandas. What do diplomatic gifts mean – and how do you choose one?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/26/france-statue-of-liberty-china-pandas-what-do-diplomatic-gifts-mean-and-how-do-you-choose-one",
-      "published_date": "2026-09-26T09:00:31+00:00",
-      "category": "Diplomacy"
+      "title": "OpenAI cancels release of newest model due to safety concerns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260929-openai-cancels-release-of-newest-model-due-to-safety-concerns",
+      "published_date": "2026-09-29T14:07:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "In his final UN speech, Macron may have given other leaders a valuable parting gift: the guts to stand up to Trump | Steve Bloomfield",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/26/un-speech-macron-parting-gift-stand-up-to-trump",
-      "published_date": "2026-09-26T06:00:29+00:00",
-      "category": "Diplomacy"
+      "title": "Le Pen ally Bardella sues over antisemitism claims, alleges 'total war'",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260929-french-far-right-stands-behind-politician-bardella-over-antisemitism-claimsa",
+      "published_date": "2026-09-29T13:32:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Look again – there’s more to Germany’s election trends than far-right success | Cas Mudde",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/26/europe-election-trends-far-right-success-defeatist-narratives-germany",
-      "published_date": "2026-09-26T04:00:25+00:00",
-      "category": "Diplomacy"
+      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-29T13:15:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Putin's goal is to prolong his power in Russia': Journalist Roman Badanin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260929-putin-s-goal-is-to-prolong-his-power-in-russia-journalist-roman-badanin",
+      "published_date": "2026-09-29T12:46:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burkina Faso, Mali and Niger launch Tafouk TV channel to push their own narrative",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260929-tafouk-tv-the-russia-backed-channel-at-the-heart-of-sahel-juntas-media-push",
+      "published_date": "2026-09-29T12:41:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-29T12:20:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mystery over UK airbase scare after reports no explosives found",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260929-mystery-over-uk-airbase-scare-after-reports-no-explosives-found",
+      "published_date": "2026-09-29T11:36:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopian army clashes with rebel alliance across multiple fronts",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260929-ethiopian-army-clashes-with-rebel-alliance-across-multiple-fronts",
+      "published_date": "2026-09-29T11:30:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia strikes two Kyiv data centres, cargo vessels in the Black Sea",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260929-russia-strikes-two-kyiv-data-centres-cargo-vessels-in-the-black-sea",
+      "published_date": "2026-09-29T10:35:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump 'surprised' UK granted bail to suspects in alleged airbase terror plot",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260929-trump-surprised-uk-granted-bail-to-suspects-alleged-airbase-terror-plot",
+      "published_date": "2026-09-29T09:12:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Argentina’s Milei threatens to sue UK over Falkland Islands oil project",
@@ -193,95 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Tigray TV station hit by drone as rebels advance in north Ethiopia",
+      "title": "OpenAI scraps release of its latest AI model over safety concerns",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260928-tigray-tv-station-hit-by-drone-as-rebels-advance-in-north-ethiopia",
-      "published_date": "2026-09-28T16:51:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As midterms approach, does GOP have a Trump problem?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260928-as-midterms-approach-does-gop-have-a-trump-problem",
-      "published_date": "2026-09-28T16:50:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five suspects arrested in explosives case near UK airbase were British nationals",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260928-five-suspects-arrested-in-explosives-case-near-uk-airbase-were-british-nationals",
-      "published_date": "2026-09-28T16:47:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo wraps up France visit, urging Europe to help combat 'lies and deceit'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260928-pope-leo-wraps-up-france-visit-urging-europe-to-help-combat-lies-and-deceit",
-      "published_date": "2026-09-28T16:00:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland scrambles military aircraft in response to Russian strikes on western Ukraine – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/28/europe-ukraine-defence-ministers-pope-leo-france-visit-latest-news-updates",
-      "published_date": "2026-09-28T15:56:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US has 'alienated' Sudan's army in 'complex war' analyst tells RFI",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260928-us-has-alienated-sudan-s-army-in-complex-war-analyst-tells-rfi-burhan-rsf-darfur",
-      "published_date": "2026-09-28T15:26:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "🔴 Five men arrested over suspected bomb plot at UK air base to be released on bail",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260928-five-men-arrested-suspected-bomb-plot-uk-air-base-to-be-released-on-bail-fairford",
-      "published_date": "2026-09-28T15:05:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-28T14:57:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi attacks put Turkey’s new Saudi defence pact to the test",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20260928-houthi-attacks-put-turkey-s-new-saudi-defence-pact-to-the-test",
-      "published_date": "2026-09-28T14:20:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia accuses Sudan, Eritrea of backing Tigray forces as fighting escalates",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260928-ethiopia-accuses-sudan-eritrea-of-backing-tigray-forces-as-fighting-escalates",
-      "published_date": "2026-09-28T12:48:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope urges Europe to help combat 'deceit and lies' in international ties",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260928/pope-heads-to-french-city-of-metz-to-speak-on-united-europe",
-      "published_date": "2026-09-28T08:40:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
-      "published_date": "2026-09-27T23:27:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
-      "published_date": "2026-09-27T21:55:28+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/business/20260929-openai-scraps-release-of-its-latest-ai-model-over-safety-concerns",
+      "published_date": "2026-09-29T09:03:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "A Green pope? Vatican describes environmental destruction as an 'ecological sin'",
@@ -368,25 +375,25 @@
       "category": "Energy"
     },
     {
-      "title": "UN climate change body accused of conflict of interest, Saudi influence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260922-un-climate-change-body-accused-of-conflict-of-interest-saudi-influence",
-      "published_date": "2026-09-22T14:38:51+00:00",
-      "category": "Energy"
+      "title": "Cutting immigration to the UK means billions less for the Treasury. Can the country really afford that? | Zoe Williams",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/cutting-uk-immigration-means-billions-less-for-the-treasury",
+      "published_date": "2026-09-29T10:00:48+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Greenland agreement 'doesn't really give the US many more rights', expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260922-greenland-agreement-doesn-t-really-give-the-us-many-more-rights-expert-says",
-      "published_date": "2026-09-22T11:07:30+00:00",
-      "category": "Energy"
+      "title": "French public sector workers strike over pay freeze ahead of 2027 budget",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260929-french-public-sector-workers-strike-over-pay-freeze-ahead-of-2027-budget",
+      "published_date": "2026-09-29T06:08:14+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Spain battles climate change on several fronts",
+      "title": "Czech Republic ready for Wembley 30 years after Euro '96",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-22T09:11:48+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yeqj0g4ygo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-29T05:10:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Pussy Riot activist turned Kremlin informer – podcast",
@@ -508,164 +515,143 @@
       "category": "Economy"
     },
     {
-      "title": "No, this video doesn't disprove the 9/11 attack on the south tower of the World Trade Center",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260923-video-no-proof-plane-hit-twin-tower-9-11",
-      "published_date": "2026-09-23T19:01:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Chinese beauty products prove resilient amid US-China trade war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/chinese-beauty-products-prove-resilient-amid-us-china-trade-war",
-      "published_date": "2026-09-23T12:29:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies",
+      "title": "Burnham says he would put PR in Labour manifesto and scrap triple lock to fund social care – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war",
-      "published_date": "2026-09-23T09:27:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US prosecutors reopen Cornell university gang rape investigation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260929-us-prosecutors-cornell-university-gang-rape-investigation",
-      "published_date": "2026-09-29T00:04:48+00:00",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates",
+      "published_date": "2026-09-29T16:21:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "French student protests fuel political clash ahead of 2027 Presidential vote",
+      "title": "🔴 Marrakesh mayor Fatima Ezzahra El Mansouri becomes first woman prime minister of Morocco",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260928-french-student-protests-political-clash-presidential-vote",
-      "published_date": "2026-09-28T23:54:27+00:00",
+      "url": "https://www.france24.com/en/africa/20260929-morocco-king-appoints-first-woman-prime-minister-el-mansouri-after-parliamentary-vote",
+      "published_date": "2026-09-29T16:09:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Evicted 87-year-old Spanish pensioner to return home after deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260928-evicted-spanish-pensioner-to-return-home-after-housing-protest-deal-spain-madrid",
-      "published_date": "2026-09-28T22:34:14+00:00",
+      "title": "French students and police clash as school blockades turn violent",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent",
+      "published_date": "2026-09-29T15:19:30+00:00",
       "category": "Local Events"
     },
     {
-      "title": "French PM warns against escalation of school protests after 164 arrested",
+      "title": "Legion of Honour: Police investigate corruption claims for France’s top award",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260929-legion-of-honour-police-investigate-corruption-claims-for-france-s-top-award",
+      "published_date": "2026-09-29T14:43:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A view from Brazil: The fight for the favela vote",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260929-a-view-from-brazil-the-fight-for-the-favela-vote",
+      "published_date": "2026-09-29T14:41:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French civil servants strike, demand additional budgetary resources",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260929-french-civil-servants-strike-demand-additional-budgetary-resources",
+      "published_date": "2026-09-29T14:40:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain announces plan to ease housing crisis amid outcry over eviction of 87-year-old",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/29/spanish-government-approves-measures-ease-housing-crisis-outcry-eviction",
+      "published_date": "2026-09-29T14:27:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eiffel Tower chief to step down over removal of women staff during Hindu group's visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260929-eiffel-tower-chief-to-step-down-over-removal-of-women-staff-during-hindu-group-visit-baps",
+      "published_date": "2026-09-29T14:22:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris Eiffel Tower says chief to step down after uproar over removing women staff",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260929/paris-eiffel-tower-says-chief-to-step-down-after-uproar-over-removing-women-staff",
+      "published_date": "2026-09-29T13:57:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JMW Turner’s ‘great love letter’ to Rome makes brief return to city before UK auction",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/29/jmw-turner-love-letter-rome-from-mount-aventine-auction",
+      "published_date": "2026-09-29T13:49:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's Le Pen vows to 'counterattack' after top ally Bardella hit by anti-Semitism claims",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260929-france-s-le-pen-vows-to-counterattack-after-top-ally-bardella-hit-by-anti-semitism-claims",
+      "published_date": "2026-09-29T12:33:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far-right leader Bardella says filed lawsuit over anti-Semitic remarks claim",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260929-french-far-right-leader-bardella-says-filed-lawsuit-over-anti-semitic-remarks-claim",
+      "published_date": "2026-09-29T11:37:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far-right says anti-Semitism claims part of 'total war' to derail presidency bid",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260929-french-far-right-says-anti-semitism-claims-part-of-total-war-to-derail-presidency-bid",
+      "published_date": "2026-09-29T11:35:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil's countdown to election day: Crime and security high on voters' agenda",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260929-brazil-s-countdown-to-election-day-crime-and-security-high-on-voters-agenda",
+      "published_date": "2026-09-29T11:33:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French public service strike day puts pressure on govt ahead of budget vote",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260929-french-public-service-strike-day-puts-pressure-on-govt-ahead-of-budget-vote",
+      "published_date": "2026-09-29T11:28:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Celine Dion kicks off Paris Fashion Week with surprise performance",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-28T21:46:53+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cj207qk472zpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-29T10:20:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Air passengers in France face flight delays and cancellations due to strike",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260928/air-passengers-in-france-face-flight-delays-and-cancellations-due-to-strike",
-      "published_date": "2026-09-28T21:03:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'I can't risk travelling': Carte de séjour delays continue to impact foreigners in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260928/i-cant-risk-travelling-carte-de-sejour-delays-continue-to-impact-foreign-residents",
-      "published_date": "2026-09-28T20:47:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France braces for a day of strikes and protests over civil servants' pay",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20260928-france-braces-for-a-day-of-strikes-and-protests-over-civil-servants-pay",
-      "published_date": "2026-09-28T20:42:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopian forces claim Tigray town",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ethiopian-forces-claim-tigray-town",
-      "published_date": "2026-09-28T20:32:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right's Bardella denies alleged 2013 antisemitic comments as Le Pen sees boost in polls",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-far-right-s-bardella-denies-alleged-2013-antisemitic-comments-as-le-pen-sees-boost-in-polls",
-      "published_date": "2026-09-28T19:56:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leo the moderate? Pope in France defends EU values",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260928-leo-the-moderate-pope-in-france-defends-eu-values",
-      "published_date": "2026-09-28T18:49:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen hails RN senate surge as ‘milestone’ towards French presidency",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections",
-      "published_date": "2026-09-28T17:24:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France puts out massive fire that torched 42,000 hectares and smouldered for 69 days",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260928-france-puts-out-massive-fire-that-torched-42-000-hectares-and-smouldered-for-69-days",
-      "published_date": "2026-09-28T17:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian strike on Kyiv’s science academy kills at least one in latest daytime attack",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
-      "published_date": "2026-09-28T15:16:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far right's Jordan Bardella denies media report he made anti-Semitic comments",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260928-french-far-right-jordan-bardella-denies-alleged-2013-anti-semitic-comments-mediapart-lepen",
-      "published_date": "2026-09-28T14:45:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right's Bardella denies alleged 2013 antisemitic comments",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260928/french-far-rights-bardella-denies-alleged-2013-antisemitic-comments",
-      "published_date": "2026-09-28T14:34:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Senate elections: What next after far right surge?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260928-french-senate-elections-what-next-after-far-right-surge",
-      "published_date": "2026-09-28T14:14:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scottish indie darlings The Snuts return to their roots on 'Joy in Short Moments'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260928-scottish-indie-darlings-the-snuts-return-to-their-roots-on-joy-in-short-moments",
-      "published_date": "2026-09-28T13:32:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poll shows French far-right leader Marine Le Pen widening lead ahead of 2027 presidential vote",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260928-poll-shows-french-far-right-leader-marine-le-pen-widening-lead-ahead-of-2027-presidential-vote",
-      "published_date": "2026-09-28T12:28:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We’re short of everything' say striking French firefighters",
+      "title": "French PM warns against student violence as public sector strike kicks off",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260928-we-re-short-of-everything-say-striking-french-firefighters",
-      "published_date": "2026-09-28T11:01:20+00:00",
+      "url": "https://www.rfi.fr/en/france/20260929-french-pm-warns-against-student-violence-as-public-sector-strike-kicks-off",
+      "published_date": "2026-09-29T09:59:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Hundreds of post offices across France could close under new proposals",
+      "title": "French police clash with teens blockading schools as unions stage day of protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20260929-french-police-clash-with-teens-blockading-schools-as-union-stage-day-of-protests",
+      "published_date": "2026-09-29T09:53:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MAP: What are the routes of the major protest marches in Paris on Tuesday?",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260928/hundreds-of-post-offices-across-france-could-close-under-new-proposals",
-      "published_date": "2026-09-28T09:36:38+00:00",
+      "url": "https://www.thelocal.fr/20260929/map-what-are-the-routes-of-the-major-protest-marches-in-paris-on-tuesday",
+      "published_date": "2026-09-29T08:41:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Class sizes of more than 36 people': School protests continue in Paris and beyond",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260929-class-sizes-of-more-than-36-people-student-protests-continue-in-paris-and-beyond-1",
+      "published_date": "2026-09-29T07:59:43+00:00",
       "category": "Local Events"
     }
   ]
