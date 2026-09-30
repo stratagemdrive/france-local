@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-09-29T16:44:15.850965+00:00",
+  "last_updated": "2026-09-30T01:48:25.005228+00:00",
   "story_count": 93,
   "stories": [
+    {
+      "title": "Trump says AI companies sign voluntary accord on safety controls",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/technology/20260929-trump-says-ai-companies-sign-voluntary-accord-on-safety-controls",
+      "published_date": "2026-09-29T22:48:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham sets out 'new path' for Britain, vows to seek consensus on ties with EU",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260929-burnham-sets-out-new-path-for-britain-vows-to-seek-consensus-on-ties-with-eu",
+      "published_date": "2026-09-29T17:54:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
       "source": "The Guardian",
@@ -127,20 +141,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/international/20260926-homes-for-europe-can-the-eu-s-affordable-housing-act-deliver",
       "published_date": "2026-09-26T12:34:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pope Leo XIV visits France and meets migrants and margialised people",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/pope-leo-xiv-visits-france-and-meets-migrants-and-margialised-people",
-      "published_date": "2026-09-26T09:46:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China, US to open AI 'communication channel' after summit",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260926-china-us-to-open-ai-communication-channel-after-summit",
-      "published_date": "2026-09-26T09:28:35+00:00",
       "category": "Diplomacy"
     },
     {
@@ -375,6 +375,20 @@
       "category": "Energy"
     },
     {
+      "title": "Trump says doesn't want to work with China on AI safety",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety",
+      "published_date": "2026-09-29T21:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France intends to borrow record €340 billion as Covid-era debt comes due",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/business/20260929-france-intends-to-borrow-record-340-billion-euros-covid-era-debt-comes-due",
+      "published_date": "2026-09-29T20:34:10+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Cutting immigration to the UK means billions less for the Treasury. Can the country really afford that? | Zoe Williams",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/sep/29/cutting-uk-immigration-means-billions-less-for-the-treasury",
@@ -501,18 +515,53 @@
       "category": "Economy"
     },
     {
-      "title": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket",
-      "published_date": "2026-09-24T08:34:46+00:00",
-      "category": "Economy"
+      "title": "Still the same far-right? Le Pen's National Rally denies fresh antisemitism claims",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260929-still-the-same-far-right-le-pen-s-national-rally-denies-fresh-antisemitism-claims",
+      "published_date": "2026-09-29T23:19:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump sparks debate over diesel export ban",
+      "title": "US Supreme Court lifts restrictions on third-country deportations",
       "source": "France 24",
-      "url": "https://www.france24.com/en/trump-sparks-debate-over-diesel-export-ban",
-      "published_date": "2026-09-23T20:38:13+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/americas/20260929-us-supreme-court-lifts-restrictions-on-third-country-deportations",
+      "published_date": "2026-09-29T23:17:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fires and blockades as students stage school protests across France",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-29T21:53:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ugandan coronation under social media scrutiny",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ugandan-coronation-under-social-media-scrutiny",
+      "published_date": "2026-09-29T20:22:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Le Pen vows to 'counterattack' after ally Bardella hit by anti-semitism claims",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260929/le-pen-vows-to-counterattack-after-ally-bardella-hit-by-anti-semitism-claims",
+      "published_date": "2026-09-29T19:27:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mystery over UK airbase scare as police find 'quantity of petrol' but no explosives",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260929-mystery-over-uk-airbase-scare-as-police-find-quantity-of-petrol-but-no-explosives",
+      "published_date": "2026-09-29T19:05:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham gambles on radical progressive plan to help Britain ‘rise again’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
+      "published_date": "2026-09-29T18:21:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Burnham says he would put PR in Labour manifesto and scrap triple lock to fund social care – UK politics live",
@@ -603,55 +652,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20260929-french-far-right-says-anti-semitism-claims-part-of-total-war-to-derail-presidency-bid",
       "published_date": "2026-09-29T11:35:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil's countdown to election day: Crime and security high on voters' agenda",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260929-brazil-s-countdown-to-election-day-crime-and-security-high-on-voters-agenda",
-      "published_date": "2026-09-29T11:33:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French public service strike day puts pressure on govt ahead of budget vote",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260929-french-public-service-strike-day-puts-pressure-on-govt-ahead-of-budget-vote",
-      "published_date": "2026-09-29T11:28:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Celine Dion kicks off Paris Fashion Week with surprise performance",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj207qk472zpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-29T10:20:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French PM warns against student violence as public sector strike kicks off",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260929-french-pm-warns-against-student-violence-as-public-sector-strike-kicks-off",
-      "published_date": "2026-09-29T09:59:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police clash with teens blockading schools as unions stage day of protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260929-french-police-clash-with-teens-blockading-schools-as-union-stage-day-of-protests",
-      "published_date": "2026-09-29T09:53:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MAP: What are the routes of the major protest marches in Paris on Tuesday?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260929/map-what-are-the-routes-of-the-major-protest-marches-in-paris-on-tuesday",
-      "published_date": "2026-09-29T08:41:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Class sizes of more than 36 people': School protests continue in Paris and beyond",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260929-class-sizes-of-more-than-36-people-student-protests-continue-in-paris-and-beyond-1",
-      "published_date": "2026-09-29T07:59:43+00:00",
       "category": "Local Events"
     }
   ]
