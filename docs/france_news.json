@@ -1,8 +1,99 @@
 {
   "country": "France",
-  "last_updated": "2026-09-30T01:48:25.005228+00:00",
-  "story_count": 93,
+  "last_updated": "2026-09-30T16:37:36.719054+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "REPLAY: France's Macron calls for 'stronger Europe' on Spain trip",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260930-replay-france-s-macron-calls-for-stronger-europe-on-spain-trip",
+      "published_date": "2026-09-30T15:01:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Welcome back’: Macron and Sanchez embrace prospect of UK return to EU",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260930-welcome-back-macron-and-sanchez-embrace-prospect-of-uk-return-to-eu",
+      "published_date": "2026-09-30T14:38:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU plans cross-border emergency comms system to replace radio",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260930/eu-plans-cross-border-emergency-comms-system-to-replace-radio",
+      "published_date": "2026-09-30T13:21:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK-France ‘one in one out’ deal to expire on Thursday, say sources",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/30/uk-france-one-in-one-out-deal-to-expire-on-thursday-say-sources",
+      "published_date": "2026-09-30T12:52:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France in talks with UK to end 2025 'one in, one out' migrant deal",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260930/france-in-talks-with-uk-to-end-2025-one-in-one-out-migrant-deal",
+      "published_date": "2026-09-30T12:42:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron says UK’s return to EU would be ‘excellent news’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260930-live-macron-sanchez-hold-joint-press-conference-during-french-president-s-spain-visit",
+      "published_date": "2026-09-30T11:49:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eiffel Tower chief to step down after female staff scandal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260930-eiffel-tower-chief-to-step-down-after-female-staff-scandal",
+      "published_date": "2026-09-30T11:11:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Medicine prices soar in Iran as US blockade and sanctions hit hard",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260930-medicine-prices-soar-in-iran-as-us-blockade-and-sanctions-hit-hard",
+      "published_date": "2026-09-30T10:39:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Heatwaves and wildfires drive extreme ozone pollution worldwide",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20260930-heatwaves-and-wildfires-drive-extreme-ozone-pollution-worldwide",
+      "published_date": "2026-09-30T09:15:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Attention turns to economy on final day of Macron’s visit to Spain",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260930-attention-turns-to-economy-on-final-day-of-macron-s-visit-to-spain",
+      "published_date": "2026-09-30T09:13:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rejoining the EU is among options for future ties, says UK prime minister",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260930/rejoining-the-eu-is-among-options-for-future-ties-says-uk-prime-minister",
+      "published_date": "2026-09-30T08:45:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andy Burnham: UK could ‘go all the way’ by rejoining EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu",
+      "published_date": "2026-09-30T07:41:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OPINION: Macron must tackle French fuel prices or risk populist oil fire in 2027",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260930/opinion-macron-must-tackle-french-fuel-prices-or-risk-populist-oil-fire-in-2027",
+      "published_date": "2026-09-30T07:08:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says AI companies sign voluntary accord on safety controls",
       "source": "France 24",
@@ -53,95 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "For a 'measured diplomatic figure', Pope Leo's visit to France has been 'deeply political'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/for-a-measured-diplomatic-figure-pope-leo-s-visit-to-france-has-been-deeply-political",
-      "published_date": "2026-09-28T15:46:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pope urges concessions for peace amid war in Ukraine – video",
+      "title": "Lethal Russian strikes hit residential area in Kyiv – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/28/pope-urges-concessions-for-peace-europe-video",
-      "published_date": "2026-09-28T15:07:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/video/2026/sep/30/lethal-russian-strikes-hit-residential-area-kyiv-video",
+      "published_date": "2026-09-30T16:09:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pope touches on war, migration in speech at Metz",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260928-pope-touches-on-war-migration-in-speech-at-metz",
-      "published_date": "2026-09-28T13:56:39+00:00",
-      "category": "Diplomacy"
+      "title": "No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
+      "published_date": "2026-09-30T15:25:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Switzerland rejects hard right push for stricter definition of neutrality",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260928-switzerland-rejects-hard-right-push-for-stricter-definition-of-neutrality",
-      "published_date": "2026-09-28T05:29:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pope Leo to invoke Schuman’s vision of a united Europe during visit to Metz",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20260928-pope-leo-to-invoke-schuman-s-vision-of-a-united-europe-during-visit-to-metz",
-      "published_date": "2026-09-28T04:52:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel revokes credentials of Dutch diplomats in West Bank over settlement goods ban",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions",
-      "published_date": "2026-09-27T21:47:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Switzerland rejects stricter interpretation of its neutrality",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-27T16:02:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-30T14:53:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Swiss voters reject stricter neutrality rules that would curb Nato cooperation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato",
-      "published_date": "2026-09-27T15:05:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘We’ve done everything by the book’: EU citizens left in limbo after UK government strips post-Brexit residency status",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/27/eu-citizens-home-office-strips-post-brexit-residency-status",
-      "published_date": "2026-09-27T12:04:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The week in pictures: Trump hosts Xi, the pope visits France and floods ravage Thailand",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260927-the-week-in-pictures-trump-hosts-xi-the-pope-visits-france-and-floods-ravage-thailand",
-      "published_date": "2026-09-27T10:05:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Swiss reject plan to adopt stricter form of neutrality that would rule out NATO cooperation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260927-swiss-reject-plan-to-adopt-stricter-form-of-neutrality-that-would-rule-out-nato-cooperation",
-      "published_date": "2026-09-27T05:52:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU unlocks 710 mn euros' aid for crisis-hit communities",
+      "title": "Exiled Burkina publisher tells RFI of repression and fear four years after coup",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260927-eu-unlocks-710-mn-euros-aid-for-crisis-hit-communities",
-      "published_date": "2026-09-27T05:31:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20260930-exiled-burkina-publisher-tells-rfi-of-repression-and-fear-four-years-after-coup",
+      "published_date": "2026-09-30T12:21:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "Homes for Europe: can the EU’s Affordable Housing Act deliver?",
+      "title": "Mixed reactions in Iraq on final day of US-led coalition withdrawal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260930-mixed-reactions-in-iraq-on-final-day-of-us-led-coalition-withdrawal",
+      "published_date": "2026-09-30T11:27:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is the US withdrawing its troops from Iraq?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260930-why-is-the-us-withdrawing-its-troops-from-iraq",
+      "published_date": "2026-09-30T11:18:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US troops wrap up Iraq mission 12 years after Islamic State offensive",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260926-homes-for-europe-can-the-eu-s-affordable-housing-act-deliver",
-      "published_date": "2026-09-26T12:34:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20260930-us-troops-wrap-up-iraq-mission-12-years-after-islamic-state-offensive",
+      "published_date": "2026-09-30T10:29:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mali army and Russian fighters accused of killing dozens of civilians",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260930-mali-army-and-russian-fighters-accused-of-killing-dozens-of-civilians-amnesty",
+      "published_date": "2026-09-30T05:39:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Live: Ukraine’s grid operator orders emergency power cuts in Kyiv after Russian strikes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260930-live-several-people-killed-as-russia-launches-new-round-of-strikes-on-kyiv",
+      "published_date": "2026-09-30T05:35:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-29T23:33:34+00:00",
+      "category": "Military"
     },
     {
       "title": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Ethiopian army clashes with rebel alliance across multiple fronts",
+      "title": "Tom Cruise's 'Digger' divides critics as Zurich Film Festival stars steal the spotlight",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260929-ethiopian-army-clashes-with-rebel-alliance-across-multiple-fronts",
-      "published_date": "2026-09-29T11:30:28+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260930-tom-cruise-s-digger-divides-critics-as-zurich-film-festival-stars-steal-the-spotlight",
+      "published_date": "2026-09-30T14:47:46+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia strikes two Kyiv data centres, cargo vessels in the Black Sea",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260929-russia-strikes-two-kyiv-data-centres-cargo-vessels-in-the-black-sea",
-      "published_date": "2026-09-29T10:35:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump 'surprised' UK granted bail to suspects in alleged airbase terror plot",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260929-trump-surprised-uk-granted-bail-to-suspects-alleged-airbase-terror-plot",
-      "published_date": "2026-09-29T09:12:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Argentina’s Milei threatens to sue UK over Falkland Islands oil project",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260929-argentina-milei-arbitration-falklands-oil-project",
-      "published_date": "2026-09-29T02:13:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Putin orders army expansion as Zelenskyy says more North Koreans to be deployed in Russia",
+      "title": "World’s oceans absorbed record heat equal to 40 times annual global energy use",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/29/ukraine-war-briefing-putin-orders-army-expansion-as-zelenskyy-claims-more-north-korean-troops-to-be-deployed-for-moscow",
-      "published_date": "2026-09-29T00:43:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Expert says UK airbase plot 'fits into a very intense pattern we've been seeing in past two months'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260928-expert-says-uk-airbase-plot-fits-into-a-very-intense-pattern-we-ve-been-seeing-in-past-two-months",
-      "published_date": "2026-09-28T21:25:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Expert says UK airbase plot 'fits into a very intense pattern we've been seeing in past two months'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/expert-says-uk-airbase-plot-fits-into-a-very-intense-pattern-we-ve-been-seeing-in-past-two-months",
-      "published_date": "2026-09-28T21:23:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "RAF Fairford: AI-enhanced photos of suspects fuel false claims about their religion",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/raf-fairford-ai-enhanced-photos-of-suspects-fuel-false-claims-about-their-religion-1",
-      "published_date": "2026-09-28T20:55:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian arms producers warn competitive edge eroding due to stringent export licence rules",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukrainian-arms-producers-warn-competitive-edge-eroding-due-to-stringent-export-licence-rules",
-      "published_date": "2026-09-28T19:28:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "People escape historic Kyiv building hit by Russian drone",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-28T17:04:14+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/sep/30/worlds-seas-warmed-23-zettajoules-2025",
+      "published_date": "2026-09-30T06:00:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "OpenAI scraps release of its latest AI model over safety concerns",
@@ -347,32 +361,18 @@
       "category": "Energy"
     },
     {
-      "title": "El Nino: Climate scientists warn of \"Godzilla-level\" climate event",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260923-el-nino-climate-scientists-warn-of-godzilla-level-climate-event",
-      "published_date": "2026-09-23T14:59:28+00:00",
-      "category": "Energy"
+      "title": "How Europe’s housing crisis is fuelling a new movement",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/30/how-europes-housing-crisis-is-fuelling-a-new-movement",
+      "published_date": "2026-09-30T14:45:43+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Super El Niño could cause 451,000 excess deaths worldwide",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260923-super-el-ni%C3%B1o-could-cause-451-000-excess-deaths-worldwide",
-      "published_date": "2026-09-23T13:37:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "When climate mitigation becomes politicised: The Guardian uncovers IPCC links to Saudi oil industry",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260923-when-climate-mitigation-becomes-political-the-guardian-uncovers-ipcc-links-to-saudi-oil-industry",
-      "published_date": "2026-09-23T10:53:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Russia attacks four Ukrainian regions overnight",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-attacks-four-ukrainian-regions-overnight",
-      "published_date": "2026-09-23T10:48:27+00:00",
-      "category": "Energy"
+      "title": "‘If people are in a bunker, business stops’: Missile alerts cost Ukraine $45m for every hour they halt businesses",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/30/missile-alerts-cost-ukraine-businesses-halt",
+      "published_date": "2026-09-30T07:52:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump says doesn't want to work with China on AI safety",
@@ -501,18 +501,123 @@
       "category": "Economy"
     },
     {
-      "title": "Spain's housing crisis in focus after eviction of 87-year-old woman",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm4gjvz734w3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-24T16:45:45+00:00",
-      "category": "Economy"
+      "title": "Appeals court halts execution of Tennessee woman less than two hours before lethal injection",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260930-appeals-court-halts-execution-of-tennessee-woman-less-than-two-hours-before-lethal-injection",
+      "published_date": "2026-09-30T16:03:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK ‘losing up to £6.5bn a year in EU trade’ without post-Brexit product deal",
+      "title": "French court jails six men for manslaughter over mass drowning in Channel",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
-      "published_date": "2026-09-24T08:48:11+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/sep/30/french-court-jails-six-manslaughter-mass-drowning-channel",
+      "published_date": "2026-09-30T15:58:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sweden must apologise for harm done to Sami people, says state-backed report",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/30/sweden-sami-harm-apology-report",
+      "published_date": "2026-09-30T15:40:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayor in south-western France bans local residents from getting sick",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260930/mayor-in-south-western-france-bans-local-residents-from-getting-sick",
+      "published_date": "2026-09-30T14:59:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In images: How the air in Paris has become more breathable",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260930/in-images-how-the-air-in-paris-has-become-more-breathable",
+      "published_date": "2026-09-30T14:50:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eiffel Tower chief to leave after women sidelined during Hindu visit",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260930-eiffel-tower-chief-to-leave-after-women-sidelined-during-hindu-visit",
+      "published_date": "2026-09-30T14:46:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PODCAST: Carte de séjour misery, French data centre battlegrounds and will parts of Brittany run out of tap water?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260930/podcast-carte-de-sejour-misery-french-data-centre-battlegrounds-and-will-parts-of-brittany-run-out-of-tap-water",
+      "published_date": "2026-09-30T14:45:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens hurt and hundreds arrested in wave of French school protests",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-30T13:18:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voters back Burnham’s plan to cut back triple lock to fund social care reform by 48% to 28%, poll suggests – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
+      "published_date": "2026-09-30T12:30:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France Service ramps up its mobile admin buses in northern France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20260930/france-service-ramps-up-its-mobile-admin-buses-in-northern-france",
+      "published_date": "2026-09-30T12:22:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Cornell won't, we will': Student journalists 'relentlessly' reporting on university rape",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20260930-cornell-won-t-we-will-student-journalists-relentlessly-reporting-on-university-rape",
+      "published_date": "2026-09-30T11:06:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'People have been buying into the detoxification of the National Rally', French politics expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260930-people-have-been-buying-into-the-detoxification-of-the-national-rally-says-andrew-smith",
+      "published_date": "2026-09-30T10:58:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man City scandal: 'Sham' deals and inflated revenues",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260930-man-city-scandal-sham-deals-and-inflated-revenues",
+      "published_date": "2026-09-30T10:34:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fatima Ezzahra El Mansouri named Morocco's first woman PM",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260930-fatima-ezzahra-el-mansouri-named-morocco-s-first-woman-pm",
+      "published_date": "2026-09-30T09:56:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ethiopia's last Jews dream of visa for Israel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260930-ethiopia-s-last-jews-dream-of-visa-for-israel",
+      "published_date": "2026-09-30T09:55:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "It shouldn’t take the eviction of an 87-year-old to get Spain’s housing crisis fixed | María Ramírez",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/30/it-shouldnt-take-the-eviction-of-an-87-year-old-to-get-spains-housing-crisis-fixed",
+      "published_date": "2026-09-30T04:00:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Supreme Court lifts limits on third-country deportations",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20260930-us-supreme-court-lifts-limits-on-third-country-deportations",
+      "published_date": "2026-09-30T02:40:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Still the same far-right? Le Pen's National Rally denies fresh antisemitism claims",
@@ -533,125 +638,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-29T21:53:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ugandan coronation under social media scrutiny",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ugandan-coronation-under-social-media-scrutiny",
-      "published_date": "2026-09-29T20:22:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Le Pen vows to 'counterattack' after ally Bardella hit by anti-semitism claims",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260929/le-pen-vows-to-counterattack-after-ally-bardella-hit-by-anti-semitism-claims",
-      "published_date": "2026-09-29T19:27:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mystery over UK airbase scare as police find 'quantity of petrol' but no explosives",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260929-mystery-over-uk-airbase-scare-as-police-find-quantity-of-petrol-but-no-explosives",
-      "published_date": "2026-09-29T19:05:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham gambles on radical progressive plan to help Britain ‘rise again’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
-      "published_date": "2026-09-29T18:21:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham says he would put PR in Labour manifesto and scrap triple lock to fund social care – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates",
-      "published_date": "2026-09-29T16:21:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "🔴 Marrakesh mayor Fatima Ezzahra El Mansouri becomes first woman prime minister of Morocco",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260929-morocco-king-appoints-first-woman-prime-minister-el-mansouri-after-parliamentary-vote",
-      "published_date": "2026-09-29T16:09:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French students and police clash as school blockades turn violent",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent",
-      "published_date": "2026-09-29T15:19:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Legion of Honour: Police investigate corruption claims for France’s top award",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260929-legion-of-honour-police-investigate-corruption-claims-for-france-s-top-award",
-      "published_date": "2026-09-29T14:43:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A view from Brazil: The fight for the favela vote",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260929-a-view-from-brazil-the-fight-for-the-favela-vote",
-      "published_date": "2026-09-29T14:41:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French civil servants strike, demand additional budgetary resources",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260929-french-civil-servants-strike-demand-additional-budgetary-resources",
-      "published_date": "2026-09-29T14:40:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain announces plan to ease housing crisis amid outcry over eviction of 87-year-old",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/29/spanish-government-approves-measures-ease-housing-crisis-outcry-eviction",
-      "published_date": "2026-09-29T14:27:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eiffel Tower chief to step down over removal of women staff during Hindu group's visit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260929-eiffel-tower-chief-to-step-down-over-removal-of-women-staff-during-hindu-group-visit-baps",
-      "published_date": "2026-09-29T14:22:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris Eiffel Tower says chief to step down after uproar over removing women staff",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260929/paris-eiffel-tower-says-chief-to-step-down-after-uproar-over-removing-women-staff",
-      "published_date": "2026-09-29T13:57:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JMW Turner’s ‘great love letter’ to Rome makes brief return to city before UK auction",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/sep/29/jmw-turner-love-letter-rome-from-mount-aventine-auction",
-      "published_date": "2026-09-29T13:49:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's Le Pen vows to 'counterattack' after top ally Bardella hit by anti-Semitism claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260929-france-s-le-pen-vows-to-counterattack-after-top-ally-bardella-hit-by-anti-semitism-claims",
-      "published_date": "2026-09-29T12:33:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right leader Bardella says filed lawsuit over anti-Semitic remarks claim",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260929-french-far-right-leader-bardella-says-filed-lawsuit-over-anti-semitic-remarks-claim",
-      "published_date": "2026-09-29T11:37:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right says anti-Semitism claims part of 'total war' to derail presidency bid",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260929-french-far-right-says-anti-semitism-claims-part-of-total-war-to-derail-presidency-bid",
-      "published_date": "2026-09-29T11:35:45+00:00",
       "category": "Local Events"
     }
   ]
