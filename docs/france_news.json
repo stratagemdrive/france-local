@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-09-30T16:37:36.719054+00:00",
-  "story_count": 91,
+  "last_updated": "2026-10-01T01:47:18.187569+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "UK PM Burnham reopens divisive debate on rejoining EU",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260930-uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
+      "published_date": "2026-09-30T21:08:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK PM Burnham reopens divisive debate on rejoining EU",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
+      "published_date": "2026-09-30T20:55:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No 10 gathering evidence on public support for UK rejoining EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/30/no-10-gathering-evidence-public-support-rejoining-eu-reversing-brexit",
+      "published_date": "2026-09-30T18:33:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron says ‘welcome back’ to Burnham suggestion UK could rejoin EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/30/macron-welcome-back-burnham-suggestion-uk-could-rejoin-eu",
+      "published_date": "2026-09-30T16:40:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "REPLAY: France's Macron calls for 'stronger Europe' on Spain trip",
       "source": "France 24",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France's Le Pen defiant after top ally hit by antisemitism claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260929-france-s-le-pen-defiant-after-top-ally-hit-by-antisemitism-claims",
-      "published_date": "2026-09-29T14:10:47+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Russia pounds power grid with seven killed in biggest energy attack in months",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/01/ukraine-war-briefing-russia-pounds-power-grid-with-seven-killed-in-biggest-energy-attack-in-months",
+      "published_date": "2026-10-01T01:26:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spanish royals welcome French President Macron in official ceremony",
+      "title": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260929-spanish-royals-welcome-french-president-macron-in-official-ceremony",
-      "published_date": "2026-09-29T14:08:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260930-ethiopia-back-to-civil-war-horn-of-africa-fears-spillover-effect-of-renewed-fighting",
+      "published_date": "2026-09-30T19:04:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Can Parisians really teach us to be happier?",
+      "title": "British PM alleges there are 'strong indications' Iran was involved in Fairford airbase incident",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260929-can-parisians-really-teach-us-to-be-happier",
-      "published_date": "2026-09-29T13:22:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20260930-british-pm-alleges-there-are-strong-indications-iran-was-involved-in-fairford-airbase-incident",
+      "published_date": "2026-09-30T19:01:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudis 'furious': Trump ‘flips & flops’ between deal with Iran and ‘attacks in devastating fashion’",
+      "title": "Syria: An exclusive look at the integration of Uyghur fighters in armed forces",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260928-saudis-furious-trump-flips-flops-between-deal-with-iran-and-attacks-in-devastating-fashion",
-      "published_date": "2026-09-28T18:18:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20260930-syria-an-exclusive-look-at-the-integration-of-uyghur-fighters-in-armed-forces",
+      "published_date": "2026-09-30T16:45:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Lethal Russian strikes hit residential area in Kyiv – video",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "'Putin's goal is to prolong his power in Russia': Journalist Roman Badanin",
+      "title": "Ethiopian AI expert, Timnit Gebru, wins 'alternative Nobel'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260929-putin-s-goal-is-to-prolong-his-power-in-russia-journalist-roman-badanin",
-      "published_date": "2026-09-29T12:46:30+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/ethiopian-ai-expert-timnit-gebru-wins-alternative-nobel",
+      "published_date": "2026-09-30T20:44:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Burkina Faso, Mali and Niger launch Tafouk TV channel to push their own narrative",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260929-tafouk-tv-the-russia-backed-channel-at-the-heart-of-sahel-juntas-media-push",
-      "published_date": "2026-09-29T12:41:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-29T12:20:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mystery over UK airbase scare after reports no explosives found",
+      "title": "Climate change reshaping the polar oceans, says report",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260929-mystery-over-uk-airbase-scare-after-reports-no-explosives-found",
-      "published_date": "2026-09-29T11:36:32+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20260930-climate-change-reshaping-the-polar-oceans-says-report",
+      "published_date": "2026-09-30T16:53:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Tom Cruise's 'Digger' divides critics as Zurich Film Festival stars steal the spotlight",
@@ -354,11 +368,32 @@
       "category": "Energy"
     },
     {
-      "title": "Germany pledges to phase out fossil fuels for first time with target of 2045",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045",
-      "published_date": "2026-09-23T16:37:52+00:00",
-      "category": "Energy"
+      "title": "Meet 'America': Trump’s AI chatbot changes answers after challenging his claims",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/meet-america-trump-s-ai-chatbot-changes-answers-after-challenging-his-claims-1",
+      "published_date": "2026-09-30T20:08:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France faces record €340bn borrowing test as government braces for 2027 budget",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20260930-france-faces-%E2%82%AC340bn-borrowing-crunch-as-government-braces-for-2027-budget",
+      "published_date": "2026-09-30T19:31:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK-France 'one in, one out' migrant exchange deal is scrapped",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260930-uk-france-one-in-one-out-migrant-exchange-deal-is-scrapped",
+      "published_date": "2026-09-30T17:12:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France to unveil 2027 budget as debt hits record high",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20260930-france-to-unveil-2027-budget-as-debt-hits-record-high",
+      "published_date": "2026-09-30T16:58:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "How Europe’s housing crisis is fuelling a new movement",
@@ -473,32 +508,32 @@
       "category": "Economy"
     },
     {
-      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-25T23:08:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "EasyJet France pilots call off strike threat",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260925/easyjet-france-pilots-call-off-strike-threat",
-      "published_date": "2026-09-25T20:41:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Canada seeks new role in global economy",
+      "title": "'Hard to see Man City getting anything other than the book thrown at them', expert says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20260925-canada-seeks-new-role-in-global-economy",
-      "published_date": "2026-09-25T07:46:05+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/hard-to-see-man-city-getting-anything-other-than-the-book-thrown-at-them-expert-says",
+      "published_date": "2026-09-30T19:56:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK food and drink trade deficit largest since 2000 at £21bn",
+      "title": "Clashes between French teens, police as school blockades intensify",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/clashes-between-french-teens-police-as-school-blockades-intensify",
+      "published_date": "2026-09-30T19:07:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stella McCartney makes waves with ‘sea life, not sea food’ theme in zero-wool Paris show",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/25/uk-food-drink-trade-deficit-homegrown-produce-national-security",
-      "published_date": "2026-09-24T23:01:32+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/fashion/2026/sep/30/stella-mccartney-sea-life-paris-fashion-week-animal-rights",
+      "published_date": "2026-09-30T18:47:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is Fatima Ezzahra El Mansouri, Morocco’s first female prime minister?",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20260930-who-is-fatima-ezzahra-el-mansouri-morocco-s-first-female-prime-minister",
+      "published_date": "2026-09-30T17:47:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Appeals court halts execution of Tennessee woman less than two hours before lethal injection",
@@ -610,34 +645,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/sep/30/it-shouldnt-take-the-eviction-of-an-87-year-old-to-get-spains-housing-crisis-fixed",
       "published_date": "2026-09-30T04:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court lifts limits on third-country deportations",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20260930-us-supreme-court-lifts-limits-on-third-country-deportations",
-      "published_date": "2026-09-30T02:40:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Still the same far-right? Le Pen's National Rally denies fresh antisemitism claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260929-still-the-same-far-right-le-pen-s-national-rally-denies-fresh-antisemitism-claims",
-      "published_date": "2026-09-29T23:19:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court lifts restrictions on third-country deportations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260929-us-supreme-court-lifts-restrictions-on-third-country-deportations",
-      "published_date": "2026-09-29T23:17:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fires and blockades as students stage school protests across France",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-29T21:53:36+00:00",
       "category": "Local Events"
     }
   ]
