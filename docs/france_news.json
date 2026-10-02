@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-10-01T17:14:28.608840+00:00",
+  "last_updated": "2026-10-02T01:57:21.855188+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "G20 trade ministers deadlocked over industrial overcapacity, says US trade chief",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/economy/20261002-g20-trade-ministers-overcapacity-impasse-greer",
+      "published_date": "2026-10-02T01:30:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Migration deal: 'Really a scheme around political diplomacy between UK & France in post-Brexit era'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261001-migration-deal-really-a-scheme-around-political-diplomacy-between-uk-france-in-post-brexit-era-1",
+      "published_date": "2026-10-01T22:27:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US presses Europe to release 'immediately' diesel reserves as Trump threatens export ban",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices",
+      "published_date": "2026-10-01T22:08:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia and Eritrea break diplomatic ties over conflict",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ethiopia-and-eritrea-break-diplomatic-ties-over-conflict",
+      "published_date": "2026-10-01T20:28:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Britain in talks with European allies over release of emergency diesel stockpiles",
       "source": "The Guardian",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France in talks with UK to end 2025 'one in, one out' migrant deal",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260930/france-in-talks-with-uk-to-end-2025-one-in-one-out-migrant-deal",
-      "published_date": "2026-09-30T12:42:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron says UK’s return to EU would be ‘excellent news’",
+      "title": "UK police arrest dual UK-Iranian national over Fairford air base incident",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260930-live-macron-sanchez-hold-joint-press-conference-during-french-president-s-spain-visit",
-      "published_date": "2026-09-30T11:49:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Americans in France: Apartment hunting headaches and how spending habits change",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20260930/americans-in-france-apartment-hunting-headaches-and-how-spending-habits-change",
-      "published_date": "2026-09-30T11:29:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Eiffel Tower chief to step down after female staff scandal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260930-eiffel-tower-chief-to-step-down-after-female-staff-scandal",
-      "published_date": "2026-09-30T11:11:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20261001-uk-police-arrest-dual-uk-iranian-national-over-fairford-air-base-incident",
+      "published_date": "2026-10-01T19:40:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Nuremberg trials: 'When you see these people in the dock, the world changes'",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Mali army and Russian fighters accused of killing dozens of civilians",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20260930-mali-army-and-russian-fighters-accused-of-killing-dozens-of-civilians-amnesty",
-      "published_date": "2026-09-30T05:39:45+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Kenya breaks ground on $16bn refinery as environmental concerns grow",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20261001-kenya-breaks-ground-on-16bn-refinery-as-environmental-concerns-grow",
@@ -401,6 +401,20 @@
       "url": "https://www.france24.com/en/tv-shows/talking-europe/20260925-climate-breakdown-is-the-eu-adapting-to-the-new-normal-europe-s-summer-of-disasters",
       "published_date": "2026-09-25T14:33:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "France’s purchasing power crisis: Navigating the pinch",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/economy/20261001-france-s-purchasing-power-crisis-navigating-the-pinch",
+      "published_date": "2026-10-01T19:26:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'Guilty of all charges': Man City at centre of 'biggest scandal in football history', vows to appeal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261001-guilty-of-all-charges-man-city-at-centre-of-biggest-scandal-in-football-history-vows-to-appeal",
+      "published_date": "2026-10-01T16:37:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "No 10 clarifies that Andy Burnham not siding with Manchester City over finance scandal – UK politics live",
@@ -529,18 +543,25 @@
       "category": "Economy"
     },
     {
-      "title": "French hotels, souvenir shops benefit from pope business boost",
+      "title": "French investigative site says antisemitic messages tied to Jordan Bardella, Le Pen's ally",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260928-french-hotels-souvenir-shops-benefit-from-pope-business-boost",
-      "published_date": "2026-09-28T16:48:33+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20261001-jordan-bardella-antisemitic-messages-authenticated-french-outlet",
+      "published_date": "2026-10-01T22:41:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'Fascinating success': Pope Leo’s appeal in France transcends faith and politics",
+      "title": "'Fundamental demand': Saint-Denis students seek same opportunity as those in 'more privileged areas'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/fascinating-success-pope-leo-s-appeal-in-france-transcends-faith-and-politics",
-      "published_date": "2026-09-28T14:35:12+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/fundamental-demand-saint-denis-students-seek-same-opportunity-as-those-in-more-privileged-areas",
+      "published_date": "2026-10-01T21:02:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting",
+      "published_date": "2026-10-01T17:52:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "CCTV captures moment Russian drone hits Kyiv school – video",
@@ -648,38 +669,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Stella McCartney makes waves with ‘sea life, not sea food’ theme in zero-wool Paris show",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/fashion/2026/sep/30/stella-mccartney-sea-life-paris-fashion-week-animal-rights",
+      "published_date": "2026-10-01T08:46:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "In pictures: Hundreds held and dozens wounded as French school protests escalate",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20261001/in-pictures-hundreds-held-and-dozens-wounded-as-french-school-protests-escalate",
       "published_date": "2026-10-01T07:20:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris court jails six men for manslaughter over mass drowning in Channel",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261001-paris-court-jails-six-men-for-manslaughter-over-mass-drowning-in-channel-france",
-      "published_date": "2026-10-01T07:09:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jean-Luc Mélenchon will win young French voters – until they realise the size of his Russia blind spot | Alexander Hurst",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/01/jean-luc-melenchon-young-french-voters-russia-foreign-policy",
-      "published_date": "2026-10-01T04:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Hard to see Man City getting anything other than the book thrown at them', expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/hard-to-see-man-city-getting-anything-other-than-the-book-thrown-at-them-expert-says",
-      "published_date": "2026-09-30T19:56:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clashes between French teens, police as school blockades intensify",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/clashes-between-french-teens-police-as-school-blockades-intensify",
-      "published_date": "2026-09-30T19:07:32+00:00",
       "category": "Local Events"
     }
   ]
