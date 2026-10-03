@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-10-03T01:41:50.614420+00:00",
-  "story_count": 97,
+  "last_updated": "2026-10-03T15:01:38.898772+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Culture versus climate: how global heating endangers Unesco heritage sites",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20261003-culture-versus-climate-how-global-heating-endangers-unesco-world-heritage-sites",
+      "published_date": "2026-10-03T06:44:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
+      "published_date": "2026-10-03T05:00:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ethiopia's new rebel war redraws alliances across the Horn of Africa",
       "source": "RFI English",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Burnham’s reopening of Brexit debate is ‘biggest boost in my career’, says Farage",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/01/burnhams-reopening-of-brexit-debate-is-biggest-boost-in-my-career-says-farage",
-      "published_date": "2026-10-01T15:47:43+00:00",
-      "category": "Diplomacy"
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T12:59:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "A blessing or a curse? New Caledonia's dwindling nickel industry",
+      "title": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks",
+      "published_date": "2026-10-03T10:31:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopia's Tigray rebels abandon regional capital Mekelle as pro-government forces advance",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261001-a-blessing-or-a-curse-new-caledonia-s-dwindling-nickel-industry",
-      "published_date": "2026-10-01T14:39:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
+      "published_date": "2026-10-03T07:58:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘We swept a lot under the carpet’: Vichy regime film hits home in France of 2026",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/03/french-film-notre-salut-vichy-regime",
+      "published_date": "2026-10-03T04:00:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea launches ballistic missile as tensions with Seoul grow over border mine blasts",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand",
+      "published_date": "2026-10-03T02:40:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Ethiopian army pushes back Tigrayan rebels",
@@ -246,41 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261001-hegseth-state-of-the-force-speech-us-to-cut-number-of-generals-admirals-by-20",
       "published_date": "2026-10-01T09:42:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia launches major attack on Ukraine’s energy grid, causing power cuts",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts",
-      "published_date": "2026-10-01T02:21:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russia pounds power grid with seven killed in biggest energy attack in months",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/01/ukraine-war-briefing-russia-pounds-power-grid-with-seven-killed-in-biggest-energy-attack-in-months",
-      "published_date": "2026-10-01T01:26:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-30T23:10:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260930-ethiopia-back-to-civil-war-horn-of-africa-fears-spillover-effect-of-renewed-fighting",
-      "published_date": "2026-09-30T19:04:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British PM alleges there are 'strong indications' Iran was involved in Fairford airbase incident",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260930-british-pm-alleges-there-are-strong-indications-iran-was-involved-in-fairford-airbase-incident",
-      "published_date": "2026-09-30T19:01:30+00:00",
       "category": "Military"
     },
     {
@@ -396,11 +396,18 @@
       "category": "Energy"
     },
     {
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-26T12:47:25+00:00",
-      "category": "Energy"
+      "title": "They embraced the Fiat 500, the Vespa, even tuk-tuks. But will Romans draw the line at the golf cart?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/03/rome-golf-cart-tours-crackdown-tourism",
+      "published_date": "2026-10-03T10:00:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'There’s no such thing as democracy': Yanis Varoufakis | Radical Thinking with Aditya Chakrabortty – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/oct/03/theres-no-such-thing-as-democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty-podcast",
+      "published_date": "2026-10-03T06:50:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Daniel Roseberry adds ‘aerodynamic‘ edge to Schiaparelli’s surrealist glamour at Paris show",
@@ -529,18 +536,102 @@
       "category": "Economy"
     },
     {
-      "title": "UK-France 'one in, one out' migrant exchange deal is scrapped",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260930-uk-france-one-in-one-out-migrant-exchange-deal-is-scrapped",
-      "published_date": "2026-09-30T17:12:12+00:00",
-      "category": "Economy"
+      "title": "As students call for 'act three', can France's school protests keep momentum?",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261003-as-students-call-for-act-three-can-france-s-school-protests-keep-momentum",
+      "published_date": "2026-10-03T14:26:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "France to unveil 2027 budget as debt hits record high",
+      "title": "‘This can’t go on’: tens of thousands protest against housing crisis in Spain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+      "published_date": "2026-10-03T14:19:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters across Spain demand action over housing crisis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T13:34:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260930-france-to-unveil-2027-budget-as-debt-hits-record-high",
-      "published_date": "2026-09-30T16:58:35+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
+      "published_date": "2026-10-03T13:20:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How an 87-year-old Spanish woman became the face of the fight for affordable housing – explainer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/03/how-an-87-year-old-spanish-woman-became-the-face-of-the-fight-for-affordable-housing-explainer",
+      "published_date": "2026-10-03T13:05:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will Spain's housing crisis lead to a snap election?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T12:26:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "All hail Queen Céline as pop diva hits halfway mark in Paris comeback",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20261003-all-hail-queen-celine-dion-as-pop-diva-hits-halfway-mark-in-paris-comeback",
+      "published_date": "2026-10-03T11:06:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside France: Jordan Bardella and the elephant in the room",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261003/inside-france-jordan-bardella-and-the-elephant-in-the-room",
+      "published_date": "2026-10-03T09:38:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can anything politicians say at Sunday’s election stop young people from leaving Bosnia?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/03/politicians-election-young-people-leaving-bosnia-herzegovina",
+      "published_date": "2026-10-03T09:35:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barricades & the blame game: the French school protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests",
+      "published_date": "2026-10-03T09:25:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ethiopia's government forces look to take regional capital from Tigray rebels",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20261003-tigray-rebels-reportedly-abandon-capital-as-ethiopian-government-forces-advance",
+      "published_date": "2026-10-03T09:22:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It’s not just about getting drunk!’ How Oktoberfest took over the UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/2026/oct/03/oktoberfest-uk-sites-pilsner-oompah-bratwurst",
+      "published_date": "2026-10-03T09:00:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New rallies urged in France as protests disrupt over 730 schools",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261003/new-rallies-urged-in-france-as-protests-disrupt-over-730-schools",
+      "published_date": "2026-10-03T08:34:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia strikes another major bridge across Kyiv's Dnipro river",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv",
+      "published_date": "2026-10-03T06:40:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
@@ -582,104 +673,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-02T15:30:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish lawmakers vote down affordable housing bills in blow to Sanchez’s government",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261002-spanish-lawmakers-vote-down-affordable-housing-bills-in-blow-to-sanchez-s-government",
-      "published_date": "2026-10-02T15:12:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil: Who is presidential candidate Flavio Bolsonaro?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261002-brazil-who-is-presidential-candidate-flavio-bolsonaro",
-      "published_date": "2026-10-02T15:06:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Make our streets safer!' Mass women's protests sweep India over sexual violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20261002-make-our-streets-safer-mass-women-s-protests-sweep-india-over-sexual-violence",
-      "published_date": "2026-10-02T14:57:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine",
-      "published_date": "2026-10-02T14:50:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Cornell 7: Allegations spark fury over gang rape culture",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-51/20261002-the-cornell-7-allegations-spark-fury-over-gang-rape-culture",
-      "published_date": "2026-10-02T14:39:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fires, fury and hundreds of arrests as France gripped by student protests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france",
-      "published_date": "2026-10-02T14:10:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Apocalyptic scenes' as France school protests escalate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261002-apocalyptic-scenes-as-france-school-protests-escalate",
-      "published_date": "2026-10-02T13:42:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Students and police clash as France struggles to quell school protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261002-students-and-police-clash-as-france-struggles-to-quell-school-protests",
-      "published_date": "2026-10-02T13:40:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France school protests 'rapidly becoming out of control'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261002-france-school-protests-rapidly-becoming-out-of-control",
-      "published_date": "2026-10-02T12:55:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain housing protests rage ahead of key government vote",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261002-spain-housing-protests-rage-ahead-of-key-government-vote",
-      "published_date": "2026-10-02T12:54:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bac to f**k: Understanding French lycées protest signs",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261002/bac-to-fuck-understanding-french-lycees-protest-signs",
-      "published_date": "2026-10-02T12:19:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Take a back-up sandwich' - How easy is it to find gluten-free food in France?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261002/take-a-back-up-sandwich-how-easy-is-it-to-find-gluten-free-food-in-france",
-      "published_date": "2026-10-02T11:50:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil's election: Lula or Bolsonaro Jr?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20261002-brazil-s-election-lula-or-bolsonaro-jr",
-      "published_date": "2026-10-02T11:04:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'America is leaving Iraq, but Iran isn't: Withdrawal a massive strategic and tactical mistake'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261002-america-is-leaving-iraq-but-iran-isn-t-withdrawal-a-massive-strategic-and-tactical-mistake-1",
-      "published_date": "2026-10-02T10:11:15+00:00",
       "category": "Local Events"
     }
   ]
