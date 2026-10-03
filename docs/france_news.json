@@ -1,6 +1,6 @@
 {
   "country": "France",
-  "last_updated": "2026-10-02T16:27:29.928872+00:00",
+  "last_updated": "2026-10-03T01:41:50.614420+00:00",
   "story_count": 97,
   "stories": [
     {
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Ethiopian army pushes back Tigrayan rebels",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels",
+      "published_date": "2026-10-02T20:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "On the run for 20 years, Ugandan warlord Kony still 'active' within the Lord's Resistance Army",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20261002-on-the-run-for-20-years-ugandan-warlord-kony-still-active-within-the-lord-s-resistance-army",
+      "published_date": "2026-10-02T19:31:27+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Moroccan intelligence accused of spying on journalists and human rights activists",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/international/20261002-moroccan-intelligence-accused-of-spying-on-journalists-and-human-rights-activists",
@@ -267,20 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20260930-british-pm-alleges-there-are-strong-indications-iran-was-involved-in-fairford-airbase-incident",
       "published_date": "2026-09-30T19:01:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria: An exclusive look at the integration of Uyghur fighters in armed forces",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260930-syria-an-exclusive-look-at-the-integration-of-uyghur-fighters-in-armed-forces",
-      "published_date": "2026-09-30T16:45:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lethal Russian strikes hit residential area in Kyiv – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/sep/30/lethal-russian-strikes-hit-residential-area-kyiv-video",
-      "published_date": "2026-09-30T16:09:56+00:00",
       "category": "Military"
     },
     {
@@ -543,10 +543,52 @@
       "category": "Economy"
     },
     {
+      "title": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261002-french-media-react-to-m-le-pen-s-kevlar-suit-comments-against-investigative-press-outlet",
+      "published_date": "2026-10-02T21:37:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Unrest: Are we witnessing a new 'Yellow Vests' movement?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261002-french-unrest-are-we-witnessing-a-new-yellow-vests-movement",
+      "published_date": "2026-10-02T18:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/02/the-week-around-the-world-in-20-pictures",
+      "published_date": "2026-10-02T17:03:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fires burn as French students protest against lack of investment in education – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/02/fires-burn-as-french-students-protest-against-lack-of-investment-in-education-video",
+      "published_date": "2026-10-02T16:34:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish right wing votes down housing crisis plans as protest movement grows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/02/spanish-right-wing-votes-down-housing-crisis-plans-protest-movement-grows",
+      "published_date": "2026-10-02T16:27:47+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-02T15:30:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish lawmakers vote down affordable housing bills in blow to Sanchez’s government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261002-spanish-lawmakers-vote-down-affordable-housing-bills-in-blow-to-sanchez-s-government",
+      "published_date": "2026-10-02T15:12:47+00:00",
       "category": "Local Events"
     },
     {
@@ -638,48 +680,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261002-america-is-leaving-iraq-but-iran-isn-t-withdrawal-a-massive-strategic-and-tactical-mistake-1",
       "published_date": "2026-10-02T10:11:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amid French school protests, students seek 'respect, dignity and decent working conditions'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/amid-french-school-protests-students-seek-respect-dignity-and-decent-working-conditions",
-      "published_date": "2026-10-02T10:02:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eastern Spain braces for torrential rain and flooding",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/02/weather-tracker-eastern-spain-torrential-rain-flooding-nepal-landslides",
-      "published_date": "2026-10-02T08:58:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Louvre launches appeal as part of new fundraising drive",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261002/louvre-launches-appeal-as-part-of-new-fundraising-drive",
-      "published_date": "2026-10-02T07:39:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French website publishes evidence for antisemitism claims against far-right leader",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261002/french-website-publishes-evidence-for-antisemitism-claims-against-far-right-leader",
-      "published_date": "2026-10-02T07:27:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: Kyiv in ‘very dramatic situation’ as Russia steps up bombing, mayor says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261002-live-russia-hits-kyiv-s-southern-bridge-as-moscow-continues-to-pound-capital",
-      "published_date": "2026-10-02T05:30:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French investigative site says antisemitic messages tied to Jordan Bardella, Le Pen's ally",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261001-jordan-bardella-antisemitic-messages-authenticated-french-outlet",
-      "published_date": "2026-10-01T22:41:38+00:00",
       "category": "Local Events"
     }
   ]
