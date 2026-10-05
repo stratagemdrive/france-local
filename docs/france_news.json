@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-10-04T15:36:57.232057+00:00",
+  "last_updated": "2026-10-05T01:32:43.946783+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Bosnian Serb nationalist Dodik declares party victory in Bosnia election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election",
+      "published_date": "2026-10-04T20:42:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "German Chancellor in Kyiv: \"Ukraine will need our support\"",
       "source": "France 24",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Migration deal: 'Really a scheme around political diplomacy between UK & France in post-Brexit era'",
+      "title": "Ukraine war briefing: Germany’s Merz pledges €1bn in military aid to Kyiv as Russia ramps up attacks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/05/ukraine-war-briefing-germanys-merz-pledges-1bn-in-military-aid-to-kyiv-as-russia-ramps-up-attacks",
+      "published_date": "2026-10-05T01:00:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US withdraws all B-1 bombers from British military base RAF Fairford",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261001-migration-deal-really-a-scheme-around-political-diplomacy-between-uk-france-in-post-brexit-era-1",
-      "published_date": "2026-10-01T22:27:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20261004-us-bombers-raf-fairford-uk-pentagon",
+      "published_date": "2026-10-04T22:50:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says no military solution to war as peace talks with US stall",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261004-iran-us-military-middle-east-war-peace-talks",
+      "published_date": "2026-10-04T21:41:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Ethiopia captures Tigray capital as its regional rivals meet in Egypt",
@@ -186,10 +207,24 @@
       "category": "Military"
     },
     {
+      "title": "Ethiopian federal forces control Tigray capital as regional rivals meet in Egypt",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20261004-ethiopian-federal-forces-control-tigray-capital-as-regional-rivals-meet-in-egypt",
+      "published_date": "2026-10-04T10:22:43+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Russian strike hits Kyiv amid Chancellor Merz visit",
       "source": "France 24",
       "url": "https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit",
       "published_date": "2026-10-04T09:52:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Merz unveils new aid for Ukraine as Russia strikes Kyiv during German leader's visit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261004-merz-unveils-new-aid-for-ukraine-as-russia-strikes-kyiv-during-german-leader-s-visit",
+      "published_date": "2026-10-04T08:38:43+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T12:59:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks",
-      "published_date": "2026-10-03T10:31:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia's Tigray rebels abandon regional capital Mekelle as pro-government forces advance",
+      "title": "Pacific leaders urge climate action as UN pre-COP talks open in Fiji",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
-      "published_date": "2026-10-03T07:58:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘We swept a lot under the carpet’: Vichy regime film hits home in France of 2026",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/french-film-notre-salut-vichy-regime",
-      "published_date": "2026-10-03T04:00:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea launches ballistic missile as tensions with Seoul grow over border mine blasts",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand",
-      "published_date": "2026-10-03T02:40:43+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/environment/20261004-pacific-leaders-climate-action-un-pre-cop-talks-fiji",
+      "published_date": "2026-10-04T23:21:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "What is fuelling French school protests?",
@@ -417,17 +424,17 @@
       "category": "Energy"
     },
     {
-      "title": "Heat pump sales soar across Europe after states cut electricity taxes, data shows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows",
-      "published_date": "2026-09-28T13:53:52+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Brazil: Lula and Bolsonaro tied in polls",
       "source": "France 24",
       "url": "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
       "published_date": "2026-10-04T13:19:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Polls close in Brazil's high-stakes election pitting Lula against Flavio Bolsonaro",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro",
+      "published_date": "2026-10-04T11:17:45+00:00",
       "category": "Economy"
     },
     {
@@ -554,13 +561,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261001-brazil-elections-can-lula-s-anti-poverty-record-win-over-voters",
       "published_date": "2026-10-01T09:51:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Argentine leader Milei on mission to beef up economy during Paris visit",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261001-argentine-leader-milei-on-mission-to-beef-up-economy-during-paris-visit",
-      "published_date": "2026-10-01T05:12:32+00:00",
       "category": "Economy"
     },
     {
