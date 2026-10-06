@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-10-05T01:32:43.946783+00:00",
+  "last_updated": "2026-10-06T02:39:25.277403+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "France, Germany seek new EU rapid response tool against trade threats",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261005-france-germany-seek-new-eu-rapid-response-tool-against-trade-threats",
+      "published_date": "2026-10-05T17:01:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron slams Russia’s ‘irresponsible’ strikes on Ukraine’s civilian infrastructure",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261005-macron-slams-russia-s-irresponsible-strikes-on-ukraine-s-civilian-infrastructure",
+      "published_date": "2026-10-05T14:09:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Study shows extreme poverty, homelessness on the rise in France",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261005-study-shows-extreme-poverty-homelessness-on-the-rise-in-france",
+      "published_date": "2026-10-05T12:21:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Calls for French government to criminalise 'administrative abuse' to protect foreigners",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261005/calls-for-french-government-to-criminalise-administrative-abuse-to-protect-foreigners",
+      "published_date": "2026-10-05T09:23:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ball in UK’s court: EU ambassador says Brussels will be ‘ready to engage‘ after country decides what it wants",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/05/eu-ambassador-uk-interview",
+      "published_date": "2026-10-05T04:00:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio visits Iceland ‘to discuss security collaboration’ as US boosts Arctic presence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261005-rubio-visits-iceland-as-us-boosts-arctic-presence-after-greenland-security-pact",
+      "published_date": "2026-10-05T01:20:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bosnian Serb nationalist Dodik declares party victory in Bosnia election",
       "source": "The Guardian",
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Eritrea cuts ties with Ethiopia over embassy closure",
+      "title": "Trump approves firing-squad execution of Fort Hood shooter Nidal Hasan",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261002-eritrea-cuts-ties-with-ethiopia-over-embassy-closure",
-      "published_date": "2026-10-02T10:54:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20261006-trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan",
+      "published_date": "2026-10-06T01:31:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "As Europe's balance of power shifts eastward, France & Spain seek to 'reinforce their own positions'",
+      "title": "Ukraine war briefing: Kyiv claims half of Russia’s oil refining capacity destroyed",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/06/ukraine-war-briefing-kyiv-claims-half-of-russias-oil-refining-capacity-destroyed",
+      "published_date": "2026-10-06T01:27:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Quebec votes as separatist surge poses test for Canada PM",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261002-as-europe-s-balance-of-power-shifts-eastward-france-spain-seek-to-reinforce-their-own-positions-1",
-      "published_date": "2026-10-02T09:49:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/quebec-votes-as-separatist-surge-poses-test-for-canada-pm",
+      "published_date": "2026-10-05T21:36:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU nations to hold emergency meeting on diesel prices amid US pressure",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261002/eu-nations-to-hold-emergency-meeting-on-soaring-diesel-prices-amid-us-pressure",
-      "published_date": "2026-10-02T08:59:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "More than half of Europe exposed to extreme heat stress this summer",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261002-europe-hit-by-four-of-its-10-worst-heatwaves-in-a-single-summer",
-      "published_date": "2026-10-02T07:01:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G20 trade ministers deadlocked over industrial overcapacity, says US trade chief",
+      "title": "Ethiopia again demands access to the Red Sea",
       "source": "France 24",
-      "url": "https://www.france24.com/en/economy/20261002-g20-trade-ministers-overcapacity-impasse-greer",
-      "published_date": "2026-10-02T01:30:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/ethiopia-again-demands-access-to-the-red-sea",
+      "published_date": "2026-10-05T20:28:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spain and China are cosying up - to the anger of many in the EU",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-01T23:42:33+00:00",
-      "category": "Diplomacy"
+      "title": "Putin's escalating bombing campaign won't break Ukrainians' resolve. History shows that it's doomed to fail | Rajan Menon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/05/putin-escalating-bombing-campaign-ukrainian-resolve-russia-invasion",
+      "published_date": "2026-10-05T07:00:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Germany’s Merz pledges €1bn in military aid to Kyiv as Russia ramps up attacks",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Bosnians vote as pro-Russian politician looms large and ethnic tensions simmer",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261004-polls-open-in-bosnia-and-herzegovina-as-pro-russian-politician-looms-large-over-race",
-      "published_date": "2026-10-04T05:55:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv to increase oil refinery attacks because of Moscow’s winter strategy, Zelenskyy says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/04/ukraine-war-briefing-kyiv-to-increase-oil-refinery-attacks-because-of-moscows-winter-strategy-zelenskyy-says",
-      "published_date": "2026-10-04T01:49:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Latvia exit polls put PM's pro-Ukraine party ahead but coalition partners stumble",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble",
-      "published_date": "2026-10-03T20:58:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin's war for the history books: Dmytro Kuleba speaks to France 24",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261003-putin-s-war-for-the-history-books-dmytro-kuleba-speaks-to-france-24",
-      "published_date": "2026-10-03T18:08:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy’s Ustica enigma: Can French files solve mystery crash blamed on stray missile?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261003-italy-ustica-enigma-can-french-files-solve-mystery-crash-blamed-on-stray-missile-gaddafi",
-      "published_date": "2026-10-03T15:42:45+00:00",
-      "category": "Military"
+      "title": "Climate change driving child marriages, teen pregnancies: report",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20261005-climate-change-driving-child-marriages-teen-pregnancies-report",
+      "published_date": "2026-10-05T15:36:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pacific leaders urge climate action as UN pre-COP talks open in Fiji",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "A Green pope? Vatican describes environmental destruction as an 'ecological sin'",
+      "title": "Euro falls to 17-month low against the USD on French debt concerns",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260928-a-green-pope-vatican-describes-environmental-destruction-as-an-ecological-sin",
-      "published_date": "2026-09-28T14:19:18+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/business/20261005-euro-falls-to-17-month-low-against-the-usd-on-french-debt-concerns",
+      "published_date": "2026-10-05T20:51:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Euro falls to 17-month low against dollar amid French debt fears",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
+      "published_date": "2026-10-05T11:18:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump names Jay Clayton as AI czar to lead 'Super Intelligence Force'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261005-trump-names-jay-clayton-as-ai-czar-to-lead-super-intelligence-force",
+      "published_date": "2026-10-05T10:09:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Brazil: Lula and Bolsonaro tied in polls",
@@ -543,164 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "France’s 2027 budget plan puts pressure on local services",
+      "title": "Live: Tens of thousands expected at Paris protests as unions join students",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261001-france-s-2027-budget-plan-puts-pressure-on-local-services",
-      "published_date": "2026-10-01T13:42:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Family feud yields sour grapes at French drinks empire Castel",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261001-family-feud-yields-sour-grapes-at-french-drinks-empire-castel",
-      "published_date": "2026-10-01T12:11:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Brazil elections: Can Lula’s anti-poverty record win over voters?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261001-brazil-elections-can-lula-s-anti-poverty-record-win-over-voters",
-      "published_date": "2026-10-01T09:51:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The week in pictures: Disaster averted on Flydubai flight, French school protests and Bangkok floods",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261004-the-week-in-pictures-disaster-averted-flydubai-flight-french-school-protests-and-bangkok-floods",
-      "published_date": "2026-10-04T13:35:11+00:00",
+      "url": "https://www.france24.com/en/europe/20261006-live-tens-of-thousands-expected-at-paris-protests-as-unions-join-students",
+      "published_date": "2026-10-06T02:31:54+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Up to 500 French schools to be totally or partly closed Monday amid student protests",
+      "title": "Indian alleged mastermind of online child abuse ring goes on trial in Paris",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261004-up-to-500-french-schools-to-be-totally-or-partly-closed-monday-due-to-protests",
-      "published_date": "2026-10-04T12:50:45+00:00",
+      "url": "https://www.france24.com/en/france/20261005-indian-alleged-mastermind-of-online-child-abuse-ring-goes-on-trial-in-paris",
+      "published_date": "2026-10-05T20:15:18+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Rwandan genocide suspect 'hunter' Dafroza Gauthier dies at 72",
+      "title": "‘France has fallen’: Far-right figures fuel Islamophobic claims with false student protest videos",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261004-rwandan-genocide-hunter-dafroza-gauthier-dies-at-72",
-      "published_date": "2026-10-04T12:12:24+00:00",
+      "url": "https://www.france24.com/en/france-has-fallen-far-right-figures-fuel-islamophobic-claims-with-false-student-protest-videos-1",
+      "published_date": "2026-10-05T20:10:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
+      "title": "'We are effectively maiming young people' - expert questions France's response to student protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/we-are-effectively-maiming-young-people-expert-questions-france-s-response-to-student-protests",
+      "published_date": "2026-10-05T20:08:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sanchez chose 'best moment in a sea of troubles' to call for snap election, analyst says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sanchez-chose-best-moment-in-a-sea-of-troubles-to-call-for-snap-election-analyst-says",
+      "published_date": "2026-10-05T19:31:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian officials say 'situation under control' after plague reports",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russian-officials-say-situation-under-control-after-plague-reports",
+      "published_date": "2026-10-05T19:19:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
+      "published_date": "2026-10-05T19:17:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICC unseals arrest warrants for Taliban education ministers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261005-icc-unseals-arrest-warrants-for-taliban-education-ministers",
+      "published_date": "2026-10-05T16:16:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
-      "published_date": "2026-10-04T11:53:09+00:00",
+      "url": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
+      "published_date": "2026-10-05T15:59:30+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Israel prepares to mark October 7",
+      "title": "French high school students predict escalation of protests",
       "source": "France 24",
-      "url": "https://www.france24.com/en/israel-prepares-to-mark-october-7",
-      "published_date": "2026-10-04T10:59:38+00:00",
+      "url": "https://www.france24.com/en/video/20261005-french-high-school-students-predict-escalation-of-protests",
+      "published_date": "2026-10-05T15:57:51+00:00",
       "category": "Local Events"
     },
     {
-      "title": "France's Le Pen says has 'complete confidence' in Bardella",
+      "title": "France braces for national day of school protests as boy loses hand",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/05/schoolboy-loses-hand-police-stun-grenade-french-school-protests",
+      "published_date": "2026-10-05T15:50:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Lula’s successes in Brazil may have paved the way for his presidential defeat",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261005-how-lulas-successes-in-brazil-may-have-paved-the-way-for-his-presidential-defeat",
+      "published_date": "2026-10-05T15:21:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explained: The single ticket for French plane and train journeys",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261004/frances-le-pen-says-has-complete-confidence-in-bardella",
-      "published_date": "2026-10-04T10:07:21+00:00",
+      "url": "https://www.thelocal.fr/20261005/explained-the-single-ticket-for-french-plane-and-train-journeys",
+      "published_date": "2026-10-05T15:09:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Future of French far-right hope Bardella in balance after antisemitism claims",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261004-future-of-french-far-right-hope-bardella-in-balance-after-antisemitism-claims",
-      "published_date": "2026-10-04T09:18:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flock's AI tracking sparks privacy fears and violence",
+      "title": "French school protests continue with larger demonstrations set for Tuesday",
       "source": "France 24",
-      "url": "https://www.france24.com/en/flock-s-ai-tracking-sparks-privacy-fears-and-violence",
-      "published_date": "2026-10-04T08:23:37+00:00",
+      "url": "https://www.france24.com/en/video/20261005-french-school-protests-continue-with-larger-demonstrations-set-for-tuesday",
+      "published_date": "2026-10-05T15:03:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Incinerated novels and destroyed warehouses: Russia’s war on Ukrainian books",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
-      "published_date": "2026-10-04T05:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As students call for 'act three', can France's school protests keep momentum?",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261003-as-students-call-for-act-three-can-france-s-school-protests-keep-momentum",
-      "published_date": "2026-10-03T14:26:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘This can’t go on’: tens of thousands protest against housing crisis in Spain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-      "published_date": "2026-10-03T14:19:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters across Spain demand action over housing crisis",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T13:34:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
+      "title": "'I could feel the petrol dripping': The violent attacks that have marred France school protests",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
-      "published_date": "2026-10-03T13:20:35+00:00",
+      "url": "https://www.france24.com/en/video/20261005-i-could-feel-the-petrol-dripping-the-violent-attacks-that-have-marred-france-school-protests",
+      "published_date": "2026-10-05T15:01:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "How an 87-year-old Spanish woman became the face of the fight for affordable housing – explainer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/03/how-an-87-year-old-spanish-woman-became-the-face-of-the-fight-for-affordable-housing-explainer",
-      "published_date": "2026-10-03T13:05:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will Spain's housing crisis lead to a snap election?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T12:26:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "All hail Queen Céline as pop diva hits halfway mark in Paris comeback",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20261003-all-hail-queen-celine-dion-as-pop-diva-hits-halfway-mark-in-paris-comeback",
-      "published_date": "2026-10-03T11:06:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside France: Jordan Bardella and the elephant in the room",
+      "title": "OPINION: French high school student protests are a sign of a country in crisis",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261003/inside-france-jordan-bardella-and-the-elephant-in-the-room",
-      "published_date": "2026-10-03T09:38:29+00:00",
+      "url": "https://www.thelocal.fr/20261005/opinion-french-student-protests-are-a-sign-of-a-country-in-crisis",
+      "published_date": "2026-10-05T15:00:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Can anything politicians say at Sunday’s election stop young people from leaving Bosnia?",
+      "title": "In both France and Spain, ruling parties must prove they can give young protesters hope",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/politicians-election-young-people-leaving-bosnia-herzegovina",
-      "published_date": "2026-10-03T09:35:06+00:00",
+      "url": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same",
+      "published_date": "2026-10-05T14:55:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Barricades & the blame game: the French school protests",
+      "title": "Spain’s PM Pedro Sánchez calls snap election after housing law fails to pass",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis",
+      "published_date": "2026-10-05T14:09:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian authorities seize 377 exotic animals hidden in car at Sicily port – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/05/italian-authorities-seize-377-exotic-animals-hidden-in-car-at-sicily-port-video",
+      "published_date": "2026-10-05T14:05:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain: 'Mini-hurricane' kills at least two people in Catalonia",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests",
-      "published_date": "2026-10-03T09:25:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopia's government forces look to take regional capital from Tigray rebels",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261003-tigray-rebels-reportedly-abandon-capital-as-ethiopian-government-forces-advance",
-      "published_date": "2026-10-03T09:22:44+00:00",
+      "url": "https://www.france24.com/en/video/20261005-spain-mini-hurricane-kills-at-least-two-people-in-catalonia",
+      "published_date": "2026-10-05T13:58:00+00:00",
       "category": "Local Events"
     }
   ]
