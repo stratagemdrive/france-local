@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-10-07T02:02:02.426519+00:00",
-  "story_count": 100,
+  "last_updated": "2026-10-07T17:38:32.660389+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "France summons Iranian ambassador over 'disinformation' on student protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261007-france-summons-iranian-ambassador-over-disinformation-on-student-protests",
+      "published_date": "2026-10-07T17:23:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "🔴 Live: France summons Iranian ambassador over 'disinformation' on student protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary",
+      "published_date": "2026-10-07T15:52:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could the UK really rejoin the EU?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/07/could-the-uk-really-rejoin-the-eu",
+      "published_date": "2026-10-07T14:45:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Plant trees – and make sure they are watered | Brief letters",
       "source": "The Guardian",
@@ -123,25 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cry for help as French-Swiss lake dries up in record summer heat",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20261004-cry-for-help-as-french-swiss-lake-dries-up-in-record-summer-heat",
-      "published_date": "2026-10-04T06:18:59+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin",
+      "published_date": "2026-10-07T16:22:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "France pledges more support to fight DRC Ebola outbreak as deaths top 4,000",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261003-france-pledges-more-support-to-fight-drc-ebola-outbreak-as-deaths-top-4-000",
-      "published_date": "2026-10-03T15:58:08+00:00",
-      "category": "Diplomacy"
+      "title": "What we know about espionage, treason allegations against Germany's ex-spy chief",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261007-what-we-know-about-espionage-treason-allegations-against-germany-s-ex-spy-chief",
+      "published_date": "2026-10-07T14:06:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Culture versus climate: how global heating endangers Unesco heritage sites",
+      "title": "The secrets behind Mali junta’s takeover of Kidal without a fight",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261007-russia-backed-mali-junta-retakes-strategic-town-after-separatists-withdraw",
+      "published_date": "2026-10-07T13:55:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Great moral courage: The French thought they knew de Gaulle and suddenly realised they didn't'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261007-great-moral-courage-the-french-thought-they-knew-de-gaulle-and-suddenly-realized-they-didn-t",
+      "published_date": "2026-10-07T13:36:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Devastation in Gaza: Three years of war reshape the enclave beyond recognition",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261007-devastation-in-gaza-three-years-of-war-reshape-the-enclave-beyond-recognition",
+      "published_date": "2026-10-07T13:17:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "October 7, hour by hour: How the Hamas attack on Israel unfolded",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261007-october-7-hour-by-hour-how-the-hamas-attack-on-israel-unfolded",
+      "published_date": "2026-10-07T13:15:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three years after October 7 attacks, Israel's economy shows its strength",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261007-three-years-after-october-7-attacks-israel-s-economy-shows-its-strength",
+      "published_date": "2026-10-07T12:30:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Malian army retakes strategic city of Kidal after Tuareg separatists withdraw",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20261003-culture-versus-climate-how-global-heating-endangers-unesco-world-heritage-sites",
-      "published_date": "2026-10-03T06:44:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20261007-malian-army-retakes-strategic-city-of-kidal-after-tuareg-separatists-withdraw",
+      "published_date": "2026-10-07T12:19:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Politkovskaya 'predicted' Russia's turn under Putin, editor says on 20th anniversary of her death",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261007-anna-politkovskaya-the-slain-reporter-who-predicted-russia-future",
+      "published_date": "2026-10-07T08:32:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Shell expects refineries to almost double the profit from every barrel of fuel made",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/07/shell-refineries-forecast-to-make-double-the-profit-from-every-barrel-of-fuel",
+      "published_date": "2026-10-07T08:30:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three years on from the 7 October attacks, war has redrawn the map of Palestine",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261007-three-years-on-from-the-7-october-attacks-war-has-redrawn-the-map-of-palestine",
+      "published_date": "2026-10-07T06:08:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Former German spy chief detained over suspected treasonous espionage",
@@ -204,83 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war",
       "published_date": "2026-10-06T15:38:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Busification': Inside Ukraine’s controversial recruitment practices",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261006-busification-inside-ukraine-s-controversial-recruitment-practices",
-      "published_date": "2026-10-06T14:19:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian drones kill two, hit fuel hub in one of biggest attacks on Moscow region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261006-ukrainian-drones-kill-two-hit-fuel-hub-in-one-of-biggest-attacks-on-moscow-region",
-      "published_date": "2026-10-06T14:07:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tigray students relocated by conflict say fled forced conscription",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261006-tigray-students-relocated-by-conflict-say-fled-forced-conscription",
-      "published_date": "2026-10-06T12:29:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T11:53:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France test-fires new nuclear-capable missile, says defence ministry",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261006/france-test-fires-new-nuclear-capable-missile-says-defence-ministry",
-      "published_date": "2026-10-06T11:05:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bulgaria searches for missing crew as drones hit two Black Sea ships",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261006-bulgaria-searches-for-missing-crew-as-drones-hit-two-more-black-sea-ships",
-      "published_date": "2026-10-06T10:24:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former German spy chief arrested for espionage and treason",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T10:05:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France earmarks a further €7m to help fight DRC's worst-ever Ebola crisis",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261006-france-earmarks-a-further-%E2%82%AC7m-to-help-fight-drc-s-worst-ever-ebola-crisis",
-      "published_date": "2026-10-06T09:52:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T09:48:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon joined by UK and France for three weeks of joint military drills",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261006-lebanon-joined-by-britain-france-for-three-weeks-of-joint-military-drills",
-      "published_date": "2026-10-06T06:34:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine hits Moscow with one of its largest drone attacks in two years",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261006-massive-ukrainian-drone-attack-targets-moscow-russian-officials-say",
-      "published_date": "2026-10-06T06:11:43+00:00",
       "category": "Military"
     },
     {
@@ -410,18 +410,25 @@
       "category": "Energy"
     },
     {
-      "title": "Climate change reshaping the polar oceans, says report",
+      "title": "African tourists cancelling trip as xenophobia shadows South Africa's appeal",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20260930-climate-change-reshaping-the-polar-oceans-says-report",
-      "published_date": "2026-09-30T16:53:09+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20261007-african-tourists-cancelling-trip-as-xenophobia-shadows-south-africa-s-appeal",
+      "published_date": "2026-10-07T14:22:11+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Tom Cruise's 'Digger' divides critics as Zurich Film Festival stars steal the spotlight",
+      "title": "New Comoros law bans foreign nationals from certain jobs",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260930-tom-cruise-s-digger-divides-critics-as-zurich-film-festival-stars-steal-the-spotlight",
-      "published_date": "2026-09-30T14:47:46+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20261007-new-comoros-law-bans-foreign-nationals-from-certain-jobs",
+      "published_date": "2026-10-07T14:17:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From Mai 68 to 2026: France’s long student protests tradition",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261007-from-mai-68-to-2026-france-s-long-student-protests-tradition",
+      "published_date": "2026-10-07T13:57:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Kenya reports first-ever Ebola death",
@@ -543,164 +550,143 @@
       "category": "Economy"
     },
     {
-      "title": "Brazil’s Lula gears up for ‘last dance’ with run for fourth presidential term",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261002-brazil-s-lula-gears-up-for-last-dance-with-run-for-fourth-presidential-term",
-      "published_date": "2026-10-02T16:20:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Brazil: The craze for candidate merch ahead of elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261002-brazil-the-craze-for-candidate-merch-ahead-of-elections",
-      "published_date": "2026-10-02T15:17:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Paraguay, a tax and political haven for Brazil's far right",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/reporters/20261002-paraguay-a-tax-and-political-haven-for-brazil-s-far-right",
-      "published_date": "2026-10-02T12:48:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Haiti postpones elections indefinitely as gang violence hampers preparations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261007-haiti-postpones-elections-indefinitely-as-gang-violence-hampers-preparations",
-      "published_date": "2026-10-07T01:06:11+00:00",
+      "title": "Minister denies police brutality as student protests continue across France – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates",
+      "published_date": "2026-10-07T17:34:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+      "title": "France suspends the use of stun grenades after student protester loses hand",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261007-france-suspends-the-use-of-stun-grenades-after-student-protester-loses-hand",
+      "published_date": "2026-10-07T17:05:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What France's student protesters want – and what the government is offering",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261007-what-france-s-student-protesters-want-%E2%80%93-and-what-the-government-is-offering",
+      "published_date": "2026-10-07T16:41:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T21:22:22+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-07T16:41:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "French policeman charged after firing tear gas grenade at high school student",
+      "title": "France: Government suspends stun grenade use in school protests",
       "source": "France 24",
-      "url": "https://www.france24.com/en/french-policeman-charged-after-firing-tear-gas-grenade-at-high-school-student",
-      "published_date": "2026-10-06T21:04:02+00:00",
+      "url": "https://www.france24.com/en/video/20261007-france-government-suspends-stun-grenade-use-in-school-protests",
+      "published_date": "2026-10-07T16:15:54+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Calls to block social media platforms for minors in France amid school protests",
+      "title": "French police suspend use of stun grenades after high school protester loses hand",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
+      "published_date": "2026-10-07T16:12:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explosion in Kyiv as Russian missiles strike across Ukraine – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/07/explosion-in-kyiv-as-russian-missiles-strike-across-ukraine-video",
+      "published_date": "2026-10-07T15:44:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brit adventurer back on UK soil after 28-year round-the-world walk",
       "source": "France 24",
-      "url": "https://www.france24.com/en/calls-to-block-social-media-platforms-for-minors-in-france-amid-school-protests",
-      "published_date": "2026-10-06T19:47:23+00:00",
+      "url": "https://www.france24.com/en/video/20261007-brit-adventurer-back-on-uk-soil-after-28-year-round-the-world-walk",
+      "published_date": "2026-10-07T14:19:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "'We're fed up': Paris students rise up in a movement that shows no sign of slowing",
+      "title": "'Airbnb crackdown is working' say French officials in Marseille",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261007/airbnb-crackdown-is-working-say-french-officials-in-marseille",
+      "published_date": "2026-10-07T14:03:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayor of Turkish opposition stronghold defects to Erdoğan’s party amid political crackdown",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/07/cemil-tugay-mayor-izmir-defects-akp-erdogan-turkey",
+      "published_date": "2026-10-07T13:54:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why American artist Mary Cassatt's legacy still resonates in France today",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261006-we-re-fed-up-paris-students-rise-up-in-a-movement-that-shows-no-sign-of-slowing",
-      "published_date": "2026-10-06T19:41:11+00:00",
+      "url": "https://www.france24.com/en/tv-shows/entre-nous/20261007-why-american-artist-mary-cassatt-s-legacy-still-resonates-in-france-today",
+      "published_date": "2026-10-07T13:52:42+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Students, unions and teachers in mass movement to demand better learning conditions",
+      "title": "China's evolving funeral practices: From traditional burials to cremation",
       "source": "France 24",
-      "url": "https://www.france24.com/en/students-unions-and-teachers-in-mass-movement-to-demand-better-learning-conditions",
-      "published_date": "2026-10-06T19:39:39+00:00",
+      "url": "https://www.france24.com/en/tv-shows/focus/20261007-china-s-evolving-funeral-practices-from-traditional-burials-to-cremation",
+      "published_date": "2026-10-07T13:39:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "French PM slams violence at student protests, promises 'timeout' for democracy",
+      "title": "French parents join school protests to support and protect their children",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261007-french-parents-join-school-protests-to-support-and-protect-their-children",
+      "published_date": "2026-10-07T13:22:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Now is the moment’: housing activists at Madrid encampment pin wary hopes on Spain’s early election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/07/housing-activists-madrid-encampment-hopes-spain-early-election",
+      "published_date": "2026-10-07T12:43:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PODCAST 🎧: 'On the brink' - Why French high school revolt is not the country's only problem",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261007/podcast-on-the-brink-why-french-high-school-revolt-is-not-the-countrys-only-problem",
+      "published_date": "2026-10-07T10:16:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: Relax, mum, France isn't in flames it's just a bin on fire",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261007/opinion-relax-mum-france-isnt-in-flames-its-just-a-bin-on-fire",
+      "published_date": "2026-10-07T09:14:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘The nurse used the torch on her phone to do the op’: hospitals stripped of resources in Ukraine’s occupied territories",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/07/the-nurse-used-the-torch-on-her-phone-to-do-the-op-hospitals-stripped-of-resources-in-ukraines-occupied-territories",
+      "published_date": "2026-10-07T08:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LATEST: France suspends use of stun grenades at student protests as schools remain closed",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261007/latest-france-suspends-use-of-stun-grenades-at-student-protests-as-schools-remain-closed",
+      "published_date": "2026-10-07T07:51:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nicolas Ghesquière takes us into the future for Louis Vuitton show in Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/fashion/2026/oct/07/louis-vuitton-nicolas-ghesquiere-futuristic-show-paris-fashion-week",
+      "published_date": "2026-10-07T07:49:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Argentina boss Scaloni salutes 'inimitable' Messi after maestro's final game",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261006-french-pm-slams-violence-at-student-protests-promises-timeout-for-democracy",
-      "published_date": "2026-10-06T19:30:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France erupts overs schools: Why the violence surrounding surprise movement?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261006-france-erupts-overs-schools-why-the-violence-surrounding-surprise-movement",
-      "published_date": "2026-10-06T19:12:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of dachshunds march down the Champs-Élysées during Paris fashion week – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/fashion/video/2026/oct/06/hundreds-of-dachshunds-march-down-the-champs-elysees-during-paris-fashion-week-video",
-      "published_date": "2026-10-06T18:03:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clashes in France as 250,000 people join high school protests – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/06/europe-french-school-protests-paris-germany-afd-bulgaria-drones-russia-ukraine-latest-news-updates",
-      "published_date": "2026-10-06T16:52:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
-      "published_date": "2026-10-06T16:23:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of thousands demand better education in demonstrations across France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261006-tens-of-thousands-demand-better-education-in-demonstrations-across-france",
-      "published_date": "2026-10-06T16:04:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Tense' atmosphere as tens of thousands join French student protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261006-tense-atmosphere-as-tens-of-thousands-join-french-student-protests",
-      "published_date": "2026-10-06T16:02:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris Fashion Week: Nicole Kidman, Dua Lipa and Rihanna light up the front row",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20261006-paris-fashion-week-nicole-kidman-dua-lipa-and-rihanna-light-up-the-front-row",
-      "published_date": "2026-10-06T15:56:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: At the scene of student protests in Lille",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T15:02:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French students: What do they want?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20261006-french-students-what-do-they-want",
-      "published_date": "2026-10-06T14:16:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopia 'fears Tigray conflict could get out of control'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261006-ethiopia-fears-tigray-conflict-could-get-out-of-control",
-      "published_date": "2026-10-06T14:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India opposition parties rally for election chief’s exit over voter list changes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261006-india-opposition-parties-rally-for-election-chief-s-exit-over-voter-list-changes",
-      "published_date": "2026-10-06T14:06:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'They Stole a City' author Lauren Collins on how Wilmington coup was 'covered up'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20261006-they-stole-a-city-author-lauren-collins-on-how-wilmington-coup-was-covered-up",
-      "published_date": "2026-10-06T13:53:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How dilapidated are French schools and how bad is inequality in the education system?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/06/how-dilapidated-french-schools-inequality-education-system-protests",
-      "published_date": "2026-10-06T13:52:02+00:00",
+      "url": "https://www.rfi.fr/en/sports/20261007-argentina-boss-scaloni-salutes-inimitable-messi-after-maestro-s-final-game",
+      "published_date": "2026-10-07T06:31:43+00:00",
       "category": "Local Events"
     }
   ]
