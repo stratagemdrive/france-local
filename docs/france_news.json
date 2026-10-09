@@ -1,6 +1,6 @@
 {
   "country": "France",
-  "last_updated": "2026-10-08T17:40:57.483721+00:00",
+  "last_updated": "2026-10-09T02:43:45.305992+00:00",
   "story_count": 95,
   "stories": [
     {
@@ -144,6 +144,41 @@
       "category": "Diplomacy"
     },
     {
+      "title": "US files new torture charges against  Venezuela's Nicolas Maduro and wife Cilia Flores",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261008-us-files-new-torture-charges-venezuela-nicolas-maduro-cilia-flores",
+      "published_date": "2026-10-08T23:56:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "OpenAI bans Russian, Iranian ChatGPT propaganda networks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/technology/20261008-openai-bans-russian-iranian-chatgpt-propaganda-networks",
+      "published_date": "2026-10-08T23:42:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fort Hood shooter’s firing squad execution to be livestreamed, Pentagon says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon",
+      "published_date": "2026-10-08T22:01:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump envoys, European officials to discuss ‘new ideas’ for Ukraine peace in Miami",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261008-trump-envoys-ukraine-peace-talks-miami",
+      "published_date": "2026-10-08T21:19:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Black sea and black ops: How exposed is Europe to Ukraine war spillover?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261008-black-sea-and-black-ops-how-exposed-is-europe-to-ukraine-war-spillover",
+      "published_date": "2026-10-08T20:42:28+00:00",
+      "category": "Military"
+    },
+    {
       "title": "The Russian-occupied town in Ukraine facing starvation",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261008-the-russian-occupied-town-in-ukraine-facing-starvation",
@@ -246,41 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-07T18:12:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US top diplomat Rubio says West must choose ‘national power’ or decline",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261007-rubio-says-west-must-choose-between-national-power-or-decline",
-      "published_date": "2026-10-07T17:57:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Resilience' of Israelis as they mourn the loss of loved ones and 'the sense that we can be safe'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261007-resilience-of-israelis-as-they-the-mourn-loss-of-loved-ones-and-the-sense-that-we-can-be-safe",
-      "published_date": "2026-10-07T17:46:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German court orders detention of former intelligence chief after spying arrest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/07/germany-court-august-hanning-spying-arrest-detention-bnd",
-      "published_date": "2026-10-07T17:03:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin",
-      "published_date": "2026-10-07T16:22:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What we know about espionage, treason allegations against Germany's ex-spy chief",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261007-what-we-know-about-espionage-treason-allegations-against-germany-s-ex-spy-chief",
-      "published_date": "2026-10-07T14:06:59+00:00",
       "category": "Military"
     },
     {
@@ -529,6 +529,27 @@
       "category": "Economy"
     },
     {
+      "title": "Spain mourns Maricarmen Abascal, whose eviction sparked housing protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/spain-mourns-maricarmen-abascal-whose-eviction-sparked-housing-protests",
+      "published_date": "2026-10-08T20:35:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Nothing will stop us’: French student protests show few signs of ending",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261008-nothing-will-stop-us-french-student-protests-show-few-signs-of-ending",
+      "published_date": "2026-10-08T20:22:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Fighting for our future': France high school students vow no let-up",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/fighting-for-our-future-france-high-school-students-vow-no-let-up",
+      "published_date": "2026-10-08T20:17:01+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "French students continue protests, saying ministers’ pledges not enough",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue",
@@ -645,27 +666,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/africa/20261008-united-states-accused-of-exploiting-migrant-suffering-with-africa-deportations",
       "published_date": "2026-10-08T11:14:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evicted pensioner Maricarmen, symbol of Spain's housing crisis, dies at 87",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20261008-evicted-pensioner-maricarmen-symbol-of-spain-s-housing-crisis-dies-at-87",
-      "published_date": "2026-10-08T10:35:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 30 killed in Russian strike on buses in Ukraine's Kramatorsk as Kyiv targets data centre",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261008-russian-strike-buses-kills-at-least-12-ukraine-kramatorsk-kyiv-targets-data-centre",
-      "published_date": "2026-10-08T10:08:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court of Arbitration for Sport convenes to rule on 2025 AFCON champions",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20261008-court-of-arbitration-for-sport-convenes-to-rule-on-2025-afcon-champions",
-      "published_date": "2026-10-08T08:08:17+00:00",
       "category": "Local Events"
     }
   ]
