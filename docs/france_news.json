@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-10-09T17:16:17.933453+00:00",
+  "last_updated": "2026-10-10T02:02:33.170749+00:00",
   "story_count": 95,
   "stories": [
+    {
+      "title": "Navi Pillay awarded Peace Prize: 'Lifetime spent fighting for what's right & to uphold human rights'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/navi-pillay-awarded-peace-prize-lifetime-spent-fighting-for-what-s-right-to-uphold-human-rights",
+      "published_date": "2026-10-09T17:27:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hunger and disease spread in Yemen as Houthi and government forces clash",
       "source": "RFI English",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "🔴 Live: France summons Iranian ambassador over 'disinformation' on student protests",
+      "title": "Ukraine war briefing: Kyiv blasts peace talks as just ‘smokescreen’ for Trump‘s Russian diesel deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-war-briefing-trumps-russian-diesel-deal-derided-as-weak-and-a-betrayal-of-ukraine-and-us-national-security",
+      "published_date": "2026-10-10T01:31:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
+      "published_date": "2026-10-09T23:39:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary",
-      "published_date": "2026-10-07T15:52:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
+      "published_date": "2026-10-09T20:00:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France Protests, Israel's 'politically charged' remembrance, Ethopia, Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine",
+      "published_date": "2026-10-09T18:28:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Pro-Kremlin Russian military blogger Mikhail Zvinchuk arrested in Montenegro",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Two Latvian men arrested at UK base housing US and NATO intelligence hubs",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261008-two-latvian-men-arrested-at-uk-base-housing-us-and-nato-intelligence-hubs",
-      "published_date": "2026-10-08T16:57:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Podcast: AI in France, translators fight back, musicians' mentor",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-france/20261008-podcast-artificial-intelligence-france-translators-fight-back-musicians-teacher-nadia-boulanger",
-      "published_date": "2026-10-08T16:31:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "30 dead in strike on Ukraine bus as Russian attacks intensify",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261008-30-dead-in-strike-on-ukraine-bus-as-russian-attacks-intensify",
-      "published_date": "2026-10-08T13:44:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Conflict in Yemen: What are the Houthis’ aims?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261008-conflict-in-yemen-what-are-the-houthis-aims",
-      "published_date": "2026-10-08T12:52:30+00:00",
-      "category": "Military"
-    },
-    {
       "title": "How to switch electricity, gas, phone or internet supplier in France",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20261009/how-to-switch-electricity-gas-phone-or-internet-supplier-in-france",
@@ -387,6 +387,13 @@
       "url": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
       "published_date": "2026-10-03T14:31:30+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Italy's biggest-ever wine heist",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261009-italy-s-biggest-ever-wine-heist",
+      "published_date": "2026-10-09T20:08:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "China agrees to ‘halve’ hybrid car exports to EU in landmark deal",
@@ -522,11 +529,18 @@
       "category": "Economy"
     },
     {
-      "title": "Le Pen vows drastic cost savings to prevent French 'default'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261006/le-pen-vows-drastic-cost-savings-to-prevent-french-default",
-      "published_date": "2026-10-06T11:21:21+00:00",
-      "category": "Economy"
+      "title": "South African judge awarded Nobel Peace Prize",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize",
+      "published_date": "2026-10-09T21:53:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris court jails Indian man for leading sadist neo-Nazi cult that tortured girls",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261009-paris-court-jails-indian-man-for-leading-sadist-neo-nazi-cult-that-tortured-girls",
+      "published_date": "2026-10-09T19:45:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Unweaving Jeffrey Epstein’s web: What the files have revealed",
@@ -554,6 +568,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20261009-le-pen-top-ally-bardella-faces-fresh-claims-he-sought-to-cover-up-past-anti-semitic-comments",
       "published_date": "2026-10-09T15:53:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French students vow to keep up protests as UN voices 'concern' over violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261009-french-students-vow-to-keep-up-protests-as-un-voices-concern-over-violence",
+      "published_date": "2026-10-09T15:37:42+00:00",
       "category": "Local Events"
     },
     {
@@ -645,27 +666,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/09/school-protest-france-students-political-class",
       "published_date": "2026-10-09T11:48:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France promises 3,000 extra teachers in first step to calm student protests",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-09T11:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa's Navi Pillay wins 2026 Nobel Peace Prize",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize",
-      "published_date": "2026-10-09T09:03:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US targets Microsoft, Adobe in new visa crackdown",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261009-us-targets-microsoft-adobe-in-new-visa-crackdown",
-      "published_date": "2026-10-09T08:50:43+00:00",
       "category": "Local Events"
     }
   ]
