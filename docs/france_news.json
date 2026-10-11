@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-10-11T01:31:43.813459+00:00",
-  "story_count": 94,
+  "last_updated": "2026-10-11T16:29:07.997624+00:00",
+  "story_count": 92,
   "stories": [
+    {
+      "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts warn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
+      "published_date": "2026-10-11T15:56:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Proposed EU budget cut back in search for Christmas deal",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261011/proposed-eu-budget-cut-back-in-search-for-christmas-deal",
+      "published_date": "2026-10-11T15:17:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France: Can the left unite behind a single candidate?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261011-france-can-the-left-unite-behind-a-single-candidate",
+      "published_date": "2026-10-11T14:41:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Strike on Riyadh: Trump signals US could join action against Houthis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261011-strike-on-riyadh-trump-signals-us-could-join-action-against-houthis",
+      "published_date": "2026-10-11T14:34:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Western leaders slam Houthi attack on Riyadh airport, warn citizens to stay away",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261011-western-leaders-slam-houthi-attack-on-riyadh-airport-warn-citizens-to-stay-away",
+      "published_date": "2026-10-11T10:43:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French President Macron's popularity lowest since taking office: poll",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261011/french-president-macrons-popularity-lowest-since-taking-office-poll",
+      "published_date": "2026-10-11T10:27:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump, Zelensky clash over diesel deal as Russian strikes kill 21",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21",
+      "published_date": "2026-10-11T10:10:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump urges Zelensky replacement as diesel row rages",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261011-trump-urges-zelensky-replacement-as-diesel-row-rages",
+      "published_date": "2026-10-11T09:21:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "SPOTLIGHT",
       "source": "France 24",
@@ -88,60 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hunger and disease spread in Yemen as Houthi and government forces clash",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261009-hunger-and-disease-spread-in-yemen-as-houthi-and-government-forces-clash",
-      "published_date": "2026-10-09T16:03:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU's Covid recovery fund was 'absolutely a success': European Court of Auditors' Pierre Moscovici",
+      "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261009-eu-s-covid-recovery-fund-was-absolutely-a-success-european-court-of-auditors-pierre-moscovici",
-      "published_date": "2026-10-09T15:51:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
+      "published_date": "2026-10-11T16:04:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "2026 Nobel Peace Prize: Who is Navanethem “Navi” Pillay?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261009-2026-nobel-peace-prize-who-is-navanethem-navi-pillay",
-      "published_date": "2026-10-09T15:47:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "International Criminal Court faces 'test of resilience' as US imposes sweeping sanctions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261009-international-criminal-court-faces-test-of-resilience-as-us-imposes-sweeping-sanctions",
-      "published_date": "2026-10-09T15:19:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
+      "title": "Donald Tusk says man accused of plotting to kill him detained",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
-      "published_date": "2026-10-09T15:07:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
+      "published_date": "2026-10-11T16:01:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Falling test scores in schools startle EU countries: Why are standards going down?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261009-falling-test-scores-in-schools-startle-eu-countries-why-are-standards-going-down",
-      "published_date": "2026-10-09T15:03:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
+      "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
-      "published_date": "2026-10-09T13:31:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+      "published_date": "2026-10-11T15:56:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU denies US pressure behind withdrawal from disinformation conference",
+      "title": "🔴 Trump says Russia and Ukraine agree to 'energy ceasefire'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire",
+      "published_date": "2026-10-11T14:41:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Russia, Ukraine agree to energy ceasefire – 'news for me', Zelensky says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire",
+      "published_date": "2026-10-11T14:39:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘A life-or-death race’: the volunteers protecting Kyiv’s skies from new jet-powered drones",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/11/volunteers-protecting-kyiv-new-jet-powered-drones",
+      "published_date": "2026-10-11T11:00:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Ukraine needs new president who will agree to end war",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war",
+      "published_date": "2026-10-11T10:28:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
+      "published_date": "2026-10-11T10:03:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Going bankrupt': Iran shopkeepers struggle as war dims demand",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261011-going-bankrupt-iran-shopkeepers-struggle-as-war-dims-demand",
+      "published_date": "2026-10-11T09:22:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Stab to the heart’: arrest of German ex-spymaster sparks calls for reform",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/11/stab-to-the-heart-arrest-of-german-ex-spymaster-sparks-calls-for-reform",
+      "published_date": "2026-10-11T05:00:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian Mahmoud Abu Hamda wins top photography prize at Bayeux",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261009-eu-denies-us-pressure-behind-withdrawal-from-disinformation-conference",
-      "published_date": "2026-10-09T11:53:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20261010-palestinian-mahmoud-abu-hamda-wins-top-photography-prize-at-bayeux",
+      "published_date": "2026-10-10T19:49:48+00:00",
+      "category": "Military"
     },
     {
       "title": "War in Ukraine: Russian strikes kill 15, including a young girl",
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "US, Europe and Ukraine hold 'constructive discussions' on joint plan to end war",
+      "title": "Ukraine says ready to halt refinery strikes if Moscow stops energy attacks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261010-us-ukrainians-europeans-discuss-new-ideas-to-end-war-diesel",
-      "published_date": "2026-10-10T07:47:39+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says",
+      "published_date": "2026-10-11T10:21:07+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-10T04:51:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv blasts peace talks as just ‘smokescreen’ for Trump‘s Russian diesel deal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-war-briefing-trumps-russian-diesel-deal-derided-as-weak-and-a-betrayal-of-ukraine-and-us-national-security",
-      "published_date": "2026-10-10T01:31:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
-      "published_date": "2026-10-09T23:39:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
-      "published_date": "2026-10-09T20:00:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France Protests, Israel's 'politically charged' remembrance, Ethopia, Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine",
-      "published_date": "2026-10-09T18:28:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pro-Kremlin Russian military blogger Mikhail Zvinchuk arrested in Montenegro",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/09/russian-military-blogger-mikhail-zvinchuk-rybar-arrested-montenegro",
-      "published_date": "2026-10-09T16:10:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lawsuits blame Fox News for deaths of journalists in Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/scoop/20261009-lawsuits-blame-fox-news-for-deaths-of-journalists-in-ukraine",
-      "published_date": "2026-10-09T14:23:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Niger intelligence agents expelled from France in sign of diplomatic strain",
+      "title": "Climate lawsuits gain ground as governments scale back climate action",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261009-niger-intelligence-agents-expelled-from-france-in-sign-of-diplomatic-strain",
-      "published_date": "2026-10-09T14:05:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sierra Leone: From 'blood diamonds' to stones of hope?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/revisited/20261009-sierra-leone-from-blood-diamonds-to-stones-of-hopen",
-      "published_date": "2026-10-09T13:58:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "No, the French army did not deploy tanks against protesting students",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261009-no-the-french-army-did-not-deploy-tanks-against-protesting-students",
-      "published_date": "2026-10-09T12:49:32+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/environment/20261011-climate-lawsuits-gain-ground-as-governments-scale-back-climate-action",
+      "published_date": "2026-10-11T07:52:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
@@ -354,32 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "What is fuelling French school protests?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261004/what-is-fuelling-french-school-protests",
-      "published_date": "2026-10-04T15:00:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "France struggles to fund farm climate adaptation as losses mount",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261004-france-struggles-to-fund-farm-climate-adaptation-as-losses-mount",
-      "published_date": "2026-10-04T13:33:42+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Yemen’s Houthis claim attacks on Aramco facilities in Riyadh",
+      "title": "Pope Leo says he will undergo surgery for small growth on lung",
       "source": "France 24",
-      "url": "https://www.france24.com/en/yemen-s-houthis-claim-attacks-on-aramco-facilities-in-riyadh",
-      "published_date": "2026-10-04T08:21:37+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20261011-pope-leo-says-he-will-undergo-surgery-for-small-growth-on-lung",
+      "published_date": "2026-10-11T15:17:39+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Récépissés, medical reimbursements, and October festivals: 6 essential articles for life in France",
+      "title": "On the Agenda: What’s happening in France this week",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261004/recepisses-medical-reimbursements-and-october-festivals-6-essential-articles-for-life-in-france",
-      "published_date": "2026-10-04T07:46:24+00:00",
-      "category": "Energy"
+      "url": "https://www.thelocal.fr/20261011/on-the-agenda-whats-happening-in-france-this-week-231",
+      "published_date": "2026-10-11T08:47:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "French astronaut recounts 'astonishing' emotions after return to Earth",
@@ -508,18 +508,81 @@
       "category": "Economy"
     },
     {
-      "title": "Unemployment and the rise of the Nazis | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/06/unemployment-and-the-rise-of-the-nazis",
-      "published_date": "2026-10-06T16:55:55+00:00",
-      "category": "Economy"
+      "title": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
+      "published_date": "2026-10-11T16:08:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Norwegian princess Märtha Louise and husband sue ex-friends for ‘betrayal of trust’",
+      "title": "Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
+      "published_date": "2026-10-11T16:07:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strike on Riyadh: What options for the Saudi-led coalition?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261011-strike-on-riyadh-what-options-for-the-saudi-led-coalition",
+      "published_date": "2026-10-11T14:39:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week in pictures: French student protests, October 7 anniversary and Adenot's return to Earth",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261011-the-week-in-pictures-french-student-protests-october-7-anniversary-and-adenot-return-to-earth",
+      "published_date": "2026-10-11T13:17:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil's Lula accuses social media giant Meta of election interference amid tight run-off campaign",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign",
+      "published_date": "2026-10-11T13:12:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France boss Zidane generates 'electric atmosphere' with Nations League wins",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20261011-france-boss-zidane-emerges-from-nations-league-fortnight-sending-out-good-vibes",
+      "published_date": "2026-10-11T12:20:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "People smugglers are still profiting from small boats. Can the UK fix the crisis?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/norway-princess-martha-louise-husband-durek-verrett-lawsuit-defamation-los-angeles",
-      "published_date": "2026-10-06T13:59:17+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/oct/11/people-smugglers-profit-small-boats-can-uk-fix-crisis",
+      "published_date": "2026-10-11T12:00:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Irish Olympic swimming coach and child abuser George Gibney to be sentenced",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/11/george-gibney-former-irish-olympic-swimming-coach-to-be-sentenced",
+      "published_date": "2026-10-11T09:38:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tickets to ride, midterm voting, and wine: 6 essential articles for life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261011/tickets-to-ride-midterm-voting-and-wine-6-essential-articles-for-life-in-france",
+      "published_date": "2026-10-11T08:48:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish PM Sanchez kicks off election campaign amid housing crisis protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261011-spanish-pm-sanchez-kicks-off-election-campaign-amid-housing-crisis-protests",
+      "published_date": "2026-10-11T07:46:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France’s other schools problem – the teens violently smashing up their old primaries: ‘They think it’s not worthy of respect – so they trash it’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/11/france-violent-attacks-trashings-schools-teenagers",
+      "published_date": "2026-10-11T05:00:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "At least twelve killed, multiple people wounded in attack on Riyadh airport",
@@ -582,83 +645,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-10T14:58:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lens see off Lyon as Ligue 1 season resumes after international break",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20261010-lens-see-off-lyon-as-ligue-1-season-resumes-after-international-break",
-      "published_date": "2026-10-10T14:10:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump, Zelensky clash over diesel deal as Russian strikes on Ukraine kill 21, including children",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261010-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-on-ukraine-kill-21-including-children",
-      "published_date": "2026-10-10T13:39:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man jailed in France for leading sadist Nazi cult that tortured girls",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261010/indian-jailed-in-france-for-leading-sadist-nazi-cult-that-tortured-girls",
-      "published_date": "2026-10-10T12:13:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens injured and buildings damaged as tornadoes hit Sicily",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
-      "published_date": "2026-10-10T11:00:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hunger and malnutrition stalk Gazans, a year on from ceasefire",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261010-hunger-and-malnutrition-stalk-gazans-a-year-on-from-ceasefire",
-      "published_date": "2026-10-10T11:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Powerful tornado in western Sicily leaves trail of devastation – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/10/powerful-tornado-in-western-sicily-leaves-trail-of-devastation-video",
-      "published_date": "2026-10-10T10:36:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Severe injuries at French student protests draw scrutiny to police tactics",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261010-injuries-french-student-protests-draw-scrutiny-to-police-tactics",
-      "published_date": "2026-10-10T10:20:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Angry French students take to the streets. British students don’t – and I think I know why | Kitty Sayers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/10/angry-french-students-protests-british-dont-why",
-      "published_date": "2026-10-10T09:45:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Navanethem 'Navi' Pillay wins the Nobel Peace Prize",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize",
-      "published_date": "2026-10-10T09:25:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India's 'cockroach' movement: \"This is unprecedented\"",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261010-india-s-cockroach-movement-this-is-unprecedented",
-      "published_date": "2026-10-10T09:20:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India detains 'cockroach' leaders ahead of election protest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261010-india-detains-cockroach-leaders-ahead-of-election-protest",
-      "published_date": "2026-10-10T09:18:11+00:00",
       "category": "Local Events"
     }
   ]
