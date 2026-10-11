@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-10-10T16:04:47.330311+00:00",
-  "story_count": 95,
+  "last_updated": "2026-10-11T01:31:43.813459+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "SPOTLIGHT",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261010-spotlight",
+      "published_date": "2026-10-10T18:22:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Death penalty: Why are executions increasing worldwide?",
       "source": "France 24",
@@ -134,13 +141,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/international/20261009-eu-denies-us-pressure-behind-withdrawal-from-disinformation-conference",
       "published_date": "2026-10-09T11:53:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T16:23:09+00:00",
       "category": "Diplomacy"
     },
     {
@@ -382,13 +382,6 @@
       "category": "Energy"
     },
     {
-      "title": "The ancient African rice that could help farmers grapple with climate change",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20261003-ancient-african-rice-could-help-farmers-face-a-hotter-world-oryza-glaberrima-nanjing-agricultural-university",
-      "published_date": "2026-10-03T16:11:15+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "French astronaut recounts 'astonishing' emotions after return to Earth",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/science-and-technology/20261010-french-astronaut-recounts-astonishing-emotions-after-return-to-earth",
@@ -529,6 +522,48 @@
       "category": "Economy"
     },
     {
+      "title": "At least twelve killed, multiple people wounded in attack on Riyadh airport",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
+      "published_date": "2026-10-10T18:03:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Convicted murderer Christa Pike leaves hospital, returns to prison after botched execution",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261010-convicted-murderer-christa-pike-leaves-hospital-returns-to-prison-after-botched-execution",
+      "published_date": "2026-10-10T17:41:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man narrowly escapes drone strike on playground in Kyiv – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global/video/2026/oct/10/man-narrowly-escapes-drone-strike-on-playground-in-kyiv-video",
+      "published_date": "2026-10-10T17:06:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India protests: New 'cockroach' movement leader named",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261010-india-protests-new-cockroach-movement-leader-named",
+      "published_date": "2026-10-10T16:14:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa: Anti-migrant unrest flares in Durban",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban",
+      "published_date": "2026-10-10T16:12:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenya: Ebola tests negative as contact tracing continues",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261010-kenya-ebola-tests-negative-as-contact-tracing-continues",
+      "published_date": "2026-10-10T16:10:53+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "India detains thousands, locks down Delhi to foil election chief protest",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261010-india-detains-thousands-locks-down-delhi-to-foil-election-chief-protest",
@@ -554,6 +589,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/sports/20261010-lens-see-off-lyon-as-ligue-1-season-resumes-after-international-break",
       "published_date": "2026-10-10T14:10:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump, Zelensky clash over diesel deal as Russian strikes on Ukraine kill 21, including children",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261010-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-on-ukraine-kill-21-including-children",
+      "published_date": "2026-10-10T13:39:42+00:00",
       "category": "Local Events"
     },
     {
@@ -617,55 +659,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261010-india-detains-cockroach-leaders-ahead-of-election-protest",
       "published_date": "2026-10-10T09:18:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Scientists conduct microgravity experiments on parabolic flights",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261010-france-scientists-conduct-microgravity-experiments-on-parabolic-flights",
-      "published_date": "2026-10-10T09:15:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside France: Burning bins and smart slogans at French student protests",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261010/inside-france-burning-bins-and-smart-slogans-at-french-student-protests",
-      "published_date": "2026-10-10T09:15:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We’re not asking for luxury’: school protesters in Paris suburb feel abandoned by French state",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france",
-      "published_date": "2026-10-10T09:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: Russian strikes on Ukraine kill at least 15 in Zaporizhzhia, cause power outages in Kyiv",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children",
-      "published_date": "2026-10-10T08:41:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India's 'cockroach' movement says leader, thousands of protesters detained in New Delhi crackdown",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20261010-india-s-cockroach-movement-chief-detained-ahead-of-major-protest",
-      "published_date": "2026-10-10T06:37:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-10T04:07:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-09T23:24:33+00:00",
       "category": "Local Events"
     }
   ]
