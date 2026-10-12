@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-10-11T16:29:07.997624+00:00",
-  "story_count": 92,
+  "last_updated": "2026-10-12T02:01:36.645002+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote",
+      "published_date": "2026-10-11T19:42:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A profile of Raphaël Glucksmann, the man who wants to be French President",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president",
+      "published_date": "2026-10-11T17:50:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+      "published_date": "2026-10-11T16:53:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts warn",
       "source": "The Guardian",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘So safe you could drink it’: Scientists and pesticide victims fear an EU rollback",
+      "title": "North Korea fires multiple ballistic missiles off east coast, Seoul says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261010-so-safe-you-could-drink-it-scientists-and-pesticide-victims-fear-an-eu-rollback",
-      "published_date": "2026-10-10T07:10:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/asia-pacific/20261012-north-korea-ballistic-missiles-sea-japan-seoul",
+      "published_date": "2026-10-12T01:54:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades",
-      "published_date": "2026-10-10T04:00:47+00:00",
-      "category": "Diplomacy"
+      "title": "NATO top commander to warn Russia over alliance’s ability to counter-attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261012-nato-top-commander-warn-russia-alliance-counter-attack",
+      "published_date": "2026-10-12T01:41:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Navi Pillay awarded Peace Prize: 'Lifetime spent fighting for what's right & to uphold human rights'",
+      "title": "Airstrikes kill dozens of gold miners on Egypt-Sudan border, rights group says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/navi-pillay-awarded-peace-prize-lifetime-spent-fighting-for-what-s-right-to-uphold-human-rights",
-      "published_date": "2026-10-09T17:27:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/africa/20261012-egypt-sudan-border-airstrikes-gold-miners-killed",
+      "published_date": "2026-10-12T01:28:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T21:36:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Watch: What's behind Trump's energy ceasefire claim?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T20:55:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine: Coerced into a Corner?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner",
+      "published_date": "2026-10-11T17:36:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T17:27:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
@@ -176,6 +225,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire",
       "published_date": "2026-10-11T14:39:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T14:38:10+00:00",
       "category": "Military"
     },
     {
@@ -225,62 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261010-war-in-ukraine-russian-strikes-kill-15-including-a-young-girl",
       "published_date": "2026-10-10T15:56:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
-      "published_date": "2026-10-10T14:45:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-10T14:24:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-10T14:16:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Exiled Ukrainian women prepare for life after war, with or without returning home",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261010-exiled-women-of-ukraine-prepare-for-life-after-war-with-or-without-returning-home",
-      "published_date": "2026-10-10T12:25:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The more Putin escalates his attacks on Europe, the more Europe should support Ukraine | Timothy Garton Ash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/10/vladimir-putin-shadow-war-europe-ukraine-russia",
-      "published_date": "2026-10-10T11:00:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Don’t rebuild the dam: Ukrainian experts urge Unesco to protect site uncovered by Russian sabotage",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-unesco-great-meadow-dnipro-dont-rebuild-dam",
-      "published_date": "2026-10-10T10:00:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi war risks dragging Israel and Turkey into Horn of Africa standoff",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20261010-houthi-war-risks-dragging-israel-and-turkey-into-horn-of-africa-standoffid",
-      "published_date": "2026-10-10T09:45:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Alleged abuse victims at British military school in Germany tell of agonising fight for justice",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/10/military-school-alleged-abuse-1980s-bunde-germany",
-      "published_date": "2026-10-10T09:00:53+00:00",
       "category": "Military"
     },
     {
@@ -358,13 +358,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/environment/20261005-climate-change-driving-child-marriages-teen-pregnancies-report",
       "published_date": "2026-10-05T15:36:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pacific leaders urge climate action as UN pre-COP talks open in Fiji",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/environment/20261004-pacific-leaders-climate-action-un-pre-cop-talks-fiji",
-      "published_date": "2026-10-04T23:21:10+00:00",
       "category": "Energy"
     },
     {
@@ -508,6 +501,20 @@
       "category": "Economy"
     },
     {
+      "title": "Fresh Houthi strike hits Riyadh airport a day after deadly attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen",
+      "published_date": "2026-10-12T01:01:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "🔴 Live: Houthi rebels claim latest attacks on Riyadh airport, following Saturday's deadly strike",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
+      "published_date": "2026-10-11T16:44:37+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
@@ -519,6 +526,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
       "published_date": "2026-10-11T16:07:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T15:18:52+00:00",
       "category": "Local Events"
     },
     {
@@ -624,27 +638,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261010-kenya-ebola-tests-negative-as-contact-tracing-continues",
       "published_date": "2026-10-10T16:10:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India detains thousands, locks down Delhi to foil election chief protest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261010-india-detains-thousands-locks-down-delhi-to-foil-election-chief-protest",
-      "published_date": "2026-10-10T15:54:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India detains 'cockroach' movement leaders in bid to thwart election protest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261010-india-detains-cockroach-movement-leaders-in-bid-to-thwart-election-protest",
-      "published_date": "2026-10-10T15:37:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman injures three people in third Poland school knife attack in a week",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-10T14:58:55+00:00",
       "category": "Local Events"
     }
   ]
