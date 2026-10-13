@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-10-12T20:04:52.139094+00:00",
+  "last_updated": "2026-10-13T03:19:54.170054+00:00",
   "story_count": 95,
   "stories": [
+    {
+      "title": "Russia says Europe bought $320 billion in hydrocarbons since 2022",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261013-russia-says-europe-bought-320-billion-in-hydrocarbons-since-2022",
+      "published_date": "2026-10-13T03:10:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "DR Congo's former president Joseph Kabila to lead new movement with M23 rebels",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20261012-dr-congo-former-president-joseph-kabila-to-lead-new-movement-with-m23-rebels",
+      "published_date": "2026-10-12T21:27:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Paris Motor Show kicks off as China-EU rivalry heats up",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261012-paris-motor-show-kicks-off-as-china-eu-rivalry-heats-up",
+      "published_date": "2026-10-12T21:03:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tehran denies involvement in UK Fairford air base incident as Britain summons Iranian ambassador",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261012-tehran-denies-involvement-in-uk-fairford-air-base-incident-as-britain-summons-iranian-ambassador",
+      "published_date": "2026-10-12T20:23:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French presidential hopeful Glucksmann says 'battle begins' to revive divided left",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-presidential-hopeful-glucksmann-says-battle-begins-to-revive-divided-left",
+      "published_date": "2026-10-12T20:18:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Houthis 'are thriving and surviving by creating war', Yemen ambassador says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/houthis-are-thriving-and-surviving-by-creating-war-yemen-ambassador-says",
+      "published_date": "2026-10-12T19:08:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Burnham says ‘public will be the boss’ in any future decision about closer relationship with the EU – as it happened",
       "source": "The Guardian",
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote",
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-12T21:20:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'It's clear that Moscow is just playing with Washington', analyst says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote",
-      "published_date": "2026-10-11T19:42:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20261012-it-s-clear-that-moscow-is-just-playing-with-washington-analyst-says",
+      "published_date": "2026-10-12T21:02:05+00:00",
+      "category": "Military"
     },
     {
-      "title": "A profile of Raphaël Glucksmann, the man who wants to be French President",
+      "title": "'It's clear that Moscow is just playing with Washington', analyst says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president",
-      "published_date": "2026-10-11T17:50:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/it-s-clear-that-moscow-is-just-playing-with-washington-analyst-says",
+      "published_date": "2026-10-12T20:58:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
-      "published_date": "2026-10-11T16:53:01+00:00",
-      "category": "Diplomacy"
+      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-12T20:17:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts warn",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-      "published_date": "2026-10-11T15:56:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Proposed EU budget cut back in search for Christmas deal",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261011/proposed-eu-budget-cut-back-in-search-for-christmas-deal",
-      "published_date": "2026-10-11T15:17:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France: Can the left unite behind a single candidate?",
+      "title": "Houthi official warns of 'swift, painful response' if US enters Yemen war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261011-france-can-the-left-unite-behind-a-single-candidate",
-      "published_date": "2026-10-11T14:41:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/houthi-official-warns-of-swift-painful-response-if-us-enters-yemen-war",
+      "published_date": "2026-10-12T19:42:01+00:00",
+      "category": "Military"
     },
     {
       "title": "'A lot of Ukrainians are feeling extremely betrayed' by Trump's Russian diesel deal",
@@ -246,41 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-11T21:36:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Watch: What's behind Trump's energy ceasefire claim?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T20:55:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine: Coerced into a Corner?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner",
-      "published_date": "2026-10-11T17:36:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland detains man suspected of planning assassination of PM Tusk",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T17:27:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
-      "published_date": "2026-10-11T16:04:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Donald Tusk says man accused of plotting to kill him detained",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
-      "published_date": "2026-10-11T16:01:25+00:00",
       "category": "Military"
     },
     {
@@ -529,6 +529,27 @@
       "category": "Economy"
     },
     {
+      "title": "Ukraine war briefing: Russian diesel exports could return to past levels after Trump deal, Moscow claims",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/13/ukraine-war-briefing-russian-diesel-exports-could-return-to-past-levels-after-trump-deal-moscow-claims",
+      "published_date": "2026-10-13T02:22:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What we know about Pope Leo XIV's planned lung operation this week",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261012-what-we-know-about-pope-leo-xiv-planned-lung-operation-this-week",
+      "published_date": "2026-10-12T22:20:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ethiopian govt forces enter key Tigray town near Eritrea border",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ethiopian-govt-forces-enter-key-tigray-town-near-eritrea-border",
+      "published_date": "2026-10-12T20:34:04+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Pupil arrested after two teachers shot at French school",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
@@ -645,27 +666,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20261012/flames-ravage-oldest-covered-food-market-in-paris",
       "published_date": "2026-10-12T07:49:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Glucksmann wins French left primary to run as alternative to Melenchon",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261012-glucksmann-wins-french-left-primary-to-run-as-alternative-to-melenchon",
-      "published_date": "2026-10-12T05:24:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chinese carmakers descend on Paris as battle for European market intensifies",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261012-chinese-carmakers-descend-on-paris-as-battle-for-european-market-intensifies",
-      "published_date": "2026-10-12T04:41:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresh Houthi strike hits Riyadh airport a day after deadly attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen",
-      "published_date": "2026-10-12T01:01:39+00:00",
       "category": "Local Events"
     }
   ]
