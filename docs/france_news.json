@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-10-14T01:34:03.411870+00:00",
-  "story_count": 94,
+  "last_updated": "2026-10-14T15:39:51.687866+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+      "published_date": "2026-10-14T15:02:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
+      "published_date": "2026-10-14T13:57:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French minister accuses Elon Musk of ‘online harassment campaigns’ against European leaders",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/14/french-minister-elon-musk-x-social-media-presidential-election",
+      "published_date": "2026-10-14T13:04:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and Chad sign 'renewed' defence partnership following two-year hiatus",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20261014-france-and-chad-sign-renewed-defence-partnership-following-two-year-hiatus",
+      "published_date": "2026-10-14T11:26:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France toughens fight against foreign interference as cyberattacks continue",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261014-france-toughens-fight-against-foreign-interference-as-cyberattacks-continue",
+      "published_date": "2026-10-14T07:23:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump asks Greece ambassador to resign amid ethics scandal",
       "source": "France 24",
@@ -18,10 +53,24 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T19:23:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "The Guardian view on Burnham’s Brexit reset: overdue, but proceed with care | Editorial",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/13/the-guardian-view-on-burnhams-brexit-reset-an-overdue-show-of-ambition",
       "published_date": "2026-10-13T17:30:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Americans in France: FBAR deadlines, fall traditions, and holiday travel",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261013/americans-in-france-fbar-deadlines-fall-traditions-and-holiday-travel",
+      "published_date": "2026-10-13T15:34:25+00:00",
       "category": "Diplomacy"
     },
     {
@@ -95,53 +144,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU cautious over Trump’s ‘energy ceasefire’ as Russia continues Ukraine attacks",
+      "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
+      "published_date": "2026-10-14T14:17:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian ex-officer stands trial in Germany over Nord Stream pipeline blasts",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261013-eu-cautious-over-trump-s-energy-ceasefire-as-russia-continues-ukraine-attacks",
-      "published_date": "2026-10-13T07:03:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20261014-ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-pipeline-blasts",
+      "published_date": "2026-10-14T13:58:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Russia says Europe bought $320 billion in hydrocarbons since 2022",
+      "title": "Ukraine accuses SpaceX of crippling military missions as ties with US worsen",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261013-russia-says-europe-bought-320-billion-in-hydrocarbons-since-2022",
-      "published_date": "2026-10-13T03:10:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261014-ukraine-accuses-spacex-of-crippling-military-missions-as-ties-with-us-worsen",
+      "published_date": "2026-10-14T13:57:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why the prime minister wants to talk about Brexit again",
+      "title": "Ukraine asking US, SpaceX and NATO to clarify Starlink limitations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261014-ukraine-asking-us-spacex-and-nato-to-clarify-starlink-limitations",
+      "published_date": "2026-10-14T13:52:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen conflict escalates as Houthis say seized new strategic area",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261014-escalating-conflict-in-yemen-as-houthis-say-seized-new-strategic-area",
+      "published_date": "2026-10-14T13:50:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'A completely civilian area': Kyiv residents reel after overnight Russian strike – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/14/a-completely-civilian-area-kyiv-residents-reel-after-overnight-russian-strike-video",
+      "published_date": "2026-10-14T13:25:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T01:27:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-14T13:11:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump says Kimberly Guilfoyle could be fired as Greece envoy after alleged misconduct",
+      "title": "Cheap weapons, growing fears: Inside the Taliban’s drone campaign against Pakistan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261014-taliban-suicide-drone-attacks-pakistan",
+      "published_date": "2026-10-14T12:52:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Winter of the Crow review – Lesley Manville magnificently on edge in intriguing cold war thriller",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/oct/14/winter-of-the-crow-review-lesley-manville-cold-war-thriller",
+      "published_date": "2026-10-14T12:00:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dangote refinery extends IPO: Plant has reshaped Nigeria's fuel market",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261014-dangote-refinery-extends-ipo-plant-has-reshaped-nigeria-s-fuel-market",
+      "published_date": "2026-10-14T10:53:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian ex-officer stands trial in Germany over Nord Stream bombing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261014-ukrainian-ex-officer-stands-trial-in-germany-over-nord-stream-bombing",
+      "published_date": "2026-10-14T09:45:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nvidia's Huang announces new investments in French tech sector",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261014-nvidia-s-huang-announces-new-investments-in-french-tech-sector",
+      "published_date": "2026-10-14T09:29:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine says Starlink restricted operations overnight, disrupting military missions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261014-ukraine-says-starlink-restricted-operations-overnight-disrupting-military-missions",
+      "published_date": "2026-10-14T09:14:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French supermarket cyberattack shows 'you no longer need tanks to wage war’",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261014/french-supermarket-cyberattack-shows-you-no-longer-need-tanks-to-wage-war",
+      "published_date": "2026-10-14T09:11:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia arrests Japanese journalist on spying charges",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjkgedexp6zgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T00:10:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-14T08:00:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "DR Congo's former president Joseph Kabila to lead new movement with M23 rebels",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261012-dr-congo-former-president-joseph-kabila-to-lead-new-movement-with-m23-rebels",
-      "published_date": "2026-10-12T21:27:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Paris Motor Show kicks off as China-EU rivalry heats up",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261012-paris-motor-show-kicks-off-as-china-eu-rivalry-heats-up",
-      "published_date": "2026-10-12T21:03:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tehran denies involvement in UK Fairford air base incident as Britain summons Iranian ambassador",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261012-tehran-denies-involvement-in-uk-fairford-air-base-incident-as-britain-summons-iranian-ambassador",
-      "published_date": "2026-10-12T20:23:04+00:00",
-      "category": "Diplomacy"
+      "title": "In Germany the mood is dark. But the Weimar narrative is a far right trap | Klaus Brinkbäumer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/in-germany-the-mood-is-dark-but-the-weimar-narrative-is-a-far-right-trap",
+      "published_date": "2026-10-14T04:00:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia detains Japanese journalist, accusing him of alleged spying",
@@ -172,116 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Syria: Israeli army accused of arbitrary arrests and detention",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20261013-syria-israeli-army-accused-arbitrary-arrests-detention",
-      "published_date": "2026-10-13T17:28:23+00:00",
-      "category": "Military"
+      "title": "French gas prices to rise again in November",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261014/french-gas-prices-to-rise-again-in-november",
+      "published_date": "2026-10-14T15:32:35+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
+      "title": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261014-houthis-say-targeted-saudi-oil-giant-aramco-vow-more-attacks",
+      "published_date": "2026-10-14T14:00:14+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-14T13:41:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘From liabilities to goldmines’: refineries eye record profits from diesel shortage",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
-      "published_date": "2026-10-13T17:17:13+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil",
+      "published_date": "2026-10-14T12:26:27+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ben Jennings on Donald Trump and the energy ceasefire between Russia and Ukraine – cartoon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/13/ben-jennings-donald-trump-energy-ceasefire-russia-ukraine-cartoon",
-      "published_date": "2026-10-13T16:38:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Did Ukrainian strikes on Russian datacentres reduce online disinformation?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/13/ukrainian-strikes-russian-datacentres-online-disinformation-bots",
-      "published_date": "2026-10-13T15:13:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil facility near Yemen capital Sanaa hit by Saudi Arabia, Houthis say",
+      "title": "Trump says 'massive' oil, gas and mineral exploration to begin in Greenland",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say",
-      "published_date": "2026-10-13T14:53:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Preserving Lebanon's stories amid war: France's Lebanese Film Festival",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20261013-preserving-lebanon-s-stories-amid-war-france-s-lebanese-film-festival",
-      "published_date": "2026-10-13T13:43:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ex-DRC president Kabila to lead new 'politico-military' alliance with M23 rebels",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261013-ex-drc-president-kabila-to-lead-new-politico-military-alliance-with-m23-rebels",
-      "published_date": "2026-10-13T11:07:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ronaldo scores after match delayed by missile alert",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T09:23:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T05:02:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-12T21:20:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'It's clear that Moscow is just playing with Washington', analyst says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20261012-it-s-clear-that-moscow-is-just-playing-with-washington-analyst-says",
-      "published_date": "2026-10-12T21:02:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'It's clear that Moscow is just playing with Washington', analyst says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/it-s-clear-that-moscow-is-just-playing-with-washington-analyst-says",
-      "published_date": "2026-10-12T20:58:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-12T20:17:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi official warns of 'swift, painful response' if US enters Yemen war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/houthi-official-warns-of-swift-painful-response-if-us-enters-yemen-war",
-      "published_date": "2026-10-12T19:42:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'A lot of Ukrainians are feeling extremely betrayed' by Trump's Russian diesel deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/a-lot-of-ukrainians-are-feeling-extremely-betrayed-by-trump-s-russian-diesel-deal",
-      "published_date": "2026-10-12T19:04:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks",
-      "published_date": "2026-10-12T18:33:12+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland",
+      "published_date": "2026-10-14T06:41:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
@@ -382,6 +417,55 @@
       "category": "Energy"
     },
     {
+      "title": "PODCAST 🎧: The perils of French lovers and Le Pen's plan for a 'foreigner tax'",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261014/podcast-the-perils-of-french-lovers-and-le-pens-plan-for-a-foreigner-tax",
+      "published_date": "2026-10-14T14:47:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
+      "published_date": "2026-10-14T13:58:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Louvre director says major renovation plan will be ‘extremely complex’",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261014-louvre-director-says-major-renovation-plan-will-be-extremely-complex",
+      "published_date": "2026-10-14T13:56:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French debt crisis: What's happening and how bad is it?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261014/french-debt-crisis-whats-happening-and-how-bad-is-it",
+      "published_date": "2026-10-14T10:59:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "F1, Rwanda announce creation of African Grand Prix",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261014-f1-rwanda-announce-creation-of-african-grand-prix",
+      "published_date": "2026-10-14T10:51:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French economy minister denies country caught in debt 'snowball'",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261014/french-economy-minister-denies-country-caught-in-debt-snowball",
+      "published_date": "2026-10-14T07:32:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "OPINION: France is hurtling towards a precipice of debt",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261014/opinion-france-is-hurtling-towards-a-precipice-of-debt",
+      "published_date": "2026-10-14T07:21:21+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Pope Leo has cancerous growth removed in lung operation",
       "source": "France 24",
       "url": "https://www.france24.com/en/pope-leo-has-cancerous-growth-removed-in-lung-operation",
@@ -473,53 +557,130 @@
       "category": "Economy"
     },
     {
-      "title": "On the Agenda: What’s happening in France this week",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261011/on-the-agenda-whats-happening-in-france-this-week-231",
-      "published_date": "2026-10-11T08:47:25+00:00",
-      "category": "Economy"
+      "title": "Mont Blanc the ‘roof of Europe’ loses more than a metre of height in a year",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/14/mont-blanc-loses-metre-height",
+      "published_date": "2026-10-14T15:33:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French astronaut recounts 'astonishing' emotions after return to Earth",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/science-and-technology/20261010-french-astronaut-recounts-astonishing-emotions-after-return-to-earth",
-      "published_date": "2026-10-10T08:32:14+00:00",
-      "category": "Economy"
+      "title": "France’s students are angry about more than crumbling classrooms and missing teachers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/14/french-students-are-not-just-protesting-for-better-schools-but-for-their-future",
+      "published_date": "2026-10-14T14:29:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Italy's biggest-ever wine heist",
+      "title": "Ceuta an 'inalienable' part of Spain, king says on key visit",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261009-italy-s-biggest-ever-wine-heist",
-      "published_date": "2026-10-09T20:08:41+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20261014-ceuta-an-inalienable-part-of-spain-king-says-on-key-visit",
+      "published_date": "2026-10-14T13:58:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "China agrees to ‘halve’ hybrid car exports to EU in landmark deal",
+      "title": "Anti-government student protests in Albania turn violent – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal",
-      "published_date": "2026-10-09T15:05:57+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/oct/14/anti-government-student-protests-in-albania-turn-violent-video",
+      "published_date": "2026-10-14T13:57:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Will they, won’t they? EU flirts with UK rejoining - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/oct/08/will-they-wont-they-eu-flirts-with-uk-rejoining-the-latest",
-      "published_date": "2026-10-08T16:56:09+00:00",
-      "category": "Economy"
+      "title": "Cornell University bans fraternity parties after alleged gang rape",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261014-cornell-university-bans-fraternity-parties-after-alleged-gang-rape",
+      "published_date": "2026-10-14T13:55:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Come back’: EU flirts with UK rejoining – The Latest – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/08/come-back-eu-flirts-with-uk-rejoining-the-latest-podcast",
-      "published_date": "2026-10-08T16:32:43+00:00",
-      "category": "Economy"
+      "title": "School closures persist in France as protests gain momentum",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261014-school-closures-persist-in-france-as-protests-gain-momentum",
+      "published_date": "2026-10-14T13:53:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French finance minister warns of 'irrevocable' Brexit impact",
+      "title": "'Dark day for Turkey': Govt takes control of most-watched news channel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261014-dark-day-for-turkey-govt-takes-control-of-most-watched-news-channel",
+      "published_date": "2026-10-14T13:47:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French MPs back bill to tackle sexual and gender-based violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/entre-nous/20261014-french-mps-back-bill-to-tackle-sexual-and-gender-based-violence",
+      "published_date": "2026-10-14T12:58:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What we know about the Pope's lung cancer diagnosis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-14T12:37:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump's crackdown on migrants: New documentary investigates ICE operations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20261014-trump-s-crackdown-on-migrants-new-documentary-investigates-ice-operations",
+      "published_date": "2026-10-14T11:51:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French student protesters are being 'exploited' by political forces, Macron says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261014-macron-says-french-student-protesters-exploited-by-political-forces",
+      "published_date": "2026-10-14T11:33:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-14T10:50:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Super-Earths' might be better than our planet. But are they reachable?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20261014-super-earths-might-be-better-than-our-planet-but-are-they-reachable",
+      "published_date": "2026-10-14T09:57:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French National Assembly moves to overhaul response to sexual violence and abuse",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261014-french-national-assembly-moves-to-overhaul-response-to-sexual-violence-and-abuse",
+      "published_date": "2026-10-14T09:44:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish royals make sensitive official visit to sensitive Ceuta enclave",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261014-spanish-royals-make-sensitive-official-visit-to-sensitive-ceuta-enclave",
+      "published_date": "2026-10-14T09:43:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Prison for d**k pics' - France passes wide-ranging gender-violence bill",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261008/french-finance-minister-warns-of-irrevocable-brexit-impact",
-      "published_date": "2026-10-08T15:55:25+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20261014/prison-for-dk-pics-france-passes-wide-ranging-gender-violence-bill",
+      "published_date": "2026-10-14T09:10:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League: Enrique urges PSG to rise to Manchester City challenge",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20261014-champions-league-enrique-urges-psg-to-rise-to-manchester-city-challenge",
+      "published_date": "2026-10-14T08:46:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine live: Russian drone strike kills six as Ukraine accuses US of helping Putin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead",
+      "published_date": "2026-10-14T06:19:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Arsenal thrash Lille as Atletico Madrid beat Manchester United",
@@ -533,132 +694,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20261013-french-counter-terrorism-body-to-investigate-14-year-old-behind-school-shooting",
       "published_date": "2026-10-13T19:41:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T18:23:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of thousands rally across France as high school protests gather strength",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261013-tens-of-thousands-rally-across-france-as-high-school-protests-gather-strength",
-      "published_date": "2026-10-13T18:21:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's fed-up youth: Can presidential candidates connect with student movement?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261013-france-s-fed-up-youth-can-presidential-candidates-connect-with-student-movement",
-      "published_date": "2026-10-13T18:10:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right and Iran add to mix of terror threats UK faces – not to mention AI",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/13/far-right-iran-terror-threat-uk-mi5-annual-update",
-      "published_date": "2026-10-13T17:58:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ISS amid global conflict: A rare bastion of 'scientific collaboration' between the East and West",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261013-iss-amid-global-conflict-a-rare-bastion-of-scientific-collaboration-between-the-east-and-west",
-      "published_date": "2026-10-13T17:53:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 160,000 people take to streets in third week of French school protests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france",
-      "published_date": "2026-10-13T17:08:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Student protesters tell police to join them in Paris demonstrations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261013-student-protesters-tell-police-to-join-them-in-paris-demonstrations",
-      "published_date": "2026-10-13T17:04:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "🔴 Live: French students ‘not giving up the fight’ as 480,000 join new day of school protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261013-live-france-braces-for-fresh-nationwide-protests-over-school-conditions",
-      "published_date": "2026-10-13T16:16:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Student anger rages as tear gas and fires hit Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-student-anger-rages-as-tear-gas-and-fires-hit-paris",
-      "published_date": "2026-10-13T16:03:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish royals make rare visit to Ceuta after migrant crisis",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g47gqvzeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T15:42:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Paris to Marseille, high school protests continue across France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261013-from-paris-to-marseille-high-school-protests-continue-across-france",
-      "published_date": "2026-10-13T15:40:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Broken children: France confronts crisis of sexual violence against minors",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/france-in-focus/20261013-broken-children-france-confronts-crisis-of-sexual-violence-against-minors",
-      "published_date": "2026-10-13T15:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish royals visit Ceuta amid tensions with Morocco over migrant influx",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261013-spanish-royals-visit-ceuta-amid-tensions-with-morocco-over-migrant-influx",
-      "published_date": "2026-10-13T15:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa suspends asylum applications amid renewed anti-immigrant protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests",
-      "published_date": "2026-10-13T15:15:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopian forces enter key Tigray town, raising fears among residents",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ethiopian-forces-enter-key-tigray-town-raising-fears-among-residents",
-      "published_date": "2026-10-13T15:13:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Student protesters want to 'keep the pressure up on the government'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-student-protesters-want-to-keep-the-pressure-up-on-the-government",
-      "published_date": "2026-10-13T14:52:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France votes on sexual violence bill",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-votes-on-sexual-violence-bill",
-      "published_date": "2026-10-13T14:29:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belgium: Greener schools thanks to European funding",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/belgium-greener-schools-thanks-to-european-funding",
-      "published_date": "2026-10-13T14:27:17+00:00",
       "category": "Local Events"
     }
   ]
