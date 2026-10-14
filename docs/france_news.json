@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-10-13T17:54:00.519000+00:00",
+  "last_updated": "2026-10-14T01:34:03.411870+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Trump asks Greece ambassador to resign amid ethics scandal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal",
+      "published_date": "2026-10-13T20:29:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's youth undergoing 'a crisis of hope'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-s-youth-undergoing-a-crisis-of-hope",
+      "published_date": "2026-10-13T19:33:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Guardian view on Burnham’s Brexit reset: overdue, but proceed with care | Editorial",
       "source": "The Guardian",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "French presidential hopeful Glucksmann says 'battle begins' to revive divided left",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-presidential-hopeful-glucksmann-says-battle-begins-to-revive-divided-left",
-      "published_date": "2026-10-12T20:18:41+00:00",
-      "category": "Diplomacy"
+      "title": "Russia detains Japanese journalist, accusing him of alleged spying",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+      "published_date": "2026-10-14T01:05:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Houthis 'are thriving and surviving by creating war', Yemen ambassador says",
+      "title": "Ukraine war briefing: Zelenskyy decries ‘absolutely unjust’ lack of warning from allies after Kyiv plant strike",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-war-briefing-zelenskyy-decries-absolutely-unjust-lack-of-warning-from-allies-after-kyiv-plant-strike",
+      "published_date": "2026-10-14T01:04:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kyiv power plant hit by Russian missile without warning from allies",
       "source": "France 24",
-      "url": "https://www.france24.com/en/houthis-are-thriving-and-surviving-by-creating-war-yemen-ambassador-says",
-      "published_date": "2026-10-12T19:08:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies",
+      "published_date": "2026-10-14T00:41:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French MPs pass sweeping bill to combat sexual and gender-based violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-mps-pass-sweeping-bill-to-combat-sexual-and-gender-based-violence",
+      "published_date": "2026-10-13T20:03:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria: Israeli army accused of arbitrary arrests and detention",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump rewards Putin and betrays Ukraine with Russia diesel deal - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/oct/12/trump-rewards-putin-and-betrays-ukraine-with-russia-diesel-deal-the-latest",
-      "published_date": "2026-10-12T17:14:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy says ‘increasingly clear’ Russia does not want energy ceasefire after strikes on energy facilities – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
-      "published_date": "2026-10-12T16:31:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia extends Riyadh aiport suspension, vows deadly response to Houthis strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
-      "published_date": "2026-10-12T16:21:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump rewards Putin and betrays Ukraine with Russia diesel deal - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/12/trump-rewards-putin-and-betrays-ukraine-with-russia-diesel-deal-the-latest",
-      "published_date": "2026-10-12T16:07:58+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
@@ -380,6 +380,27 @@
       "url": "https://www.thelocal.fr/20261008/service-stations-close-as-french-totalenergies-workers-strike",
       "published_date": "2026-10-08T08:05:47+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Pope Leo has cancerous growth removed in lung operation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/pope-leo-has-cancerous-growth-removed-in-lung-operation",
+      "published_date": "2026-10-13T21:23:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "China is bringing car production to EU",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261013-china-is-bringing-car-production-to-eu",
+      "published_date": "2026-10-13T21:23:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pope Leo diagnosed with lung cancer as growth removed during surgery",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+      "published_date": "2026-10-13T20:32:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "French youth demand answers as education protests enter third week",
@@ -501,25 +522,53 @@
       "category": "Economy"
     },
     {
-      "title": "'They killed her': Evicted pensioner who sparked Spain housing protests dies",
+      "title": "Arsenal thrash Lille as Atletico Madrid beat Manchester United",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261008-they-killed-her-evicted-pensioner-who-sparked-spain-housing-protests-dies",
-      "published_date": "2026-10-08T13:43:12+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/sport/20261013-arsenal-thrash-lille-as-atletico-madrid-beat-manchester-united",
+      "published_date": "2026-10-13T21:59:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fresh protests sweep Madrid after death of Maricarmen, symbol of Spain's housing crisis – video",
+      "title": "French counter-terrorism body to investigate 14-year-old behind school shooting",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261013-french-counter-terrorism-body-to-investigate-14-year-old-behind-school-shooting",
+      "published_date": "2026-10-13T19:41:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T18:23:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tens of thousands rally across France as high school protests gather strength",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261013-tens-of-thousands-rally-across-france-as-high-school-protests-gather-strength",
+      "published_date": "2026-10-13T18:21:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's fed-up youth: Can presidential candidates connect with student movement?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261013-france-s-fed-up-youth-can-presidential-candidates-connect-with-student-movement",
+      "published_date": "2026-10-13T18:10:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Far-right and Iran add to mix of terror threats UK faces – not to mention AI",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/08/fresh-protests-sweep-madrid-after-death-of-maricarmen-symbol-of-spains-housing-crisis-video",
-      "published_date": "2026-10-08T13:00:26+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/oct/13/far-right-iran-terror-threat-uk-mi5-annual-update",
+      "published_date": "2026-10-13T17:58:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Le Pen proposes new tax on companies in France that employ foreign workers",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261008/le-pen-proposes-new-tax-on-companies-in-france-that-employ-foreign-workers",
-      "published_date": "2026-10-08T09:10:37+00:00",
-      "category": "Economy"
+      "title": "ISS amid global conflict: A rare bastion of 'scientific collaboration' between the East and West",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261013-iss-amid-global-conflict-a-rare-bastion-of-scientific-collaboration-between-the-east-and-west",
+      "published_date": "2026-10-13T17:53:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "At least 160,000 people take to streets in third week of French school protests",
@@ -610,55 +659,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/belgium-greener-schools-thanks-to-european-funding",
       "published_date": "2026-10-13T14:27:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French student protests: From confiscated signs to catchy slogans",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20261013-french-student-protests-from-confiscated-signs-to-catchy-slogans",
-      "published_date": "2026-10-13T14:05:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia pounds Ukrainian cities, spares energy targets for first time since Trump 'ceasefire'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261013-russia-pounds-ukrainian-cities-spares-energy-targets-for-first-time-since-trump-ceasefire",
-      "published_date": "2026-10-13T13:39:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drones could fly deliveries from France to Alderney",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj75pd4n0e94o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T12:16:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Latin American organised crime ‘may operate in 16 European countries’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe",
-      "published_date": "2026-10-13T07:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MAP: What are the routes for Tuesday's Paris protest marches?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261013/map-what-are-the-routes-for-tuesdays-paris-protest-marches",
-      "published_date": "2026-10-13T06:58:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France braces for new student demonstrations as Greta Thunberg joins protests",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261013/france-braces-for-fresh-nationwide-student-demonstrations",
-      "published_date": "2026-10-13T06:17:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France braces for fresh school protests as student movement tests momentum",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261013-france-braces-for-fresh-school-protests-as-student-movement-tests-momentum",
-      "published_date": "2026-10-13T06:15:32+00:00",
       "category": "Local Events"
     }
   ]
