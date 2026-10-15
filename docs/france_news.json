@@ -1,7 +1,7 @@
 {
   "country": "France",
-  "last_updated": "2026-10-14T15:39:51.687866+00:00",
-  "story_count": 99,
+  "last_updated": "2026-10-15T01:11:36.665190+00:00",
+  "story_count": 100,
   "stories": [
     {
       "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – as it happened",
@@ -144,6 +144,55 @@
       "category": "Diplomacy"
     },
     {
+      "title": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles",
+      "published_date": "2026-10-14T23:12:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Zelensky's meeting with Burnham matters",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-14T20:41:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What is Starshield, SpaceX's military version of Starlink?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261014-what-is-starshield-spacex-s-military-version-of-starlink",
+      "published_date": "2026-10-14T20:15:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham treads carefully with Zelensky visit, balancing Trump and Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-14T20:09:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing",
+      "published_date": "2026-10-14T19:56:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres",
+      "published_date": "2026-10-14T19:49:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Growing ambitions’: Dr. Kendall on Houthis’ quest to be recognised as Yemen’s ‘legitimate' leaders",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/growing-ambitions-dr-kendall-on-houthis-quest-to-be-recognised-as-yemen-s-legitimate-leaders",
+      "published_date": "2026-10-14T17:18:04+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
@@ -235,53 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "French supermarket cyberattack shows 'you no longer need tanks to wage war’",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261014/french-supermarket-cyberattack-shows-you-no-longer-need-tanks-to-wage-war",
-      "published_date": "2026-10-14T09:11:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia arrests Japanese journalist on spying charges",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-14T08:00:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Germany the mood is dark. But the Weimar narrative is a far right trap | Klaus Brinkbäumer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/in-germany-the-mood-is-dark-but-the-weimar-narrative-is-a-far-right-trap",
-      "published_date": "2026-10-14T04:00:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia detains Japanese journalist, accusing him of alleged spying",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
-      "published_date": "2026-10-14T01:05:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy decries ‘absolutely unjust’ lack of warning from allies after Kyiv plant strike",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-war-briefing-zelenskyy-decries-absolutely-unjust-lack-of-warning-from-allies-after-kyiv-plant-strike",
-      "published_date": "2026-10-14T01:04:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv power plant hit by Russian missile without warning from allies",
+      "title": "Albania protests turn violent as protestors demand PM Rama's resignation",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies",
-      "published_date": "2026-10-14T00:41:22+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20261014-albania-protests-protestors-demand-pm-rama-resignation",
+      "published_date": "2026-10-14T22:35:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "French MPs pass sweeping bill to combat sexual and gender-based violence",
+      "title": "French glassmaker Duralex pulled back from the brink - again",
       "source": "France 24",
-      "url": "https://www.france24.com/en/french-mps-pass-sweeping-bill-to-combat-sexual-and-gender-based-violence",
-      "published_date": "2026-10-13T20:03:43+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/french-glassmaker-duralex-pulled-back-from-the-brink-again",
+      "published_date": "2026-10-14T20:55:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
+      "published_date": "2026-10-14T18:54:34+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Houthis threaten escalation after strike on Saudi oil giant Aramco",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit",
+      "published_date": "2026-10-14T16:21:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "French gas prices to rise again in November",
@@ -316,6 +344,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland",
       "published_date": "2026-10-14T06:41:15+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Trial lawyer for Ukrainian accused of sabotage says Russia used Nord Stream as a ‘weapon’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261014-defence-of-ukrainian-accused-of-sabotage-says-russia-used-nord-stream-pipelines-as-weapon",
+      "published_date": "2026-10-14T06:37:42+00:00",
       "category": "Energy"
     },
     {
@@ -389,32 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "France’s seafood problem starts elsewhere",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/environment/20261009-france-s-seafood-problem-starts-elsewhere",
-      "published_date": "2026-10-09T13:01:11+00:00",
-      "category": "Energy"
+      "title": "Pope Leo’s recovery from lung cancer surgery ‘progressing as planned’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned",
+      "published_date": "2026-10-14T22:31:18+00:00",
+      "category": "Economy"
     },
     {
-      "title": "How long will the global energy crunch last?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20261008-how-long-will-the-global-energy-crunch-last",
-      "published_date": "2026-10-08T15:05:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Africa’s wildlife population plunges by 80 percent in five decades, WWF warns",
+      "title": "IMF chief says it will 'take time' to restore confidence in France's finances",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20261008-africa-s-wildlife-population-plunges-by-80-percent-in-five-decades-wwf-warns",
-      "published_date": "2026-10-08T14:41:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fuel stations close as French TotalEnergies workers strike",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261008/service-stations-close-as-french-totalenergies-workers-strike",
-      "published_date": "2026-10-08T08:05:47+00:00",
-      "category": "Energy"
+      "url": "https://www.rfi.fr/en/international/20261014-imf-chief-says-it-will-take-time-to-restore-confidence-in-france-s-finances",
+      "published_date": "2026-10-14T19:22:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "PODCAST 🎧: The perils of French lovers and Le Pen's plan for a 'foreigner tax'",
@@ -543,18 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Burnham: not pursuing better EU deal would be ‘dereliction of duty’",
+      "title": "Student protests in Albania turn violent as demonstrators clash with police",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
-      "published_date": "2026-10-12T05:00:46+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+      "published_date": "2026-10-14T23:19:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pope Leo says he will undergo surgery for small growth on lung",
+      "title": "Champions League: PSG romp past Manchester City to maintain perfect start",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20261014-champions-league-psg-romp-past-manchester-city-to-maintain-perfect-start",
+      "published_date": "2026-10-14T21:57:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG beat Manchester City in Champions League after financial rules verdict",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261011-pope-leo-says-he-will-undergo-surgery-for-small-growth-on-lung",
-      "published_date": "2026-10-11T15:17:39+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/sport/20261014-psg-beat-manchester-city-champions-league",
+      "published_date": "2026-10-14T21:48:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French anti-terror investigators probe True Crime Community link to school shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20261014-french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
+      "published_date": "2026-10-14T21:01:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French anti-terror investigators probe True Crime Community link to school shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
+      "published_date": "2026-10-14T20:58:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How far will cockroach movement go? India's youth-led protests defy Modi government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261014-how-far-will-cockroach-movement-go-india-s-youth-led-protests-defy-modi-government",
+      "published_date": "2026-10-14T18:40:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Spain’s snap election: high stakes for Europe as Pedro Sánchez gambles again | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/the-guardian-view-on-spains-snap-election-high-stakes-for-europe-as-pedro-sanchez-gambles-again",
+      "published_date": "2026-10-14T17:25:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France’s class action: inside the 16 October Guardian Weekly",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/oct/14/frances-class-action-inside-the-16-october-guardian-weekly",
+      "published_date": "2026-10-14T17:00:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘The idea that Modi must be feared because he holds all levers of power has gone out of the window’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/the-idea-that-modi-must-be-feared-because-he-holds-all-levers-of-power-has-gone-out-of-the-window",
+      "published_date": "2026-10-14T16:51:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mont Blanc the ‘roof of Europe’ loses more than a metre of height in a year",
@@ -631,69 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20261014-macron-says-french-student-protesters-exploited-by-political-forces",
       "published_date": "2026-10-14T11:33:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish police raid opposition TV station, halting live broadcasts",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-14T10:50:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Super-Earths' might be better than our planet. But are they reachable?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20261014-super-earths-might-be-better-than-our-planet-but-are-they-reachable",
-      "published_date": "2026-10-14T09:57:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French National Assembly moves to overhaul response to sexual violence and abuse",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261014-french-national-assembly-moves-to-overhaul-response-to-sexual-violence-and-abuse",
-      "published_date": "2026-10-14T09:44:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish royals make sensitive official visit to sensitive Ceuta enclave",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261014-spanish-royals-make-sensitive-official-visit-to-sensitive-ceuta-enclave",
-      "published_date": "2026-10-14T09:43:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Prison for d**k pics' - France passes wide-ranging gender-violence bill",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261014/prison-for-dk-pics-france-passes-wide-ranging-gender-violence-bill",
-      "published_date": "2026-10-14T09:10:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Champions League: Enrique urges PSG to rise to Manchester City challenge",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20261014-champions-league-enrique-urges-psg-to-rise-to-manchester-city-challenge",
-      "published_date": "2026-10-14T08:46:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine live: Russian drone strike kills six as Ukraine accuses US of helping Putin",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead",
-      "published_date": "2026-10-14T06:19:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arsenal thrash Lille as Atletico Madrid beat Manchester United",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20261013-arsenal-thrash-lille-as-atletico-madrid-beat-manchester-united",
-      "published_date": "2026-10-13T21:59:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French counter-terrorism body to investigate 14-year-old behind school shooting",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261013-french-counter-terrorism-body-to-investigate-14-year-old-behind-school-shooting",
-      "published_date": "2026-10-13T19:41:22+00:00",
       "category": "Local Events"
     }
   ]
