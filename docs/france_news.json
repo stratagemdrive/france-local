@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-10-15T15:27:46.229458+00:00",
+  "last_updated": "2026-10-16T00:58:39.650202+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ukraine war briefing: Starlink access restored, says UK’s Streeting, as Zelenskyy rallies support in Brussels",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-war-briefing-starlink-access-restored-says-uks-streeting-as-zelenskyy-rallies-support-in-brussels",
+      "published_date": "2026-10-16T00:43:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and Germany agree to ease EU car emissions rules in new deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261015-france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal",
+      "published_date": "2026-10-15T23:48:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU member states set for budget clash",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/eu-member-states-set-for-budget-clash",
+      "published_date": "2026-10-15T20:33:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kinshasa braces for potential conflict as Kabila joins M23",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/kinshasa-braces-for-potential-conflict-as-kabila-joins-m23",
+      "published_date": "2026-10-15T20:29:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Zelensky stresses 'win-win' cooperation with France after Le Pen comments",
       "source": "The Local France",
@@ -60,6 +88,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Mont Blanc, the ‘roof of Europe’, loses more than a metre of height in a year",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/14/mont-blanc-loses-metre-height",
+      "published_date": "2026-10-14T15:33:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – as it happened",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
@@ -109,39 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+      "published_date": "2026-10-15T23:49:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'It is clear that sooner or later we will have European casualties', Romanian MEP",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/it-is-clear-that-sooner-or-later-we-will-have-european-casualties-romanian-mep",
+      "published_date": "2026-10-15T20:03:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi attack on palace used by Yemen government in Aden kills five",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five",
+      "published_date": "2026-10-15T19:57:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Donald Trump 'openly financing Russia's war with Ukraine', Nobel peace laureate says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/donald-trump-openly-financing-russia-s-war-with-ukraine-nobel-peace-laureate-says",
+      "published_date": "2026-10-15T19:48:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Seven missing off Romania after latest Black Sea drone attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/seven-missing-off-romania-after-latest-black-sea-drone-attacks",
+      "published_date": "2026-10-15T19:04:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Trump really pull the plug? Starlink restored but Ukraine's fate still uncertain",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261015-will-trump-really-pull-the-plug-starlink-restored-but-ukraine-s-fate-still-uncertain",
+      "published_date": "2026-10-15T18:38:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why have US-Ukraine relations soured ahead of the midterms?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261015-why-have-us-ukraine-relations-soured-ahead-of-the-midterms",
+      "published_date": "2026-10-15T17:54:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T19:23:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-15T17:31:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Guardian view on Burnham’s Brexit reset: overdue, but proceed with care | Editorial",
+      "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/the-guardian-view-on-burnhams-brexit-reset-an-overdue-show-of-ambition",
-      "published_date": "2026-10-13T17:30:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Americans in France: FBAR deadlines, fall traditions, and holiday travel",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261013/americans-in-france-fbar-deadlines-fall-traditions-and-holiday-travel",
-      "published_date": "2026-10-13T15:34:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Britons travelling to EU countries told not to apply for delayed Etias visa waiver",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/13/britons-travelling-to-europe-told-not-to-apply-for-delayed-etias-visa-waiver",
-      "published_date": "2026-10-13T15:21:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brexiters can’t cope with the fact that Putin was cheering them on | Rafael Behr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/brexit-vladimir-putin-russia-referendum-result-eu",
-      "published_date": "2026-10-13T15:21:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
+      "published_date": "2026-10-15T17:31:30+00:00",
+      "category": "Military"
     },
     {
       "title": "US consumer inflation hotter than expected as midterms loom",
@@ -186,6 +249,13 @@
       "category": "Military"
     },
     {
+      "title": "NATO to address drone attacks in the Black Sea after seven missing off Romania",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261015-seven-missing-off-romania-after-latest-black-sea-drone-attacks",
+      "published_date": "2026-10-15T13:35:22+00:00",
+      "category": "Military"
+    },
+    {
       "title": "French crypto unicorn Ledger warns of AI security risks",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/people-profit/20261015-french-crypto-unicorn-ledger-warns-of-ai-security-risks",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Outcry over US plans to livestream firing squad execution of Fort Hood shooter",
+      "title": "Zelensky rallies European allies as US support for Ukraine wanes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261015-outcry-over-us-plans-to-livestream-firing-squad-execution-of-fort-hood-shooter",
-      "published_date": "2026-10-15T12:33:28+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes",
+      "published_date": "2026-10-15T23:06:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "A deep dive into the global spy plane market",
+      "title": "'We're done': Ukraine resumes strikes on Russian oil refineries as 'only leverage' for peace talks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20261015-deep-dive-global-spy-plane-market",
-      "published_date": "2026-10-15T12:09:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-15T11:25:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Starlink in Ukraine: Musk suggests US govt behind any slowdown",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261015-starlink-in-ukraine-musk-suggests-us-govt-behind-any-slowdown",
-      "published_date": "2026-10-15T11:19:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'American abandonment' threatens Ukraine's civilians in war against Russia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20261015-american-abandonment-threatens-ukraine-s-civilians-in-war-against-russia",
-      "published_date": "2026-10-15T11:09:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in Ukraine: Kyiv residents decry shortage of bomb shelters",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261015-war-in-ukraine-kyiv-residents-decry-shortage-of-bomb-shelters",
-      "published_date": "2026-10-15T09:50:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s Starlink disruptions expose European reliance on US tech",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261015-ukraine-s-starlink-disruptions-expose-us-reliance-as-europe-has-no-ready-alternative",
-      "published_date": "2026-10-15T05:38:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US tech firm Nvidia buys stake in French health platform Doctolib",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261015-us-tech-firm-nvidia-buys-stake-in-french-health-platform-doctolib",
-      "published_date": "2026-10-15T04:39:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles",
-      "published_date": "2026-10-14T23:12:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Zelensky's meeting with Burnham matters",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-14T20:41:03+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20261015-we-re-done-ukraine-resumes-strikes-on-russian-oil-refineries-as-only-leverage-for-peace-talks-1",
+      "published_date": "2026-10-15T16:14:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Ukraine: Zelensky says learned of Trump's 'energy ceasefire' through media",
+      "title": "Oxfam takes France to court over 'tax inequality': 'Problem' with tax system, public service funding",
       "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-zelensky-says-learned-of-trump-s-energy-ceasefire-through-media",
-      "published_date": "2026-10-12T12:24:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump touts surprise 'energy ceasefire' – Zelensky says he hasn't seen details, Moscow silent",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261012-trump-touts-surprise-energy-ceasefire-%E2%80%93-zelensky-says-he-hasn-t-seen-details-moscow-silent",
-      "published_date": "2026-10-12T09:19:32+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261015-oxfam-takes-france-to-court-over-tax-inequality-problem-with-tax-system-public-service-funding",
+      "published_date": "2026-10-15T20:41:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "China, North Korea open long-delayed trade bridge",
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Budget airline easyJet to launch new UK-France route",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261013/easyjet-to-launch-new-uk-france-route",
-      "published_date": "2026-10-13T14:52:20+00:00",
-      "category": "Economy"
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-15T22:37:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least five feared dead in Oregon elementary school shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
+      "published_date": "2026-10-15T21:58:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20261015-sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
+      "published_date": "2026-10-15T21:15:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
+      "published_date": "2026-10-15T21:07:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Albania's leader defies calls to resign as student protesters rampage in capital",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/albania-s-leader-defies-calls-to-resign-as-student-protesters-rampage-in-capital",
+      "published_date": "2026-10-15T19:02:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-15T16:15:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France charges teen shooter citing revenge for bullying in school",
@@ -659,48 +701,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/sports/20261014-champions-league-psg-romp-past-manchester-city-to-maintain-perfect-start",
       "published_date": "2026-10-14T21:57:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG beat Manchester City in Champions League after financial rules verdict",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20261014-psg-beat-manchester-city-champions-league",
-      "published_date": "2026-10-14T21:48:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French anti-terror investigators probe True Crime Community link to school shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20261014-french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
-      "published_date": "2026-10-14T21:01:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French anti-terror investigators probe True Crime Community link to school shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting",
-      "published_date": "2026-10-14T20:58:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How far will cockroach movement go? India's youth-led protests defy Modi government",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261014-how-far-will-cockroach-movement-go-india-s-youth-led-protests-defy-modi-government",
-      "published_date": "2026-10-14T18:40:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Spain’s snap election: high stakes for Europe as Pedro Sánchez gambles again | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/the-guardian-view-on-spains-snap-election-high-stakes-for-europe-as-pedro-sanchez-gambles-again",
-      "published_date": "2026-10-14T17:25:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France’s class action: inside the 16 October Guardian Weekly",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/oct/14/frances-class-action-inside-the-16-october-guardian-weekly",
-      "published_date": "2026-10-14T17:00:08+00:00",
       "category": "Local Events"
     }
   ]
