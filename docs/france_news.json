@@ -1,8 +1,78 @@
 {
   "country": "France",
-  "last_updated": "2026-10-16T15:07:29.010034+00:00",
+  "last_updated": "2026-10-17T01:00:04.426246+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate",
+      "published_date": "2026-10-16T20:25:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261016-finish-what-we-started-after-student-protests-france-braces-return-yellow-vests",
+      "published_date": "2026-10-16T20:10:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Clashes grip Tirana as Albanian PM blames 'foreign hands' for mounting unrest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands",
+      "published_date": "2026-10-16T19:59:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+      "published_date": "2026-10-16T18:09:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261016-cost-of-living-demonstrations-to-grip-pre-election-france",
+      "published_date": "2026-10-16T15:55:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T15:45:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelensky hails \"real leaders\" in Europe, blasts Trump's diesel deal with Russia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261016-zelensky-hails-real-leaders-in-europe-blasts-trump-s-diesel-deal-with-russia",
+      "published_date": "2026-10-16T15:40:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France braces for massive protests: Yellow Vests to join students on Saturday",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261016-france-braces-for-massive-protests-yellow-vests-to-join-students-on-saturday",
+      "published_date": "2026-10-16T15:38:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Italy prolongs Schengen suspension with Spain, talks loom",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261016-italy-prolongs-schengen-suspension-with-spain-talks-loom",
+      "published_date": "2026-10-16T15:37:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "REPLAY: Ukraine's Zelensky holds presser in Brussels",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261016-replay-ukraine-s-zelensky-holds-presser-in-brussels",
+      "published_date": "2026-10-16T15:36:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
       "source": "BBC News",
@@ -74,74 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "They fled Russia, but the West sent them back",
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T04:57:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T23:54:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Starlink access restored, says UK’s Streeting, as Zelenskyy rallies support in Brussels",
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T23:07:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T19:33:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'US tilting toward Russia: Europeans are standing more and more solidly with Zelensky'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261016-us-tilting-toward-russia-europeans-are-standing-more-and-more-solidly-with-zelensky",
+      "published_date": "2026-10-16T18:33:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-war-briefing-starlink-access-restored-says-uks-streeting-as-zelenskyy-rallies-support-in-brussels",
-      "published_date": "2026-10-16T00:43:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy",
+      "published_date": "2026-10-16T18:01:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "France and Germany agree to ease EU car emissions rules in new deal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261015-france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal",
-      "published_date": "2026-10-15T23:48:57+00:00",
-      "category": "Diplomacy"
+      "title": "British students, like their French peers, have been known to challenge authority | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/oct/16/british-students-like-their-french-peers-have-been-known-to-challenge-authority",
+      "published_date": "2026-10-16T16:32:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU member states set for budget clash",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/eu-member-states-set-for-budget-clash",
-      "published_date": "2026-10-15T20:33:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kinshasa braces for potential conflict as Kabila joins M23",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/kinshasa-braces-for-potential-conflict-as-kabila-joins-m23",
-      "published_date": "2026-10-15T20:29:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelensky stresses 'win-win' cooperation with France after Le Pen comments",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261015/zelensky-stresses-win-win-cooperation-with-france-after-le-pen-comments",
-      "published_date": "2026-10-15T14:56:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine's Zelensky defies Trump with Russian refinery strikes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261015-ukraine-s-zelensky-defies-trump-with-russian-refinery-strikes",
-      "published_date": "2026-10-15T12:34:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelensky rallies European allies after defying Trump over Russia strikes",
+      "title": "Madagascar marks one year since uprising as Russia’s influence grows",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261015-zelensky-rallies-european-allies-as-trump-ties-slump",
-      "published_date": "2026-10-15T11:47:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20261016-madagascar-marks-one-year-since-uprising-as-russia-s-influence-grows",
+      "published_date": "2026-10-16T16:02:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump’s ambassadors: the loyalists and allies at the center of controversy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/trump-ambassadors-controversies-guilfoyle-kushner",
-      "published_date": "2026-10-15T10:00:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU leaders head into high-stakes budget battle as elections loom",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/eu-leaders-head-into-high-stakes-budget-battle-as-elections-loom",
-      "published_date": "2026-10-15T06:03:27+00:00",
-      "category": "Diplomacy"
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T16:00:30+00:00",
+      "category": "Military"
     },
     {
       "title": "‘This is my answer’: Zelenskyy smiles at suggestion he is a scapegoat for Trump’s problems – Europe live",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "'It is clear that sooner or later we will have European casualties', Romanian MEP",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/it-is-clear-that-sooner-or-later-we-will-have-european-casualties-romanian-mep",
-      "published_date": "2026-10-15T20:03:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi attack on palace used by Yemen government in Aden kills five",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five",
-      "published_date": "2026-10-15T19:57:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Donald Trump 'openly financing Russia's war with Ukraine', Nobel peace laureate says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/donald-trump-openly-financing-russia-s-war-with-ukraine-nobel-peace-laureate-says",
-      "published_date": "2026-10-15T19:48:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seven missing off Romania after latest Black Sea drone attacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/seven-missing-off-romania-after-latest-black-sea-drone-attacks",
-      "published_date": "2026-10-15T19:04:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Trump really pull the plug? Starlink restored but Ukraine's fate still uncertain",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261015-will-trump-really-pull-the-plug-starlink-restored-but-ukraine-s-fate-still-uncertain",
-      "published_date": "2026-10-15T18:38:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why have US-Ukraine relations soured ahead of the midterms?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261015-why-have-us-ukraine-relations-soured-ahead-of-the-midterms",
-      "published_date": "2026-10-15T17:54:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-15T17:31:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
+      "title": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
-      "published_date": "2026-10-15T17:31:30+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory",
+      "published_date": "2026-10-16T15:28:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump calls Ukraine’s renewed strikes on Russian oil refineries ‘a disgrace’",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
-      "published_date": "2026-10-13T15:54:55+00:00",
-      "category": "Energy"
+      "title": "Argentine demonstration over education cuts ends in clashes",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261016-argentine-demonstration-over-education-cuts-ends-in-clashes",
+      "published_date": "2026-10-16T16:25:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "What are the routes for Saturday's Paris protest?",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "French economy minister denies country caught in debt 'snowball'",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T23:20:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KENYA CONFIRMS THIRD EBOLA CASE",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/kenya-confirms-third-ebola-case",
+      "published_date": "2026-10-16T20:25:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli",
+      "published_date": "2026-10-16T19:21:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India detains top 'cockroach' leader as hundreds protest in capital",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261016-india-detains-top-cockroach-leader-as-hundreds-protest-in-capital",
+      "published_date": "2026-10-16T15:53:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NFL Paris Game: How to watch American football in France",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261014/french-economy-minister-denies-country-caught-in-debt-snowball",
-      "published_date": "2026-10-14T07:32:58+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20261016/nfl-paris-game-how-to-watch-american-football-in-france",
+      "published_date": "2026-10-16T15:17:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The risks faced by women migrants in Europe",
@@ -666,41 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/sports/20261016-marseille-woes-continue-with-a-second-consecutive-europa-league-defeat",
       "published_date": "2026-10-16T05:41:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police accused over war-like injuries to teenagers in school protests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/16/french-police-injuries-teenagers-school-protests-arrests-custody",
-      "published_date": "2026-10-16T04:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-15T22:37:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least five feared dead in Oregon elementary school shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
-      "published_date": "2026-10-15T21:58:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20261015-sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
-      "published_date": "2026-10-15T21:15:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
-      "published_date": "2026-10-15T21:07:06+00:00",
       "category": "Local Events"
     }
   ]
