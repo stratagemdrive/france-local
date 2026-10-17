@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-10-17T01:00:04.426246+00:00",
+  "last_updated": "2026-10-17T14:00:56.605030+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Bank of England governor walks out of IMF summit in protest against Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+      "published_date": "2026-10-17T12:15:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T11:56:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France faces day of cost-of-living protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261017-france-faces-day-of-cost-of-living-protests",
+      "published_date": "2026-10-17T11:47:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shipping attacks threaten Turkey's resolve to keep warships out of Black Sea",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/podcasts/international-report/20261017-shipping-attacks-threaten-turkey-s-resolve-to-keep-warships-out-of-black-sea",
+      "published_date": "2026-10-17T11:43:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelensky says US move to waive sanctions 'rewards' Russia's Putin",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261017-zelensky-says-us-move-to-waive-sanctions-rewards-russia-s-putin",
+      "published_date": "2026-10-17T11:11:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelensky drums up European backing as Trump ties slump",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261017-zelensky-drums-up-european-backing-as-trump-ties-slump",
+      "published_date": "2026-10-17T09:25:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit’s back – but are British voters ready to contemplate a reversal?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/17/brexit-back-british-voters-ready-contemplate-reversal",
+      "published_date": "2026-10-17T05:00:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
       "source": "France 24",
@@ -29,6 +78,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
       "published_date": "2026-10-16T18:09:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The verdict: Would your life change if the UK rejoined the EU?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261016/the-verdict-would-your-life-change-if-the-uk-rejoined-the-eu",
+      "published_date": "2026-10-16T16:36:08+00:00",
       "category": "Diplomacy"
     },
     {
@@ -88,60 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "British food and drink exports to EU collapse by more than a third since Brexit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/16/british-food-drink-exports-to-eu-collapse-brexit",
-      "published_date": "2026-10-16T12:34:37+00:00",
-      "category": "Diplomacy"
+      "title": "AI midwife seeks to fill gaps in Zimbabwe's maternal health care",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20261017-ai-midwife-seeks-to-fill-gaps-in-zimbabwe-s-maternal-health-care",
+      "published_date": "2026-10-17T13:44:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Zelenskyy thanks 'real leaders' at EU summit for their support – video",
+      "title": "Trump’s pause on Russia sanctions will intensify war in Ukraine, Zelenskyy warns",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/16/zelenskyy-thanks-real-leaders-at-eu-summit-for-their-support-video",
-      "published_date": "2026-10-16T12:19:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+      "published_date": "2026-10-17T13:28:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU and Canada seek closer ties: Will Canada become the EU's first associate member?",
+      "title": "‘Drones all night. By morning, you smell the smoke’: life in the last hotel on Ukraine’s frontline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/ukraine-kherson-richelievsky-displaced-drones-last-hotel-frontline",
+      "published_date": "2026-10-17T11:00:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia hails Trump waiving sanctions as 'historic'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261016-eu-and-canada-seek-closer-ties-will-canada-become-the-eu-s-first-associate-member",
-      "published_date": "2026-10-16T12:04:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261017-russia-hails-trump-waiving-sanctions-as-historic",
+      "published_date": "2026-10-17T10:41:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Zelensky rallies European allies as Trump ties slump",
+      "title": "Trump says did not order curb to Starshield for Ukraine",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump",
-      "published_date": "2026-10-16T09:21:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261017-trump-says-did-not-order-curb-to-starshield-for-ukraine",
+      "published_date": "2026-10-17T10:19:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU leaders face budget divisions, discuss Ukraine at Brussels summit",
+      "title": "Trump waives new Russia sanctions as Ukraine ties slump",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261016-eu-leaders-face-budget-divisions-discuss-ukraine-at-brussels-summit",
-      "published_date": "2026-10-16T09:20:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump",
+      "published_date": "2026-10-17T09:23:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘A direct cultural threat’: your questions on the rise of the right across Europe answered",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/community/2026/oct/16/far-right-politics-rise-across-europe-afd-germany-elections-your-questions-answered",
-      "published_date": "2026-10-16T09:00:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK could quickly re-enter EU with ‘Switzerland plus’ deal, senior MEP says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-eu-europe-switzerland-plus-bernd-lange-brexit",
-      "published_date": "2026-10-16T07:00:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Le Pen looms large as Macron enters final months on EU stage",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261016/le-pen-looms-large-as-macron-enters-final-months-on-eu-stage",
-      "published_date": "2026-10-16T06:51:08+00:00",
-      "category": "Diplomacy"
+      "title": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
+      "published_date": "2026-10-17T06:00:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "🔴Follow live: 'Ukraine is dependent on Starlink', Zelensky says in Brussels",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace",
-      "published_date": "2026-10-16T11:46:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somalia sets date for May presidential election amid ongoing Islamist insurgency",
+      "title": "Pacific nations await climate billions, as fossil fuel divide looms over Cop31",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261016-somalia-sets-date-for-may-presidential-election-amid-ongoing-islamist-insurgency",
-      "published_date": "2026-10-16T09:53:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How books are being scanned and destroyed to train artificial intelligence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261016-how-books-are-being-scanned-and-destroyed-to-train-artificial-intelligence",
-      "published_date": "2026-10-16T09:31:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US considers hitting Iran with 'Mother of All Bombs'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261016-us-considers-hitting-iran-with-mother-of-all-bombs",
-      "published_date": "2026-10-16T09:27:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK bookstores scramble as Sally Rooney's novels pulled over Palestine Action support",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261016-uk-bookstores-scramble-as-sally-rooney-novels-pulled-over-palestine-action-support",
-      "published_date": "2026-10-16T06:15:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in Yemen: Houthis now ‘virtually independent’ in weapons production",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261016-war-in-yemen-houthis-now-virtually-independent-in-weapons-production",
-      "published_date": "2026-10-16T04:27:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
-      "published_date": "2026-10-15T23:49:57+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/environment/20261017-pacific-nations-await-climate-billions-as-fossil-fuel-divide-looms-over-cop31",
+      "published_date": "2026-10-17T07:32:20+00:00",
+      "category": "Energy"
     },
     {
       "title": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Trial lawyer for Ukrainian accused of sabotage says Russia used Nord Stream as a ‘weapon’",
+      "title": "Students, trade unions and Yellow Vests set to protest across France",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261014-defence-of-ukrainian-accused-of-sabotage-says-russia-used-nord-stream-pipelines-as-weapon",
-      "published_date": "2026-10-14T06:37:42+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20261017-students-trade-unions-and-yellow-vests-set-to-protest-across-france",
+      "published_date": "2026-10-17T09:11:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thousands expected to take part in day of action across France",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261017-thousands-expected-to-take-part-in-day-of-action-across-france",
+      "published_date": "2026-10-17T09:08:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
+      "published_date": "2026-10-17T06:45:23+00:00",
+      "category": "Economy"
     },
     {
       "title": "Argentine demonstration over education cuts ends in clashes",
@@ -543,25 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "Louvre director says major renovation plan will be ‘extremely complex’",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261014-louvre-director-says-major-renovation-plan-will-be-extremely-complex",
-      "published_date": "2026-10-14T13:56:23+00:00",
-      "category": "Economy"
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T13:51:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French debt crisis: What's happening and how bad is it?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261014/french-debt-crisis-whats-happening-and-how-bad-is-it",
-      "published_date": "2026-10-14T10:59:19+00:00",
-      "category": "Economy"
+      "title": "Pope Leo discharged from hospital after cancer operation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
+      "published_date": "2026-10-17T13:41:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "F1, Rwanda announce creation of African Grand Prix",
+      "title": "Police clash with protesters as tens of thousands take to streets across France",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+      "published_date": "2026-10-17T13:35:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cameroonian journalist shot in Bamenda",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261014-f1-rwanda-announce-creation-of-african-grand-prix",
-      "published_date": "2026-10-14T10:51:41+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20261017-cameroonian-journalist-shot-in-bamenda",
+      "published_date": "2026-10-17T11:16:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uganda launches Ebola vaccine trial",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261017-uganda-launches-ebola-vaccine-trial",
+      "published_date": "2026-10-17T11:00:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenya reports third Ebola case, contact tracing continues",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues",
+      "published_date": "2026-10-17T10:56:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coastal homes burn as hot winds fuel California fires",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261017-coastal-homes-burn-as-hot-winds-fuel-california-fires",
+      "published_date": "2026-10-17T10:37:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo returns to Vatican four days after lung cancer surgery",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery",
+      "published_date": "2026-10-17T10:35:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France's new sexual violence bill 'fails to tackle root causes', campaigners warn",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261017-france-s-new-sexual-violence-bill-fails-to-tackle-root-causes",
+      "published_date": "2026-10-17T10:17:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ligue 1: Paris Saint-Germain aim to build on recent progress at Strasbourg",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20261017-ligue-1-paris-saint-germain-aim-to-build-on-recent-progress-at-strasbourg",
+      "published_date": "2026-10-17T09:41:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LATEST: Clashes erupt in France on nationwide day of protests",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261017/macron-calls-for-calm-amid-fears-of-violence-at-france-protests",
+      "published_date": "2026-10-17T09:33:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Live: Tens of thousands join protests across France, clashes reported in several cities",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
+      "published_date": "2026-10-17T05:17:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French schoolchildren have been treated like enemies to be crushed – for telling the truth | Rokhaya Diallo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools",
+      "published_date": "2026-10-17T04:00:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pope pictured for first time since surgery and cancer diagnosis",
@@ -610,97 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20261016-us-journalist-injured-during-israeli-settler-attack-on-west-bank-olive-harvest",
       "published_date": "2026-10-16T15:01:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayors urge France to recognise 1961 Paris massacre of Algerians as state crime",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261016-mayors-urge-france-to-recognise-1961-paris-massacre-of-algerians-as-state-crime",
-      "published_date": "2026-10-16T14:38:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British man fined €3,000 for causing two-year-old son’s death in Cyprus",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/16/british-man-joshua-foster-fined-son-death-cyprus",
-      "published_date": "2026-10-16T14:05:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One in five French people would consider leaving if Le Pen wins election",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261016/one-in-five-french-people-would-consider-leaving-if-le-pen-wins-election",
-      "published_date": "2026-10-16T14:01:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo XIV celebrates mass in hospital while recovering from lung cancer operation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261016-pope-leo-xiv-celebrates-mass-in-hospital-while-recovering-from-lung-cancer-operation",
-      "published_date": "2026-10-16T12:57:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norwegian teenage hitman hired for UK murder by Iran-backed crime gang jailed for 20 years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/16/norwegian-teenager-hired-hitman-iranian-gang-jailed-20-years",
-      "published_date": "2026-10-16T12:40:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "School students called to join Yellow Vests and unions for mass French protest",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261016-school-students-called-to-join-yellow-vests-and-unions-for-mass-national-protest",
-      "published_date": "2026-10-16T11:56:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spring-summer 2027 ready-to-wear collections: Africa in the spotlight at Paris Fashion Week",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/fashion/20261016-spring-summer-2027-ready-to-wear-collections-africa-in-the-spotlight-at-paris-fashion-week",
-      "published_date": "2026-10-16T10:58:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flash floods destroy villages in central Nepal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal",
-      "published_date": "2026-10-16T10:12:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shooter kills teacher, three children at Oregon elementary school",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261016-shooter-kills-teacher-three-children-at-oregon-elementary-school",
-      "published_date": "2026-10-16T09:27:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French rugby players blocked at UK airport due to ETA issue",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261016/french-rugby-players-blocked-at-uk-airport-due-to-eta-issue",
-      "published_date": "2026-10-16T06:57:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian authorities detain 'cockroach' movement founder Dipke ahead of new protest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20261016-indian-authorities-heighten-security-close-park-ahead-cockroach-movement-rally",
-      "published_date": "2026-10-16T06:39:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Midterms 2026: Can Democrats capitalise on Latino voter regret?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261016-midterms-2026-can-democrats-capitalise-on-latino-voter-regret",
-      "published_date": "2026-10-16T06:22:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marseille's woes continue with second consecutive Europa League defeat",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20261016-marseille-woes-continue-with-a-second-consecutive-europa-league-defeat",
-      "published_date": "2026-10-16T05:41:13+00:00",
       "category": "Local Events"
     }
   ]
