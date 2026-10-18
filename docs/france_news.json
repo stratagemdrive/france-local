@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-10-17T14:00:56.605030+00:00",
+  "last_updated": "2026-10-18T00:35:41.972104+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
+      "published_date": "2026-10-17T14:58:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Stay humble', Macron tells Le Pen as French vote looms",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261017/stay-humble-macron-tells-le-pen-as-french-vote-looms",
+      "published_date": "2026-10-17T14:43:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bank of England governor walks out of IMF summit in protest against Russia",
       "source": "The Guardian",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T14:44:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France and Germany strike deal to boost Europe's struggling car industry",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261016-france-and-germany-strike-deal-to-boost-europe-s-struggling-car-industry",
-      "published_date": "2026-10-16T14:38:29+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war: \"Mothers of Kherson\" opera opens in Poland",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261017-ukraine-war-mothers-of-kherson-opera-opens-in-poland",
+      "published_date": "2026-10-17T15:57:33+00:00",
+      "category": "Military"
     },
     {
       "title": "AI midwife seeks to fill gaps in Zimbabwe's maternal health care",
@@ -274,13 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/africa/20261016-ethiopia-announces-interim-government-tigray-calls-for-polls-six-months",
       "published_date": "2026-10-16T13:05:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'America, with this president, is not our ally. Trump is a liar': French MEP Bernard Guetta",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261016-america-with-this-president-is-not-our-ally-trump-is-a-liar-french-mep-bernard-guetta",
-      "published_date": "2026-10-16T12:55:38+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T20:52:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France: What's different about today's protests?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261017-france-what-s-different-about-today-s-protests",
+      "published_date": "2026-10-17T15:07:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France: Students, unions and Yellow Vests unite against austerity",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261017-france-students-unions-and-yellow-vests-unite-against-austerity",
+      "published_date": "2026-10-17T14:45:55+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Students, trade unions and Yellow Vests set to protest across France",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261017-students-trade-unions-and-yellow-vests-set-to-protest-across-france",
@@ -543,25 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "Moving to France: UK tax responsibilities, Canadian property rules and avoiding the heat",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261014/moving-to-france-uk-tax-responsibilities-canadian-property-rules-and-avoiding-the-heat",
-      "published_date": "2026-10-14T15:34:01+00:00",
-      "category": "Economy"
+      "title": "Anti-government protesters battle with police in Albania",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T20:53:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "PODCAST 🎧: The perils of French lovers and Le Pen's plan for a 'foreigner tax'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261014/podcast-the-perils-of-french-lovers-and-le-pens-plan-for-a-foreigner-tax",
-      "published_date": "2026-10-14T14:47:51+00:00",
-      "category": "Economy"
+      "title": "Looters seize on massive French protests to raid and vandalise shops",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
+      "published_date": "2026-10-17T20:15:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
+      "title": "Police clash with students and workers protesting in Paris – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
-      "published_date": "2026-10-14T13:58:39+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/oct/17/police-clash-with-students-and-workers-protesting-in-paris-video",
+      "published_date": "2026-10-17T19:02:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India: Police crack down on New Delhi protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261017-india-police-crack-down-on-new-delhi-protests",
+      "published_date": "2026-10-17T16:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
+      "published_date": "2026-10-17T16:00:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protests in France: \"Two fires broke out in Place de la République\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261017-protests-in-france-two-fires-broke-out-in-place-de-la-r%C3%A9publique",
+      "published_date": "2026-10-17T15:53:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Violence mars day of action over poor state of French schools and rising prices",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261017-violence-mars-day-of-action-over-poor-state-of-french-schools-and-rising-prices",
+      "published_date": "2026-10-17T15:39:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US: Four killed in Oregon school shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261017-us-four-killed-in-oregon-school-shooting",
+      "published_date": "2026-10-17T15:16:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: \"We've seen extremely high tensions between protesters and law enforcement\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261017-france-we-ve-seen-extremely-high-tensions-between-protesters-and-law-enforcement",
+      "published_date": "2026-10-17T14:46:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far-right seeks ouster of constitutional court chief",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261017/french-far-right-seeks-ouster-of-constitutional-court-chief",
+      "published_date": "2026-10-17T14:30:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pope discharged from hospital days after lung cancer surgery",
@@ -582,6 +652,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
       "published_date": "2026-10-17T13:35:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fires and clashes rock France amid massive nationwide protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261017-looting-fires-and-clashes-rock-france-amid-massive-nationwide-protests",
+      "published_date": "2026-10-17T12:31:24+00:00",
       "category": "Local Events"
     },
     {
@@ -624,83 +701,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20261017-france-s-new-sexual-violence-bill-fails-to-tackle-root-causes",
       "published_date": "2026-10-17T10:17:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ligue 1: Paris Saint-Germain aim to build on recent progress at Strasbourg",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20261017-ligue-1-paris-saint-germain-aim-to-build-on-recent-progress-at-strasbourg",
-      "published_date": "2026-10-17T09:41:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LATEST: Clashes erupt in France on nationwide day of protests",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261017/macron-calls-for-calm-amid-fears-of-violence-at-france-protests",
-      "published_date": "2026-10-17T09:33:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: Tens of thousands join protests across France, clashes reported in several cities",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
-      "published_date": "2026-10-17T05:17:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French schoolchildren have been treated like enemies to be crushed – for telling the truth | Rokhaya Diallo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools",
-      "published_date": "2026-10-17T04:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T23:20:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KENYA CONFIRMS THIRD EBOLA CASE",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/kenya-confirms-third-ebola-case",
-      "published_date": "2026-10-16T20:25:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli",
-      "published_date": "2026-10-16T19:21:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India detains top 'cockroach' leader as hundreds protest in capital",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261016-india-detains-top-cockroach-leader-as-hundreds-protest-in-capital",
-      "published_date": "2026-10-16T15:53:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NFL Paris Game: How to watch American football in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261016/nfl-paris-game-how-to-watch-american-football-in-france",
-      "published_date": "2026-10-16T15:17:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The risks faced by women migrants in Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-51/20261016-the-risks-faced-by-women-migrants-in-europe",
-      "published_date": "2026-10-16T15:05:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US journalist injured during Israeli settler attack on West Bank olive harvest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261016-us-journalist-injured-during-israeli-settler-attack-on-west-bank-olive-harvest",
-      "published_date": "2026-10-16T15:01:40+00:00",
       "category": "Local Events"
     }
   ]
