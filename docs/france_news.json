@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-10-18T00:35:41.972104+00:00",
+  "last_updated": "2026-10-18T14:14:00.049028+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "France protests: \"There's a whole range of grievances at play\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261018-france-protests-there-s-a-whole-range-of-grievances-at-play",
+      "published_date": "2026-10-18T13:16:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ebola vaccine trials 'reason for hope' in DR Congo and beyond",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20261018-two-ebola-vaccines-on-trial-give-hope-to-counter-latest-drc-outbreak",
+      "published_date": "2026-10-18T11:26:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
+      "published_date": "2026-10-18T04:00:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio says Trump to 'analyze' global impact of Russia sanctions during pause",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact",
+      "published_date": "2026-10-18T02:39:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank",
       "source": "France 24",
@@ -102,6 +130,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T15:59:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261016-cost-of-living-demonstrations-to-grip-pre-election-france",
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T15:45:10+00:00",
-      "category": "Diplomacy"
+      "title": "'Like we had a war': France counts cost of violent protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261018-like-we-had-a-war-france-counts-cost-of-violent-protests",
+      "published_date": "2026-10-18T13:17:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Zelensky hails \"real leaders\" in Europe, blasts Trump's diesel deal with Russia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261016-zelensky-hails-real-leaders-in-europe-blasts-trump-s-diesel-deal-with-russia",
-      "published_date": "2026-10-16T15:40:54+00:00",
-      "category": "Diplomacy"
+      "title": "IN PICTURES: 'Like we had a war': France counts cost of violent protests",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261018/record-855-people-arrested-over-paris-protest-violence-police",
+      "published_date": "2026-10-18T09:07:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "France braces for massive protests: Yellow Vests to join students on Saturday",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261016-france-braces-for-massive-protests-yellow-vests-to-join-students-on-saturday",
-      "published_date": "2026-10-16T15:38:44+00:00",
-      "category": "Diplomacy"
+      "title": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/18/drone-attacks-ships-black-sea-russia-ukraine-war",
+      "published_date": "2026-10-18T05:00:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Italy prolongs Schengen suspension with Spain, talks loom",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261016-italy-prolongs-schengen-suspension-with-spain-talks-loom",
-      "published_date": "2026-10-16T15:37:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "REPLAY: Ukraine's Zelensky holds presser in Brussels",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261016-replay-ukraine-s-zelensky-holds-presser-in-brussels",
-      "published_date": "2026-10-16T15:36:16+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/ukraine-war-briefing-trumps-sanctions-waiver-is-a-60-day-pause-to-analyse-economic-impact-says-rubio",
+      "published_date": "2026-10-18T01:07:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war: \"Mothers of Kherson\" opera opens in Poland",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "‘This is my answer’: Zelenskyy smiles at suggestion he is a scapegoat for Trump’s problems – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
-      "published_date": "2026-10-16T14:54:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy smiles when asked if Trump is treating him as a 'scapegoat' – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/16/zelenskyy-smiles-when-asked-if-trump-is-treating-him-as-a-scapegoat-video",
-      "published_date": "2026-10-16T14:01:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French films with English subtitles to watch in November 2026",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261016/french-films-with-english-subtitles-to-watch-in-november-2026",
-      "published_date": "2026-10-16T13:50:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia announces interim government in Tigray, aims for polls in six months",
+      "title": "Ukrainian drone attack on Saint Petersburg kills one, sets refinery ablaze",
       "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261016-ethiopia-announces-interim-government-tigray-calls-for-polls-six-months",
-      "published_date": "2026-10-16T13:05:23+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/europe/20261018-ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack",
+      "published_date": "2026-10-18T12:03:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pacific nations await climate billions, as fossil fuel divide looms over Cop31",
@@ -417,11 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Trump says 'massive' oil, gas and mineral exploration to begin in Greenland",
+      "title": "France: Protests \"brought the entire population together for a common purpose\"",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland",
-      "published_date": "2026-10-14T06:41:15+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose",
+      "published_date": "2026-10-18T09:05:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France: Who took part in Saturday's protests?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests",
+      "published_date": "2026-10-18T09:03:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France: Who was behind the violence at Saturday's protests?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests",
+      "published_date": "2026-10-18T09:01:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "On the Agenda: What’s happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261018/on-the-agenda-whats-happening-in-france-this-week-232",
+      "published_date": "2026-10-18T07:29:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
+      "published_date": "2026-10-18T07:00:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Is sisterhood the secret to a long life? The Sardinian village that could hold key to women’s longevity",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/bolotana-sardinian-village-women-centenarians-longevity-long-life",
+      "published_date": "2026-10-18T04:00:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
@@ -522,185 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Macron's 'trickle-down economics': French poverty at 'highest level' in decades, hunger on the rise",
+      "title": "'Like we had a war': France left reeling after nationwide violent protests",
       "source": "France 24",
-      "url": "https://www.france24.com/en/macron-s-trickle-down-economics-french-poverty-at-highest-level-in-decades-hunger-on-the-rise",
-      "published_date": "2026-10-15T11:40:32+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20261018-like-we-had-a-war-france-left-reeling-after-nationwide-violent-protests",
+      "published_date": "2026-10-18T13:50:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Revealed: Serbian ruler’s secret role in ‘illegal’ effort to help Trump business",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/15/trump-kushner-vucic-belgrade-serbia",
-      "published_date": "2026-10-15T11:00:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Poland’s ascent from communist state to top 20 economy reverses the brain drain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
-      "published_date": "2026-10-15T05:56:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "France 'can no longer finance' Ukraine, far-right presidential frontrunner Le Pen says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says",
-      "published_date": "2026-10-15T05:49:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pope Leo’s recovery from lung cancer surgery ‘progressing as planned’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned",
-      "published_date": "2026-10-14T22:31:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "IMF chief says it will 'take time' to restore confidence in France's finances",
+      "title": "Three years on from Kenya's Shakahola cult murders, families still seek closure",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261014-imf-chief-says-it-will-take-time-to-restore-confidence-in-france-s-finances",
-      "published_date": "2026-10-14T19:22:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Anti-government protesters battle with police in Albania",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T20:53:00+00:00",
+      "url": "https://www.rfi.fr/en/africa/20261018-shakahola-families-still-searching-for-their-dead-as-judgment-nears",
+      "published_date": "2026-10-18T13:47:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Looters seize on massive French protests to raid and vandalise shops",
+      "title": "The week in pictures: Escalating protests across Europe and the tragic capsize of a migrant boat",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
-      "published_date": "2026-10-17T20:15:02+00:00",
+      "url": "https://www.france24.com/en/france/20261018-the-week-in-pictures-escalating-protests-across-europe-and-the-tragic-capsize-of-a-migrant-boat",
+      "published_date": "2026-10-18T13:36:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Police clash with students and workers protesting in Paris – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/17/police-clash-with-students-and-workers-protesting-in-paris-video",
-      "published_date": "2026-10-17T19:02:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India: Police crack down on New Delhi protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261017-india-police-crack-down-on-new-delhi-protests",
-      "published_date": "2026-10-17T16:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
-      "published_date": "2026-10-17T16:00:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests in France: \"Two fires broke out in Place de la République\"",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261017-protests-in-france-two-fires-broke-out-in-place-de-la-r%C3%A9publique",
-      "published_date": "2026-10-17T15:53:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Violence mars day of action over poor state of French schools and rising prices",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261017-violence-mars-day-of-action-over-poor-state-of-french-schools-and-rising-prices",
-      "published_date": "2026-10-17T15:39:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US: Four killed in Oregon school shooting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261017-us-four-killed-in-oregon-school-shooting",
-      "published_date": "2026-10-17T15:16:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: \"We've seen extremely high tensions between protesters and law enforcement\"",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261017-france-we-ve-seen-extremely-high-tensions-between-protesters-and-law-enforcement",
-      "published_date": "2026-10-17T14:46:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right seeks ouster of constitutional court chief",
+      "title": "OPINION: Saturday's violence in France was a generational revolt, but there may be worse to come",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261017/french-far-right-seeks-ouster-of-constitutional-court-chief",
-      "published_date": "2026-10-17T14:30:41+00:00",
+      "url": "https://www.thelocal.fr/20261018/opinion-saturdays-violence-in-france-was-a-generational-revolt-but-there-may-be-worse-to-come",
+      "published_date": "2026-10-18T13:29:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+      "published_date": "2026-10-18T13:18:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "🔴Live: Trump says 'France is burning', blames 'immigration' for nationwide protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
+      "published_date": "2026-10-18T12:57:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T13:51:36+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T12:07:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Pope Leo discharged from hospital after cancer operation",
+      "title": "Paris protests: A look at the aftermath",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261018-paris-protests-a-look-at-the-aftermath",
+      "published_date": "2026-10-18T11:51:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Atlanta’s iconic tavern marks Georgia’s past with an eye on future as midterms approach",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261018-atlanta-iconic-tavern-marks-georgia-past-eye-future-midterms-approach-ossoff-collins",
+      "published_date": "2026-10-18T11:15:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
-      "published_date": "2026-10-17T13:41:49+00:00",
+      "url": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
+      "published_date": "2026-10-18T11:02:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Police clash with protesters as tens of thousands take to streets across France",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
-      "published_date": "2026-10-17T13:35:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fires and clashes rock France amid massive nationwide protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261017-looting-fires-and-clashes-rock-france-amid-massive-nationwide-protests",
-      "published_date": "2026-10-17T12:31:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cameroonian journalist shot in Bamenda",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261017-cameroonian-journalist-shot-in-bamenda",
-      "published_date": "2026-10-17T11:16:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uganda launches Ebola vaccine trial",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261017-uganda-launches-ebola-vaccine-trial",
-      "published_date": "2026-10-17T11:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya reports third Ebola case, contact tracing continues",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues",
-      "published_date": "2026-10-17T10:56:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coastal homes burn as hot winds fuel California fires",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261017-coastal-homes-burn-as-hot-winds-fuel-california-fires",
-      "published_date": "2026-10-17T10:37:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo returns to Vatican four days after lung cancer surgery",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery",
-      "published_date": "2026-10-17T10:35:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's new sexual violence bill 'fails to tackle root causes', campaigners warn",
+      "title": "France counts the cost of violence and looting during day of action",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261017-france-s-new-sexual-violence-bill-fails-to-tackle-root-causes",
-      "published_date": "2026-10-17T10:17:12+00:00",
+      "url": "https://www.rfi.fr/en/france/20261018-france-counts-the-cost-of-violence-and-looting-during-day-of-action",
+      "published_date": "2026-10-18T10:22:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France protests: Did the government make the wrong decisions?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions",
+      "published_date": "2026-10-18T09:00:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG back on top of Ligue 1 after stunning Strasbourg comeback",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20261018-ligue-1-psg-back-on-top-of-ligue-1-after-stunning-strasbourg-comeback",
+      "published_date": "2026-10-18T08:48:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Town hall in Limoges 'largely lost' to blaze set during French protests",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261018/town-hall-in-limoges-largely-lost-to-blaze-set-during-french-protests",
+      "published_date": "2026-10-18T08:30:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After a year in turmoil, the Paris Louvre faces uncertain future",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261018/after-a-year-in-turmoil-the-paris-louvre-faces-uncertain-future",
+      "published_date": "2026-10-18T08:22:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Never seen anything like it': mass looting grips Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261018/never-seen-anything-like-it-mass-looting-grips-paris",
+      "published_date": "2026-10-18T08:11:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poison and remedy: secrets of the botanic garden at Paris's Pharmacy Faculty",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20261018-the-poison-and-the-remedy-secrets-of-the-botanic-garden-at-paris-s-pharmacy-faculty",
+      "published_date": "2026-10-18T07:59:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia",
+      "published_date": "2026-10-18T06:30:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘How do we welcome the stranger, with humanity or anger?’ The forgotten Germans who found refuge in Ireland",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/stage/2026/oct/18/refuge-theatre-play-staatstheater-mainz",
+      "published_date": "2026-10-18T06:00:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India's 'cockroach' movement founder released from police custody",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody",
+      "published_date": "2026-10-18T05:47:00+00:00",
       "category": "Local Events"
     }
   ]
