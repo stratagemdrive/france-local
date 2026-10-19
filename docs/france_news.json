@@ -1,8 +1,85 @@
 {
   "country": "France",
-  "last_updated": "2026-10-18T14:14:00.049028+00:00",
+  "last_updated": "2026-10-19T00:44:58.100092+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T23:28:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T23:20:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T20:33:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron begins Gulf tour focused on fuel supplies and strategic ties",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261018-macron-begins-four-state-gulf-tour-focused-on-fuel-supplies-and-strategic-ties",
+      "published_date": "2026-10-18T20:04:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron promises tough punishments for rioters during nationwide day of action",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261018-macron-promises-tough-punishments-for-rioters-during-nationwide-day-of-action",
+      "published_date": "2026-10-18T19:46:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "🔴 Macron says 'nothing justifies' violence in protests during address to nation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation",
+      "published_date": "2026-10-18T19:03:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+      "published_date": "2026-10-18T18:57:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "REPLAY: French President Emmanuel Macron addresses the nation after unrest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest",
+      "published_date": "2026-10-18T18:33:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "LATEST: Macron says 'nothing justifies' scenes of violence in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261018/latest-macron-says-nothing-justifies-scenes-of-violence-in-france",
+      "published_date": "2026-10-18T18:23:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner",
+      "published_date": "2026-10-18T18:13:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says 'France is burning', country 'shattered' by immigration",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261018-trump-says-france-is-burning-country-shattered-by-immigration",
+      "published_date": "2026-10-18T16:54:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France protests: \"There's a whole range of grievances at play\"",
       "source": "France 24",
@@ -67,81 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Shipping attacks threaten Turkey's resolve to keep warships out of Black Sea",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20261017-shipping-attacks-threaten-turkey-s-resolve-to-keep-warships-out-of-black-sea",
-      "published_date": "2026-10-17T11:43:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelensky says US move to waive sanctions 'rewards' Russia's Putin",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261017-zelensky-says-us-move-to-waive-sanctions-rewards-russia-s-putin",
-      "published_date": "2026-10-17T11:11:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelensky drums up European backing as Trump ties slump",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261017-zelensky-drums-up-european-backing-as-trump-ties-slump",
-      "published_date": "2026-10-17T09:25:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brexit’s back – but are British voters ready to contemplate a reversal?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/17/brexit-back-british-voters-ready-contemplate-reversal",
-      "published_date": "2026-10-17T05:00:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate",
-      "published_date": "2026-10-16T20:25:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261016-finish-what-we-started-after-student-protests-france-braces-return-yellow-vests",
-      "published_date": "2026-10-16T20:10:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Clashes grip Tirana as Albanian PM blames 'foreign hands' for mounting unrest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands",
-      "published_date": "2026-10-16T19:59:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
-      "published_date": "2026-10-16T18:09:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The verdict: Would your life change if the UK rejoined the EU?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261016/the-verdict-would-your-life-change-if-the-uk-rejoined-the-eu",
-      "published_date": "2026-10-16T16:36:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T15:59:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T00:06:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
+      "title": "Canadian military base fire kills at least four, injures dozens",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261016-cost-of-living-demonstrations-to-grip-pre-election-france",
-      "published_date": "2026-10-16T15:55:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised",
+      "published_date": "2026-10-18T22:16:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump defends Russia sanctions relief, blasts Zelensky on peace",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
+      "published_date": "2026-10-18T21:59:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+      "published_date": "2026-10-18T16:37:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election",
+      "published_date": "2026-10-18T16:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who capped Starlink in Ukraine? Musk, Trump and Rubio give three different answers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/tech-24/20261018-who-capped-starlink-in-ukraine-musk-trump-and-rubio-give-three-different-answers",
+      "published_date": "2026-10-18T14:51:28+00:00",
+      "category": "Military"
     },
     {
       "title": "'Like we had a war': France counts cost of violent protests",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T19:33:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'US tilting toward Russia: Europeans are standing more and more solidly with Zelensky'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261016-us-tilting-toward-russia-europeans-are-standing-more-and-more-solidly-with-zelensky",
-      "published_date": "2026-10-16T18:33:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
+      "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy",
-      "published_date": "2026-10-16T18:01:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British students, like their French peers, have been known to challenge authority | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/oct/16/british-students-like-their-french-peers-have-been-known-to-challenge-authority",
-      "published_date": "2026-10-16T16:32:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Madagascar marks one year since uprising as Russia’s influence grows",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261016-madagascar-marks-one-year-since-uprising-as-russia-s-influence-grows",
-      "published_date": "2026-10-16T16:02:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T16:00:30+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+      "published_date": "2026-10-18T23:01:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ukrainian drone attack on Saint Petersburg kills one, sets refinery ablaze",
@@ -414,13 +421,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-14T13:41:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘From liabilities to goldmines’: refineries eye record profits from diesel shortage",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil",
-      "published_date": "2026-10-14T12:26:27+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,76 @@
       "category": "Economy"
     },
     {
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T22:22:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Riots: A Gift for Le Pen?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261018-french-riots-a-gift-for-le-pen",
+      "published_date": "2026-10-18T18:25:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French mayor attacked by Israeli settlers in occupied West Bank – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/18/french-mayor-attacked-by-israeli-settlers-in-occupied-west-bank-video",
+      "published_date": "2026-10-18T16:58:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Renewed clashes in Paris: \"We've seen numerous CRS charges to disperse protesters\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261018-renewed-clashes-in-paris-we-ve-seen-numerous-crs-charges-to-disperse-protesters",
+      "published_date": "2026-10-18T16:53:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli settlers attack European diplomats, beat French mayor",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor",
+      "published_date": "2026-10-18T16:51:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France protests: \"There's a constant back and forth over who's actually responsible\"",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261018-france-protests-there-s-a-constant-back-and-forth-over-who-s-actually-responsible",
+      "published_date": "2026-10-18T16:49:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on plague in Russia: what is most worrying is the lack of information | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information",
+      "published_date": "2026-10-18T16:30:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris police clash with demonstrators and looters as protests continue",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261018-paris-police-in-new-battles-with-protesters-and-looters",
+      "published_date": "2026-10-18T16:11:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why are people protesting across Europe?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer",
+      "published_date": "2026-10-18T15:15:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I saw rioting, looting, above all, anger. If French leaders think more violence will solve this, they’re mistaken | Oliver Haynes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/18/france-riot-looting-anger-violence-protest-streets",
+      "published_date": "2026-10-18T15:06:42+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "'Like we had a war': France left reeling after nationwide violent protests",
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20261018-like-we-had-a-war-france-left-reeling-after-nationwide-violent-protests",
@@ -631,76 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
       "published_date": "2026-10-18T11:02:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France counts the cost of violence and looting during day of action",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261018-france-counts-the-cost-of-violence-and-looting-during-day-of-action",
-      "published_date": "2026-10-18T10:22:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France protests: Did the government make the wrong decisions?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions",
-      "published_date": "2026-10-18T09:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG back on top of Ligue 1 after stunning Strasbourg comeback",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20261018-ligue-1-psg-back-on-top-of-ligue-1-after-stunning-strasbourg-comeback",
-      "published_date": "2026-10-18T08:48:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Town hall in Limoges 'largely lost' to blaze set during French protests",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261018/town-hall-in-limoges-largely-lost-to-blaze-set-during-french-protests",
-      "published_date": "2026-10-18T08:30:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After a year in turmoil, the Paris Louvre faces uncertain future",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261018/after-a-year-in-turmoil-the-paris-louvre-faces-uncertain-future",
-      "published_date": "2026-10-18T08:22:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Never seen anything like it': mass looting grips Paris",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261018/never-seen-anything-like-it-mass-looting-grips-paris",
-      "published_date": "2026-10-18T08:11:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poison and remedy: secrets of the botanic garden at Paris's Pharmacy Faculty",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20261018-the-poison-and-the-remedy-secrets-of-the-botanic-garden-at-paris-s-pharmacy-faculty",
-      "published_date": "2026-10-18T07:59:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia",
-      "published_date": "2026-10-18T06:30:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘How do we welcome the stranger, with humanity or anger?’ The forgotten Germans who found refuge in Ireland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/stage/2026/oct/18/refuge-theatre-play-staatstheater-mainz",
-      "published_date": "2026-10-18T06:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India's 'cockroach' movement founder released from police custody",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody",
-      "published_date": "2026-10-18T05:47:00+00:00",
       "category": "Local Events"
     }
   ]
