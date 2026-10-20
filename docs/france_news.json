@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-10-19T17:17:46.265037+00:00",
+  "last_updated": "2026-10-20T01:31:21.400497+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Russia-China-US summit would prolong the war, Kyiv says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says",
+      "published_date": "2026-10-19T19:21:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
+      "published_date": "2026-10-19T19:00:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on Trump and Putin: Ukraine’s future is not theirs to bargain away | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-trump-and-putin-ukraines-future-is-not-theirs-to-bargain-away",
+      "published_date": "2026-10-19T17:25:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France: ‘localised’ curfews announced after weekend of violence",
       "source": "France 24",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "🔴 Macron says 'nothing justifies' violence in protests during address to nation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation",
-      "published_date": "2026-10-18T19:03:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
+      "title": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
-      "published_date": "2026-10-18T18:57:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/20/ukraine-war-briefing-zelenskyy-claims-us-deliberately-delaying-interceptor-missile-deliveries-to-kyiv",
+      "published_date": "2026-10-20T00:44:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "REPLAY: French President Emmanuel Macron addresses the nation after unrest",
+      "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+      "published_date": "2026-10-20T00:08:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T20:49:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky says Starshield speed limits slowing down frontline response",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest",
-      "published_date": "2026-10-18T18:33:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/zelensky-says-starshield-speed-limits-slowing-down-frontline-response",
+      "published_date": "2026-10-19T18:45:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine deploys drone to airlift wounded soldier in 'world-first' operation",
@@ -253,34 +281,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20261018/record-855-people-arrested-over-paris-protest-violence-police",
       "published_date": "2026-10-18T09:07:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/18/drone-attacks-ships-black-sea-russia-ukraine-war",
-      "published_date": "2026-10-18T05:00:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/18/ukraine-war-briefing-trumps-sanctions-waiver-is-a-60-day-pause-to-analyse-economic-impact-says-rubio",
-      "published_date": "2026-10-18T01:07:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war: \"Mothers of Kherson\" opera opens in Poland",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261017-ukraine-war-mothers-of-kherson-opera-opens-in-poland",
-      "published_date": "2026-10-17T15:57:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI midwife seeks to fill gaps in Zimbabwe's maternal health care",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261017-ai-midwife-seeks-to-fill-gaps-in-zimbabwe-s-maternal-health-care",
-      "published_date": "2026-10-17T13:44:39+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,90 @@
       "category": "Economy"
     },
     {
+      "title": "Trump borrows from far right to blame unrest in France on immigration",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
+      "published_date": "2026-10-19T22:48:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+      "published_date": "2026-10-19T22:34:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France tells online marketplaces to crack down on resale of looted items",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261019-france-tells-online-marketplaces-to-crack-down-on-resale-of-looted-items",
+      "published_date": "2026-10-19T21:24:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Le Pen 'trying to use these events to push her popularity', expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20261019-le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says",
+      "published_date": "2026-10-19T20:54:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Le Pen 'trying to use these events to push her popularity', expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says",
+      "published_date": "2026-10-19T20:53:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Art crime detective Arthur Brand warns: 'All museums have been, and will be, victims of theft'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261019-art-crime-detective-arthur-brand-warns-all-museums-have-been-and-will-be-victims-of-theft",
+      "published_date": "2026-10-19T20:16:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France faces reckoning with public order policing after violent protest weekend",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261019-france-faces-reckoning-public-order-policing-after-violent-protest-weekend",
+      "published_date": "2026-10-19T19:56:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far right seeks to capitalise on protests with calls for law and order",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-far-right-seeks-to-capitalise-on-protests-with-calls-for-law-and-order",
+      "published_date": "2026-10-19T19:41:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris weekend riots raise concerns for tourism industry",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/paris-weekend-riots-raise-concerns-for-tourism-industry",
+      "published_date": "2026-10-19T19:06:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France announces curfew in Paris and ban on protests",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261019/france-announces-curfew-in-paris-and-ban-on-protests",
+      "published_date": "2026-10-19T18:19:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France imposes partial curfews in several cities, including parts of Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+      "published_date": "2026-10-19T18:16:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on France’s protests: a polarised country is in a perilous political moment | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-frances-protests-a-polarised-country-is-in-a-perilous-political-moment",
+      "published_date": "2026-10-19T17:30:02+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "French authorities announce partial curfew in Paris as PM blamed ‘ultra-left’ for exploiting protests – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
@@ -575,6 +659,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting",
       "published_date": "2026-10-19T17:09:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why are people protesting across Europe?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer",
+      "published_date": "2026-10-19T16:36:58+00:00",
       "category": "Local Events"
     },
     {
@@ -610,97 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261019-france-wants-curfews-in-some-areas-after-weekend-of-riots",
       "published_date": "2026-10-19T15:37:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'It's hell': residents reel after violent weekend riots across France – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/19/its-hell-residents-reel-after-violent-weekend-riots-across-france-video",
-      "published_date": "2026-10-19T15:37:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Police weren't overwhelmed by people protesting and marching' about education and cost of living",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261019-police-weren-t-overwhelmed-by-people-protesting-and-marching-about-education-and-cost-of-living",
-      "published_date": "2026-10-19T14:58:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment",
-      "published_date": "2026-10-19T14:16:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Couple enjoy a drink as fires burn nearby amid Paris unrest – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/19/couple-enjoy-a-drink-as-fires-burn-nearby-amid-paris-unrest-video",
-      "published_date": "2026-10-19T14:15:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T14:06:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It looks like a war zone’: France reels as looting continues for second night",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/19/looting-french-cities-continues-second-night",
-      "published_date": "2026-10-19T13:43:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French table tennis star Félix Lebrun enjoys golden glow from European crowns",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20261019-french-table-tennis-star-f%C3%A9lix-lebrun-enjoys-golden-glow-from-european-crowns",
-      "published_date": "2026-10-19T13:35:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Police and protesters clash violently over the weekend",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261019-france-police-and-protesters-clash-violently-over-the-weekend",
-      "published_date": "2026-10-19T13:25:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Storm and flood warnings for south of France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261019/storm-and-flood-warnings-for-south-of-france",
-      "published_date": "2026-10-19T13:10:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French PM Lecornu says ready to declare state of emergency 'if needed'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261019-french-pm-says-could-declare-state-of-emergency-over-unrest-if-needed",
-      "published_date": "2026-10-19T12:51:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy hit by violent cost-of-living protests, mostly minors arrested",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261019-italy-hit-by-violent-cost-of-living-protests-mostly-minors-arrested",
-      "published_date": "2026-10-19T12:30:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Narcos have one language – violence’: the activist defying France’s biggest drug cartel after his brothers’ murder",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/19/france-anti-narco-activist-amine-kessaci-defying-biggest-drug-cartel-murder-trial-brothers",
-      "published_date": "2026-10-19T12:24:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "REPLAY: French PM speaks after crisis meeting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261019-replay-french-pm-speaks-after-crisis-meeting",
-      "published_date": "2026-10-19T12:21:24+00:00",
       "category": "Local Events"
     }
   ]
