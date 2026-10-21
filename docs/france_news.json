@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-10-20T15:31:38.089521+00:00",
+  "last_updated": "2026-10-21T01:13:58.129395+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Egypt involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20261020-egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says",
+      "published_date": "2026-10-20T21:18:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says",
+      "published_date": "2026-10-20T20:57:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US regulators certify Boeing 737 Max 10 after years of delay",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay",
+      "published_date": "2026-10-20T20:46:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelensky meets Witkoff as US-Ukraine relations sink to new lows",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/zelenskiy-meets-witkoff-as-us-ukraine-relations-sink-to-new-lows",
+      "published_date": "2026-10-20T19:06:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU pushes for stronger Arctic presence amid Russian pressure and US uncertainty",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261020-eu-pushes-for-stronger-arctic-presence-amid-russian-pressure-and-us-uncertainty",
+      "published_date": "2026-10-20T18:15:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New Caledonia looks to EU for new markets for troubled nickel sector",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261020-new-caledonia-looks-to-eu-for-new-markets-for-troubled-nickel-sector",
+      "published_date": "2026-10-20T16:17:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jon Stewart on JD Vance’s rhetoric on immigrants: ‘cornerstone and intentional strategy’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/2026/oct/20/jon-stewart-jd-vance-immigration-katie-zacharia",
+      "published_date": "2026-10-20T15:32:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "October 17 riots in France: Who's responsible?",
       "source": "France 24",
@@ -95,53 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France protests: Who are the people arrested during the unrest?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261019-france-protests-who-are-the-people-arrested-during-the-unrest",
-      "published_date": "2026-10-19T15:36:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Shall we have another EU referendum? Maybe – but not yet | Polly Toynbee",
+      "title": "Ukraine war briefing: US envoy Witkoff to meet Putin after ‘constructive’ talks with Zelenskyy in Norway",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/eu-referendum-rejoin-campaign",
-      "published_date": "2026-10-19T15:17:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/21/ukraine-war-briefing-us-envoy-witkoff-to-meet-putin-after-constructive-talks-with-zelenskyy-in-norway",
+      "published_date": "2026-10-20T23:33:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "France protests draw global attention: Trump, Vance blame immigration for unrest",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-20T21:27:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italy sends troops, toughens security laws after Milan clashes",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261019-france-protests-draw-global-attention-trump-vance-blame-immigration-for-unrest",
-      "published_date": "2026-10-19T14:04:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes",
+      "published_date": "2026-10-20T20:09:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron kicks off three-day Gulf tour, seeks securing fuel supplies amid crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261019-macron-kicks-off-three-day-gulf-tour-seeks-securing-fuel-supplies-amid-crisis",
-      "published_date": "2026-10-19T14:02:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Albania accused of rushing through Trump-linked resort in formerly protected landscape",
+      "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/19/albania-accused-of-rushing-through-trump-linked-resort-in-formerly-protected-landscape",
-      "published_date": "2026-10-19T13:53:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+      "published_date": "2026-10-20T19:32:28+00:00",
+      "category": "Military"
     },
     {
-      "title": "France 'has to assist' Gulf states, diplomat says as Macron makes three-day visit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20261019-france-has-to-assist-gulf-states-diplomat-says-as-macron-makes-three-day-visit",
-      "published_date": "2026-10-19T12:43:41+00:00",
-      "category": "Diplomacy"
+      "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
+      "published_date": "2026-10-20T17:43:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'",
+      "title": "Republicans push back on Donald Trump’s wavering support for Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia",
+      "published_date": "2026-10-20T17:32:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France's decades-long ties with Gulf states built on 'economic development, oil, defence agreements'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261019-les-mis%C3%A9rables-macron-s-sense-of-detachment-amid-rising-living-costs-youth-fears-for-the-future",
-      "published_date": "2026-10-19T11:00:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261020-france-s-decades-long-ties-with-gulf-states-built-on-economic-development-oil-defense-agreements-1",
+      "published_date": "2026-10-20T15:52:47+00:00",
+      "category": "Military"
     },
     {
       "title": "France to deploy military forces during expected weekend protests – Europe live",
@@ -232,55 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-19T20:49:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky says Starshield speed limits slowing down frontline response",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/zelensky-says-starshield-speed-limits-slowing-down-frontline-response",
-      "published_date": "2026-10-19T18:45:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine deploys drone to airlift wounded soldier in 'world-first' operation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation",
-      "published_date": "2026-10-19T15:44:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Alberta votes on path to independence in test of Canadian unity",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261019-alberta-votes-on-path-to-independence-in-test-of-canadian-unity",
-      "published_date": "2026-10-19T15:27:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four soldiers dead, dozens injured in fire at Canada military base",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261019-four-soldiers-dead-dozens-injured-in-fire-at-canada-military-base",
-      "published_date": "2026-10-19T14:25:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T14:20:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261019-drone-attack-near-southern-sudan-market-kills-scores",
-      "published_date": "2026-10-19T14:00:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Malian army and rebels committing abuses against civilians, rights group says",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261019-malian-army-and-rebels-committing-abuses-against-civilians-rights-group-hrw-says",
-      "published_date": "2026-10-19T09:22:08+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "AI on the ballot? Voters in US midterms revolt against data centres",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261020-ai-on-the-ballot-voters-in-us-midterms-revolt-against-data-centres",
+      "published_date": "2026-10-20T22:45:33+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "France's sociopolitical & economic crises: 'Large portion of population sympathizes' with protestors",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261020-france-s-sociopolitical-economic-crises-large-portion-of-population-sympathizes-with-protestors",
@@ -557,11 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "France: Students, unions and Yellow Vests unite against austerity",
+      "title": "Live: French PM Lecornu to meet with unions ahead of new protests",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261017-france-students-unions-and-yellow-vests-unite-against-austerity",
-      "published_date": "2026-10-17T14:45:55+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests",
+      "published_date": "2026-10-21T00:45:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy announces new security measures after Milan riots, deploying 500 soldiers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers",
+      "published_date": "2026-10-20T23:33:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria records first Ebola case as outbreak spreads across Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa",
+      "published_date": "2026-10-20T23:18:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria confirms first Ebola case",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nigeria-confirms-first-ebola-case",
+      "published_date": "2026-10-20T21:28:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG end Barcelona's winning run as Liverpool fight back against Villarreal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20261020-psg-end-barcelona-winning-run-as-liverpool-fight-back-against-villarreal",
+      "published_date": "2026-10-20T21:17:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lula's campaign seeks to disqualify Bolsonoro from Brazil presidential vote over Meta 'interference'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference",
+      "published_date": "2026-10-20T20:59:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I’m alive’: Paris street medic isn’t dead, despite viral claims he was killed by police",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261020-i-m-alive-paris-street-medic-isn-t-dead-despite-viral-claims-he-was-killed-by-police",
+      "published_date": "2026-10-20T20:43:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French PM vows 'massive' police deployment for new demonstrations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-pm-vows-massive-police-deployment-for-new-demonstrations",
+      "published_date": "2026-10-20T20:05:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds put on immediate trial for ransacking city centres across France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/hundreds-put-on-immediate-trial-for-ransacking-city-centres-across-france",
+      "published_date": "2026-10-20T19:05:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Paris curfew ordered in parts of city from 2100 GMT Tuesday",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/new-paris-curfew-ordered-in-parts-of-city-from-2100-gmt-tuesday",
+      "published_date": "2026-10-20T19:01:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How French police are harnessing social media to identify looters",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261020-how-french-police-are-harnessing-social-media-to-identify-looters",
+      "published_date": "2026-10-20T16:50:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why are French police so violent? Their job is to protect the state, not the people",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots",
+      "published_date": "2026-10-20T16:49:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region",
+      "published_date": "2026-10-20T16:24:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Local curfews imposed after protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261020-france-local-curfews-imposed-after-protests",
+      "published_date": "2026-10-20T16:09:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French PM vows 'massive' police deployment for new demonstrations Saturday",
@@ -603,104 +701,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261020-midterms-trump-seizes-on-unrest-in-france-for-political-gain",
       "published_date": "2026-10-20T13:54:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "🔴 French PM vows 'massive' police operation for new protests on Saturday",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting",
-      "published_date": "2026-10-20T13:38:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six years on, France remembers slain teacher Samuel Paty",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261020-six-years-on-france-remembers-slain-teacher-samuel-paty",
-      "published_date": "2026-10-20T13:28:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Midterms 2026: The farmers calling for more migrant workers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261020-midterms-2026-the-farmers-calling-for-more-migrant-workers",
-      "published_date": "2026-10-20T13:09:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-20T12:45:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-20T12:08:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France arrests suspect and calls in anti-terror police over Limoges town hall fire",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261020/france-arrests-man-and-calls-in-anti-terror-police-over-town-hall-fire",
-      "published_date": "2026-10-20T10:58:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Despite return to calm, France remains on edge ahead of planned further protests",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261020-despite-return-to-calm-france-remains-on-edge-ahead-of-planned-further-protests",
-      "published_date": "2026-10-20T10:48:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horror and disbelief after lawmaker attacked in rural Australia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261020-horror-and-disbelief-after-lawmaker-attacked-in-rural-australia",
-      "published_date": "2026-10-20T10:26:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After the violence and chaos in France, there’s only one beneficiary: Marine Le Pen | Paul Taylor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/france-riots-aftermath-one-beneficiary-marine-le-pen",
-      "published_date": "2026-10-20T09:59:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explained: French slogans and chants for protests",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261020/explained-french-slogans-and-chants-for-protests",
-      "published_date": "2026-10-20T08:02:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Do not be distracted by global crises. Nature cannot wait for a better year – we must act now | Steven Guilbeault",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/20/do-not-be-distracted-by-other-global-crises-nature-cannot-wait-for-a-better-year-we-must-act-now",
-      "published_date": "2026-10-20T07:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where in France have curfews been imposed?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261020/where-in-france-have-curfews-been-imposed",
-      "published_date": "2026-10-20T06:53:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seventh day of violent clashes between Albanian protesters and police",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-20T02:45:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump borrows from far right to blame unrest in France on immigration",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
-      "published_date": "2026-10-19T22:48:35+00:00",
       "category": "Local Events"
     }
   ]
