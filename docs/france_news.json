@@ -1,8 +1,57 @@
 {
   "country": "France",
-  "last_updated": "2026-10-22T01:10:11.690953+00:00",
-  "story_count": 96,
+  "last_updated": "2026-10-22T15:45:46.338065+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "French weekend protests to be limited to union demos only, says Macron",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-22T15:22:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What is at stake in Serbia’s election? The key players, main issues and potential fallout",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/22/serbia-election-student-protests-explainer-key-issues",
+      "published_date": "2026-10-22T11:50:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "International Criminal Court wins EU's Sakharov human rights prize",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261022-international-criminal-court-wins-eu-s-sakharov-human-rights-prize",
+      "published_date": "2026-10-22T10:47:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+      "published_date": "2026-10-22T10:14:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "International Criminal Court wins EU's Sakharov human rights prize",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261022-international-criminal-court-wins-eu-s-sakharov-human-rights-prize",
+      "published_date": "2026-10-22T10:10:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Popular dissatisfaction' across Europe: 'Promises of more economic growth haven't come true'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261022-popular-dissatisfaction-across-europe-promises-of-more-economic-growth-haven-t-come-true-1",
+      "published_date": "2026-10-22T09:01:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron bans 'illegitimate' protests as France braces for more unrest",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261022-police-ban-protests-in-french-cities-ahead-of-fresh-saturday-demonstrations",
+      "published_date": "2026-10-22T08:40:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudan’s war escalates as UN warns of wider regional crisis",
       "source": "France 24",
@@ -95,53 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Peter Zalmayev: 'Ukraine was showing all sorts of cards that Trump took away and gave to Putin'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261021-ukraine-was-showing-all-sorts-of-cards-that-trump-took-away-from-ukraine-and-gave-to-putin-1",
-      "published_date": "2026-10-21T14:44:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "​Europe stands by Ukraine – but how long can that last?",
+      "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/europe-stands-by-ukraine-but-how-long-can-that-last",
-      "published_date": "2026-10-21T14:33:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+      "published_date": "2026-10-22T15:01:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron accuses foreign leaders of exploiting French riots",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-21T14:04:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-21T13:49:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Macron says world leaders have made 'stupid' comments on France riots based on fake AI videos",
+      "title": "Russia agrees to resume trilateral peace talks on Ukraine war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261021-macron-says-world-leaders-have-made-stupid-comments-on-france-riots-based-on-fake-ai-videos",
-      "published_date": "2026-10-21T11:48:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/russia-agrees-to-resume-trilateral-peace-talks-on-ukraine-war",
+      "published_date": "2026-10-22T14:19:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "MEPs urge EU ministers to act and bring an end to seasonal clock changes",
+      "title": "Combatting online scams in the age of AI",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/people-profit/20261022-combatting-online-scams-in-the-age-of-ai",
+      "published_date": "2026-10-22T13:33:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Donald Trump has sold out Ukraine. He makes appeaser Chamberlain look like a man of iron principle | Simon Tisdall",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/donald-trump-ukraine-betrayal-putin-nato",
+      "published_date": "2026-10-22T11:00:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Meta's Zuckerberg pitches AI successes to investors with 26% rise in quarterly revenue",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261022-meta-s-zuckerberg-pitches-ai-successes-to-investors-with-26-rise-in-quarterly-revenue",
+      "published_date": "2026-10-22T09:18:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New literary prize launched for books 'written with AI' in French",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261021/meps-urge-eu-ministers-to-act-and-bring-end-to-seasonal-clock-changes",
-      "published_date": "2026-10-21T11:44:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.thelocal.fr/20261022/new-literary-prize-launched-for-books-written-with-ai",
+      "published_date": "2026-10-22T06:17:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron rejects 'stupid' migrant invasion claims as France braces for new protests",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261021-macron-rejects-migrant-invasion-claims-as-france-braces-for-new-protests",
-      "published_date": "2026-10-21T11:37:21+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine’s Pavlohrad refuses to yield to Putin despite unrelenting bombardment",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261022-war-in-ukraine-under-bombardment-the-city-that-refuses-to-bow-to-putin",
+      "published_date": "2026-10-22T05:54:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia and Ukraine trade strikes overnight as Moscow signals readiness for peace talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261022-russia-missiles-kyiv-ukraine-peace-talks",
+      "published_date": "2026-10-22T01:51:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
+      "published_date": "2026-10-22T01:13:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Ireland votes to end UN veto over overseas peacekeeping missions",
@@ -207,6 +270,13 @@
       "category": "Military"
     },
     {
+      "title": "Websites go dark as AI exposes critical security flaws worldwide",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261021-websites-go-dark-as-ai-exposes-critical-security-flaws",
+      "published_date": "2026-10-21T17:16:01+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Zelensky proposes freezing front with Russia as first step to peace talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261021-zelensky-proposes-freezing-front-with-russia-first-step-peace-talks",
-      "published_date": "2026-10-21T14:46:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rescuers search for French air force navigator after jet pilot dies in crash",
+      "title": "Nearly all coral reefs at risk of collapse by 2075, conservation body warns",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261021-rescuers-search-for-french-air-force-navigator-after-jet-pilot-dies-in-crash",
-      "published_date": "2026-10-21T11:12:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US envoy Steve Witkoff thanks Vladimir Putin for diesel deal at Ukraine talks in Russia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-envoy-steve-witkoff-thanks-vladimir-putin-for-diesel-deal-at-ukraine-talks-in-russia",
-      "published_date": "2026-10-21T11:07:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PSG boss Enrique plays down perfect start to defence of Champions League crown",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20261021-psg-boss-enrique-plays-down-perfect-start-to-defence-of-champions-league-crown",
-      "published_date": "2026-10-21T07:26:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French fighter jet crashes during training, at least one dead",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261021/french-fighter-jet-crashes-during-training-at-least-one-dead",
-      "published_date": "2026-10-21T07:14:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French PM to meet unions as government prepares for more protests",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261021-french-pm-to-meet-unions-as-government-prepares-for-more-protests",
-      "published_date": "2026-10-21T02:57:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: US envoy Witkoff to meet Putin after ‘constructive’ talks with Zelenskyy in Norway",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/ukraine-war-briefing-us-envoy-witkoff-to-meet-putin-after-constructive-talks-with-zelenskyy-in-norway",
-      "published_date": "2026-10-20T23:33:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-20T21:27:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-      "published_date": "2026-10-20T21:24:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy sends troops, toughens security laws after Milan clashes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes",
-      "published_date": "2026-10-20T20:09:52+00:00",
-      "category": "Military"
+      "url": "https://www.rfi.fr/en/environment/20261022-nearly-all-coral-reefs-risk-collapse-in-50-years-iucn",
+      "published_date": "2026-10-22T11:29:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "World set to breach 1.5C warming limit as UN warns time is running out",
@@ -368,32 +375,25 @@
       "category": "Energy"
     },
     {
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-15T15:09:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+      "title": "French borrowing costs overtake US amid budget turmoil",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
-      "published_date": "2026-10-15T15:01:10+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
+      "published_date": "2026-10-22T08:40:36+00:00",
+      "category": "Economy"
     },
     {
-      "title": "France’s emissions falling faster in 2026 but still over climate target",
+      "title": "Europe's wave of anger: How far will youth-led protests go?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261022-europe-s-wave-of-anger-how-far-will-youth-led-protests-go",
+      "published_date": "2026-10-22T08:12:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Senegal unions press on with general strike days before Youth Olympics",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261015-france-s-emissions-falling-faster-in-2026-but-still-over-climate-target",
-      "published_date": "2026-10-15T10:58:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Faust review – FW Murnau’s silent masterpiece is a devilishly dazzling vision",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/oct/15/faust-review-centenary-mubi",
-      "published_date": "2026-10-15T08:00:26+00:00",
-      "category": "Energy"
+      "url": "https://www.rfi.fr/en/africa/20261022-senegal-unions-press-on-with-general-strike-days-before-youth-olympics",
+      "published_date": "2026-10-22T05:17:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Meta fined $25 billion in New Mexico over Cambridge Analytica scandal",
@@ -515,25 +515,88 @@
       "category": "Economy"
     },
     {
-      "title": "BREAKING: France's 'yellow vests' announce more protests for Saturday",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261019/breaking-frances-yellow-vests-announce-more-protests-for-saturday",
-      "published_date": "2026-10-19T09:31:45+00:00",
-      "category": "Economy"
+      "title": "French students demonstrate again, despite school holidays",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-students-demonstrate-again-despite-school-holidays",
+      "published_date": "2026-10-22T15:37:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
+      "title": "Italian truckers block roads to protest against soaring diesel prices",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261022-italian-truckers-block-roads-to-protest-against-soaring-diesel-prices",
+      "published_date": "2026-10-22T15:31:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T07:46:54+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-22T14:33:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "France’s interior minister admits police lost control during violent protests",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261019-france-s-interior-minister-admits-police-lost-control-during-violent-protests",
-      "published_date": "2026-10-19T07:31:00+00:00",
-      "category": "Economy"
+      "title": "French authorities seek to ban or curb October 24th protests",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261022/french-authorities-seek-to-ban-or-curb-october-24th-protests",
+      "published_date": "2026-10-22T13:39:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least four dead after storm brings flooding to southern France",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-22T11:23:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+      "published_date": "2026-10-22T11:22:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/22/fallout-fast-tracking-french-rioting-cases",
+      "published_date": "2026-10-22T11:08:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four dead as storms lash south of France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261022/four-dead-as-storms-lash-south-of-france",
+      "published_date": "2026-10-22T08:56:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: France's far-left rioters will usher in a far-right government",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261022/opinion-frances-far-left-rioters-will-usher-in-a-far-right-government",
+      "published_date": "2026-10-22T08:02:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protests banned in parts of Paris on Thursday",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261022/protests-banned-in-parts-of-paris-on-thursday",
+      "published_date": "2026-10-22T06:39:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A violent and coordinated youth uprising? That’s exactly the picture Europe’s enemies want to paint | Alberto Alemanno",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/europe-youth-uprising-enemies-protesters",
+      "published_date": "2026-10-22T04:00:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Live: 217 people incarcerated over weekend unrest so far, French justice minister says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump",
+      "published_date": "2026-10-22T02:28:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Paris Saint-Germain sparkle on the pitch while the city of light burns around them | Barney Ronay",
@@ -589,90 +652,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20261021/police-order-new-curfew-wednesday-night-in-parts-of-paris",
       "published_date": "2026-10-21T14:50:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MAPS: Routes for protests in Paris on October 24th",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261021/maps-routes-for-protests-in-paris-on-october-24th",
-      "published_date": "2026-10-21T14:49:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe’s far right seizes on protest violence to push authoritarian anti-immigration agenda",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/europe-far-right-protest-violence-authoritarian-agenda",
-      "published_date": "2026-10-21T14:36:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portugal police clear demonstrators from protest camps against cost of housing",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261021-portugal-police-clear-demonstrators-from-protest-camps-against-cost-of-housing",
-      "published_date": "2026-10-21T12:31:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What changes in France in November 2026",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261021/what-changes-in-france-in-november-2026",
-      "published_date": "2026-10-21T12:12:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG's Kvaratskhelia season in doubt after torn ACL",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261021-psg-s-kvaratskhelia-season-in-doubt-after-torn-acl",
-      "published_date": "2026-10-21T09:43:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change",
-      "published_date": "2026-10-21T09:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy deploys army and approves tougher anti-riot laws after violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/italy-deploys-army-and-approves-tougher-anti-riot-laws-after-violence",
-      "published_date": "2026-10-21T08:57:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From strife-torn France to the UK, rightwing populists win when they stir chaos while promising order  | Rafael Behr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/21/france-uk-rightwing-populists-marine-le-pen-donald-trump",
-      "published_date": "2026-10-21T05:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: French PM Lecornu to meet with unions ahead of new protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests",
-      "published_date": "2026-10-21T00:45:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy announces new security measures after Milan riots, deploying 500 soldiers",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers",
-      "published_date": "2026-10-20T23:33:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria records first Ebola case as outbreak spreads across Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa",
-      "published_date": "2026-10-20T23:18:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria confirms first Ebola case",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nigeria-confirms-first-ebola-case",
-      "published_date": "2026-10-20T21:28:37+00:00",
       "category": "Local Events"
     }
   ]
