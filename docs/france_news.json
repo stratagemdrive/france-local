@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-10-22T15:45:46.338065+00:00",
-  "story_count": 93,
+  "last_updated": "2026-10-23T01:09:50.745083+00:00",
+  "story_count": 91,
   "stories": [
+    {
+      "title": "Emirati diplomat could become next UN chief despite human rights concerns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261022-emirati-diplomat-could-become-next-un-chief-despite-human-rights-concerns-uae-sudan-un-secretary-general-lana-nusseibeh",
+      "published_date": "2026-10-22T21:18:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Targeted by Trump, International Criminal Court wins top EU rights prize",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/targeted-by-trump-international-criminal-court-wins-top-eu-rights-prize",
+      "published_date": "2026-10-22T18:55:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron bans ‘illegitimate’ protests in France as he tries to get a grip on unrest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
+      "published_date": "2026-10-22T15:54:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "French weekend protests to be limited to union demos only, says Macron",
       "source": "BBC News",
@@ -57,6 +78,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis",
       "published_date": "2026-10-21T22:41:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-21T20:42:43+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "French government websites down after hacking alert",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261021/french-government-websites-down-after-hacking-alert",
-      "published_date": "2026-10-21T15:08:22+00:00",
-      "category": "Diplomacy"
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-22T21:42:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Prosecutors search European Parliament offices of far-right Patriots bloc in graft probe",
+      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-22T17:49:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Race to rearm: Telford gun hall brings tank barrel production back to the UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/22/telford-gun-hall-tank-barrel-production-back-uk-rheinmetall",
+      "published_date": "2026-10-22T16:59:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261021-prosecutors-search-european-parliament-offices-of-far-right-patriots-bloc-in-graft-probe",
-      "published_date": "2026-10-21T15:07:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says",
+      "published_date": "2026-10-22T16:43:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Booking.com under investigation by EU regulators over fake listings and scams",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
-      "published_date": "2026-10-21T15:01:24+00:00",
-      "category": "Diplomacy"
+      "title": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ahead-of-us-and-israeli-elections-3-day-joint-attack-on-iran-would-not-radically-change-conflict",
+      "published_date": "2026-10-22T16:36:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-      "published_date": "2026-10-21T14:44:56+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin",
+      "published_date": "2026-10-22T15:50:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20261022-ethiopia-eritrea-is-there-a-risk-of-a-wider-conflict",
+      "published_date": "2026-10-22T15:40:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Reports show US and Israel are planning new strikes on Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261022-reports-show-us-and-israel-plan-new-strikes-on-iran",
+      "published_date": "2026-10-22T15:34:34+00:00",
+      "category": "Military"
     },
     {
       "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
@@ -228,62 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-21T19:58:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin agrees to resume three-way talks with Kyiv and Washington",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/putin-agrees-to-resume-three-way-talks-with-kyiv-and-washington",
-      "published_date": "2026-10-21T19:32:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/neither-the-sudanese-military-nor-the-rsf-take-any-acknowledgement-of-human-life-in-this-war",
-      "published_date": "2026-10-21T19:28:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump faces fresh questions over ties to 'humanitarian' Putin",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-faces-fresh-questions-over-ties-to-humanitarian-putin",
-      "published_date": "2026-10-21T18:53:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
-      "published_date": "2026-10-21T17:57:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canadian publisher drops author Orelien after confirming he used AI in debut novel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/culture/20261021-canadian-publisher-drops-author-orelien-after-confirming-he-used-ai-in-debut-novel",
-      "published_date": "2026-10-21T17:32:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Websites go dark as AI exposes critical security flaws worldwide",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261021-websites-go-dark-as-ai-exposes-critical-security-flaws",
-      "published_date": "2026-10-21T17:16:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-      "published_date": "2026-10-21T15:24:58+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Nearly all coral reefs at risk of collapse by 2075, conservation body warns",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/environment/20261022-nearly-all-coral-reefs-risk-collapse-in-50-years-iucn",
@@ -361,18 +361,18 @@
       "category": "Energy"
     },
     {
-      "title": "Zelensky rallies European allies as US support for Ukraine wanes",
+      "title": "Italy's trucker protests halt buffalo mozzarella production, cost producers €3m",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes",
-      "published_date": "2026-10-15T23:06:00+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/business/20261022-italy-s-trucker-protests-halt-buffalo-mozzarella-production-cost-producers-%E2%82%AC3m",
+      "published_date": "2026-10-22T20:54:15+00:00",
+      "category": "Economy"
     },
     {
-      "title": "'We're done': Ukraine resumes strikes on Russian oil refineries as 'only leverage' for peace talks",
+      "title": "‘The best on Earth’: Can weak economic growth undermine Europe’s ‘very sophisticated social system’?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261015-we-re-done-ukraine-resumes-strikes-on-russian-oil-refineries-as-only-leverage-for-peace-talks-1",
-      "published_date": "2026-10-15T16:14:25+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261022-the-best-on-earth-can-weak-economic-growth-undermine-europe-s-very-sophisticated-social-system",
+      "published_date": "2026-10-22T19:59:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "French borrowing costs overtake US amid budget turmoil",
@@ -501,18 +501,39 @@
       "category": "Economy"
     },
     {
-      "title": "Inflation squeezes households as Lebanon's economic crisis persists",
+      "title": "Strong earthquake strikes China’s remote Tibet region",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261019-inflation-squeezes-households-as-lebanon-s-economic-crisis-persists",
-      "published_date": "2026-10-19T12:18:17+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven",
+      "published_date": "2026-10-22T21:09:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French retailers reel after weekend of riots, looting",
+      "title": "Curfew imposed in certain areas of Paris every night until Monday morning",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261019-french-retailers-reel-after-weekend-of-riots-looting",
-      "published_date": "2026-10-19T10:29:21+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/curfew-imposed-in-certain-areas-of-paris-every-night-until-monday-morning",
+      "published_date": "2026-10-22T19:48:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel’s Ben-Gvir shares AI videos mocking Gazans as ‘donkeys’ and sending them to Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261022-israel-s-ben-gvir-shares-ai-videos-mocking-gazans-as-donkeys-and-sending-them-to-paris",
+      "published_date": "2026-10-22T19:38:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French shopkeepers fear new looting in upcoming protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-shopkeepers-fear-new-looting-in-upcoming-protests",
+      "published_date": "2026-10-22T15:51:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Georgia on Democrats’ minds: Powering up the Black vote to counter Trump's meddling",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261022-georgia-on-democrats-minds-powering-up-black-vote-counter-trump-meddling",
+      "published_date": "2026-10-22T15:43:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French students demonstrate again, despite school holidays",
@@ -533,6 +554,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-22T14:33:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French PM Sebastien Lecornu meets with leaders of political parties amid unrest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261022-french-pm-sebastien-lecornu-meets-with-leaders-of-political-parties-amid-unrest",
+      "published_date": "2026-10-22T14:21:42+00:00",
       "category": "Local Events"
     },
     {
@@ -610,48 +638,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/eu-prosecutors-search-european-parliament-offices-of-far-right-group",
       "published_date": "2026-10-21T20:21:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Le Pen sees polls boost amid mass protests, riots",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/le-pen-sees-polls-boost-amid-mass-protests-riots",
-      "published_date": "2026-10-21T18:56:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Olivier Mourgue obituary",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/21/olivier-mourgue-obituary",
-      "published_date": "2026-10-21T17:30:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Far right leader Marine Le Pen gains popularity amid nationwide riots",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-far-right-leader-marine-le-pen-gains-popularity-amid-nationwide-riots",
-      "published_date": "2026-10-21T15:29:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Some Brazilians long associated with the left now shift towards Flavio Bolsonaro",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261021-some-brazilians-long-associated-with-the-left-now-shift-towards-flavio-bolsonaro",
-      "published_date": "2026-10-21T15:28:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we know about the people behind France’s riots and looting",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261021-what-we-know-about-the-people-behind-france-s-riots-and-looting",
-      "published_date": "2026-10-21T15:20:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police order new curfew Wednesday night in parts of Paris",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261021/police-order-new-curfew-wednesday-night-in-parts-of-paris",
-      "published_date": "2026-10-21T14:50:18+00:00",
       "category": "Local Events"
     }
   ]
