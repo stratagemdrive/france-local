@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-10-23T15:36:17.668624+00:00",
+  "last_updated": "2026-10-24T01:20:32.543900+00:00",
   "story_count": 88,
   "stories": [
+    {
+      "title": "Aaron Rodgers says NFL’s Paris game is safe despite PSG cancellation amid unrest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/oct/23/aaron-rodgers-nfl-paris-game-protests-steelers-saints",
+      "published_date": "2026-10-23T19:55:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "🔴 Live: French student groups call for protests to continue after meeting with Macron",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests",
+      "published_date": "2026-10-23T16:31:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tinned mackerel, hand-crank radios and bags for poo: crisis-prepping guides around the world",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/23/tinned-mackerel-hand-crank-radios-and-bags-for-poo-crisis-prepping-guides-around-the-world",
+      "published_date": "2026-10-23T15:52:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe faces threat of organised sabotage, terrorist attacks: Estonian FM Tsahkna",
       "source": "France 24",
@@ -43,6 +64,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/politics-in-materialist-terms-gen-z-in-albania-italy-france-and-india-protesting-for-fairness",
       "published_date": "2026-10-23T09:04:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU leaders to press Burnham to pay more towards Ukraine’s defence",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence",
+      "published_date": "2026-10-23T06:00:03+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Popular dissatisfaction' across Europe: 'Promises of more economic growth haven't come true'",
+      "title": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261022-popular-dissatisfaction-across-europe-promises-of-more-economic-growth-haven-t-come-true-1",
-      "published_date": "2026-10-22T09:01:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/americas/20261023-trump-says-us-may-launch-another-little-epic-fury-attack-iran",
+      "published_date": "2026-10-23T20:50:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron bans 'illegitimate' protests as France braces for more unrest",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261022-police-ban-protests-in-french-cities-ahead-of-fresh-saturday-demonstrations",
-      "published_date": "2026-10-22T08:40:46+00:00",
-      "category": "Diplomacy"
+      "title": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261023-netanyahu-weighs-west-bank-operation-ahead-of-elections-politically-it-will-not-help-anybody",
+      "published_date": "2026-10-23T18:26:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+      "title": "US and Israel are warned against launching fresh strikes on Iran",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-      "published_date": "2026-10-21T23:06:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
+      "published_date": "2026-10-23T17:18:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sudan’s war escalates as UN warns of wider regional crisis",
+      "title": "Israel: Could Arab parties play kingmaker in the next Knesset ?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261021-sudan-s-war-escalates-as-un-warns-of-wider-regional-crisis",
-      "published_date": "2026-10-21T22:41:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/israel-could-arab-parties-play-kingmaker-in-the-next-knesset",
+      "published_date": "2026-10-23T17:11:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza : digging up the bodies from under the rubble",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20261023-gaza-digging-up-the-bodies-from-under-the-rubble",
+      "published_date": "2026-10-23T17:10:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Opposition deepfake video sparks outrage in Spain ahead of election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+      "published_date": "2026-10-23T16:35:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "West Bank: Extensive military operation 'on the way', Netanyahu says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says",
+      "published_date": "2026-10-23T15:56:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yes, Israeli settlers are ripping up West Bank olive trees – but this video is fake",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261023-yes-israeli-settlers-ripping-up-west-bank-olive-trees-%E2%80%93-but-this-video-fake",
+      "published_date": "2026-10-23T15:56:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
@@ -225,62 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/ahead-of-us-and-israeli-elections-3-day-joint-attack-on-iran-would-not-radically-change-conflict",
       "published_date": "2026-10-22T16:36:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin",
-      "published_date": "2026-10-22T15:50:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20261022-ethiopia-eritrea-is-there-a-risk-of-a-wider-conflict",
-      "published_date": "2026-10-22T15:40:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Reports show US and Israel are planning new strikes on Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261022-reports-show-us-and-israel-plan-new-strikes-on-iran",
-      "published_date": "2026-10-22T15:34:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-      "published_date": "2026-10-22T15:01:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia agrees to resume trilateral peace talks on Ukraine war",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-agrees-to-resume-trilateral-peace-talks-on-ukraine-war",
-      "published_date": "2026-10-22T14:19:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Combatting online scams in the age of AI",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20261022-combatting-online-scams-in-the-age-of-ai",
-      "published_date": "2026-10-22T13:33:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Donald Trump has sold out Ukraine. He makes appeaser Chamberlain look like a man of iron principle | Simon Tisdall",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/donald-trump-ukraine-betrayal-putin-nato",
-      "published_date": "2026-10-22T11:00:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Meta's Zuckerberg pitches AI successes to investors with 26% rise in quarterly revenue",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261022-meta-s-zuckerberg-pitches-ai-successes-to-investors-with-26-rise-in-quarterly-revenue",
-      "published_date": "2026-10-22T09:18:14+00:00",
       "category": "Military"
     },
     {
@@ -480,6 +480,55 @@
       "category": "Economy"
     },
     {
+      "title": "Macron condemns racism after one killed in ‘terrorist’ shooting near Paris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
+      "published_date": "2026-10-23T21:44:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Building collapse in Nairobi search for survivors under way",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/building-collapse-in-nairobi-search-for-survivors-under-way",
+      "published_date": "2026-10-23T20:31:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After French Riots, Curfews & Calm .. is a new Storm Brewing ? Plus Ukraine & Israel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261023-after-french-riots-curfews-calm-is-a-new-storm-brewing-plus-ukraine-israel",
+      "published_date": "2026-10-23T18:48:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Israeli settlers wearing keffiyehs are attacking West Bank olive groves",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261023-how-israeli-settlers-wearing-keffiyehs-are-attacking-west-bank-olive-groves",
+      "published_date": "2026-10-23T17:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Europe’s protests: the social contract has broken – and young people want solutions | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/the-guardian-view-on-europes-protests-the-social-contract-has-broken-and-young-people-want-solutions",
+      "published_date": "2026-10-23T17:07:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Too arrogant, too sure of itself’ France confronts its legacy in Africa",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20261023-too-arrogant-too-sure-of-itself-france-confronts-its-legacy-in-africa",
+      "published_date": "2026-10-23T16:20:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French police encircle and teargas orchestra playing at Paris protest – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/23/french-police-encircle-and-teargas-orchestra-playing-at-paris-protest-video",
+      "published_date": "2026-10-23T16:12:37+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
@@ -543,6 +592,13 @@
       "category": "Local Events"
     },
     {
+      "title": "French authorities tighten restrictions and ban specific protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261023-french-authorities-tighten-restrictions-and-ban-specific-protests-1",
+      "published_date": "2026-10-23T13:55:40+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "France mobilises 70,000 police and gendarmes for Saturday protests",
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20261023-france-mobilises-70-000-police-and-gendarmes-for-saturday-protests",
@@ -561,62 +617,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/23/france-protests-new-world-orchestra-gassed-paris-police",
       "published_date": "2026-10-23T11:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Student-led movement seeks to unseat ruling party in Serbian election",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261023-student-led-movement-seeks-to-unseat-ruling-party-in-serbian-election",
-      "published_date": "2026-10-23T11:30:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French authorities ban some student protests after weekend looting and clashes",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-authorities-ban-some-student-protests-after-weekend-looting-and-clashes",
-      "published_date": "2026-10-23T11:21:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SA faces rising tension as foreign national is killed amid anti-migrant protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sa-faces-rising-tension-as-foreign-national-is-killed-amid-anti-migrant-protests",
-      "published_date": "2026-10-23T11:08:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leaked trove reveals extent of far-right AfD’s efforts to court Trump and Maga allies",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-afd-maga-allies",
-      "published_date": "2026-10-23T11:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Claude Monet: 'Iris' becomes most expensive artwork sold at auction in France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261023-claude-monet-iris-becomes-most-expensive-artwork-sold-at-auction-in-france",
-      "published_date": "2026-10-23T11:04:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Art: Claude Monet's 'Iris' fetches 50M euros at Paris auction",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/art-claude-monet-s-iris-fetches-50m-euros-at-paris-auction",
-      "published_date": "2026-10-23T10:47:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gunman kills one and wounds five in suspected terror attack in town outside Paris",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261023/gunman-kills-one-and-wounds-four-in-town-outside-paris",
-      "published_date": "2026-10-23T10:01:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Briton facing forced separation from baby son after Sweden orders his deportation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
-      "published_date": "2026-10-23T09:37:12+00:00",
       "category": "Local Events"
     }
   ]
