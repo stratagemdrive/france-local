@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-10-24T14:11:54.003071+00:00",
-  "story_count": 87,
+  "last_updated": "2026-10-25T00:46:18.608656+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
+      "published_date": "2026-10-24T23:07:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France: Young demonstrators demand concrete action from Macron",
       "source": "France 24",
@@ -22,6 +29,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/sport/2026/oct/23/aaron-rodgers-nfl-paris-game-protests-steelers-saints",
       "published_date": "2026-10-23T19:55:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T19:42:08+00:00",
       "category": "Diplomacy"
     },
     {
@@ -81,6 +95,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Macron says 'racist terrorist attack’ in Trappes marks turning point for France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
+      "published_date": "2026-10-23T11:08:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Politics in 'materialist terms': Gen Z in Albania, Italy, France and India protesting for 'fairness'",
       "source": "France 24",
       "url": "https://www.france24.com/en/politics-in-materialist-terms-gen-z-in-albania-italy-france-and-india-protesting-for-fairness",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron bans ‘illegitimate’ protests in France as he tries to get a grip on unrest",
+      "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
-      "published_date": "2026-10-22T15:54:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+      "published_date": "2026-10-24T21:25:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "French weekend protests to be limited to union demos only, says Macron",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T15:22:48+00:00",
-      "category": "Diplomacy"
+      "title": "'The major risk remains a human-directed attack', cyber threat expert warns RFI",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261024-the-major-risk-remains-a-human-directed-attack-cyber-expert-warns-rfi",
+      "published_date": "2026-10-24T18:38:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "What is at stake in Serbia’s election? The key players, main issues and potential fallout",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/22/serbia-election-student-protests-explainer-key-issues",
-      "published_date": "2026-10-22T11:50:41+00:00",
-      "category": "Diplomacy"
+      "title": "“Witkoff should step down” says Ukraine Committee Chief",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief",
+      "published_date": "2026-10-24T18:37:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
+      "published_date": "2026-10-24T18:21:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US offers mixed messages on limits to Ukraine's Starshield system",
+      "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system",
-      "published_date": "2026-10-23T06:22:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T23:16:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T21:42:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T17:49:13+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
+      "published_date": "2026-10-24T17:50:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "Transport disruption and electricity blackouts as storms hit western France",
@@ -331,6 +338,13 @@
       "url": "https://www.france24.com/en/europe/20261018-ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack",
       "published_date": "2026-10-18T12:03:23+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "France: Clashes erupt as protests sweep across cities",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities",
+      "published_date": "2026-10-24T17:50:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fresh protests across France",
@@ -466,11 +480,102 @@
       "category": "Economy"
     },
     {
-      "title": "Making Marie Antoinette review – sweet Coppola home movie reveals the family business",
+      "title": "'The marches went well' – French government on demonstrations a week after looting and violence",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
+      "published_date": "2026-10-24T21:01:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-24T19:37:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Watching the Post-Riot Protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests",
+      "published_date": "2026-10-24T18:42:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of thousands march across France in protests over schools and policing",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/oct/21/making-marie-antoinette-review-sofia-eleanor-coppola-documentary",
-      "published_date": "2026-10-21T08:00:04+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+      "published_date": "2026-10-24T17:54:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel begins demolitions in West Bank",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-begins-demolitions-in-west-bank",
+      "published_date": "2026-10-24T17:13:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy hit by new cost of living protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests",
+      "published_date": "2026-10-24T17:12:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris: 70.000 police officers deployed nationwide",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/paris-70-000-police-officers-deployed-nationwide",
+      "published_date": "2026-10-24T17:11:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Protests continue while police fire tear gas at demonstrators",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators",
+      "published_date": "2026-10-24T17:10:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NFL shutters Paris fan experience as protests overshadow first France game",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/oct/24/nfl-paris-protests-saints-steelers-fan-events-closed",
+      "published_date": "2026-10-24T16:55:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We want to stop being afraid’: thousands join anti-RN demonstration in Orléans",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261024-we-want-to-stop-being-afraid-thousands-join-anti-rn-march-in-orl%C3%A9ans",
+      "published_date": "2026-10-24T16:36:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Major protests in Paris and other French cities in challenge to Macron – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/gallery/2026/oct/24/major-protests-in-paris-and-other-french-cities-in-challenge-to-emmanuel-macron",
+      "published_date": "2026-10-24T16:21:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "🔴 French protests live: Police say 110,000 turn out for 'calm' Paris march amid reports of clashes in other cities",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
+      "published_date": "2026-10-24T15:42:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NFL's Paris Premier: Saints RB Alvin Kamara on global reach, sport as catalyst for youth opportunity",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261024-nfl-s-paris-premier-saints-rb-alvin-kamara-on-global-reach-sport-as-catalyst-for-youth-opportunity",
+      "published_date": "2026-10-24T14:20:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NFL's Paris Premier: Saints RB Alvin Kamara on global reach, sport as catalyst for youth opportunity",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261024-nfl-s-paris-premier-saints-rb-alvin-kamara-on-global-reach-sport-as-catalyst-for-youth-opportunity-1",
+      "published_date": "2026-10-24T14:15:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
@@ -512,104 +617,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france-anti-far-right-protest-in-orleans",
       "published_date": "2026-10-24T13:19:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris: Protest starts at Porte d'Italie, after last-minute change to the route",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/paris-protest-starts-at-porte-d-italie-after-last-minute-change-to-the-route",
-      "published_date": "2026-10-24T13:18:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andrew Smith warns that policing, political blame are no substitute for social reform & public trust",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/andrew-smith-warns-that-policing-political-blame-are-no-substitute-for-social-reform-public-trust",
-      "published_date": "2026-10-24T13:09:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young Israeli voters lean right, as election puts Netanyahu to the test",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261024-young-israeli-voters-lean-right-as-election-puts-netanyahu-to-the-test",
-      "published_date": "2026-10-24T11:45:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Thousands march in Orléans against National Rally congress",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261024-france-thousands-march-in-orl%C3%A9ans-against-national-rally-congress",
-      "published_date": "2026-10-24T11:45:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-24T11:23:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NFL would cancel Paris game if unsafe due to protests, Steelers QB Aaron Rodgers says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/sport/20261024-nfl-would-cancel-paris-game-if-unsafe-due-to-protests-steelers-qb-aaron-rodgers-says",
-      "published_date": "2026-10-24T10:36:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu orders West Bank operation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/netanyahu-orders-west-bank-operation",
-      "published_date": "2026-10-24T10:33:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French students vow to keep protesting",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-students-vow-to-keep-protesting",
-      "published_date": "2026-10-24T10:31:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: March against National Rally in Orleans",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-march-against-national-rally-in-orleans",
-      "published_date": "2026-10-24T10:30:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris: Last-minute change to the protest route",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/paris-last-minute-change-to-the-protest-route",
-      "published_date": "2026-10-24T10:29:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
-      "published_date": "2026-10-24T10:04:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside France: Violence, looting and zombie walks",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261024/inside-france-violence-looting-and-zombie-walks",
-      "published_date": "2026-10-24T09:54:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris museums close and shops board up ahead of fresh protests",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261024-paris-museums-close-and-shops-board-up-ahead-of-fresh-protests",
-      "published_date": "2026-10-24T07:49:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French protests kick off amid heavy security blanket",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261024/france-to-deploy-70000-police-for-fresh-weekend-protests",
-      "published_date": "2026-10-24T06:43:14+00:00",
       "category": "Local Events"
     }
   ]
