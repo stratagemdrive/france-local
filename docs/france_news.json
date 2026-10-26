@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-10-25T14:43:53.180738+00:00",
-  "story_count": 87,
+  "last_updated": "2026-10-26T00:57:22.925213+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+      "published_date": "2026-10-25T23:40:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
+      "published_date": "2026-10-25T19:57:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France: Football fans take over Paris as NFL comes to country for the first time",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261025-france-football-fans-take-over-paris-as-nfl-comes-to-country-for-the-first-time",
+      "published_date": "2026-10-25T18:01:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rayner backs Burnham call for debate on return to free movement with EU",
       "source": "The Guardian",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron says 'racist terrorist attack’ in Trappes marks turning point for France",
+      "title": "Report: IDF chief pushes back on Netanyahu's order",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
-      "published_date": "2026-10-23T11:08:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
+      "published_date": "2026-10-25T23:24:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "Politics in 'materialist terms': Gen Z in Albania, Italy, France and India protesting for 'fairness'",
+      "title": "Midterms: Obama campaigns for Democrats, slams Trump",
       "source": "France 24",
-      "url": "https://www.france24.com/en/politics-in-materialist-terms-gen-z-in-albania-italy-france-and-india-protesting-for-fairness",
-      "published_date": "2026-10-23T09:04:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU leaders to press Burnham to pay more towards Ukraine’s defence",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence",
-      "published_date": "2026-10-23T06:00:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1",
+      "published_date": "2026-10-25T16:25:12+00:00",
+      "category": "Military"
     },
     {
       "title": "French and UK troops war-game attack on Nato territory",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "West Bank: Extensive military operation 'on the way', Netanyahu says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says",
-      "published_date": "2026-10-23T15:56:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yes, Israeli settlers are ripping up West Bank olive trees – but this video is fake",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261023-yes-israeli-settlers-ripping-up-west-bank-olive-trees-%E2%80%93-but-this-video-fake",
-      "published_date": "2026-10-23T15:56:19+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
@@ -323,13 +323,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/business/20261020-french-retailers-begin-filing-insurance-claims-after-weekend-of-looting",
       "published_date": "2026-10-20T09:57:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
-      "published_date": "2026-10-18T23:01:12+00:00",
       "category": "Energy"
     },
     {
@@ -473,6 +466,97 @@
       "category": "Economy"
     },
     {
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-25T22:54:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia's Vucic concedes defeat in historic snap election with record turnout",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
+      "published_date": "2026-10-25T21:24:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marine Le Pen launches presidential campaign in Orléans",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
+      "published_date": "2026-10-25T19:45:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Le Pen’s ‘Renaissance’: 4th time lucky?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261025-le-pen-s-renaissance-4th-time-lucky",
+      "published_date": "2026-10-25T19:05:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Far-right Le Pen promises French ‘rebirth’ as RN sets sights on 2027 presidency",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261025-far-right-le-pen-promises-french-rebirth-as-rn-sets-sights-on-2027-presidency",
+      "published_date": "2026-10-25T18:07:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+      "published_date": "2026-10-25T17:12:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far-right leader Le Pen kicks off presidential campaign",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-far-right-leader-le-pen-kicks-off-presidential-campaign",
+      "published_date": "2026-10-25T16:38:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: 1.314 arrested during protests across the country",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-1-314-arrested-during-protests-across-the-country",
+      "published_date": "2026-10-25T16:32:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A life lived in music: Nadia Boulanger, the musicians' mentor",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20261025-a-life-lived-in-music-nadia-boulanger-the-musicians-mentor",
+      "published_date": "2026-10-25T16:05:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-25T15:32:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Portuguese police with dogs and batons dismantle housing protest camps",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
+      "published_date": "2026-10-25T15:32:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far-right leader Le Pen seeks to leverage unrest in presidential campaign kick-off",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261025-french-far-right-leader-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+      "published_date": "2026-10-25T15:01:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: 110.000 protesters in Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-110-000-protesters-in-paris",
+      "published_date": "2026-10-25T15:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Le Pen leads polls with up to 38% six months before election",
       "source": "France 24",
       "url": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
@@ -519,97 +603,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe",
       "published_date": "2026-10-25T11:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit",
-      "published_date": "2026-10-25T10:36:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France reports 1,314 arrests after protests as police defend security operation",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261025-france-reports-1-314-arrests-after-protests-as-police-defend-security-operation",
-      "published_date": "2026-10-25T10:33:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Some clashes erupted at end of protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-some-clashes-erupted-at-end-of-protests",
-      "published_date": "2026-10-25T09:35:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 400.000 protest across France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/more-than-400-000-protest-across-france",
-      "published_date": "2026-10-25T09:32:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France’s far right gathers as Le Pen prepares her presidential campaign",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-s-far-right-gathers-as-le-pen-prepares-her-presidential-campaign",
-      "published_date": "2026-10-25T09:31:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of thousands march in France to protest against government",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/hundreds-of-thousands-march-in-france-to-protest-against-government",
-      "published_date": "2026-10-25T09:29:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On the Agenda: What’s happening in France this week",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261025/on-the-agenda-whats-happening-in-france-this-week-233",
-      "published_date": "2026-10-25T07:13:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'The marches went well' – French government on demonstrations a week after looting and violence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
-      "published_date": "2026-10-24T21:01:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-24T19:37:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Watching the Post-Riot Protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests",
-      "published_date": "2026-10-24T18:42:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of thousands march across France in protests over schools and policing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-      "published_date": "2026-10-24T17:54:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel begins demolitions in West Bank",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-begins-demolitions-in-west-bank",
-      "published_date": "2026-10-24T17:13:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy hit by new cost of living protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests",
-      "published_date": "2026-10-24T17:12:54+00:00",
       "category": "Local Events"
     }
   ]
