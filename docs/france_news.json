@@ -1,8 +1,71 @@
 {
   "country": "France",
-  "last_updated": "2026-10-26T00:57:22.925213+00:00",
-  "story_count": 86,
+  "last_updated": "2026-10-26T17:05:40.111818+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – as it hapepned",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
+      "published_date": "2026-10-26T16:39:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France protests: Macron rules out state of emergency – for now",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261026-france-protests-macron-rules-out-state-of-emergency-%E2%80%93-for-now",
+      "published_date": "2026-10-26T16:16:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron promises 'concrete measures' in response to French students' demands",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261026-french-president-promises-concrete-measures-in-response-to-french-students-demands",
+      "published_date": "2026-10-26T14:39:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron vows ‘concrete’ measures to address student demands after unrest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261026-macron-vows-concrete-measures-to-address-student-demands-after-unrest",
+      "published_date": "2026-10-26T12:25:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French PM meets student representatives after weeks of protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-pm-meets-student-representatives-after-weeks-of-protests",
+      "published_date": "2026-10-26T12:20:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ask the expert: How does France's wealth tax affect new arrivals?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261026/ask-the-expert-how-does-frances-wealth-tax-affect-new-arrivals",
+      "published_date": "2026-10-26T11:52:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit deal is not good enough for British public, says Andy Burnham",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
+      "published_date": "2026-10-26T09:30:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Macron leads congratulations for Lula's presidential victory in Brazil",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261026-france-s-macron-leads-congratulations-for-bolsonaro-s-presidential-win-in-brazil",
+      "published_date": "2026-10-26T08:18:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Le Pen launches presidential bid vowing to restore 'rule of law'",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261026/frances-le-pen-launches-presidential-bid-vowing-to-restore-rule-of-law",
+      "published_date": "2026-10-26T08:09:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
       "source": "The Guardian",
@@ -81,67 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-23T19:42:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "🔴 Live: French student groups call for protests to continue after meeting with Macron",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests",
-      "published_date": "2026-10-23T16:31:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tinned mackerel, hand-crank radios and bags for poo: crisis-prepping guides around the world",
+      "title": "Protests, tourists and the Kremlin: Georgia at a crossroads – photo essay",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/23/tinned-mackerel-hand-crank-radios-and-bags-for-poo-crisis-prepping-guides-around-the-world",
-      "published_date": "2026-10-23T15:52:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/26/protests-tourists-and-the-kremlin-georgia-at-a-crossroads-photo-essay",
+      "published_date": "2026-10-26T14:02:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Europe faces threat of organised sabotage, terrorist attacks: Estonian FM Tsahkna",
+      "title": "Will Netanyahu's security promise win him this election?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261023-europe-faces-threat-of-organised-sabotage-terrorist-attacks-estonian-fm-tsahkna",
-      "published_date": "2026-10-23T14:55:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261026-will-netanyahu-s-security-promise-win-him-this-election",
+      "published_date": "2026-10-26T13:52:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Azerbaijan hijab ban exposes strain in ‘brotherly’ ties with Turkey",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/international-report/20261023-azerbaijan-hijab-ban-exposes-strain-in-brotherly-ties-with-turkey",
-      "published_date": "2026-10-23T14:50:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU member states wrangle over all-important budget: Is a deal this year feasible?",
+      "title": "'An everyday habit': 2.5 billion lines of cocaine snorted in England per year",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261023-eu-member-states-wrangle-over-all-important-budget-is-a-deal-this-year-feasible",
-      "published_date": "2026-10-23T14:45:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/press-review/20261026-an-everyday-habit-2-5-billion-lines-of-cocaine-snorted-in-england-per-year",
+      "published_date": "2026-10-26T11:05:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "French protests: President Emmanuel Macron meets student unions representatives",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-protests-president-emmanuel-macron-meets-student-unions-representatives",
-      "published_date": "2026-10-23T14:26:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Major protests in France: Macron convenes student representatives",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/major-protests-in-france-macron-convenes-student-representatives",
-      "published_date": "2026-10-23T13:20:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU parliament approves more safeguards for travellers in Europe",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261023/eu-parliament-approves-more-safeguards-for-travellers-in-europe",
-      "published_date": "2026-10-23T12:49:21+00:00",
-      "category": "Diplomacy"
+      "title": "European gas prices soar to four-year high over winter supply fears",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+      "published_date": "2026-10-26T10:35:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Report: IDF chief pushes back on Netanyahu's order",
@@ -155,6 +183,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1",
       "published_date": "2026-10-25T16:25:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia given first championships since Ukraine invasion",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-25T14:34:33+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
+      "title": "Lula's re-election brings hope for the Amazon as deforestation drops to record low",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261023-netanyahu-weighs-west-bank-operation-ahead-of-elections-politically-it-will-not-help-anybody",
-      "published_date": "2026-10-23T18:26:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US and Israel are warned against launching fresh strikes on Iran",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
-      "published_date": "2026-10-23T17:18:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel: Could Arab parties play kingmaker in the next Knesset ?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-could-arab-parties-play-kingmaker-in-the-next-knesset",
-      "published_date": "2026-10-23T17:11:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza : digging up the bodies from under the rubble",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20261023-gaza-digging-up-the-bodies-from-under-the-rubble",
-      "published_date": "2026-10-23T17:10:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Opposition deepfake video sparks outrage in Spain ahead of election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
-      "published_date": "2026-10-23T16:35:48+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20261026-lula-s-re-election-brings-hope-for-the-amazon-as-deforestation-drops-to-record-low",
+      "published_date": "2026-10-26T16:12:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
@@ -324,6 +331,62 @@
       "url": "https://www.france24.com/en/tv-shows/business/20261020-french-retailers-begin-filing-insurance-claims-after-weekend-of-looting",
       "published_date": "2026-10-20T09:57:26+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "'Lula accustomed to negotiating tough bargains': Campaign promises collide with right-wing Congress",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/lula-accustomed-to-negotiating-tough-bargains-campaign-promises-collide-with-right-wing-congress",
+      "published_date": "2026-10-26T16:54:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
+      "published_date": "2026-10-26T16:48:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What makes Andy Burnham think Britain can rejoin the EU? – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/oct/26/what-makes-andy-burnham-think-britain-can-rejoin-the-eu-podcast",
+      "published_date": "2026-10-26T16:36:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Senegal PM vows to sort out economic problems as 2026 Youth Olympics Games loom",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20261026-senegal-pm-vows-to-sort-out-economic-problems-as-2026-youth-olympics-games-loom",
+      "published_date": "2026-10-26T15:31:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Audi boss under fire in Germany for Trump rally appearance",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
+      "published_date": "2026-10-26T14:42:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+      "published_date": "2026-10-26T14:00:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lula wins Brazil election but faces uphill battle to govern",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261026-lula-wins-brazil-election-but-faces-uphill-battle-to-govern",
+      "published_date": "2026-10-26T13:38:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French rail workers join November strike",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261026/french-rail-workers-join-november-strike",
+      "published_date": "2026-10-26T10:57:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "Presidential runoff under way in Brazil",
@@ -410,60 +473,67 @@
       "category": "Economy"
     },
     {
-      "title": "Italy's trucker protests halt buffalo mozzarella production, cost producers €3m",
+      "title": "Brazil's Lula reelected president in runoff vote: A look back at his career",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261022-italy-s-trucker-protests-halt-buffalo-mozzarella-production-cost-producers-%E2%82%AC3m",
-      "published_date": "2026-10-22T20:54:15+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/brazil-s-lula-reelected-president-in-runoff-vote-a-look-back-at-his-career",
+      "published_date": "2026-10-26T15:11:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘The best on Earth’: Can weak economic growth undermine Europe’s ‘very sophisticated social system’?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261022-the-best-on-earth-can-weak-economic-growth-undermine-europe-s-very-sophisticated-social-system",
-      "published_date": "2026-10-22T19:59:12+00:00",
-      "category": "Economy"
+      "title": "Le Pen widens poll lead as Mélenchon closes in on run-off spot",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261026-le-pen-widens-poll-lead-as-m%C3%A9lenchon-closes-in-on-run-off-spot",
+      "published_date": "2026-10-26T14:30:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French borrowing costs overtake US amid budget turmoil",
+      "title": "Serbia's Vucic concedes defeat to the student-led movement: What's next?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/serbia-s-vucic-concedes-defeat-to-the-student-led-movement-what-s-next",
+      "published_date": "2026-10-26T14:12:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris extends summer café terraces for another month",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261026/paris-extends-summer-cafe-terraces-for-another-month",
+      "published_date": "2026-10-26T13:25:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Live: French education ministers unveil plans to ease student protest crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261026-live-france-will-maintain-order-without-state-of-emergency-but-it-s-not-off-the-table-macron-says",
+      "published_date": "2026-10-26T12:47:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Presidential election watch: Is street violence really a boost for Le Pen?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261026/presidential-election-watch-is-street-violence-really-a-boost-for-le-pen",
+      "published_date": "2026-10-26T11:07:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia's student movement ousts longtime leader Vucic in parliament poll",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/serbia-s-student-movement-ousts-longtime-leader-vucic-in-parliament-poll",
+      "published_date": "2026-10-26T09:41:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French unions and protest groups call fresh rallies and nationwide strike",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261026-french-unions-and-protest-groups-call-fresh-rallies-and-nationwide-strike",
+      "published_date": "2026-10-26T07:07:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could Europe’s autumn of discontent threaten the survival of the EU? | Catherine De Vries",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
-      "published_date": "2026-10-22T08:40:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Europe's wave of anger: How far will youth-led protests go?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261022-europe-s-wave-of-anger-how-far-will-youth-led-protests-go",
-      "published_date": "2026-10-22T08:12:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Senegal unions press on with general strike days before Youth Olympics",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261022-senegal-unions-press-on-with-general-strike-days-before-youth-olympics",
-      "published_date": "2026-10-22T05:17:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Meta fined $25 billion in New Mexico over Cambridge Analytica scandal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal",
-      "published_date": "2026-10-21T21:21:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "French bond yields hit 24-year high after unrest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-bond-yields-hit-24-year-high-after-unrest",
-      "published_date": "2026-10-21T20:43:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Billionaires and 'dark money' fuel record spending on US midterms",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261021-billionaires-and-dark-money-fuel-record-spending-on-us-midterms",
-      "published_date": "2026-10-21T16:30:35+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/could-europes-autumn-of-discontent-threaten-the-survival-of-the-eu",
+      "published_date": "2026-10-26T05:00:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
@@ -540,69 +610,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
       "published_date": "2026-10-25T15:32:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right leader Le Pen seeks to leverage unrest in presidential campaign kick-off",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261025-french-far-right-leader-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
-      "published_date": "2026-10-25T15:01:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: 110.000 protesters in Paris",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-110-000-protesters-in-paris",
-      "published_date": "2026-10-25T15:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Le Pen leads polls with up to 38% six months before election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
-      "published_date": "2026-10-25T13:51:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Le Pen launches presidential campaign in Orleans",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-le-pen-launches-presidential-campaign-in-orleans",
-      "published_date": "2026-10-25T13:46:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect in deadly Paris suburb shooting moved to psychiatric unit",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261025-suspect-in-deadly-paris-suburb-shooting-moved-to-psychiatric-unit",
-      "published_date": "2026-10-25T13:23:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right leader Le Pen says visible policing keeps protests smooth",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/far-right-leader-le-pen-says-visible-policing-keeps-protests-smooth",
-      "published_date": "2026-10-25T11:39:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel: Demonstrators rally against government ahead of election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
-      "published_date": "2026-10-25T11:38:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police and protesters exchange teargas and fireworks in demonstrations across France – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/25/police-and-protesters-exchange-teargas-and-fireworks-in-demonstrations-across-france-video",
-      "published_date": "2026-10-25T11:23:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lights out: the island that goes dark to save young seabirds – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe",
-      "published_date": "2026-10-25T11:00:03+00:00",
       "category": "Local Events"
     }
   ]
