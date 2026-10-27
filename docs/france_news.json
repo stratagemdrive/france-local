@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-10-26T17:05:40.111818+00:00",
-  "story_count": 87,
+  "last_updated": "2026-10-27T01:47:32.414446+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Europe's top NATO powers pledge greater defence role, reaffirm US alliance",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261026-europe-nato-defence-responsibility-us-alliance",
+      "published_date": "2026-10-26T23:33:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+      "published_date": "2026-10-26T18:03:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron",
+      "published_date": "2026-10-26T17:59:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A referendum is not needed for the UK to reach a Bre-entry deal with Europe | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/a-referendum-is-not-needed-for-the-uk-to-reach-a-bre-entry-deal-with-europe",
+      "published_date": "2026-10-26T17:39:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French student union leaders call for 'continued mobilisation' after meeting PM",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261026-french-student-union-leaders-call-for-continued-mobilisation-after-meeting-pm",
+      "published_date": "2026-10-26T17:37:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – as it hapepned",
       "source": "The Guardian",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France and Britain test NATO readiness with major airborne exercise in Germany",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261025-france-and-britain-test-nato-readiness-with-major-airborne-exercise-in-germany",
-      "published_date": "2026-10-25T07:57:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+      "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
-      "published_date": "2026-10-24T23:07:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+      "published_date": "2026-10-27T01:30:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "France: Young demonstrators demand concrete action from Macron",
+      "title": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-young-demonstrators-demand-concrete-action-from-macron",
-      "published_date": "2026-10-24T11:41:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
+      "published_date": "2026-10-26T23:24:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lawmakers say EU must probe social media role in protests",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261024/lawmakers-say-eu-must-probe-social-media-role-in-protests",
-      "published_date": "2026-10-24T07:49:48+00:00",
-      "category": "Diplomacy"
+      "title": "The fall of El-Fasher, one year on",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/the-fall-of-el-fasher-one-year-on",
+      "published_date": "2026-10-26T21:26:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Aaron Rodgers says NFL’s Paris game is safe despite PSG cancellation amid unrest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/oct/23/aaron-rodgers-nfl-paris-game-protests-steelers-saints",
-      "published_date": "2026-10-23T19:55:09+00:00",
-      "category": "Diplomacy"
+      "title": "Opponents accuse Netanyahu of stoking tensions with Iran before Israel's election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/opponents-accuse-netanyahu-of-stoking-tensions-with-iran-before-israel-s-election",
+      "published_date": "2026-10-26T17:11:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jordan's strikes on Syria over church terror attack kill several civilians",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church",
+      "published_date": "2026-10-26T15:12:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Protests, tourists and the Kremlin: Georgia at a crossroads – photo essay",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine says Starlink and Starshield connection 'stable' again",
+      "title": "Brazil: What does Lula's re-election mean for the Amazon?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again",
-      "published_date": "2026-10-24T09:48:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russian diesel tankers headed for North America, says Moscow, as US tries to revive peace talks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-war-briefing-russian-diesel-tankers-headed-for-north-america-says-moscow-as-us-tries-to-revive-peace-talks",
-      "published_date": "2026-10-24T01:20:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who actually controls Ukraine's access to Starlink?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-23T22:24:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261023-trump-says-us-may-launch-another-little-epic-fury-attack-iran",
-      "published_date": "2026-10-23T20:50:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-23T18:52:17+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon",
+      "published_date": "2026-10-26T17:18:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Lula's re-election brings hope for the Amazon as deforestation drops to record low",
@@ -331,6 +338,20 @@
       "url": "https://www.france24.com/en/tv-shows/business/20261020-french-retailers-begin-filing-insurance-claims-after-weekend-of-looting",
       "published_date": "2026-10-20T09:57:26+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261026-comeback-kid-how-did-brazil-veteran-leader-lula-upset-bolsonaro",
+      "published_date": "2026-10-26T19:22:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What makes Andy Burnham think we can rejoin the EU? | Politics Weekly",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/video/2026/oct/26/what-makes-andy-burnham-think-we-can-rejoin-the-eu-politics-weekly",
+      "published_date": "2026-10-26T17:50:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "'Lula accustomed to negotiating tough bargains': Campaign promises collide with right-wing Congress",
@@ -459,18 +480,60 @@
       "category": "Economy"
     },
     {
-      "title": "Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
-      "published_date": "2026-10-23T10:33:37+00:00",
-      "category": "Economy"
+      "title": "Putellas and Kane win 2026 Ballon d'Or as PSG retain men's team of year prize",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20261027-putellas-and-kane-win-2026-ballon-d-or-as-psg-take-men-s-team-of-year",
+      "published_date": "2026-10-27T00:27:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bill to make vandals pay for damage advances in wake of France's unrest",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261023-bill-to-make-vandals-pay-for-damage-makes-headway-in-wake-of-france-s-unrest",
-      "published_date": "2026-10-23T05:16:16+00:00",
-      "category": "Economy"
+      "title": "Flavio Bolsonaro vows to lead opposition after Brazil court imposes travel ban",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
+      "published_date": "2026-10-26T23:56:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
+      "published_date": "2026-10-26T22:18:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia’s elections: 'Tracking fraud for sure had an impact on the results'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261026-serbia-elections-tracking-fraud-had-an-impact-on-results-vote-fraud",
+      "published_date": "2026-10-26T21:49:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protest leaders urge French pupils to keep barricading their schools",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
+      "published_date": "2026-10-26T20:17:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As students we never sought power – here’s how we reclaimed Serbia | Novak Simin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/serbia-students-power-state-functioning-state",
+      "published_date": "2026-10-26T19:04:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Serbia’s student revolution: from principled protest to power | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/the-guardian-view-on-serbias-student-revolution-from-principled-protest-to-power",
+      "published_date": "2026-10-26T18:38:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France will lurch from crisis to crisis until it confronts its retirement timebomb | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/26/france-will-lurch-from-crisis-to-crisis-until-it-confronts-its-retirement-timebomb",
+      "published_date": "2026-10-26T17:39:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Brazil's Lula reelected president in runoff vote: A look back at his career",
@@ -554,62 +617,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
       "published_date": "2026-10-25T19:45:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Le Pen’s ‘Renaissance’: 4th time lucky?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261025-le-pen-s-renaissance-4th-time-lucky",
-      "published_date": "2026-10-25T19:05:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right Le Pen promises French ‘rebirth’ as RN sets sights on 2027 presidency",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261025-far-right-le-pen-promises-french-rebirth-as-rn-sets-sights-on-2027-presidency",
-      "published_date": "2026-10-25T18:07:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
-      "published_date": "2026-10-25T17:12:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right leader Le Pen kicks off presidential campaign",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-far-right-leader-le-pen-kicks-off-presidential-campaign",
-      "published_date": "2026-10-25T16:38:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: 1.314 arrested during protests across the country",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-1-314-arrested-during-protests-across-the-country",
-      "published_date": "2026-10-25T16:32:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A life lived in music: Nadia Boulanger, the musicians' mentor",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/culture/20261025-a-life-lived-in-music-nadia-boulanger-the-musicians-mentor",
-      "published_date": "2026-10-25T16:05:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-25T15:32:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portuguese police with dogs and batons dismantle housing protest camps",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
-      "published_date": "2026-10-25T15:32:20+00:00",
       "category": "Local Events"
     }
   ]
