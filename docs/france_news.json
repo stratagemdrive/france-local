@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-10-27T01:47:32.414446+00:00",
-  "story_count": 88,
+  "last_updated": "2026-10-27T16:09:07.704515+00:00",
+  "story_count": 86,
   "stories": [
+    {
+      "title": "Israeli election: A referendum on 'Bibi' Netanyahu?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20261027-israeli-election-a-referendum-on-bibi-netanyahu",
+      "published_date": "2026-10-27T12:52:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Defund Elon Musk | Robert Reich",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/defund-elon-musk",
+      "published_date": "2026-10-27T10:00:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK officials discussing options including free movement with EU ahead of summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
+      "published_date": "2026-10-27T09:41:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France announces education reforms, but students to continue protests",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261027/france-announces-education-reforms-but-students-to-continue-protests",
+      "published_date": "2026-10-27T08:54:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'They should be afraid': Serbia's student-led victory over Vučić sends warning to 'corrupt' leaders",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261027-they-should-be-afraid-serbia-s-student-led-victory-over-vu%C4%8Di%C4%87-sends-warning-to-corrupt-leaders",
+      "published_date": "2026-10-27T08:22:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron vows to stand firm against disorder during visit to Marseille",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261027-france-s-macron-vows-to-stand-firm-against-disorder-during-visit-to-marseille",
+      "published_date": "2026-10-27T07:19:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe's top NATO powers pledge greater defence role, reaffirm US alliance",
       "source": "France 24",
@@ -102,46 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
+      "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-      "published_date": "2026-10-25T23:40:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+      "published_date": "2026-10-27T16:08:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+      "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
-      "published_date": "2026-10-25T19:57:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
+      "published_date": "2026-10-27T16:03:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "France: Football fans take over Paris as NFL comes to country for the first time",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T15:13:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Localised Russia-Ukraine ceasefire starts in Ukrainian town facing starvation",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261025-france-football-fans-take-over-paris-as-nfl-comes-to-country-for-the-first-time",
-      "published_date": "2026-10-25T18:01:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation",
+      "published_date": "2026-10-27T12:34:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rayner backs Burnham call for debate on return to free movement with EU",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
-      "published_date": "2026-10-25T13:31:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "At least 1,300 people arrested in mass weekend protests across France",
+      "title": "American rapper Macklemore begins 'Free Palestine' tour",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france",
-      "published_date": "2026-10-25T11:02:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261027-american-rapper-macklemore-begins-free-palestine-tour",
+      "published_date": "2026-10-27T11:57:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "US seized American heir’s cellphone in violation of treaty agreement, lawyer says",
+      "title": "Sudan: One year after the fall of El-Fasher",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261027-sudan-one-year-after-the-fall-of-el-fasher",
+      "published_date": "2026-10-27T11:46:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Algeria to deploy army units to Niger to protect economic interests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261027-algeria-deploys-army-units-to-niger-to-protect-economic-interests",
+      "published_date": "2026-10-27T11:28:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anthropic files for mammoth IPO as revenues and losses mount",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261027-anthropic-files-for-mammoth-ipo-as-revenues-and-losses-mount",
+      "published_date": "2026-10-27T10:20:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Polls open in Israel as Netanyahu faces close contest after three years of war",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261027-polls-open-in-israel-as-netanyahu-faces-close-contest-after-three-years-of-war",
+      "published_date": "2026-10-27T08:02:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
-      "published_date": "2026-10-25T09:00:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
+      "published_date": "2026-10-27T07:00:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A leaderless revolution has swept Serbia. The world should be watching | Aleksandar Matkovic",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/a-leaderless-revolution-has-swept-serbia-the-world-should-be-watching",
+      "published_date": "2026-10-27T05:00:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
@@ -207,83 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Report: IDF chief pushes back on Netanyahu's order",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
-      "published_date": "2026-10-25T23:24:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Midterms: Obama campaigns for Democrats, slams Trump",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1",
-      "published_date": "2026-10-25T16:25:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia given first championships since Ukraine invasion",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-25T14:34:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French and UK troops war-game attack on Nato territory",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261025/french-and-uk-troops-war-game-attack-on-nato-territory",
-      "published_date": "2026-10-25T10:01:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-25T09:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv targets Russian-occupied Crimea as UK and France conduct joint military exercise",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/25/ukraine-war-briefing-kyiv-targets-russian-occupied-crimea-as-uk-and-france-conduct-joint-military-exercise",
-      "published_date": "2026-10-25T02:37:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
-      "published_date": "2026-10-24T21:25:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'The major risk remains a human-directed attack', cyber threat expert warns RFI",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261024-the-major-risk-remains-a-human-directed-attack-cyber-expert-warns-rfi",
-      "published_date": "2026-10-24T18:38:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "“Witkoff should step down” says Ukraine Committee Chief",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief",
-      "published_date": "2026-10-24T18:37:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
-      "published_date": "2026-10-24T18:21:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine says Starlink connection 'now stable' after network limits",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-24T12:12:40+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Brazil: What does Lula's re-election mean for the Amazon?",
       "source": "France 24",
       "url": "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon",
@@ -326,18 +326,25 @@
       "category": "Energy"
     },
     {
-      "title": "Fuel, gas and vegetables: Is the cost of living in France really going up?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261020/fuel-gas-and-vegetables-is-the-cost-of-living-in-france-really-going-up",
-      "published_date": "2026-10-20T14:29:34+00:00",
-      "category": "Energy"
+      "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
+      "published_date": "2026-10-27T15:34:13+00:00",
+      "category": "Economy"
     },
     {
-      "title": "French retailers begin filing insurance claims after weekend of looting",
+      "title": "France pledges university admissions overhaul and education funding to ease protests",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261027-france-pledges-admissions-overhaul-and-education-funding-to-ease-protests",
+      "published_date": "2026-10-27T10:20:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US-EU trade truce at risk over $3.4 billion Airbus loan, Trump official warns",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261020-french-retailers-begin-filing-insurance-claims-after-weekend-of-looting",
-      "published_date": "2026-10-20T09:57:26+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump",
+      "published_date": "2026-10-27T02:20:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?",
@@ -459,25 +466,81 @@
       "category": "Economy"
     },
     {
-      "title": "Protests against cost of living expected in Italy under heavy security",
+      "title": "France's Senate takes on the 'rioters pay' bill after protests",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261024-protests-against-cost-of-living-expected-in-italy-under-heavy-security",
-      "published_date": "2026-10-24T07:08:54+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20261027-france-s-senate-takes-on-the-rioters-pay-bill-after-protests",
+      "published_date": "2026-10-27T14:13:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "France awaits Moody's verdict: Downgrade widely expected as debt fears grow",
+      "title": "'Get the Flock out': Americans respond to AI cameras in bipartisan backlash",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-awaits-moody-s-verdict-downgrade-widely-expected-as-debt-fears-grow",
-      "published_date": "2026-10-23T13:10:24+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/americas/20261027-united-states-get-the-flock-out-americans-respond-to-ai-cameras-in-bipartisan-backlash-midterm-elections",
+      "published_date": "2026-10-27T12:26:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Singapore's longevity industry: The quest for eternal youth",
+      "title": "Casseurs-payeurs: France's 'rioters pay' bill explained",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261027/casseurs-payeurs-frances-rioters-pay-bill-explained",
+      "published_date": "2026-10-27T12:17:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSG bosses hail club of the year success at 2026 Ballon d'Or awards",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20261027-psg-bosses-hail-club-of-the-year-success-at-2026-ballon-d-or-awards",
+      "published_date": "2026-10-27T12:15:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Africa suspends asylum applications after recent unrest",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261023-singapore-s-longevity-industry-the-quest-for-eternal-youth",
-      "published_date": "2026-10-23T11:53:53+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20261027-south-africa-suspends-asylum-applications-after-recent-unrest",
+      "published_date": "2026-10-27T11:37:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French government concessions to students 'tactically shrewd' but risk creating new set of problems",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-government-concessions-to-students-tactically-shrewd-but-risk-creating-new-set-of-problems",
+      "published_date": "2026-10-27T11:35:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French protests: Student union leaders vow to keep mobilising",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261027-french-protests-student-union-leaders-vow-to-keep-mobilising",
+      "published_date": "2026-10-27T11:18:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iraqi court sentences six French nationals to life for IS group membership",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261027-iraqi-court-sentences-six-french-nationals-to-life-for-is-group-membership",
+      "published_date": "2026-10-27T11:16:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IN PICTURES: France holds anti-racism rallies after deadly gun attack outside Paris",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261027/in-pictures-france-holds-anti-racism-rallies-after-deadly-gun-attack-outside-paris",
+      "published_date": "2026-10-27T09:32:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Compared: The French presidential candidates' policies for foreigners in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261027/compared-the-french-presidential-candidates-policies-for-foreigners-in-france",
+      "published_date": "2026-10-27T09:14:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It’s the smell of freedom’: Belgrade cleans up after Student List triumph",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
+      "published_date": "2026-10-27T06:00:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Putellas and Kane win 2026 Ballon d'Or as PSG retain men's team of year prize",
@@ -540,83 +603,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/brazil-s-lula-reelected-president-in-runoff-vote-a-look-back-at-his-career",
       "published_date": "2026-10-26T15:11:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Le Pen widens poll lead as Mélenchon closes in on run-off spot",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261026-le-pen-widens-poll-lead-as-m%C3%A9lenchon-closes-in-on-run-off-spot",
-      "published_date": "2026-10-26T14:30:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia's Vucic concedes defeat to the student-led movement: What's next?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/serbia-s-vucic-concedes-defeat-to-the-student-led-movement-what-s-next",
-      "published_date": "2026-10-26T14:12:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris extends summer café terraces for another month",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261026/paris-extends-summer-cafe-terraces-for-another-month",
-      "published_date": "2026-10-26T13:25:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: French education ministers unveil plans to ease student protest crisis",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261026-live-france-will-maintain-order-without-state-of-emergency-but-it-s-not-off-the-table-macron-says",
-      "published_date": "2026-10-26T12:47:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presidential election watch: Is street violence really a boost for Le Pen?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261026/presidential-election-watch-is-street-violence-really-a-boost-for-le-pen",
-      "published_date": "2026-10-26T11:07:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia's student movement ousts longtime leader Vucic in parliament poll",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/serbia-s-student-movement-ousts-longtime-leader-vucic-in-parliament-poll",
-      "published_date": "2026-10-26T09:41:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French unions and protest groups call fresh rallies and nationwide strike",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261026-french-unions-and-protest-groups-call-fresh-rallies-and-nationwide-strike",
-      "published_date": "2026-10-26T07:07:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could Europe’s autumn of discontent threaten the survival of the EU? | Catherine De Vries",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/could-europes-autumn-of-discontent-threaten-the-survival-of-the-eu",
-      "published_date": "2026-10-26T05:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-25T22:54:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia's Vucic concedes defeat in historic snap election with record turnout",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
-      "published_date": "2026-10-25T21:24:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marine Le Pen launches presidential campaign in Orléans",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
-      "published_date": "2026-10-25T19:45:40+00:00",
       "category": "Local Events"
     }
   ]
