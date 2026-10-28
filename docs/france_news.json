@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-10-27T16:09:07.704515+00:00",
+  "last_updated": "2026-10-28T01:59:53.067994+00:00",
   "story_count": 86,
   "stories": [
+    {
+      "title": "King Charles confronts calls for slavery apology during Caribbean tour",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour",
+      "published_date": "2026-10-27T23:14:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on the far right’s plans for Brussels: doing the work of Xi, Putin and Trump | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/the-guardian-view-on-the-far-rights-plans-for-brussels-doing-the-work-of-xi-putin-and-trump",
+      "published_date": "2026-10-27T18:25:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "French customers to pay €5 fees on small non-EU packages",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261027/french-customers-to-pay-e5-fees-on-small-non-eu-packages",
+      "published_date": "2026-10-27T16:20:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israeli election: A referendum on 'Bibi' Netanyahu?",
       "source": "France 24",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Brexit deal is not good enough for British public, says Andy Burnham",
+      "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
-      "published_date": "2026-10-26T09:30:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/28/ukraine-war-briefing-kyiv-retaking-territory-zelenskyy-says-as-nordic-leaders-urge-putin-to-end-the-conflict",
+      "published_date": "2026-10-28T01:39:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "France's Macron leads congratulations for Lula's presidential victory in Brazil",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261026-france-s-macron-leads-congratulations-for-bolsonaro-s-presidential-win-in-brazil",
-      "published_date": "2026-10-26T08:18:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France's Le Pen launches presidential bid vowing to restore 'rule of law'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261026/frances-le-pen-launches-presidential-bid-vowing-to-restore-rule-of-law",
-      "published_date": "2026-10-26T08:09:18+00:00",
-      "category": "Diplomacy"
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T18:28:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – Europe live",
@@ -162,6 +176,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-27T15:13:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia given first championships since Ukraine invasion",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T14:18:44+00:00",
       "category": "Military"
     },
     {
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Will Netanyahu's security promise win him this election?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261026-will-netanyahu-s-security-promise-win-him-this-election",
-      "published_date": "2026-10-26T13:52:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'An everyday habit': 2.5 billion lines of cocaine snorted in England per year",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20261026-an-everyday-habit-2-5-billion-lines-of-cocaine-snorted-in-england-per-year",
-      "published_date": "2026-10-26T11:05:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European gas prices soar to four-year high over winter supply fears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
-      "published_date": "2026-10-26T10:35:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Brazil: What does Lula's re-election mean for the Amazon?",
       "source": "France 24",
       "url": "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon",
@@ -324,6 +324,13 @@
       "url": "https://www.rfi.fr/en/environment/20261021-world-set-to-breach-1-5c-warming-limit-as-un-warns-time-is-running-out",
       "published_date": "2026-10-21T12:36:37+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic",
+      "published_date": "2026-10-27T18:27:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – UK politics live",
@@ -459,11 +466,46 @@
       "category": "Economy"
     },
     {
-      "title": "France braces for new protests",
+      "title": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-braces-for-new-protests",
-      "published_date": "2026-10-24T11:36:24+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions",
+      "published_date": "2026-10-27T19:44:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ibrahim Abu Ahmad on Israeli election: 'Crucial for Arab citizens to have ally in Jewish community'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community",
+      "published_date": "2026-10-27T18:59:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel elections: voter turnout reaches 55% by 4pm local time",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
+      "published_date": "2026-10-27T16:52:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil's defeated candidate Flavio Bolsonaro flees to US despite cancelled passports",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
+      "published_date": "2026-10-27T16:33:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iraqi court jails seven French nationals over Islamic State membership",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261027-iraqi-court-jails-seven-french-nationals-over-islamic-state-membership",
+      "published_date": "2026-10-27T16:30:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Somalia reports deadly fighting with Al-Shabaab as both sides claim heavy losses",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20261027-somalia-reports-deadly-fighting-with-al-shabaab-as-both-sides-claim-heavy-losses",
+      "published_date": "2026-10-27T16:10:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France's Senate takes on the 'rioters pay' bill after protests",
@@ -561,48 +603,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
       "published_date": "2026-10-26T22:18:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia’s elections: 'Tracking fraud for sure had an impact on the results'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261026-serbia-elections-tracking-fraud-had-an-impact-on-results-vote-fraud",
-      "published_date": "2026-10-26T21:49:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protest leaders urge French pupils to keep barricading their schools",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
-      "published_date": "2026-10-26T20:17:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As students we never sought power – here’s how we reclaimed Serbia | Novak Simin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/serbia-students-power-state-functioning-state",
-      "published_date": "2026-10-26T19:04:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Serbia’s student revolution: from principled protest to power | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/the-guardian-view-on-serbias-student-revolution-from-principled-protest-to-power",
-      "published_date": "2026-10-26T18:38:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France will lurch from crisis to crisis until it confronts its retirement timebomb | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/26/france-will-lurch-from-crisis-to-crisis-until-it-confronts-its-retirement-timebomb",
-      "published_date": "2026-10-26T17:39:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil's Lula reelected president in runoff vote: A look back at his career",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/brazil-s-lula-reelected-president-in-runoff-vote-a-look-back-at-his-career",
-      "published_date": "2026-10-26T15:11:20+00:00",
       "category": "Local Events"
     }
   ]
