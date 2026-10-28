@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-10-28T01:59:53.067994+00:00",
-  "story_count": 86,
+  "last_updated": "2026-10-28T16:56:22.281970+00:00",
+  "story_count": 87,
   "stories": [
+    {
+      "title": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
+      "published_date": "2026-10-28T16:45:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ethiopia clashes push 50,000 to flee to Kenya",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20261028-ethiopia-clashes-push-50-000-flee-to-kenya",
+      "published_date": "2026-10-28T16:29:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US judge narrows Macron defamation case against podcaster",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261028/us-judge-narrows-macron-defamation-case-against-podcaster",
+      "published_date": "2026-10-28T14:36:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mbappé's China faux pas: When the sports world collides with the complexities of geopolitics",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261028-mbapp%C3%A9-s-china-faux-pas-when-the-sports-world-collides-with-the-complexities-of-geopolitics",
+      "published_date": "2026-10-28T12:20:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mbappé's China faux pas: When the sports world collides with the complexities of geopolitics",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261028-mbapp%C3%A9-s-china-faux-pas-when-the-sports-world-collides-with-the-complexities-of-geopolitics",
+      "published_date": "2026-10-28T12:17:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Charles confronts calls for slavery apology during Caribbean tour",
       "source": "France 24",
@@ -109,45 +144,38 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France protests: Macron rules out state of emergency – for now",
+      "title": "Israeli election: Lebanon expects little change in Israeli policy",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261026-france-protests-macron-rules-out-state-of-emergency-%E2%80%93-for-now",
-      "published_date": "2026-10-26T16:16:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261028-israeli-election-lebanon-expects-little-change-in-israeli-policy",
+      "published_date": "2026-10-28T15:36:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron promises 'concrete measures' in response to French students' demands",
+      "title": "West Bank: settlers using drones to monitor Palestinians",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261026-french-president-promises-concrete-measures-in-response-to-french-students-demands",
-      "published_date": "2026-10-26T14:39:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20261028-west-bank-settlers-using-drones-to-monitor-palestinians",
+      "published_date": "2026-10-28T13:39:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "Macron vows ‘concrete’ measures to address student demands after unrest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261026-macron-vows-concrete-measures-to-address-student-demands-after-unrest",
-      "published_date": "2026-10-26T12:25:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French PM meets student representatives after weeks of protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-pm-meets-student-representatives-after-weeks-of-protests",
-      "published_date": "2026-10-26T12:20:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ask the expert: How does France's wealth tax affect new arrivals?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261026/ask-the-expert-how-does-frances-wealth-tax-affect-new-arrivals",
-      "published_date": "2026-10-26T11:52:52+00:00",
-      "category": "Diplomacy"
+      "title": "Soviet troops invade Hungary – archive, 1956",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/28/soviet-troops-invade-hungary-russia-1956",
+      "published_date": "2026-10-28T13:09:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/28/ukraine-war-briefing-kyiv-retaking-territory-zelenskyy-says-as-nordic-leaders-urge-putin-to-end-the-conflict",
       "published_date": "2026-10-28T01:39:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T22:11:08+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "The fall of El-Fasher, one year on",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/the-fall-of-el-fasher-one-year-on",
-      "published_date": "2026-10-26T21:26:52+00:00",
-      "category": "Military"
+      "title": "Medical experts warn climate change is now a 'global health emergency'",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20261028-medical-experts-warn-climate-change-is-now-a-global-health-emergency",
+      "published_date": "2026-10-28T16:28:47+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Opponents accuse Netanyahu of stoking tensions with Iran before Israel's election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/opponents-accuse-netanyahu-of-stoking-tensions-with-iran-before-israel-s-election",
-      "published_date": "2026-10-26T17:11:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan's strikes on Syria over church terror attack kill several civilians",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church",
-      "published_date": "2026-10-26T15:12:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Protests, tourists and the Kremlin: Georgia at a crossroads – photo essay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/26/protests-tourists-and-the-kremlin-georgia-at-a-crossroads-photo-essay",
-      "published_date": "2026-10-26T14:02:51+00:00",
-      "category": "Military"
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T20:42:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "Brazil: What does Lula's re-election mean for the Amazon?",
@@ -316,13 +330,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/environment/20261022-nearly-all-coral-reefs-risk-collapse-in-50-years-iucn",
       "published_date": "2026-10-22T11:29:31+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "World set to breach 1.5C warming limit as UN warns time is running out",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20261021-world-set-to-breach-1-5c-warming-limit-as-un-warns-time-is-running-out",
-      "published_date": "2026-10-21T12:36:37+00:00",
       "category": "Energy"
     },
     {
@@ -466,6 +473,118 @@
       "category": "Economy"
     },
     {
+      "title": "France: Racist attack in Trappes deeply scars local community",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261028-france-racist-attack-in-trappes-deeply-scars-local-community",
+      "published_date": "2026-10-28T16:53:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+      "published_date": "2026-10-28T16:32:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain: PM Sanchez gives speech on train collision",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/spain-pm-sanchez-gives-speech-on-train-collision",
+      "published_date": "2026-10-28T16:29:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Their orchestra is not a sacred object but a tool for struggle – Paris’s musicians join the frontline",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/oct/28/orchestre-du-nouveau-monde-orchestra-tear-gas-paris-protests",
+      "published_date": "2026-10-28T16:08:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Serbia, a new type of democracy is taking hold, and Europe is watching closely",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
+      "published_date": "2026-10-28T15:45:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "REPLAY: Spanish Transport Minister gives press conference on train crash",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261028-replay-spanish-transport-minister-gives-press-conference-on-train-crash",
+      "published_date": "2026-10-28T14:43:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine: Melania Trump-brokered local ceasefire holds for second day",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261028-ukraine-melania-trump-brokered-local-ceasefire-holds-for-second-day",
+      "published_date": "2026-10-28T12:42:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil: Flavio Bolsonaro leaves Argentina for alleged US asylum after defeat",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261028-brazil-flavio-bolsonaro-leaves-argentina-for-alleged-us-asylum-after-defeat",
+      "published_date": "2026-10-28T11:43:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil: Bolsonaro defeated and on the run",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/brazil-bolsonaro-defeated-and-on-the-run",
+      "published_date": "2026-10-28T11:30:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Senate toughens proposals to make rioters pay for damage",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261028-french-senate-toughens-proposals-to-make-rioters-pay-for-damage",
+      "published_date": "2026-10-28T11:09:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two thirds of fake news about French riots came from abroad, says minister",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261028/two-thirds-of-fake-news-about-french-riots-came-from-abroad-says-minister",
+      "published_date": "2026-10-28T11:06:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MAP: The routes for the Paris protest march on October 31st",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261028/map-the-route-for-the-paris-protest-march-on-october-31st",
+      "published_date": "2026-10-28T11:05:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine: Ceasefire holds for its first 30 hours in occupied Oleshky",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261028-ukraine-ceasefire-holds-for-its-first-30-hours-in-occupied-oleshky",
+      "published_date": "2026-10-28T10:46:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Senate debates new 'rioters pay' bill",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261028-french-senate-debates-new-rioters-pay-bill",
+      "published_date": "2026-10-28T08:43:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Historic Paris department store seeks bankruptcy protection",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261028/historic-paris-department-store-seeks-bankruptcy-protection",
+      "published_date": "2026-10-28T08:01:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French media protest manhandling of journalists at far-right party rally",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261028-french-media-protest-manhandling-of-journalists-at-far-right-party-rally",
+      "published_date": "2026-10-28T07:07:06+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
       "source": "France 24",
       "url": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions",
@@ -491,118 +610,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
       "published_date": "2026-10-27T16:33:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iraqi court jails seven French nationals over Islamic State membership",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261027-iraqi-court-jails-seven-french-nationals-over-islamic-state-membership",
-      "published_date": "2026-10-27T16:30:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somalia reports deadly fighting with Al-Shabaab as both sides claim heavy losses",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261027-somalia-reports-deadly-fighting-with-al-shabaab-as-both-sides-claim-heavy-losses",
-      "published_date": "2026-10-27T16:10:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's Senate takes on the 'rioters pay' bill after protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261027-france-s-senate-takes-on-the-rioters-pay-bill-after-protests",
-      "published_date": "2026-10-27T14:13:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Get the Flock out': Americans respond to AI cameras in bipartisan backlash",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261027-united-states-get-the-flock-out-americans-respond-to-ai-cameras-in-bipartisan-backlash-midterm-elections",
-      "published_date": "2026-10-27T12:26:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Casseurs-payeurs: France's 'rioters pay' bill explained",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261027/casseurs-payeurs-frances-rioters-pay-bill-explained",
-      "published_date": "2026-10-27T12:17:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG bosses hail club of the year success at 2026 Ballon d'Or awards",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20261027-psg-bosses-hail-club-of-the-year-success-at-2026-ballon-d-or-awards",
-      "published_date": "2026-10-27T12:15:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa suspends asylum applications after recent unrest",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261027-south-africa-suspends-asylum-applications-after-recent-unrest",
-      "published_date": "2026-10-27T11:37:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French government concessions to students 'tactically shrewd' but risk creating new set of problems",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/french-government-concessions-to-students-tactically-shrewd-but-risk-creating-new-set-of-problems",
-      "published_date": "2026-10-27T11:35:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French protests: Student union leaders vow to keep mobilising",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261027-french-protests-student-union-leaders-vow-to-keep-mobilising",
-      "published_date": "2026-10-27T11:18:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iraqi court sentences six French nationals to life for IS group membership",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261027-iraqi-court-sentences-six-french-nationals-to-life-for-is-group-membership",
-      "published_date": "2026-10-27T11:16:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IN PICTURES: France holds anti-racism rallies after deadly gun attack outside Paris",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261027/in-pictures-france-holds-anti-racism-rallies-after-deadly-gun-attack-outside-paris",
-      "published_date": "2026-10-27T09:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Compared: The French presidential candidates' policies for foreigners in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261027/compared-the-french-presidential-candidates-policies-for-foreigners-in-france",
-      "published_date": "2026-10-27T09:14:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’s the smell of freedom’: Belgrade cleans up after Student List triumph",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
-      "published_date": "2026-10-27T06:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Putellas and Kane win 2026 Ballon d'Or as PSG retain men's team of year prize",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20261027-putellas-and-kane-win-2026-ballon-d-or-as-psg-take-men-s-team-of-year",
-      "published_date": "2026-10-27T00:27:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flavio Bolsonaro vows to lead opposition after Brazil court imposes travel ban",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
-      "published_date": "2026-10-26T23:56:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
-      "published_date": "2026-10-26T22:18:34+00:00",
       "category": "Local Events"
     }
   ]
