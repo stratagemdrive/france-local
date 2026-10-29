@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-10-28T16:56:22.281970+00:00",
-  "story_count": 87,
+  "last_updated": "2026-10-29T02:04:09.923475+00:00",
+  "story_count": 88,
   "stories": [
+    {
+      "title": "Canada and EU drop associate membership plan in bid to deepen ties",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties",
+      "published_date": "2026-10-29T00:56:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia woos African leaders at Moscow summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-woos-african-leaders-at-moscow-summit",
+      "published_date": "2026-10-28T21:27:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
+      "published_date": "2026-10-28T21:27:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Putin woos African leaders as Moscow seeks to expand footprint in Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20261028-putin-woos-african-leaders-moscow-seeks-expand-footprint-africa",
+      "published_date": "2026-10-28T18:13:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
       "source": "The Guardian",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron",
-      "published_date": "2026-10-26T17:59:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A referendum is not needed for the UK to reach a Bre-entry deal with Europe | Letters",
+      "title": "Ukraine war briefing: Oleshky truce holding and demining under way to enable humanitarian corridor, Kyiv says",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/26/a-referendum-is-not-needed-for-the-uk-to-reach-a-bre-entry-deal-with-europe",
-      "published_date": "2026-10-26T17:39:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/29/ukraine-war-briefing-oleshky-truce-holding-and-demining-under-way-to-enable-humanitarian-corridor-kyiv-says",
+      "published_date": "2026-10-29T01:48:26+00:00",
+      "category": "Military"
     },
     {
-      "title": "French student union leaders call for 'continued mobilisation' after meeting PM",
+      "title": "Amid uncertainty over EU aid, Vitalii Kim insists Ukraine has no choice but to fight for motherland",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261026-french-student-union-leaders-call-for-continued-mobilisation-after-meeting-pm",
-      "published_date": "2026-10-26T17:37:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261028-amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland",
+      "published_date": "2026-10-28T19:57:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – as it hapepned",
+      "title": "Amid uncertainty over EU aid, Vitalii Kim insists Ukraine has no choice but to fight for motherland",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland",
+      "published_date": "2026-10-28T19:54:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
-      "published_date": "2026-10-26T16:39:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
+      "published_date": "2026-10-28T18:32:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel election: What impact on Iran as the war in the Middle East continues?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues",
+      "published_date": "2026-10-28T16:54:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli election: Lebanon expects little change in Israeli policy",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Polls open in Israel as Netanyahu faces close contest after three years of war",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261027-polls-open-in-israel-as-netanyahu-faces-close-contest-after-three-years-of-war",
-      "published_date": "2026-10-27T08:02:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
-      "published_date": "2026-10-27T07:00:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A leaderless revolution has swept Serbia. The world should be watching | Aleksandar Matkovic",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/a-leaderless-revolution-has-swept-serbia-the-world-should-be-watching",
-      "published_date": "2026-10-27T05:00:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
-      "published_date": "2026-10-27T01:30:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
+      "title": "EU natural gas prices top €100 for first time since 2022",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
-      "published_date": "2026-10-26T23:24:17+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022",
+      "published_date": "2026-10-28T22:02:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Medical experts warn climate change is now a 'global health emergency'",
@@ -331,6 +338,13 @@
       "url": "https://www.rfi.fr/en/environment/20261022-nearly-all-coral-reefs-risk-collapse-in-50-years-iucn",
       "published_date": "2026-10-22T11:29:31+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Top US federal judge who handled 9/11, Trump, Maduro cases dies aged 92",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261028-top-us-federal-judge-who-handled-9-11-trump-maduro-cases-dies-aged-92",
+      "published_date": "2026-10-28T20:22:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
@@ -466,17 +480,87 @@
       "category": "Economy"
     },
     {
-      "title": "Fresh protests across France",
+      "title": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/29/albania-protest-attendance-fine-law",
+      "published_date": "2026-10-29T00:53:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain rail crash came after train ordered to go in error: minister",
       "source": "France 24",
-      "url": "https://www.france24.com/en/fresh-protests-across-france",
-      "published_date": "2026-10-24T13:22:01+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
+      "published_date": "2026-10-28T22:30:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-28T21:38:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Historic gains for Arab-majority parties in Israeli election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election",
+      "published_date": "2026-10-28T20:32:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bolsonaro's escape to the US: How it happened",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/bolsonaro-s-escape-to-the-us-how-it-happened",
+      "published_date": "2026-10-28T20:06:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bolsonaro flees Brazil for US after election defeat",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/bolsonaro-flees-brazil-for-us-after-election-defeat",
+      "published_date": "2026-10-28T19:44:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain high-speed train crash kills 68, injures over 100",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/spain-high-speed-train-crash-kills-68-injures-over-100",
+      "published_date": "2026-10-28T19:32:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It all happened in a split-second’: survivors recount details of deadly train crash in Spain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months",
+      "published_date": "2026-10-28T18:12:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US grants visa to defeated Brazilian presidential candidate Flavio Bolsonaro",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261028-us-grants-visa-to-defeated-brazilian-presidential-candidate-flavio-bolsonaro",
+      "published_date": "2026-10-28T17:00:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "France: Racist attack in Trappes deeply scars local community",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261028-france-racist-attack-in-trappes-deeply-scars-local-community",
       "published_date": "2026-10-28T16:53:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Defeated presidential candidate Bolsonaro lands in Miami after fleeing Brazil",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261028-defeated-presidential-candidate-bolsonaro-lands-in-miami-after-fleeing-brazil",
+      "published_date": "2026-10-28T16:50:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain’s Sánchez declares three days of mourning after at least 68 killed in Toledo train crash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
+      "published_date": "2026-10-28T16:39:15+00:00",
       "category": "Local Events"
     },
     {
@@ -533,83 +617,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/brazil-bolsonaro-defeated-and-on-the-run",
       "published_date": "2026-10-28T11:30:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Senate toughens proposals to make rioters pay for damage",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261028-french-senate-toughens-proposals-to-make-rioters-pay-for-damage",
-      "published_date": "2026-10-28T11:09:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two thirds of fake news about French riots came from abroad, says minister",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261028/two-thirds-of-fake-news-about-french-riots-came-from-abroad-says-minister",
-      "published_date": "2026-10-28T11:06:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MAP: The routes for the Paris protest march on October 31st",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261028/map-the-route-for-the-paris-protest-march-on-october-31st",
-      "published_date": "2026-10-28T11:05:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine: Ceasefire holds for its first 30 hours in occupied Oleshky",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261028-ukraine-ceasefire-holds-for-its-first-30-hours-in-occupied-oleshky",
-      "published_date": "2026-10-28T10:46:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Senate debates new 'rioters pay' bill",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261028-french-senate-debates-new-rioters-pay-bill",
-      "published_date": "2026-10-28T08:43:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Historic Paris department store seeks bankruptcy protection",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261028/historic-paris-department-store-seeks-bankruptcy-protection",
-      "published_date": "2026-10-28T08:01:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French media protest manhandling of journalists at far-right party rally",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261028-french-media-protest-manhandling-of-journalists-at-far-right-party-rally",
-      "published_date": "2026-10-28T07:07:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions",
-      "published_date": "2026-10-27T19:44:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ibrahim Abu Ahmad on Israeli election: 'Crucial for Arab citizens to have ally in Jewish community'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community",
-      "published_date": "2026-10-27T18:59:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel elections: voter turnout reaches 55% by 4pm local time",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
-      "published_date": "2026-10-27T16:52:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil's defeated candidate Flavio Bolsonaro flees to US despite cancelled passports",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
-      "published_date": "2026-10-27T16:33:13+00:00",
       "category": "Local Events"
     }
   ]
