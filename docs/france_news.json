@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-10-30T02:23:00.873822+00:00",
-  "story_count": 93,
+  "last_updated": "2026-10-30T16:55:10.133712+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "title": "'The International Criminal Court deserves the Sakharov Prize': CJEU President Koen Lenaerts",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261030-the-international-criminal-court-deserves-the-sakharov-prize-cjeu-president-koen-lenaerts",
+      "published_date": "2026-10-30T16:51:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Could US midterms impact the EU? Transatlantic ties hit new low after Trump-Putin diesel deal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261030-could-us-midterms-impact-the-eu-transatlantic-ties-hit-new-low-after-trump-putin-diesel-deal",
+      "published_date": "2026-10-30T16:24:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Feared summer EES chaos at French airports 'did not materialise'",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261030/feared-summer-ees-chaos-at-french-airports-did-not-materialise",
+      "published_date": "2026-10-30T14:49:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Georgia's European dream left in limbo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/revisited/20261030-georgia-s-european-dream-left-in-limbo",
+      "published_date": "2026-10-30T13:34:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How many Americans live in France (and where are they all)",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261030/how-many-americans-live-in-france-and-where-are-they-all",
+      "published_date": "2026-10-30T13:01:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia recruits Africans to fight in Ukraine, families seek answers",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-recruits-africans-to-fight-in-ukraine-families-seek-answers",
+      "published_date": "2026-10-30T11:06:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Post Office suspends sending goods to the EU",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvze4xkknyj4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-30T06:07:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada and EU seek to 'withstand shocks together' through closer alliance",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261030-canada-and-eu-seek-to-withstand-shocks-together-through-closer-alliance",
+      "published_date": "2026-10-30T05:33:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europeans and Canadians set to get more opportunities to move across Atlantic",
       "source": "The Local France",
@@ -88,60 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Serbia’s students achieved the impossible. Europe must not fail them now | Srđjan Cvijić",
+      "title": "Stranded locals use rare truce to leave Moscow-occupied town in Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261030-stranded-locals-use-rare-truce-to-leave-moscow-occupied-town-in-ukraine",
+      "published_date": "2026-10-30T16:44:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Star Wars: Has Russia's war with Ukraine gone intergalactic?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261030-star-wars-has-russias-war-with-ukraine-gone-intergalactic",
+      "published_date": "2026-10-30T16:29:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War in Ukraine: Evacuations under way in Russian-occupied Oleshky",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261030-war-in-ukraine-evacuations-under-way-in-russian-occupied-oleshky",
+      "published_date": "2026-10-30T16:01:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Biggest hack in history: Cryptocurrency giant Binance loses $6.3 billion",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261030-biggest-hack-in-history-cryptocurrency-giant-binance-loses-6-3-billion",
+      "published_date": "2026-10-30T15:34:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Black Sea shipping under growing threats as drones hit container ships",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/black-sea-shipping-under-growing-threats-as-drones-hit-container-ships",
+      "published_date": "2026-10-30T14:27:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "🔴 Ukraine war live: Russian strikes leave 200,000 without power in Ukraine's Dnipropetrovsk region",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine",
+      "published_date": "2026-10-30T12:59:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Swift justice’: Student List supporters focus on cleaning up Serbia’s rotten institutions",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/serbias-students-achieved-impossible-europe-must-not-fail-them-now",
-      "published_date": "2026-10-29T05:00:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/30/student-list-focus-on-cleaning-up-serbia-corruption",
+      "published_date": "2026-10-30T10:54:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Canada and EU drop associate membership plan in bid to deepen ties",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties",
-      "published_date": "2026-10-29T00:56:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia woos African leaders at Moscow summit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-woos-african-leaders-at-moscow-summit",
-      "published_date": "2026-10-28T21:27:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
-      "published_date": "2026-10-28T21:27:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Putin woos African leaders as Moscow seeks to expand footprint in Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261028-putin-woos-african-leaders-moscow-seeks-expand-footprint-africa",
-      "published_date": "2026-10-28T18:13:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
-      "published_date": "2026-10-28T16:45:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ethiopia clashes push 50,000 to flee to Kenya",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261028-ethiopia-clashes-push-50-000-flee-to-kenya",
-      "published_date": "2026-10-28T16:29:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US judge narrows Macron defamation case against podcaster",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261028/us-judge-narrows-macron-defamation-case-against-podcaster",
-      "published_date": "2026-10-28T14:36:20+00:00",
-      "category": "Diplomacy"
+      "title": "France and Chad rebuild military ties with planned air force training",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20261030-france-and-chad-rebuild-military-ties-with-planned-air-force-training",
+      "published_date": "2026-10-30T05:56:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israeli election: Lebanon expects little change in Israeli policy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261028-israeli-election-lebanon-expects-little-change-in-israeli-policy",
-      "published_date": "2026-10-28T15:36:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "West Bank: settlers using drones to monitor Palestinians",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20261028-west-bank-settlers-using-drones-to-monitor-palestinians",
-      "published_date": "2026-10-28T13:39:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soviet troops invade Hungary – archive, 1956",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/soviet-troops-invade-hungary-russia-1956",
-      "published_date": "2026-10-28T13:09:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/ukraine-war-briefing-kyiv-retaking-territory-zelenskyy-says-as-nordic-leaders-urge-putin-to-end-the-conflict",
-      "published_date": "2026-10-28T01:39:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-27T22:11:08+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-30T16:26:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-27T18:28:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – Europe live",
+      "title": "Oh to Believe in Another World review – William Kentridge’s amazing animated ballet of black comic pain",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-      "published_date": "2026-10-27T16:08:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
-      "published_date": "2026-10-27T16:03:09+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/film/2026/oct/30/oh-to-believe-in-another-world-review-william-kentridges-amazing-animated-ballet-of-black-comic-pain",
+      "published_date": "2026-10-30T09:29:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "Across Africa: Real estate scams growing in Ivory Coast",
@@ -368,11 +382,46 @@
       "category": "Energy"
     },
     {
-      "title": "Transport disruption and electricity blackouts as storms hit western France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261023/transport-disruption-and-electricity-blackouts-as-storms-hit-western-france",
-      "published_date": "2026-10-23T08:46:28+00:00",
-      "category": "Energy"
+      "title": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+      "published_date": "2026-10-30T16:21:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cost of living protests  to spread to Germany and reignite in France on Halloween",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+      "published_date": "2026-10-30T14:42:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business leader Roux de Bézieux to head 2030 Winter Games organising committee",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20261030-business-leader-roux-de-b%C3%A9zieux-to-head-2030-winter-games-organising-committee",
+      "published_date": "2026-10-30T13:11:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French dockworkers strike over budget measures and militarisation of ports",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261030-french-dockworkers-strike-over-budget-measures-and-militarisation-of-ports-arms-war",
+      "published_date": "2026-10-30T08:19:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French economy 'headed for a wall' as GDP shrinks, finance minister warns",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/business/20261030-french-economy-headed-for-a-wall-as-gdp-shrinks-finance-minister-warns",
+      "published_date": "2026-10-30T08:01:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Opening the EU debate again is clearly a political minefield. But we have to do it | Simon Jenkins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/30/brexit-eu-debate-again-political-minefield-andy-burnham",
+      "published_date": "2026-10-30T06:00:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’",
@@ -473,46 +522,123 @@
       "category": "Economy"
     },
     {
-      "title": "Senegal PM vows to sort out economic problems as 2026 Youth Olympics Games loom",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20261026-senegal-pm-vows-to-sort-out-economic-problems-as-2026-youth-olympics-games-loom",
-      "published_date": "2026-10-26T15:31:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Audi boss under fire in Germany for Trump rally appearance",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
-      "published_date": "2026-10-26T14:42:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
-      "published_date": "2026-10-26T14:00:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lula wins Brazil election but faces uphill battle to govern",
+      "title": "French port strikes: Unions 'will get better working conditions', but can they curb militarisation?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261026-lula-wins-brazil-election-but-faces-uphill-battle-to-govern",
-      "published_date": "2026-10-26T13:38:09+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20261030-french-port-strikes-unions-will-get-better-working-conditions-but-can-they-curb-militarization-1",
+      "published_date": "2026-10-30T16:20:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "French rail workers join November strike",
+      "title": "French crowd gathers for anti-islamophobia rally in Paris suburb after attack",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261030-french-crowd-gathers-for-anti-islamophobia-rally-in-paris-suburb-after-attack",
+      "published_date": "2026-10-30T15:51:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Midterms 2026: The former neo-Nazi pastor speaking out against Trump",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261030-midterms-2026-the-former-neo-nazi-pastor-speaking-out-against-trump",
+      "published_date": "2026-10-30T15:34:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli election: 'Netanyahu did not win, he lost dramatically,' former PM Barak says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261030-israeli-election-netanyahu-did-not-win-he-lost-dramatically-former-pm-barak-says",
+      "published_date": "2026-10-30T15:34:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+      "published_date": "2026-10-30T15:06:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-30T15:03:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France braces for new wave of protests, govt warns of 'very high' violence risk",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261030-france-braces-for-new-wave-of-protests-govt-warns-of-very-high-violence-risk",
+      "published_date": "2026-10-30T14:35:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish transport minister faces calls to quit after deadly train crash",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261030-spanish-transport-minister-faces-calls-to-quit-after-deadly-train-crash",
+      "published_date": "2026-10-30T14:21:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Third weekend of protests looms as tensions persist across France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261030-third-weekend-of-protests-looms-as-tensions-persist-across-france",
+      "published_date": "2026-10-30T14:10:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is Kevin T., the main suspect behind the racist Trappes attack?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/who-is-kevin-t-the-main-suspect-behind-the-racist-trappes-attack",
+      "published_date": "2026-10-30T14:06:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Texas Republicans accused of changing electoral rules ahead of midterms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/focus/20261030-texas-republicans-accused-of-changing-electoral-rules-ahead-of-midterms",
+      "published_date": "2026-10-30T13:07:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The week’s best new tracks and the act you need to know: Dutch squat-punks Bombstrap’s uncompromising racket",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/oct/30/the-weeks-best-new-songs-dutch-squat-punks-bombstrap-rotterdam",
+      "published_date": "2026-10-30T12:00:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Word of the Day: Casserolade",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261026/french-rail-workers-join-november-strike",
-      "published_date": "2026-10-26T10:57:34+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20261030/french-word-of-the-day-casserolade",
+      "published_date": "2026-10-30T11:57:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Presidential runoff under way in Brazil",
+      "title": "French court rules Meta must negotiate over rights payments",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261030/french-court-rules-meta-must-negotiate-over-rights-payments",
+      "published_date": "2026-10-30T08:24:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French minister warns of ‘very high’ violence risk at Halloween protests",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261030/french-minister-warns-of-very-high-violence-risk-at-halloween-protests",
+      "published_date": "2026-10-30T08:09:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Battle lines redrawn in Spain’s snap election after latest train disaster",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
+      "published_date": "2026-10-30T06:00:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Let's reclaim our future': Thousands protest in Italy over rising living costs",
       "source": "France 24",
-      "url": "https://www.france24.com/en/presidential-runoff-under-way-in-brazil",
-      "published_date": "2026-10-25T13:52:44+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/europe/20261030-let-s-reclaim-our-future-thousands-protest-across-italy-over-rising-living-costs",
+      "published_date": "2026-10-30T01:53:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How the deadly train crash in Spain unfolded – explainer",
@@ -533,125 +659,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-29T20:05:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
-      "published_date": "2026-10-29T20:02:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris suburb shooting suspect targeted people of Muslim or African appearance, prosecutor says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7qjq13prpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T19:19:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Survivors shell-shocked after deadly Spain train crash - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/video/2026/oct/29/shock-and-anger-in-spain-after-deadly-train-crash-the-latest",
-      "published_date": "2026-10-29T18:26:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shock and anger in Spain after deadly train crash – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/audio/2026/oct/29/shock-and-anger-in-spain-after-deadly-train-crash-the-latest",
-      "published_date": "2026-10-29T17:43:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PODCAST 🎧: Has France done enough to calm unrest and why is a new autoroute so hated?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261029/podcast-has-france-done-enough-to-calm-unrest-and-why-is-a-new-autoroute-so-hated",
-      "published_date": "2026-10-29T16:25:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day",
-      "published_date": "2026-10-29T16:19:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French shooting suspect deliberately targeted Muslims and Africans, says prosecutor",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261029/french-shooting-suspect-deliberately-targeted-muslims-and-africans-says-prosecutor",
-      "published_date": "2026-10-29T15:51:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain's King Felipe VI and Queen Letizia visit injured in train crash at Toledo hospital",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261029-spain-s-king-felipe-vi-and-queen-letizia-visit-injured-in-train-crash-at-toledo-hospital",
-      "published_date": "2026-10-29T15:38:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Finland launches criminal investigation into Google’s clearing of forest for datacentre site",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre",
-      "published_date": "2026-10-29T14:51:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris suburb shooting suspect 'targeted Muslims, Africans or North Africans'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261029-paris-suburb-shooting-suspect-targeted-muslims-africans-or-north-africans",
-      "published_date": "2026-10-29T14:46:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why is Donald Trump avoiding the Epstein case at all costs?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261029-why-is-donald-trump-avoiding-the-epstein-case-at-all-costs",
-      "published_date": "2026-10-29T14:37:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris becomes an open-air museum",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20261029-paris-becomes-an-open-air-museum",
-      "published_date": "2026-10-29T14:23:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T14:17:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T13:44:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Trappes racist shooting suspect transferred to French court",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261029-france-trappes-racist-shooting-suspect-transferred-to-french-court",
-      "published_date": "2026-10-29T13:22:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Very disturbing details': Trappes shooting suspect admits targeting victims by race, religion",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261029-very-disturbing-details-trappes-shooting-suspect-admits-targeting-victims-by-race-religion",
-      "published_date": "2026-10-29T13:10:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain's train crash kills 69 people: What exactly happened?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261029-spain-s-train-crash-kills-69-people-what-exactly-happened",
-      "published_date": "2026-10-29T12:53:20+00:00",
       "category": "Local Events"
     }
   ]
