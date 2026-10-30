@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-10-29T17:16:40.304844+00:00",
-  "story_count": 90,
+  "last_updated": "2026-10-30T02:23:00.873822+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Europeans and Canadians set to get more opportunities to move across Atlantic",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261029/europeans-and-canadians-set-to-get-more-opportunities-to-move-across-atlantic",
+      "published_date": "2026-10-29T20:09:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
+      "published_date": "2026-10-29T19:04:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Deeply regressive': How the French government plans to make protesters pay for riots and looting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261029-deeply-regressive-how-the-french-government-plans-to-make-protesters-pay-for-riots-and-looting",
+      "published_date": "2026-10-29T18:15:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Burnham denies preventing ministers from speaking about plans for closer relationship with EU – UK politics live",
       "source": "The Guardian",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mbappé's China faux pas: When the sports world collides with the complexities of geopolitics",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261028-mbapp%C3%A9-s-china-faux-pas-when-the-sports-world-collides-with-the-complexities-of-geopolitics",
-      "published_date": "2026-10-28T12:20:20+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform",
+      "published_date": "2026-10-30T02:00:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Mbappé's China faux pas: When the sports world collides with the complexities of geopolitics",
+      "title": "North Korea tests attack drones as Kim calls for 'absolute superiority'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261028-mbapp%C3%A9-s-china-faux-pas-when-the-sports-world-collides-with-the-complexities-of-geopolitics",
-      "published_date": "2026-10-28T12:17:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/asia-pacific/20261030-north-korea-tests-attack-drones-as-kim-calls-for-absolute-superiority",
+      "published_date": "2026-10-30T00:22:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "King Charles confronts calls for slavery apology during Caribbean tour",
+      "title": "Tunisians drawn into Russia's war in Ukraine",
       "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour",
-      "published_date": "2026-10-27T23:14:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tunisians-drawn-into-russia-s-war-in-ukraine",
+      "published_date": "2026-10-29T21:48:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Guardian view on a changing Brexit debate: Kemi Badenoch is trapped in denial | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/the-guardian-view-on-a-changing-brexit-debate-kemi-badenoch-is-trapped-in-denial",
+      "published_date": "2026-10-29T18:30:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lt. Gen. Ben Hodges accuses Hegseth of 'getting rid of people who may have the courage to push back'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/lt-gen-ben-hodges-accuses-hegseth-of-getting-rid-of-people-who-may-have-the-courage-to-push-back",
+      "published_date": "2026-10-29T18:09:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Pentagon shake-up continues: US fires top army general in latest ouster",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-27T15:13:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia given first championships since Ukraine invasion",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-27T14:18:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Localised Russia-Ukraine ceasefire starts in Ukrainian town facing starvation",
+      "title": "Across Africa: Real estate scams growing in Ivory Coast",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation",
-      "published_date": "2026-10-27T12:34:42+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/across-africa-real-estate-scams-growing-in-ivory-coast",
+      "published_date": "2026-10-29T21:43:05+00:00",
+      "category": "Energy"
     },
     {
-      "title": "American rapper Macklemore begins 'Free Palestine' tour",
+      "title": "ECB President Lagarde steps down in order to speak out",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261027-american-rapper-macklemore-begins-free-palestine-tour",
-      "published_date": "2026-10-27T11:57:27+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out",
+      "published_date": "2026-10-29T21:01:37+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Sudan: One year after the fall of El-Fasher",
+      "title": "French shooting suspect deliberately targeted Muslims, Africans",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261027-sudan-one-year-after-the-fall-of-el-fasher",
-      "published_date": "2026-10-27T11:46:35+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20261029-french-shooting-suspect-deliberately-targeted-muslims-africans",
+      "published_date": "2026-10-29T18:45:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ian McEwan speculates on 'What We Can Know' in the 22nd century",
@@ -494,6 +515,55 @@
       "category": "Economy"
     },
     {
+      "title": "How the deadly train crash in Spain unfolded – explainer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/oct/29/how-the-deadly-train-crash-in-spain-unfolded-explainer",
+      "published_date": "2026-10-29T22:13:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
+      "published_date": "2026-10-29T20:06:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T20:05:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
+      "published_date": "2026-10-29T20:02:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris suburb shooting suspect targeted people of Muslim or African appearance, prosecutor says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7qjq13prpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T19:19:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Survivors shell-shocked after deadly Spain train crash - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/oct/29/shock-and-anger-in-spain-after-deadly-train-crash-the-latest",
+      "published_date": "2026-10-29T18:26:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shock and anger in Spain after deadly train crash – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/audio/2026/oct/29/shock-and-anger-in-spain-after-deadly-train-crash-the-latest",
+      "published_date": "2026-10-29T17:43:38+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "PODCAST 🎧: Has France done enough to calm unrest and why is a new autoroute so hated?",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20261029/podcast-has-france-done-enough-to-calm-unrest-and-why-is-a-new-autoroute-so-hated",
@@ -582,55 +652,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261029-spain-s-train-crash-kills-69-people-what-exactly-happened",
       "published_date": "2026-10-29T12:53:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain begins mourning period as search continues for train crash victims",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
-      "published_date": "2026-10-29T11:11:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Revealed: The town in France where locals speak 'perfect' French",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261029/revealed-the-town-in-france-where-locals-speak-perfect-french",
-      "published_date": "2026-10-29T09:37:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/albania-protest-attendance-fine-law",
-      "published_date": "2026-10-29T00:53:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain rail crash came after train ordered to go in error: minister",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
-      "published_date": "2026-10-28T22:30:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High-speed train crash kills at least 68 people in Spain",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-28T21:38:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Historic gains for Arab-majority parties in Israeli election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election",
-      "published_date": "2026-10-28T20:32:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolsonaro's escape to the US: How it happened",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/bolsonaro-s-escape-to-the-us-how-it-happened",
-      "published_date": "2026-10-28T20:06:05+00:00",
       "category": "Local Events"
     }
   ]
