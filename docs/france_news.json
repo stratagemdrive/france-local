@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-10-30T16:55:10.133712+00:00",
+  "last_updated": "2026-10-31T01:57:57.813145+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "UN nature summit approves two key agreements after marathon negotiations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/environment/20261030-un-nature-summit-approves-two-key-agreements-after-marathon-negotiations",
+      "published_date": "2026-10-30T20:52:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada and EU announce new alliance open to like-minded countries",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+      "published_date": "2026-10-30T19:42:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Five churches set on fire by Muslims?' Fake news by Islamophobic social media accounts",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261030-five-churches-set-on-fire-by-muslims-fake-news-from-islamophobic-social-media-accounts",
+      "published_date": "2026-10-30T18:37:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "MAGA: Why Trump's movement is fracturing?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261030-maga-why-trump-s-movement-is-fracturing",
+      "published_date": "2026-10-30T18:01:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'The International Criminal Court deserves the Sakharov Prize': CJEU President Koen Lenaerts",
       "source": "France 24",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "At least 13 killed in 'horrific' Russian drone strike at Ukraine train station",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-31T00:40:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
+      "published_date": "2026-10-30T17:13:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oleshky: No access to basic needs, ceasefire offers limited opportunity for humanitarian assistance",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station",
-      "published_date": "2026-10-29T11:36:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ECB President Christine Lagarde to step down in February 2027, nine months before term ends",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261029-ecb-president-christine-lagarde-to-step-down-in-february-2027-nine-months-before-term-ends",
-      "published_date": "2026-10-29T10:21:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US judge narrows Macrons' defamation lawsuit against American podcaster",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261029-us-judge-narrows-macrons-defamation-lawsuit-against-american-podcaster",
-      "published_date": "2026-10-29T08:59:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia-Africa summit tests Moscow's ambitions for broader influence",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261029-russia-africa-summit-to-test-moscow-s-ambitions-for-broader-influence",
-      "published_date": "2026-10-29T07:06:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/oleshky-no-access-to-basic-needs-ceasefire-offers-limited-opportunity-for-humanitarian-assistance",
+      "published_date": "2026-10-30T17:11:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Stranded locals use rare truce to leave Moscow-occupied town in Ukraine",
@@ -260,27 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20261028-amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland",
       "published_date": "2026-10-28T19:57:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Amid uncertainty over EU aid, Vitalii Kim insists Ukraine has no choice but to fight for motherland",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland",
-      "published_date": "2026-10-28T19:54:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
-      "published_date": "2026-10-28T18:32:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel election: What impact on Iran as the war in the Middle East continues?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues",
-      "published_date": "2026-10-28T16:54:33+00:00",
       "category": "Military"
     },
     {
@@ -487,6 +487,13 @@
       "category": "Economy"
     },
     {
+      "title": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+      "published_date": "2026-10-26T22:45:35+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20261026-comeback-kid-how-did-brazil-veteran-leader-lula-upset-bolsonaro",
@@ -515,11 +522,32 @@
       "category": "Economy"
     },
     {
-      "title": "What makes Andy Burnham think Britain can rejoin the EU? – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/oct/26/what-makes-andy-burnham-think-britain-can-rejoin-the-eu-podcast",
-      "published_date": "2026-10-26T16:36:33+00:00",
-      "category": "Economy"
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-31T01:11:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First Youth Olympic Games in Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/first-youth-olympic-games-in-africa",
+      "published_date": "2026-10-30T21:48:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents leave Russian-occupied Oleshky in evacuation operation",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
+      "published_date": "2026-10-30T21:46:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is France's 'great replacement' conspiracy theory and how is it spreading?",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261030-what-is-france-s-great-replacement-conspiracy-theory-and-how-is-it-spreading",
+      "published_date": "2026-10-30T17:47:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French port strikes: Unions 'will get better working conditions', but can they curb militarisation?",
@@ -631,34 +659,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
       "published_date": "2026-10-30T06:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Let's reclaim our future': Thousands protest in Italy over rising living costs",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261030-let-s-reclaim-our-future-thousands-protest-across-italy-over-rising-living-costs",
-      "published_date": "2026-10-30T01:53:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How the deadly train crash in Spain unfolded – explainer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/oct/29/how-the-deadly-train-crash-in-spain-unfolded-explainer",
-      "published_date": "2026-10-29T22:13:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
-      "published_date": "2026-10-29T20:06:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T20:05:57+00:00",
       "category": "Local Events"
     }
   ]
