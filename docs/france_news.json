@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-10-31T01:57:57.813145+00:00",
+  "last_updated": "2026-10-31T15:55:52.716909+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "Turkey nominates former foreign minister Sinirlioglu as UN chief",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261031-turkey-nominates-former-foreign-minister-sinirlioglu-as-un-chief",
+      "published_date": "2026-10-31T14:28:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations",
+      "published_date": "2026-10-31T12:31:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump vs MAGA: Why his movement is splitting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261031-trump-vs-maga-why-his-movement-is-splitting",
+      "published_date": "2026-10-31T10:11:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'A lot of arguing to be done': What's at stake in the upcoming EU-UK summit?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261031/a-lot-of-arguing-to-be-done-whats-at-stake-in-the-upcoming-eu-uk-summit",
+      "published_date": "2026-10-31T09:36:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine war briefing: Moscow’s Lavrov snubbed at G20 in Atlanta",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/ukraine-war-briefing-moscows-lavrov-snubbed-at-g20-in-atlanta",
+      "published_date": "2026-10-31T04:26:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN nature summit approves two key agreements after marathon negotiations",
       "source": "France 24",
@@ -88,6 +123,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Nations commit to get nature goals back on track at COP17 summit",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20261030-nations-commit-to-get-nature-goals-back-on-track-at-cop17-summit",
+      "published_date": "2026-10-30T02:06:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Europeans and Canadians set to get more opportunities to move across Atlantic",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20261029/europeans-and-canadians-set-to-get-more-opportunities-to-move-across-atlantic",
@@ -102,52 +144,31 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Deeply regressive': How the French government plans to make protesters pay for riots and looting",
+      "title": "Russia's presence divides G20 ministers",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261029-deeply-regressive-how-the-french-government-plans-to-make-protesters-pay-for-riots-and-looting",
-      "published_date": "2026-10-29T18:15:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/russia-s-presence-divides-g20-ministers",
+      "published_date": "2026-10-31T09:30:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Burnham denies preventing ministers from speaking about plans for closer relationship with EU – UK politics live",
+      "title": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
-      "published_date": "2026-10-29T17:05:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T17:02:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU and Canada to bring ties to 'highest' possible level at summit",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261029/eu-and-canada-to-bring-ties-to-highest-possible-level-at-summit",
-      "published_date": "2026-10-29T16:18:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Putin seeks to expand ties with African countries at Russia-Africa summit",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261029-putin-seeks-to-expand-ties-with-african-countries-at-russia-africa-summit",
-      "published_date": "2026-10-29T13:32:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "​Pragmatic or pointless? Europe’s rift over whether to pick up the phone to Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/pragmatic-or-pointless-europe-rift-over-pick-up-phone-putin",
-      "published_date": "2026-10-29T12:55:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years",
+      "published_date": "2026-10-31T02:18:17+00:00",
+      "category": "Military"
     },
     {
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-31T00:40:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump admin approves potential Patriot missiles sale to Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261030-trump-admin-approves-potential-patriot-missiles-sale-to-ukraine",
+      "published_date": "2026-10-30T23:19:47+00:00",
       "category": "Military"
     },
     {
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "It’s easy to see through Trump’s Ukraine ploy | Kenneth Roth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/trump-ukraine-midterms",
-      "published_date": "2026-10-29T12:00:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Oleshky truce holding and demining under way to enable humanitarian corridor, Kyiv says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/ukraine-war-briefing-oleshky-truce-holding-and-demining-under-way-to-enable-humanitarian-corridor-kyiv-says",
-      "published_date": "2026-10-29T01:48:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Amid uncertainty over EU aid, Vitalii Kim insists Ukraine has no choice but to fight for motherland",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261028-amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland",
-      "published_date": "2026-10-28T19:57:46+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
@@ -382,6 +382,20 @@
       "category": "Energy"
     },
     {
+      "title": "Fitch downgrades France's economic outlook from stable to negative",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261031/fitch-downgrades-frances-economic-outlook-from-stable-to-negative",
+      "published_date": "2026-10-31T15:12:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Can Latino discontent loosen Republican grip on Florida?",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261031-can-latino-discontent-loosen-republican-grip-on-florida-us-midterms",
+      "published_date": "2026-10-31T12:44:23+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – as it happened",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
@@ -459,6 +473,13 @@
       "category": "Economy"
     },
     {
+      "title": "MAPS: Routes and Metro closures for the Paris demo on October 31st",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261028/map-the-route-for-the-paris-protest-march-on-october-31st",
+      "published_date": "2026-10-28T11:05:33+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic",
@@ -501,31 +522,115 @@
       "category": "Economy"
     },
     {
-      "title": "What makes Andy Burnham think we can rejoin the EU? | Politics Weekly",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/oct/26/what-makes-andy-burnham-think-we-can-rejoin-the-eu-politics-weekly",
-      "published_date": "2026-10-26T17:50:39+00:00",
-      "category": "Economy"
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-31T15:50:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'Lula accustomed to negotiating tough bargains': Campaign promises collide with right-wing Congress",
+      "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
+      "published_date": "2026-10-31T15:35:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents from Russian-occupied Oleshky reunite with families after evacuation operation",
       "source": "France 24",
-      "url": "https://www.france24.com/en/lula-accustomed-to-negotiating-tough-bargains-campaign-promises-collide-with-right-wing-congress",
-      "published_date": "2026-10-26T16:54:22+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine",
+      "published_date": "2026-10-31T12:45:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics live",
+      "title": "France's Nunez warns of high risk during protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-s-nunez-warns-of-high-risk-during-protests",
+      "published_date": "2026-10-31T11:15:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Third weekend of protests in France",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/third-weekend-of-protests-in-france",
+      "published_date": "2026-10-31T11:13:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside France: Fake news and avocado sandwiches",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261031/inside-france-fake-news-and-avocado-sandwiches",
+      "published_date": "2026-10-31T11:10:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters gather at Poland's Top court",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/protesters-gather-at-poland-s-top-court",
+      "published_date": "2026-10-31T09:31:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Interior Minister fears disorder after dark on Halloween",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-interior-minister-fears-disorder-after-dark-on-halloween",
+      "published_date": "2026-10-31T09:28:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Two rallies against racism near Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-two-rallies-against-racism-near-paris",
+      "published_date": "2026-10-31T09:27:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister warns of risk of violence ahead of Halloween 'night of darkness' protests",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261031-minister-warns-of-risk-of-violence-ahead-of-halloween-night-of-darkness-protests",
+      "published_date": "2026-10-31T08:34:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands turn up for France protests amid tight security",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261031/fears-of-violence-as-france-braces-for-halloween-protests",
+      "published_date": "2026-10-31T07:52:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France braces for Halloween protests, shops board up storefronts",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france-braces-for-halloween-protests-shops-board-up-storefronts",
+      "published_date": "2026-10-31T07:40:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
-      "published_date": "2026-10-26T16:48:12+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
+      "published_date": "2026-10-31T06:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
+      "published_date": "2026-10-31T04:27:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Police deployed during stand-off over control of top Poland court",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-31T01:11:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Halloween Protests & French Promises, US Mid Term Mood, What now for Israel?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261031-halloween-protests-french-promises-us-mid-term-mood-what-now-for-israel",
+      "published_date": "2026-10-31T00:30:13+00:00",
       "category": "Local Events"
     },
     {
@@ -554,111 +659,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261030-french-port-strikes-unions-will-get-better-working-conditions-but-can-they-curb-militarization-1",
       "published_date": "2026-10-30T16:20:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French crowd gathers for anti-islamophobia rally in Paris suburb after attack",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261030-french-crowd-gathers-for-anti-islamophobia-rally-in-paris-suburb-after-attack",
-      "published_date": "2026-10-30T15:51:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Midterms 2026: The former neo-Nazi pastor speaking out against Trump",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261030-midterms-2026-the-former-neo-nazi-pastor-speaking-out-against-trump",
-      "published_date": "2026-10-30T15:34:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli election: 'Netanyahu did not win, he lost dramatically,' former PM Barak says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261030-israeli-election-netanyahu-did-not-win-he-lost-dramatically-former-pm-barak-says",
-      "published_date": "2026-10-30T15:34:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
-      "published_date": "2026-10-30T15:06:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-30T15:03:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France braces for new wave of protests, govt warns of 'very high' violence risk",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261030-france-braces-for-new-wave-of-protests-govt-warns-of-very-high-violence-risk",
-      "published_date": "2026-10-30T14:35:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish transport minister faces calls to quit after deadly train crash",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261030-spanish-transport-minister-faces-calls-to-quit-after-deadly-train-crash",
-      "published_date": "2026-10-30T14:21:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Third weekend of protests looms as tensions persist across France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261030-third-weekend-of-protests-looms-as-tensions-persist-across-france",
-      "published_date": "2026-10-30T14:10:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is Kevin T., the main suspect behind the racist Trappes attack?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/who-is-kevin-t-the-main-suspect-behind-the-racist-trappes-attack",
-      "published_date": "2026-10-30T14:06:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Texas Republicans accused of changing electoral rules ahead of midterms",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261030-texas-republicans-accused-of-changing-electoral-rules-ahead-of-midterms",
-      "published_date": "2026-10-30T13:07:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The week’s best new tracks and the act you need to know: Dutch squat-punks Bombstrap’s uncompromising racket",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/oct/30/the-weeks-best-new-songs-dutch-squat-punks-bombstrap-rotterdam",
-      "published_date": "2026-10-30T12:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Word of the Day: Casserolade",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261030/french-word-of-the-day-casserolade",
-      "published_date": "2026-10-30T11:57:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court rules Meta must negotiate over rights payments",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261030/french-court-rules-meta-must-negotiate-over-rights-payments",
-      "published_date": "2026-10-30T08:24:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French minister warns of ‘very high’ violence risk at Halloween protests",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261030/french-minister-warns-of-very-high-violence-risk-at-halloween-protests",
-      "published_date": "2026-10-30T08:09:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Battle lines redrawn in Spain’s snap election after latest train disaster",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
-      "published_date": "2026-10-30T06:00:47+00:00",
       "category": "Local Events"
     }
   ]
