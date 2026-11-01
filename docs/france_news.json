@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-10-31T15:55:52.716909+00:00",
+  "last_updated": "2026-11-01T01:47:58.898594+00:00",
   "story_count": 94,
   "stories": [
+    {
+      "title": "'African leaders are not naive, they will partner with whoever makes the best offer’",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20261031-african-leaders-are-not-naive-they-will-partner-with-whoever-makes-the-best-offer",
+      "published_date": "2026-10-31T17:54:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Turkey nominates former foreign minister Sinirlioglu as UN chief",
       "source": "France 24",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
+      "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
-      "published_date": "2026-10-29T19:04:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
+      "published_date": "2026-10-31T19:17:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's Khamenei warns US and Israel against new attacks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+      "published_date": "2026-10-31T17:00:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia's presence divides G20 ministers",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Lt. Gen. Ben Hodges accuses Hegseth of 'getting rid of people who may have the courage to push back'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/lt-gen-ben-hodges-accuses-hegseth-of-getting-rid-of-people-who-may-have-the-courage-to-push-back",
-      "published_date": "2026-10-29T18:09:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon shake-up continues: US fires top army general in latest ouster",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261029-pentagon-shake-up-continues-us-fires-top-army-general-in-latest-ouster",
-      "published_date": "2026-10-29T15:30:44+00:00",
-      "category": "Military"
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-01T00:55:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
@@ -375,11 +382,11 @@
       "category": "Energy"
     },
     {
-      "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
-      "published_date": "2026-10-24T17:50:25+00:00",
-      "category": "Energy"
+      "title": "From teargas in Paris to gen Z in Germany: protests across Europe – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/gallery/2026/oct/31/from-teargas-in-paris-to-gen-z-in-germany-europe-across-protests-in-pictures",
+      "published_date": "2026-10-31T17:49:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fitch downgrades France's economic outlook from stable to negative",
@@ -515,11 +522,60 @@
       "category": "Economy"
     },
     {
-      "title": "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?",
+      "title": "Police clash with masked rioters after largely peaceful protests across France",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+      "published_date": "2026-11-01T01:43:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+      "published_date": "2026-11-01T01:14:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261026-comeback-kid-how-did-brazil-veteran-leader-lula-upset-bolsonaro",
-      "published_date": "2026-10-26T19:22:18+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
+      "published_date": "2026-10-31T21:34:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-31T21:29:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Gen Z' demonstrations across Germany demand more education funding",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261031-german-police-protesters-clash-after-gen-z-demos",
+      "published_date": "2026-10-31T20:07:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-31T19:22:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France sees third weekend of protests as youth-led rallies sweep Europe",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261031-france-sees-third-weekend-of-protests-as-youth-led-rallies-sweep-europe",
+      "published_date": "2026-10-31T17:46:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "🔴 Live: Interior ministry says some 320,000 people protest across France as unrest flares",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
+      "published_date": "2026-10-31T16:45:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
@@ -603,62 +659,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france-braces-for-halloween-protests-shops-board-up-storefronts",
       "published_date": "2026-10-31T07:40:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
-      "published_date": "2026-10-31T06:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
-      "published_date": "2026-10-31T04:27:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-31T01:11:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Halloween Protests & French Promises, US Mid Term Mood, What now for Israel?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261031-halloween-protests-french-promises-us-mid-term-mood-what-now-for-israel",
-      "published_date": "2026-10-31T00:30:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Youth Olympic Games in Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/first-youth-olympic-games-in-africa",
-      "published_date": "2026-10-30T21:48:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents leave Russian-occupied Oleshky in evacuation operation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
-      "published_date": "2026-10-30T21:46:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is France's 'great replacement' conspiracy theory and how is it spreading?",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261030-what-is-france-s-great-replacement-conspiracy-theory-and-how-is-it-spreading",
-      "published_date": "2026-10-30T17:47:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French port strikes: Unions 'will get better working conditions', but can they curb militarisation?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261030-french-port-strikes-unions-will-get-better-working-conditions-but-can-they-curb-militarization-1",
-      "published_date": "2026-10-30T16:20:38+00:00",
       "category": "Local Events"
     }
   ]
