@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-11-01T16:58:28.761786+00:00",
-  "story_count": 94,
+  "last_updated": "2026-11-02T02:03:14.158591+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Michigan ‘Betrayal’ & Mid Term Manouvres",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261101-michigan-betrayal-mid-term-manouvres",
+      "published_date": "2026-11-01T19:37:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
+      "published_date": "2026-11-01T17:00:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "French high school blockades to restart on Monday, student unions say",
       "source": "France 24",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Feared summer EES chaos at French airports 'did not materialise'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261030/feared-summer-ees-chaos-at-french-airports-did-not-materialise",
-      "published_date": "2026-10-30T14:49:33+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine suspects nationwide air raid alert app has been hacked",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
+      "published_date": "2026-11-02T01:20:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Georgia's European dream left in limbo",
+      "title": "Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/02/ukraine-war-briefing-kyiv-says-air-raid-warning-app-likely-hacked-after-users-receive-false-alerts",
+      "published_date": "2026-11-02T00:34:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns renewed war with US could outlast previous conflict",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/revisited/20261030-georgia-s-european-dream-left-in-limbo",
-      "published_date": "2026-10-30T13:34:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
+      "published_date": "2026-11-02T00:23:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A year after the fall of El Fasher, Sudan's war has left a ghost town in its wake",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20261101-one-year-after-the-fall-of-el-fasher-sudan-s-war-has-left-a-ghost-town-in-its-wake",
+      "published_date": "2026-11-01T18:37:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oleshky: Evacuations during first humanitarian truce of war end",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/oleshky-evacuations-during-first-humanitarian-truce-of-war-end",
+      "published_date": "2026-11-01T17:44:51+00:00",
+      "category": "Military"
     },
     {
       "title": "'Working in Russia is like being a deep-sea diver', BBC's man in Moscow tells RFI",
@@ -155,6 +190,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/oleshky-residents-return-to-ukraine",
       "published_date": "2026-11-01T14:56:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ceasefire in Ukraine's Kherson region ends after Russia refuses extension",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
+      "published_date": "2026-11-01T12:41:48+00:00",
       "category": "Military"
     },
     {
@@ -242,52 +284,24 @@
       "category": "Military"
     },
     {
-      "title": "Stranded locals use rare truce to leave Moscow-occupied town in Ukraine",
+      "title": "France reports largely peaceful protests",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261030-stranded-locals-use-rare-truce-to-leave-moscow-occupied-town-in-ukraine",
-      "published_date": "2026-10-30T16:44:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Star Wars: Has Russia's war with Ukraine gone intergalactic?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261030-star-wars-has-russias-war-with-ukraine-gone-intergalactic",
-      "published_date": "2026-10-30T16:29:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War in Ukraine: Evacuations under way in Russian-occupied Oleshky",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261030-war-in-ukraine-evacuations-under-way-in-russian-occupied-oleshky",
-      "published_date": "2026-10-30T16:01:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Biggest hack in history: Cryptocurrency giant Binance loses $6.3 billion",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261030-biggest-hack-in-history-cryptocurrency-giant-binance-loses-6-3-billion",
-      "published_date": "2026-10-30T15:34:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Black Sea shipping under growing threats as drones hit container ships",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/black-sea-shipping-under-growing-threats-as-drones-hit-container-ships",
-      "published_date": "2026-10-30T14:27:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "🔴 Ukraine war live: Russian strikes leave 200,000 without power in Ukraine's Dnipropetrovsk region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine",
-      "published_date": "2026-10-30T12:59:30+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/france-reports-largely-peaceful-protests",
+      "published_date": "2026-11-01T15:50:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-01T00:55:06+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-31T17:53:35+00:00",
       "category": "Energy"
     },
     {
@@ -380,6 +394,20 @@
       "url": "https://www.france24.com/en/tv-shows/down-to-earth/20261026-lula-s-re-election-brings-hope-for-the-amazon-as-deforestation-drops-to-record-low",
       "published_date": "2026-10-26T16:12:06+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Nine killed as business jet crashes into South Florida neighbourhood",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood",
+      "published_date": "2026-11-01T23:45:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French presidential candidate Édouard Philippe rejects centre-right primary",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261101-french-presidential-candidate-philippe-rejects-centre-right-primary",
+      "published_date": "2026-11-01T21:51:36+00:00",
+      "category": "Economy"
     },
     {
       "title": "Florida Keys business owners reveal contrasting views of Trump's America",
@@ -508,24 +536,52 @@
       "category": "Economy"
     },
     {
-      "title": "MAPS: Routes and Metro closures for the Paris demo on October 31st",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261028/map-the-route-for-the-paris-protest-march-on-october-31st",
-      "published_date": "2026-10-28T11:05:33+00:00",
-      "category": "Economy"
+      "title": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261102-halloween-weekend-shootings-across-us-leave-at-least-six-dead-dozens-wounded",
+      "published_date": "2026-11-02T00:49:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
+      "title": "UN’s peacekeeping mission in disputed Western Sahara ends after 35 years",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic",
-      "published_date": "2026-10-27T18:27:15+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/africa/20261101-un-s-peacekeeping-mission-in-disputed-western-sahara-ends-after-35-years",
+      "published_date": "2026-11-01T20:37:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-01T18:51:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands join Indian opposition protest",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/thousands-join-indian-opposition-protest",
+      "published_date": "2026-11-01T17:45:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+      "published_date": "2026-11-01T17:20:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Attempted murder probe after petrol bomb thrown at French riot police",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
       "published_date": "2026-11-01T16:24:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+      "published_date": "2026-11-01T15:44:28+00:00",
       "category": "Local Events"
     },
     {
@@ -617,48 +673,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/hundreds-of-thousands-protest-in-france-for-act-iii",
       "published_date": "2026-11-01T09:35:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French arrest 5 UK anti-migrant activists: officials",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261101/french-arrest-5-uk-anti-migrant-activists-officials",
-      "published_date": "2026-11-01T08:58:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IN PICTURES: Clashes break out as hundreds of thousands protest in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261101/in-pictures-clashes-break-out-as-hundreds-of-thousands-protest-in-france",
-      "published_date": "2026-11-01T08:48:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On the Agenda: What’s happening in France this week",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261101/on-the-agenda-whats-happening-in-france-this-week-234",
-      "published_date": "2026-11-01T07:09:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian opposition parties stage mega rally seeking election chief’s resignation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
-      "published_date": "2026-11-01T06:24:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hitler’s Eagle’s Nest retreat was torched in an arson attack. Should it be rebuilt?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/01/hitler-eagles-nest-retreat-arson-attack-should-it-be-rebuilt",
-      "published_date": "2026-11-01T05:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police clash with masked rioters after largely peaceful protests across France",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
-      "published_date": "2026-11-01T01:43:02+00:00",
       "category": "Local Events"
     }
   ]
