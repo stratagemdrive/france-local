@@ -1,8 +1,64 @@
 {
   "country": "France",
-  "last_updated": "2026-11-03T03:48:55.300858+00:00",
-  "story_count": 96,
+  "last_updated": "2026-11-03T18:11:57.100524+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "The UK-EU food produce deal: what was agreed and will it affect shoppers?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/03/new-uk-eu-brexit-food-produce-deal-explained",
+      "published_date": "2026-11-03T16:00:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Your donut, your vote': Texas group uses free food to attract young voters",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261103-your-donut-your-vote-texas-group-uses-free-food-to-attract-young-voters",
+      "published_date": "2026-11-03T15:26:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Political parallels in France and the US: Anger at the ballot box and in the streets",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/entre-nous/20261103-political-parallels-in-france-and-us-anger-at-the-ballot-box-and-in-the-streets",
+      "published_date": "2026-11-03T15:21:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN confirms start of process to wind up Western Sahara mission",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20261103-un-confirms-start-of-process-to-wind-up-western-sahara-mission",
+      "published_date": "2026-11-03T13:20:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Food rules to be relaxed on UK-France trips after EU deal",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261103/food-rules-to-be-relaxed-on-uk-france-trips-after-eu-deal",
+      "published_date": "2026-11-03T12:46:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T12:07:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham denies proposing return to free movement in talks with EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-labour-free-movement-eu-europe",
+      "published_date": "2026-11-03T10:09:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fridge cyberattack on supermarkets across Europe prompts EU warning",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261103/fridge-cyberattack-on-supermarkets-across-europe-prompts-eu-warning",
+      "published_date": "2026-11-03T07:18:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "North Korea rejects US allegations over $6 billion Binance crypto heist",
       "source": "France 24",
@@ -88,60 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "French high school blockades to restart on Monday, student unions say",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261101-french-high-school-blockades-to-restart-on-monday-student-unions-say",
-      "published_date": "2026-11-01T14:31:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Protecting the Congo's forests means protecting people's lives'",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20261101-protecting-the-congo-forests-means-protecting-people-lives",
-      "published_date": "2026-11-01T13:01:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+      "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
-      "published_date": "2026-11-01T09:55:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+      "published_date": "2026-11-03T17:32:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Asylum seekers still being sent to France under ‘one in one out’ weeks after scheme ended",
+      "title": "Seven reported bomb threats against European flights confirmed as false alarms – Europe live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/01/asylum-seekers-still-being-sent-to-france-under-one-in-one-out-weeks-after-scheme-ended",
-      "published_date": "2026-11-01T09:00:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+      "published_date": "2026-11-03T17:21:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "Why Scottish nationalists should see Burnham as a real threat – and an opportunity | Rory Scothorne",
+      "title": "Russian households face increasing financial strain as war in Ukraine drags on",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on",
+      "published_date": "2026-11-03T17:05:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T16:57:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261103-ukraine-and-russia-are-taking-the-war-underground-as-drones-saturate-the-battlefield",
+      "published_date": "2026-11-03T16:52:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump cuts Israeli military aid: $3.8 billion in security assistance slashed",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261103-trump-cuts-israeli-military-aid-3-8-billion-in-security-assistance-slashed",
+      "published_date": "2026-11-03T16:01:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hoax bomb threats disrupt flights in Europe",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261103/hoax-bomb-threats-disrupt-flights-in-europe",
+      "published_date": "2026-11-03T14:20:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Despite attacks, Saudi Aramco posts 34% rise in net profits in latest quarter",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261103-despite-attacks-saudi-aramco-posts-34-rise-in-net-profits-in-latest-quarter",
+      "published_date": "2026-11-03T10:13:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK and European peacekeepers in Ukraine would be allowed to fire back at Russians",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/01/scottish-nationalists-burnham-threat-opportunity-labour-eu",
-      "published_date": "2026-11-01T09:00:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'African leaders are not naive, they will partner with whoever makes the best offer’",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261031-african-leaders-are-not-naive-they-will-partner-with-whoever-makes-the-best-offer",
-      "published_date": "2026-10-31T17:54:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkey nominates former foreign minister Sinirlioglu as UN chief",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20261031-turkey-nominates-former-foreign-minister-sinirlioglu-as-un-chief",
-      "published_date": "2026-10-31T14:28:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations",
-      "published_date": "2026-10-31T12:31:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/uk-european-peacekeepers-ukraine-fire-back-russians",
+      "published_date": "2026-11-03T05:00:40+00:00",
+      "category": "Military"
     },
     {
       "title": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
@@ -169,6 +232,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
       "published_date": "2026-11-03T01:18:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T00:07:05+00:00",
       "category": "Military"
     },
     {
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Stanislas Hutin obituary",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/02/stanislas-hutin-obituary",
-      "published_date": "2026-11-02T17:50:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran engages US in 'intensive' negotiations to avert fresh war outbreak",
+      "title": "Californians vote on ballot initiative to impose one-time tax on billionaires",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261102-iran-engages-us-in-intensive-negotiations-to-avert-fresh-war-outbreak",
-      "published_date": "2026-11-02T17:42:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-02T17:33:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran offers deal on Hormuz Strait, Netanyahu wants to 'finish the job'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261102-iran-offers-deal-on-hormuz-strait-netanyahu-wants-to-finish-the-job",
-      "published_date": "2026-11-02T17:04:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-      "published_date": "2026-11-02T16:17:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inflation, war and corruption: Will anger at Trump see Republicans punished at midterms?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261102-inflation-war-and-corruption-will-anger-at-trump-see-republicans-punished-at-midterms",
-      "published_date": "2026-11-02T15:30:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine and Russia report fake emergency alerts after cyberattacks target apps",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-and-russia-report-fake-emergency-alerts-after-cyberattacks-target-apps",
-      "published_date": "2026-11-02T15:06:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-02T14:35:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One in a Million review – deeply moving film about displacement, freedom and the upheaval of starting again",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/nov/02/one-in-a-million-review-itab-azzam-jack-macinnes",
-      "published_date": "2026-11-02T13:00:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ryanair faces clash with unions as it mulls pay freezes amid soaring fuel costs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
-      "published_date": "2026-11-02T12:57:53+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/business/20261103-californians-vote-on-ballot-initiative-to-impose-one-time-tax-on-billionaires",
+      "published_date": "2026-11-03T13:51:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "US Midterms: Will Gen Z enthusiasm help turn Michigan Senate blue?",
@@ -396,6 +403,76 @@
       "category": "Energy"
     },
     {
+      "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
+      "published_date": "2026-11-03T17:30:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Family wealth, Epstein, ‘vanity projects’: How Democrats plan to investigate Trump after midterms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261103-trump-family-wealth-epstein-vanity-projects-democrats-plan-to-investigate-after-midterms",
+      "published_date": "2026-11-03T17:30:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Brazil keeps a close eye on US midterm elections",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261103-brazil-keeps-a-close-eye-on-us-midterm-elections",
+      "published_date": "2026-11-03T16:36:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump focused on 'what's important to him': 'Tone-deaf for a normally shrewd populist operator'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-focused-on-what-s-important-to-him-tone-deaf-for-a-normally-shrewd-populist-operator",
+      "published_date": "2026-11-03T16:05:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US midterms: Michigan candidate El-Sayed pledges to tackle the affordability crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261103-us-midterms-michigan-candidate-el-sayed-pledges-to-tackle-the-affordability-crisis",
+      "published_date": "2026-11-03T15:34:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "King Charles says he has greater understanding of 'horrors' of slavery, falls short of apology",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261103-king-charles-says-he-has-greater-understanding-of-horrors-of-slavery-falls-short-of-apology",
+      "published_date": "2026-11-03T15:26:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Students blockade dozens of high schools in France before nationwide strike",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261103-students-blockade-dozens-of-high-schools-in-france-before-nationwide-strike",
+      "published_date": "2026-11-03T12:20:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French schools blockade resume on smaller scale as holidays end",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261103-french-schools-blockade-resume-on-smaller-scale-as-holidays-end",
+      "published_date": "2026-11-03T12:01:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK and EU agree deal to remove Brexit checks on food and animal products",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
+      "published_date": "2026-11-03T09:19:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Manipulation review – preposterous Da Vinci Code-esque thriller like being trapped in a Ferrero Rocher ad",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/nov/03/manipulation-review-preposterous-da-vinci-code-thriller-david-balda",
+      "published_date": "2026-11-03T09:00:43+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Heading into the midterms, 'no US president in recent times has been as unpopular as Donald Trump'",
       "source": "France 24",
       "url": "https://www.france24.com/en/heading-into-the-midterms-no-us-president-in-recent-times-has-been-as-unpopular-as-donald-trump",
@@ -466,74 +543,60 @@
       "category": "Economy"
     },
     {
-      "title": "November changes, wealth tax, and care bills: 6 essential articles for life in France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261101/november-changes-wealth-tax-and-care-bills-6-essential-articles-for-life-in-france",
-      "published_date": "2026-11-01T07:11:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "From teargas in Paris to gen Z in Germany: protests across Europe – in pictures",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/gallery/2026/oct/31/from-teargas-in-paris-to-gen-z-in-germany-europe-across-protests-in-pictures",
-      "published_date": "2026-10-31T17:49:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Fitch downgrades France's economic outlook from stable to negative",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261031/fitch-downgrades-frances-economic-outlook-from-stable-to-negative",
-      "published_date": "2026-10-31T15:12:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Can Latino discontent loosen Republican grip on Florida?",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261031-can-latino-discontent-loosen-republican-grip-on-florida-us-midterms",
-      "published_date": "2026-10-31T12:44:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
-      "published_date": "2026-10-30T16:21:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Cost of living protests  to spread to Germany and reignite in France on Halloween",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
-      "published_date": "2026-10-30T14:42:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business leader Roux de Bézieux to head 2030 Winter Games organising committee",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20261030-business-leader-roux-de-b%C3%A9zieux-to-head-2030-winter-games-organising-committee",
-      "published_date": "2026-10-30T13:11:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "French dockworkers strike over budget measures and militarisation of ports",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261030-french-dockworkers-strike-over-budget-measures-and-militarisation-of-ports-arms-war",
-      "published_date": "2026-10-30T08:19:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "French economy 'headed for a wall' as GDP shrinks, finance minister warns",
+      "title": "‘Vile terrorist attack’: Russia bombs Ukraine aid centre",
       "source": "France 24",
-      "url": "https://www.france24.com/en/business/20261030-french-economy-headed-for-a-wall-as-gdp-shrinks-finance-minister-warns",
-      "published_date": "2026-10-30T08:01:46+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre",
+      "published_date": "2026-11-03T16:30:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Opening the EU debate again is clearly a political minefield. But we have to do it | Simon Jenkins",
+      "title": "A cultural stroll through Paris with actors François-Xavier Demaison and François Morel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/paris-des-arts/20261103-a-cultural-stroll-through-paris-with-actors-fran%C3%A7ois-xavier-demaison-and-fran%C3%A7ois-morel",
+      "published_date": "2026-11-03T15:30:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "They fell in love on The Simpsons and married in real life. Meet the French Homer and Marge",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/30/brexit-eu-debate-again-political-minefield-andy-burnham",
-      "published_date": "2026-10-30T06:00:47+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/03/the-simpsons-french-homer-marge-married-real-life-peythieu-augereau",
+      "published_date": "2026-11-03T14:33:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "True crime novel about 1949 murder of Paris life model wins France’s biggest literary prize",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/nov/03/true-crime-novel-murdered-model-wins-france-literary-prize-prix-goncourt-philippe-jaenada",
+      "published_date": "2026-11-03T14:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cheese theft becomes rife among Europe's gangsters",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20261103-cheese-theft-becomes-rife-among-europe-s-gangsters",
+      "published_date": "2026-11-03T10:53:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch rail start-up plans new Paris, Brussels and Amsterdam trains",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261103/dutch-rail-start-up-plans-new-paris-brussels-and-amsterdam-trains",
+      "published_date": "2026-11-03T09:44:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Emergency responders comb through rubble after deadly strike on Ukrainian aid centre – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/nov/03/rubble-deadly-strike-ukrainian-aid-centre-video",
+      "published_date": "2026-11-03T08:53:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Europe's Gen Z protesters unite over living costs, housing and employment uncertainty",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261103-europe-s-gen-z-protesters-unite-over-living-costs-housing-and-uncertainty-of-getting-jobs",
+      "published_date": "2026-11-03T01:21:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
@@ -617,62 +680,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20261102/map-route-for-the-paris-demo-on-november-5th",
       "published_date": "2026-11-02T11:13:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tell us: What questions do you have about the French presidential election?",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261102/tell-us-what-do-you-want-from-the-locals-french-election-coverage",
-      "published_date": "2026-11-02T10:37:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former UK paratrooper Karl Bushby ends 28-year trek across jungles and frozen sea",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261102-former-uk-paratrooper-karl-bushby-ends-28-year-trek-across-jungles-and-frozen-sea",
-      "published_date": "2026-11-02T10:13:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France: Some schools blocked as limited youth protests resume after holidays",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261102-france-some-schools-blocked-as-limited-youth-protests-resume-after-holidays",
-      "published_date": "2026-11-02T09:57:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France's Philippe rejects centre-right primary for presidential vote",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261102/frances-philippe-rejects-centre-right-primary-for-presidential-vote",
-      "published_date": "2026-11-02T08:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miami voters weigh local hardship and America's global role as early voting ends",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261102-miami-voters-weigh-local-hardship-and-america-s-global-role-as-early-voting-ends",
-      "published_date": "2026-11-02T07:57:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "France braces for fresh protests as students to resume school blockades",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261102-france-braces-for-fresh-protests-as-students-to-resume-school-blockades",
-      "published_date": "2026-11-02T07:09:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Live: Repeated Russian bombing kills 24 people in Ukraine's Zaporizhzhia region",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends",
-      "published_date": "2026-11-02T06:19:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261102-halloween-weekend-shootings-across-us-leave-at-least-six-dead-dozens-wounded",
-      "published_date": "2026-11-02T00:49:01+00:00",
       "category": "Local Events"
     }
   ]
