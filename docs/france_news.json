@@ -1,8 +1,43 @@
 {
   "country": "France",
-  "last_updated": "2026-11-03T18:11:57.100524+00:00",
-  "story_count": 97,
+  "last_updated": "2026-11-04T02:52:40.996724+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Historian Timothy Snyder: Trump running US foreign policy 'as though he were an organized criminal'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261103-historian-timothy-snyder-trump-running-us-foreign-policy-as-though-he-were-an-organized-criminal",
+      "published_date": "2026-11-03T22:28:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
+      "published_date": "2026-11-03T20:00:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why are fridges being hacked and what could be next? - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/video/2026/nov/03/why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
+      "published_date": "2026-11-03T19:12:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cold war? Why are fridges being hacked and what could be next? - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/03/cold-war-why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
+      "published_date": "2026-11-03T18:21:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Even if US democracy can be salvaged from Trump, Europe is moving on | Rafael Behr",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/us-democracy-donald-trump-europe-trust",
+      "published_date": "2026-11-03T18:07:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The UK-EU food produce deal: what was agreed and will it affect shoppers?",
       "source": "The Guardian",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "A musical overview of trans-European punk",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20261102-a-musical-overview-of-trans-european-punk",
-      "published_date": "2026-11-02T16:05:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Italian journalists under police protection as threats rise across the country",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261102-italian-journalists-under-police-protection-as-threats-rise-across-the-country",
-      "published_date": "2026-11-02T13:20:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "RSF publishes list of press freedom 'predators': 'Dictators want to silence journalists'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/rsf-publishes-list-of-press-freedom-predators-dictators-want-to-silence-journalists",
-      "published_date": "2026-11-02T09:06:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Michigan ‘Betrayal’ & Mid Term Manouvres",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261101-michigan-betrayal-mid-term-manouvres",
-      "published_date": "2026-11-01T19:37:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
+      "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
-      "published_date": "2026-11-01T17:00:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
+      "published_date": "2026-11-04T01:31:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
@@ -183,6 +190,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261103-trump-cuts-israeli-military-aid-3-8-billion-in-security-assistance-slashed",
       "published_date": "2026-11-03T16:01:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bomb threats against European airlines force Warsaw airport closure, affect several flights",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261103-bomb-threats-disrupt-europe-flights",
+      "published_date": "2026-11-03T15:41:48+00:00",
       "category": "Military"
     },
     {
@@ -267,20 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/uganda-withdrawing-troops-from-peacekeeping-mission-in-somalia",
       "published_date": "2026-11-02T21:24:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-02T20:23:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "MAGA: Why Trump's most loyal supporters are turning against him?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/maga-why-trump-s-most-loyal-supporters-are-turning-against-him",
-      "published_date": "2026-11-02T19:17:55+00:00",
       "category": "Military"
     },
     {
@@ -396,11 +396,32 @@
       "category": "Energy"
     },
     {
-      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-27T20:42:38+00:00",
-      "category": "Energy"
+      "title": "US democracy, Trump fatigue, cost of living are top issues with voters, AP survey finds",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds",
+      "published_date": "2026-11-03T23:46:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump tariffs hitting small businesses",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261103-trump-tariffs-hitting-small-businesses",
+      "published_date": "2026-11-03T21:45:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "South Africa braces for some job losses as AGOA ends",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/south-africa-braces-for-some-job-losses-as-agoa-ends",
+      "published_date": "2026-11-03T21:18:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump promised a 'Golden Age'. What has he delivered at home?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261103-trump-promised-a-golden-age-what-has-he-delivered-at-home",
+      "published_date": "2026-11-03T20:56:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – as it happened",
@@ -515,32 +536,32 @@
       "category": "Economy"
     },
     {
-      "title": "French presidential candidate Édouard Philippe rejects centre-right primary",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261101-french-presidential-candidate-philippe-rejects-centre-right-primary",
-      "published_date": "2026-11-01T21:51:36+00:00",
-      "category": "Economy"
+      "title": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/04/ukraine-war-briefing-dozens-trapped-komyshuvakha-russian-strikes",
+      "published_date": "2026-11-04T01:08:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Florida Keys business owners reveal contrasting views of Trump's America",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261101-florida-keys-business-owners-reveal-contrasting-views-of-trump-s-america",
-      "published_date": "2026-11-01T11:08:16+00:00",
-      "category": "Economy"
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T22:45:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Youth Olympic Games kick off in Dakar",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/youth-olympic-games-kick-off-in-dakar",
-      "published_date": "2026-11-01T09:49:04+00:00",
-      "category": "Economy"
+      "title": "Spanish transport minister resigns after deadly train crash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
+      "published_date": "2026-11-03T21:46:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US Midterms: Affordability at heart of Michigan race",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-midterms-affordability-at-heart-of-michigan-race",
-      "published_date": "2026-11-01T09:39:11+00:00",
-      "category": "Economy"
+      "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
+      "published_date": "2026-11-03T20:21:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Vile terrorist attack’: Russia bombs Ukraine aid centre",
@@ -652,34 +673,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261102-british-adventurer-arrives-back-at-mother-s-home-after-28-year-journey",
       "published_date": "2026-11-02T16:45:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iconic Paris department store BHV Marais granted bankruptcy protection",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261102-storied-paris-department-store-bhv-marais-granted-bankruptcy-protection",
-      "published_date": "2026-11-02T16:43:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French school protests resume on smaller scale after autumn break",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261102-french-school-protests-resume-on-smaller-scale-after-autumn-break",
-      "published_date": "2026-11-02T14:15:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explained: Why the French police use so much tear gas",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261102/explained-why-the-french-police-use-so-much-tear-gas",
-      "published_date": "2026-11-02T12:54:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MAP: Route for the Paris demo on November 5th",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261102/map-route-for-the-paris-demo-on-november-5th",
-      "published_date": "2026-11-02T11:13:46+00:00",
       "category": "Local Events"
     }
   ]
