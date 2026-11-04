@@ -1,8 +1,36 @@
 {
   "country": "France",
-  "last_updated": "2026-11-04T02:52:40.996724+00:00",
-  "story_count": 96,
+  "last_updated": "2026-11-04T18:22:51.448317+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Pet passports set to be restored between the EU and the UK",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261104/pet-passports-set-to-be-restored-between-the-eu-and-the-uk",
+      "published_date": "2026-11-04T16:02:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ANALYSIS: French language requirements for foreign nationals are inherently political",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261104/analysis-french-language-requirements-for-foreign-nationals-are-inherently-political",
+      "published_date": "2026-11-04T14:58:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU rules on Artificial Intelligence devices will apply in NI",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23zqxwdlro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T14:10:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Blue wave sweeps across America: 'In 1974, we had Watergate babies, now we have Iran War babies'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/blue-wave-sweeps-across-america-in-1974-we-had-watergate-babies-now-we-have-iran-war-babies",
+      "published_date": "2026-11-04T13:00:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Historian Timothy Snyder: Trump running US foreign policy 'as though he were an organized criminal'",
       "source": "France 24",
@@ -116,38 +144,108 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply",
+      "title": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
       "source": "France 24",
-      "url": "https://www.france24.com/en/eu-says-fridge-attacks-deliberate-attempt-to-disrupt-bloc-s-food-supply",
-      "published_date": "2026-11-02T20:30:07+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
+      "published_date": "2026-11-04T16:50:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+      "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
-      "published_date": "2026-11-02T19:07:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
+      "published_date": "2026-11-04T16:09:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "How the EU can resist the divisive influence of the far right | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/02/how-the-eu-can-resist-the-divisive-influence-of-the-far-right",
-      "published_date": "2026-11-02T17:58:01+00:00",
-      "category": "Diplomacy"
+      "title": "Tale of 2 midterms: Republican redistricting 'backfired' while Democrats 'exceeded all expectations'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tale-of-2-midterms-republican-redistricting-backfired-while-democrats-exceeded-all-expectations",
+      "published_date": "2026-11-04T16:09:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "A decade of magical thinking since Brexit has taught me that it’s always OK to hope for better | Zoe Williams",
+      "title": "How Trump's broken promises on war, inflation handed Democrats the midterms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261104-how-trump-s-broken-promises-on-war-inflation-handed-democrats-the-midterms",
+      "published_date": "2026-11-04T15:02:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T15:01:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian's 'not expecting drastic change in US policy' after midterms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukrainian-s-not-expecting-drastic-change-in-us-policy-after-midterms",
+      "published_date": "2026-11-04T13:26:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PSG coach  Enrique hails 'sensational' Champions League win at Villarreal",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20261104-psg-coach-enrique-hails-sensational-champions-league-win-at-villarreal",
+      "published_date": "2026-11-04T13:18:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US midterms: Trump reacts to the Democrats’ sweeping victory",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261104-us-midterms-trump-reacts-to-the-democrats-sweeping-victory",
+      "published_date": "2026-11-04T11:24:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/a-decade-of-magical-thinking-since-brexit-has-taught-me-that-its-always-ok-to-hope-for-better",
-      "published_date": "2026-11-02T17:01:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/news/2026/nov/04/london-wiener-holocaust-library-dreyfus-affair-antisemitism",
+      "published_date": "2026-11-04T10:58:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Markets react with caution to Democrats' victory in US midterms",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261104-markets-react-with-caution-to-democrats-victory-in-us-midterms",
+      "published_date": "2026-11-04T10:40:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘We are a threat to Putin’: the small Norwegian news outlet with half its staff on Russia’s wanted list",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/04/small-norwegian-news-outlet-russia-wanted-list-barents-observer",
+      "published_date": "2026-11-04T06:00:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Kyiv, hackers sent fake alerts about a nuclear apocalypse. We hardly noticed | Diana Berg",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/04/in-kyiv-hackers-sent-fake-alerts-about-a-nuclear-apocalypse-we-hardly-noticed",
+      "published_date": "2026-11-04T05:00:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
       "published_date": "2026-11-04T01:31:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T20:42:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ryanair passenger says bomb threat was 'traumatic'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj75pg04y231o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T18:52:07+00:00",
       "category": "Military"
     },
     {
@@ -186,102 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Trump cuts Israeli military aid: $3.8 billion in security assistance slashed",
+      "title": "'Once-in-a-generation event: Historic election a shocking repudiation of Trump & the MAGA movement'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261103-trump-cuts-israeli-military-aid-3-8-billion-in-security-assistance-slashed",
-      "published_date": "2026-11-03T16:01:30+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/once-in-a-generation-event-historic-election-a-shocking-repudiation-of-trump-the-maga-movement",
+      "published_date": "2026-11-04T17:49:34+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Bomb threats against European airlines force Warsaw airport closure, affect several flights",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261103-bomb-threats-disrupt-europe-flights",
-      "published_date": "2026-11-03T15:41:48+00:00",
-      "category": "Military"
+      "title": "Democratic midterm wins threaten data centre boom in key US states",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261104-democratic-wins-threaten-data-centre-boom-in-key-us-states",
+      "published_date": "2026-11-04T13:49:24+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Hoax bomb threats disrupt flights in Europe",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261103/hoax-bomb-threats-disrupt-flights-in-europe",
-      "published_date": "2026-11-03T14:20:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Despite attacks, Saudi Aramco posts 34% rise in net profits in latest quarter",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261103-despite-attacks-saudi-aramco-posts-34-rise-in-net-profits-in-latest-quarter",
-      "published_date": "2026-11-03T10:13:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK and European peacekeepers in Ukraine would be allowed to fire back at Russians",
+      "title": "More than 900 academics urge UK to reverse decision to bar Andreas Malm",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/uk-european-peacekeepers-ukraine-fire-back-russians",
-      "published_date": "2026-11-03T05:00:40+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/uk-news/2026/nov/04/andreas-malm-academics-letter-uk-reverse-entry-bar",
+      "published_date": "2026-11-04T12:00:10+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
+      "title": "'Like a cancer': How data centres became a key issue at midterms",
       "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks",
-      "published_date": "2026-11-03T02:28:07+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20261104-like-a-cancer-how-data-centres-became-a-key-issue-at-midterms",
+      "published_date": "2026-11-04T11:54:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/03/ukraine-war-briefing-us-to-mediate-talks-with-kyiv-and-moscow-in-abu-dhabi-next-week-says-witkoff",
-      "published_date": "2026-11-03T02:00:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European force to hold first Ukraine support exercise in Poland",
+      "title": "Ethiopia expands hydropower ambitions",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261103-european-force-to-hold-first-ukraine-support-exercise-in-poland",
-      "published_date": "2026-11-03T01:43:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian strikes kill 26 in Ukraine after longest ceasefire ends",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
-      "published_date": "2026-11-03T01:18:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T00:07:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
-      "published_date": "2026-11-02T22:30:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
-      "published_date": "2026-11-02T22:28:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump promised 'no more wars'. His foreign policy tells another story",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261102-trump-promised-no-more-wars-his-foreign-policy-tells-another-story",
-      "published_date": "2026-11-02T21:34:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uganda withdrawing troops from peacekeeping mission in Somalia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uganda-withdrawing-troops-from-peacekeeping-mission-in-somalia",
-      "published_date": "2026-11-02T21:24:21+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20261104-ethiopia-expands-hydropower-ambitions",
+      "published_date": "2026-11-04T11:19:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "Californians vote on ballot initiative to impose one-time tax on billionaires",
@@ -389,11 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Medical experts warn climate change is now a 'global health emergency'",
+      "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+      "published_date": "2026-11-04T16:47:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump after the midterms: Gridlock, impeachment and succession?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261104-trump-after-the-midterms-gridlock-impeachment-and-succession",
+      "published_date": "2026-11-04T15:54:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'Is Republican Party able to pivot away from MAGA movement, or will it sputter forward leaderless?'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/is-republican-party-able-to-pivot-away-from-maga-movement-or-will-it-sputter-forward-leaderless",
+      "published_date": "2026-11-04T15:16:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Corruption in Kenya taking massive toll on economic growth, warns World Bank",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20261028-medical-experts-warn-climate-change-is-now-a-global-health-emergency",
-      "published_date": "2026-10-28T16:28:47+00:00",
-      "category": "Energy"
+      "url": "https://www.rfi.fr/en/africa/20261104-corruption-in-kenya-taking-massive-toll-on-economic-growth-warns-world-bank",
+      "published_date": "2026-11-04T14:43:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US Midterms: 'It is now going to be pretty chaotic for Donald Trump'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261104-us-midterms-it-is-now-going-to-be-pretty-chaotic-for-donald-trump",
+      "published_date": "2026-11-04T14:12:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
+      "published_date": "2026-11-04T11:58:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "US democracy, Trump fatigue, cost of living are top issues with voters, AP survey finds",
@@ -494,46 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Heading into the midterms, 'no US president in recent times has been as unpopular as Donald Trump'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/heading-into-the-midterms-no-us-president-in-recent-times-has-been-as-unpopular-as-donald-trump",
-      "published_date": "2026-11-02T15:25:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US midterm elections: North Carolina farmers hit hard by inflation",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261102-us-midterm-elections-north-carolina-farmers-hit-hard-by-inflation",
-      "published_date": "2026-11-02T13:13:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "French protests: What to expect from November 5th strikes",
+      "title": "PODCAST 🎧: Tear gas warning, health boost for rural France and which city speaks 'perfect' French?",
       "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261102/french-protests-what-to-expect-from-november-5th-strikes",
-      "published_date": "2026-11-02T11:01:38+00:00",
-      "category": "Economy"
+      "url": "https://www.thelocal.fr/20261104/podcast-tear-gas-warning-health-boost-for-rural-france-and-which-city-speaks-perfect-french",
+      "published_date": "2026-11-04T15:50:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Memo to King Charles: if the Dutch king can apologise for slavery, why can’t you? | Raoul de Jong",
+      "title": "Spain’s deadly train crashes have damaged public confidence in the system",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/king-charles-slavery-apology-caribbean-tour",
-      "published_date": "2026-11-02T08:00:36+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system",
+      "published_date": "2026-11-04T15:40:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Radical-right youth groups are at the root of Europe’s populist surge | Cas Mudde and Duncan McDonnell",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/radical-right-youth-europe-populist-surge-france-jordan-bardella-italy-giorgia-meloni",
-      "published_date": "2026-11-02T05:00:31+00:00",
-      "category": "Economy"
+      "title": "Secret police files released in Hungary, 37 years after fall of communism",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T15:28:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Nine killed as business jet crashes into South Florida neighbourhood",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood",
-      "published_date": "2026-11-01T23:45:08+00:00",
-      "category": "Economy"
+      "title": "South Africa votes in local elections as growing anger threatens ANC",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20261104-south-africa-votes-in-local-elections-as-growing-anger-threatens-anc",
+      "published_date": "2026-11-04T14:31:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OPINION: The violence at recent protests is not normal, even for France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261104/opinion-the-violence-at-recent-protests-is-not-normal-even-for-france",
+      "published_date": "2026-11-04T08:51:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French judges open inquiry into allegation of Israeli war crime",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261104-french-judges-open-inquiry-into-complaint-of-israeli-war-crime",
+      "published_date": "2026-11-04T08:27:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub",
@@ -613,6 +683,13 @@
       "category": "Local Events"
     },
     {
+      "title": "French tennis star Fils starts bid for Paris Masters title and a spot in Turin",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20261103-french-tennis-star-fils-starts-tilt-for-paris-masters-title-and-spot-in-turin",
+      "published_date": "2026-11-03T08:29:32+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Europe's Gen Z protesters unite over living costs, housing and employment uncertainty",
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20261103-europe-s-gen-z-protesters-unite-over-living-costs-housing-and-uncertainty-of-getting-jobs",
@@ -624,55 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
       "published_date": "2026-11-03T01:13:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Free and fair? The Midterms and the state of US democracy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261102-free-and-fair-the-midterms-and-the-state-of-us-democracy",
-      "published_date": "2026-11-02T19:37:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Poland’s political turmoil: an ominous portent of bigger battles to come | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/the-guardian-view-on-polands-political-turmoil-an-ominous-portent-of-bigger-battles-to-come",
-      "published_date": "2026-11-02T18:52:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French pupils resume school blockades as country braces for more protests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
-      "published_date": "2026-11-02T18:17:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French student protests: 'Illiberal' Macron govt dismisses social movement as 'urban violence'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261102-french-student-protests-illiberal-macron-govt-dismisses-social-movement-as-urban-violence",
-      "published_date": "2026-11-02T18:07:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch police offer record €2m reward in hunt for drug lord",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-02T17:29:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Historic Paris department store receives bankruptcy protection",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261102/historic-paris-department-store-receives-bankruptcy-protection",
-      "published_date": "2026-11-02T16:51:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British adventurer arrives back at mother's home after 28-year journey",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261102-british-adventurer-arrives-back-at-mother-s-home-after-28-year-journey",
-      "published_date": "2026-11-02T16:45:04+00:00",
       "category": "Local Events"
     }
   ]
