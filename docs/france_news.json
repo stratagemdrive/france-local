@@ -1,7 +1,7 @@
 {
   "country": "France",
-  "last_updated": "2026-11-04T18:22:51.448317+00:00",
-  "story_count": 100,
+  "last_updated": "2026-11-05T03:05:20.651531+00:00",
+  "story_count": 99,
   "stories": [
     {
       "title": "Pet passports set to be restored between the EU and the UK",
@@ -144,6 +144,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "South Korea to deploy military mission to keep Strait of Hormuz open",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz",
+      "published_date": "2026-11-05T02:17:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy awards Melania Trump national honour for role in brokering Oleshky truce",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/05/ukraine-war-briefing-zelenskyy-awards-melania-trump-national-honour-for-role-in-brokering-oleshky-truce",
+      "published_date": "2026-11-05T02:11:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "🔴 Live: Trump says going to war in Iran was worth it, despite midterm rout",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+      "published_date": "2026-11-04T18:32:56+00:00",
+      "category": "Military"
+    },
+    {
       "title": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
@@ -260,27 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
       "published_date": "2026-11-03T17:21:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian households face increasing financial strain as war in Ukraine drags on",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on",
-      "published_date": "2026-11-03T17:05:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T16:57:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261103-ukraine-and-russia-are-taking-the-war-underground-as-drones-saturate-the-battlefield",
-      "published_date": "2026-11-03T16:52:13+00:00",
       "category": "Military"
     },
     {
@@ -417,11 +417,18 @@
       "category": "Energy"
     },
     {
-      "title": "EU natural gas prices top €100 for first time since 2022",
+      "title": "Netanyahu claims 'serious concerns' of foreign spending to sway Israeli election",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022",
-      "published_date": "2026-10-28T22:02:12+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/middle-east/20261104-netanyahu-claims-serious-concerns-of-foreign-spending-to-sway-israeli-election",
+      "published_date": "2026-11-04T21:26:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Musk-backed candidates lose midterms despite financial backing",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing",
+      "published_date": "2026-11-04T21:06:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
@@ -550,18 +557,32 @@
       "category": "Economy"
     },
     {
-      "title": "UK and EU agree deal to remove Brexit checks on food and animal products",
+      "title": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
-      "published_date": "2026-11-03T09:19:21+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
+      "published_date": "2026-11-05T00:53:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Manipulation review – preposterous Da Vinci Code-esque thriller like being trapped in a Ferrero Rocher ad",
+      "title": "Champions League: Real Madrid seal late comeback as Liverpool lose to Fenerbahce",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20261104-champions-league-real-madrid-comeback-liverpool-fenerbahce",
+      "published_date": "2026-11-04T22:17:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serbia detains police officers over alleged use of force against protesters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/nov/03/manipulation-review-preposterous-da-vinci-code-thriller-david-balda",
-      "published_date": "2026-11-03T09:00:43+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
+      "published_date": "2026-11-04T20:42:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Both sides of the Atlantic sense more hope: voters are drawn to the ‘politics of love’ | Alexander Hurst",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-midterms-atlantic-hope-voters-democratic",
+      "published_date": "2026-11-04T18:35:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "PODCAST 🎧: Tear gas warning, health boost for rural France and which city speaks 'perfect' French?",
@@ -673,34 +694,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20261103/dutch-rail-start-up-plans-new-paris-brussels-and-amsterdam-trains",
       "published_date": "2026-11-03T09:44:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emergency responders comb through rubble after deadly strike on Ukrainian aid centre – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/nov/03/rubble-deadly-strike-ukrainian-aid-centre-video",
-      "published_date": "2026-11-03T08:53:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French tennis star Fils starts bid for Paris Masters title and a spot in Turin",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20261103-french-tennis-star-fils-starts-tilt-for-paris-masters-title-and-spot-in-turin",
-      "published_date": "2026-11-03T08:29:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe's Gen Z protesters unite over living costs, housing and employment uncertainty",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261103-europe-s-gen-z-protesters-unite-over-living-costs-housing-and-uncertainty-of-getting-jobs",
-      "published_date": "2026-11-03T01:21:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-      "published_date": "2026-11-03T01:13:52+00:00",
       "category": "Local Events"
     }
   ]
