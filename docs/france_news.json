@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-11-05T18:27:15.152171+00:00",
-  "story_count": 96,
+  "last_updated": "2026-11-06T03:05:06.469455+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Three in four displaced people live in climate danger zones, UN says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
+      "published_date": "2026-11-05T23:34:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
       "source": "The Guardian",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Food rules to be relaxed on UK-France trips after EU deal",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261103/food-rules-to-be-relaxed-on-uk-france-trips-after-eu-deal",
-      "published_date": "2026-11-03T12:46:25+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help",
+      "published_date": "2026-11-06T02:11:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-05T19:58:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -207,6 +221,13 @@
       "category": "Military"
     },
     {
+      "title": "Melania Trump hosting Russian and Ukrainian delegations at the White House",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-05T13:09:12+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Multiple flights in Europe diverted because of bomb threats after earlier hoaxes",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes",
@@ -260,27 +281,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz",
       "published_date": "2026-11-05T02:17:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy awards Melania Trump national honour for role in brokering Oleshky truce",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/ukraine-war-briefing-zelenskyy-awards-melania-trump-national-honour-for-role-in-brokering-oleshky-truce",
-      "published_date": "2026-11-05T02:11:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-04T22:48:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "🔴 Live: Trump says going to war in Iran was worth it, despite midterm rout",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
-      "published_date": "2026-11-04T18:32:56+00:00",
       "category": "Military"
     },
     {
@@ -372,27 +372,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/oct/30/oh-to-believe-in-another-world-review-william-kentridges-amazing-animated-ballet-of-black-comic-pain",
       "published_date": "2026-10-30T09:29:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Across Africa: Real estate scams growing in Ivory Coast",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/across-africa-real-estate-scams-growing-in-ivory-coast",
-      "published_date": "2026-10-29T21:43:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "ECB President Lagarde steps down in order to speak out",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out",
-      "published_date": "2026-10-29T21:01:37+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "French shooting suspect deliberately targeted Muslims, Africans",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261029-french-shooting-suspect-deliberately-targeted-muslims-africans",
-      "published_date": "2026-10-29T18:45:57+00:00",
       "category": "Energy"
     },
     {
@@ -536,6 +515,34 @@
       "category": "Economy"
     },
     {
+      "title": "Nigeria court bars opposition candidate two months before election",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election",
+      "published_date": "2026-11-05T21:22:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
+      "published_date": "2026-11-05T20:52:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
+      "published_date": "2026-11-05T20:39:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight killed in series of shootings in western Turkey",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-05T19:32:54+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Protesters march in cities across France as unions stage general strike",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
@@ -645,34 +652,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-04T15:28:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa votes in local elections as growing anger threatens ANC",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261104-south-africa-votes-in-local-elections-as-growing-anger-threatens-anc",
-      "published_date": "2026-11-04T14:31:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPINION: The violence at recent protests is not normal, even for France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261104/opinion-the-violence-at-recent-protests-is-not-normal-even-for-france",
-      "published_date": "2026-11-04T08:51:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French judges open inquiry into allegation of Israeli war crime",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261104-french-judges-open-inquiry-into-complaint-of-israeli-war-crime",
-      "published_date": "2026-11-04T08:27:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/04/ukraine-war-briefing-dozens-trapped-komyshuvakha-russian-strikes",
-      "published_date": "2026-11-04T01:08:17+00:00",
       "category": "Local Events"
     }
   ]
