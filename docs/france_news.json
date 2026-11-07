@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-11-06T17:46:55.265791+00:00",
-  "story_count": 94,
+  "last_updated": "2026-11-07T02:30:34.107735+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "What Trump’s midterms debacle could mean for US support for Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261106-what-trump-s-midterms-debacle-could-mean-for-us-support-for-ukraine",
+      "published_date": "2026-11-06T18:49:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-06T17:44:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Suez Crisis at 70 reveals the humiliation France tried to keep hidden",
       "source": "RFI English",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Blue wave sweeps across America: 'In 1974, we had Watergate babies, now we have Iran War babies'",
+      "title": "Europe bomb hoaxes widen",
       "source": "France 24",
-      "url": "https://www.france24.com/en/blue-wave-sweeps-across-america-in-1974-we-had-watergate-babies-now-we-have-iran-war-babies",
-      "published_date": "2026-11-04T13:00:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Historian Timothy Snyder: Trump running US foreign policy 'as though he were an organized criminal'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261103-historian-timothy-snyder-trump-running-us-foreign-policy-as-though-he-were-an-organized-criminal",
-      "published_date": "2026-11-03T22:28:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe-bomb-hoaxes-widen",
+      "published_date": "2026-11-06T21:22:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Further bomb threats disrupt at least another 18 flights across Europe",
@@ -176,6 +183,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
       "published_date": "2026-11-06T16:26:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New wave of bomb threats hit European airlines",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-06T15:25:35+00:00",
       "category": "Military"
     },
     {
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help",
-      "published_date": "2026-11-06T02:11:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who could be behind hoax bomb threats to European air travel?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-05T19:58:40+00:00",
-      "category": "Military"
+      "title": "Kenyan cult leader sentenced to 200 years in prison",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
+      "published_date": "2026-11-06T21:23:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US",
@@ -522,6 +529,27 @@
       "category": "Economy"
     },
     {
+      "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+      "published_date": "2026-11-06T20:51:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
+      "published_date": "2026-11-06T20:08:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+      "published_date": "2026-11-06T18:51:37+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "French lawyers to sue interior minister over protester 'mutilations'",
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20261106/french-lawyers-to-sue-interior-minister-over-protester-mutilations",
@@ -638,27 +666,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/france/20261106-chilling-figures-show-domestic-violence-still-major-problem-in-france",
       "published_date": "2026-11-06T06:08:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-06T06:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia has banished the monsters from Belgrade – it was, and still is, a truly wonderful revolution | Barbi Marković",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/06/serbia-banished-monsters-belgrade-student-list-milosevic-regime",
-      "published_date": "2026-11-06T05:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria court bars opposition candidate two months before election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election",
-      "published_date": "2026-11-05T21:22:18+00:00",
       "category": "Local Events"
     }
   ]
