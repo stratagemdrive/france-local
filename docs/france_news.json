@@ -1,7 +1,7 @@
 {
   "country": "France",
-  "last_updated": "2026-11-07T16:42:44.338186+00:00",
-  "story_count": 96,
+  "last_updated": "2026-11-08T02:00:53.740183+00:00",
+  "story_count": 94,
   "stories": [
     {
       "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+      "published_date": "2026-11-07T19:37:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France investigating if bogus bomb threats against airlines linked to 'foreign powers'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
+      "published_date": "2026-11-07T16:33:53+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Russia launches massive strike on Kyiv",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "The human cost of recycling: Kenyan waste pickers put their health at risk",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/reporters/20261106-the-human-cost-of-recycling-kenyan-waste-pickers-put-their-health-at-risk",
-      "published_date": "2026-11-06T12:34:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel's Eisenkot claims 'progress' in coalition talks as opposition eases on ultra-Orthodox draft",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261106-israel-s-eisenkot-claims-significant-progress-in-coalition-talks-as-opposition-eases-on-ultra-orthodox-draft",
-      "published_date": "2026-11-06T11:43:55+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
@@ -379,20 +379,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france-reports-largely-peaceful-protests",
       "published_date": "2026-11-01T15:50:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-01T00:55:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-31T17:53:35+00:00",
       "category": "Energy"
     },
     {
@@ -536,6 +522,41 @@
       "category": "Economy"
     },
     {
+      "title": "Gunmen kills six in Krakow, three more bodies found at his house",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
+      "published_date": "2026-11-07T22:47:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+      "published_date": "2026-11-07T21:19:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
+      "published_date": "2026-11-07T19:58:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'We must change everything': French far-left leader Mélenchon launches presidential programme",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
+      "published_date": "2026-11-07T17:30:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mbappé returns to France duty as Zidane drafts Pagis into Nations League squad",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20261107-mbapp%C3%A9-returns-to-france-duty-as-zidane-drafts-pagis-into-nations-league-squad",
+      "published_date": "2026-11-07T17:27:11+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
@@ -638,41 +659,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
       "published_date": "2026-11-06T20:08:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
-      "published_date": "2026-11-06T18:51:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French lawyers to sue interior minister over protester 'mutilations'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261106/french-lawyers-to-sue-interior-minister-over-protester-mutilations",
-      "published_date": "2026-11-06T16:36:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wounded French protesters to sue interior minister over police brutality",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261106-wounded-french-protesters-to-sue-interior-minister-over-police-brutality",
-      "published_date": "2026-11-06T16:13:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two dead after bus crashes in France, officials say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-06T15:33:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Podcast: France's student protests and how they fuelled a larger social movement",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/podcasts/spotlight-on-france/20261106-podcast-france-s-student-protests-and-how-they-fuelled-a-larger-social-movement-may-68",
-      "published_date": "2026-11-06T15:29:10+00:00",
       "category": "Local Events"
     }
   ]
