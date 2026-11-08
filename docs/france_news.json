@@ -1,8 +1,50 @@
 {
   "country": "France",
-  "last_updated": "2026-11-08T02:00:53.740183+00:00",
-  "story_count": 94,
+  "last_updated": "2026-11-08T16:53:36.199920+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "title": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
+      "published_date": "2026-11-08T14:16:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Unions vow to keep pressure on French government after fourth wave of protests",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261108-unions-vow-to-keep-pressure-on-french-government-after-fourth-wave-of-protests",
+      "published_date": "2026-11-08T11:00:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
+      "published_date": "2026-11-08T11:00:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bank fraud, menopause and pet passports: 6 essential articles on life in France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261108/bank-fraud-menopause-and-pet-passports-6-essential-articles-on-life-in-france",
+      "published_date": "2026-11-08T07:21:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New Zealand's knife-edge parliamentary election delivers no clear winner",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261108-new-zealand-election-produces-no-clear-winner-as-smaller-parties-make-record-gains",
+      "published_date": "2026-11-08T03:01:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-07T17:32:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
       "source": "The Guardian",
@@ -102,46 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Three-quarters of world's displaced people 'on frontlines of climate crisis'",
+      "title": "Bread shortage threatens to plunge more Sudanese into hunger",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261106-three-quarters-of-world-s-displaced-people-on-frontlines-of-climate-crisis",
-      "published_date": "2026-11-06T11:12:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/africa/20261108-bread-shortage-threatens-to-plunge-more-sudanese-into-hunger",
+      "published_date": "2026-11-08T15:53:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Three in four displaced people live in climate danger zones, UN says",
+      "title": "Ex-army chief Eisenkot given first chance to form government in Israel",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261108-ex-army-chief-eisenkot-given-first-chance-to-form-government-in-israel",
+      "published_date": "2026-11-08T12:45:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
       "source": "France 24",
-      "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
-      "published_date": "2026-11-05T23:34:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261108-paraguay-senate-impeached-pe%C3%B1a-rather-than-accept-his-offer-to-resign",
+      "published_date": "2026-11-08T10:42:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
+      "title": "Middle East live: Israeli president officially tasks Eisenkot with forming government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
+      "published_date": "2026-11-08T09:47:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France probes if bomb threats against airlines linked to 'foreign powers'",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261108/france-probes-if-bomb-threats-against-airlines-linked-to-foreign-powers",
+      "published_date": "2026-11-08T09:06:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "On the Agenda: What's happening in France this week",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261108/on-the-agenda-whats-happening-in-france-this-week-235",
+      "published_date": "2026-11-08T07:21:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us?  | Simon Tisdall",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-      "published_date": "2026-11-05T17:57:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU presses UK to guarantee discounted university tuition fees for European students",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-      "published_date": "2026-11-05T16:58:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘We’ll get them’: Macron’s private comments on rivals revealed in new book",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261105-we-ll-get-them-macron-s-private-comments-on-rivals-revealed-in-new-book",
-      "published_date": "2026-11-05T16:07:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pound hits highest level since its crash after 2016 Brexit vote",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote",
-      "published_date": "2026-11-05T15:20:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/08/donald-trump-power-russia-israel-us-president",
+      "published_date": "2026-11-08T06:00:32+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
@@ -155,6 +204,13 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
       "published_date": "2026-11-07T16:33:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-07T12:49:36+00:00",
       "category": "Military"
     },
     {
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "'Chaos within aviation industry' as European air traffic hit by bomb threats",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats",
-      "published_date": "2026-11-06T16:33:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – as it happened",
+      "title": "Who’s who at Cop31: key players at the climate talks",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
-      "published_date": "2026-11-06T16:26:17+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
+      "published_date": "2026-11-08T11:48:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "New wave of bomb threats hit European airlines",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-06T15:25:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Some media firms evacuated after hoax bomb threats",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cme8rr30n55ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-06T14:30:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Too early to draw conclusions' as bomb threat hoaxes target European countries",
+      "title": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261106-too-early-to-draw-conclusions-as-bomb-threat-hoaxes-target-european-countries",
-      "published_date": "2026-11-06T13:48:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Defence Secretary Pete Hegseth's future in question after midterms setback",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261106-us-defence-secretary-pete-hegseth-s-future-in-question-after-midterms-setback",
-      "published_date": "2026-11-06T13:15:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Democratic Party introduce a new 'New Deal'? Key narrative must be 'focused on economic issues'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/will-democratic-party-introduce-a-new-new-deal-key-narrative-must-be-focused-on-economic-issues",
-      "published_date": "2026-11-06T13:07:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-06T12:51:38+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district",
+      "published_date": "2026-11-08T08:11:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
@@ -372,13 +386,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/business/20261102-binance-users-withdraw-3-4-billion-after-record-crypto-heist",
       "published_date": "2026-11-02T10:18:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "France reports largely peaceful protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france-reports-largely-peaceful-protests",
-      "published_date": "2026-11-01T15:50:06+00:00",
       "category": "Energy"
     },
     {
@@ -522,6 +529,90 @@
       "category": "Economy"
     },
     {
+      "title": "Two police officers hailed as heroes for confronting Kraków gunman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+      "published_date": "2026-11-08T14:49:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US voters reject AI data centres: could the backlash spread to France?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/tech-24/20261108-us-voters-reject-ai-data-centres-could-the-backlash-spread-to-france",
+      "published_date": "2026-11-08T14:36:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland in shock after 6 killed in Krakow far-right shooting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
+      "published_date": "2026-11-08T14:21:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French skipper wins Route du Rhum",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/french-skipper-wins-route-du-rhum",
+      "published_date": "2026-11-08T14:20:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america",
+      "published_date": "2026-11-08T14:15:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CCTV footage shows police shootout after Kraków attack – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/nov/08/cctv-footage-shows-police-shootout-after-krakow-attack-video",
+      "published_date": "2026-11-08T14:09:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The art of dressing: how clothes have shaped the image of the artist",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/culture/20261108-the-art-of-dressing-how-clothes-have-shaped-the-image-of-the-artist",
+      "published_date": "2026-11-08T13:28:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261108-abnormal-menstraution-periods-fuel-calls-ban-tear-gas-french-protests-police",
+      "published_date": "2026-11-08T11:53:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
+      "published_date": "2026-11-08T11:50:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
+      "published_date": "2026-11-08T11:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland launches terrorism probe into mass shooting in Krakow",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261108-poland-launches-terrorism-probe-into-krakow-mass-shooting",
+      "published_date": "2026-11-08T08:59:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clashes in Paris after new French protests",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261108/clashes-in-paris-after-new-french-protests",
+      "published_date": "2026-11-08T07:58:03+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Gunmen kills six in Krakow, three more bodies found at his house",
       "source": "France 24",
       "url": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
@@ -543,6 +634,20 @@
       "category": "Local Events"
     },
     {
+      "title": "'I saw ambulances and armed police': BBC correspondent in Krakow",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwdd8191qz9jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-07T19:20:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moment police officer appears to shoot Krakow suspect",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cw78p2x38jlmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-07T19:12:47+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "'We must change everything': French far-left leader Mélenchon launches presidential programme",
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
@@ -561,104 +666,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
       "published_date": "2026-11-07T15:26:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French students vow to continue protests",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/video/20261107-french-students-vow-to-continue-protests-paris",
-      "published_date": "2026-11-07T15:02:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-      "published_date": "2026-11-07T14:44:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French news agency denounces police 'violence' against reporters at protests",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261107/french-news-agency-denounces-police-violence-against-reporters-at-protests",
-      "published_date": "2026-11-07T13:57:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria's plan for state police raises hopes for security and fears of abuse",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261107-nigeria-plan-for-state-police-raises-hopes-for-security-and-fears-of-abuse",
-      "published_date": "2026-11-07T13:57:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court rules against Home Office in asylum seeker kidnapping case",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-      "published_date": "2026-11-07T13:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French students and teachers call new strike for Tuesday",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261107/french-students-and-teachers-call-new-strike-for-tuesday",
-      "published_date": "2026-11-07T12:48:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stephen Miller named White House Chief of Staff",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
-      "published_date": "2026-11-07T12:14:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
-      "published_date": "2026-11-07T10:44:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI Data centres face growing backlash",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/ai-data-centres-face-growing-backlash",
-      "published_date": "2026-11-07T09:39:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yemen: 30 dead in strikes on Taiz market",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
-      "published_date": "2026-11-07T09:37:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pineapple on pizza is an insult to our great Italian cuisine – and here’s why we secretly love it  | Luca Cesari",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pineapple-pizza-italian-food-insult-chef-sacked",
-      "published_date": "2026-11-07T07:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATE: New mass protests in France as police seek to thwart banned rally",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261107/france-braces-for-protests-as-yellow-vests-urge-mass-disobedience",
-      "published_date": "2026-11-07T06:57:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
-      "published_date": "2026-11-06T20:51:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
-      "published_date": "2026-11-06T20:08:32+00:00",
       "category": "Local Events"
     }
   ]
