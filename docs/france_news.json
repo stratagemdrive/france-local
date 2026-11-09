@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-11-08T16:53:36.199920+00:00",
-  "story_count": 95,
+  "last_updated": "2026-11-09T02:19:48.619938+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+      "published_date": "2026-11-08T18:20:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gadi Eisenkot receives mandate to form government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
+      "published_date": "2026-11-08T16:58:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
       "source": "France 24",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "China keeps a close eye on US midterm shake-up",
+      "title": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20261106-china-keeps-a-close-eye-on-us-midterm-shake-up",
-      "published_date": "2026-11-06T15:03:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
+      "published_date": "2026-11-09T02:05:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "LATEST: Four new bomb threats on flights over France",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261106/latest-four-new-bomb-threats-on-flights-over-france",
-      "published_date": "2026-11-06T11:47:08+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/09/ukraine-war-briefing-post-war-security-guarantees-a-key-focus-in-upcoming-abu-dhabi-talks-says-rubio",
+      "published_date": "2026-11-09T01:44:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe",
+      "published_date": "2026-11-08T23:02:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government",
+      "published_date": "2026-11-08T21:10:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Bread shortage threatens to plunge more Sudanese into hunger",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Europe bomb hoaxes widen",
+      "title": "Ukraine: Russian strikes leave hundreds of thousands without power",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe-bomb-hoaxes-widen",
-      "published_date": "2026-11-06T21:22:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
-      "published_date": "2026-11-06T17:14:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe: What we know about the hoax bomb threats disrupting flights",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe-what-we-know-about-the-hoax-bomb-threats-disrupting-flights",
-      "published_date": "2026-11-06T16:59:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout",
-      "published_date": "2026-11-06T16:45:03+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
+      "published_date": "2026-11-08T16:59:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "Who’s who at Cop31: key players at the climate talks",
@@ -387,6 +394,13 @@
       "url": "https://www.france24.com/en/tv-shows/business/20261102-binance-users-withdraw-3-4-billion-after-record-crypto-heist",
       "published_date": "2026-11-02T10:18:55+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
+      "published_date": "2026-11-08T22:23:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
@@ -522,11 +536,39 @@
       "category": "Economy"
     },
     {
-      "title": "Trump after the midterms: Gridlock, impeachment and succession?",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-08T22:05:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261104-trump-after-the-midterms-gridlock-impeachment-and-succession",
-      "published_date": "2026-11-04T15:54:58+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say",
+      "published_date": "2026-11-08T20:40:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish tennis star Alcaraz defeats Shelton to claim Paris Masters title",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/sports/20261108-spanish-tennis-star-alcaraz-defeats-shelton-to-claim-paris-masters-title",
+      "published_date": "2026-11-08T18:13:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+      "published_date": "2026-11-08T16:50:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain's Alcaraz beats error-prone Shelton to win Paris Masters for first time",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/sport/20261108-spain-s-alcaraz-beats-error-prone-shelton-to-win-paris-masters-for-first-time",
+      "published_date": "2026-11-08T16:31:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Two police officers hailed as heroes for confronting Kraków gunman",
@@ -631,41 +673,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
       "published_date": "2026-11-07T19:58:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'I saw ambulances and armed police': BBC correspondent in Krakow",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwdd8191qz9jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-07T19:20:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moment police officer appears to shoot Krakow suspect",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cw78p2x38jlmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-07T19:12:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We must change everything': French far-left leader Mélenchon launches presidential programme",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
-      "published_date": "2026-11-07T17:30:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mbappé returns to France duty as Zidane drafts Pagis into Nations League squad",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20261107-mbapp%C3%A9-returns-to-france-duty-as-zidane-drafts-pagis-into-nations-league-squad",
-      "published_date": "2026-11-07T17:27:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
-      "published_date": "2026-11-07T15:26:49+00:00",
       "category": "Local Events"
     }
   ]
