@@ -1,8 +1,106 @@
 {
   "country": "France",
-  "last_updated": "2026-11-10T04:28:25.009665+00:00",
+  "last_updated": "2026-11-10T18:25:11.082451+00:00",
   "story_count": 97,
   "stories": [
+    {
+      "title": "Is it fair to give EU students discounted university fees in the UK? | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/nov/10/is-it-fair-to-give-eu-students-discounted-university-fees-in-the-uk",
+      "published_date": "2026-11-10T17:52:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+      "published_date": "2026-11-10T17:52:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+      "published_date": "2026-11-10T17:05:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7 talks in Paris try to tackle global crises with uncertainty high over US approach",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-g7-talks-in-paris-try-to-tackle-global-crises-with-uncertainty-high-over-us-approach",
+      "published_date": "2026-11-10T16:12:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Travel to France: How to check your EES 90-day allowance, and what to do if it's wrong",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261110/travel-to-france-how-to-check-your-ees-90-day-allowance-and-what-to-do-if-its-wrong",
+      "published_date": "2026-11-10T15:48:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PSNI to support gardaí amid huge security operation for EU meetings",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8vvll870o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T15:37:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PODCAST 🎧: How the surging far-left would change France and why so many new French WWII films?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261110/podcast-how-the-surging-far-left-would-change-france-and-why-so-many-new-french-wwii-films",
+      "published_date": "2026-11-10T14:42:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Whispers in the Woods review – paddling in the moonlight in tender study of human-animal interaction",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/nov/10/whispers-in-the-woods-review-paddling-in-the-moonlight-in-tender-study-of-human-animal-interaction",
+      "published_date": "2026-11-10T13:00:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Floods and drought: A report calls for greater cooperation between France and Switzerland",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261110/floods-and-drought-a-report-calls-for-greater-cooperation-between-france-and-switzerland",
+      "published_date": "2026-11-10T12:11:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France vows tough response to freezer cyberattack blamed on Iran",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
+      "published_date": "2026-11-10T10:51:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China's 'impossible to ignore' tech rise on display at Web Summit in Lisbon",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261110-china-s-impossible-to-ignore-tech-rise-on-display-at-web-summit-in-lisbon",
+      "published_date": "2026-11-10T10:22:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France vows tough response to freezer cyberattack blamed on Iran",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261110/france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
+      "published_date": "2026-11-10T08:07:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France vows sanctions for supermarket hacks as Iran rejects 'baseless accusations'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
+      "published_date": "2026-11-10T07:43:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macrons file new defamation lawsuit against US podcaster over transgender rumours",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261110-macrons-file-new-defamation-lawsuit-against-us-podcaster-over-transgender-rumours",
+      "published_date": "2026-11-10T04:33:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France blames Iran for cyberattack on supermarket fridges",
       "source": "France 24",
@@ -46,102 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Life in Gaza simply miserable': Amid flooding, lack of aid, conditions 'worsen' for Palestinians",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/life-in-gaza-simply-miserable-amid-flooding-lack-of-aid-conditions-worsen-for-palestinians",
-      "published_date": "2026-11-09T17:26:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Labour’s Brexit red lines ready for ‘dignified retirement’, says their co-author",
+      "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/09/labour-mp-brexit-red-lines-dignified-retirement",
-      "published_date": "2026-11-09T17:00:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations",
+      "published_date": "2026-11-10T17:26:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "I wrote Labour’s Brexit red lines. This is why it’s time to scrap them | Chris Ward",
+      "title": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/09/labour-brexit-red-lines-scrap-europe",
-      "published_date": "2026-11-09T17:00:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+      "published_date": "2026-11-10T16:59:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "France accuses Iran of hacking supermarket fridges",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot",
-      "published_date": "2026-11-09T16:42:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "COP31 climate summit: Can we electrify the world?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20261109-cop31-climate-summit-can-we-electrify-the-world",
-      "published_date": "2026-11-09T16:00:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian network used social media to blame French riots on immigration, EU report says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261109-russian-network-used-social-media-to-blame-french-riots-on-immigration-eu-report-says",
-      "published_date": "2026-11-09T15:38:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "COP31: A focus on electrification as extreme weather events shake the world",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261109-cop31-a-focus-on-electrification-as-extreme-weather-events-shake-the-world",
-      "published_date": "2026-11-09T13:35:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump is humiliated and angry – and Europe is where he’s free to lash out | Nathalie Tocci",
+      "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/09/donald-trump-humiliated-angry-europe",
-      "published_date": "2026-11-09T13:10:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
+      "published_date": "2026-11-10T16:44:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "G7 talks in Paris weigh impact of US midterms on Trump's foreign policy",
+      "title": "US Pentagon chief Pete Hegseth calls impeachment moves 'a farce'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-us-pentagon-chief-pete-hegseth-calls-impeachment-moves-a-farce",
+      "published_date": "2026-11-10T16:43:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who exactly is Pete Hegseth, the Pentagon chief facing an impeachment bid?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-who-exactly-is-pete-hegseth-the-pentagon-chief-facing-an-impeachment-bid",
+      "published_date": "2026-11-10T16:41:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "REPLAY: US Secretary of State Rubio holds press conference after G7 meeting",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-replay-us-secretary-of-state-rubio-holds-press-conference-after-g7-meeting",
+      "published_date": "2026-11-10T16:30:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "REPLAY: Pentagon chief Hegseth holds news briefing amid impeachment push",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-replay-pentagon-chief-hegseth-holds-news-briefing-amid-impeachment-push",
+      "published_date": "2026-11-10T16:23:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘It’s a farce’: Hegseth slams impeachment effort",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort",
+      "published_date": "2026-11-10T16:10:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The robot boom: Are businesses ready for an AI-powered workforce?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/business/20261110-the-robot-boom-are-businesses-ready-for-an-ai-powered-workforce",
+      "published_date": "2026-11-10T16:01:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pentagon chief Pete Hegseth calls move to impeach him 'sabotage'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
+      "published_date": "2026-11-10T13:32:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
+      "published_date": "2026-11-10T13:29:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
+      "published_date": "2026-11-10T11:45:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia and Ukraine hold US-backed talks after Trump says broad deal is possible",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible",
+      "published_date": "2026-11-10T10:40:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Live: First day of Ukraine-Russia talks 'constructive and quite substantive', Zelensky says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261110-live-ukraine-russia-and-us-to-resume-peace-talks-in-abu-dhabi",
+      "published_date": "2026-11-10T06:09:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine peace talks in Abu Dhabi to test Russia's willingness to negotiate",
       "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261109-g7-talks-in-paris-weigh-impact-of-us-midterms-on-trump-s-foreign-policy",
-      "published_date": "2026-11-09T10:41:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France publishes decree to cut carte de séjour application delays",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261109/france-publishes-decree-to-cut-carte-de-sejour-application-delays",
-      "published_date": "2026-11-09T09:23:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cop31 opens in Turkey as climate funding and fossil fuels divide nations",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20261109-cop31-opens-in-turkey-as-climate-funding-and-fossil-fuels-divide-nations-antalya",
-      "published_date": "2026-11-09T05:45:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
-      "published_date": "2026-11-08T18:20:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gadi Eisenkot receives mandate to form government",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
-      "published_date": "2026-11-08T16:58:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
-      "published_date": "2026-11-08T14:16:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rfi.fr/en/international/20261110-ukraine-peace-talks-in-abu-dhabi-to-test-russia-s-willingness-to-negotiate",
+      "published_date": "2026-11-10T05:44:05+00:00",
+      "category": "Military"
     },
     {
       "title": "The Ukrainians who made it out of their Russian-occupied city – podcast",
@@ -179,109 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US Defense Secretary Hegseth faces expected impeachment vote this week",
+      "title": "Seniors rock the stage: Greek theater seeks to show that 'art has no age'",
       "source": "France 24",
-      "url": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
-      "published_date": "2026-11-09T22:51:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nvidia: honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government",
-      "published_date": "2026-11-09T22:17:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nvidia: honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government",
-      "published_date": "2026-11-09T22:14:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK writer M. John Harrison wins Booker Prize for AI-tinged apocalyptic novel",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261109-uk-writer-m-john-harrison-wins-booker-prize-for-ai-tinged-apocalyptic-novel",
-      "published_date": "2026-11-09T22:09:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Africa’s ANC suffers a historic setback in local elections as coalition talks begin",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261109-south-africa-s-anc-suffers-a-historic-setback-in-local-elections-as-coalition-talks-begin",
-      "published_date": "2026-11-09T21:54:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
-      "published_date": "2026-11-09T21:46:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nvidia's Huang scandal rattles AI industry built around him",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/nvidia-s-huang-scandal-rattles-ai-industry-built-around-him",
-      "published_date": "2026-11-09T20:09:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Paris prosecutor opens probe into IRGC cyber unit Shahid Kaveh over fridge cyberattacks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/paris-prosecutor-opens-probe-into-irgc-cyber-unit-shahid-kaveh-over-fridge-cyberattacks",
-      "published_date": "2026-11-09T20:06:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Republican congressman launches impeachment bid against Pentagon chief Hegseth",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
-      "published_date": "2026-11-09T19:32:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nvidia shares tumble after spy probe announced",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261109-nvidia-shares-tumble-after-spy-probe-announced",
-      "published_date": "2026-11-09T16:47:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nvidia in turmoil as China denies spying claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261109-nvidia-in-turmoil-as-china-denies-spying-claims",
-      "published_date": "2026-11-09T16:42:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Such an extraordinary story': What we know so far about Nvidia spying claims",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261109-such-an-extraordinary-story-what-we-know-so-far-about-nvidia-spying-claims",
-      "published_date": "2026-11-09T15:54:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nvidia CEO probed over alleged China spy: Who exactly is Jensen Huang?",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261109-nvidia-ceo-probed-over-alleged-china-spy-who-exactly-is-jensen-huang",
-      "published_date": "2026-11-09T15:26:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
-      "published_date": "2026-11-09T14:17:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nuclear, minimum wage and citizenship: Jean-Luc Mélenchon's 2027 manifesto",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261109/nuclear-minimum-wage-and-citizenship-jean-luc-melenchons-2027-manifesto",
-      "published_date": "2026-11-09T11:38:21+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20261110-seniors-rock-the-stage-greek-theater-seeks-to-show-that-art-has-no-age",
+      "published_date": "2026-11-10T10:50:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Australia's Chris Bowen tells Cop31 the world can still limit global heating to 1.5C – video",
@@ -396,11 +403,11 @@
       "category": "Energy"
     },
     {
-      "title": "Californians vote on ballot initiative to impose one-time tax on billionaires",
+      "title": "California voters reject measure to tax the wealth of billionaires",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261103-californians-vote-on-ballot-initiative-to-impose-one-time-tax-on-billionaires",
-      "published_date": "2026-11-03T13:51:40+00:00",
-      "category": "Energy"
+      "url": "https://www.france24.com/en/video/20261110-california-voters-reject-measure-to-tax-the-wealth-of-billionaires",
+      "published_date": "2026-11-10T11:20:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "California voters reject proposed one-time tax on billionaires' wealth",
@@ -536,11 +543,95 @@
       "category": "Economy"
     },
     {
-      "title": "Global travel sector grows despite headwinds",
+      "title": "French police search Ritz, glitzy Al Fayed properties in women-trafficking probe",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20261105-global-travel-sector-grows-despite-headwinds",
-      "published_date": "2026-11-05T15:43:09+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20261110-french-police-search-ritz-glitzy-al-fayed-properties-in-women-trafficking-probe",
+      "published_date": "2026-11-10T17:37:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T17:00:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French students vow to keep up protest pressure for better learning conditions",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-french-students-vow-to-keep-up-protest-pressure-for-better-learning-conditions",
+      "published_date": "2026-11-10T16:40:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French far right on track to secure €10 million loan for Le Pen's presidential campaign",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261110-french-far-right-close-to-secyre-%E2%82%AC10-million-loan-to-fund-le-pen-presidential-campaign",
+      "published_date": "2026-11-10T16:30:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T16:19:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TELL US: What is your experience with racism in France?",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261110/tell-us-what-is-you-experience-with-racism-in-france",
+      "published_date": "2026-11-10T15:49:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris department store BHV forced to close doors",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261110/paris-department-store-bhv-forced-to-close-doors",
+      "published_date": "2026-11-10T14:53:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ritz among Paris landmarks searched in Al-Fayed trafficking probe",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261110/ritz-among-paris-landmarks-searched-in-al-fayed-trafficking-probe",
+      "published_date": "2026-11-10T14:47:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French students block dozens of schools, vow more protests",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-french-students-block-dozens-of-schools-vow-more-protests",
+      "published_date": "2026-11-10T13:29:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Viktor Orbán’s brother detained in people-smuggling investigation, Hungarian PM says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says",
+      "published_date": "2026-11-10T11:50:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T11:25:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France’s response to protests is making Islamophobia worse. But ministers won’t even utter the word | Kamélia Ouaissa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/10/france-protests-response-islamophobia-far-right-hate-speech",
+      "published_date": "2026-11-10T11:22:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French student protests continue amid deadlock over education reforms",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/france/20261110-french-student-protests-continue-amid-deadlock-over-education-reforms",
+      "published_date": "2026-11-10T06:59:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French Judo superstar Teddy Riner says will run for president",
@@ -571,6 +662,13 @@
       "category": "Local Events"
     },
     {
+      "title": "South Africa's ANC records worst-ever result in 'catastrophic' local election",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/africa/20261109-south-africa-s-anc-slumps-to-worst-ever-election-result",
+      "published_date": "2026-11-09T15:45:40+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "French police officers on trial over beating of black man they accused of not wearing Covid mask",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid",
@@ -582,104 +680,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261109-shock-and-grief-in-poland-after-weekend-mass-shooting",
       "published_date": "2026-11-09T15:31:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dortmund police attacked as crowd storms kebab shop for €1 doner",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/09/german-police-attacked-crowd-storms-dortmund-kebab-shop-for-one-euro-doner",
-      "published_date": "2026-11-09T15:23:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'I still have nightmares': victim of police violence seeks justice six years on",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261109-i-still-have-nightmares-victim-of-police-violence-seeks-justice-six-years-on-michel-zecler",
-      "published_date": "2026-11-09T14:29:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Olympic judo champion Riner joins fight for French presidency",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261109/olympic-judo-champion-riner-joins-fight-for-french-presidency",
-      "published_date": "2026-11-09T13:51:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mélenchon bets on radical change as French presidential race takes shape",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261109-m%C3%A9lenchon-bets-on-radical-change-as-french-presidential-race-takes-shape",
-      "published_date": "2026-11-09T13:01:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-09T11:56:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French policemen go on trial over 2020 beating of Black music producer",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261109-french-policemen-go-on-trial-over-2020-beating-of-black-music-producer",
-      "published_date": "2026-11-09T11:38:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MAP: Route for Paris protest on November 10th",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261109/map-route-for-paris-demo-on-november-10th",
-      "published_date": "2026-11-09T11:16:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French students and teachers call fresh strikes and protests on November 10th",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261109/french-students-and-teachers-call-fresh-strikes-and-protests-on-november-10th",
-      "published_date": "2026-11-09T11:13:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poland begins 2 days of national mourning after gunman kills 6",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261109-poland-begins-2-days-of-national-mourning-after-gunman-kills-6",
-      "published_date": "2026-11-09T10:37:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris police officers go on trial over 2020 beating of Black man",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261109-paris-police-officers-go-on-trial-over-2020-beating-of-black-man",
-      "published_date": "2026-11-09T10:08:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-08T23:34:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-08T22:05:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say",
-      "published_date": "2026-11-08T20:40:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish tennis star Alcaraz defeats Shelton to claim Paris Masters title",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/sports/20261108-spanish-tennis-star-alcaraz-defeats-shelton-to-claim-paris-masters-title",
-      "published_date": "2026-11-08T18:13:58+00:00",
       "category": "Local Events"
     }
   ]
