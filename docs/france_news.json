@@ -1,8 +1,15 @@
 {
   "country": "France",
-  "last_updated": "2026-11-09T21:15:26.701398+00:00",
-  "story_count": 96,
+  "last_updated": "2026-11-10T04:28:25.009665+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "France blames Iran for cyberattack on supermarket fridges",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
+      "published_date": "2026-11-09T22:33:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cyber-attack on French supermarket freezers has geopolitical context",
       "source": "The Guardian",
@@ -137,11 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Unions vow to keep pressure on French government after fourth wave of protests",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261108-unions-vow-to-keep-pressure-on-french-government-after-fourth-wave-of-protests",
-      "published_date": "2026-11-08T11:00:57+00:00",
-      "category": "Diplomacy"
+      "title": "The Ukrainians who made it out of their Russian-occupied city – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/audio/2026/nov/10/the-ukrainians-who-made-it-out-of-their-russian-occupied-city-podcast",
+      "published_date": "2026-11-10T03:00:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Amnesty urges El Salvador to disclose terms of Haiti troop deployment",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment",
+      "published_date": "2026-11-10T02:24:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/10/ukraine-war-briefing-battlefield-gains-bolstering-kyivs-hand-in-us-led-peace-talks-zelenskyy-says",
+      "published_date": "2026-11-10T01:51:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nvidia shares slide as board probes CEO over affair with alleged Chinese spy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261110-nvidia-shares-slide-as-board-probes-ceo-over-affair-with-alleged-chinese-spy",
+      "published_date": "2026-11-10T00:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T00:09:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Defense Secretary Hegseth faces expected impeachment vote this week",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
+      "published_date": "2026-11-09T22:51:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nvidia: honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government",
+      "published_date": "2026-11-09T22:17:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nvidia: honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government",
+      "published_date": "2026-11-09T22:14:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK writer M. John Harrison wins Booker Prize for AI-tinged apocalyptic novel",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261109-uk-writer-m-john-harrison-wins-booker-prize-for-ai-tinged-apocalyptic-novel",
+      "published_date": "2026-11-09T22:09:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "South Africa’s ANC suffers a historic setback in local elections as coalition talks begin",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261109-south-africa-s-anc-suffers-a-historic-setback-in-local-elections-as-coalition-talks-begin",
+      "published_date": "2026-11-09T21:54:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
+      "published_date": "2026-11-09T21:46:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Nvidia's Huang scandal rattles AI industry built around him",
@@ -207,81 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "European troops in Poland: 'Coalition of the Willing' holds military exercises",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261109-european-troops-in-poland-coalition-of-the-willing-holds-military-exercises",
-      "published_date": "2026-11-09T09:53:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'We call it war-life balance': Daryna's daily struggle to live, survive in wartime Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261109-we-call-it-war-life-balance-daryna-s-daily-struggle-to-live-survive-in-wartime-ukraine",
-      "published_date": "2026-11-09T09:10:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
-      "published_date": "2026-11-09T02:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
+      "title": "Australia's Chris Bowen tells Cop31 the world can still limit global heating to 1.5C – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/09/ukraine-war-briefing-post-war-security-guarantees-a-key-focus-in-upcoming-abu-dhabi-talks-says-rubio",
-      "published_date": "2026-11-09T01:44:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe",
-      "published_date": "2026-11-08T23:02:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government",
-      "published_date": "2026-11-08T21:10:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bread shortage threatens to plunge more Sudanese into hunger",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261108-bread-shortage-threatens-to-plunge-more-sudanese-into-hunger",
-      "published_date": "2026-11-08T15:53:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ex-army chief Eisenkot given first chance to form government in Israel",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/international/20261108-ex-army-chief-eisenkot-given-first-chance-to-form-government-in-israel",
-      "published_date": "2026-11-08T12:45:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261108-paraguay-senate-impeached-pe%C3%B1a-rather-than-accept-his-offer-to-resign",
-      "published_date": "2026-11-08T10:42:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East live: Israeli president officially tasks Eisenkot with forming government",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
-      "published_date": "2026-11-08T09:47:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France probes if bomb threats against airlines linked to 'foreign powers'",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261108/france-probes-if-bomb-threats-against-airlines-linked-to-foreign-powers",
-      "published_date": "2026-11-08T09:06:41+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/video/2026/nov/10/australias-chris-bowen-tells-cop31-the-world-can-still-limit-global-heating-to-15c-video",
+      "published_date": "2026-11-10T02:23:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
@@ -394,6 +401,13 @@
       "url": "https://www.france24.com/en/tv-shows/business/20261103-californians-vote-on-ballot-initiative-to-impose-one-time-tax-on-billionaires",
       "published_date": "2026-11-03T13:51:40+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "California voters reject proposed one-time tax on billionaires' wealth",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261110-california-voters-reject-proposed-one-time-tax-on-billionaires-wealth",
+      "published_date": "2026-11-10T03:19:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "Broken system? French protesters rage against austerity",
@@ -529,11 +543,11 @@
       "category": "Economy"
     },
     {
-      "title": "'Identity crisis': Can Democrats 'deliver' following their 'historic', once in a generation victory?",
+      "title": "French Judo superstar Teddy Riner says will run for president",
       "source": "France 24",
-      "url": "https://www.france24.com/en/identity-crisis-can-democrats-deliver-following-their-historic-once-in-a-generation-victory",
-      "published_date": "2026-11-05T15:27:11+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/french-judo-superstar-teddy-riner-says-will-run-for-president",
+      "published_date": "2026-11-09T21:14:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Olympic judo champion Teddy Riner joins race for French presidency",
@@ -666,13 +680,6 @@
       "source": "RFI English",
       "url": "https://www.rfi.fr/en/sports/20261108-spanish-tennis-star-alcaraz-defeats-shelton-to-claim-paris-masters-title",
       "published_date": "2026-11-08T18:13:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
-      "published_date": "2026-11-08T16:50:58+00:00",
       "category": "Local Events"
     }
   ]
