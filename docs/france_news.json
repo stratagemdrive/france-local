@@ -1,8 +1,85 @@
 {
   "country": "France",
-  "last_updated": "2026-11-12T03:33:29.265580+00:00",
-  "story_count": 97,
+  "last_updated": "2026-11-12T18:39:50.246846+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-12T18:28:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Finland bars Russian athletes from entering country over Ukraine war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+      "published_date": "2026-11-12T17:23:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+      "published_date": "2026-11-12T17:17:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
+      "published_date": "2026-11-12T16:30:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ICRC 'currently classifying the highest number of armed conflicts since the Second World War'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261112-icrc-we-are-currently-classifying-the-highest-number-of-armed-conflicts-since-the-second-world-war",
+      "published_date": "2026-11-12T14:23:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Huang powers and bankrolls AI revolution: Nvidia CEO caught between 'a rock and a very hard place'",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261112-he-powers-and-bankrolls-ai-revolution-nvidia-ceo-huang-caught-between-rock-and-a-very-hard-place-1",
+      "published_date": "2026-11-12T14:11:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Travellers accused of overstaying EU's 90-day rule after being caught in EES chaos",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261112/travellers-accused-of-overstaying-eus-90-day-rule-after-being-caught-up-in-ees-chaos",
+      "published_date": "2026-11-12T12:02:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France's Macron to pay state visit to Cambodia during Francophonie summit",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261112-france-s-macron-to-pay-state-visit-to-cambodia-during-francophonie-summit",
+      "published_date": "2026-11-12T11:32:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "70 new 'medical buses' to be deployed in rural France",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261112/70-new-medical-buses-to-be-deployed-in-rural-france",
+      "published_date": "2026-11-12T09:32:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why did a day off for Finland's embassy in Australia go viral?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckedq17174v3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-12T07:12:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "African push to triple climate adaptation finance left off Cop31 agenda",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20261112-africa-s-push-to-triple-adaptation-finance-left-off-official-cop31-agenda",
+      "published_date": "2026-11-12T06:23:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France turns back Israeli settler representative upon arrival in Paris",
       "source": "France 24",
@@ -67,81 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron rallies world leaders behind charter to protect children from AI risks",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/science-and-technology/20261111-macron-rallies-world-leaders-behind-charter-to-protect-children-from-ai-risks",
-      "published_date": "2026-11-11T09:46:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Emmanuel and Brigitte Macron file new lawsuit in US against right-wing influencer",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261111-emmanuel-and-brigitte-macron-file-new-lawsuit-in-us-against-right-wing-influencer",
-      "published_date": "2026-11-11T08:59:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "World leaders begin talks at Cop31 climate conference but big names missing",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/environment/20261111-world-leaders-begin-talks-at-cop31-climate-conference-but-big-names-missing",
-      "published_date": "2026-11-11T08:12:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump could be about to sell out Ukraine. Europe must get its act together, fast | Paul Taylor",
+      "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-sell-out-ukraine-europe-leaders",
-      "published_date": "2026-11-11T05:00:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+      "published_date": "2026-11-12T17:26:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-war-briefing-zelenskyy-says-putin-lives-in-a-different-reality-as-abu-dhabi-talks-get-under-way",
-      "published_date": "2026-11-11T01:08:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
+      "title": "Russia's Vladimir Putin suggests no Ukraine compromise in meeting with US envoys",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine",
-      "published_date": "2026-11-10T21:57:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys",
+      "published_date": "2026-11-12T16:46:14+00:00",
+      "category": "Military"
     },
     {
-      "title": "What the hack? Europeans face growing psyops and cyberattacks",
+      "title": "Mississippi elects Democrat Scott Colom as first black senator since 19th century",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261112-mississippi-elects-democrat-scott-colom-as-first-black-senator-since-19th-century",
+      "published_date": "2026-11-12T16:34:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Goats are good. They listen’: the herder who defeated Montenegro’s military – and can identify her cows’ herby burps",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/nov/12/to-hold-a-mountain-film-mileva-gara-jovanovic",
+      "published_date": "2026-11-12T16:14:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Defence Secretary Pete Hegseth reprimanded at war memorial",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261110-what-the-hack-europeans-face-growing-psyops-and-cyberattacks",
-      "published_date": "2026-11-10T20:19:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/us-defense-secretary-pete-hegseth-reprimanded-at-war-memorial",
+      "published_date": "2026-11-12T15:51:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Is it fair to give EU students discounted university fees in the UK? | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/nov/10/is-it-fair-to-give-eu-students-discounted-university-fees-in-the-uk",
-      "published_date": "2026-11-10T17:52:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-      "published_date": "2026-11-10T17:52:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-      "published_date": "2026-11-10T17:05:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "G7 talks in Paris try to tackle global crises with uncertainty high over US approach",
+      "title": "Nvidia CEO Jensen Huang steps down",
       "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261110-g7-talks-in-paris-try-to-tackle-global-crises-with-uncertainty-high-over-us-approach",
-      "published_date": "2026-11-10T16:12:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/video/20261112-nvidia-ceo-jensen-huang-steps-down",
+      "published_date": "2026-11-12T15:45:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "European security and Ukraine talks top agenda at Dublin summit",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261112-european-security-and-ukraine-talks-top-agenda-at-dublin-summit",
+      "published_date": "2026-11-12T15:44:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France reports school hoax bomb threats",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261112/france-reports-school-hoax-bomb-threats",
+      "published_date": "2026-11-12T15:18:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "ICRC 'currently classifying the highest number of armed conflicts since the Second World War",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261112-icrc-we-are-currently-classifying-the-highest-number-of-armed-conflicts-since-the-second-world-war",
+      "published_date": "2026-11-12T14:33:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France's social safety net: Can it afford to be so generous?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/french-connections/20261112-france-s-social-safety-net-can-it-afford-to-be-so-generous",
+      "published_date": "2026-11-12T14:28:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump won't save Ukraine. But Marine Le Pen's betrayal could be worse | Mujtaba Rahman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/12/donald-trump-ukraine-marine-le-pen-europe-france",
+      "published_date": "2026-11-12T13:22:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-12T12:39:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "European leaders gather in Dublin to discuss Ukraine's security, and their own",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own",
+      "published_date": "2026-11-12T11:19:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands of schools evacuated in Italy as bomb threats spread across Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261112-thousands-of-schools-evacuated-in-italy-as-bomb-threats-spread-across-europe",
+      "published_date": "2026-11-12T11:08:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New restrictions to Starshield network 'kill more Ukrainians', Zelensky says",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261112-new-systematic-restrictions-starshield-network-kill-more-ukrainians-zelensky-says",
+      "published_date": "2026-11-12T10:06:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-12T07:59:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia's 'hidden mobilization': The 'expendable' lives fueling Putin's war on Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine",
+      "published_date": "2026-11-12T07:39:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Live: US envoys to meet Putin and Zelensky after Abu Dhabi talks",
@@ -165,123 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Russia and Ukraine agree to major prisoner swap as peace talks end",
+      "title": "Can the fight against climate change be good for business?",
       "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
-      "published_date": "2026-11-11T21:46:12+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/tv-shows/people-profit/20261112-can-the-fight-against-climate-change-be-good-for-business",
+      "published_date": "2026-11-12T13:59:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal",
+      "title": "COP31: Climate disruption puts farmers and global food supplies under pressure",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261111-undone-by-a-honey-trap-nvidia-s-jensen-huang-at-heart-of-china-spy-scandal",
-      "published_date": "2026-11-11T19:32:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Schools evacuated across Italy after bomb threats",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/schools-evacuated-across-italy-after-bomb-threats",
-      "published_date": "2026-11-11T19:29:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nvidia's Jensen Huang at heart of China spy scandal",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261111-nvidia-s-jensen-huang-at-heart-of-china-spy-scandal",
-      "published_date": "2026-11-11T19:23:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-11T18:04:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
-      "published_date": "2026-11-11T17:03:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US envoys to meet Putin and Zelenskyy separately - as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-      "published_date": "2026-11-11T16:08:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Is the US blue wave a turning point for Europe, too?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
-      "published_date": "2026-11-11T15:40:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-11T12:30:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US House votes to derail impeachment of Defense Secretary Hegseth",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/us-house-votes-to-derail-impeachment-of-defense-secretary-hegseth",
-      "published_date": "2026-11-11T12:17:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British and French culinary rivalry heats up in Paris – archive, 1976",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/food/2026/nov/11/british-french-chefs-culinary-rivalry-heats-up-in-paris-1976",
-      "published_date": "2026-11-11T12:00:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eisenkot quickly targets Netanyahu's legacy in new Israeli parliament",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/eisenkot-quickly-targets-netanyahu-s-legacy-in-new-israeli-parliament",
-      "published_date": "2026-11-11T11:29:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wave of hoax bomb threats sent to schools in UK, Ireland and Italy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats",
-      "published_date": "2026-11-11T10:57:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia, Ukraine start second day of US-led talks: Kyiv lead negotiator",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-ukraine-start-second-day-of-us-led-talks-kyiv-lead-negotiator",
-      "published_date": "2026-11-11T10:42:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK authorities arrest US soldier suspected of spying for Russia",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/uk-authorities-arrests-us-soldier-suspected-of-spying-for-russia",
-      "published_date": "2026-11-11T09:41:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Teachers divided over compulsory 11 November ceremonies at schools",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261111-teachers-divided-over-compulsory-11-november-ceremonies-at-schools",
-      "published_date": "2026-11-11T06:05:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: Ukraine’s Zelensky arrives in Dublin to meet with European leaders and US envoys",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi",
-      "published_date": "2026-11-11T03:22:45+00:00",
-      "category": "Military"
+      "url": "https://www.france24.com/en/video/20261112-cop31-climate-disruption-puts-farmers-and-global-food-supplies-under-pressure",
+      "published_date": "2026-11-12T11:04:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
@@ -403,6 +417,41 @@
       "category": "Energy"
     },
     {
+      "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+      "published_date": "2026-11-12T17:58:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Concentration of power & wealth: Do tech CEOs have more authority, influence than elected officials?",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261112-concentration-of-power-wealth-do-tech-ceos-have-more-authority-influence-than-elected-officials",
+      "published_date": "2026-11-12T16:49:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Australia: Teen found alive after six days missing in bush",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261112-australia-teen-found-alive-after-six-days-missing-in-bush",
+      "published_date": "2026-11-12T15:17:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poundland owner secures two extra weeks to ensure retail chain’s survival",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/12/poundland-owner-secures-two-extra-weeks-ensure-retail-chains-survival",
+      "published_date": "2026-11-12T13:46:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "OPINION: France's failing centre is to blame for popularity of Mélenchon's fantasy economics",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261112/opinion-failing-centre-is-to-blame-for-popularity-of-melenchons-fantasy-economics",
+      "published_date": "2026-11-12T08:01:29+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Chancellor confident budget will lead to growth despite OBR not finding evidence to prove it – as it happened",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
@@ -508,39 +557,60 @@
       "category": "Economy"
     },
     {
-      "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
+      "title": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
-      "published_date": "2026-11-07T13:29:28+00:00",
-      "category": "Economy"
+      "url": "https://www.france24.com/en/france/20261112-labelled-terrorists-france-authorities-used-anti-terrorism-powers-to-deter-protests",
+      "published_date": "2026-11-12T17:32:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "France braces for second day of protests within 48 hours",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261107-france-braces-for-second-day-of-protests-within-48-hours",
-      "published_date": "2026-11-07T12:10:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "USA: Democrats vow to investigate Donald Trump",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/usa-democrats-vow-to-investigate-donald-trump",
-      "published_date": "2026-11-07T09:36:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Live: Calm prevails as new mass cost-of-living demonstrations take off across France",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
-      "published_date": "2026-11-07T08:17:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Like the Danes, we need to pay for the society we want | Letters",
+      "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/nov/06/like-the-danes-we-need-to-pay-for-the-society-we-want",
-      "published_date": "2026-11-06T16:37:15+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
+      "published_date": "2026-11-12T16:39:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
+      "published_date": "2026-11-12T16:18:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least five people shot in DC neighbourhood near the White House",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
+      "published_date": "2026-11-12T16:01:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armed robbers flee Paris De Beers store on motorcycles after jewellery heist",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261112-armed-robbers-flee-paris-de-beers-store-on-motorcycles-after-jewellery-heist",
+      "published_date": "2026-11-12T14:42:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France: Five men on trial for murder of anti-drug activist Amine Kessaci's brother",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261112-france-five-men-on-trial-for-murder-of-anti-drug-activist-amine-kessaci-s-brother",
+      "published_date": "2026-11-12T14:20:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Like priests who don’t believe in God’: Italy’s anti-vax medics eye return to frontline duty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/12/italy-anti-vax-medics-return-vote-meloni",
+      "published_date": "2026-11-12T10:20:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National stadium to host France match on Paris attack anniversary",
+      "source": "The Local France",
+      "url": "https://www.thelocal.fr/20261112/national-stadium-to-host-france-match-on-paris-attack-anniversary",
+      "published_date": "2026-11-12T08:13:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pope Leo XIV returns to second homeland Peru to a nationwide welcome",
@@ -624,62 +694,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/brazil-electoral-court-fines-meta-1-3-mn-sees-no-deliberate-election-bias",
       "published_date": "2026-11-11T16:08:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia bans two French lawmakers and two journalists from entry",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261111-russia-bans-two-french-lawmakers-and-two-journalists-from-entry",
-      "published_date": "2026-11-11T15:58:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain: General strike over housing costs before national election",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/spain-general-strike-over-housing-costs-before-national-election",
-      "published_date": "2026-11-11T15:54:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Millions join Spain’s first general strike in 14 years in protest at rising housing costs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
-      "published_date": "2026-11-11T13:54:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zemmour joins 2027 French presidential race vowing to expel unemployed foreigners",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/france/20261111-zemmour-joins-2027-race-vowing-to-expel-jobless-foreigners",
-      "published_date": "2026-11-11T12:55:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNICEF head Catherine Russell: 'We're all committed to the importance of children'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20261111-unicef-head-catherine-russell-we-re-all-committed-to-the-importance-of-children",
-      "published_date": "2026-11-11T12:49:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belgian plan for ICE-style immigration raids on homes criticised as ‘law of fear’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/belgium-ice-style-home-raids-immigration",
-      "published_date": "2026-11-11T12:13:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cameroon sets February date for long-delayed parliamentary and local elections",
-      "source": "RFI English",
-      "url": "https://www.rfi.fr/en/africa/20261111-cameroon-sets-february-date-for-long-delayed-parliamentary-and-local-elections",
-      "published_date": "2026-11-11T10:48:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French writer Houellebecq probed over comments on Muslims",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261111/french-writer-houellebecq-probed-over-comments-on-muslims",
-      "published_date": "2026-11-11T10:41:46+00:00",
       "category": "Local Events"
     }
   ]
