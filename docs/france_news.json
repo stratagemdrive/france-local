@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-11-11T18:18:00.474294+00:00",
-  "story_count": 96,
+  "last_updated": "2026-11-12T03:33:29.265580+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "France turns back Israeli settler representative upon arrival in Paris",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261111-france-turns-back-israeli-settler-representative-upon-arrival-in-paris",
+      "published_date": "2026-11-11T20:58:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "RSF calls for release of French reporter Christophe Gleizes, detained in Algeria",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/rsf-calls-for-release-of-french-reporter-christophe-gleizes-detained-in-algeria",
+      "published_date": "2026-11-11T20:44:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "COP31 talks in Turkey: Leaders from US, China and India skip summit",
       "source": "France 24",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Travel to France: How to check your EES 90-day allowance, and what to do if it's wrong",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261110/travel-to-france-how-to-check-your-ees-90-day-allowance-and-what-to-do-if-its-wrong",
-      "published_date": "2026-11-10T15:48:44+00:00",
-      "category": "Diplomacy"
+      "title": "Live: US envoys to meet Putin and Zelensky after Abu Dhabi talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
+      "published_date": "2026-11-12T02:31:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "PSNI to support gardaí amid huge security operation for EU meetings",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8vvll870o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-10T15:37:28+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Zelenskyy sees ‘window of opportunity’ for peace as US envoys to meet Putin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/12/ukraine-war-briefing-zelenskyy-sees-window-of-opportunity-for-peace-as-us-envoys-to-meet-putin",
+      "published_date": "2026-11-12T01:58:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "European leaders gather in Dublin under the shadow of hybrid threats",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/european-leaders-gather-in-dublin-under-the-shadow-of-hybrid-threats",
+      "published_date": "2026-11-11T22:46:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia and Ukraine agree to major prisoner swap as peace talks end",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
+      "published_date": "2026-11-11T21:46:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261111-undone-by-a-honey-trap-nvidia-s-jensen-huang-at-heart-of-china-spy-scandal",
+      "published_date": "2026-11-11T19:32:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Schools evacuated across Italy after bomb threats",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/schools-evacuated-across-italy-after-bomb-threats",
+      "published_date": "2026-11-11T19:29:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nvidia's Jensen Huang at heart of China spy scandal",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261111-nvidia-s-jensen-huang-at-heart-of-china-spy-scandal",
+      "published_date": "2026-11-11T19:23:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Haiti PM praises Bukele after Salvadoran troops help destroy gang headquarters",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261111-haiti-pm-bukele-salvadoran-troops-gang-headquarters",
-      "published_date": "2026-11-11T01:41:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US charges three 'Iranian operatives' over RAF Fairford terror plot",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
-      "published_date": "2026-11-10T22:26:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Central role in ecosystem: If something happens to Nvidia, it's going to be a catastrophe'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe",
-      "published_date": "2026-11-10T21:40:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anthropic eyes $1.4 trillion valuation in blockbuster IPO",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261110-anthropic-eyes-1-4-trillion-valuation-in-blockbuster-ipo",
-      "published_date": "2026-11-10T21:39:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Asymmetric cyberwarfare: 'States increasingly use cyberattacks in support of their other objectives'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/asymmetric-cyberwarfare-states-increasingly-use-cyberattacks-in-support-of-their-other-objectives",
-      "published_date": "2026-11-10T21:25:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-10T21:21:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US soldier arrested in Britain on suspicion of assisting Russian intelligence",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence",
-      "published_date": "2026-11-10T20:23:04+00:00",
-      "category": "Military"
+      "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
+      "published_date": "2026-11-11T18:52:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Nissan reduces petrol car production as EV sales boom in China",
@@ -536,6 +543,48 @@
       "category": "Economy"
     },
     {
+      "title": "Pope Leo XIV returns to second homeland Peru to a nationwide welcome",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20261111-pope-leo-xiv-returns-to-second-homeland-peru-to-a-nationwide-welcome",
+      "published_date": "2026-11-11T23:43:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police clash with protesters during Spain's general strike – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/nov/11/police-clash-with-protesters-during-spains-general-strike-video",
+      "published_date": "2026-11-11T22:06:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General strike over housing brings out hundreds of thousands in Spain",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/general-strike-over-housing-brings-out-hundreds-of-thousands-in-spain",
+      "published_date": "2026-11-11T21:31:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rare Marilyn Monroe photos from her final shoot to be auctioned",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/rare-marilyn-monroe-photos-from-her-final-shoot-to-be-auctioned",
+      "published_date": "2026-11-11T21:05:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General strike over housing brings out tens of thousands in Spain",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/general-strike-over-housing-brings-out-tens-of-thousands-in-spain",
+      "published_date": "2026-11-11T19:37:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tens of thousands attend Polish nationalist march days after shootings",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings-1",
+      "published_date": "2026-11-11T19:31:16+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Spain sees widespread disruption in first general strike for 14 years",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
@@ -631,48 +680,6 @@
       "source": "The Local France",
       "url": "https://www.thelocal.fr/20261111/french-writer-houellebecq-probed-over-comments-on-muslims",
       "published_date": "2026-11-11T10:41:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain's first general strike in 14 years, 3 weeks before national polls",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/spain-s-first-general-strike-in-14-years-3-weeks-before-national-polls",
-      "published_date": "2026-11-11T10:30:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain’s general strike puts housing crisis at centre of upcoming elections",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261111-spain-general-strike-puts-housing-crisis-centre-upcoming-elections",
-      "published_date": "2026-11-11T08:29:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French far-right politician Zemmour joins presidential race",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261111/french-far-right-politician-zemmour-joins-presidential-race",
-      "published_date": "2026-11-11T08:07:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Egyptian journalist Lina Attalah faces prison as trial sparks international outcry",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261111-lina-attalah-egypt-trial-prison",
-      "published_date": "2026-11-11T01:53:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boat capsized off Senegal's northwest coast leaving 39 dead",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261111-boat-capsized-off-senegal-s-northwest-coast-leaving-39-dead",
-      "published_date": "2026-11-11T01:50:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
-      "published_date": "2026-11-11T01:18:56+00:00",
       "category": "Local Events"
     }
   ]
