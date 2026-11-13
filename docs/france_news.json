@@ -1,8 +1,29 @@
 {
   "country": "France",
-  "last_updated": "2026-11-12T18:39:50.246846+00:00",
+  "last_updated": "2026-11-13T03:06:23.339723+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
+      "published_date": "2026-11-12T22:01:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "German chemical sector enraged by Merz's backing of EU carbon scheme",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/environment/20261112-german-chemical-sector-enraged-by-merz-s-backing-of-eu-carbon-scheme",
+      "published_date": "2026-11-12T20:13:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelensky warns Europe over US-Russia talks on broader security arrangements",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements",
+      "published_date": "2026-11-12T19:53:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
       "source": "BBC News",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "France marks Armistice Day : Macron attends commemorative ceremony",
+      "title": "Live: Zelensky and Kushner confirm that Europe will join next round of Russia-Ukraine talks",
       "source": "France 24",
-      "url": "https://www.france24.com/en/france-marks-armistice-day-macron-attends-commemorative-ceremony",
-      "published_date": "2026-11-11T11:36:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks",
+      "published_date": "2026-11-13T01:39:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU ready for 'united response' after France blames Iran for fridge hacks",
+      "title": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/eu-ready-for-united-response-after-france-blames-iran-for-fridge-hacks",
-      "published_date": "2026-11-11T11:16:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20261112-russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says",
+      "published_date": "2026-11-12T22:19:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Second day of Web Summit cancelled as Storm Charles puts Portugal on high alert",
+      "title": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
       "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261111-second-day-of-web-summit-cancelled-as-storm-charles-puts-portugal-on-high-alert",
-      "published_date": "2026-11-11T10:37:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.france24.com/en/russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says",
+      "published_date": "2026-11-12T22:12:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pork fat, a heating pad and a five-storey jump: how a 74-year-old escaped house arrest in Argentina",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/12/leonardo-bertulazzi-escape-argentina",
+      "published_date": "2026-11-12T19:52:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
@@ -253,34 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-12T07:59:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's 'hidden mobilization': The 'expendable' lives fueling Putin's war on Ukraine",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine",
-      "published_date": "2026-11-12T07:39:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: US envoys to meet Putin and Zelensky after Abu Dhabi talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
-      "published_date": "2026-11-12T02:31:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy sees ‘window of opportunity’ for peace as US envoys to meet Putin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/12/ukraine-war-briefing-zelenskyy-sees-window-of-opportunity-for-peace-as-us-envoys-to-meet-putin",
-      "published_date": "2026-11-12T01:58:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European leaders gather in Dublin under the shadow of hybrid threats",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/european-leaders-gather-in-dublin-under-the-shadow-of-hybrid-threats",
-      "published_date": "2026-11-11T22:46:57+00:00",
       "category": "Military"
     },
     {
@@ -557,6 +557,13 @@
       "category": "Economy"
     },
     {
+      "title": "Mauritania fishing boats falsely portrayed as migrant fleet bound for Spain",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261112-mauritania-fishing-boats-falsely-portrayed-as-migrant-fleet-bound-for-spain",
+      "published_date": "2026-11-12T21:56:26+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20261112-labelled-terrorists-france-authorities-used-anti-terrorism-powers-to-deter-protests",
@@ -687,13 +694,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/violent-incidents-in-schools-as-french-students-vow-to-maintain-protest-pressure",
       "published_date": "2026-11-11T16:35:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil electoral court fines Meta $1.3 MN, sees no deliberate election bias",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/brazil-electoral-court-fines-meta-1-3-mn-sees-no-deliberate-election-bias",
-      "published_date": "2026-11-11T16:08:22+00:00",
       "category": "Local Events"
     }
   ]
