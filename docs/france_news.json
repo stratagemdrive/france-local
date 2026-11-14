@@ -1,8 +1,22 @@
 {
   "country": "France",
-  "last_updated": "2026-11-13T18:20:21.268247+00:00",
-  "story_count": 99,
+  "last_updated": "2026-11-14T02:53:11.113277+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "France among five major powers to represent EU in Ukraine talks",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks",
+      "published_date": "2026-11-13T21:38:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU vows to defend climate science as Cop31 talks expose global divisions",
+      "source": "RFI English",
+      "url": "https://www.rfi.fr/en/international/20261113-eu-vows-to-defend-climate-science-as-cop31-talks-expose-global-divisions",
+      "published_date": "2026-11-13T18:39:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'We have done all our homework' to get EU candidate status: Kosovo's PM Albin Kurti",
       "source": "France 24",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Huang powers and bankrolls AI revolution: Nvidia CEO caught between 'a rock and a very hard place'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261112-he-powers-and-bankrolls-ai-revolution-nvidia-ceo-huang-caught-between-rock-and-a-very-hard-place-1",
-      "published_date": "2026-11-12T14:11:34+00:00",
-      "category": "Diplomacy"
+      "title": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line",
+      "published_date": "2026-11-14T02:06:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Travellers accused of overstaying EU's 90-day rule after being caught in EES chaos",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261112/travellers-accused-of-overstaying-eus-90-day-rule-after-being-caught-up-in-ees-chaos",
-      "published_date": "2026-11-12T12:02:21+00:00",
-      "category": "Diplomacy"
+      "title": "Turkey and Qatar pledge unified stance against attacks in mutual defence pact",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact",
+      "published_date": "2026-11-13T20:06:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261113-the-downfall-of-ai-s-rock-star-boss-ukraine-who-speak-for-europe-protests-presidents",
+      "published_date": "2026-11-13T19:46:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hurry up and wait: Europe wants a place at the table, ‘must make up its mind’ over Ukraine",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261113-hurry-up-and-wait-europe-wants-a-place-at-the-table-must-make-up-its-mind-over-ukraine",
+      "published_date": "2026-11-13T19:03:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What we know about China's military exercises around Taiwan",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan",
+      "published_date": "2026-11-13T18:19:19+00:00",
+      "category": "Military"
     },
     {
       "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
@@ -246,41 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
       "published_date": "2026-11-13T11:24:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies",
-      "published_date": "2026-11-13T09:26:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Live: Zelensky and Kushner confirm that Europe will join next round of Russia-Ukraine talks",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks",
-      "published_date": "2026-11-13T01:39:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20261112-russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says",
-      "published_date": "2026-11-12T22:19:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says",
-      "published_date": "2026-11-12T22:12:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pork fat, a heating pad and a five-storey jump: how a 74-year-old escaped house arrest in Argentina",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/12/leonardo-bertulazzi-escape-argentina",
-      "published_date": "2026-11-12T19:52:16+00:00",
       "category": "Military"
     },
     {
@@ -407,13 +407,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
       "published_date": "2026-11-07T13:03:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Kenyan cult leader sentenced to 200 years in prison",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
-      "published_date": "2026-11-06T21:23:53+00:00",
       "category": "Energy"
     },
     {
@@ -557,6 +550,20 @@
       "category": "Economy"
     },
     {
+      "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+      "published_date": "2026-11-13T22:12:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gambia's Adama Barrow seeks third term",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term",
+      "published_date": "2026-11-13T21:46:32+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany",
@@ -680,20 +687,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/video/20261112-france-five-men-on-trial-for-murder-of-anti-drug-activist-amine-kessaci-s-brother",
       "published_date": "2026-11-12T14:20:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Like priests who don’t believe in God’: Italy’s anti-vax medics eye return to frontline duty",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/12/italy-anti-vax-medics-return-vote-meloni",
-      "published_date": "2026-11-12T10:20:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National stadium to host France match on Paris attack anniversary",
-      "source": "The Local France",
-      "url": "https://www.thelocal.fr/20261112/national-stadium-to-host-france-match-on-paris-attack-anniversary",
-      "published_date": "2026-11-12T08:13:41+00:00",
       "category": "Local Events"
     }
   ]
